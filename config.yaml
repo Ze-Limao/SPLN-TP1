@@ -1,0 +1,31 @@
+fields:
+  - name: ID
+    label: "ID da Unidade"
+  - name: UnitTitle
+    label: "Título da Unidade"
+  - name: UnitDateInitial
+    label: "Data Inicial da Unidade"
+  - name: UnitDateFinal
+    label: "Data Final da Unidade"    
+  - name: UnitDatePeriod
+    label: "Data"
+  - name: ScopeContent
+    label: "Descrição do Conteúdo"
+  - name: Repository
+    label: "Repositório"
+  - name: Barcode
+    label: "Código de Barras"
+  - name: PhysLoc
+    label: "Localização Física"
+  - name: LangMaterial
+    label: "Material de Linguagem"
+  - name: Dimensions
+    label: "Dimensões"
+  - name: UseRestrict
+    label: "Restrição de Uso"
+  - name: AccessRestrict
+    label: "Restrição de Acesso"
+  - name: IdentifierUrl
+    label: "URL do Identificador"
+  - name: OtherFindAid
+    label: "Outros Meios de Busca"
