@@ -90,3 +90,12 @@ DocumentalTradition: Cópia
 ####
 - ns1:Parent
 - ns1:RootParent
+
+
+## (Notas adicionais):
+#### ResumptionTokens
+Os resumptionTokens são uma funcionalidade do protocolo OAI-PMH usada para paginar resultados quando sefaz harvesting de grandes conjuntos de metadados.
+Quando pedes muitos registos de uma só vez, o servidor pode não te enviar todos de uma vez. Em vez disso, ele devolve:
+    Um conjunto parcial dos resultados.
+    Um resumptionToken — que é uma espécie de "marcador de posição".
+
