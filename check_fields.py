@@ -16,8 +16,10 @@ def verificar_campos_constantes(xml_file):
             campos[tag].add(value)
 
     print("Campos encontrados:")
-    for tag, values in campos.items():
-        print(f"{tag}: {values.pop()}")
-
-xml_file = 'oai_records_aif_fm.xml'
+    #for tag, values in campos.items():
+    #   print(f"{tag}: {values.pop()}")
+    for tag in campos.keys():
+        print(tag)
+        
+xml_file = "./oai_records_aif/oai_records_aif_fm.xml"
 verificar_campos_constantes(xml_file)
