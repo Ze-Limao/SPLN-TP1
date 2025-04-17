@@ -1,0 +1,18 @@
+====== 47454 - DC - Registo do recenseamento eleitoral de João António de Araújo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João António de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Lavrador
+Estado - Casado
+Morada - Venda
+Idade - 65
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47454
+**LangMaterial**:: Português
+**PhysLoc**:: 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47454

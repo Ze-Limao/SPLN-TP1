@@ -1,0 +1,17 @@
+====== 60438 - DC - Recibos de contribuição e registo por título gratuito, que a Exma D. Ana de Freitas teve que pagar pela pela herança que obteve do Exmo Diogo de Freitas de Melo e Castro ======
+
+**Parent**:: 31395
+**RootParent**:: 31258
+**UnitTitle**:: Recibos de contribuição e registo por título gratuito, que a Exma D. Ana de Freitas teve que pagar pela pela herança que obteve do Exmo Diogo de Freitas de Melo e Castro
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1894
+**UnitDateFinal**:: 1894
+**ScopeContent**:: Maço com 15 recibos. Diogo de Freitas de Melo e Castro morreu em Braga a 2-4-1878, irmão de Ana Elvira e Eulália Estelita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54474
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13693 -  cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60438

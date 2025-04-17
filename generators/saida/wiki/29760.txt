@@ -1,0 +1,17 @@
+====== 29760 - DC - Carta ======
+
+**Parent**:: 21300
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933-08-30
+**UnitDateFinal**:: 1933-08-30
+**ScopeContent**:: António Augusto Fiúza de Melo pede a JAM que lhe devolva o auto ou processo de autópsia de Camilo Castelo Branco para emprestar a outra pessoa.
+Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29760
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1169 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29760

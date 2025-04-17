@@ -1,0 +1,16 @@
+====== 30293 - DC - Carta ======
+
+**Parent**:: 21453
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-03-12
+**UnitDateFinal**:: 1918-03-12
+**ScopeContent**:: Jorge Colaço agradece o convite da Comissão promotora da homenagem póstuma ao grande escritor Camilo Castelo Branco, assinado por JAM de 28 fevereiro de 1916. Coloca questões sobre a dimensão do retrato de Camilo nos azulejos. Carta manuscrita e assinada, de Rua Conde de Óbidos, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30293
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1452 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30293

@@ -1,0 +1,17 @@
+====== 55420 - DC - Cópias de cartas e telegramas sobre a investigação sobre uma arma Mauser apreendida em Lisboa ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Cópias de cartas e telegramas sobre a investigação sobre uma arma Mauser apreendida em Lisboa
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1908-08-08
+**UnitDateFinal**:: 1913-10-10
+**ScopeContent**:: Maço que contém 6 documentos: cópias de cartas e telegramas manuscritos e datilografados e recorte do Diário do Governo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55420
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12770 (1) a (6) - cx. 77
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55420

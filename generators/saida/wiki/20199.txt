@@ -1,0 +1,15 @@
+====== 20199 - SR - Matrícula das toleradas ======
+
+**Parent**:: 20198
+**RootParent**:: 20048
+**UnitTitle**:: Matrícula das toleradas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1906-05-05
+**UnitDateFinal**:: 1924-06-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20199
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20199
+
+===== Filhos =====
+  * [[20200.txt|20200 - UI - Matrícula das toleradas]]

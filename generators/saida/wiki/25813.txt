@@ -1,0 +1,16 @@
+====== 25813 - DC - O Incêndio no Guedes: apontamentos de meu irmão Vasco Cesar de Carvalho sobre o chamado incêndio do Guedes em 3 de Março de 1890, antes da fundação dos Bombeiros V. de Famalicão que foi a 6 de Maio de 1890 (Hilário Carvalho) ======
+
+**Parent**:: 25084
+**RootParent**:: 20342
+**UnitTitle**:: O Incêndio no Guedes: apontamentos de meu irmão Vasco Cesar de Carvalho sobre o chamado incêndio do Guedes em 3 de Março de 1890, antes da fundação dos Bombeiros V. de Famalicão que foi a 6 de Maio de 1890 (Hilário Carvalho)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1965-04-08
+**UnitDateFinal**:: 1965-04-08
+**ScopeContent**:: Vários documentos: recortes de imprensa, cartas, apontamentos manuscritos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25813
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 182 - cx. 46
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25813

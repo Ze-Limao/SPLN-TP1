@@ -1,0 +1,16 @@
+====== 30234 - DC - Carta ======
+
+**Parent**:: 21400
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-07-11
+**UnitDateFinal**:: 1914-07-11
+**ScopeContent**:: Francisco Mesquita informa sobre o seguro para a Casa de Camilo. Envia a conta das telhas e despesas das obras da casa do escritor. Carta manuscrita e assinada, de Vila Nova de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30234
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1367 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30234

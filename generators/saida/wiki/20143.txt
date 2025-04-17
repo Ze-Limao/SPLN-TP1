@@ -1,0 +1,15 @@
+====== 20143 - UI - Registo da correspondência recebida ======
+
+**Parent**:: 20133
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-10-29
+**UnitDateFinal**:: 1910-11-08
+**ScopeContent**:: Não tem termo de abertura. Do ofício nº301/1908 ao nº 369/1910. Contém dados:  nº ordem ofício, data do ofício, data de entrada, designação da autoridade, extracto do seu conteúdo, expediente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20143
+**LangMaterial**:: Português
+**PhysLoc**:: AC 12
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20143

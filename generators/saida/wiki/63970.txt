@@ -1,0 +1,15 @@
+====== 63970 - UI - Certidão do tombo da igreja de S.Tiago de Antas ======
+
+**Parent**:: 60730
+**RootParent**:: 60536
+**UnitTitle**:: Certidão do tombo da igreja de S.Tiago de Antas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1795-10-28
+**UnitDateFinal**:: 1795-10-28
+**ScopeContent**:: Manuscrito, certidão autêntica do manuscrito de 1555, setembro, 20, Braga . Encadernado a pele. Título na primeira folha "Treslado do tombo da Igreja...". Na capa título a lápis "Certidão autentica do tombo...". Esta cópia da pública forma do Tombo de 1555 (CSTA 58), foi tirada a pedido do Abade Luís de Moura e mendonça, "Fidalgo da Caza de Sua Magestade e Abbade da Igreja de Santiago Dantas". no tempo de D. Frei Caetano Brandão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 221 - cx. 15
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63970

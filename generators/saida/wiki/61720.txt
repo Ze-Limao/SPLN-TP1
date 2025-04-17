@@ -1,0 +1,19 @@
+====== 61720 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Manuel José Correia e Joana Maria, ele na freguesia e ela falecida
+Naturalidade - Ruivães
+Morada - Landim
+Data de nascimento - 1861-12-14
+Emprego - Criado de servir
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61720

@@ -1,0 +1,16 @@
+====== 27982 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Joaquim Gaspar da Câmara Manuel. ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Manuscrito com juramento de admissão à Sociedade do Raio de Joaquim Gaspar da Câmara Manuel.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-12-17
+**UnitDateFinal**:: 1862-12-17
+**ScopeContent**:: Antero de Quental assina na qualidade de delegado da Sociedade do Raio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27982
+**LangMaterial**:: Português
+**PhysLoc**:: AS 249 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27982

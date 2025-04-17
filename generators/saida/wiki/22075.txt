@@ -1,0 +1,16 @@
+====== 22075 - DC - Registo do recenseamento eleitoral de Bento de Castro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Bento de Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Cavalões
+Profissão - Lavrador
+Morada - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22075
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22075

@@ -1,0 +1,16 @@
+====== 30328 - DC - Árvore genealógica da descendência dos Côrreas de Faulães ======
+
+**Parent**:: 20336
+**RootParent**:: 20290
+**UnitTitle**:: Árvore genealógica da descendência dos Côrreas de Faulães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Apontamentos manuscritos da investigação efetuada por António Ferraz sobre a descendência de D. Payo Soares Corrêa o velho, senhor da honra de Faulães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30328
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1509 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30328

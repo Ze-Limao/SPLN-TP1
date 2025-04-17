@@ -1,0 +1,16 @@
+====== 28170 - DC - Observações às vides de sobremesa plantadas no terreiro de dentro − Abril 1899 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Observações às vides de sobremesa plantadas no terreiro de dentro − Abril 1899
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-04
+**UnitDateFinal**:: 1899-04
+**ScopeContent**:: Listagem das castas de videiras plantadas no «Terreiro de dentro» em Abril de 1899.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28170
+**LangMaterial**:: Português
+**PhysLoc**:: AS 442 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28170

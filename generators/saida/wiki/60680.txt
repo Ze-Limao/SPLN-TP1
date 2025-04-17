@@ -1,0 +1,14 @@
+====== 60680 - SR - Registo das conciliações ======
+
+**Parent**:: 60543
+**RootParent**:: 60543
+**UnitTitle**:: Registo das conciliações
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1835-01-09
+**UnitDateFinal**:: 1836-01-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60675
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60680
+
+===== Filhos =====
+  * [[60681.txt|60681 - DC - Livro de Conciliaçoens para a Freguezia de Ruivaens para o Anno de 1834 pª o de 1835]]

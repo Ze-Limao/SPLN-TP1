@@ -1,0 +1,19 @@
+====== 33938 - DC - Registo do recenseamento militar de António Ferreira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Aves
+Data de nascimento - 1852-03-22
+Filiação - Manuel José Ferreira e Catarina Maria da Costa
+Profissão - 
+Estado - 
+Morada - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33938
+**LangMaterial**:: Português
+**PhysLoc**:: 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33938

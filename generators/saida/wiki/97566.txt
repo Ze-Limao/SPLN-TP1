@@ -1,0 +1,15 @@
+====== 97566 - UI - Processo nº 112-A ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 112-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-11-16
+**UnitDateFinal**:: 1976-10-01
+**ScopeContent**:: Junto com Autos de Acção de Processo Comum (Ordinário) nº 41, Autos de Execução por Custas nº 41-A e 112-I, Autos e Acção de Processo Comum Sumário nº 37, 38, 39 e 40 e Autos de Providência Cautelar -Arresto nº 48.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 388 - cx. 23
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97566

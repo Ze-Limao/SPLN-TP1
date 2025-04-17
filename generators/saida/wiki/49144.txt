@@ -1,0 +1,18 @@
+====== 49144 - DC - Registo do recenseamento eleitoral de Mateus José da Silva Soares ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Mateus José da Silva Soares
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Riba de Ave
+Profissão - Tecelão
+Estado - Casado
+Morada - Penedo
+Idade - 42
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49144
+**LangMaterial**:: Português
+**PhysLoc**:: 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49144

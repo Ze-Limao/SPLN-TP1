@@ -1,0 +1,18 @@
+====== 48782 - DC - Registo do recenseamento eleitoral de José Gonçalves Cerejeira Júnior ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Gonçalves Cerejeira Júnior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Lousado
+Profissão - Carpinteiro
+Estado - Casado
+Morada - Serra
+Idade - 39
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48782
+**LangMaterial**:: Português
+**PhysLoc**:: 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48782

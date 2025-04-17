@@ -1,0 +1,16 @@
+====== 28799 - DC - Carta ======
+
+**Parent**:: 28796
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-11-22
+**UnitDateFinal**:: 1908-11-22
+**ScopeContent**:: Carta expedida da Casa do Outeiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28799
+**LangMaterial**:: Português
+**PhysLoc**:: AS 618 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28799

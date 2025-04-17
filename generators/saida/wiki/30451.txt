@@ -1,0 +1,16 @@
+====== 30451 - DC - Registo do recenseamento eleitoral de José Joaquim Gomes Pereira Rios ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Joaquim Gomes Pereira Rios
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Lavrador
+Morada - Lage
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30451
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30451

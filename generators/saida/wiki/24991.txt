@@ -1,0 +1,15 @@
+====== 24991 - UI - Livro nº2 Actas da Direcção ======
+
+**Parent**:: 20398
+**RootParent**:: 20342
+**UnitTitle**:: Livro nº2 Actas da Direcção
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-01-01
+**UnitDateFinal**:: 1924-11-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24991
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 95
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24991

@@ -1,0 +1,16 @@
+====== 23533 - DC - Registo do recenseamento eleitoral de António da Costa Coelho ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António da Costa Coelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vale S. Cosme
+Profissão - Lavrador
+Morada - S. Gião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23533
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 76v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23533

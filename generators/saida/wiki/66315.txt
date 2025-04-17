@@ -1,0 +1,15 @@
+====== 66315 - DC - Diz o reverendo Domingos Dias Correia Fanha Paróco encomendado na Igreja da freguesia de S. Tiago de Antas que entre os diversos foros que à mesma igreja se pagam se compreende o foro de... Casas e Eido, na freguesia de Esmeriz, e que lhe são obrigados a pagar os possuidores do mesmo hoje Hilário da Costa e Sá, único herdeiro…, deixando de pagar o mencionado foro vencido em S. Miguel de 1866 ======
+
+**Parent**:: 63952
+**RootParent**:: 60536
+**UnitTitle**:: Diz o reverendo Domingos Dias Correia Fanha Paróco encomendado na Igreja da freguesia de S. Tiago de Antas que entre os diversos foros que à mesma igreja se pagam se compreende o foro de... Casas e Eido, na freguesia de Esmeriz, e que lhe são obrigados a pagar os possuidores do mesmo hoje Hilário da Costa e Sá, único herdeiro…, deixando de pagar o mencionado foro vencido em S. Miguel de 1866
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-06-15
+**UnitDateFinal**:: 1867-06-15
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas e seladas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 441 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66315

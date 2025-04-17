@@ -1,0 +1,18 @@
+====== 21207 - UI - José Maria Braga da Cruz ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Maria Braga da Cruz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-01-26
+**UnitDateFinal**:: 1925-08-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21207
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 814, 815, 816
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21207
+
+===== Filhos =====
+  * [[26020.txt|26020 - DC - Carta]]
+  * [[26021.txt|26021 - DC - Cartão de visita]]
+  * [[26022.txt|26022 - DC - Carta]]

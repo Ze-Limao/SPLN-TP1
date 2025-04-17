@@ -1,0 +1,15 @@
+====== 60662 - SR - Correspondência expedida ======
+
+**Parent**:: 60630
+**RootParent**:: 60540
+**UnitTitle**:: Correspondência expedida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1881
+**UnitDateFinal**:: 1884
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20108
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60662
+
+===== Filhos =====
+  * [[60666.txt|60666 - DC - Livro de registo de correspondência expedida pela Junta Escolar]]

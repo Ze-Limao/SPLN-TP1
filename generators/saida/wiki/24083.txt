@@ -1,0 +1,16 @@
+====== 24083 - DC - Carta ======
+
+**Parent**:: 21060
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-04-12
+**UnitDateFinal**:: 1915-04-12
+**ScopeContent**:: António de Almeida Campos agradece a lembrança que lhe foi enviada. Carta manuscrita assinada, Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24083
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 103 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24083

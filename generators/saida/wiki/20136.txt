@@ -1,0 +1,15 @@
+====== 20136 - UI - Livro de entrada de correspondência ======
+
+**Parent**:: 20133
+**RootParent**:: 20048
+**UnitTitle**:: Livro de entrada de correspondência
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1887-01-03
+**UnitDateFinal**:: 1889-05-01
+**ScopeContent**:: Não tem termo de abertura. Contém dados: nº ofício, data da correspondência, autoridade por quem foi expedido, extracto do conteúdo, data da receção, expediente e observações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20136
+**LangMaterial**:: Português
+**PhysLoc**:: AC 2
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20136

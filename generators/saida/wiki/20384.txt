@@ -1,0 +1,16 @@
+====== 20384 - SSC - Exercícios de simulacros de incêndio ======
+
+**Parent**:: 20375
+**RootParent**:: 20342
+**UnitTitle**:: Exercícios de simulacros de incêndio
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1940-04-21
+**UnitDateFinal**:: 1940-04-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20384
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20384
+
+===== Filhos =====
+  * [[25073.txt|25073 - UI - Exercício de Barcelos, Braga e Póvoa; Incêndio de Cancelas]]

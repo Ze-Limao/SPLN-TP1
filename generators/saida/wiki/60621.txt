@@ -1,0 +1,16 @@
+====== 60621 - UI - Júlia Maria das Neves Braamcamp de Almeida Castelo-Branco ? ======
+
+**Parent**:: 60620
+**RootParent**:: 31258
+**UnitTitle**:: Júlia Maria das Neves Braamcamp de Almeida Castelo-Branco ?
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1872
+**UnitDateFinal**:: 1923
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32464
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60621
+
+===== Filhos =====
+  * [[60622.txt|60622 - DC - Carta]]
+  * [[60623.txt|60623 - DC - Carta]]
+  * [[60624.txt|60624 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 25377 - DC - Carta ======
+
+**Parent**:: 21106
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-07-22
+**UnitDateFinal**:: 1913-07-22
+**ScopeContent**:: Carta datilografada assinada Duarte Huet de Bacelar.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25377
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 357 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25377

@@ -1,0 +1,16 @@
+====== 21659 - DC - Registo do recenseamento eleitoral de Manuel Martins Moreira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Martins Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Lavrador
+Morada - Vale
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21659
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21659

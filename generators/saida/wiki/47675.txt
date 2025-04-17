@@ -1,0 +1,18 @@
+====== 47675 - DC - Registo do recenseamento eleitoral de José Moreira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Calendário
+Profissão - Lavrador
+Estado - Casado
+Morada - Magida
+Idade - 45
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47675
+**LangMaterial**:: Português
+**PhysLoc**:: 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47675

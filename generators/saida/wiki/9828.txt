@@ -1,0 +1,18 @@
+====== 9828 - SR - Foto Correia ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Foto Correia
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1940
+**UnitDateFinal**:: 1950
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9828
+
+===== Filhos =====
+  * [[60793.txt|60793 - DC - V.N. de Famalicão - Campo Mouzinho de Albuquerque]]
+  * [[9829.txt|9829 - DC - Famalicão - Feira Semanal]]
+  * [[9830.txt|9830 - DC - Mercearia A. de Sousa Lopes]]
+  * [[9831.txt|9831 - DC - Paços do Concelho]]

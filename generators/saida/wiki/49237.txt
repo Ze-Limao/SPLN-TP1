@@ -1,0 +1,18 @@
+====== 49237 - DC - Registo do recenseamento eleitoral de António José de Araújo Montenegro ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José de Araújo Montenegro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Proprietário
+Estado - Casado
+Morada - Fonte
+Idade - 60
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49237
+**LangMaterial**:: Português
+**PhysLoc**:: 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49237

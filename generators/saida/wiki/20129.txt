@@ -1,0 +1,15 @@
+====== 20129 - UI - Copiador da correspondência expedida ======
+
+**Parent**:: 20123
+**RootParent**:: 20048
+**UnitTitle**:: Copiador da correspondência expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1922-08-12
+**UnitDateFinal**:: 1923-06-19
+**ScopeContent**:: Não tem termo de abertura. Copiador de ofícios nº 513/1922 a nº 244/1924.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20129
+**LangMaterial**:: Português
+**PhysLoc**:: AC 64
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20129

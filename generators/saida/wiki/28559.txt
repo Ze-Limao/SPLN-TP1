@@ -1,0 +1,16 @@
+====== 28559 - DC - Álvaro de Caminha, que teve em 1493 a Capitania de S. Tomé ======
+
+**Parent**:: 28555
+**RootParent**:: 27963
+**UnitTitle**:: Álvaro de Caminha, que teve em 1493 a Capitania de S. Tomé
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Referência bibliográfica: Colecção de Notícias para a História e Geografia das Nações Ultramarinas que vivem nos domínios portugueses publicada pela Academia Real das Ciências.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28559
+**LangMaterial**:: Português
+**PhysLoc**:: AS 98 (4) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28559

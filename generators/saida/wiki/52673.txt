@@ -1,0 +1,16 @@
+====== 52673 - DC - Registo do recenseamento militar de António da Silva ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1849-01-05
+Filiação - Francisco Ferreira da Silva e Maria Florinda
+Naturalidade - Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52673
+**LangMaterial**:: Português
+**PhysLoc**:: 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52673

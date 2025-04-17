@@ -1,0 +1,17 @@
+====== 21241 - UI - Maria Justina da Cruz Almada Saldanha ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Maria Justina da Cruz Almada Saldanha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-09-12
+**UnitDateFinal**:: 1913-09-12
+**ScopeContent**:: Maria Justina da Cruz Almada Saldanha era neta de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21241
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 966
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21241
+
+===== Filhos =====
+  * [[26170.txt|26170 - DC - Carta]]

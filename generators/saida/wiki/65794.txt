@@ -1,0 +1,15 @@
+====== 65794 - DC - Sentença cível de emprazamento do casal de Vila Nova, situado na freguesia de Vila Nova de Famalicão, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, Fernando Peixoto do Amaral Freitas e a sua mulher Maria da Rosa Correia da Silva ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal de Vila Nova, situado na freguesia de Vila Nova de Famalicão, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, Fernando Peixoto do Amaral Freitas e a sua mulher Maria da Rosa Correia da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1790-01-23
+**UnitDateFinal**:: 1790-01-27
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. Data de 1790-01-27 do Registo Geral no livro dos Prazos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 215 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65794

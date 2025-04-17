@@ -1,0 +1,16 @@
+====== 29721 - DC - Carta ======
+
+**Parent**:: 21281
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-07-08
+**UnitDateFinal**:: 1907-07-08
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29721
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1130 -  cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29721

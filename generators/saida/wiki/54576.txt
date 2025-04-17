@@ -1,0 +1,15 @@
+====== 54576 - UI - Carlos I, Rei de Portugal ======
+
+**Parent**:: 31357
+**RootParent**:: 31258
+**UnitTitle**:: Carlos I, Rei de Portugal
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1905-11
+**UnitDateFinal**:: 1906-07-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54576
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54576
+
+===== Filhos =====
+  * [[54577.txt|54577 - DC - Telegrama]]
+  * [[58280.txt|58280 - DC - Cartão]]

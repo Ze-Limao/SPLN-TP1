@@ -1,0 +1,16 @@
+====== 22481 - DC - Registo do recenseamento eleitoral de Joaquim Gomes Marinho ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Gomes Marinho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Jesufrei
+Profissão - Eclesiástico
+Morada - Paço
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22481
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22481

@@ -1,0 +1,15 @@
+====== 66100 - DC - Escritura de compra que fez João Costa e sua mulher, do lugar da freguesia de S. Tiago de Antas, a Luís Gomes dos Santos e sua mulher Mariana, da vila da mesma freguesia ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra que fez João Costa e sua mulher, do lugar da freguesia de S. Tiago de Antas, a Luís Gomes dos Santos e sua mulher Mariana, da vila da mesma freguesia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1770-03-11
+**UnitDateFinal**:: 1770-03-11
+**ScopeContent**:: Manuscrito, original, folhas cosidas, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 301 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66100

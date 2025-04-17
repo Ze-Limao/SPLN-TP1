@@ -1,0 +1,18 @@
+====== 51088 - DC - Registo do recenseamento militar de Júlio César ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Júlio César
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1844-01-09
+Filiação - Cosme José da Silva e Maria Joaquina da Silva
+Naturalidade - Vila Nova de Famalicão
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51088
+**LangMaterial**:: Português
+**PhysLoc**:: 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51088

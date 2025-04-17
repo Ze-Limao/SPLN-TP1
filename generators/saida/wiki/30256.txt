@@ -1,0 +1,16 @@
+====== 30256 - DC - Carta ======
+
+**Parent**:: 21423
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-01-03
+**UnitDateFinal**:: 1910-01-03
+**ScopeContent**:: Carta manuscrita e assinada, de Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30256
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1402 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30256

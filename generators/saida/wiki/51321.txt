@@ -1,0 +1,16 @@
+====== 51321 - DC - Registo do recenseamento militar de António Joaquim ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-02-14
+Filiação - Joaquim da Silva Monteiro e Vicência Rosa
+Naturalidade - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51321
+**LangMaterial**:: Português
+**PhysLoc**:: 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51321

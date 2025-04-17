@@ -1,0 +1,15 @@
+====== 66098 - DC - Certidão de arrendamento do benefício simples a Manuel Francisco de Mesquita, morador na freguesia de S. Tiago de Antas da vila de Barcelos, e Francisco José, morador na rua de trás do Convento de Nossa Senhora do Carmo, da cidade de Braga ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Certidão de arrendamento do benefício simples a Manuel Francisco de Mesquita, morador na freguesia de S. Tiago de Antas da vila de Barcelos, e Francisco José, morador na rua de trás do Convento de Nossa Senhora do Carmo, da cidade de Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1774-08-10
+**UnitDateFinal**:: 1775-06-14
+**ScopeContent**:: Manuscrito, original, folhas cosidas, sem capa. Luís de Araújo Azevedo o tabelião geral de notas de Braga,…jurisdição da Mitra Primaz, tirou certidão do  próprio livro…em 1775-06-14.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 300 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66098

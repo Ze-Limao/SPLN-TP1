@@ -1,0 +1,29 @@
+====== 60211 - DC - Copia da Mensagem de felicitações a D. Manuel II, por ocasião do seu aniversário natalicio, pelos estudantes monarchicos do Liceu Nacional Central de Braga ======
+
+**Parent**:: 60210
+**RootParent**:: 31258
+**UnitTitle**:: Copia da Mensagem de felicitações a D. Manuel II, por ocasião do seu aniversário natalicio, pelos estudantes monarchicos do Liceu Nacional Central de Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-11-09
+**UnitDateFinal**:: 1910-11-09
+**ScopeContent**:: Folha manuscrita. Os estudantes do Liceu de Nacional e Central de Braga festejaram o aniversário de D. Manuel II que se encontrava no exílio, a 9 de Novembro de 1910, cinco semanas sobre a implantação da República. Os estudantes enviaram mensagem uma D. Manuel, copiada e distribuída pela cidade.
+Cópia do documento:
+«Senhor:
+Proscrito da Pátria mas não do coração dos portugueses amigos do seu Rei.
+E porque o coração não Vos esquece, e porque a nossa veneração e o nosso respeito, são ainda os mesmos que Vos tributávamos quando presidíeis aos destinos desta infeliz Pátria, levantamos ao céu fervorosa prece no dia do Vosso solene aniversário, pedindo à providência divina a graça da conservação da vossa preciosa vida.
+Mesmo de longe desta Pátria, traída e escarnecida, que por Vós ainda hoje chora lágrimas mais amargas que as Vossas do exílio, enviamos-Vos as nossas sinceras saudações, esperando ansiosos o dia em que um rasgo de heroísmo Vos restitua o Trono que tanto iluminaste com a Vossa reconhecida bondade.
+Senhor! Nós, académicos do Liceu de Braga, portugueses e crentes, esperamos novos dias para a nossa e Vossa Pátria, porque confiamos no alvorecer duma aurora que traga às nossas almas as fagueiras alegrias do passado.
+Somos ainda com o Rei e pelo Rei.
+Não esmoreça pois a Vossa, que em nós ainda não feneceu, esperança de Vos vermos de novo assente no Trono português.
+Viva D. Manuel II, Rei de Portugal e dos Algarves».
+
+Esse documento tem nota manuscrita:
+«Por termos, nós estudantes do liceu de Braga, enviado esta mensagem, fomos chamados ao governo civil, afim de prestar declarações. Declarámos que enviámos esta mensagem por nosso livre e firme propósito e assinámos os nossos nomes que ficaram arquivados no governo civil. No dia 1 de Dezembro os estudantes republicanos fizeram um protesto contra o facto de termos saudado Sua Magestade, ao qual protesto respondemos com um contra-protesto que igualmente ficam guardados com isto».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56777
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8968- cx. 55
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60211

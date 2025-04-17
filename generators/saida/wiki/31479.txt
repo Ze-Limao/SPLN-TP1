@@ -1,0 +1,17 @@
+====== 31479 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 52599
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-08-04
+**UnitDateFinal**:: 1891-08-04
+**ScopeContent**:: Minuta de carta manuscrita assinada. Resposta à carta CP 8335.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31479
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8332 - cx. 51
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31479

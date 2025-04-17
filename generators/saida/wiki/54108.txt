@@ -1,0 +1,30 @@
+====== 54108 - DC - Concurso público para a construção do edifício para Paços do Concelho, serviços municipais, secção de Finanças e tesouraria da fazenda Pública e do corpo destinado a Tribunal Judicial e mais serviços da Justiça e urbanização da Praça da República 1956 ======
+
+**Parent**:: 54196
+**RootParent**:: 25851
+**UnitTitle**:: Concurso público para a construção do edifício para Paços do Concelho, serviços municipais, secção de Finanças e tesouraria da fazenda Pública e do corpo destinado a Tribunal Judicial e mais serviços da Justiça e urbanização da Praça da República 1956
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1956-04-12
+**UnitDateFinal**:: 1956-04-21
+**ScopeContent**:: Contém JG 171(2) a (13).  JG 171(1) e JG 171(12) - cx. 16 e JG 171(2) a (11) - cx. 6.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54108
+**LangMaterial**:: Português
+**PhysLoc**:: JG 171(1) e (12) - cx. 16 e JG 171(2) a (11) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54108
+
+===== Filhos =====
+  * [[54120.txt|54120 - DC - Certidão de afixação do Edital Concurso Público Construção do Edifício para Paços de Concelho, etc.]]
+  * [[54121.txt|54121 - DC - Edital Concurso Público Construção do Edifício para Paços de Concelho, etc.]]
+  * [[54122.txt|54122 - DC - Edital concurso público Construção do Edifício para Paços de Concelho, etc.]]
+  * [[54123.txt|54123 - DC - Diário do Governo, III Série - nº 95]]
+  * [[54124.txt|54124 - DC - O Século, ano 76, nº 26592]]
+  * [[54125.txt|54125 - DC - Jornal de Famalicão, ano VIII, nº368]]
+  * [[54126.txt|54126 - DC - Estrela do Minho, ano 61, nº3146]]
+  * [[54127.txt|54127 - DC - Notícias de Famalicão, ano II (XXI), nº60 (757)]]
+  * [[54128.txt|54128 - DC - Diário de Notícias, ano 92, nº 32379]]
+  * [[54129.txt|54129 - DC - O Comércio do Porto, ano CII, nº104]]
+  * [[54130.txt|54130 - DC - Correio do Minho, ano 29, nº9110]]

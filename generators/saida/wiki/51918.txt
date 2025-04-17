@@ -1,0 +1,18 @@
+====== 51918 - DC - Registo do recenseamento militar de Aurélio ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Aurélio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-07-08
+Filiação - Joaquim Carvalho de Sá e Joana da Costa Araújo
+Naturalidade - Esmeriz
+Profissão - Lavrador
+Residência - Esmeriz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51918
+**LangMaterial**:: Português
+**PhysLoc**:: 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51918

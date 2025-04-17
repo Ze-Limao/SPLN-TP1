@@ -1,0 +1,17 @@
+====== 28565 - DC - Alv. para o Almoxarife ou Recebedor do Almoxarifado d’Aveiro ======
+
+**Parent**:: 28563
+**RootParent**:: 27963
+**UnitTitle**:: Alv. para o Almoxarife ou Recebedor do Almoxarifado d’Aveiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Carta de Lopo Carvalho ao rei D. Manuel I a propósito da contratação de artífices para a construção de galés-
+«Em todo o caso, e porventura mau grado seu [rei D. Manuel I], os navios de guerra construíam-se também no Porto; e aqui, em Viana e Aveiro, as embarcações mercantes. Em 1512, mandou-se pagar a Lopo Roiz de Aveiro, por conta da importância total da nau de 250 tonéis que ele se obrigara a fazer nesta vila. […] / A falta de construtores em Lisboa explica a conservação da indústria nos portos do norte: uma vez que lá não se podiam aviar todas as construções, não era possível destruir os estaleiros da província. Tal era a falta de operários hábeis, que em 1513 Lopo de Carvalho contratou em Saiona carpinteiros, comitos e sota comitos para fazer galés.». Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, p. 412.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28565
+**LangMaterial**:: Português
+**PhysLoc**:: AS 99 (1) verso - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28565

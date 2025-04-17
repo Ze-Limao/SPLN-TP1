@@ -1,0 +1,16 @@
+====== 23125 - DC - Registo do recenseamento eleitoral de João Manuel Lopes ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Manuel Lopes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Requião
+Profissão - Jornaleiro
+Morada - Ninães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23125
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 62v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23125

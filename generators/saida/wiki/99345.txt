@@ -1,0 +1,16 @@
+====== 99345 - UI - Pinto da Costa & Cª. esportadores de vinhos ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Pinto da Costa & Cª. esportadores de vinhos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-06-12
+**UnitDateFinal**:: 1916-02-14
+**ScopeContent**:: Vila Nova de Gaia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99345
+
+===== Filhos =====
+  * [[99346.txt|99346 - DC - Carta]]
+  * [[99459.txt|99459 - DC - Bilhete-postal]]

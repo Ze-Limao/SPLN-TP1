@@ -1,0 +1,17 @@
+====== 25434 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-08-26
+**UnitDateFinal**:: 1914-08-26
+**ScopeContent**:: Eugénio de Castro informa que gostaria de visitar a casa de Seide e que desejava ir acompanhado de Joaquim Costa redator do Primeiro de Janeiro.
+Carta manuscrita assinada, de Carregosa, Oliveira de Azeméis.Tem o brasão timbrado a vermelho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25434
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 413 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25434

@@ -1,0 +1,15 @@
+====== 21005 - DC - Nº 2/963 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 2/963
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-02-13
+**UnitDateFinal**:: 1962-02-13
+**ScopeContent**:: Contrato para a execução do projeto de ampliação da zona desportiva, incluindo a constração de um pavilhão desportivo e de um campo de ténis
+Outorgante - Jorge Guimarães Gigante
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21005
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 85
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21005

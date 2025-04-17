@@ -1,0 +1,14 @@
+====== 21015 - DC - Contrato de concessão à Cooperativa Elétrica de S. Simão de Novais ======
+
+**Parent**:: 7705
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de concessão à Cooperativa Elétrica de S. Simão de Novais
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1947-05-01
+**UnitDateFinal**:: 1947-05-01
+**ScopeContent**:: Ampliação da rede de distribuição de energia elétrica, concedida por escritura de 1933-05-09, abrangendo a totalidade da área das freguesias de Carreira, Novais, Ruivães e Seide S. Miguel e os lugares de Pouco Siso, Santa Marinha, Lamela, Souto, Segures e Outeiro, da freguesia de Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21015
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 93
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21015

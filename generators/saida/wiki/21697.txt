@@ -1,0 +1,16 @@
+====== 21697 - DC - Registo do recenseamento eleitoral de Joaquim José Pimenta Machado ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim José Pimenta Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Aves
+Profissão - Lavrador
+Morada - Quintã
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21697
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21697

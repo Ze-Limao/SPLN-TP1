@@ -1,0 +1,16 @@
+====== 28573 - DC - D. João III  As Ciências Náuticas e as Artes de Construção ======
+
+**Parent**:: 28571
+**RootParent**:: 27963
+**UnitTitle**:: D. João III  As Ciências Náuticas e as Artes de Construção
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: «Os navios carregavam-se demasiadamente de fardos e passageiros; daí resultavam os naufrágios e as doenças que dizimavam as equipagens. Para se aumentar a carga, aumentou-se a tonelagem, não correspondendo a estas maiores dimensões a força e estabilidade dos cascos, o pano e mastreação.». Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, p. 420. Referência bibliográfica: Inácio da Costa Quintela - Annaes da Marinha Portugueza.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28573
+**LangMaterial**:: Português
+**PhysLoc**:: AS 100 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28573

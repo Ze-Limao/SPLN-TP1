@@ -1,0 +1,20 @@
+====== 20765 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-05-16
+**UnitDateFinal**:: 1890-05-16
+**ScopeContent**:: Freguesia - Ruivães
+Filiação - Manuel de Carvalho e Maria Joaquina
+Naturalidade - Ruivães
+Data de nascimento - 1869-08-03
+Emprego - Estudante
+Estado - Solteiro
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20765
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20765

@@ -1,0 +1,16 @@
+====== 61251 - DC - Daniel Rodrigues vestido com toga ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: Daniel Rodrigues vestido com toga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-06-11
+**UnitDateFinal**:: 1908-06-11
+**ScopeContent**:: Fotografia p&b. Photographia Guedes Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 137 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61251

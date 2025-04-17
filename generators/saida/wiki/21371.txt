@@ -1,0 +1,16 @@
+====== 21371 - UI - Damasceno Nunes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Damasceno Nunes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-10-27
+**UnitDateFinal**:: 1904-10-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21371
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1327
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21371
+
+===== Filhos =====
+  * [[30195.txt|30195 - DC - Carta]]

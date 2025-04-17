@@ -1,0 +1,16 @@
+====== 51666 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-09-03
+Filiação - António de Araújo e Maria Coelho
+Naturalidade - Nine
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51666
+**LangMaterial**:: Português
+**PhysLoc**:: 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51666

@@ -1,0 +1,16 @@
+====== 25058 - UI - Documentos diversos sobre viaturas e material para incêndios ======
+
+**Parent**:: 20377
+**RootParent**:: 20342
+**UnitTitle**:: Documentos diversos sobre viaturas e material para incêndios
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1935-10-10
+**UnitDateFinal**:: 1955-07
+**ScopeContent**:: Contém: Informações, panfletos, correspondência, 1 planta de viatura.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25058
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 157 - cx. 41
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25058

@@ -1,0 +1,16 @@
+====== 31330 - SC - João Afonso Simão Pinheiro Lobo de Figueira Machado e Margarida Helena Cardoso Martins de Meneses e suas irmãs Júlia Leonor Pinheiro Machado de Melo, Grácia Maria Eulália Pinheiro de Melo ======
+
+**Parent**:: 31258
+**RootParent**:: 31258
+**UnitTitle**:: João Afonso Simão Pinheiro Lobo de Figueira Machado e Margarida Helena Cardoso Martins de Meneses e suas irmãs Júlia Leonor Pinheiro Machado de Melo, Grácia Maria Eulália Pinheiro de Melo
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1815
+**UnitDateFinal**:: 1947
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31330
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31330
+
+===== Filhos =====
+  * [[31331.txt|31331 - SSC - João Afonso Simão Pinheiro Lobo de Figueira Machado]]
+  * [[31332.txt|31332 - SSC - Júlia Leonor Pinheiro Machado de Melo]]
+  * [[31333.txt|31333 - SSC - Grácia Maria Eulália Pinheiro de Melo]]

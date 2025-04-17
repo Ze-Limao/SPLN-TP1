@@ -1,0 +1,15 @@
+====== 64088 - DC - Fatura de Antiga Loja de Paramenteiro e Sirgueiro Francisco José Teixeira de Carvalho ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Fatura de Antiga Loja de Paramenteiro e Sirgueiro Francisco José Teixeira de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-03-05
+**UnitDateFinal**:: 1868-03-05
+**ScopeContent**:: Manuscrito e impresso, assinado com selo fiscal. Venda de opas e outro vestuário.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 405 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64088

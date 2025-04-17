@@ -1,0 +1,14 @@
+====== 28724 - UI - José António Maria de Sousa Azevedo ======
+
+**Parent**:: 28714
+**RootParent**:: 27963
+**UnitTitle**:: José António Maria de Sousa Azevedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-11-02
+**UnitDateFinal**:: 1908-11-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28724
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28724
+
+===== Filhos =====
+  * [[28725.txt|28725 - DC - Carta]]

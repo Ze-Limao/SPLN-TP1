@@ -1,0 +1,16 @@
+====== 25903 - DC - Retrato de conjunto do Corpo Activo de 1934 ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Retrato de conjunto do Corpo Activo de 1934
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934
+**UnitDateFinal**:: 1934
+**ScopeContent**:: Fotografia do corpo ativo, no exterior do quartel, com legenda - nomes dos elementos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25903
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25903

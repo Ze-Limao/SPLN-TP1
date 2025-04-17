@@ -1,0 +1,18 @@
+====== 52525 - DC - Registo do recenseamento militar de Joaquim Alves ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-12-11
+Filiação - Manuel António Alves de Sousa e Margarida Rosa
+Naturalidade - Oliveira Santa Maria
+Profissão - Lavrador
+Residência - Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52525
+**LangMaterial**:: Português
+**PhysLoc**:: 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52525

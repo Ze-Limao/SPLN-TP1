@@ -1,0 +1,16 @@
+====== 61993 - DC - RI News…Notícias ======
+
+**Parent**:: 61984
+**RootParent**:: 60551
+**UnitTitle**:: RI News…Notícias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1990-03
+**UnitDateFinal**:: 1990-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Inglês, Português
+**PhysLoc**:: RCF 406 - cx. 8
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61993

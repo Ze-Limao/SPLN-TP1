@@ -1,0 +1,18 @@
+====== 8886 - DC - Termo do exame de António Rodrigues de Carvalho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António Rodrigues de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-17
+**UnitDateFinal**:: 1894-07-17
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Manuel José Rodrigues de Carvalho
+Naturalidade - Antas
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8886
+**LangMaterial**:: Português
+**PhysLoc**:: f. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8886

@@ -1,0 +1,16 @@
+====== 30657 - DC - Registo do recenseamento eleitoral de João Francisco de Azevedo ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Francisco de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Calendário
+Profissão - Lavrador
+Morada - Monte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30657
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30657

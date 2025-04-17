@@ -1,0 +1,15 @@
+====== 63948 - UI - Livro dos Testamentos da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 63947
+**RootParent**:: 60536
+**UnitTitle**:: Livro dos Testamentos da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1720-10-29
+**UnitDateFinal**:: 1720-10-29
+**ScopeContent**:: Manuscrito, original, encadernado a pele com atilhos. Na capa título a lápis "Livro de Testamentos Anno de 1720". Datas no interior do documento de 1716 a 1827-09-26.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 148 - cx. 7
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63948

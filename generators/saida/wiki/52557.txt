@@ -1,0 +1,16 @@
+====== 52557 - DC - Registo do recenseamento militar de Francisco Rodrigues ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-04-23
+Filiação - Manuel da Costa Rodrigues e Maria Carneiro
+Naturalidade - Lousado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52557
+**LangMaterial**:: Português
+**PhysLoc**:: 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52557

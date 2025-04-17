@@ -1,0 +1,16 @@
+====== 21414 - UI - Henrique Brunschwich ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Henrique Brunschwich
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-04-11
+**UnitDateFinal**:: 1915-04-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21414
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1392
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21414
+
+===== Filhos =====
+  * [[30244.txt|30244 - DC - Carta]]

@@ -1,0 +1,24 @@
+====== 56160 - DC - História da liquidação das legítimas com sobrinhos do Paço de Nespereira ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: História da liquidação das legítimas com sobrinhos do Paço de Nespereira
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1902
+**UnitDateFinal**:: 1902
+**ScopeContent**:: Maço sobre a "História da liquidação das legítimas com meus sobrinhos do Paço de Nespereira", com cartas de Rodrigues Lobo e cartas de José da Cunha Sampaio a Vicente Almada. Contém CP 13759 a CP 13763.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56160
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13758 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56160
+
+===== Filhos =====
+  * [[56161.txt|56161 - DC - Carta]]
+  * [[56162.txt|56162 - DC - Carta]]
+  * [[56163.txt|56163 - DC - Carta]]
+  * [[56164.txt|56164 - DC - Carta]]
+  * [[56165.txt|56165 - DC - Carta]]

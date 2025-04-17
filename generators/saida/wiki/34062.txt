@@ -1,0 +1,19 @@
+====== 34062 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Mogege
+Data de nascimento - 1852-12-24
+Filiação - João da Silva e Ana Joaquina Ferreira
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34062
+**LangMaterial**:: Português
+**PhysLoc**:: 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34062

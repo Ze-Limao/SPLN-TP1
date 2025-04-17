@@ -1,0 +1,14 @@
+====== 54663 - UI - Médico de Haia ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Médico de Haia
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1892
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54663
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54663
+
+===== Filhos =====
+  * [[54664.txt|54664 - DC - Carta]]

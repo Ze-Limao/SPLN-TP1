@@ -1,0 +1,14 @@
+====== 8011 - DC - Termo de António Alves Carneiro ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António Alves Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872-11-04
+**UnitDateFinal**:: 1872-11-04
+**ScopeContent**:: Mudança de residência do concelho de Guimarães para o de Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8011
+**LangMaterial**:: Português
+**PhysLoc**:: f. 34
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8011

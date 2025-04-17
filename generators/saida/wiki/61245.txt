@@ -1,0 +1,16 @@
+====== 61245 - DC - Daniel Rodrigues aos 20 anos ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: Daniel Rodrigues aos 20 anos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-05-08
+**UnitDateFinal**:: 1897-05-08
+**ScopeContent**:: Fotografia de Daniel Rodrigues, com nota manuscrita  “aos 20 annos”. Fotografia p&b colada cartão. Centro Photographico Académico Coimbra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 141 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61245

@@ -1,0 +1,16 @@
+====== 26058 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Júlio Brandão comunica que está de cama doente. Carta manuscrita assinada, de Calendário. Carta de 3 junho, sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26058
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 852 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26058

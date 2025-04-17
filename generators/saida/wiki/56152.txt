@@ -1,0 +1,17 @@
+====== 56152 - DC - Certidão do Valaído de Cima ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Certidão do Valaído de Cima
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905
+**UnitDateFinal**:: 1905
+**ScopeContent**:: Este documento estava na “Caixa 21”, que contém CP 13813 a CP 13824.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56152
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13818 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56152

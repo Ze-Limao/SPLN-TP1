@@ -1,0 +1,20 @@
+====== 20614 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Lemenhe
+Filiação - Guiomar da Costa
+Naturalidade - Lemenhe
+Data de nascimento - 1870-01-25
+Emprego - Criado de servir
+Estado - Solteiro
+Residência - Lemenhe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20614
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20614

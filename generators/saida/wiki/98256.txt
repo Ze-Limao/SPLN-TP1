@@ -1,0 +1,17 @@
+====== 98256 - DC - Composição amigável sobre demandas de Frei Inácio de Belém e Baltasar Pinheiro Lobo, Paulo Cunha Soutomaior, morador em Barcelos, sobre casal da Ribela ======
+
+**Parent**:: 54465
+**RootParent**:: 31258
+**UnitTitle**:: Composição amigável sobre demandas de Frei Inácio de Belém e Baltasar Pinheiro Lobo, Paulo Cunha Soutomaior, morador em Barcelos, sobre casal da Ribela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1616-04-16
+**UnitDateFinal**:: 1616-04-16
+**ScopeContent**:: Manuscrito com folhas cosidas numa "Pasta nº 3 Cazal Nº 7 P". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 12875 a CP 12958.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12906 - cx. 80
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98256

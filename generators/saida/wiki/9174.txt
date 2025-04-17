@@ -1,0 +1,13 @@
+====== 9174 - UI - Recenseamento para o Recrutamento do Exército ======
+
+**Parent**:: 8968
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento para o Recrutamento do Exército
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1874-01-31
+**UnitDateFinal**:: 1874-03-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9174
+**LangMaterial**:: Português
+**PhysLoc**:: 5.5.14
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9174

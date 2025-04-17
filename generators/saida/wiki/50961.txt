@@ -1,0 +1,18 @@
+====== 50961 - DC - Registo do recenseamento militar de Joaquim Maria ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Maria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-02-23
+Filiação - António José Mendes e Teresa Rosa
+Naturalidade - Vale S. Martinho
+Profissão - Lavrador-caseiro
+Residência - Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50961
+**LangMaterial**:: Português
+**PhysLoc**:: 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50961

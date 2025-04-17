@@ -1,0 +1,16 @@
+====== 29370 - DC - Postal ilustrado da Casa Boamense ======
+
+**Parent**:: 29579
+**RootParent**:: 27963
+**UnitTitle**:: Postal ilustrado da Casa Boamense
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1941
+**UnitDateFinal**:: 1941
+**ScopeContent**:: Ilustração do postal: frontaria e jardim da Casa de Boamense. Edição Tipografia Minerva. Vila Nova de Famalicão. A edição dos postais teve lugar por altura das comemorações do centenário do nascimento de Alberto Sampaio no ano de 1941.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29370
+**LangMaterial**:: Português
+**PhysLoc**:: AS 240- cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29370

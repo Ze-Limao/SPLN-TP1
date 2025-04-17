@@ -1,0 +1,19 @@
+====== 34813 - DC - Registo do recenseamento militar de Bento ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1862-07-09
+Filiação - Manuel Giesteira e Miquelina Rosa de Sousa
+Profissão - 
+Estado - 
+Morada - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34813
+**LangMaterial**:: Português
+**PhysLoc**:: 66v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34813

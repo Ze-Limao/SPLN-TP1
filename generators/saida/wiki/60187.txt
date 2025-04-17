@@ -1,0 +1,26 @@
+====== 60187 - DC - Maço de documentos sobre o guarda florestal da Casa e Quinta de Pindela ======
+
+**Parent**:: 57357
+**RootParent**:: 31258
+**UnitTitle**:: Maço de documentos sobre o guarda florestal da Casa e Quinta de Pindela
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1935-05-15
+**UnitDateFinal**:: 1936-06-10
+**ScopeContent**:: Processo do guarda florestal Alexandre Ferreira. Contém CP 8634 a 8642.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57358
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60187
+
+===== Filhos =====
+  * [[60188.txt|60188 - DC - Carta de Alexandre Ferreira para Visconde de Pindela]]
+  * [[60189.txt|60189 - DC - Ficha de Alexandre Ferreira]]
+  * [[60190.txt|60190 - DC - Ofício]]
+  * [[60191.txt|60191 - DC - Nomeação de Alexandre Ferreira para polícia florestal da Casa e Quinta de Pindela]]
+  * [[60192.txt|60192 - DC - Cartão de visita Luiz G. de Barros Virgolino]]
+  * [[60193.txt|60193 - DC - Ofício nº325 para Alexandre Ferreira]]
+  * [[60195.txt|60195 - DC - Carta de Alexandre Ferreira]]
+  * [[60196.txt|60196 - DC - Declaração de Alexandre Ferreira]]
+  * [[79228.txt|79228 - DC - Ofício]]

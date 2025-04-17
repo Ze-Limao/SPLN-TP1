@@ -1,0 +1,15 @@
+====== 99301 - UI - Vouga & Carvalho ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Vouga & Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-01-28
+**UnitDateFinal**:: 1916-01-28
+**ScopeContent**:: Rua Ferreira Borges, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99301
+
+===== Filhos =====
+  * [[99302.txt|99302 - DC - Ofício]]

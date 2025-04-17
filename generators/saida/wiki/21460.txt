@@ -1,0 +1,16 @@
+====== 21460 - UI - José Dias Veloso ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Dias Veloso
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-04-09
+**UnitDateFinal**:: 1915-04-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21460
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1465
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21460
+
+===== Filhos =====
+  * [[30306.txt|30306 - DC - Carta]]

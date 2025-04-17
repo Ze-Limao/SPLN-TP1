@@ -1,0 +1,19 @@
+====== 20115 - UI - Registo da correspondência expedida para os regedores ======
+
+**Parent**:: 20108
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida para os regedores
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-12-15
+**UnitDateFinal**:: 1918-10-21
+**ScopeContent**:: Termo de abertura: “Este livro tem de servir de copiador de correspondencia expedida para os regedores das freguesias deste concelho…”.
+O conteúdo da correspondência está resumido. 
+Contém:
+Cópia da Circular nº 295 do Administrador do Concelho de Vila Nova de Famalicão dirigido a todos os Regedores do concelho, 1918-07-02, 1 f. impressa, colada; papel.
+Cópia da Circular nº 339 do Administrador do Concelho de Vila Nova de Famalicão dirigido a todos os Regedores do concelho, 1918-07-17, 1 f. impressa, colada; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20115
+**LangMaterial**:: Português
+**PhysLoc**:: AC 42
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20115

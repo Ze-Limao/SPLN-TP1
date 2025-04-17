@@ -1,0 +1,16 @@
+====== 27962 - DC - Recibo de pagamento exemplares de O Rosário ======
+
+**Parent**:: 22760
+**RootParent**:: 20290
+**UnitTitle**:: Recibo de pagamento exemplares de O Rosário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926-01-26
+**UnitDateFinal**:: 1926-01-26
+**ScopeContent**:: Documento impresso e manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27962
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1553 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27962

@@ -1,0 +1,15 @@
+====== 25051 - UI - Cópia de ofício dirigida a Higino Macedo pelo Corpo Ativo ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Cópia de ofício dirigida a Higino Macedo pelo Corpo Ativo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-02-16
+**UnitDateFinal**:: 1899-02-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25051
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 153 - cx. 40
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25051

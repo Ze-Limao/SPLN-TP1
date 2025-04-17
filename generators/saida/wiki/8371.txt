@@ -1,0 +1,13 @@
+====== 8371 - DC - Carta ======
+
+**Parent**:: 8364
+**RootParent**:: 8241
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-11-05
+**UnitDateFinal**:: 1895-11-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8371
+**LangMaterial**:: Português
+**PhysLoc**:: Arquivo Sousa Fernandes, Correspondência, 34, nº 96
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8371

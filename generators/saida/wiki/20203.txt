@@ -1,0 +1,15 @@
+====== 20203 - SR - Diplomas de médicos, cirurgiões, parteiras, farmacêuticos, sangradores e castradores ======
+
+**Parent**:: 20198
+**RootParent**:: 20048
+**UnitTitle**:: Diplomas de médicos, cirurgiões, parteiras, farmacêuticos, sangradores e castradores
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1884-03-28
+**UnitDateFinal**:: 1905-12-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20203
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20203
+
+===== Filhos =====
+  * [[20204.txt|20204 - UI - Diplomas de médicos, cirurgiões, parteiras, farmacêuticos, sangradores e castradores]]

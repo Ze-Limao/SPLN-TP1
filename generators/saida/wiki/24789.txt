@@ -1,0 +1,15 @@
+====== 24789 - DC - Nota de Hilário de Carvalho "Em Lisboa" ======
+
+**Parent**:: 24753
+**RootParent**:: 20342
+**UnitTitle**:: Nota de Hilário de Carvalho "Em Lisboa"
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1960-05-20
+**UnitDateFinal**:: 1960-05-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24789
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 12  - cx. 3
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24789

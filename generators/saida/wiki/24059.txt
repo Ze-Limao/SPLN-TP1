@@ -1,0 +1,16 @@
+====== 24059 - DC - Carta ======
+
+**Parent**:: 21059
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-09-16
+**UnitDateFinal**:: 1890-09-16
+**ScopeContent**:: António Almeida dá os parabéns pelo casamento do filho de JAM. Refere a visita que fez a Vinhal mas que não o encontrou. Carta manuscrita assinada, Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24059
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 101 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24059

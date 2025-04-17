@@ -1,0 +1,19 @@
+====== 62099 - DC - Registo do recenseamento militar de Justino ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Justino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Exposto
+Naturalidade - Avidos
+Morada - Ignora-se
+Data de batismo - 1862-01-10
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62099

@@ -1,0 +1,16 @@
+====== 27908 - DC - Carta ======
+
+**Parent**:: 21255
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-04-21
+**UnitDateFinal**:: 1885-04-21
+**ScopeContent**:: Carta manuscrita assinada, do Porto e Miragaia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27908
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1002 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27908

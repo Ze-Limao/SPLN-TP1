@@ -1,0 +1,17 @@
+====== 77804 - DC - Relação de rendas e foros devidos em diversos prazos ======
+
+**Parent**:: 31302
+**RootParent**:: 31258
+**UnitTitle**:: Relação de rendas e foros devidos em diversos prazos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1838
+**UnitDateFinal**:: 1865
+**ScopeContent**:: Manuscrito sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54347
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4052 - cx. 30
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77804

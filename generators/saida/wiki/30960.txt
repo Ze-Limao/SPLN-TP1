@@ -1,0 +1,16 @@
+====== 30960 - DC - Registo do recenseamento eleitoral de António Machado ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Joane
+Profissão - Lavrador
+Morada - Cima de Pele
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30960
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30960

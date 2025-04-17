@@ -1,0 +1,31 @@
+====== 21182 - UI - João da Costa Santiago de Carvalho Sousa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João da Costa Santiago de Carvalho Sousa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-01-28
+**UnitDateFinal**:: 1928-12-21
+**ScopeContent**:: João Santiago nasceu no Porto a 10.01.1854 e faleceu a 09.02.1930 no Paço de São Cypriano em Guimarães. Foi deputado às Cortes em 1906. Foi proprietário da Quinta de Santiago, hoje museu, em Leça da Palmeira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21182
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 609 a 622
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21182
+
+===== Filhos =====
+  * [[25659.txt|25659 - DC - Carta]]
+  * [[25660.txt|25660 - DC - Carta]]
+  * [[25661.txt|25661 - DC - Carta]]
+  * [[25662.txt|25662 - DC - Carta]]
+  * [[25663.txt|25663 - DC - Carta]]
+  * [[25664.txt|25664 - DC - Carta]]
+  * [[25665.txt|25665 - DC - Carta]]
+  * [[25666.txt|25666 - DC - Carta]]
+  * [[25667.txt|25667 - DC - Carta]]
+  * [[25668.txt|25668 - DC - Carta]]
+  * [[25669.txt|25669 - DC - Carta]]
+  * [[25670.txt|25670 - DC - Carta]]
+  * [[25671.txt|25671 - DC - Cartão]]
+  * [[25672.txt|25672 - DC - Carta]]

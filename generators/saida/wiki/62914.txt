@@ -1,0 +1,19 @@
+====== 62914 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Anacleto José de Araújo e Perpétua Rosa, na freguesia
+Naturalidade - Vale S. Martinho
+Morada - Vale S. Martinho
+Data de nascimento - 1863-07-18
+Emprego - Lavoura
+Estado - Solteira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62914

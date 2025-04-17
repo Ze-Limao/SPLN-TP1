@@ -1,0 +1,17 @@
+====== 57129 - DC - Comissão de Viticultura. Serviço Central. Organização dos Trabalhos de Estatistica ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Organização dos Trabalhos de Estatistica
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1927
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes com 4 documentos datilografados de Produção Vinícola Manifestada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57129
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9489 - cx. 57
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57129

@@ -1,0 +1,16 @@
+====== 24997 - UI - Livro Negro ======
+
+**Parent**:: 20363
+**RootParent**:: 20342
+**UnitTitle**:: Livro Negro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-06-19
+**UnitDateFinal**:: 1908-03-21
+**ScopeContent**:: Contém: nomes dos bombeiros, data, licenças, faltas, castigos, louvores, medalhas, observações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24997
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 101
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24997

@@ -1,0 +1,51 @@
+====== 31341 - SR - Documentos ======
+
+**Parent**:: 31340
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1937-12-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31341
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31341
+
+===== Filhos =====
+  * [[54534.txt|54534 - DC - Superfícies, resinagem, madeiras]]
+  * [[56779.txt|56779 - DC - Laboratório de resinas]]
+  * [[56780.txt|56780 - DC - Eucaliptos]]
+  * [[56781.txt|56781 - DC - Eucaliptos]]
+  * [[56782.txt|56782 - DC - Notas sobre resinagem, área de pinhal e produção mundial]]
+  * [[56813.txt|56813 - DC - Gerez termas, montanha, repouso, bons hoteis]]
+  * [[56814.txt|56814 - DC - Junho]]
+  * [[57396.txt|57396 - DC - Requisições dos Serviços Florestais 1ª Circunscrição]]
+  * [[57754.txt|57754 - DC - Diploma de Funções Públicas da República Portuguesa de João Vicente Ferreira e Ficha biográfica]]
+  * [[57840.txt|57840 - DC - Correspondência]]
+  * [[58076.txt|58076 - DC - Lavoura a efectuar no Gerez]]
+  * [[58077.txt|58077 - DC - Requisição de Fundos nº11 para material e diversas despesas - 2ª Regência Gerês e faturas]]
+  * [[58111.txt|58111 - DC - Requisição de Fundos nº16 para material e diversas despesas - 2ª Regência Gerez e faturas]]
+  * [[58131.txt|58131 - DC - Licença especial de caça grossa e Regulamento para caça grossa na Serra do Gerês]]
+  * [[58162.txt|58162 - DC - Carta topográfica do Minho (parte 4)]]
+  * [[58180.txt|58180 - DC - Resumo dos serviços efectuados e Pontos dos jornais vencidos]]
+  * [[59459.txt|59459 - DC - Auto de ocorrência na 1ª Circunscrição Florestal da Direcção Geral das Florestas e Aquícolas]]
+  * [[59462.txt|59462 - DC - Ensaio para uma tabela local de ordenamento ou de cubagem para o pinheiro bravo apresentado pelo engenheiro silvicultor João Afonso Machado]]
+  * [[59492.txt|59492 - DC - Reorganização dos Serviços da Polícia Florestal]]
+  * [[59493.txt|59493 - DC - Boletim de ajudas de custo Ministério da Agricultura]]
+  * [[59494.txt|59494 - DC - Tratamento de mordeduras de animais venenosos]]
+  * [[59495.txt|59495 - DC - Condições para submeter uma propriedade a regimen de simples policia florestal e condições e documentação exigida aos guardas florestaes do regimen]]
+  * [[59506.txt|59506 - DC - Os Topinambos: divagação pelo engenheiro agrónomo Pinheiro Lobo]]
+  * [[59553.txt|59553 - DC - Cópias de ofícios da Administração Florestal]]
+  * [[59554.txt|59554 - DC - Folha de ponto de jornais vencidos do Ministério da Agricultura…Circunscrição Florestal]]
+  * [[59555.txt|59555 - DC - Fichas de trabalhos a executar do Km 1 ao 54 hectm. (plantações, existências, etc.)]]
+  * [[59556.txt|59556 - DC - Acusações]]
+  * [[60177.txt|60177 - DC - Relatório da Administração Geral das Matas relativo ao ano económico de 1879-1880]]
+  * [[60236.txt|60236 - DC - Segundo relatório 1937. Grémio dos Exportadores de Madeiras para Minas]]
+  * [[79096.txt|79096 - DC - Recebi no cofre]]
+  * [[79103.txt|79103 - DC - Ajudas de custo]]
+  * [[79134.txt|79134 - DC - Notas]]
+  * [[79136.txt|79136 - DC - Notas e minutas de cartas]]
+  * [[79138.txt|79138 - DC - Notas de despesas]]
+  * [[79139.txt|79139 - DC - Notas de despesas]]
+  * [[79140.txt|79140 - DC - Notas de despesas]]
+  * [[79141.txt|79141 - DC - Notas de despesas]]
+  * [[79146.txt|79146 - DC - Notas]]

@@ -1,0 +1,15 @@
+====== 56760 - UI - Jacinto ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Jacinto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1926-04-04
+**UnitDateFinal**:: 1930-04-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56760
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56760
+
+===== Filhos =====
+  * [[56761.txt|56761 - DC - Carta]]
+  * [[79227.txt|79227 - DC - Carta]]

@@ -1,0 +1,20 @@
+====== 20473 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Ribeirão
+Filiação - José da Silva Teixeira e Luísa de Azevedo
+Naturalidade - Ribeirão
+Data de nascimento - 1867-02-05
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20473
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20473

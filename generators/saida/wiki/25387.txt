@@ -1,0 +1,16 @@
+====== 25387 - DC - Carta ======
+
+**Parent**:: 21110
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924
+**UnitDateFinal**:: 1924
+**ScopeContent**:: Agradece o envio do artigo que JAM escreveu em colaboração para o In Memorium sobre o seu irmão Padre Sebastião Leite de Vasconcelos e solicita cópia de cartas do irmão para Camilo. Carta manuscrita assinada. Papel timbrado da "Quinta de S. Pedro, Campo Maior".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25387
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 366 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25387

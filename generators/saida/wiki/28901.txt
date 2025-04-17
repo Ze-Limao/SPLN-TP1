@@ -1,0 +1,16 @@
+====== 28901 - DC - Carta ======
+
+**Parent**:: 28900
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-10-10
+**UnitDateFinal**:: 1899-10-10
+**ScopeContent**:: Carta expedida de Guimarães. Nota manuscrita a lápis: "Resp. em 15 Out. 99".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28901
+**LangMaterial**:: Português
+**PhysLoc**:: AS 626 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28901

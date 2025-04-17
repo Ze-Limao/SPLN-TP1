@@ -1,0 +1,17 @@
+====== 99278 - UI - Confeitaria Lehmann ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Confeitaria Lehmann
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-03-04
+**UnitDateFinal**:: 1916-05-20
+**ScopeContent**:: Carlos Lehmann, Praça Almeida Garrett, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99278
+
+===== Filhos =====
+  * [[99279.txt|99279 - DC - Memorandum]]
+  * [[99453.txt|99453 - DC - Bilhete-postal]]
+  * [[99535.txt|99535 - DC - Bilhete-postal]]

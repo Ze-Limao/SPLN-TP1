@@ -1,0 +1,16 @@
+====== 21338 - UI - António Tomás de Abreu Freire de Azevedo e Bourbon ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Tomás de Abreu Freire de Azevedo e Bourbon
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1923-04-22
+**UnitDateFinal**:: 1923-04-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21338
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1235
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21338
+
+===== Filhos =====
+  * [[29826.txt|29826 - DC - Carta]]

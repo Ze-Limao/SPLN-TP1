@@ -1,0 +1,20 @@
+====== 62477 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Manuel Gomes de Carvalho e Maria da Silva, na freguesia
+Naturalidade - Lemenhe
+Morada - Ignora-se
+Data de nascimento - 1856-07-29
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62477

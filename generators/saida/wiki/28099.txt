@@ -1,0 +1,16 @@
+====== 28099 - DC - Questionnaire spécial aux exposants de la IIIme Section XII.e Exposition générale des Produits de l’Agriculture, de l’Industrie, des Arts industriels et de l’Art ancien ======
+
+**Parent**:: 28094
+**RootParent**:: 27963
+**UnitTitle**:: Questionnaire spécial aux exposants de la IIIme Section XII.e Exposition générale des Produits de l’Agriculture, de l’Industrie, des Arts industriels et de l’Art ancien
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881-10-01
+**UnitDateFinal**:: 1881-10-01
+**ScopeContent**:: Junto com AS 503 e AS 504. Impresso em Bordeaux- impremerie Nouvelle A. Bellier et Cie.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28099
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 505 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28099

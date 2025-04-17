@@ -1,0 +1,19 @@
+====== 63099 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Manuel José Carneiro e Teresa Gomes, ignoram-se
+Naturalidade - Arnoso Santa Maria
+Morada - Ignora-se
+Data de nascimento - 1864-02-27
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63099

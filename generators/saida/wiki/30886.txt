@@ -1,0 +1,16 @@
+====== 30886 - DC - Registo do recenseamento eleitoral de Manuel Francisco Gonçalves ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Francisco Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Morada - Corga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30886
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30886

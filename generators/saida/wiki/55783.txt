@@ -1,0 +1,32 @@
+====== 55783 - DC - Minutas de cartas e jornais alemães ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Minutas de cartas e jornais alemães
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Este maço contém minutas de cartas e jornais alemães e traduções com artigos sobre o processo dos Sanatórios, CP 14392 a CP 14404.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55783
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14391 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55783
+
+===== Filhos =====
+  * [[55784.txt|55784 - DC - Minuta de carta]]
+  * [[55785.txt|55785 - DC - Minuta de carta]]
+  * [[55786.txt|55786 - DC - Minuta de carta]]
+  * [[55787.txt|55787 - DC - Minuta de carta]]
+  * [[55788.txt|55788 - DC - Minuta de carta]]
+  * [[55789.txt|55789 - DC - Minuta de carta]]
+  * [[55790.txt|55790 - DC - Minuta de carta]]
+  * [[55791.txt|55791 - DC - Minuta de carta]]
+  * [[55792.txt|55792 - DC - Minuta de carta]]
+  * [[55793.txt|55793 - DC - Minuta de carta]]
+  * [[55794.txt|55794 - DC - Minuta de carta]]
+  * [[55795.txt|55795 - DC - Minuta de carta]]
+  * [[55796.txt|55796 - DC - Minuta de carta]]

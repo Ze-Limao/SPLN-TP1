@@ -1,0 +1,15 @@
+====== 60716 - DC - Emprazamento do casal do Outeiro, situado na freguesia de Santa Marinha de Ferreiró (atualmente S.Martinho, concelho de Vila de Conde), feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, a (?)Gonçalves e a sua mulher Catarina Anes, lavradores ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal do Outeiro, situado na freguesia de Santa Marinha de Ferreiró (atualmente S.Martinho, concelho de Vila de Conde), feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, a (?)Gonçalves e a sua mulher Catarina Anes, lavradores
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1504-12-23
+**UnitDateFinal**:: 1504-12-23
+**ScopeContent**:: Manuscrito, original, com selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 17 - cx. P27
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60716

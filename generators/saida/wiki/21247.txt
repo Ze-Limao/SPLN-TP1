@@ -1,0 +1,20 @@
+====== 21247 - UI - Miguel de Alpoim de Agorreta ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Miguel de Alpoim de Agorreta
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1922-11-24
+**UnitDateFinal**:: 1923-07-11
+**ScopeContent**:: Miguel de Alpoim de Agorreta nasceu em 15.09.1885 e morreu a 05.04.1942. Era primo de JAM.
+Fonte: Geneall.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21247
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 984, 985, 986
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21247
+
+===== Filhos =====
+  * [[26188.txt|26188 - DC - Carta]]
+  * [[26189.txt|26189 - DC - Carta]]
+  * [[26190.txt|26190 - DC - Carta]]

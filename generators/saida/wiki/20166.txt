@@ -1,0 +1,26 @@
+====== 20166 - UI - Termos de fiança ao serviço militar ======
+
+**Parent**:: 20162
+**RootParent**:: 20048
+**UnitTitle**:: Termos de fiança ao serviço militar
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1868-12-31
+**UnitDateFinal**:: 1885-11-21
+**ScopeContent**:: Termo de abertura: “Serve este livro de assento à Administração do Concelho de Villa nova de Famalicão prova n´elle se lançarem os termos de fiança ao recrutamento…”.
+Contém:
+Procuração, 1882-07-12, 1 f.; papel.
+Procuração, 1883-03-8, 1 f.; papel.
+Nota das faltas dadas pelos empregados no mez decorrido de 21 de Outubro a 20 de Novembro de 1896, 1897-01-20, 2 f.; papel.
+Procuração, 1885-09-10, 1 f.; papel.
+Requerimento, 1887-10-09, 1 f.; papel.
+Requerimento, 1887-10-19 1 f.;papel.
+Requerimento, 1890-11-12, 1 f.; papel.
+Requerimento, 1890-11-12, 1 f.; papel.
+Requerimento, 1886-10-08, 1 f.; papel.
+Atestado, 1886-09-14, 1 f.;papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20166
+**LangMaterial**:: Português
+**PhysLoc**:: AC 28
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20166

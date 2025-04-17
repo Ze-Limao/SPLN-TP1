@@ -1,0 +1,16 @@
+====== 30404 - DC - Registo do recenseamento eleitoral de Domingos da Silva Brás ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos da Silva Brás
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Antas
+Profissão - Ferreiro
+Morada - Portela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30404
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30404

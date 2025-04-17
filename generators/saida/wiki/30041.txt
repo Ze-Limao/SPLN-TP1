@@ -1,0 +1,14 @@
+====== 30041 - DC - Joaquim Pereira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-10-19
+**UnitDateFinal**:: 1959-10-19
+**ScopeContent**:: Regedor efetivo da freguesia de Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30041
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30041

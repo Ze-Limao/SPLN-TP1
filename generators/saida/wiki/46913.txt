@@ -1,0 +1,18 @@
+====== 46913 - DC - Registo do recenseamento eleitoral de José Pereira de Sousa Guimarães ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Pereira de Sousa Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Negociante
+Estado - Solteiro
+Morada - Outeiro
+Idade - 56
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46913
+**LangMaterial**:: Português
+**PhysLoc**:: 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46913

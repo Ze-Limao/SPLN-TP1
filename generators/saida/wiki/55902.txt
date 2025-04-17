@@ -1,0 +1,17 @@
+====== 55902 - DC - Minuta de carta ======
+
+**Parent**:: 55896
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Minuta de carta. Este documento está no maço CP 14503, juntamente com CP 14504 a CP 14526.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55902
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14510 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55902

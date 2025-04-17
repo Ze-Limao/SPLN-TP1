@@ -1,0 +1,28 @@
+====== 45057 - UI - José Augusto Barbosa Colen ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: José Augusto Barbosa Colen
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-07-23
+**UnitDateFinal**:: 1917
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45057
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45057
+
+===== Filhos =====
+  * [[45058.txt|45058 - DC - Carta]]
+  * [[45059.txt|45059 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45060.txt|45060 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45061.txt|45061 - DC - Carta]]
+  * [[45062.txt|45062 - DC - Carta]]
+  * [[45063.txt|45063 - DC - Carta]]
+  * [[45064.txt|45064 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45065.txt|45065 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45066.txt|45066 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45067.txt|45067 - DC - Telegrama]]
+  * [[45068.txt|45068 - DC - Carta]]

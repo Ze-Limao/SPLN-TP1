@@ -1,0 +1,16 @@
+====== 30411 - DC - Registo do recenseamento eleitoral de Francisco de Faria ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Arnoso Santa Eulália
+Profissão - Lavrador
+Morada - Ribeira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30411
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30411

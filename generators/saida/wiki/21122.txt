@@ -1,0 +1,30 @@
+====== 21122 - UI - José Augusto do Amaral Frazão de Vasconcelos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Augusto do Amaral Frazão de Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-05-23
+**UnitDateFinal**:: 1923-12-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21122
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 438 a 451
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21122
+
+===== Filhos =====
+  * [[25481.txt|25481 - DC - Carta]]
+  * [[25482.txt|25482 - DC - Carta]]
+  * [[25483.txt|25483 - DC - Carta]]
+  * [[25484.txt|25484 - DC - Carta]]
+  * [[25485.txt|25485 - DC - Carta]]
+  * [[25486.txt|25486 - DC - Carta]]
+  * [[25487.txt|25487 - DC - Carta]]
+  * [[25488.txt|25488 - DC - Carta]]
+  * [[25489.txt|25489 - DC - Carta]]
+  * [[25490.txt|25490 - DC - Carta]]
+  * [[25491.txt|25491 - DC - Carta]]
+  * [[25492.txt|25492 - DC - Carta]]
+  * [[25493.txt|25493 - DC - Carta]]
+  * [[25494.txt|25494 - DC - Carta]]

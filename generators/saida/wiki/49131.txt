@@ -1,0 +1,18 @@
+====== 49131 - DC - Registo do recenseamento eleitoral de Bento da Rocha ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Bento da Rocha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Riba de Ave
+Profissão - Lavrador
+Estado - Casado
+Morada - Aril
+Idade - 41
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49131
+**LangMaterial**:: Português
+**PhysLoc**:: 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49131

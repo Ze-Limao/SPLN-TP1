@@ -1,0 +1,14 @@
+====== 60690 - SR - Receitas e Despesas ======
+
+**Parent**:: 60689
+**RootParent**:: 60549
+**UnitTitle**:: Receitas e Despesas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1858
+**UnitDateFinal**:: 1892
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60687
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60690
+
+===== Filhos =====
+  * [[60691.txt|60691 - DC - Livro de receita e despesa da Confraria Nossa Senhora do Rosário]]

@@ -1,0 +1,18 @@
+====== 20367 - SSC - Bens imóveis e móveis ======
+
+**Parent**:: 20347
+**RootParent**:: 20342
+**UnitTitle**:: Bens imóveis e móveis
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1890-06-28
+**UnitDateFinal**:: 1963-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20367
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20367
+
+===== Filhos =====
+  * [[25027.txt|25027 - UI - Registos de propriedade, escrituras, diploma de licenças, registos de empréstimo, hipotecas, certidão de escritura de compra e venda, contribuição predial]]
+  * [[25028.txt|25028 - UI - Inventário de material]]
+  * [[25029.txt|25029 - UI - Material existente no Quartel em 30 de junho de 1953; Material existente na arrecadação do fardamento, etc., resumo dos haveres e de outros bens móveis]]

@@ -1,0 +1,16 @@
+====== 21508 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-06-10
+**UnitDateFinal**:: 1914-06-10
+**ScopeContent**:: António Cabral diz que não imaginava o incómodo que está a dar a JAM. António Cabral informa que vai escrever a Nuno Plácido para o informar das notas de Camilo Castelo Branco que pretende publicar e que não são todas as copiou em Seide. Refere a nota que Camilo escreveu na "Relíquia" de Eça de Queirós, que já tinha sido anunciada por Camilo na obra "Óbolo às crianças". Quanto à nota de Camilo no anterrosto "A Geração nova" de Sampaio Bruno, António Cabral propõe omitir as últimas palavras de Camilo. Refere outras notas que copiou de vários livros. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21508
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 106 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21508

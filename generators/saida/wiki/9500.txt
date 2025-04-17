@@ -1,0 +1,19 @@
+====== 9500 - DC - Registo do recenseamento militar de Luís ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Carvalho Tinoco e Maria Emília de Jesus
+Naturalidade - Vale S. Martinho
+Data de nascimento - 1877-02-18
+Profissão - Carpinteiro
+Estado civil - Solteiro
+Residência - Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9500
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9500

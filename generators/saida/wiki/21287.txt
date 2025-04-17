@@ -1,0 +1,23 @@
+====== 21287 - UI - Álvaro de Castro Araújo Cardoso Pereira Ferraz ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Álvaro de Castro Araújo Cardoso Pereira Ferraz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-01-09
+**UnitDateFinal**:: 1925-05-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21287
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1139, 1140, 1141, 1142, 1143, 1144, 1145
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21287
+
+===== Filhos =====
+  * [[22568.txt|22568 - DC - Bilhete-postal]]
+  * [[22577.txt|22577 - DC - Carta]]
+  * [[29730.txt|29730 - DC - Carta]]
+  * [[29731.txt|29731 - DC - Carta]]
+  * [[29732.txt|29732 - DC - Carta]]
+  * [[29733.txt|29733 - DC - Carta]]
+  * [[29734.txt|29734 - DC - Duas quadras]]

@@ -1,0 +1,18 @@
+====== 47500 - DC - Registo do recenseamento eleitoral de Sebastião José Correia de Araújo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Sebastião José Correia de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Avidos
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Devesa
+Idade - 72
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47500
+**LangMaterial**:: Português
+**PhysLoc**:: 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47500

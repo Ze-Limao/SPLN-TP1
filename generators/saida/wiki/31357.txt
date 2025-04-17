@@ -1,0 +1,27 @@
+====== 31357 - SR - Correspondência recebida e enviada ======
+
+**Parent**:: 31356
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida e enviada
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1892-07-22
+**UnitDateFinal**:: 1911-03-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31357
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31357
+
+===== Filhos =====
+  * [[45312.txt|45312 - UI - Gabriela de Sousa Coutinho]]
+  * [[54576.txt|54576 - UI - Carlos I, Rei de Portugal]]
+  * [[54578.txt|54578 - UI - Manuel Maria de Oliveira Ramos]]
+  * [[54580.txt|54580 - UI - Manuel António Gomes da Mata de Sousa Coutinho]]
+  * [[54582.txt|54582 - UI - Luís Filipe de Castro]]
+  * [[54584.txt|54584 - UI - Eduardo Vilaça]]
+  * [[54586.txt|54586 - UI - Eulália Estelista Rangel de Quadros]]
+  * [[54588.txt|54588 - UI - José de Azevedo e Menezes]]
+  * [[54590.txt|54590 - UI - Joaquim Tomás Lobo de Ávila]]
+  * [[54592.txt|54592 - UI - Ferreira Amaral]]
+  * [[54594.txt|54594 - UI - Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[58451.txt|58451 - UI - José de Azevedo Castelo Branco]]
+  * [[58453.txt|58453 - UI - Alberto Leite]]
+  * [[58454.txt|58454 - UI - Eduardo Burnay]]

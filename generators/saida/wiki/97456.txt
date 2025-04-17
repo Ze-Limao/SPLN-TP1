@@ -1,0 +1,16 @@
+====== 97456 - DC - Caderno com notas sobre Vimioso ======
+
+**Parent**:: 28381
+**RootParent**:: 27963
+**UnitTitle**:: Caderno com notas sobre Vimioso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1900
+**ScopeContent**:: Caderno manuscrito a lápis com notas sobre terminologia de palavras rurais utilizadas em Vimioso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29884
+**LangMaterial**:: Português
+**PhysLoc**:: AS 888 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97456

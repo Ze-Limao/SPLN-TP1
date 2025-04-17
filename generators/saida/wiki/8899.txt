@@ -1,0 +1,18 @@
+====== 8899 - DC - Termo do exame de Severino Duarte de Miranda ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Severino Duarte de Miranda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-20
+**UnitDateFinal**:: 1894-07-20
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - António da Silva Duarte
+Naturalidade - Vila Nova de Famalicão
+Classificação - Distinto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8899
+**LangMaterial**:: Português
+**PhysLoc**:: f. 60
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8899

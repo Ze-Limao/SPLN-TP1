@@ -1,0 +1,23 @@
+====== 54364 - DC - Sentença pela qual se vê que os caseiros da comenda de Malta eram isentos de tributos e outros trabalhos ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Sentença pela qual se vê que os caseiros da comenda de Malta eram isentos de tributos e outros trabalhos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1742-10-23
+**UnitDateFinal**:: 1846
+**ScopeContent**:: Manuscrito com folhas cosidas. Folha com anotações do Abade de Tagilde com o título "Casa de Basto". O documento estava na “Caixa 12”, que contém CP 3800 a CP 3826 embrulhados em jornais do ano 1936.
+Contém 4 documentos: 1 Licença para se dizer missa no oratório de Refalcão, Santa Senhorinha de Basto, 2 Sentença pela qual se vê que os caseiros da comenda de Malta eram isentos de tributos e outros trabalhos, 3 Recibo que dão ao reverendo Marcelino Pereira Cleto, abade de Entre-Ambos-os-Rios os herdeiros do bispo D. Eugénio Boto da Silva (CP 3802(1)), 4 Posse que tomou Manuel Pinto de Magalhães de umas propriedades constantes de uma escritura que ignoro (CP 3804).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3802 -  cx. 28
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54364
+
+===== Filhos =====
+  * [[65660.txt|65660 - DC - Recibos que dão ao reverendo Marcelino Pereira Cleto, abade de Entre-Ambos-os-Rios os herdeiros do bispo D. Eugénio Boto da Silva]]
+  * [[65661.txt|65661 - DC - Auto de posse que tomou Manuel Pinto de Magalhães de umas propriedades constantes de uma escritura que ignoro]]
+  * [[65663.txt|65663 - DC - Licença para se dizer missa no oratório de Refalcão, Santa Senhorinha de Basto, no ano de 1803]]

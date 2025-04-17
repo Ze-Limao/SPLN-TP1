@@ -1,0 +1,15 @@
+====== 65695 - DC - Emprazamento de metade do campo dos Bargos, situado na freguesia de S. Julião do Calendário, feita por João Lopes de Gois, raçoeiro da Igreja de S. Tiago de Antas, a Francisco Teixeira e sua mulher que o receberam do seu sogro Martim Fernandes, durante as três vidas do prazo anterior, ao qual renunciam, para a renovação ser neles encabeçada ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento de metade do campo dos Bargos, situado na freguesia de S. Julião do Calendário, feita por João Lopes de Gois, raçoeiro da Igreja de S. Tiago de Antas, a Francisco Teixeira e sua mulher que o receberam do seu sogro Martim Fernandes, durante as três vidas do prazo anterior, ao qual renunciam, para a renovação ser neles encabeçada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1567-03-07
+**UnitDateFinal**:: 1567-03-07
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 64 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65695

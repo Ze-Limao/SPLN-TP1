@@ -1,0 +1,16 @@
+====== 28043 - DC - Carta de Alberto Sampaio ======
+
+**Parent**:: 28033
+**RootParent**:: 27963
+**UnitTitle**:: Carta de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-07-04
+**UnitDateFinal**:: 1867-07-04
+**ScopeContent**:: Carta expedida de Paris, 26 Rue Vangirard. Envelope com carimbo do correio de Porto 1865-07-10. Carta endereçado a José da Cunha Sampaio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28043
+**LangMaterial**:: Português
+**PhysLoc**:: AS 552 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28043

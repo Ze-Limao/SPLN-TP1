@@ -1,0 +1,15 @@
+====== 65872 - DC - Emprazamento do casal de Vilar ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Vilar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1599-05-06
+**UnitDateFinal**:: 1599-05-06
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 634 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65872

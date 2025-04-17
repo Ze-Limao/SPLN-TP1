@@ -1,0 +1,18 @@
+====== 8433 - DC - Termo do exame de Luís António de Almeida ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Luís António de Almeida
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-05-04
+**UnitDateFinal**:: 1885-05-04
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - José António de Almeida
+Naturalidade - Cavalões
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8433
+**LangMaterial**:: Português
+**PhysLoc**:: f. 21
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8433

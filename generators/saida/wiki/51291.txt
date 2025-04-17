@@ -1,0 +1,18 @@
+====== 51291 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-03-10
+Filiação - Manuel da Costa e Cláudia Rosa
+Naturalidade - Bente
+Profissão - Lavrador
+Residência - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51291
+**LangMaterial**:: Português
+**PhysLoc**:: 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51291

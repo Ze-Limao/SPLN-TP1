@@ -1,0 +1,16 @@
+====== 21440 - UI - Joaquim Alves Lopes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Alves Lopes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21440
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1428
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21440
+
+===== Filhos =====
+  * [[30275.txt|30275 - DC - Carta]]

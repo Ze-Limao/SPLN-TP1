@@ -1,0 +1,16 @@
+====== 28095 - DC - Acaba de ser posto à venda o Relatório Geral do Congresso Vitícola Nacional de 1895, volume I ======
+
+**Parent**:: 28094
+**RootParent**:: 27963
+**UnitTitle**:: Acaba de ser posto à venda o Relatório Geral do Congresso Vitícola Nacional de 1895, volume I
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1895
+**ScopeContent**:: Folheto publicitário com a informação que acaba de ser posto à venda o Relatório Geral do Congresso Vitícola Nacional de 1895, volume I do Congresso Vitícola Nacional, Seção cultural e geneológica, preço 800 reís.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28095
+**LangMaterial**:: Português
+**PhysLoc**:: AS 501 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28095

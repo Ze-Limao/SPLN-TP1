@@ -1,0 +1,15 @@
+====== 63984 - DC - Escritura de aforamento perpétuo do casal do Maganheiro, na freguesia de S. Martinho de Avidos, por João Pimenta e seu filho Manuel Gomes Pimenta, moradores na freguesia de Landim, que trazem por título de prazo do abade da Igreja de S. Tiago de Antas, a Eugénia Correia, moradora na freguesia de S. Martinho de Avidos ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de aforamento perpétuo do casal do Maganheiro, na freguesia de S. Martinho de Avidos, por João Pimenta e seu filho Manuel Gomes Pimenta, moradores na freguesia de Landim, que trazem por título de prazo do abade da Igreja de S. Tiago de Antas, a Eugénia Correia, moradora na freguesia de S. Martinho de Avidos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1761-05-01
+**UnitDateFinal**:: 1761-05-01
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 176 - cx. 9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63984

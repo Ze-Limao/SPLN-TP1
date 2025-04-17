@@ -1,0 +1,16 @@
+====== 8106 - SSC - Ensino Pré-Primário e Básico ======
+
+**Parent**:: 8105
+**RootParent**:: 7651
+**UnitTitle**:: Ensino Pré-Primário e Básico
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1897-07-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8106
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8106
+
+===== Filhos =====
+  * [[8107.txt|8107 - SR - Matrícula dos professores de instrução primária]]
+  * [[8156.txt|8156 - SR - Termos dos Exames]]
+  * [[8974.txt|8974 - SR - Correspondência Expedida]]

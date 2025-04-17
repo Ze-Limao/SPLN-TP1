@@ -1,0 +1,18 @@
+====== 45690 - DC - Registo do recenseamento eleitoral de Pedro José de Azevedo ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Pedro José de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Arnoso Mosteiro
+Profissão - Lavrador
+Estado - Casado
+Morada - Bouçó
+Idade - 46
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45690
+**LangMaterial**:: Português
+**PhysLoc**:: 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45690

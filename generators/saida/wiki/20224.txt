@@ -1,0 +1,14 @@
+====== 20224 - UI - Registo de correspondência recebida ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1836-12-09
+**UnitDateFinal**:: 1856-01-23
+**ScopeContent**:: Não tem termo de abertura. Contém dados: cópias dos ofícios; a partir de abril 1839 apenas o resumo do ofício; a partir de 850 contém dados: nº de ordem, data da receção, data do ofício, designação da autoridade, extracto, expediente. Os anos de 1836 a 1849 não têm numerados os registos. O ano de 1850 tem 97 registos. O ano de 1851 tem 96 registos. O ano 1852 tem 168 registos. O ano 1853 inicia no registo nº 169 até ao registo nº 267 (junho) e do registo nº 1 ao 131. O ano 1854 tem 129 registos. O ano 1855 inicia no registo nº 130 até ao registo nº 162 e do nº 1 ao registo nº 35. O ano 1856 do registo nº 1 ao 12.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20224
+**LangMaterial**:: Português
+**PhysLoc**:: 1195
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20224

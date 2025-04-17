@@ -1,0 +1,17 @@
+====== 56888 - DC - Federação. Archivo especial. Minha sahida da Federação de Sindicatos do Norte de Portugal. Nota de caixa de 15 de Maio de 1933. Nº5 ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Federação. Archivo especial. Minha sahida da Federação de Sindicatos do Norte de Portugal. Nota de caixa de 15 de Maio de 1933. Nº5
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933-05-15
+**UnitDateFinal**:: 1933-05-15
+**ScopeContent**:: Manuscrito. Este documento está contido na capa CP 2339. Tem 3 documentos manuscritos a preto e vermelho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56888
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2346 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56888

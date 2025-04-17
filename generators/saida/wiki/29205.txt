@@ -1,0 +1,16 @@
+====== 29205 - DC - Plantação dos Eucaliptos na bouça debaixo da serra de Vila Verde ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Plantação dos Eucaliptos na bouça debaixo da serra de Vila Verde
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-04-05
+**UnitDateFinal**:: 1904-04-05
+**ScopeContent**:: Número e identificação das variedades de eucaliptos plantados na bouça da serra de Vila Verde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29205
+**LangMaterial**:: Português
+**PhysLoc**:: AS 320 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29205

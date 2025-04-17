@@ -1,0 +1,17 @@
+====== 55497 - DC - Viagem out. de 1901 de Pindella a Berlim ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Viagem out. de 1901 de Pindella a Berlim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-10
+**UnitDateFinal**:: 1901-10
+**ScopeContent**:: Manuscrito com despesas de viagem de Pindela para Berlim. Este documento está dentro do envelope CP 2478, junto com CP 2480 a CP 2482.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55497
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2483 - cx. 19
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55497

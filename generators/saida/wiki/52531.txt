@@ -1,0 +1,18 @@
+====== 52531 - DC - Registo do recenseamento militar de Clemente da Costa ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Clemente da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1849-01-02
+Filiação - Albano José da Costa e Maria da Silva
+Naturalidade - Ribeirão
+Profissão - Criado de servir
+Residência - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52531
+**LangMaterial**:: Português
+**PhysLoc**:: 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52531

@@ -1,0 +1,16 @@
+====== 24849 - DC - Carta ======
+
+**Parent**:: 21077
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-02-10
+**UnitDateFinal**:: 1922-02-10
+**ScopeContent**:: Informa que apresentou na Academia de Ciências de Lisboa os livros de JAM "Ninharias" e "Camilo Homenageado". Carta manuscrita assinada. Papel timbrado do Diário de Notícias - Direcção.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24849
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 282 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24849

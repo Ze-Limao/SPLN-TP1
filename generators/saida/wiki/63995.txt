@@ -1,0 +1,15 @@
+====== 63995 - DC - Conciliação entre o Abade da Igreja de S. Tiago e Antas e os caseiros do casal do Maganheiro, na freguesia de S. Miguel de Ceide, acerca das rendas do casal que estavam atrasadas há três anos. ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Conciliação entre o Abade da Igreja de S. Tiago e Antas e os caseiros do casal do Maganheiro, na freguesia de S. Miguel de Ceide, acerca das rendas do casal que estavam atrasadas há três anos.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1839-04-10
+**UnitDateFinal**:: 1839-04-20
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas. Papel timbrado "Credito 20 publico". Rendas atrasadas de 1836, 1837 e 1838
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 250 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63995

@@ -1,0 +1,17 @@
+====== 56493 - DC - Convite ======
+
+**Parent**:: 56491
+**RootParent**:: 31258
+**UnitTitle**:: Convite
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Cartão de visita com impressão "Le Ministre de Portugal et la Viscomtesse de Pindella prient...de leur faire l´honneur de venir prendre une tasse de thé chez eux le...PostdannerStrasse 118a. R.S.V.P.".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56493
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 2168 - cx. 15
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56493

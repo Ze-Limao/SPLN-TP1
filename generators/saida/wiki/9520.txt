@@ -1,0 +1,19 @@
+====== 9520 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José de Oliveira Cardoso e Margarida de Araújo
+Naturalidade - Mouquim
+Data de nascimento - 1877-03-11
+Profissão - Criado de servir
+Estado civil - Solteiro
+Residência - Bougado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9520
+**LangMaterial**:: Português
+**PhysLoc**:: f. 41v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9520

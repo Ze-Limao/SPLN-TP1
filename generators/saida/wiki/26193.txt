@@ -1,0 +1,16 @@
+====== 26193 - DC - Carta ======
+
+**Parent**:: 21249
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-09-10
+**UnitDateFinal**:: 1906-09-10
+**ScopeContent**:: Carta manuscrita assinada, de Ancede.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26193
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 989 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26193

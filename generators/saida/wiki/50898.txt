@@ -1,0 +1,18 @@
+====== 50898 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-02-20
+Filiação - Manuel José da Costa e Silva e Matilde da Silva
+Naturalidade - Fradelos
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50898
+**LangMaterial**:: Português
+**PhysLoc**:: 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50898

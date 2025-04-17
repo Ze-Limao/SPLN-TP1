@@ -1,0 +1,16 @@
+====== 25055 - UI - Material de incêndios ======
+
+**Parent**:: 20377
+**RootParent**:: 20342
+**UnitTitle**:: Material de incêndios
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-11-16
+**UnitDateFinal**:: 1961-06-30
+**ScopeContent**:: Contém: História da aquisição do diverso material com faturas, correspondência, notas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25055
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 154 - cx. 40
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25055

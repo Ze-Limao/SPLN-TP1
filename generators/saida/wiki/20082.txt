@@ -1,0 +1,14 @@
+====== 20082 - UI - Autos de posse e juramento dos funcionários ======
+
+**Parent**:: 20078
+**RootParent**:: 20048
+**UnitTitle**:: Autos de posse e juramento dos funcionários
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1926-07-13
+**UnitDateFinal**:: 1926-07-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20082
+**LangMaterial**:: Português
+**PhysLoc**:: AC 74
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20082

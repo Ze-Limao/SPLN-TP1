@@ -1,0 +1,16 @@
+====== 29413 - DC - Carta ======
+
+**Parent**:: 28811
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-01-08
+**UnitDateFinal**:: 1892-01-08
+**ScopeContent**:: Carta expedida de Lisboa?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29413
+**LangMaterial**:: Português
+**PhysLoc**:: AS 844 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29413

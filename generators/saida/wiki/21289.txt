@@ -1,0 +1,17 @@
+====== 21289 - UI - Alves de Azevedo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alves de Azevedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-06-23
+**UnitDateFinal**:: 1919-06-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21289
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1150, 1151
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21289
+
+===== Filhos =====
+  * [[29739.txt|29739 - DC - Carta]]
+  * [[29740.txt|29740 - DC - Carta]]

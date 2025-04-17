@@ -1,0 +1,18 @@
+====== 49404 - DC - Registo do recenseamento eleitoral de Manuel do Rego ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel do Rego
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vale S. Martinho
+Profissão - Lavrador
+Estado - Casado
+Morada - Tojão
+Idade - 25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49404
+**LangMaterial**:: Português
+**PhysLoc**:: 81v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49404

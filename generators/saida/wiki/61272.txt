@@ -1,0 +1,16 @@
+====== 61272 - DC - Carta ======
+
+**Parent**:: 60925
+**RootParent**:: 60550
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1932-02-24
+**UnitDateFinal**:: 1932-02-24
+**ScopeContent**:: Carta datilografada de Biarritz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 12 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61272

@@ -1,0 +1,13 @@
+====== 9678 - DC - Ofício nº 33 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 33
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-05-14
+**UnitDateFinal**:: 1887-05-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9678
+**LangMaterial**:: Português
+**PhysLoc**:: f. 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9678

@@ -1,0 +1,17 @@
+====== 25362 - UI - Maço de envelopes dirigidos a José de Azevedo e Menezes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Maço de envelopes dirigidos a José de Azevedo e Menezes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1872-08-07
+**UnitDateFinal**:: 1923-07-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25362
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1501
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25362
+
+===== Filhos =====
+  * [[30318.txt|30318 - DC - Maço de envelopes dirigidos a José de Azevedo e Menezes]]

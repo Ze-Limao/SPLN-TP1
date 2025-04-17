@@ -1,0 +1,17 @@
+====== 77795 - DC - Caderno que há de servir para fazer o assento de todos os criados de lavoura desta Casa de Pindela e tem seu princípio no dia 6 de Abril de 1844, por mim o feitor Domingos Lourenço Gomes Costa ======
+
+**Parent**:: 31302
+**RootParent**:: 31258
+**UnitTitle**:: Caderno que há de servir para fazer o assento de todos os criados de lavoura desta Casa de Pindela e tem seu princípio no dia 6 de Abril de 1844, por mim o feitor Domingos Lourenço Gomes Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1844-04-06
+**UnitDateFinal**:: 1845-10-30
+**ScopeContent**:: Manuscrito com folhas cosidas e impressas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54347
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4045 - cx. 30
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77795

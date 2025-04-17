@@ -1,0 +1,15 @@
+====== 25063 - UI - Registos de incêndios nº5 ======
+
+**Parent**:: 20381
+**RootParent**:: 20342
+**UnitTitle**:: Registos de incêndios nº5
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1956-03-05
+**UnitDateFinal**:: 1962-08-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25063
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 162
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25063

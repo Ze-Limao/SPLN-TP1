@@ -1,0 +1,16 @@
+====== 24641 - DC - Registo do recenseamento eleitoral de José António Amaro ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António Amaro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Landim
+Profissão - Moleiro
+Morada - Bouças
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24641
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 41v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24641

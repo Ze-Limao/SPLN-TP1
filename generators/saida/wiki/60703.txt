@@ -1,0 +1,15 @@
+====== 60703 - DC - Emprazamento da Quinta da Oliveira, situada na freguesia de S. Miguel de Chorente (concelho de Barcelos), feito por Álvaro Gomes, abade da Igreja de S. Tiago de Antas, a Fernão Vasques e a sua mulher Leonor Vasques ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento da Quinta da Oliveira, situada na freguesia de S. Miguel de Chorente (concelho de Barcelos), feito por Álvaro Gomes, abade da Igreja de S. Tiago de Antas, a Fernão Vasques e a sua mulher Leonor Vasques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1469-01-24
+**UnitDateFinal**:: 1469-01-24
+**ScopeContent**:: Manuscrito, original, com selo. A transcrição deste pergaminho CSTA 359.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 5 - cx. P20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60703

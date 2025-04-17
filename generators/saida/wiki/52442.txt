@@ -1,0 +1,17 @@
+====== 52442 - DC - Registo do recenseamento militar de Domingos Gomes ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-03-17
+Filiação - José António Gomes e Teresa Gomes
+Naturalidade - Arnoso Santa Maria
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52442
+**LangMaterial**:: Português
+**PhysLoc**:: 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52442

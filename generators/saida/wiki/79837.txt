@@ -1,0 +1,29 @@
+====== 79837 - SR - Reprodução de postais de V. N. de Famalicão ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Reprodução de postais de V. N. de Famalicão
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1902
+**UnitDateFinal**:: 1990
+**ScopeContent**:: Reproduções de postais em papel fotográfico e fotocópia em papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9742
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79837
+
+===== Filhos =====
+  * [[79839.txt|79839 - SSR - Tipografia Minerva 1902 - 1903]]
+  * [[79847.txt|79847 - SSR - Tipografia Minerva 1912]]
+  * [[79867.txt|79867 - SSR - Tipografia Minerva 1925]]
+  * [[79869.txt|79869 - SSR - Tipografia Minerva 1927]]
+  * [[79871.txt|79871 - SSR - Tipografia Minerva 1929]]
+  * [[79883.txt|79883 - SSR - Francisco Mesquita]]
+  * [[79885.txt|79885 - SSR - João Plácido Valongo]]
+  * [[79903.txt|79903 - SSR - Ernesto Cruz e Fotografia Beleza]]
+  * [[79904.txt|79904 - SSR - Câmara Municipal]]
+  * [[79905.txt|79905 - SSR - Augusto de Sousa Lopes]]
+  * [[79907.txt|79907 - SSR - Tipografia Minerva]]
+  * [[79910.txt|79910 - SSR - Tipografia Minerva]]
+  * [[79912.txt|79912 - SSR - Sousa Lopes]]
+  * [[79914.txt|79914 - SSR - Vários]]

@@ -1,0 +1,17 @@
+====== 29154 - DC - Ao Ex.mo Ensaiador ======
+
+**Parent**:: 29153
+**RootParent**:: 27963
+**UnitTitle**:: Ao Ex.mo Ensaiador
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-19
+**UnitDateFinal**:: 1891-07-19
+**ScopeContent**:: Impresso com quadras do poeta e jornalista vimaranense José de Freitas Costa.
+Assinatura autógrafa de Freitas Costa. Anotação manuscrita na parte superior do prospecto: «Poesia distribuída na noite de 19 de julho de 1891 no sarau dramático organizado pelos oficiais inferiores de infantaria em benefício da sociedade portuguesa da Cruz Vermelha. / Guimarães / Teatro D. Afonso Henriques.» A letra não é de Alberto Sampaio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29154
+**LangMaterial**:: Português
+**PhysLoc**:: AS 178 - cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29154

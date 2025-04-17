@@ -1,0 +1,14 @@
+====== 9914 - SC - Urbanismo ======
+
+**Parent**:: 7651
+**RootParent**:: 7651
+**UnitTitle**:: Urbanismo
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1850
+**UnitDateFinal**:: 1924
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9914
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9914
+
+===== Filhos =====
+  * [[9915.txt|9915 - SSC - Cartografia]]

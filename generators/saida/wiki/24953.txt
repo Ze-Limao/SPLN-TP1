@@ -1,0 +1,15 @@
+====== 24953 - UI - Balancetes mensais dados ao cofre da Assistência aos tuberculosos pobres deste concelho ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Balancetes mensais dados ao cofre da Assistência aos tuberculosos pobres deste concelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-01-05
+**UnitDateFinal**:: 1905-12-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24953
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 57  - cx. 21
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24953

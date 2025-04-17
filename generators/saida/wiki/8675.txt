@@ -1,0 +1,17 @@
+====== 8675 - UI - Copiador da Correspondência Expedida ======
+
+**Parent**:: 8674
+**RootParent**:: 7651
+**UnitTitle**:: Copiador da Correspondência Expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1837-04-22
+**UnitDateFinal**:: 1838-04-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8675
+**LangMaterial**:: Português
+**PhysLoc**:: 1.6.1
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8675
+
+===== Filhos =====
+  * [[8676.txt|8676 - DC - Ofício nº 119]]
+  * [[8677.txt|8677 - DC - Ofício nº 120]]

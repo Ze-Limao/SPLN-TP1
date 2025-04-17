@@ -1,0 +1,16 @@
+====== 28165 - DC - 1894-1895 Poda e arrebentação das vides ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1894-1895 Poda e arrebentação das vides
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-01-10
+**UnitDateFinal**:: 1895-03-14
+**ScopeContent**:: Anotações da poda e rebentação das vides na Quinta de Boamense.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28165
+**LangMaterial**:: Português
+**PhysLoc**:: AS 438 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28165

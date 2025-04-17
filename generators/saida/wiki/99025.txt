@@ -1,0 +1,17 @@
+====== 99025 - DC - Pedido de certidão que Vicente Pinheiro e Figueira Lobo da Guerra, administrador do Morgado de Pindela, em como neste juízo corre um litígio com Jerónimo Vaz Vieira, da Vila de G. sobre este querer tomar posse do Prazo do Mosteiro de Arnoso em virtude de uma escritura de venda do prazo que dispôs o pai do suplicante ======
+
+**Parent**:: 54470
+**RootParent**:: 31258
+**UnitTitle**:: Pedido de certidão que Vicente Pinheiro e Figueira Lobo da Guerra, administrador do Morgado de Pindela, em como neste juízo corre um litígio com Jerónimo Vaz Vieira, da Vila de G. sobre este querer tomar posse do Prazo do Mosteiro de Arnoso em virtude de uma escritura de venda do prazo que dispôs o pai do suplicante
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1738-11-20
+**UnitDateFinal**:: 1738-11-20
+**ScopeContent**:: Manuscrito, realizado após a morte de João Machado Fagundes. Este documento pertence ao maço de cartas e outros papeis sobre a antiga questão de Arnosinho em 1700. Contém CP 13034 a CP 13107.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54262
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13087 - cx. 85
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99025

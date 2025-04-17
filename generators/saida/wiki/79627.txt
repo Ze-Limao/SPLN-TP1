@@ -1,0 +1,17 @@
+====== 79627 - DC - Recibo de conhecimento de foros de Ana Elvira de Freitas ======
+
+**Parent**:: 31395
+**RootParent**:: 31258
+**UnitTitle**:: Recibo de conhecimento de foros de Ana Elvira de Freitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875
+**UnitDateFinal**:: 1875
+**ScopeContent**:: Impresso e manuscrito. Recibo referente a uma casa em Brito, da família da V. Eulália e que ficou para o Conde de Arnoso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54474
+**LangMaterial**:: Português
+**PhysLoc**:: CP 10710 - cx. 62
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79627

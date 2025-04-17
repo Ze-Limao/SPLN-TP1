@@ -1,0 +1,20 @@
+====== 20517 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Landim
+Filiação - Joaquim Marques dos Santos e Felicidade Rosa
+Naturalidade - Landim
+Data de nascimento - 1870-02-02
+Emprego - Marchante
+Estado - Solteiro
+Residência - Santo Tirso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20517
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20517

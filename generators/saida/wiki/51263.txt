@@ -1,0 +1,17 @@
+====== 51263 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1846-01-12
+Filiação - António da Costa Ribeiro e Custódia Maria Gomes
+Naturalidade - Sezures
+Residência - Pernambuco
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51263
+**LangMaterial**:: Português
+**PhysLoc**:: 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51263

@@ -1,0 +1,16 @@
+====== 28228 - DC - Registos do vinho maduro, etc. Ensaios sobre a densidade dos mostos, etc. ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Registos do vinho maduro, etc. Ensaios sobre a densidade dos mostos, etc.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Capa que continha os documentos referentes a registos do vinho maduro, etc. e ensaios sobre a densidade dos mostos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28228
+**LangMaterial**:: Português
+**PhysLoc**:: AS 512 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28228

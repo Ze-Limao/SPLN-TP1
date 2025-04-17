@@ -1,0 +1,16 @@
+====== 26073 - DC - Carta ======
+
+**Parent**:: 21217
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-05-31
+**UnitDateFinal**:: 1921-05-31
+**ScopeContent**:: Júlio César de Lima agradece a oferta do livro Camilo Homenageado. Carta manuscrita assinada, de Viana do Castelo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26073
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 867- cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26073

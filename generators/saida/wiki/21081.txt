@@ -1,0 +1,22 @@
+====== 21081 - UI - Augusto Soares de Azevedo Barbosa de Pinho Leal ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Augusto Soares de Azevedo Barbosa de Pinho Leal
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1874
+**UnitDateFinal**:: 1878-10-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21081
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 307, 308, 309, 310, 311, 312
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21081
+
+===== Filhos =====
+  * [[24874.txt|24874 - DC - Carta]]
+  * [[24875.txt|24875 - DC - Carta]]
+  * [[24876.txt|24876 - DC - Carta]]
+  * [[24877.txt|24877 - DC - Carta]]
+  * [[24878.txt|24878 - DC - Carta]]
+  * [[24879.txt|24879 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 27967 - SSC - Formação académica ======
+
+**Parent**:: 27964
+**RootParent**:: 27963
+**UnitTitle**:: Formação académica
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1860-03-20
+**UnitDateFinal**:: 1862-12-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27967
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27967
+
+===== Filhos =====
+  * [[27972.txt|27972 - SSSC - Atividade na Sociedade do Raio]]
+  * [[27973.txt|27973 - SSSC - Colaborador na Imprensa Académica]]

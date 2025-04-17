@@ -1,0 +1,18 @@
+====== 51101 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-04-13
+**UnitDateFinal**:: 1864-04-13
+**ScopeContent**:: Data de nascimento - 
+Filiação - 
+Naturalidade - Remelhe, Barcelos
+Profissão - Criado de servir
+Residência - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51101
+**LangMaterial**:: Português
+**PhysLoc**:: 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51101

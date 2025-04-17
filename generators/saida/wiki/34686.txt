@@ -1,0 +1,19 @@
+====== 34686 - DC - Registo do recenseamento militar de Abel ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Abel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Cabeçudos
+Data de nascimento - 1862-06-25
+Filiação - João Dias e Teresa de Sampaio
+Profissão - Jornaleiro
+Estado - Solteiro
+Morada - Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34686
+**LangMaterial**:: Português
+**PhysLoc**:: 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34686

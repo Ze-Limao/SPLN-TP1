@@ -1,0 +1,16 @@
+====== 31022 - DC - Registo do recenseamento eleitoral de Joaquim José Carneiro ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim José Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Lagoa
+Profissão - Lavrador
+Morada - Prazins
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31022
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31022

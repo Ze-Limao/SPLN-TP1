@@ -1,0 +1,17 @@
+====== 61237 - UI - Folhas com informações retiradas das cartas para Daniel Rodrigues ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Folhas com informações retiradas das cartas para Daniel Rodrigues
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1980
+**UnitDateFinal**:: 1990
+**ScopeContent**:: Folhas manuscritas a lápis com listas de topónimos, antroponímicos (40 folhas) e 115 fichas da correspondência (juntos de cada carta). Autor desconhecido.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61237
+
+===== Filhos =====
+  * [[61238.txt|61238 - DC - Folhas com lista de topónimos, antroponímicos, etc. das cartas para Daniel Rodrigues]]
+  * [[61363.txt|61363 - DC - Fichas com resumo das cartas para Daniel Rodrigues]]

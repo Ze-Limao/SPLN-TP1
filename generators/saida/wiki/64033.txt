@@ -1,0 +1,15 @@
+====== 64033 - DC - Fatura do Armazém Narciso & Coelho ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Fatura do Armazém Narciso & Coelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1874-12-04
+**UnitDateFinal**:: 1874-12-04
+**ScopeContent**:: Manuscrito e impresso. Empresa do Porto, de de Mercearia, chá e papel de diversas qualidades. Material comprado: livros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 352 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64033

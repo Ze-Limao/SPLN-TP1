@@ -1,0 +1,15 @@
+====== 80462 - UI - Processo nº 151 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 151
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-09-16
+**UnitDateFinal**:: 1971-04-30
+**ScopeContent**:: Junto com Autos de Reclamação de Créditos nº 151-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 157 - cx. 9
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80462

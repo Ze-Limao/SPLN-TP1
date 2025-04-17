@@ -1,0 +1,17 @@
+====== 78362 - DC - Posse que tomou Manuel Velho do Couto e sua mulher Mariana da Guerra, moradores na sua quinta, na freguesia de S. Miguel da Gonça, da Quinta da Perguiseira e casas da Rua de S. Tiago em Guimarães ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Posse que tomou Manuel Velho do Couto e sua mulher Mariana da Guerra, moradores na sua quinta, na freguesia de S. Miguel da Gonça, da Quinta da Perguiseira e casas da Rua de S. Tiago em Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1668-12-05
+**UnitDateFinal**:: 1668-12-05
+**ScopeContent**:: Manuscrito, numerado nº7.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54363
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4978 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78362

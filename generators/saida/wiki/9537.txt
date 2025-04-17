@@ -1,0 +1,19 @@
+====== 9537 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Luís Carneiro e Eugénia Rosa da Silva
+Naturalidade - Brufe
+Data de nascimento - 1877-08-06
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - brufe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9537
+**LangMaterial**:: Português
+**PhysLoc**:: f. 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9537

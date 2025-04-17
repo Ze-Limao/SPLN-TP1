@@ -1,0 +1,16 @@
+====== 25531 - DC - Carta ======
+
+**Parent**:: 21140
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-08-26
+**UnitDateFinal**:: 1913-08-26
+**ScopeContent**:: Carta manuscrita assinada, de Viseu. Papel timbrado do Banco de Portugal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25531
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 485 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25531

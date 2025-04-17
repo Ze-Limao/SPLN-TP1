@@ -1,0 +1,16 @@
+====== 23084 - DC - Carta ======
+
+**Parent**:: 20334
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919
+**UnitDateFinal**:: 1919
+**ScopeContent**:: Afonso de Azevedo Nunes Branco informa não saber a proveniência de um subsídio de 20 $00, como medida preventiva informa que pediu ao Drº Nuno Simões a defesa do subsídio. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23084
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 9 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23084

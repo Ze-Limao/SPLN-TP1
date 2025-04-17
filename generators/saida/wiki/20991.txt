@@ -1,0 +1,15 @@
+====== 20991 - DC - Nº 11/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 11/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-06-06
+**UnitDateFinal**:: 1962-06-06
+**ScopeContent**:: Contrato de compra e venda de um terreno em Jesufrei para construção de um edifício escolar de duas salas
+Outorgantes - Joaquim Gomes de Castro Júnior e Guilhermina Gomes de Araújo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20991
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20991

@@ -1,0 +1,18 @@
+====== 47379 - DC - Registo do recenseamento eleitoral de José António da Silva Granja ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António da Silva Granja
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Antas
+Profissão - Proprietário
+Estado - Casado
+Morada - Feira
+Idade - 64
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47379
+**LangMaterial**:: Português
+**PhysLoc**:: 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47379

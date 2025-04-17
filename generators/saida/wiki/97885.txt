@@ -1,0 +1,15 @@
+====== 97885 - UI - Processo nº 547-B/71 ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 547-B/71
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-03-19
+**UnitDateFinal**:: 1989-12-04
+**ScopeContent**:: Junto com Autos de Transgressão nº 547 e Autos de Execução por Custas nº 547-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 604 - cx. 34
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97885

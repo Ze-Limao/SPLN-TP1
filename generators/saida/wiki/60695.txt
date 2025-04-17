@@ -1,0 +1,34 @@
+====== 60695 - CL - Coleção Sousa Cristino ======
+
+**Parent**:: 0
+**RootParent**:: 60695
+**UnitTitle**:: Coleção Sousa Cristino
+**DescriptionLevel**:: CL
+**UnitDateInitial**:: 1873
+**UnitDateFinal**:: 1939
+**ScopeContent**:: A coleção de fotografias datada entre 1876 a 1972. Retrata a vivência da família Sousa Cristina e dos que desfrutaram do seu convívio, no quotidiano e nas festas. Destacam-se as imagens do local onde habitavam - Quinta do Reguengo - e da Quinta da Palmeira - local de diversão e de convívio. Esta coleção tem imagens de desfiles populares, indústria, caça, pesca, agricultura (medas, vindima, apanha da batata), meios de transporte e muitos retratos de família. Esta coleção está digital no sistema GEAD (Coleção PT.MVCT.FF.SC.00204) que pode ser consultada internamente no Arquivo Municipal.
+
+A coleção é composta por:
+124 doc. Correspondência;
+76 Recibos; 
+7 Maços de etiquetas para vinhos; 
+27 Folhetos, catálogos e notas; 
+2 caixas com Material para fotografia; 
+539 Fotografias - positivos em papel; 
+1 Álbum com 155 fotografias; 3 recortes de jornais; 
+1 Álbum com 68 fotografias; 
+288 Negativos em vidro (141 doc. 13x19 cm; 104 doc.  9,5x12 cm; 3 doc. 6,5x9 cm; 40 doc. 4,4x6 cm).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60695
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60695
+
+===== Filhos =====
+  * [[99060.txt|99060 - SR - Correspondência recebida e enviada]]
+  * [[99256.txt|99256 - SR - Recibos]]
+  * [[99257.txt|99257 - SR - Fotografia]]
+  * [[99380.txt|99380 - SR - Etiquetas para vinhos e cartão de castas vinícolas]]
+  * [[99382.txt|99382 - SR - Folhetos, catálogos e notas]]
+  * [[99389.txt|99389 - SR - Diplomas]]

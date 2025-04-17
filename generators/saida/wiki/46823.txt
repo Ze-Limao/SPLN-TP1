@@ -1,0 +1,18 @@
+====== 46823 - DC - Registo do recenseamento eleitoral de António Joaquim Rodrigues ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Joaquim Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Estado - Casado
+Morada - Salgueirinhos
+Idade - 61
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46823
+**LangMaterial**:: Português
+**PhysLoc**:: 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46823

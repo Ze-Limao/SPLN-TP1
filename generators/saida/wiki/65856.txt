@@ -1,0 +1,15 @@
+====== 65856 - DC - Cópia da Carta de prazo de um casal, situado na freguesia de S. Tiago de Rebordões (concelho de Santo Tirso), feito por Antoninho Doniz, abade da Igreja de S.Tiago de Antas, a Afonso Lourenço, ferreiro, e a sua mulher Joana Domingues ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Cópia da Carta de prazo de um casal, situado na freguesia de S. Tiago de Rebordões (concelho de Santo Tirso), feito por Antoninho Doniz, abade da Igreja de S.Tiago de Antas, a Afonso Lourenço, ferreiro, e a sua mulher Joana Domingues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1700
+**UnitDateFinal**:: 1800
+**ScopeContent**:: Manuscrito, cópia. Transcrição do documento original datado de 1440-04-15 pergaminho, com a cota CSTA 2. Documento igual CSTA 347.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 619 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65856

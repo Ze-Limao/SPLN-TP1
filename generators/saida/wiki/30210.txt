@@ -1,0 +1,16 @@
+====== 30210 - DC - Carta ======
+
+**Parent**:: 21384
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-12-18
+**UnitDateFinal**:: 1925-12-18
+**ScopeContent**:: Carta manuscrita e assinada, de Lobrigos, S. João, Linha do Corgo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30210
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1342 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30210

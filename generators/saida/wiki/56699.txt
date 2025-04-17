@@ -1,0 +1,17 @@
+====== 56699 - DC - Grands Magasins Printemps ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Grands Magasins Printemps
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-01-09
+**UnitDateFinal**:: 1904-01-09
+**ScopeContent**:: Manuscrito em papel timbrado da empresa. Junto com CP 7650 a CP 7653.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56699
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 7649 - cx. 49
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56699

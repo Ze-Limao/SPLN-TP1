@@ -1,0 +1,16 @@
+====== 23383 - DC - Registo do recenseamento eleitoral de José António do Couto ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António do Couto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Pedreiro
+Morada - S. Pedro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23383
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23383

@@ -1,0 +1,18 @@
+====== 8925 - DC - Termo do exame de Albino da Silva Faria ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Albino da Silva Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-24
+**UnitDateFinal**:: 1894-07-24
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - José Barbosa Marques
+Naturalidade - Delães
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8925
+**LangMaterial**:: Português
+**PhysLoc**:: f. 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8925

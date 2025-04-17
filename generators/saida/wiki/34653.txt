@@ -1,0 +1,20 @@
+====== 34653 - DC - Registo do recenseamento militar de Miguel ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Miguel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Gondifelos
+Data de nascimento - 1862-06-29
+Filiação - António Ferreira de Carvalho e Joaquina Maria
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34653
+**LangMaterial**:: Português
+**PhysLoc**:: 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34653

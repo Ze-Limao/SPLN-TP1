@@ -1,0 +1,44 @@
+====== 20219 - SSR - Registo de correspondência recebida nos Serviços Administrativos ======
+
+**Parent**:: 20216
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nos Serviços Administrativos
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1937-04-27
+**UnitDateFinal**:: 1948-01-10
+**ScopeContent**:: Registos de correspondência recebida na Câmara Municipal de Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20219
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20219
+
+===== Filhos =====
+  * [[20276.txt|20276 - UI - Registo de correspondência recebida nº2]]
+  * [[20277.txt|20277 - UI - Registo de correspondência recebida nº3]]
+  * [[20278.txt|20278 - UI - Registo de correspondência recebida nº4]]
+  * [[20279.txt|20279 - UI - Registo de correspondência recebida nº5]]
+  * [[20280.txt|20280 - UI - Registo de correspondência recebida nos Serviços Administrativos nº6]]
+  * [[20281.txt|20281 - UI - Registo de correspondência recebida nos Serviços Administrativos nº7]]
+  * [[20282.txt|20282 - UI - Registo de correspondência recebida nos Serviços Administrativos nº8]]
+  * [[20283.txt|20283 - UI - Registo de correspondência recebida nos Serviços Administrativos nº9]]
+  * [[20284.txt|20284 - UI - Registo de correspondência recebida nos Serviços Administrativos nº10]]
+  * [[20285.txt|20285 - UI - Registo de correspondência recebida nos Serviços Administrativos nº11]]
+  * [[20286.txt|20286 - UI - Registo de correspondência recebida nos Serviços Administrativos nº12]]
+  * [[20287.txt|20287 - UI - Registo de correspondência recebida nos Serviços Administrativos nº13]]
+  * [[20288.txt|20288 - UI - Registo de correspondência recebida nos Serviços Administrativos nº14]]
+  * [[20289.txt|20289 - UI - Registo de correspondência recebida nos Serviços Administrativos]]
+  * [[20299.txt|20299 - UI - Registo de correspondência recebida nos Serviços Administrativos]]
+  * [[20300.txt|20300 - UI - Registo de correspondência recebida nos Serviços Administrativos nº17]]
+  * [[20301.txt|20301 - UI - Registo de correspondência recebida nos Serviços Administrativos nº18]]
+  * [[20302.txt|20302 - UI - Registo de correspondência recebida nos Serviços Administrativos nº20]]
+  * [[20303.txt|20303 - UI - Registo de correspondência recebida nos Serviços Administrativos nº21]]
+  * [[20304.txt|20304 - UI - Registo de correspondência recebida nos Serviços Administrativos nº22]]
+  * [[20305.txt|20305 - UI - Registo de correspondência recebida nos Serviços Administrativos]]
+  * [[20306.txt|20306 - UI - Registo de correspondência recebida nos Serviços Administrativos]]
+  * [[20307.txt|20307 - UI - Registo de correspondência recebida nos Serviços Administrativos nº25]]
+  * [[20308.txt|20308 - UI - Registo de correspondência recebida nos Serviços Administrativos nº26]]
+  * [[20309.txt|20309 - UI - Registo de correspondência recebida nos Serviços Administrativos nº27]]
+  * [[20310.txt|20310 - UI - Registo de correspondência recebida nos Serviços Administrativos nº28]]
+  * [[20311.txt|20311 - UI - Registo de correspondência recebida nos Serviços Administrativos nº29]]
+  * [[20312.txt|20312 - UI - Registo de correspondência recebida nos Serviços Administrativos nº30]]
+  * [[20313.txt|20313 - UI - Registo de correspondência recebida nos Serviços Administrativos nº31]]

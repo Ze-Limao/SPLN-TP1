@@ -1,0 +1,19 @@
+====== 62014 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - José Ferreira de Carvalho Lobo e Joaquina Rosa, aquele falecido e esta na freguesia
+Naturalidade - landim
+Morada - Landim
+Data de nascimento - 1861-11-19
+Emprego - Tecelão
+Estado - Casado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62014

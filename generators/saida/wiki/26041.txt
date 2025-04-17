@@ -1,0 +1,16 @@
+====== 26041 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Júlio Brandão agradece a oferta de marmelada e faz comentários à sedução do doce. Carta manuscrita assinada, de Famalicão. Carta do dia 25 setembro, sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26041
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 835 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26041

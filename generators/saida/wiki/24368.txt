@@ -1,0 +1,16 @@
+====== 24368 - DC - Registo do recenseamento eleitoral de Tomás Lourenço Barbosa ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Tomás Lourenço Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Cruz
+Profissão - Lavrador
+Morada - Ribela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24368
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24368

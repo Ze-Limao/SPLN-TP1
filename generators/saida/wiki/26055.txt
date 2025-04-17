@@ -1,0 +1,16 @@
+====== 26055 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-03-20
+**UnitDateFinal**:: 1915-03-20
+**ScopeContent**:: Júlio Brandão refere o incêndio que consumiu a casa de Camilo Castelo Branco e refere o interesse de criar um museu. Carta manuscrita assinada, do Porto Rua Lindo Vale 111. Carta sem menção ao ano. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26055
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 849 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26055

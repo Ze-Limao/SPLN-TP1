@@ -1,0 +1,16 @@
+====== 30287 - DC - Carta ======
+
+**Parent**:: 21451
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-07-24
+**UnitDateFinal**:: 1915-07-24
+**ScopeContent**:: Carta manuscrita e assinada, de Casa de S. Benigno, Calle do Vidalia, Madrid. A carta tem junto um cartão de visita com o nome do remetente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30287
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1447 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30287

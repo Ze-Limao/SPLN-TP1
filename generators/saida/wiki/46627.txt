@@ -1,0 +1,18 @@
+====== 46627 - DC - Registo do recenseamento eleitoral de Joaquim de Azevedo Carvalho ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim de Azevedo Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Oliveira Santa Maria
+Profissão - Lavrador
+Estado - Casado
+Morada - Ribes
+Idade - 31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46627
+**LangMaterial**:: Português
+**PhysLoc**:: 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46627

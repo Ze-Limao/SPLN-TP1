@@ -1,0 +1,18 @@
+====== 8662 - DC - Termo do exame de Idalina Torres Carneiro ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Idalina Torres Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-08-05
+**UnitDateFinal**:: 1889-08-05
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Joaquim Alves Torres Carneiro
+Naturalidade - Requião
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8662
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 80
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8662

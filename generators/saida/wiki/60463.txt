@@ -1,0 +1,50 @@
+====== 60463 - UI - Fernando de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31373
+**RootParent**:: 31258
+**UnitTitle**:: Fernando de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1851-08-05
+**UnitDateFinal**:: 1856-10-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53090
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60463
+
+===== Filhos =====
+  * [[60464.txt|60464 - DC - Carta]]
+  * [[60505.txt|60505 - DC - Carta]]
+  * [[60506.txt|60506 - DC - Carta]]
+  * [[60507.txt|60507 - DC - Carta]]
+  * [[60508.txt|60508 - DC - Carta]]
+  * [[60509.txt|60509 - DC - Carta]]
+  * [[60510.txt|60510 - DC - Carta]]
+  * [[60511.txt|60511 - DC - Carta]]
+  * [[60512.txt|60512 - DC - Carta]]
+  * [[60513.txt|60513 - DC - Carta]]
+  * [[60514.txt|60514 - DC - Carta]]
+  * [[60521.txt|60521 - DC - Carta]]
+  * [[60522.txt|60522 - DC - Carta]]
+  * [[60523.txt|60523 - DC - Carta]]
+  * [[60524.txt|60524 - DC - Carta]]
+  * [[60525.txt|60525 - DC - Carta]]
+  * [[60526.txt|60526 - DC - Carta]]
+  * [[60527.txt|60527 - DC - Carta]]
+  * [[60528.txt|60528 - DC - Carta]]
+  * [[60529.txt|60529 - DC - Carta]]
+  * [[60530.txt|60530 - DC - Carta]]
+  * [[60531.txt|60531 - DC - Carta]]
+  * [[60532.txt|60532 - DC - Carta]]
+  * [[60533.txt|60533 - DC - Carta]]
+  * [[60534.txt|60534 - DC - Carta]]
+  * [[60535.txt|60535 - DC - Carta]]
+  * [[60552.txt|60552 - DC - Carta]]
+  * [[60553.txt|60553 - DC - Carta]]
+  * [[60554.txt|60554 - DC - Carta]]
+  * [[60555.txt|60555 - DC - Carta]]
+  * [[60556.txt|60556 - DC - Carta]]
+  * [[60557.txt|60557 - DC - Carta]]
+  * [[60558.txt|60558 - DC - Carta]]
+  * [[60559.txt|60559 - DC - Carta]]
+  * [[60560.txt|60560 - DC - Carta]]
+  * [[60561.txt|60561 - DC - Carta]]
+  * [[60562.txt|60562 - DC - Carta]]

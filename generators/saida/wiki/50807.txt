@@ -1,0 +1,18 @@
+====== 50807 - DC - Registo do recenseamento militar de Fortunato ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Fortunato
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-02-15
+Filiação - António Morais e Joana Maria e Carvalho
+Naturalidade - Joane
+Profissão - Criado de servir
+Residência - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50807
+**LangMaterial**:: Português
+**PhysLoc**:: 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50807

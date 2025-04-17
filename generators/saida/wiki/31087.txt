@@ -1,0 +1,16 @@
+====== 31087 - DC - Registo do recenseamento eleitoral de Domingos da Costa ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Lavrador
+Morada - Vinha do Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31087
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 41v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31087

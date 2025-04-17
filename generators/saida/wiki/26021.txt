@@ -1,0 +1,16 @@
+====== 26021 - DC - Cartão de visita ======
+
+**Parent**:: 21207
+**RootParent**:: 20290
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-01-26
+**UnitDateFinal**:: 1922-01-26
+**ScopeContent**:: Cartão manuscrita e assinado. Cartão timbrado "José Maria Braga da Cruz. José Vicente Taveira da Silva Catalão. Advogados. Praça do Municipal, 72 ...Braga".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26021
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 815- cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26021

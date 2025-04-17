@@ -1,0 +1,16 @@
+====== 25775 - DC - Carta ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-12-12
+**UnitDateFinal**:: 1905-12-12
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Consulado de Portugal em Genova".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25775
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 707 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25775

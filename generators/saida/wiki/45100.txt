@@ -1,0 +1,21 @@
+====== 45100 - UI - Josefina Coonen ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Josefina Coonen
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-11-30
+**UnitDateFinal**:: 1910-01-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45100
+**LangMaterial**:: Francês
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45100
+
+===== Filhos =====
+  * [[45091.txt|45091 - DC - Carta]]
+  * [[45092.txt|45092 - DC - Carta]]
+  * [[45093.txt|45093 - DC - Carta]]
+  * [[45094.txt|45094 - DC - Carta]]
+  * [[45095.txt|45095 - DC - Carta]]

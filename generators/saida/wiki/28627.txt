@@ -1,0 +1,29 @@
+====== 28627 - DC - Notas sobre Vila do Conde ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre Vila do Conde
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Consultar capítulo III “O mar livre” do estudo As Povoas Marítimas do Norte de Portugal in Estudos Históricos e Económicos, ed. 1923, pp. 326-334.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28627
+**LangMaterial**:: Português
+**PhysLoc**:: AS 114 (1) a 114 (12)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28627
+
+===== Filhos =====
+  * [[28628.txt|28628 - DC - Villa do Conde]]
+  * [[29905.txt|29905 - DC - Villa do Conde Formariz]]
+  * [[29906.txt|29906 - DC - Villa do Conde]]
+  * [[29907.txt|29907 - DC - Do Archivo da Sé de Braga, Liber Fidei]]
+  * [[29908.txt|29908 - DC - Difel. et Ch. P.M.N. nº420, pg 258]]
+  * [[29909.txt|29909 - DC - Árvore genealógica dos ascendentes e descendentes dos fundadores do Mosteiro de Santa Clara]]
+  * [[29910.txt|29910 - DC - Villa de Conde]]
+  * [[29911.txt|29911 - DC - Villa do Conde. Doação de bens reguengos em Vila do Conde]]
+  * [[29912.txt|29912 - DC - Vila do Conde Testamento de Sancho I]]
+  * [[29913.txt|29913 - DC - In Dei nomine]]
+  * [[29914.txt|29914 - DC - Fazemos hum mosteiro]]
+  * [[29915.txt|29915 - DC - Referências bibliográficas respeitantes à doação de Vila do Conde a D. Maria Pais e à fundação do Convento de Vila do Conde.]]

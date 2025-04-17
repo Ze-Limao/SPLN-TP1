@@ -1,0 +1,20 @@
+====== 63372 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Manuel da Costa Sampaio e Margarida Dias de Oliveira, na freguesia
+Naturalidade - Antas
+Morada - Ignora-se
+Data de nascimento - 1864-09-11
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63372

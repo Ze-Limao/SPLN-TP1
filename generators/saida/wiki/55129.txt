@@ -1,0 +1,20 @@
+====== 55129 - UI - João de Alarcão Velasquez Sarmento Osório ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: João de Alarcão Velasquez Sarmento Osório
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1920-01-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55129
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55129
+
+===== Filhos =====
+  * [[55284.txt|55284 - DC - Carta]]
+  * [[55409.txt|55409 - DC - Telegrama de Maria da Conceição Alarcão Osório]]
+  * [[55410.txt|55410 - DC - Carta]]
+  * [[55411.txt|55411 - DC - Carta]]
+  * [[55412.txt|55412 - DC - Carta]]
+  * [[67395.txt|67395 - DC - Cartão]]
+  * [[67396.txt|67396 - DC - Minuta de carta de Vicente Pinheiro]]

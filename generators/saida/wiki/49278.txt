@@ -1,0 +1,18 @@
+====== 49278 - DC - Registo do recenseamento eleitoral de Manuel José Nogueira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José Nogueira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Lavrador
+Estado - Casado
+Morada - Ruivães
+Idade - 66
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49278
+**LangMaterial**:: Português
+**PhysLoc**:: 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49278

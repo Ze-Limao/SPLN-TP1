@@ -1,0 +1,16 @@
+====== 24123 - DC - Registo do recenseamento eleitoral de Dionísio José Barroso ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Dionísio José Barroso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Bairro
+Profissão - Abade
+Morada - Residência
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24123
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24123

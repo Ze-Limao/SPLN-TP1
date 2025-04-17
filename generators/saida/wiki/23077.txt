@@ -1,0 +1,16 @@
+====== 23077 - DC - Registo do recenseamento eleitoral de Manuel Ribeiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Pousada de Saramagos
+Profissão - Tecelão
+Morada - Matinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23077
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23077

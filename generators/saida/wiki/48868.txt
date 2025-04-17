@@ -1,0 +1,18 @@
+====== 48868 - DC - Registo do recenseamento eleitoral de Manuel José Vieira da Cruz ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José Vieira da Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Mogege
+Profissão - Reitor
+Estado - Solteiro
+Morada - Residência
+Idade - 30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48868
+**LangMaterial**:: Português
+**PhysLoc**:: 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48868

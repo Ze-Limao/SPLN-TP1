@@ -1,0 +1,15 @@
+====== 66020 - DC - Emprazamento do casal de Fontelo, situado na freguesia S. Julião de Calendário, feita por Bernardo da Silva, abade da Igreja de S. Tiago de Antas, a Pero Pires e sua mulher Margarida Pires ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Fontelo, situado na freguesia S. Julião de Calendário, feita por Bernardo da Silva, abade da Igreja de S. Tiago de Antas, a Pero Pires e sua mulher Margarida Pires
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1597-03-07
+**UnitDateFinal**:: 1597-03-07
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 77 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66020

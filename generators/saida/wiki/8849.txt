@@ -1,0 +1,18 @@
+====== 8849 - DC - Termo do exame de Manuel Gomes da Costa Carneiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Gomes da Costa Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-02
+**UnitDateFinal**:: 1893-08-02
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - António Domingues Costa
+Naturalidade - Fradelos
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8849
+**LangMaterial**:: Português
+**PhysLoc**:: f. 47
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8849

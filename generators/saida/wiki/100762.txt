@@ -1,0 +1,17 @@
+====== 100762 - DC - Folha de legítima e quinhão do herdeiro Vicente, sobrinho do defunto ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Folha de legítima e quinhão do herdeiro Vicente, sobrinho do defunto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1801-01-29
+**UnitDateFinal**:: 1801-01-29
+**ScopeContent**:: Manuscrito em papel azul de 10 reis, numa "Pasta nº1 Casal nº 1Z". Este documento estava na caixa “Pasta nº1 Anno 1841”, que contém CP 13170 a CP 13193.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13188 - cx. 88
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100762

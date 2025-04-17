@@ -1,0 +1,25 @@
+====== 8273 - UI - Sebastião Ferreira de Carvalho ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Sebastião Ferreira de Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-02-02
+**UnitDateFinal**:: 1895-12-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8273
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.11
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8273
+
+===== Filhos =====
+  * [[8274.txt|8274 - DC - Carta]]
+  * [[8275.txt|8275 - DC - Carta]]
+  * [[8276.txt|8276 - DC - Carta]]
+  * [[8277.txt|8277 - DC - Carta]]
+  * [[8278.txt|8278 - DC - Carta]]
+  * [[8279.txt|8279 - DC - Carta]]
+  * [[8280.txt|8280 - DC - Carta]]
+  * [[8281.txt|8281 - DC - Carta]]
+  * [[8282.txt|8282 - DC - Carta]]
+  * [[8283.txt|8283 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 27941 - DC - Carta ======
+
+**Parent**:: 21266
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-11-19
+**UnitDateFinal**:: 1915-11-19
+**ScopeContent**:: Sousa Fernandes informa que João de Barros se poderá interessar pela homenagem ao escritor Camilo. Carta manuscrita assinada, de Mões (Vila Nova de Famalicão).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27941
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1034 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27941

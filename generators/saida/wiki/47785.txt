@@ -1,0 +1,18 @@
+====== 47785 - DC - Registo do recenseamento eleitoral de João Francisco da Cruz ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Francisco da Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Cruz
+Profissão - Eclesiástico
+Estado - Solteiro
+Morada - Ribela
+Idade - 27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47785
+**LangMaterial**:: Português
+**PhysLoc**:: 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47785

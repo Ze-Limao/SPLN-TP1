@@ -1,0 +1,16 @@
+====== 25778 - DC - Carta ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-01-03
+**UnitDateFinal**:: 1906-01-03
+**ScopeContent**:: Carta manuscrita assinada, de Génova.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25778
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 710 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25778

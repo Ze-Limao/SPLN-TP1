@@ -1,0 +1,16 @@
+====== 30284 - DC - Carta ======
+
+**Parent**:: 21450
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1932-11-30
+**UnitDateFinal**:: 1932-11-30
+**ScopeContent**:: Carta manuscrita e assinada, de Mouquim, Famalicão. Carta de papel de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30284
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1444 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30284

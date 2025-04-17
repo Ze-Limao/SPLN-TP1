@@ -1,0 +1,15 @@
+====== 65836 - DC - Emprazamento do casal da Quinta, situado na freguesia de S. Tiago de Outiz, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a João Gonçalves e a sua mulher Maria Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal da Quinta, situado na freguesia de S. Tiago de Outiz, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a João Gonçalves e a sua mulher Maria Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1550-08-20
+**UnitDateFinal**:: 1550-08-20
+**ScopeContent**:: Manuscrito, original, com selo. Restaurado e acondicionado em 2021.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 47 - Capa P2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65836

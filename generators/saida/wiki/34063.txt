@@ -1,0 +1,19 @@
+====== 34063 - DC - Registo do recenseamento militar de Joaquim da Silva ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Mogege
+Data de nascimento - 1852-08-11
+Filiação - Joaquim da Silva e Narcisa Rosa
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34063
+**LangMaterial**:: Português
+**PhysLoc**:: 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34063

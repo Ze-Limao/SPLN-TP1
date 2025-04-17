@@ -1,0 +1,18 @@
+====== 54355 - UI - Teresa do Lado de Jesus ======
+
+**Parent**:: 31297
+**RootParent**:: 31258
+**UnitTitle**:: Teresa do Lado de Jesus
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1812-01-27
+**UnitDateFinal**:: 1817-03-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54355
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54355
+
+===== Filhos =====
+  * [[54358.txt|54358 - DC - Carta para Luís Pinto de Magalhães e Gouveia]]
+  * [[54359.txt|54359 - DC - Carta]]
+  * [[54360.txt|54360 - DC - Carta]]
+  * [[54361.txt|54361 - DC - Carta]]

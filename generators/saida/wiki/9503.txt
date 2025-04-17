@@ -1,0 +1,19 @@
+====== 9503 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Luís Machado e Joaquina Rosa
+Naturalidade - Lagoa
+Data de nascimento - 1877-03-31
+Profissão - 
+Estado civil - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9503
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9503

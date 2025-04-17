@@ -1,0 +1,17 @@
+====== 98253 - DC - Sentença sobre várias demandas com Paulo Cunha, de Baltasar Pinho, sobre a herança de Estevão Pinheiro de metade da quinta de Ribela, por esta ficar vinculada com certa obrigação de missas ao Morgado de Pindela ======
+
+**Parent**:: 54464
+**RootParent**:: 31258
+**UnitTitle**:: Sentença sobre várias demandas com Paulo Cunha, de Baltasar Pinho, sobre a herança de Estevão Pinheiro de metade da quinta de Ribela, por esta ficar vinculada com certa obrigação de missas ao Morgado de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1612-10-04
+**UnitDateFinal**:: 1612-10-04
+**ScopeContent**:: Manuscrito com folhas cosidas numa "Pasta nº3 Cazal Nº 7 M". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 12875 a CP 12958.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54256
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12903 - cx. 80
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98253

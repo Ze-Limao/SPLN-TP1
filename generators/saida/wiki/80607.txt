@@ -1,0 +1,15 @@
+====== 80607 - UI - Processo nº 135 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 135
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1977-10-26
+**UnitDateFinal**:: 1980-05-31
+**ScopeContent**:: Junto com Autos de Embargos de Executado nº 135-A e Autos de Execução de Sentença nº 135-A, nº 27/79.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 247 - cx. 13
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80607

@@ -1,0 +1,23 @@
+====== 28609 - DC - Nota sobre as inquirições de D. Afonso III (1258) em Esposende. ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Nota sobre as inquirições de D. Afonso III (1258) em Esposende.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28609
+**LangMaterial**:: Português
+**PhysLoc**:: AS 110 (1) a 110 (7)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28609
+
+===== Filhos =====
+  * [[28610.txt|28610 - DC - Espozende]]
+  * [[28611.txt|28611 - DC - Espozende diz-se ter foral de D. Sebastião]]
+  * [[28612.txt|28612 - DC - Espozende o foral tem a data de 1572]]
+  * [[28613.txt|28613 - DC - Fão]]
+  * [[28614.txt|28614 - DC - Confrontar esta de Fão]]
+  * [[28615.txt|28615 - DC - Fão]]
+  * [[28616.txt|28616 - DC - As inquirições citadas são de Afonso II]]

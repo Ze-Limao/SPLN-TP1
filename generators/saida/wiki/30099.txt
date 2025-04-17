@@ -1,0 +1,14 @@
+====== 30099 - DC - Camilo Joaquim da Costa e Silva ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Camilo Joaquim da Costa e Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-09
+**UnitDateFinal**:: 1974-10-09
+**ScopeContent**:: Regedor efetivo da freguesia de Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30099
+**LangMaterial**:: Português
+**PhysLoc**:: f. 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30099

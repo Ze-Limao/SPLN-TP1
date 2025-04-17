@@ -1,0 +1,17 @@
+====== 99747 - DC - Notas de António Cristino sobre o cultivo na Quinta do Reguengo em Vila Nova de Famalicão ======
+
+**Parent**:: 99382
+**RootParent**:: 60695
+**UnitTitle**:: Notas de António Cristino sobre o cultivo na Quinta do Reguengo em Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Caderno manuscrito de António Cristino.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99390
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 234 - cx. 6
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99747

@@ -1,0 +1,19 @@
+====== 62242 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - António José de Carvalho e Teresa Maria
+Naturalidade - Terroso, Póvoa de Varzim
+Morada - Outiz
+Data de nascimento - 1861-02-26
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62242

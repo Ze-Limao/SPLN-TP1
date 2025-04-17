@@ -1,0 +1,17 @@
+====== 21320 - UI - António Loureiro Rocha Páris Barbosa de Vasconcelos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Loureiro Rocha Páris Barbosa de Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21320
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1209, 1210
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21320
+
+===== Filhos =====
+  * [[29800.txt|29800 - DC - Carta]]
+  * [[29801.txt|29801 - DC - Carta]]

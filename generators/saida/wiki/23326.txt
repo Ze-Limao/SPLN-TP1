@@ -1,0 +1,16 @@
+====== 23326 - DC - Registo do recenseamento eleitoral de José da Silva Teixeira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José da Silva Teixeira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Morada - Ferreiros
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23326
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23326

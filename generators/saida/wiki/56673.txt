@@ -1,0 +1,17 @@
+====== 56673 - DC - Notícia do falecimento de Anselmo de Sousa Botelho ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Notícia do falecimento de Anselmo de Sousa Botelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-11
+**UnitDateFinal**:: 1892-11
+**ScopeContent**:: Recorte com anúncio no jornal sobre a missa pela alma de Anselmo Sousa Botelho. Documento no maço CP 7399, junto com 7400 a 7403.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56673
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7404 - cx. 48
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56673

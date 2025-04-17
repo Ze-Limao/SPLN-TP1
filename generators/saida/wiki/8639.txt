@@ -1,0 +1,18 @@
+====== 8639 - DC - Termo do exame de José Correia de Sá ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José Correia de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-08-02
+**UnitDateFinal**:: 1889-08-02
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Alexandre Correia
+Naturalidade - Abade de Vermoim
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8639
+**LangMaterial**:: Português
+**PhysLoc**:: f. 74
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8639

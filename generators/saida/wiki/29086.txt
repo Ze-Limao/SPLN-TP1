@@ -1,0 +1,15 @@
+====== 29086 - DC - Bilhete de Alberto Sampaio ======
+
+**Parent**:: 29080
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 187
+**UnitDateFinal**:: 187
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29086
+**LangMaterial**:: Português
+**PhysLoc**:: AS 576 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29086

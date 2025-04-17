@@ -1,0 +1,14 @@
+====== 28800 - UI - Agostinho Vicente Lourenço ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Agostinho Vicente Lourenço
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1875-05-30
+**UnitDateFinal**:: 1875-05-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28800
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28800
+
+===== Filhos =====
+  * [[28801.txt|28801 - DC - Carta]]

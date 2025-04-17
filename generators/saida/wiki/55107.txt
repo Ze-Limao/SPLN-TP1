@@ -1,0 +1,21 @@
+====== 55107 - UI - Bernardino Machado ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Bernardino Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893-03-21
+**UnitDateFinal**:: 1910-10-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55107
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55107
+
+===== Filhos =====
+  * [[55163.txt|55163 - DC - Cartão]]
+  * [[55164.txt|55164 - DC - Cartão de visita]]
+  * [[55165.txt|55165 - DC - Carta]]
+  * [[55166.txt|55166 - DC - Bilhete-postal]]
+  * [[55167.txt|55167 - DC - Cartas]]
+  * [[55168.txt|55168 - DC - Carta]]
+  * [[55169.txt|55169 - DC - Minutas de telegramas de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55170.txt|55170 - DC - Telegrama]]

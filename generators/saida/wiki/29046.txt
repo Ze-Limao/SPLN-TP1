@@ -1,0 +1,16 @@
+====== 29046 - DC - Bilhete-postal ======
+
+**Parent**:: 29044
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-12-23
+**UnitDateFinal**:: 1902-12-23
+**ScopeContent**:: Bilhete-postal expedido de Guimarães. Imagem do Castelo de Mumadona (século X) - Alcaçar do onde D. Henrique, Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29046
+**LangMaterial**:: Português
+**PhysLoc**:: AS 655 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29046

@@ -1,0 +1,16 @@
+====== 21407 - UI - Gaspar Lobo de Sá Machado ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Gaspar Lobo de Sá Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1876-08-10
+**UnitDateFinal**:: 1876-08-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21407
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1377
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21407
+
+===== Filhos =====
+  * [[29984.txt|29984 - DC - Carta]]

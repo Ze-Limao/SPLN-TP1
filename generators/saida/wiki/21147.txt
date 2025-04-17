@@ -1,0 +1,23 @@
+====== 21147 - UI - Jerónimo da Cunha Pimentel ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Jerónimo da Cunha Pimentel
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1882-08-05
+**UnitDateFinal**:: 1898-03-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21147
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 519, 520, 521, 522, 523, 524, 525
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21147
+
+===== Filhos =====
+  * [[25566.txt|25566 - DC - Carta]]
+  * [[25567.txt|25567 - DC - Carta]]
+  * [[25568.txt|25568 - DC - Carta]]
+  * [[25569.txt|25569 - DC - Carta]]
+  * [[25570.txt|25570 - DC - Carta]]
+  * [[25571.txt|25571 - DC - Carta]]
+  * [[25572.txt|25572 - DC - Carta]]

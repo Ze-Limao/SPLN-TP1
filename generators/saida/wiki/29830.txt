@@ -1,0 +1,16 @@
+====== 29830 - DC - Carta ======
+
+**Parent**:: 21342
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-11-24
+**UnitDateFinal**:: 1906-11-24
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado da "Secretaria da Mordomia Môr da Casa Real".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29830
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1239 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29830

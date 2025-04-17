@@ -1,0 +1,18 @@
+====== 46918 - DC - Registo do recenseamento eleitoral de Manuel Pereira de Azevedo ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Pereira de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Lavrador
+Estado - Casado
+Morada - Nomães
+Idade - 55
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46918
+**LangMaterial**:: Português
+**PhysLoc**:: 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46918

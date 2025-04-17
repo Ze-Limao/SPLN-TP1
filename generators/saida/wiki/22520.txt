@@ -1,0 +1,16 @@
+====== 22520 - DC - Registo do recenseamento eleitoral de António Joaquim de Sousa Veloso ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Joaquim de Sousa Veloso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Landim
+Profissão - Lavrador
+Morada - Travassos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22520
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22520

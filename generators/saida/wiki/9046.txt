@@ -1,0 +1,13 @@
+====== 9046 - DC - Ofício n- 68 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício n- 68
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-08-11
+**UnitDateFinal**:: 1885-08-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9046
+**LangMaterial**:: Português
+**PhysLoc**:: f. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9046

@@ -1,0 +1,16 @@
+====== 24289 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-08-10
+**UnitDateFinal**:: 1918-08-10
+**ScopeContent**:: António Cabral devolve as fotografias de Camilo e anuncia que em outubro o livro “Camilo desconhecido” será posto à venda e ainda que já informou tudo o que averiguou sobre o Visconde de Ouguela. Partirá em breve para Baião onde descansará 2 meses. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24289
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 125 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24289

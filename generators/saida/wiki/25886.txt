@@ -1,0 +1,16 @@
+====== 25886 - DC - Bombeiros e uma bomba de água num carro puxado por uma parelha de cavalos ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Bombeiros e uma bomba de água num carro puxado por uma parelha de cavalos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1898
+**ScopeContent**:: Bombeiros fardados numa carro de cavalos com uma bomba de água.Tem legenda
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25886
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25886

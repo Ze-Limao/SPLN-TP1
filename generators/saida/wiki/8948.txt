@@ -1,0 +1,18 @@
+====== 8948 - DC - Termo do exame de Ana Azevedo Alves de Pinho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Ana Azevedo Alves de Pinho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-31
+**UnitDateFinal**:: 1894-07-31
+**ScopeContent**:: Grau - Elementar
+Idade - 8
+Filiação - Aires Alves de Pinho
+Naturalidade - Vila Nova de Famalicão
+Classificação - Distinta
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8948
+**LangMaterial**:: Português
+**PhysLoc**:: f. 73
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8948

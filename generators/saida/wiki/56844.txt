@@ -1,0 +1,17 @@
+====== 56844 - DC - Um prodígio ======
+
+**Parent**:: 54529
+**RootParent**:: 31258
+**UnitTitle**:: Um prodígio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-11-13
+**UnitDateFinal**:: 1923-11-13
+**ScopeContent**:: Recorte de imprensa, com texto de Mariotte. Documento que está na capa junto com CP 8581 a CP 8614.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56844
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8598 - cx. 54
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56844

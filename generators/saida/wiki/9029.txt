@@ -1,0 +1,13 @@
+====== 9029 - DC - Ofício nº 51 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 51
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-07-01
+**UnitDateFinal**:: 1885-07-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9029
+**LangMaterial**:: Português
+**PhysLoc**:: f. 8
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9029

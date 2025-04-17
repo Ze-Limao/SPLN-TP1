@@ -1,0 +1,16 @@
+====== 26194 - DC - Carta ======
+
+**Parent**:: 21250
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Carta manuscrita assinada, datada de 11 de maio sem menção ao ano. Papel timbrado "Gabinete Judicial de Braga. Gabinete do juiz".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26194
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 990- cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26194

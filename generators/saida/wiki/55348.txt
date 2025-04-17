@@ -1,0 +1,17 @@
+====== 55348 - DC - Carta e recortes de jornais ======
+
+**Parent**:: 55123
+**RootParent**:: 31258
+**UnitTitle**:: Carta e recortes de jornais
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-06-25
+**UnitDateFinal**:: 1910-07-06
+**ScopeContent**:: Carta manuscrita assinada, em papel timbrado "Ministério dos Negocios Estrangeiros. Gabinete do Ministro. Particular". Tem um envelope "Carta de Villarinho e recortes de jornaes (6 julho 910)". Contém dois recortes de jornais : "La crise ministerielle en Portugal", in Couriere de Genève", 1910-02-01; "Le trône portugais", in "Journal de Genève", 1910-06-25.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55348
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12581 - cx. 75
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55348

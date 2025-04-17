@@ -1,0 +1,17 @@
+====== 25343 - DC - Seguro de acidentes pessoais aos componentes da AHBVF ======
+
+**Parent**:: 25003
+**RootParent**:: 20342
+**UnitTitle**:: Seguro de acidentes pessoais aos componentes da AHBVF
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-08-26
+**UnitDateFinal**:: 1943-08-26
+**ScopeContent**:: Apólice nº 912 que segura contra todas as consequências dos acidentes corporais que lhe possam sobrevir aos componentes da Associação Humanitária dos Bombeiros Voluntários de Famalicão pela empresa Commercio e Industria Companhia de Seguros, SARL.
+O capital seguro para o risco de morte é de esc. 1.310.000$00 (um milhão trezentos e dez mil escudos). O capital seguro para o risco de invalidez é de esc. 1.310.000$00 (um milhão trezentos e dez mil escudos). O subsídio diário para risco de incapacidade temporária é de seiscentos e cinquenta e cinco escudos em caso de incapacidade temporária absoluta; e de trezentos e vinte e sete escudos e 50/100 em caso de incapacidade parcial. O prémio anual é de 2.358$00.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25343
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 106  - cx. 26
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25343

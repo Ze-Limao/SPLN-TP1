@@ -1,0 +1,17 @@
+====== 32987 - DC - Cartão de visita ======
+
+**Parent**:: 32985
+**RootParent**:: 31258
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Cartão de visita manuscrito e impresso nome, "Thesoureiro da Fazenda Pública. Paços de Ferreira". Sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32987
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4878 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32987

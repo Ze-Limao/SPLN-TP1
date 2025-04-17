@@ -1,0 +1,20 @@
+====== 28684 - DC - Notas sobre a lenda do Rei Ramiro ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre a lenda do Rei Ramiro
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28684
+**LangMaterial**:: Português
+**PhysLoc**:: AS 120 (1) a 120 (4)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28684
+
+===== Filhos =====
+  * [[28685.txt|28685 - DC - Envelope]]
+  * [[28686.txt|28686 - DC - Legenda do Rei Ramiro]]
+  * [[28687.txt|28687 - DC - Sobre a legenda do Rei Ramiro]]
+  * [[28688.txt|28688 - DC - O cat. cont. a minha opinião difere na Sra de Vandoma]]

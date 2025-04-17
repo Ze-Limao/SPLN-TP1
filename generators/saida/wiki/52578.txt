@@ -1,0 +1,18 @@
+====== 52578 - DC - Registo do recenseamento militar de José da Costa ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-05-14
+Filiação - Manuel da Costa e Joana Ribeiro
+Naturalidade - Vermoim
+Profissão - Jornaleiro
+Residência - Requião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52578
+**LangMaterial**:: Português
+**PhysLoc**:: 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52578

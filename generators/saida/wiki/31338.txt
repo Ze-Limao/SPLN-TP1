@@ -1,0 +1,14 @@
+====== 31338 - SSSC - Funções na Comissão de Viticultura da Região dos Vinhos Verdes ======
+
+**Parent**:: 31331
+**RootParent**:: 31258
+**UnitTitle**:: Funções na Comissão de Viticultura da Região dos Vinhos Verdes
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1927
+**UnitDateFinal**:: 1935-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31338
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31338
+
+===== Filhos =====
+  * [[31342.txt|31342 - SR - Documentos]]

@@ -1,0 +1,30 @@
+====== 28243 - SR - As Póvoas Marítimas do Norte de Portugal ======
+
+**Parent**:: 28237
+**RootParent**:: 27963
+**UnitTitle**:: As Póvoas Marítimas do Norte de Portugal
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28243
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28243
+
+===== Filhos =====
+  * [[28020.txt|28020 - DC - A Bajlya da Poboa Noua de Varazim]]
+  * [[28244.txt|28244 - DC - As Póvoas Marítimas do Norte de Portugal: Capítulo I]]
+  * [[28245.txt|28245 - DC - Capítulo II: O mar fechado: a tomada de Lisboa.]]
+  * [[28246.txt|28246 - DC - As Póvoas Marítimas do Norte de Portugal: capítulo II: O mar fechado: a tomada de Lisboa.]]
+  * [[28247.txt|28247 - DC - As Póvoas Marítimas do Norte de Portugal: Capítulo III: O mar livre.]]
+  * [[28248.txt|28248 - DC - Capítulo IV: A emigração para a costa.]]
+  * [[28249.txt|28249 - DC - Capítulo V: O comércio marítimo.]]
+  * [[28250.txt|28250 - DC - Póvoas Marítimas do Norte de Portugal (Parte inédita e definitiva): 1.º - Nota (Lenda do rei Ramiro).]]
+  * [[28251.txt|28251 - DC - Nota A: “A conhecida lenda do Rei Ramiro”.]]
+  * [[28252.txt|28252 - DC - Póvoas Marítimas: Cap. IV, V]]
+  * [[28253.txt|28253 - DC - As Póvoas Marítimas do Norte de Portugal: Capítulo II: O mar fechado: a tomada de Lisboa.]]
+  * [[28254.txt|28254 - DC - As Póvoas Marítimas do Norte de Portugal: capítulos I, II, III.]]
+  * [[28255.txt|28255 - DC - Capítulo II: O mar fechado: a tomada de Lisboa]]
+  * [[28256.txt|28256 - DC - As Póvoas Marítimas do Norte de Portugal: Capítulo II: O mar fechado: a tomada de Lisboa.]]
+  * [[28257.txt|28257 - DC - Apontamentos para o capítulo III da As Póvoas Marítimas do Norte de Portugal.]]
+  * [[28258.txt|28258 - DC - Póvoas Marítimas (apontamentos): Cap. IV, V]]
+  * [[28259.txt|28259 - DC - Investigação para as Póvoas Marítimas]]

@@ -1,0 +1,23 @@
+====== 48671 - UI - Alfredo Guimarães ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Alfredo Guimarães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-10-16
+**UnitDateFinal**:: 1910-10-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48671
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48671
+
+===== Filhos =====
+  * [[48672.txt|48672 - DC - Carta]]
+  * [[48673.txt|48673 - DC - Carta]]
+  * [[48674.txt|48674 - DC - Carta]]
+  * [[48675.txt|48675 - DC - Carta]]
+  * [[48676.txt|48676 - DC - Carta]]
+  * [[48677.txt|48677 - DC - Carta]]

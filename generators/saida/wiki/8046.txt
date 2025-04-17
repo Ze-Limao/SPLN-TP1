@@ -1,0 +1,15 @@
+====== 8046 - DC - Termo de Manuel António de Araújo Costa e Francisco José da Silva Araújo ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel António de Araújo Costa e Francisco José da Silva Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-05-14
+**UnitDateFinal**:: 1877-05-14
+**ScopeContent**:: Construção de uma mina atravessando um caminho público
+Local - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8046
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8046

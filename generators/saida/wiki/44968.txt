@@ -1,0 +1,19 @@
+====== 44968 - UI - José de Avilez de Almeida Melo de Castro e Teresa de Lencastre e Oliveira ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: José de Avilez de Almeida Melo de Castro e Teresa de Lencastre e Oliveira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD44968
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=44968
+
+===== Filhos =====
+  * [[44969.txt|44969 - DC - Cartão de visita]]
+  * [[44970.txt|44970 - DC - Carta]]

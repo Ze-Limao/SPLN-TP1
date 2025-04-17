@@ -1,0 +1,17 @@
+====== 51478 - DC - Registo do recenseamento militar de Camilo ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Camilo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-04-16
+Filiação - José da Costa Gonçalves Carneiro e Ana Rita
+Naturalidade - Cabeçudos
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51478
+**LangMaterial**:: Português
+**PhysLoc**:: 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51478

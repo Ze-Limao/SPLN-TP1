@@ -1,0 +1,18 @@
+====== 47515 - DC - Registo do recenseamento eleitoral de Francisco Fernandes Machado ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Fernandes Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Aves
+Profissão - Negociante
+Estado - Casado
+Morada - Ponte
+Idade - 43
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47515
+**LangMaterial**:: Português
+**PhysLoc**:: 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47515

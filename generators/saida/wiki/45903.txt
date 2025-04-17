@@ -1,0 +1,18 @@
+====== 45903 - DC - Registo do recenseamento eleitoral de Agostinho Ribeiro ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Agostinho Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Castelões
+Profissão - Carpinteiro
+Estado - Casado
+Morada - Monte de Baixo
+Idade - 71
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45903
+**LangMaterial**:: Português
+**PhysLoc**:: 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45903

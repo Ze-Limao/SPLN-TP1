@@ -1,0 +1,18 @@
+====== 8911 - DC - Termo do exame de José Domingos de Oliveira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José Domingos de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-23
+**UnitDateFinal**:: 1894-07-23
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Júlio Domingos
+Naturalidade - Lemenhe
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8911
+**LangMaterial**:: Português
+**PhysLoc**:: f. 63
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8911

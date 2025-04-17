@@ -1,0 +1,17 @@
+====== 61942 - DC - Temas e estudos de Celestino Marques Pereira ======
+
+**Parent**:: 61477
+**RootParent**:: 60551
+**UnitTitle**:: Temas e estudos de Celestino Marques Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1975
+**UnitDateFinal**:: 1975
+**ScopeContent**:: Edição Rotary Club de Lisboa-Oeste.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 387 - cx. 6
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61942

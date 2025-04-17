@@ -1,0 +1,18 @@
+====== 50873 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-11-07
+Filiação - Manuel António Dias e Josefa Pinto Carneiro
+Naturalidade - Landim
+Profissão - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50873
+**LangMaterial**:: Português
+**PhysLoc**:: 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50873

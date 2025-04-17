@@ -1,0 +1,15 @@
+====== 29131 - UI - Remetentes desconhecidos ======
+
+**Parent**:: 28716
+**RootParent**:: 27963
+**UnitTitle**:: Remetentes desconhecidos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-11-21
+**UnitDateFinal**:: 1906-11-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29131
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29131
+
+===== Filhos =====
+  * [[29132.txt|29132 - DC - Rascunho de bilhete]]
+  * [[29133.txt|29133 - DC - Rascunho de carta]]

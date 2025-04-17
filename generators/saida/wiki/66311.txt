@@ -1,0 +1,15 @@
+====== 66311 - DC - Petição do Padre Salvador Pinto, raçoeiro na Igreja de S. Tiago de Antas, que tendo uns papeis para negociar nesta cidade de Braga, mandou pedir ao Padre Marçal Gomes, da Vila Nova de Famalicão, por seu irmão António Gomes se lhe queria dizer missa da Ração neste dia, tendo este faltado pede para não pagar a pena de suspeição ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Petição do Padre Salvador Pinto, raçoeiro na Igreja de S. Tiago de Antas, que tendo uns papeis para negociar nesta cidade de Braga, mandou pedir ao Padre Marçal Gomes, da Vila Nova de Famalicão, por seu irmão António Gomes se lhe queria dizer missa da Ração neste dia, tendo este faltado pede para não pagar a pena de suspeição
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1644-09-21
+**UnitDateFinal**:: 1644-09-21
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 437 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66311

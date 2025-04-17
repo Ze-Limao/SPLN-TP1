@@ -1,0 +1,20 @@
+====== 61651 - DC - Registo do recenseamento militar de Jerónimo ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Jerónimo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Manuel José Gomes de Oliveira e Custódia Nunes Batista, falecidos
+Naturalidade - Delães
+Morada - Ignora-se
+Data de nascimento - 1861-03-09
+Emprego - Estudante
+Estado - Solteiro
+Residência acidental - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61651

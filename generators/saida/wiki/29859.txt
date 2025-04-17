@@ -1,0 +1,16 @@
+====== 29859 - DC - Relatório acerca da arborização geral do país ======
+
+**Parent**:: 28401
+**RootParent**:: 27963
+**UnitTitle**:: Relatório acerca da arborização geral do país
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: “Trato” é o mesmo que extensão de terra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29859
+**LangMaterial**:: Português
+**PhysLoc**:: AS 59 (5) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29859

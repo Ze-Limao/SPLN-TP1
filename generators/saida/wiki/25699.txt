@@ -1,0 +1,16 @@
+====== 25699 - DC - Bilhete-postal ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-09-25
+**UnitDateFinal**:: 1902-09-30
+**ScopeContent**:: Bilhete-postal manuscrito assinado e carimbado, de Génova. Cartolina Postale Italiana. Comunica o engano no envio dos números dos arquivos pedindo que sejam mandados ao Dr. José Duarte Ramalho Ortigão. Pede um esclarecimento sobre quem é José Pinto Soares cujo Ex-libris descreve e a sua opinião sobre o que diz no seu artigo sobre Luciano Cordeiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25699
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 649 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25699

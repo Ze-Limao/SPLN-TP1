@@ -1,0 +1,16 @@
+====== 22724 - DC - Registo do recenseamento eleitoral de António Luís  dos Reis ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Luís  dos Reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Lousado
+Profissão - Lavrador
+Morada - Lousado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22724
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22724

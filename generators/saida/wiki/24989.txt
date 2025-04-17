@@ -1,0 +1,15 @@
+====== 24989 - UI - Livro de Presenças às reuniões da Assembleia Geral da A. H. Bombeiros Voluntários de V. N. de Famalicão ======
+
+**Parent**:: 20397
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Presenças às reuniões da Assembleia Geral da A. H. Bombeiros Voluntários de V. N. de Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-11-20
+**UnitDateFinal**:: 1918-02-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24989
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 93
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24989

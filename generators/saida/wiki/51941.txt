@@ -1,0 +1,18 @@
+====== 51941 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-03-16
+Filiação - Manuel António Fernandes e Teresa Maria da Rocha
+Naturalidade - Gavião
+Profissão - Lavrador
+Residência - Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51941
+**LangMaterial**:: Português
+**PhysLoc**:: 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51941

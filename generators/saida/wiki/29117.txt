@@ -1,0 +1,14 @@
+====== 29117 - UI - C. Boulanger ======
+
+**Parent**:: 28716
+**RootParent**:: 27963
+**UnitTitle**:: C. Boulanger
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-01-28
+**UnitDateFinal**:: 1906-01-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29117
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29117
+
+===== Filhos =====
+  * [[29118.txt|29118 - DC - Rascunho de carta]]

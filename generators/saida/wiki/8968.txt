@@ -1,0 +1,56 @@
+====== 8968 - SR - Recenseamento Militar ======
+
+**Parent**:: 8967
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Militar
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1856-02-07
+**UnitDateFinal**:: 1936-03-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8968
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8968
+
+===== Filhos =====
+  * [[20044.txt|20044 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[20045.txt|20045 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[20046.txt|20046 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[25086.txt|25086 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[25087.txt|25087 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[25088.txt|25088 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[25291.txt|25291 - SSR - Recenseamento Militar aos 20 Anos]]
+  * [[9161.txt|9161 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9162.txt|9162 - UI - Recenseamento dos mancebos que consta serem falecidos]]
+  * [[9164.txt|9164 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9165.txt|9165 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9166.txt|9166 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9167.txt|9167 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9168.txt|9168 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9169.txt|9169 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9170.txt|9170 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9171.txt|9171 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9172.txt|9172 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9173.txt|9173 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9174.txt|9174 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9175.txt|9175 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9176.txt|9176 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9177.txt|9177 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9178.txt|9178 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9179.txt|9179 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9180.txt|9180 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9181.txt|9181 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9182.txt|9182 - UI - Recenseamento para o Recrutamento do Exército]]
+  * [[9183.txt|9183 - UI - Recenseamento para o Recrutamento]]
+  * [[9184.txt|9184 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9185.txt|9185 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9186.txt|9186 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9187.txt|9187 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9188.txt|9188 - UI - Recenseamento para o Recrutamento do Exército e Aramada]]
+  * [[9189.txt|9189 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9190.txt|9190 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9191.txt|9191 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9192.txt|9192 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9193.txt|9193 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9194.txt|9194 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9195.txt|9195 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9196.txt|9196 - UI - Recenseamento para o Recrutamento do Exército e Armada]]
+  * [[9197.txt|9197 - UI - Recenseamento para o Recrutamento do Exército e Armada]]

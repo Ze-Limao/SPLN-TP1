@@ -1,0 +1,16 @@
+====== 24379 - DC - Registo do recenseamento eleitoral de João Nunes Batista ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Nunes Batista
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Lavrador
+Morada - Delães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24379
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24379

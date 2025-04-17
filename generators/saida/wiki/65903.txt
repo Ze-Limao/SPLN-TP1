@@ -1,0 +1,15 @@
+====== 65903 - DC - Emprazamento, feito por Diogo Afonso, abade da Igreja de S. Tiago de Antas, Álvaro Dias e João Álvares, a Francisco? Carvalho e sua mulher ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento, feito por Diogo Afonso, abade da Igreja de S. Tiago de Antas, Álvaro Dias e João Álvares, a Francisco? Carvalho e sua mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1481
+**UnitDateFinal**:: 1512
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 639 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65903

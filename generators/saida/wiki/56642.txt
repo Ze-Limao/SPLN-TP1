@@ -1,0 +1,17 @@
+====== 56642 - DC - Caderneta de saúde de Maria Amália de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Caderneta de saúde de Maria Amália de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1898
+**ScopeContent**:: Caderneta impressa com anotações manuscritas a lápis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56642
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6319 - cx. 43
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56642

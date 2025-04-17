@@ -1,0 +1,16 @@
+====== 21119 - UI - Francisco de Meireles ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco de Meireles
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-10-06
+**UnitDateFinal**:: 1913-10-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21119
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 428
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21119
+
+===== Filhos =====
+  * [[25472.txt|25472 - DC - Carta]]

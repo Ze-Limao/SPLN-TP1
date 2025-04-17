@@ -1,0 +1,15 @@
+====== 60765 - DC - Processo movidi por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, contra Gonçalo Anes, acerca da posse do casal de Vilar ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Processo movidi por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, contra Gonçalo Anes, acerca da posse do casal de Vilar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1542-06-17
+**UnitDateFinal**:: 1542-06-17
+**ScopeContent**:: Manuscrito, original. Processo movidi por Pero Jorge da Silva abade da Igreja de S. Tiago de Antas (conc. de V.N. de Famalicão) contra Gonçalo Anes posse do casal de Vilar, situado na dita freg. de acerca da S. Tiago de Antas. A sentença foi favorável ao abade e o réu mandado deixar livre e desembargado o dito casal e condenado a pagar somente as custas do processo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português e Latim
+**PhysLoc**:: CSTA 35 - cx. 1
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60765

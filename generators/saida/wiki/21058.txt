@@ -1,0 +1,25 @@
+====== 21058 - UI - António Alberto da Rocha Páris ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Alberto da Rocha Páris
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1888-02-03
+**UnitDateFinal**:: 1899-09-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21058
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 92, 93, 94, 95, 96, 97, 98, 99, 100
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21058
+
+===== Filhos =====
+  * [[23938.txt|23938 - DC - Carta]]
+  * [[23986.txt|23986 - DC - Carta]]
+  * [[24007.txt|24007 - DC - Carta]]
+  * [[24011.txt|24011 - DC - Carta]]
+  * [[24012.txt|24012 - DC - Carta]]
+  * [[24013.txt|24013 - DC - Carta]]
+  * [[24014.txt|24014 - DC - Carta]]
+  * [[24015.txt|24015 - DC - Carta]]
+  * [[24016.txt|24016 - DC - Carta]]

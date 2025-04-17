@@ -1,0 +1,17 @@
+====== 58077 - DC - Requisição de Fundos nº11 para material e diversas despesas - 2ª Regência Gerês e faturas ======
+
+**Parent**:: 31341
+**RootParent**:: 31258
+**UnitTitle**:: Requisição de Fundos nº11 para material e diversas despesas - 2ª Regência Gerês e faturas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1931-12
+**UnitDateFinal**:: 1932-12
+**ScopeContent**:: Documento em papel timbrado do "Ministério da Agricultura. Direcção Geral dos Serviços Florestais e Aquícolas. 1ª Circunscrição Florestal do Porto", com despesas manuscritas, juntamente com 6 faturas: 2 da Drogaria Barbosa (Braga), Farmácia e Drogaria das Termas (Gerês), Sebastião Santos da Cunha (Braga), João Batista Cerqueira, João Luís da Costa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58077
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2425 - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=58077

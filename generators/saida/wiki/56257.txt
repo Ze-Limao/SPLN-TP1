@@ -1,0 +1,17 @@
+====== 56257 - DC - Rendimento das propriedades e títulos ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Rendimento das propriedades e títulos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-10
+**UnitDateFinal**:: 1821-09-30
+**ScopeContent**:: Caderno manuscrito, na “Caixa 15”, que contém CP 13246 a CP 13255.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56257
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13247 - cx. 91
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56257

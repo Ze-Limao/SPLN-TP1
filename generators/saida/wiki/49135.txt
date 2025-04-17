@@ -1,0 +1,18 @@
+====== 49135 - DC - Registo do recenseamento eleitoral de João José Pereira de Faria ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João José Pereira de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Riba de Ave
+Profissão - Eclesiástico
+Estado - Solteiro
+Morada - Mato
+Idade - 69
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49135
+**LangMaterial**:: Português
+**PhysLoc**:: 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49135

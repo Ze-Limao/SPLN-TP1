@@ -1,0 +1,14 @@
+====== 8002 - DC - Termo de Joaquim António Gonçalves ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Joaquim António Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-05-24
+**UnitDateFinal**:: 1868-05-24
+**ScopeContent**:: Fornecimento da iluminação pública da vila
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8002
+**LangMaterial**:: Português
+**PhysLoc**:: f. 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8002

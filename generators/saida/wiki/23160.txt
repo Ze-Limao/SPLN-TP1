@@ -1,0 +1,16 @@
+====== 23160 - DC - Carta ======
+
+**Parent**:: 21044
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-06-02
+**UnitDateFinal**:: 1905-06-02
+**ScopeContent**:: Alexandre Amaral acusa a receção de um manuscrito que enviara e informa das novidades sobre a filiação de Thomé Pinheiro da Veiga. Carta manuscrita assinada, L.c. de Sequeiros, Ancêde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23160
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 49 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23160

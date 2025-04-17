@@ -1,0 +1,23 @@
+====== 61194 - SR - Documentos ======
+
+**Parent**:: 61191
+**RootParent**:: 60551
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 2019-11-08
+**ScopeContent**:: Composta pelas subséries: Documentos administrativos; Documentos sobre sócios; Atas de reuniões; Documentos sobre serviços à comunidade; Documentos de divulgação; Documentos do Interact Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**LangMaterial**:: Português, Inglês
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61194
+
+===== Filhos =====
+  * [[61195.txt|61195 - SSR - Documentos administrativos]]
+  * [[61438.txt|61438 - SSR - Documentos sobre sócios]]
+  * [[61440.txt|61440 - SSR - Atas de reuniões]]
+  * [[61442.txt|61442 - SSR - Documentos sobre serviços à comunidade]]
+  * [[61444.txt|61444 - SSR - Documentos de divulgação]]
+  * [[61446.txt|61446 - SSR - Documentos do Interact Famalicão]]

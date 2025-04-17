@@ -1,0 +1,16 @@
+====== 30209 - DC - Carta ======
+
+**Parent**:: 21383
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-05-26
+**UnitDateFinal**:: 1917-05-26
+**ScopeContent**:: Eduardo Moreira refere a JAM que não é o autor do artigo do "Liberal". Questiona JAM sobre qual é o artigo que este teria escrito em que impugnava a sua afirmação que Camilo seria protestante. Carta manuscrita e assinada, de R. Domingos Tendeiro, 29 Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30209
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1341 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30209

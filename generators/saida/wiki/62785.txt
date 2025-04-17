@@ -1,0 +1,19 @@
+====== 62785 - DC - Registo do recenseamento militar de Anastácio ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Anastácio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Balbina Rosa, ignora-se
+Naturalidade - Landim
+Morada - Ignora-se
+Data de nascimento - 1864-01-05
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62785

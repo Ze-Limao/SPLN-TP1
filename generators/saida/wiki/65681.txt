@@ -1,0 +1,17 @@
+====== 65681 - DC - Troca de terras que para evitar dúvidas fazem o capitão Luís de Magalhães com José Magalhães, dos Eirões ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Troca de terras que para evitar dúvidas fazem o capitão Luís de Magalhães com José Magalhães, dos Eirões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1700-11-17
+**UnitDateFinal**:: 1700-11-17
+**ScopeContent**:: Folhas cosidas, com anotações do Abade de Tagilde no título "Nº5...". O documento estava na “Caixa 12”, que contém CP 3800 a CP 3826 embrulhados em jornais do ano 1936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3822 - cx. 28
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65681

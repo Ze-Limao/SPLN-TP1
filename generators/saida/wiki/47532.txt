@@ -1,0 +1,18 @@
+====== 47532 - DC - Registo do recenseamento eleitoral de Manuel da Silva Machado Alves ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel da Silva Machado Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Aves
+Profissão - Lavrador
+Estado - Casado
+Morada - Subpenedo
+Idade - 68
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47532
+**LangMaterial**:: Português
+**PhysLoc**:: 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47532

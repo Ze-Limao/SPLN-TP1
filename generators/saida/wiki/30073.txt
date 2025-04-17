@@ -1,0 +1,14 @@
+====== 30073 - DC - Raul da Silva Veloso ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Raul da Silva Veloso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1969-02-21
+**UnitDateFinal**:: 1969-02-21
+**ScopeContent**:: Regedor efetivo da freguesia de Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30073
+**LangMaterial**:: Português
+**PhysLoc**:: f. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30073

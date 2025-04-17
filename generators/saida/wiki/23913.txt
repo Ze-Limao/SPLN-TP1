@@ -1,0 +1,16 @@
+====== 23913 - DC - Registo do recenseamento eleitoral de Francisco Machado ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-03-04
+**UnitDateFinal**:: 1871-03-04
+**ScopeContent**:: Freguesia - Oliveira Santa Maria
+Profissão - Carpinteiro
+Morada - Casa Nova
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23913
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 92v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23913

@@ -1,0 +1,16 @@
+====== 25457 - DC - Discurso de Hilário de Carvalho na ceia das Bodas de Diamante dos Bombeiros Voluntários de Famalicão ======
+
+**Parent**:: 25080
+**RootParent**:: 20342
+**UnitTitle**:: Discurso de Hilário de Carvalho na ceia das Bodas de Diamante dos Bombeiros Voluntários de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-10-16
+**UnitDateFinal**:: 1966-10-16
+**ScopeContent**:: Neste discurso Hilário de Carvalho faz um breve historial da Associação mencionando os nomes de individualidades mais marcantes para a AHBVF até às bodas de diamante.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25457
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 178 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25457

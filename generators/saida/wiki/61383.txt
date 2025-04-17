@@ -1,0 +1,16 @@
+====== 61383 - DC - Declarações de Daniel Rodrigues nascido em Celorico de Basto ======
+
+**Parent**:: 60931
+**RootParent**:: 60550
+**UnitTitle**:: Declarações de Daniel Rodrigues nascido em Celorico de Basto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-03-02
+**UnitDateFinal**:: 1915-03-02
+**ScopeContent**:: Documento datilografado, Lisboa em 8/5/1877.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 159 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61383

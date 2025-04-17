@@ -1,0 +1,18 @@
+====== 8916 - DC - Termo do exame de Aníbal Pinto Monteiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Aníbal Pinto Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-23
+**UnitDateFinal**:: 1894-07-23
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - Manuel de Abreu Monteiro
+Naturalidade - Landim
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8916
+**LangMaterial**:: Português
+**PhysLoc**:: f. 65
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8916

@@ -1,0 +1,18 @@
+====== 51053 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-07-25
+Filiação - António Joaquim de Andrade e Rosa Ferreira
+Naturalidade - Antas
+Profissão - Sapateiro
+Residência - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51053
+**LangMaterial**:: Português
+**PhysLoc**:: 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51053

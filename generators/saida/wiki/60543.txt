@@ -1,0 +1,18 @@
+====== 60543 - F - Juízo de Paz da freguesia de Ruivães ======
+
+**Parent**:: 0
+**RootParent**:: 60543
+**UnitTitle**:: Juízo de Paz da freguesia de Ruivães
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1835-01-09
+**UnitDateFinal**:: 1836-01-09
+**ScopeContent**:: Este fundo é constituído pelo Livro das Conciliações de 1835 a 1836.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60543
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60543
+
+===== Filhos =====
+  * [[60680.txt|60680 - SR - Registo das conciliações]]

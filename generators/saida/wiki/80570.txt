@@ -1,0 +1,15 @@
+====== 80570 - UI - Processo nº 21-B ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 21-B
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1979-02-15
+**UnitDateFinal**:: 1982-03-22
+**ScopeContent**:: Junto com Autos de Execução de Sentença nº 21-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 214 - cx. 12
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80570

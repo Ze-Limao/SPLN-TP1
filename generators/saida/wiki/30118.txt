@@ -1,0 +1,14 @@
+====== 30118 - DC - Claudino de Oliveira Rodrigues ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Claudino de Oliveira Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-21
+**UnitDateFinal**:: 1974-10-21
+**ScopeContent**:: Regedor efetivo da freguesia de Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30118
+**LangMaterial**:: Português
+**PhysLoc**:: f. 60
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30118

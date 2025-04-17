@@ -1,0 +1,17 @@
+====== 60433 - DC - Testamento de Manuel Moreira Lopes ======
+
+**Parent**:: 31395
+**RootParent**:: 31258
+**UnitTitle**:: Testamento de Manuel Moreira Lopes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1852
+**UnitDateFinal**:: 1852
+**ScopeContent**:: Manuel Moreira Lopes era irmão do pai de Eulália Estelita. Este documento pertence ao maço “Documentos da herança da Tia Anica Julho de 1912…” que contém CP 13765 a CP 13799.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54474
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13765 -  cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60433

@@ -1,0 +1,20 @@
+====== 20392 - DC - Registo do recenseamento eleitoral de José ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Filiação - Manuel de Oliveira e Custódia Ferreira
+Naturalidade - Arnoso Santa Maria
+Data de nascimento - 1870-01-22
+Emprego - 
+Estado - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20392
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20392

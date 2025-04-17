@@ -1,0 +1,16 @@
+====== 28574 - DC - João II organizou uma Junta chamada a Junta de Matthematicos ======
+
+**Parent**:: 28571
+**RootParent**:: 27963
+**UnitTitle**:: João II organizou uma Junta chamada a Junta de Matthematicos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: «Dois homens [Álvares Fagundes e Fernão de Magalhães] oriundos desta região procuraram no século XVI, a solução desse grande enigma diante do qual desfalecia a Junta de Matemáticos de João II - a determinação das terras abordadas por Colombo e Cabral.». Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, p. 410. Referência bibliográfica: Inácio da Costa Quintela - Annaes da Marinha Portugueza.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28574
+**LangMaterial**:: Português
+**PhysLoc**:: AS 100 (3) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28574

@@ -1,0 +1,18 @@
+====== 50511 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-05-08
+Filiação - João Luís Machado e Maria Josefa
+Naturalidade - Vale S. Cosme
+Profissão - Lavrador
+Residência - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50511
+**LangMaterial**:: Português
+**PhysLoc**:: 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50511

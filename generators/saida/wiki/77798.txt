@@ -1,0 +1,17 @@
+====== 77798 - DC - Sentença Apostólica e Título de Resignação por coajutura e prebenda na Santa Sé da cidade de Braga que resignou o Reverando José Maria de Mello Sampaio a favor do Reverendo José Maria de Mello Machado ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Sentença Apostólica e Título de Resignação por coajutura e prebenda na Santa Sé da cidade de Braga que resignou o Reverando José Maria de Mello Sampaio a favor do Reverendo José Maria de Mello Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1789-09-10
+**UnitDateFinal**:: 1817-12-12
+**ScopeContent**:: Manuscrito com folhas cosidas, numerado nº 10. Sentença pela qual se vê que José Maria de Melo Machado, filho de Vicente Pinheiro e Figueira Lobo da Guerra e de Ana Maria Isabel de Melo Pereira Sampaio, foi cónego na Sé de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4047 - cx. 30
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77798

@@ -1,0 +1,15 @@
+====== 20212 - SR - Registo das licenças para abertura de estabelecimentos ======
+
+**Parent**:: 20054
+**RootParent**:: 20048
+**UnitTitle**:: Registo das licenças para abertura de estabelecimentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1912-01-02
+**UnitDateFinal**:: 1919-04-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20212
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20212
+
+===== Filhos =====
+  * [[20213.txt|20213 - UI - Registo das licenças para abertura de estabelecimentos]]

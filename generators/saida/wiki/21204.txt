@@ -1,0 +1,18 @@
+====== 21204 - UI - José Maria de Abreu Freire ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Maria de Abreu Freire
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1923-09-04
+**UnitDateFinal**:: 1923-09-04
+**ScopeContent**:: José Maria de Abreu Freire nasceu em Estarreja, Avanca, Lugar da Aldeia, 10 de Abril de 1861 e morreu em Estarreja, Avanca, Outeiro, 1935). Foi 4.º Visconde de Baçar. Foi um advogado, juiz e político português. Era Bacharel formado em Direito pela Faculdade de Direito da Universidade de Coimbra. Militou no Partido Progressista e, Advogado, exerceu a Advocacia no Porto e em Estarreja, onde serviu de Juiz Substituto, Administrador do Concelho e a cuja Câmara Municipal presidia à data da sua morte. Foi casado com Maria José Barbosa Falcão Pereira de Azevedo e Bourbon que era filha de Maria Cândida Falcão Cota de Bourbon e Menezes, irmã da mulher de JAM. Era sobrinho de JAM.
+Fonte: Wikipédia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21204
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 807
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21204
+
+===== Filhos =====
+  * [[26014.txt|26014 - DC - Carta]]

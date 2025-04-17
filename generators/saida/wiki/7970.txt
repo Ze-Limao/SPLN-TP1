@@ -1,0 +1,15 @@
+====== 7970 - DC - Termo de José António da Silva Granja ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José António da Silva Granja
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-03-30
+**UnitDateFinal**:: 1860-03-30
+**ScopeContent**:: Mandado de pagamento de indemnização por uma expropriação no Campo da Feira
+Local - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7970
+**LangMaterial**:: Português
+**PhysLoc**:: f. 8
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7970

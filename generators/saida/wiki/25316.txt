@@ -1,0 +1,24 @@
+====== 25316 - UI - Homenagem ao Comandante Fernando Soares no dia da sua passagem ao quadro honorário e do seu 80º aniversário ======
+
+**Parent**:: 20387
+**RootParent**:: 20342
+**UnitTitle**:: Homenagem ao Comandante Fernando Soares no dia da sua passagem ao quadro honorário e do seu 80º aniversário
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1992-01-10
+**UnitDateFinal**:: 1992-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25316
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 185 - cx. 49
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25316
+
+===== Filhos =====
+  * [[25940.txt|25940 - DC - Desfile do Corpo Ativo à frente do quartel na Homenagem ao Comandante Fernando Soares]]
+  * [[25941.txt|25941 - DC - Desfile da fanfarra da corporação à frente do quartel na Homenagem ao Comandante Fernando Soares]]
+  * [[25942.txt|25942 - DC - Comandante Soares junto à placa descerrada no antigo quartel onde se alistou na Rua Adriano Pinto Basto]]
+  * [[25943.txt|25943 - DC - Sessão solene na Homenagem ao Comandante Fernando Soares]]
+  * [[25944.txt|25944 - DC - Desfile da fanfarra da corporação à frente do quartel na Homenagem ao Comandante Fernando Soares]]
+  * [[25945.txt|25945 - DC - Retrato de conjunto do Corpo Ativo e Drº Sampaio na Homenagem ao Comandante Fernando Soares]]
+  * [[53973.txt|53973 - DC - Desfile de carros da corporação à frente do quartel na Homenagem ao Comandante Fernando Soares]]

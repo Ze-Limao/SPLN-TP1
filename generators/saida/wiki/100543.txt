@@ -1,0 +1,58 @@
+====== 100543 - SR - Negativos em vidro com correspondência às fotografias positivos em papel ======
+
+**Parent**:: 60696
+**RootParent**:: 60696
+**UnitTitle**:: Negativos em vidro com correspondência às fotografias positivos em papel
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1940
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD100543
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100543
+
+===== Filhos =====
+  * [[100521.txt|100521 - UI - Negativos em vidro]]
+  * [[100546.txt|100546 - UI - Negativos em vidro]]
+  * [[100547.txt|100547 - UI - Negativos em vidro]]
+  * [[100548.txt|100548 - UI - Negativos em vidro]]
+  * [[100549.txt|100549 - UI - Negativos em vidro]]
+  * [[100550.txt|100550 - UI - Negativos em vidro]]
+  * [[100551.txt|100551 - UI - Negativos em vidro]]
+  * [[100553.txt|100553 - UI - Negativos em vidro]]
+  * [[100575.txt|100575 - UI - Negativos em vidro]]
+  * [[100576.txt|100576 - UI - Negativos em vidro]]
+  * [[100577.txt|100577 - UI - Negativos em vidro]]
+  * [[100578.txt|100578 - UI - Negativos em vidro]]
+  * [[100579.txt|100579 - UI - Negativos em vidro]]
+  * [[100580.txt|100580 - UI - Negativos em vidro]]
+  * [[100581.txt|100581 - UI - Negativos em vidro]]
+  * [[100582.txt|100582 - UI - Negativos em vidro]]
+  * [[100583.txt|100583 - UI - Negativos em vidro]]
+  * [[100584.txt|100584 - UI - Negativos em vidro]]
+  * [[100585.txt|100585 - UI - Negativos em vidro]]
+  * [[100586.txt|100586 - UI - Negativos em vidro]]
+  * [[100587.txt|100587 - UI - Negativos em vidro]]
+  * [[100588.txt|100588 - UI - Negativos em vidro]]
+  * [[100589.txt|100589 - UI - Negativos em vidro]]
+  * [[100590.txt|100590 - UI - Negativos em vidro]]
+  * [[100591.txt|100591 - UI - Negativos em vidro]]
+  * [[100593.txt|100593 - UI - Negativos em vidro]]
+  * [[100594.txt|100594 - UI - Negativos em vidro]]
+  * [[100595.txt|100595 - UI - Negativos em vidro]]
+  * [[100596.txt|100596 - UI - Negativos em vidro]]
+  * [[100597.txt|100597 - UI - Negativos em vidro]]
+  * [[100598.txt|100598 - UI - Negativos em vidro]]
+  * [[100599.txt|100599 - UI - Negativos em vidro]]
+  * [[100600.txt|100600 - UI - Negativos em vidro]]
+  * [[100601.txt|100601 - UI - Negativos em vidro]]
+  * [[100602.txt|100602 - UI - Negativos em vidro]]
+  * [[100603.txt|100603 - UI - Negativos em vidro]]
+  * [[100605.txt|100605 - UI - Negativos em vidro]]
+  * [[100606.txt|100606 - UI - Negativos em vidro]]
+  * [[100607.txt|100607 - UI - Negativos em vidro]]
+  * [[100608.txt|100608 - UI - Negativos em vidro]]
+  * [[100609.txt|100609 - UI - Negativos em vidro]]
+  * [[100610.txt|100610 - UI - Negativos em vidro]]
+  * [[100611.txt|100611 - UI - Negativos em vidro]]
+  * [[100612.txt|100612 - UI - Negativos em vidro]]
+  * [[100613.txt|100613 - UI - Legendas das fotografias]]

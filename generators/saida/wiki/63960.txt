@@ -1,0 +1,15 @@
+====== 63960 - UI - Livro do recebimento dos foros da igreja de S. Tiago de Antas ======
+
+**Parent**:: 63952
+**RootParent**:: 60536
+**UnitTitle**:: Livro do recebimento dos foros da igreja de S. Tiago de Antas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1617
+**UnitDateFinal**:: 1617
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 132B - cx. 5
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63960

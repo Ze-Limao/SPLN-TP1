@@ -1,0 +1,18 @@
+====== 51018 - DC - Registo do recenseamento militar de Marcelino ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Marcelino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-07-05
+Filiação - Manuel Inácio e Florinda Rosa
+Naturalidade - Esmeriz
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51018
+**LangMaterial**:: Português
+**PhysLoc**:: 49v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51018

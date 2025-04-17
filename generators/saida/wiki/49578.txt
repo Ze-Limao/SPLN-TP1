@@ -1,0 +1,18 @@
+====== 49578 - DC - Registo do recenseamento eleitoral de Florindo Pereira de Sousa Maia ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Florindo Pereira de Sousa Maia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Proprietário
+Estado - Casado
+Morada - Rua Formosa
+Idade - 35
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49578
+**LangMaterial**:: Português
+**PhysLoc**:: 90v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49578

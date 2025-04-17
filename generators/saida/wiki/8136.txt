@@ -1,0 +1,18 @@
+====== 8136 - DC - Domingos José da Silva Graça ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Domingos José da Silva Graça
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1883-02-21
+**ScopeContent**:: Escola - Carreira
+Cargo - Professor
+Vínculo - Temporário
+Naturalidade - Braga
+Data de posse - 1881-03-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8136
+**LangMaterial**:: Português
+**PhysLoc**:: f. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8136

@@ -1,0 +1,14 @@
+====== 60598 - UI - Chardey & Cª. ======
+
+**Parent**:: 31373
+**RootParent**:: 31258
+**UnitTitle**:: Chardey & Cª.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1872-02-10
+**UnitDateFinal**:: 1872-02-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53090
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60598
+
+===== Filhos =====
+  * [[60599.txt|60599 - DC - Carta]]

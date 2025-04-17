@@ -1,0 +1,15 @@
+====== 99317 - UI - F. Martins Barbosa ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: F. Martins Barbosa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-06-09
+**UnitDateFinal**:: 1916-06-09
+**ScopeContent**:: Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99317
+
+===== Filhos =====
+  * [[99318.txt|99318 - DC - Ofício]]

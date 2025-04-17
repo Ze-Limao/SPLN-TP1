@@ -1,0 +1,15 @@
+====== 20999 - DC - Nº 19/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 19/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-12-18
+**UnitDateFinal**:: 1962-12-18
+**ScopeContent**:: Contrato de arrendamento da loja exterior número doze do Mercado Municipal
+Outorgante - Manuel Pereira da Costa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20999
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 72
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20999

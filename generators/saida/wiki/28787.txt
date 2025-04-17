@@ -1,0 +1,14 @@
+====== 28787 - UI - João Gomes de Oliveira Guimarães ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: João Gomes de Oliveira Guimarães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907-12-23
+**UnitDateFinal**:: 1907-12-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28787
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28787
+
+===== Filhos =====
+  * [[28788.txt|28788 - DC - Carta]]

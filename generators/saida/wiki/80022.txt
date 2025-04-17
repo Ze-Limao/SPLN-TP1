@@ -1,0 +1,15 @@
+====== 80022 - UI - Processo nº 197 ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 197
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-07-10
+**UnitDateFinal**:: 1969-12-31
+**ScopeContent**:: Junto com Autos de Acção de Processo Comum nº 15 e Execução de Custas nº 315/69.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 35 - cx. 3
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80022

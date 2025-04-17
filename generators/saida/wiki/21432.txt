@@ -1,0 +1,16 @@
+====== 21432 - UI - João de Melo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João de Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-10-05
+**UnitDateFinal**:: 1904-10-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21432
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1416
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21432
+
+===== Filhos =====
+  * [[30262.txt|30262 - DC - Carta]]

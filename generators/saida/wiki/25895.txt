@@ -1,0 +1,16 @@
+====== 25895 - DC - Retrato de conjunto do Corpo Activo de 1928 após a fundação dos B. Famalicenses ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Retrato de conjunto do Corpo Activo de 1928 após a fundação dos B. Famalicenses
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Postal a partir de uma fotografia do corpo ativo, no exterior do quartel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25895
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25895

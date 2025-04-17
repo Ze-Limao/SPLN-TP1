@@ -1,0 +1,15 @@
+====== 80540 - UI - Processo nº 210 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 210
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-09-06
+**UnitDateFinal**:: 1973-02-23
+**ScopeContent**:: Junto com Autos de Embargos de Executada nº 210.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 185 - cx. 11
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80540

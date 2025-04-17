@@ -1,0 +1,18 @@
+====== 47476 - DC - Registo do recenseamento eleitoral de António José Barbosa Júnior ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Barbosa Júnior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Avidos
+Profissão - Lavrador
+Estado - Casado
+Morada - Moinhos
+Idade - 45
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47476
+**LangMaterial**:: Português
+**PhysLoc**:: 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47476

@@ -1,0 +1,18 @@
+====== 8670 - DC - Termo do exame de Francisco António de Carvalho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Francisco António de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-19
+**UnitDateFinal**:: 1890-08-19
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - José António de Carvalho
+Naturalidade - Oliveira Santa Maria
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8670
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8670

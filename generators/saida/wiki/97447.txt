@@ -1,0 +1,16 @@
+====== 97447 - DC - Carta ======
+
+**Parent**:: 28811
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-09-20
+**UnitDateFinal**:: 1893-09-20
+**ScopeContent**:: Carta manuscrita em papel timbrado da "Junta do Credito Público", em papel liso de cor bege.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29664
+**LangMaterial**:: Português
+**PhysLoc**:: AS 890 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97447

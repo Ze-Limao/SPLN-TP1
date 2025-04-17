@@ -1,0 +1,14 @@
+====== 54432 - UI - Carlos Lobo de Ávila ======
+
+**Parent**:: 31323
+**RootParent**:: 31258
+**UnitTitle**:: Carlos Lobo de Ávila
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885-08-20
+**UnitDateFinal**:: 1885-08-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54432
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54432
+
+===== Filhos =====
+  * [[54433.txt|54433 - DC - Carta]]

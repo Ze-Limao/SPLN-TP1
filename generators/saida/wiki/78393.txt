@@ -1,0 +1,17 @@
+====== 78393 - DC - Paga de Maria Martins, viúva de Manuel de Oliveira Basto e de seu filho, por terem recebido de Paulo Pinto de Magalhães, a quantia de 480 reis ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Paga de Maria Martins, viúva de Manuel de Oliveira Basto e de seu filho, por terem recebido de Paulo Pinto de Magalhães, a quantia de 480 reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1753-11-06
+**UnitDateFinal**:: 1753-11-06
+**ScopeContent**:: Manuscrito com folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5009 - cx. 36
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78393

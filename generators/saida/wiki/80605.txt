@@ -1,0 +1,14 @@
+====== 80605 - UI - Processo nº 133 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 133
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1977-10-24
+**UnitDateFinal**:: 1978-12-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 246 - cx. 13
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80605

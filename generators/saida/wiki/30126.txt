@@ -1,0 +1,16 @@
+====== 30126 - DC - Ofício ======
+
+**Parent**:: 21350
+**RootParent**:: 20290
+**UnitTitle**:: Ofício
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-08-31
+**UnitDateFinal**:: 1922-08-31
+**ScopeContent**:: Ofíco nº 363 datilografado assinado por Aparício Silva, Vice-Presidente da Comissão Executiva. Papel timbrado da Câmara Municipal de Famalicão, Secretaria.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30126
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1261 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30126

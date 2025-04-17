@@ -1,0 +1,16 @@
+====== 23172 - DC - Carta ======
+
+**Parent**:: 21044
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-02-10
+**UnitDateFinal**:: 1915-02-10
+**ScopeContent**:: Alexandre Amaral dá nota da doença da filha e acusa a carta que acompanhava a carta de António Ferraz com notas sobre Luiz Annes de Faria. Carta manuscrita assinada, Sanatório “Sousa Martins”, Guarda.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23172
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 61 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23172

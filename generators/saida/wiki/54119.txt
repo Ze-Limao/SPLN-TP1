@@ -1,0 +1,17 @@
+====== 54119 - DC - Resumo final dos Autos nº6 ======
+
+**Parent**:: 54109
+**RootParent**:: 25851
+**UnitTitle**:: Resumo final dos Autos nº6
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1956
+**UnitDateFinal**:: 1956
+**ScopeContent**:: Contém Auto nº 6 obra de pedreiro e urbanização de Joaquim de Sousa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54119
+**LangMaterial**:: Português
+**PhysLoc**:: JG 172(11) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54119

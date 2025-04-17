@@ -1,0 +1,17 @@
+====== 61823 - DC - 114º Aniversário Rotary International ======
+
+**Parent**:: 61783
+**RootParent**:: 60551
+**UnitTitle**:: 114º Aniversário Rotary International
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2019-02-23
+**UnitDateFinal**:: 2019-02-23
+**ScopeContent**:: Placa de secretária.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 493 - cx. 12
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61823

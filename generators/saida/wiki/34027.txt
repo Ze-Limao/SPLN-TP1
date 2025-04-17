@@ -1,0 +1,19 @@
+====== 34027 - DC - Registo do recenseamento militar de Domingos de Araújo ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Delães e Oliveira S. Mateus
+Data de nascimento - 1852-12-11
+Filiação - Maria de Araújo
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34027
+**LangMaterial**:: Português
+**PhysLoc**:: 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34027

@@ -1,0 +1,16 @@
+====== 24097 - DC - Registo do recenseamento eleitoral de João Barroso Pereira Capelo ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Barroso Pereira Capelo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Aves
+Profissão - Abade
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24097
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24097

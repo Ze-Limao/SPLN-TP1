@@ -1,0 +1,45 @@
+====== 7877 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1851-08-25
+**UnitDateFinal**:: 1851-08-25
+**ScopeContent**:: 'Recenseamento dos eleitores de paróquia, eleitores de deputados e deputados da nação na conformidade dos decretos de 20 de Junho e 26 de Julho do corrente ano'.
+
+Este livro está dividido em três partes
+1 - Eleitores nas assembleias primárias
+2 - Eleitores de deputados
+3 - Elegíveis para deputados
+
+Contém dados sobre:
+1 - Freguesia
+2 - Nome
+3 - Idade
+4 - Estado
+5 - profissão ou emprego
+6 - Contribuições
+7 - Observações
+
+Além das atuais freguesias (excepto Gondifelos), Aves e Serzedelo, mantem como autónomas as seguintes freguesias:
+1 - Arnoso Mosteiro
+2 - Ferreiró
+3 - Gemunde
+4 - Landim Santa marinha
+5 - Romão
+6 - Sanfins
+7 - Sobrado
+
+No recenseamento dos eleitores de deputados e elegíveis para deputados mantém-se Arnoso Mosteiro e dão-se as alterações seguintes:
+1 - Romão e Sobrado são anexadas a Aves
+2 - Sanfins é anexada a Bairro
+3 - Gemunde é anexada a Brufe
+4 - Oliveira S. Mateus é anexada a Delães
+5 - Landim Santa Marinha é anexada a Landim Santa Maria
+6 - Novais é anexada a Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7877
+**LangMaterial**:: Português
+**PhysLoc**:: 1.1.1.3
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7877

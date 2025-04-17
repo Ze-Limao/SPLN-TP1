@@ -1,0 +1,19 @@
+====== 9380 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Matias Rebelo e Joana Torres
+Naturalidade - Landim
+Data de nascimento - 1877-12-28
+Profissão - Lavrador
+Estado civil - 
+Residência - Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9380
+**LangMaterial**:: Português
+**PhysLoc**:: f. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9380

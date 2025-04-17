@@ -1,0 +1,18 @@
+====== 47908 - DC - Registo do recenseamento eleitoral de Bernardo dos Santos ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Bernardo dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Estado - Casado
+Morada - Rua
+Idade - 46
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47908
+**LangMaterial**:: Português
+**PhysLoc**:: 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47908

@@ -1,0 +1,15 @@
+====== 99363 - UI - Sousa Fernandes ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Sousa Fernandes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-10-01
+**UnitDateFinal**:: 1913-10-01
+**ScopeContent**:: Presidente da Câmara Municipal de V. N. de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99363
+
+===== Filhos =====
+  * [[99365.txt|99365 - DC - Ofício]]

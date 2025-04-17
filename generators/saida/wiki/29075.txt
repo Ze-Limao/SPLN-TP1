@@ -1,0 +1,17 @@
+====== 29075 - UI - Vilmorin Andrieux Cie. ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Vilmorin Andrieux Cie.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1868-03-27
+**UnitDateFinal**:: 1876-03-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29075
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29075
+
+===== Filhos =====
+  * [[29076.txt|29076 - DC - Ofício]]
+  * [[29077.txt|29077 - DC - Carta]]
+  * [[29078.txt|29078 - DC - Carta]]
+  * [[29079.txt|29079 - DC - Ofício]]

@@ -1,0 +1,15 @@
+====== 8063 - DC - Termo de Manuel Carneiro e Felicidade da Costa ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel Carneiro e Felicidade da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-08-28
+**UnitDateFinal**:: 1878-08-28
+**ScopeContent**:: Vedação de terreno
+Local - Riba de Ave
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8063
+**LangMaterial**:: Português
+**PhysLoc**:: f. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8063

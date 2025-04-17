@@ -1,0 +1,16 @@
+====== 25581 - DC - Carta ======
+
+**Parent**:: 21153
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-12-28
+**UnitDateFinal**:: 1908-12-28
+**ScopeContent**:: Carta manuscrita assinada de Biarritz, Ville de Larralde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25581
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 534 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25581

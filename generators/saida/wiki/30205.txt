@@ -1,0 +1,16 @@
+====== 30205 - DC - Carta enviada por José de Azevedo e Menezes para Albino Joaquim Ferreira Tinoco ======
+
+**Parent**:: 21379
+**RootParent**:: 20290
+**UnitTitle**:: Carta enviada por José de Azevedo e Menezes para Albino Joaquim Ferreira Tinoco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-12-26
+**UnitDateFinal**:: 1880-12-26
+**ScopeContent**:: Carta manuscrita e assinada de José de Azevedo e Menezes para Albino Joaquim Ferreira Tinoco em que pede informações sobre o primo Duarte Borges da casa de Infías, de Braga. Alfredo Tinoco responde na mesma carta e na mesma data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30205
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1337 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30205

@@ -1,0 +1,16 @@
+====== 29287 - DC - Para o preparado derrete-se o colophane ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Para o preparado derrete-se o colophane
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Composição: colofane, pó de resina, giz pulverrizado, essência de terebintina e rocon (?).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29287
+**LangMaterial**:: Português
+**PhysLoc**:: AS 196 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29287

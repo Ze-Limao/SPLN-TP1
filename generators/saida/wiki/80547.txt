@@ -1,0 +1,14 @@
+====== 80547 - UI - Processo nº 197 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 197
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-09-01
+**UnitDateFinal**:: 1972-11-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 192 - cx. 11
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80547

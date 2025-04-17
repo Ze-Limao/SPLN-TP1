@@ -1,0 +1,17 @@
+====== 79760 - DC - Cartas de José, illustre chefe e representante da nossa família ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Cartas de José, illustre chefe e representante da nossa família
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868
+**UnitDateFinal**:: 1884
+**ScopeContent**:: Papel do maço com título manuscrito. Contém cartas CP 12257 a CP 12293. Cartas do Conde Vila Real D. José de Sousa Botelho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56820
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12256 - cx. 71
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79760

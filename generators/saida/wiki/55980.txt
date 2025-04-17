@@ -1,0 +1,29 @@
+====== 55980 - DC - Maço Relações da Alemanha com a Inglaterra 1902, Visita do Imperador a Lisboa 1905, Relações da Alemanha com a Inglaterra 1906, Campanha de África e escândalos coloniais 1906 ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço Relações da Alemanha com a Inglaterra 1902, Visita do Imperador a Lisboa 1905, Relações da Alemanha com a Inglaterra 1906, Campanha de África e escândalos coloniais 1906
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1906
+**ScopeContent**:: Este maço contém CP 14593 a CP 14602.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55980
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14592 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55980
+
+===== Filhos =====
+  * [[55981.txt|55981 - DC - Maço Relações da Alemanha com a Inglaterra durante a guerra do Transval]]
+  * [[55982.txt|55982 - DC - Telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55983.txt|55983 - DC - Telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55984.txt|55984 - DC - Nota de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55985.txt|55985 - DC - Maço Sul d´Angola e viagem de Guilherme II à corte de Lisboa]]
+  * [[55986.txt|55986 - DC - Cópia de telegrama]]
+  * [[55987.txt|55987 - DC - Cópia de telegrama]]
+  * [[55988.txt|55988 - DC - Cópia de carta]]
+  * [[55989.txt|55989 - DC - Cópia de carta]]
+  * [[55990.txt|55990 - DC - Cópia de carta]]

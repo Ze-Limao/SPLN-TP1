@@ -1,0 +1,52 @@
+====== 60773 - SR - Rações ======
+
+**Parent**:: 60536
+**RootParent**:: 60536
+**UnitTitle**:: Rações
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1518
+**UnitDateFinal**:: 1848
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60704
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60773
+
+===== Filhos =====
+  * [[60731.txt|60731 - DC - Tombo de uma ração da igreja de S. Tiago de Antas pertencente a António da Costa]]
+  * [[60762.txt|60762 - UI - Tombo de uma ração da igreja de S. Tiago de Antas]]
+  * [[60772.txt|60772 - DC - Ração feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Fernão da Costa, por renúncia de Miguel Dias de Lemos]]
+  * [[63999.txt|63999 - DC - Procuração que fez Baltazar Álvares, raçoeiro da Igreja S. Tiago de Antas, a João Ribeiro, para renunciar ao benefício que possuía na Igreja S. Tiago de Antas]]
+  * [[64000.txt|64000 - DC - Título de posse de um raçoeiro, da Igreja de S. Tiago, a favor de João Gomes da Silva, por resignação de Lourenço da Gama Ferreira]]
+  * [[64001.txt|64001 - DC - Bula para provimento do raçoeiro reverendo João Teixeira de Távora, num benefício simples da Igreja S. Tiago de Antas]]
+  * [[64002.txt|64002 - DC - Certidão que confirma Pedro Alves como raçoeiro da Igreja de S. Tiago de Antas, passada por Luís Moura Mendonça, abade da Igreja de S. Tiago de Antas]]
+  * [[64003.txt|64003 - DC - Colação do Reverendo António Lourenço da Cruz Ferreira, numa ração da Igreja S. Tiago de Antas]]
+  * [[64004.txt|64004 - DC - Título de colação de benefício simples raçoeiro estabelecido na Igreja S. Tiago de Antas a favor do Reverendo Manuel Rodrigues de Oliveira, presbítero na freguesia do Carregal, Bispado de Viseu.]]
+  * [[65708.txt|65708 - UI - Tombo e apegação dos casais da Ração de Sebastião Gonçalves, raçoeiro da Igreja de S. Tiago de Antas]]
+  * [[65845.txt|65845 - DC - Carta de permutação de duas igrejas de que eram abades Pero Jorge da Silva e Diogo Anes]]
+  * [[65846.txt|65846 - DC - Carta de confirmação que fez Pero Jorge da Silva, abade da Igreja de S. Tiago e Antas, de uma ração da sua Igreja]]
+  * [[65847.txt|65847 - DC - Carta de provimento de uma Ração (casais da Coelha) da Igreja de S. Tiago de Antas que fez Pero Jorge da Silva, abade da Igreja]]
+  * [[66097.txt|66097 - DC - Tombo da Ração do padre João Gomes da Silva da freguesia de S.Tiago de Antas tirado do tombo da mitra de Braga]]
+  * [[66107.txt|66107 - DC - Carta de provimento de uma Ração (casais da Coelha) da Igreja de S. Tiago de Antas que fez Pero Jorge da Silva, abade da Igreja]]
+  * [[66161.txt|66161 - DC - Emprazamento do Padre João Gomes da Silva, raçoeiro da Igreja de S. Tiago de Antas, com o consentimento de Bento Mendes da Silva, por vagar por resignação que dele fez]]
+  * [[66163.txt|66163 - DC - Colação (?) de Miguel Soares Pereira, clérigo beneficiário perpétuo paroquial igreja de S. Tiago de Antas]]
+  * [[66164.txt|66164 - DC - Instrumento, António Fernandes, abade de S. Tiago de Antas]]
+  * [[66167.txt|66167 - DC - Colação de Luís Manuel Fialho de Mendonça numa ração da Igreja de S. Tiago de Antas]]
+  * [[66169.txt|66169 - DC - Colação de Joaquim Manuel de Moura e Mendonça numa ração da Igreja de S. Tiago de Antas]]
+  * [[66184.txt|66184 - DC - Lista de raçoeiros]]
+  * [[66185.txt|66185 - DC - O visitador da Igreja de S. Tiago de Antas no ano de 1609 mandou um capítulo da Visitação que dois raçoeiros, que na dita igreja de S. Tiago de Antas, têm de sua obrigação rezar missa de defuntos, conforme dada em 1552]]
+  * [[66187.txt|66187 - DC - Pagamento do laudémio de compras e vendas dos casais pelo abade e não pelos Raçoeiros]]
+  * [[66189.txt|66189 - DC - Por artigos da nova ração nesta instância, diz o reverendo abade António Fernandes, em seu nome e da sua igreja de S. Tiago de Antas do Arcebispado de Braga, por via de restituição et omni meliori juris modo]]
+  * [[66193.txt|66193 - DC - Por artigos da nova ração nesta instância, diz o reverendo abade António Fernandes, em seu nome e da sua igreja de S. Tiago de Antas do Arcebispado de Braga, por via de restituição et omni meliori juris modo]]
+  * [[66196.txt|66196 - DC - Pagamento do laudémio a raçoeiros da igreja S. Tiago de Antas]]
+  * [[66197.txt|66197 - DC - Apontamentos sobre as apresentações das rações]]
+  * [[66198.txt|66198 - DC - Parecer de Marcos Diniz sobre as rações são benefícios do abade]]
+  * [[66251.txt|66251 - DC - Certidão de António Fernandes, abade de S. Tiago de Antas, a Bernardo Silva]]
+  * [[66252.txt|66252 - DC - Diz o procurador e curador dos foreiros e fazenda da igreja de S. Tiago de Antas, enquanto está vaga por embargos a fim de se não cumprir a sentença da Relação do Porto, em que manda se não tiver de posse dos foreiros da dita igreja, João Pinto e F. Pinto]]
+  * [[66311.txt|66311 - DC - Petição do Padre Salvador Pinto, raçoeiro na Igreja de S. Tiago de Antas, que tendo uns papeis para negociar nesta cidade de Braga, mandou pedir ao Padre Marçal Gomes, da Vila Nova de Famalicão, por seu irmão António Gomes se lhe queria dizer missa da Ração neste dia, tendo este faltado pede para não pagar a pena de suspeição]]
+  * [[66313.txt|66313 - DC - Parecer do letrado sobre raçoeiros ao tempo dos abades Pêro Jorge da Silva e Bernardo da Silva]]
+  * [[66332.txt|66332 - DC - Sobre a ração do Villar]]
+  * [[66345.txt|66345 - DC - S. Tiago de Antas tocante à contenda dos Raçoeiros sobre as missas alternadas]]
+  * [[66422.txt|66422 - DC - Agravo João Branco (?)]]
+  * [[66423.txt|66423 - DC - Carta de João Soares]]
+  * [[66563.txt|66563 - DC - Recibo de Gomes da Silva abade da Igreja de S. Miguel recebeu dois laudémios, um pela arrematação da quinta da Idanha e do casal na freguesia de Chorente, Barcelos e outro…na ausência do abade de S. Tiago de Antas, de António Fernandes em 1608]]
+  * [[66564.txt|66564 - DC - Inventário de pagamentos de rações de casais de Frazães, Portela de Cima, Portela de Baixo, real, S. Cláudio, freguesia de Cabeçudos, Requião, S. Paio de Seide, Castelões, Avidos]]
+  * [[66565.txt|66565 - DC - Inventário de pagamentos de rações de freguesias de Cabeçudos, Castelões, Avidos, Brufe, S. Tiago de Antas, S. Miguel de Gemunde, Vila Nova e de S. Adrião, Gavião, Tebosa e Arnoso, S. Tiago de Rebordões, S. Tiago de Bougado e Ribeirão, Fradelos, Ferreiros, Sangrão e Esmeriz]]

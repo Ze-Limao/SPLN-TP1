@@ -1,0 +1,19 @@
+====== 33944 - DC - Registo do recenseamento militar de Francisco de Araújo ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Aves
+Data de nascimento - 1852-08-11
+Filiação - João de Araújo e Maria Josefa
+Profissão - Criado de servir
+Estado - Solteiro
+Morada - Lordelo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33944
+**LangMaterial**:: Português
+**PhysLoc**:: 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33944

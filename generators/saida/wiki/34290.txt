@@ -1,0 +1,19 @@
+====== 34290 - DC - Registo do recenseamento militar de António Gonçalves Ferreira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Gonçalves Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Cavalões
+Data de nascimento - 1852-03-26
+Filiação - Joaquim Gonçalves Ferreira e Balbina Joaquina
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34290
+**LangMaterial**:: Português
+**PhysLoc**:: 89v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34290

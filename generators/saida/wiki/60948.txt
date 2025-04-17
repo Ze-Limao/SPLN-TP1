@@ -1,0 +1,14 @@
+====== 60948 - SR - Registo das Conciliações ======
+
+**Parent**:: 60947
+**RootParent**:: 60947
+**UnitTitle**:: Registo das Conciliações
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1872-08-02
+**UnitDateFinal**:: 1872-08-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60948
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60948
+
+===== Filhos =====
+  * [[60949.txt|60949 - DC - Certidão da conciliação]]

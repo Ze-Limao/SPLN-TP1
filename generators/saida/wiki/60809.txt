@@ -1,0 +1,20 @@
+====== 60809 - SR - Rodrigo F. da Silva ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Rodrigo F. da Silva
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1960
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60809
+
+===== Filhos =====
+  * [[60810.txt|60810 - DC - Vista parcial da feira de gado]]
+  * [[60811.txt|60811 - DC - A feira da louça]]
+  * [[60812.txt|60812 - DC - Paços de Concelho e Palácio da Justiça]]
+  * [[60813.txt|60813 - DC - A Ponte de Lagoncinha (Monumento Nacional)]]
+  * [[61027.txt|61027 - DC - Paços de Concelho e Palácio da Justiça]]
+  * [[61028.txt|61028 - DC - A Ponte de Lagoncinha (Monumento Nacional)]]

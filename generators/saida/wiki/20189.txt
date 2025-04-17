@@ -1,0 +1,17 @@
+====== 20189 - SR - Registos de termos de fiança para uso de armas de caça ======
+
+**Parent**:: 20055
+**RootParent**:: 20048
+**UnitTitle**:: Registos de termos de fiança para uso de armas de caça
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1882-07-08
+**UnitDateFinal**:: 1888-09-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20189
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20189
+
+===== Filhos =====
+  * [[20190.txt|20190 - UI - Registo de termos de fiança para uso de armas de caça nº2]]
+  * [[20191.txt|20191 - UI - Registo de termos de fiança para uso de armas]]
+  * [[20192.txt|20192 - UI - Registo de termos de fiança para uso de armas nº1]]

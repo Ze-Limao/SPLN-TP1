@@ -1,0 +1,16 @@
+====== 52519 - DC - Registo do recenseamento militar de Manuel da Silva ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-07-02
+Filiação - Teotónio da Silva e Ana Joaquina Alves Pimenta
+Naturalidade - Novais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52519
+**LangMaterial**:: Português
+**PhysLoc**:: 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52519

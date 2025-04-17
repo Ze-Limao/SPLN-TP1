@@ -1,0 +1,19 @@
+====== 62564 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Bento José Pinheiro e Bernardina, em Vila Nova de Famalicão
+Naturalidade - Antas
+Morada - Vila Nova de Famalicão
+Data de nascimento - 1857-01-23
+Emprego - Alfaiate
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62564

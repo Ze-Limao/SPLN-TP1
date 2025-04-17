@@ -1,0 +1,15 @@
+====== 9752 - SR - M. J. Dias ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: M. J. Dias
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1910
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9752
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9752
+
+===== Filhos =====
+  * [[9753.txt|9753 - DC - Vermoim - Famalicão - Recta da estrada Nacional com 4 kilometros]]

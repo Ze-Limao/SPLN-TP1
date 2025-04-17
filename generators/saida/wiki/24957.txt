@@ -1,0 +1,15 @@
+====== 24957 - UI - Livro Caixa nº 4 desde 1942 a 1953 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Livro Caixa nº 4 desde 1942 a 1953
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1942-01-05
+**UnitDateFinal**:: 1953-01-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24957
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 61
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24957

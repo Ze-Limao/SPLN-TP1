@@ -1,0 +1,14 @@
+====== 56754 - UI - Raul Augusto da Silva Guardado ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Raul Augusto da Silva Guardado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56754
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56754
+
+===== Filhos =====
+  * [[56755.txt|56755 - DC - Cartão de visita]]

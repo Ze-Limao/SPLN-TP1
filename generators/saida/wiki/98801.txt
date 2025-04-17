@@ -1,0 +1,15 @@
+====== 98801 - DC - A Casa de Camilo ======
+
+**Parent**:: 98674
+**RootParent**:: 7651
+**UnitTitle**:: A Casa de Camilo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1996
+**UnitDateFinal**:: 1996
+**ScopeContent**:: Realizado por Carlos Brandão Lucas, imagem César Pina Duarte, assistente científico Aníbal Pinto de Castro. Editado pela Câmara Municipal de V.N. Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98784
+**LangMaterial**:: Português
+**PhysLoc**:: cx. 1
+depósito 1, estante 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98801

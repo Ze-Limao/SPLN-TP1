@@ -1,0 +1,16 @@
+====== 21448 - UI - Joaquim Filipe de Lemos Lobo Freire Pantoja ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Filipe de Lemos Lobo Freire Pantoja
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1927-11-01
+**UnitDateFinal**:: 1927-11-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21448
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1442
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21448
+
+===== Filhos =====
+  * [[30282.txt|30282 - DC - Carta]]

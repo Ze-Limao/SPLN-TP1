@@ -1,0 +1,15 @@
+====== 31362 - SC - Vicente Miguel de Paula Pinheiro de Melo e sua mulher Teresa Teles da Silva Caminha e Menezes e irmã Ana Maria Isabel do Carmo Pinheiro de Melo ======
+
+**Parent**:: 31354
+**RootParent**:: 31258
+**UnitTitle**:: Vicente Miguel de Paula Pinheiro de Melo e sua mulher Teresa Teles da Silva Caminha e Menezes e irmã Ana Maria Isabel do Carmo Pinheiro de Melo
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1904-01
+**UnitDateFinal**:: 1916-08-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31362
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31362
+
+===== Filhos =====
+  * [[31363.txt|31363 - SSC - Vicente Miguel de Paula Pinheiro de Melo]]
+  * [[31364.txt|31364 - SSC - Ana Maria Isabel do Carmo Pinheiro de Melo]]

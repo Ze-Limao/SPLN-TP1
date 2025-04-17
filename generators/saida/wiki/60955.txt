@@ -1,0 +1,16 @@
+====== 60955 - DC - Carta ======
+
+**Parent**:: 28809
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870
+**UnitDateFinal**:: 1870
+**ScopeContent**:: Carta sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28810
+**LangMaterial**:: Português
+**PhysLoc**:: AS 881 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60955

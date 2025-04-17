@@ -1,0 +1,15 @@
+====== 29259 - DC - Enxertos feitos em Capela em Março de 1901 ======
+
+**Parent**:: 29254
+**RootParent**:: 27963
+**UnitTitle**:: Enxertos feitos em Capela em Março de 1901
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901
+**UnitDateFinal**:: 1901
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29259
+**LangMaterial**:: Português
+**PhysLoc**:: AS 369 (6) - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29259

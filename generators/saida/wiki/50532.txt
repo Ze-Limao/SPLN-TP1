@@ -1,0 +1,18 @@
+====== 50532 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-05-18
+Filiação - Pedro de Oliveira e Maria de Oliveira
+Naturalidade - Lemenhe
+Profissão - Alfaiate
+Residência - Lemenhe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50532
+**LangMaterial**:: Português
+**PhysLoc**:: 60v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50532

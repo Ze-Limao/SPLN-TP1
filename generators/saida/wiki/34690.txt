@@ -1,0 +1,19 @@
+====== 34690 - DC - Registo do recenseamento militar de Custódio ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Custódio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Cabeçudos
+Data de nascimento - 1862-07-29
+Filiação - José Caetano e Ana Joaquina
+Profissão - 
+Estado - 
+Morada - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34690
+**LangMaterial**:: Português
+**PhysLoc**:: 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34690

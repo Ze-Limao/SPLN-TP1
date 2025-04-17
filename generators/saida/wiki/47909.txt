@@ -1,0 +1,18 @@
+====== 47909 - DC - Registo do recenseamento eleitoral de Domingos Luís de Azevedo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos Luís de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Estado - Casado
+Morada - Aldeia
+Idade - 46
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47909
+**LangMaterial**:: Português
+**PhysLoc**:: 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47909

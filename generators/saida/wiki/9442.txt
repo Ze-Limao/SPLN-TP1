@@ -1,0 +1,19 @@
+====== 9442 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - António Bernardino da Silva e Maria Joaquina da Silva
+Naturalidade - Gondifelos
+Data de nascimento - 1877-12-27
+Profissão - Jornaleiro
+Estado civil - Solteiro
+Residência - Gondifelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9442
+**LangMaterial**:: Português
+**PhysLoc**:: f. 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9442

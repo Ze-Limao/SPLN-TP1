@@ -1,0 +1,19 @@
+====== 9613 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Manuel Augusto Correia Guimarães e Ludovina Rosa Correia Machado
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1877-05-08
+Profissão - Empregado
+Estado civil - Solteiro
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9613
+**LangMaterial**:: Português
+**PhysLoc**:: f. 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9613

@@ -1,0 +1,20 @@
+====== 24774 - UI - Correspondência recebida/expedida à Câmara Municipal de Vila Nova de Famalicão, ao Instituto Nacional de Estatística, Governo Civil de Braga, Juntas de Freguesia, Ministério da Administração Interna e Ministério das Finanças e do Plano; Jornal Bombeiros de Portugal ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida à Câmara Municipal de Vila Nova de Famalicão, ao Instituto Nacional de Estatística, Governo Civil de Braga, Juntas de Freguesia, Ministério da Administração Interna e Ministério das Finanças e do Plano; Jornal Bombeiros de Portugal
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1985-04-29
+**UnitDateFinal**:: 1990-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24774
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 33 - cx. 7
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24774
+
+===== Filhos =====
+  * [[24795.txt|24795 - DC - Convite do Presidente da Câmara de V.N. de Famalicão para a inauguração do monumento ao Bombeiro Voluntário]]
+  * [[24796.txt|24796 - DC - Jornal Bombeiros de Portugal]]
+  * [[25844.txt|25844 - DC - Ofício dirigido ao Presidente da Câmara de Vila Nova de Famalicão do Comandante Fernando da Silva Soares]]

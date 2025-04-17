@@ -1,0 +1,14 @@
+====== 29039 - UI - Alberto Teles ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Alberto Teles
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-03-29
+**UnitDateFinal**:: 1904-03-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29039
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29039
+
+===== Filhos =====
+  * [[29040.txt|29040 - DC - Carta]]

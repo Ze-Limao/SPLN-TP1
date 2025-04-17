@@ -1,0 +1,15 @@
+====== 64155 - DC - Sentença contra João Álvares e António Pires, moradores na freguesia de S. Julião do Calendário, num processo movido pelo abade da Igreja de S. Tiago de Antas acerca de dois foros dos casais de Fontelo, em S. Julião de Calendário que os réus foreiros não pagaram ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença contra João Álvares e António Pires, moradores na freguesia de S. Julião do Calendário, num processo movido pelo abade da Igreja de S. Tiago de Antas acerca de dois foros dos casais de Fontelo, em S. Julião de Calendário que os réus foreiros não pagaram
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1614-01-21
+**UnitDateFinal**:: 1614-01-21
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 83 - cx. 3
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64155

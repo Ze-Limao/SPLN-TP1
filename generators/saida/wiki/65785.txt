@@ -1,0 +1,15 @@
+====== 65785 - DC - Sentença cível de emprazamento do casal do Fontelo, situado na freguesia de S. Julião do Calendário, feita por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Mariana Ferreira, viúva de José Fernandes. Certidão de escritura de venda por Padre João António da Silva Correia, de Calendário a José António da Rocha Júnior, de S. Tiago de Antas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal do Fontelo, situado na freguesia de S. Julião do Calendário, feita por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Mariana Ferreira, viúva de José Fernandes. Certidão de escritura de venda por Padre João António da Silva Correia, de Calendário a José António da Rocha Júnior, de S. Tiago de Antas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1734-11-07
+**UnitDateFinal**:: 1891-08-12
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. Certidão em papel azul selado de 80 reis, datada de 1891-08-12.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 156 - cx. 7
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65785

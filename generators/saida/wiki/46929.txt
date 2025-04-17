@@ -1,0 +1,18 @@
+====== 46929 - DC - Registo do recenseamento eleitoral de António da Costa Souto ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António da Costa Souto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Seide S. Miguel
+Profissão - Lavrador
+Estado - Casado
+Morada - Aldeia de Cima
+Idade - 49
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46929
+**LangMaterial**:: Português
+**PhysLoc**:: 60v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46929

@@ -1,0 +1,16 @@
+====== 24314 - DC - Registo do recenseamento eleitoral de Bernardo José da Fonseca e Castro ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Bernardo José da Fonseca e Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Castelões
+Profissão - Proprietário
+Morada - Castelões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24314
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24314

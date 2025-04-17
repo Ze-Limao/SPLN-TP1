@@ -1,0 +1,16 @@
+====== 22700 - DC - Registo do recenseamento eleitoral de Manuel da Costa Queirós ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel da Costa Queirós
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Louro
+Profissão - Lavrador
+Morada - Outeiro Levado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22700
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22700

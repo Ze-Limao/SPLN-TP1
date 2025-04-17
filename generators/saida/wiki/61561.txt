@@ -1,0 +1,17 @@
+====== 61561 - DC - Cópia de ofício do Rotary International para Armando Moura da Silva ======
+
+**Parent**:: 61446
+**RootParent**:: 60551
+**UnitTitle**:: Cópia de ofício do Rotary International para Armando Moura da Silva
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1983-06-27
+**UnitDateFinal**:: 1983-07-22
+**ScopeContent**:: Junto com Lista de organização Interact Club e ofício de Rotary International para José Carlos Marinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 276 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61561

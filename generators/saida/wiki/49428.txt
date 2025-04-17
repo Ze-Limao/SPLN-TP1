@@ -1,0 +1,18 @@
+====== 49428 - DC - Registo do recenseamento eleitoral de Francisco Luís da Costa ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Luís da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vale S. Cosme
+Profissão - Lavrador
+Estado - Casado
+Morada - Torre
+Idade - 52
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49428
+**LangMaterial**:: Português
+**PhysLoc**:: 82v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49428

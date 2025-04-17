@@ -1,0 +1,18 @@
+====== 52689 - DC - Registo do recenseamento militar de Lino da Silva ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Lino da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-08-24
+Filiação - Manuel José da Silva e Maria Joaquina
+Naturalidade - Fradelos
+Profissão - Criado de servir
+Residência - Bagunte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52689
+**LangMaterial**:: Português
+**PhysLoc**:: 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52689

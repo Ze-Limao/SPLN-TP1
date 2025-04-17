@@ -1,0 +1,45 @@
+====== 57680 - DC - Visitas de propaganda agrícola ======
+
+**Parent**:: 31346
+**RootParent**:: 31258
+**UnitTitle**:: Visitas de propaganda agrícola
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1928-05-31
+**UnitDateFinal**:: 1928-07-18
+**ScopeContent**:: Capa com uma folha com título manuscrito a cores respeitante à Companhia dos Caminhos de Ferro do Norte de Portugal. Contém 26 documentos: recortes de jornal, cartazes, etc.. Contém CP 2871 a CP 2896. Todos os documentos dizem respeito às visitas de demonstração das vantagens de máquinas agrícolas na Quinta da Lameira, Vilar do Pinheiro e na Escola Prática de Agricultura Conde de S. Bento, Santo Tirso, nos dias 1 de julho de 1928 e 22 de Julho de 1928, respetivamente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57680
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2870 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57680
+
+===== Filhos =====
+  * [[57681.txt|57681 - DC - A 1ª visita de propaganda agrícola na linha da Povoa]]
+  * [[57682.txt|57682 - DC - A 1ª visita de propaganda agrícola na linha da Guimarães]]
+  * [[57683.txt|57683 - DC - Uma obra altamente patriótica]]
+  * [[57684.txt|57684 - DC - A 1ª visita de propaganda agrícola na linha da Povoa]]
+  * [[57685.txt|57685 - DC - O Emprego das máquinas e a ensilagem nas pequenas propriedades (a proposito das visitas à Quintas da Lameira em Vilar do Pinheiro e à Escola Agrícola de Santo Tirso)]]
+  * [[57686.txt|57686 - DC - O Emprego das máquinas e a ensilagem nas pequenas propriedades (a proposito das visitas à Quintas da Lameira em Vilar do Pinheiro e à Escola Agrícola de Santo Tirso)]]
+  * [[57687.txt|57687 - DC - O Emprego das máquinas e a ensilagem nas pequenas propriedades (a proposito das visitas à Quintas da Lameira em Vilar do Pinheiro e à Escola Agrícola de Santo Tirso)]]
+  * [[57688.txt|57688 - DC - A 1ª visita de propaganda agrícola na linha da Povoa]]
+  * [[57689.txt|57689 - DC - A 1ª visita de propaganda agrícola na linha de Guimarães]]
+  * [[57690.txt|57690 - DC - Aos Snrs. vesitantes da Quinta da Lameira em Villar do Pinheiro]]
+  * [[57691.txt|57691 - DC - A 1ª visita de propaganda agrícola na linha de Guimarães]]
+  * [[57692.txt|57692 - DC - Boletim telegráfico de serviço de Vasconcelos para 3º Visconde de Pindela]]
+  * [[57693.txt|57693 - DC - Boletim telegráfico de serviço de Martins para Chefe de Famalicão]]
+  * [[57694.txt|57694 - DC - Bilhete de comboio]]
+  * [[57695.txt|57695 - DC - Bilhete de comboio]]
+  * [[57696.txt|57696 - DC - Boletim telegráfico de serviço de Vasconcelos para 3º Visconde de Pindela]]
+  * [[57697.txt|57697 - DC - Cópia de ofício para Padre Antunes de Azevedo do 3º Visconde de Pindela]]
+  * [[57698.txt|57698 - DC - Boletim telegráfico de serviço de Vasconcelos para 3º Visconde de Pindela]]
+  * [[57699.txt|57699 - DC - Carta para 3º Visconde de Pindela do Padre Antunes de Azevedo]]
+  * [[57700.txt|57700 - DC - Ofício para 3º Visconde de Pindela do Engenheiro Director da Exploração]]
+  * [[57701.txt|57701 - DC - Cópia de ofício para Engenheiro Ezequiel Pereira do Campos do Engenheiro Director da Exploração]]
+  * [[57702.txt|57702 - DC - Cópia de ofício do 3º Visconde]]
+  * [[57703.txt|57703 - DC - Boletim telegráfico de serviço de Vasconcelos para 3º Visconde de Pindela]]
+  * [[57704.txt|57704 - DC - Minuta de carta para Duarte Menezes do 3º Visconde de Pindela]]
+  * [[57705.txt|57705 - DC - Boletim telegráfico de serviço de Vasconcelos para 3º Visconde de Pindela]]
+  * [[57706.txt|57706 - DC - Ofício para 3º Visconde de Pindela do Engenheiro Director da Exploração e minuta de resposta]]

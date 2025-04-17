@@ -1,0 +1,17 @@
+====== 53917 - DC - C.M.F. - P 98 - Novo edifício dos Paços do Concelho de Famalicão - Projeto do Posto de Informação ======
+
+**Parent**:: 53747
+**RootParent**:: 25851
+**UnitTitle**:: C.M.F. - P 98 - Novo edifício dos Paços do Concelho de Famalicão - Projeto do Posto de Informação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-02-11
+**UnitDateFinal**:: 1961-02-11
+**ScopeContent**:: Cópia de planta. Planta do Teto/Alçado Lateral/Corte C-D (Não Construído) - Pormenores - Escalas: 1/50.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53917
+**LangMaterial**:: Português
+**PhysLoc**:: JG 132 - cx. 4
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53917

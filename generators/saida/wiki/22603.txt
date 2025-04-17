@@ -1,0 +1,16 @@
+====== 22603 - DC - Registo do recenseamento eleitoral de João Rodrigues de Carvalho ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Rodrigues de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Eclesiástico
+Morada - Padroso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22603
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22603

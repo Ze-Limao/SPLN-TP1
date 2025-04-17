@@ -1,0 +1,17 @@
+====== 54474 - DC - Prazo factuizim perpetuo que faz Manuel Moreira Lopes, solteiro, a António José Antunes Teixeira e sua mulher, ourives desta vª de G.es ======
+
+**Parent**:: 31395
+**RootParent**:: 31258
+**UnitTitle**:: Prazo factuizim perpetuo que faz Manuel Moreira Lopes, solteiro, a António José Antunes Teixeira e sua mulher, ourives desta vª de G.es
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1819-10-30
+**UnitDateFinal**:: 1819-10-30
+**ScopeContent**:: Manuscrito com folhas cosidas. Este documento estava  na “Caixa 5”, que contém CP 13017 a CP 13107. Manuel Moreira Lopes, solteiro, irmão do pai de Eulália Estelita Rangel de Quadros. António José Antunes Teixeira foi ourives, em Guimarães. Prazo das casa da rua Tras do muro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54474
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13025 - cx. 84
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54474

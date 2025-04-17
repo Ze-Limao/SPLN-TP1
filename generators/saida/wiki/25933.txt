@@ -1,0 +1,15 @@
+====== 25933 - DC - Inauguração do novo quartel com Ministro do Interior Santos Júnior e Hilário Carvalho, direção e Presidente da Câmara Padre Benjamim Salgado ======
+
+**Parent**:: 25319
+**RootParent**:: 20342
+**UnitTitle**:: Inauguração do novo quartel com Ministro do Interior Santos Júnior e Hilário Carvalho, direção e Presidente da Câmara Padre Benjamim Salgado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-09-28
+**UnitDateFinal**:: 1966-09-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25933
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 188 - cx. 52
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25933

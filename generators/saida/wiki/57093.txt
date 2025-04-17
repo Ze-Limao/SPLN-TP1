@@ -1,0 +1,17 @@
+====== 57093 - DC - Comissão de Viticultura. Serviço Central. Assumptos tratados. Conselho Superior de Viticultura ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Assumptos tratados. Conselho Superior de Viticultura
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1931-02-02
+**UnitDateFinal**:: 1932-02-02
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes que contém ofícios e documentos datilografados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57093
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9477 - cx. 56
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57093

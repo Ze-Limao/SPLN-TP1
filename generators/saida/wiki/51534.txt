@@ -1,0 +1,18 @@
+====== 51534 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1846-01-13
+Filiação - Joaquim Francisco da Silva e Joana Maria da Costa
+Naturalidade - Calendário
+Profissão - Criado de servir
+Residência - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51534
+**LangMaterial**:: Português
+**PhysLoc**:: 60v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51534

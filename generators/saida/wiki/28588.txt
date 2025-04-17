@@ -1,0 +1,19 @@
+====== 28588 - DC - Várias referências bibliográficas ======
+
+**Parent**:: 28587
+**RootParent**:: 27963
+**UnitTitle**:: Várias referências bibliográficas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28588
+**LangMaterial**:: Português
+**PhysLoc**:: AS 104 (1) a 104 (3)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28588
+
+===== Filhos =====
+  * [[29897.txt|29897 - DC - Sobre o comportamento dos missionários e padres nas colónias v. Sev. de Faria - Not. de Port. Disc. 6.º § 2]]
+  * [[29898.txt|29898 - DC - Sobre as viagens dos Cortes Reaes, v. M. da Lit. Tomo 8.º]]
+  * [[29899.txt|29899 - DC - Besteiros, Herc. Op. VI, III, p. 310 e seg.tes]]

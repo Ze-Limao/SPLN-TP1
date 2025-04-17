@@ -1,0 +1,16 @@
+====== 22376 - DC - Registo do recenseamento eleitoral de Manuel Ferreira Lopes ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Ferreira Lopes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Lavrador
+Morada - Valdoi
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22376
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22376

@@ -1,0 +1,14 @@
+====== 30051 - DC - Rodrigo Fernandes Silva ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Rodrigo Fernandes Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-04-27
+**UnitDateFinal**:: 1962-04-27
+**ScopeContent**:: Regedor efetivo da freguesia de Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30051
+**LangMaterial**:: Português
+**PhysLoc**:: f. 26
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30051

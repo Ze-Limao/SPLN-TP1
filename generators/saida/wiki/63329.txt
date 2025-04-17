@@ -1,0 +1,19 @@
+====== 63329 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Custódio de Araújo e Ana Carvalho, na freguesia
+Naturalidade - Esmeriz
+Morada - Esmeriz
+Data de nascimento - 1864-06-20
+Emprego - Jornaleiro
+Estado - Esmeriz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63329

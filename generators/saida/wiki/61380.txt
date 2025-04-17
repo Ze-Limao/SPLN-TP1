@@ -1,0 +1,16 @@
+====== 61380 - DC - Ómnia Vánitas ======
+
+**Parent**:: 60931
+**RootParent**:: 60550
+**UnitTitle**:: Ómnia Vánitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1930-06
+**UnitDateFinal**:: 1930-06
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 162 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61380

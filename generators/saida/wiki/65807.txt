@@ -1,0 +1,15 @@
+====== 65807 - DC - Parte do tombo e apegação de uma quebrada doada por Maria Afonso, à ração de Bartolomeu Gonçalves, raçoeiro da igreja de S.Tiago de Antas, representado pelo seu procurador Gonçalo de Seabra ======
+
+**Parent**:: 60730
+**RootParent**:: 60536
+**UnitTitle**:: Parte do tombo e apegação de uma quebrada doada por Maria Afonso, à ração de Bartolomeu Gonçalves, raçoeiro da igreja de S.Tiago de Antas, representado pelo seu procurador Gonçalo de Seabra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1551-05-01
+**UnitDateFinal**:: 1551-05-01
+**ScopeContent**:: Manuscrito, cópia do original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 49 - cx. 1
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65807

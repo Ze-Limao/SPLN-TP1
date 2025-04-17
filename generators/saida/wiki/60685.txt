@@ -1,0 +1,16 @@
+====== 60685 - DC - Livro de actas da Comissão Promotora da Homenagem posthuma ao grande escriptor Camilo Castelo Branco ======
+
+**Parent**:: 60684
+**RootParent**:: 60545
+**UnitTitle**:: Livro de actas da Comissão Promotora da Homenagem posthuma ao grande escriptor Camilo Castelo Branco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-04-11
+**UnitDateFinal**:: 1921-05-06
+**ScopeContent**:: Livro manuscrito, o termo de abertura e encerramento pelo presidente da Comissão José de Azevedo e Meneses, em 11 abril de 1915, numa reunião no Salão Olympia, em Famalicão. Das 69 f. numeradas, 51 f. estão manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60685
+**LangMaterial**:: Poruguês
+**PhysLoc**:: CHCCB 1 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60685

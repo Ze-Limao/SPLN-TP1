@@ -1,0 +1,16 @@
+====== 25884 - DC - Corpo Ativo com Manuel Ferreira da Costa e Sousa ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Corpo Ativo com Manuel Ferreira da Costa e Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1898
+**ScopeContent**:: Fotografia de conjunto com o corpo ativo e o futuro Barão de Famalicão Manuel Ferreira da Costa e Sousa sentado ao centro. Tem legenda.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25884
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25884

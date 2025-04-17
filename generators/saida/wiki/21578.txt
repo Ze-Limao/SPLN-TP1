@@ -1,0 +1,16 @@
+====== 21578 - DC - Registo do recenseamento eleitoral de Bento José da Rocha ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Bento José da Rocha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Arnoso Mosteiro
+Profissão - Lavrador
+Morada - Monte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21578
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21578

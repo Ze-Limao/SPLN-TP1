@@ -1,0 +1,15 @@
+====== 65919 - DC - Carta de vedoria do casal do Outeiro, situado na freguesia de Fradelos, feito por Rodrigo de Mendonça Vasconcelos e Sousa, abade de S. Tiago de Antas, a Manuel da Costa Carneiro ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Carta de vedoria do casal do Outeiro, situado na freguesia de Fradelos, feito por Rodrigo de Mendonça Vasconcelos e Sousa, abade de S. Tiago de Antas, a Manuel da Costa Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1784-01-09
+**UnitDateFinal**:: 1784-01-09
+**ScopeContent**:: Manuscrito e impresso, original. Documento que pode estar relacionado com CSTA 684.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 654 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65919

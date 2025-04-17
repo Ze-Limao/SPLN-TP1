@@ -1,0 +1,16 @@
+====== 24847 - DC - Carta ======
+
+**Parent**:: 21077
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-04-28
+**UnitDateFinal**:: 1921-04-28
+**ScopeContent**:: Agradece a oferta do "Camilo Homenageado" e será publicitado no Diário de Notícias. Carta manuscrita assinada. Papel timbrado do Diário de Notícias - Direcção.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24847
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 280 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24847

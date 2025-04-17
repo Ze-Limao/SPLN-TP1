@@ -1,0 +1,17 @@
+====== 56713 - DC - À mon père qui voyage ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: À mon père qui voyage
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Poema manuscrito por algum dos filhos de Vicente em criança.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56713
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 2183 - cx. 15
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56713

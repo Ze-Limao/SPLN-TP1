@@ -1,0 +1,18 @@
+====== 46955 - DC - Registo do recenseamento eleitoral de Narciso Correia ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Narciso Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Seide S. Miguel
+Profissão - Vendeiro
+Estado - Casado
+Morada - Monte
+Idade - 45
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46955
+**LangMaterial**:: Português
+**PhysLoc**:: 60v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46955

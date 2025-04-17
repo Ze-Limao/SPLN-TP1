@@ -1,0 +1,22 @@
+====== 31744 - UI - Abel de Andrade ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Abel de Andrade
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-08-02
+**UnitDateFinal**:: 1902-01-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31744
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8184, 8336, 8337, 8338, 8339, 8340
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31744
+
+===== Filhos =====
+  * [[31745.txt|31745 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31746.txt|31746 - DC - Carta]]
+  * [[31747.txt|31747 - DC - Carta]]
+  * [[31748.txt|31748 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31749.txt|31749 - DC - Carta]]

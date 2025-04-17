@@ -1,0 +1,17 @@
+====== 99257 - SR - Fotografia ======
+
+**Parent**:: 60695
+**RootParent**:: 60695
+**UnitTitle**:: Fotografia
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1876
+**UnitDateFinal**:: 1928
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99060
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99257
+
+===== Filhos =====
+  * [[100191.txt|100191 - SSR - Negativos em vidro]]
+  * [[100192.txt|100192 - SSR - Fotografias positivos em papel]]
+  * [[99407.txt|99407 - SSR - Material para fotografia]]
+  * [[99411.txt|99411 - SSR - Álbuns de Fotografia]]

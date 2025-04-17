@@ -1,0 +1,16 @@
+====== 23150 - DC - Carta ======
+
+**Parent**:: 21040
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-11-28
+**UnitDateFinal**:: 1906-11-28
+**ScopeContent**:: Alberto Pinheiro Torres acusa a receção de 25.000 reis para ajuda do jornal católico que tem atraso de pagamento de muitos assinantes. Carta manuscrita assinada, Porto Cedofeita, 239.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23150
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 39 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23150

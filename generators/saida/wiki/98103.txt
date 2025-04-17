@@ -1,0 +1,15 @@
+====== 98103 - UI - Processo nº 276/80 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 276/80
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-07-29
+**UnitDateFinal**:: 1983-11-30
+**ScopeContent**:: 2.ª Secção. Junto com Autos de Transgressão nº 275, Autos de Embargos de Terceiro nº 429-B, Auto de Execução por Custas nº 429-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 767 - cx. 42
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98103

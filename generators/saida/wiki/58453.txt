@@ -1,0 +1,14 @@
+====== 58453 - UI - Alberto Leite ======
+
+**Parent**:: 31357
+**RootParent**:: 31258
+**UnitTitle**:: Alberto Leite
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-07-01
+**UnitDateFinal**:: 1910-07-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58453
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=58453
+
+===== Filhos =====
+  * [[58371.txt|58371 - DC - Minuta de carta de Bernardo Pinheiro Correia de Melo]]

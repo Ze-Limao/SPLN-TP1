@@ -1,0 +1,15 @@
+====== 31332 - SSC - Júlia Leonor Pinheiro Machado de Melo ======
+
+**Parent**:: 31330
+**RootParent**:: 31258
+**UnitTitle**:: Júlia Leonor Pinheiro Machado de Melo
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1897-08-24
+**UnitDateFinal**:: 1947
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31332
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31332
+
+===== Filhos =====
+  * [[31335.txt|31335 - SR - Correspondência recebida]]
+  * [[54535.txt|54535 - SR - Documentos]]

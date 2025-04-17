@@ -1,0 +1,19 @@
+====== 62359 - DC - Registo do recenseamento militar de Rodrigo ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Rodrigo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Joaquim Rodrigues da Costa e Maria Ribeiro, na freguesia
+Naturalidade - Landim
+Morada - Landim
+Data de nascimento - 1856-08-01
+Emprego - Criado de servir
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62359

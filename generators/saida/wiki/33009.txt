@@ -1,0 +1,17 @@
+====== 33009 - DC - Postal ilustrado para Viscondes ======
+
+**Parent**:: 32998
+**RootParent**:: 31258
+**UnitTitle**:: Postal ilustrado para Viscondes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-05-17
+**UnitDateFinal**:: 1900-05-17
+**ScopeContent**:: Postal ilustrado manuscrito assinado, de Lisboa. Postal com ilustração de uma lavradeira. Esta carta pertence ao maço "1900".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33009
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3015 - cx. 24
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33009

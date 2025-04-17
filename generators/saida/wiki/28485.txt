@@ -1,0 +1,16 @@
+====== 28485 - DC - A Senhora das Areas ======
+
+**Parent**:: 28482
+**RootParent**:: 27963
+**UnitTitle**:: A Senhora das Areas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: «A terceira he trazerlhe o mar por sua barra huma imagem da sempre Virgem Maria, à qual edificou a Villa Igreja na mesma costa que pelo sitio se intitula das Áreas. Assim o refere a tradição antiga, acrescentando que entrou sob huma taboa: ou fosse Sacro fragmento de algum estrago das ondas, de venerando despojo de algum insulto de heresia.». Referência bibliográfica: António Carvalho da Costa − Corografia Portugueza e descripçam topografica do famoso reyno de Portugal. Braga : Tipografia de Domingos Gonçalves Gouveia, 1868, p. 75.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28485
+**LangMaterial**:: Português
+**PhysLoc**:: AS 76 (3) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28485

@@ -1,0 +1,16 @@
+====== 28223 - DC - Instruction Pratique pour l’ Usage de L’ Alambic de J. Salleron ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Instruction Pratique pour l’ Usage de L’ Alambic de J. Salleron
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Impresso com as instruções do alambique “J. Salleron”. Impresso em Corbeil, typ. et stér. de Crété.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28223
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 495 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28223

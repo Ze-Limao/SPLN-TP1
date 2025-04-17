@@ -1,0 +1,14 @@
+====== 30025 - DC - António de Freitas Rodrigues ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: António de Freitas Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-01-03
+**UnitDateFinal**:: 1958-01-03
+**ScopeContent**:: Regedor efetivo da freguesia da Lagoa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30025
+**LangMaterial**:: Português
+**PhysLoc**:: f. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30025

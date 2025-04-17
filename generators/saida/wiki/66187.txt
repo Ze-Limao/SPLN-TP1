@@ -1,0 +1,15 @@
+====== 66187 - DC - Pagamento do laudémio de compras e vendas dos casais pelo abade e não pelos Raçoeiros ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Pagamento do laudémio de compras e vendas dos casais pelo abade e não pelos Raçoeiros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1600
+**UnitDateFinal**:: 1700
+**ScopeContent**:: Manuscrito, original, sem capa. No canto esquerdo “Num.8 v.n.13”. Documento sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 410 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66187

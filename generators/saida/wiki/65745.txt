@@ -1,0 +1,15 @@
+====== 65745 - DC - Emprazamento do casal de Nogueira, situado na freguesia Santa Maria de Arnoso, feita por Pedro de Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Manuel Rodrigues e a sua mulher Maria Gomes ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Nogueira, situado na freguesia Santa Maria de Arnoso, feita por Pedro de Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Manuel Rodrigues e a sua mulher Maria Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1738-07-03
+**UnitDateFinal**:: 1738-07-03
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 163 - cx. 8
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65745

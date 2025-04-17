@@ -1,0 +1,18 @@
+====== 47637 - DC - Registo do recenseamento eleitoral de Manuel Correia ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Cabeçudos
+Profissão - Lavrador
+Estado - Casado
+Morada - Pinchorros
+Idade - 52
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47637
+**LangMaterial**:: Português
+**PhysLoc**:: 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47637

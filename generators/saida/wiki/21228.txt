@@ -1,0 +1,18 @@
+====== 21228 - UI - Manuel de Clamouse Brown Van Zeller ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Manuel de Clamouse Brown Van Zeller
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-05-25
+**UnitDateFinal**:: 1904-05-25
+**ScopeContent**:: Manuel de Clamouse Brown van Zeller nasceu em 1876 e morreu em 1945. Filho de Manuel de Clamouse Browne van Zeller e Camila Ernestina de Araújo Rangel Pamplona. Irmão de Maria Emilia de Clamouse Browne van Zeller; Frederico van Zeller; Maria de Lourdes van Zeller e Maria Júlia van Zeller.
+Fonte: Geni.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21228
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 918
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21228
+
+===== Filhos =====
+  * [[26123.txt|26123 - DC - Carta]]

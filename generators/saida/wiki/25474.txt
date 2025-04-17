@@ -1,0 +1,16 @@
+====== 25474 - DC - Carta ======
+
+**Parent**:: 21120
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1917
+**ScopeContent**:: Carta manuscrita assinada sem data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25474
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 430 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25474

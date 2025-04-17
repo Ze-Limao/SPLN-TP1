@@ -1,0 +1,16 @@
+====== 26122 - DC - Carta ======
+
+**Parent**:: 21227
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-01-08
+**UnitDateFinal**:: 1901-01-08
+**ScopeContent**:: Carta manuscrita assinada, do Rio de Janeiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26122
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 917 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26122

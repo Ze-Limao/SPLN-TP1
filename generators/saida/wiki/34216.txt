@@ -1,0 +1,19 @@
+====== 34216 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Landim
+Data de nascimento - 1852-12-23
+Filiação - Ana Casca
+Profissão - Músico
+Estado - Casado
+Morada - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34216
+**LangMaterial**:: Português
+**PhysLoc**:: 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34216

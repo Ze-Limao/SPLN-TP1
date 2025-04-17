@@ -1,0 +1,14 @@
+====== 60476 - UI - António Frutuoso Aires de Gouveia Osório ======
+
+**Parent**:: 31306
+**RootParent**:: 31258
+**UnitTitle**:: António Frutuoso Aires de Gouveia Osório
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1881
+**UnitDateFinal**:: 1891
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46648
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60476
+
+===== Filhos =====
+  * [[60477.txt|60477 - DC - Carta]]

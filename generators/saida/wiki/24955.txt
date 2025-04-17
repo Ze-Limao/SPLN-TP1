@@ -1,0 +1,15 @@
+====== 24955 - UI - Conta da Receita e Despesa 1943 a 1965 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Conta da Receita e Despesa 1943 a 1965
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1943-03-30
+**UnitDateFinal**:: 1966-01-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24955
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 59
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24955

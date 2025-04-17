@@ -1,0 +1,18 @@
+====== 27970 - DC - Caderno de registo de despesas ======
+
+**Parent**:: 28305
+**RootParent**:: 27963
+**UnitTitle**:: Caderno de registo de despesas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1852-01
+**UnitDateFinal**:: 1865-06
+**ScopeContent**:: O caderno, pertencente a Emília Ermelinda da Cunha Sampaio, mãe de Alberto Sampaio, apresenta duas partes distintas: na primeira encontram-se registadas as despesas efetuadas com os estudos secundários e universitários dos dois filhos, José e Alberto Sampaio, e na segunda, as verbas gastas com a compra de propriedades, remissões de rendas, demandas, etc.
+O registo regular das despesas realizadas, desde a entrada dos filhos para o Real Colégio de D. Fernando, em Landim, em Janeiro de 1852, até ao final das suas formaturas na Universidade de Coimbra (Alberto Sampaio em Maio de 1863 e José Sampaio em Junho de 1865), permite conhecer as datas das viagens de Coimbra para Famalicão e de Famalicão para Coimbra, das idas a Guimarães de visita a familiares, o tempo de férias e os locais a que iam a “banhos” e ainda, outras particularidades, como por exemplo, o ano em que Alberto Sampaio começou a ter problemas com a visão.
+Um caderno com capa decorada com losangos e motivos florais. Papel de cor cinza clara.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27970
+**LangMaterial**:: Português
+**PhysLoc**:: AS 179 - cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27970

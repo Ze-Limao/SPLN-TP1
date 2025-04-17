@@ -1,0 +1,17 @@
+====== 67068 - DC - Von M. Lewin & Comp. ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Von M. Lewin & Comp.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-12-03
+**UnitDateFinal**:: 1896-12-03
+**ScopeContent**:: Fatura em papel timbrado e manuscrita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54482
+**LangMaterial**:: Alemão
+**PhysLoc**:: CP 2530 - cx. 20
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67068

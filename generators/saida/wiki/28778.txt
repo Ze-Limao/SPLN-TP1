@@ -1,0 +1,14 @@
+====== 28778 - UI - Francisco Ribeiro Martins da Costa (Francisco Agra) ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Francisco Ribeiro Martins da Costa (Francisco Agra)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1877-09-11
+**UnitDateFinal**:: 1877-09-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28778
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28778
+
+===== Filhos =====
+  * [[28779.txt|28779 - DC - Carta]]

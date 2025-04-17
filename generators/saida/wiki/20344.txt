@@ -1,0 +1,20 @@
+====== 20344 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Delães
+Filiação - Rodrigo da Silva Pinto Carneiro e Narcisa Rosa Rodrigues
+Naturalidade - Delães
+Data de nascimento -1869-01-15 
+Emprego - Tecelão
+Estado - Casado
+Residência - Delães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20344
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20344

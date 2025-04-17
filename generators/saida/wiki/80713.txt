@@ -1,0 +1,15 @@
+====== 80713 - UI - Processo nº 86/80 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 86/80
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-10-13
+**UnitDateFinal**:: 1984-02-09
+**ScopeContent**:: 2ª Secção.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 313 - cx. 16
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80713

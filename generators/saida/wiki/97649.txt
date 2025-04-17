@@ -1,0 +1,15 @@
+====== 97649 - UI - Processo nº 14 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 14
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-04-29
+**UnitDateFinal**:: 1976-10-02
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 14-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 399 - cx. 24
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97649

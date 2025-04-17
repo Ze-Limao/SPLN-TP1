@@ -1,0 +1,14 @@
+====== 31444 - UI - Henrique Borges de Castro Soares de Albergaria ======
+
+**Parent**:: 31365
+**RootParent**:: 31258
+**UnitTitle**:: Henrique Borges de Castro Soares de Albergaria
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-08-25
+**UnitDateFinal**:: 1916-08-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31444
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31444
+
+===== Filhos =====
+  * [[31445.txt|31445 - DC - Cartão de visita]]

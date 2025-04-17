@@ -1,0 +1,15 @@
+====== 99551 - UI - Armando Abreu ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Armando Abreu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-07-02
+**UnitDateFinal**:: 1916-07-02
+**ScopeContent**:: Pico de Regalados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99551
+
+===== Filhos =====
+  * [[99552.txt|99552 - DC - Carta]]

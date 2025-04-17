@@ -1,0 +1,18 @@
+====== 52543 - DC - Registo do recenseamento militar de Francisco de Oliveira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-10-05
+Filiação - Inácio José de Oliveira e Catarina Rita
+Naturalidade - Bente
+Profissão - Criado de servir
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52543
+**LangMaterial**:: Português
+**PhysLoc**:: 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52543

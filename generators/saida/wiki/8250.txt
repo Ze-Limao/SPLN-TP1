@@ -1,0 +1,23 @@
+====== 8250 - UI - Gaspar António de Oliveira Basto ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Gaspar António de Oliveira Basto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-01-20
+**UnitDateFinal**:: 1895-10-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8250
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.4
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8250
+
+===== Filhos =====
+  * [[8251.txt|8251 - DC - Carta]]
+  * [[8252.txt|8252 - DC - Carta]]
+  * [[8253.txt|8253 - DC - Carta]]
+  * [[8254.txt|8254 - DC - Carta]]
+  * [[8255.txt|8255 - DC - Carta]]
+  * [[8256.txt|8256 - DC - Carta]]
+  * [[8257.txt|8257 - DC - Carta]]
+  * [[8258.txt|8258 - DC - Carta]]

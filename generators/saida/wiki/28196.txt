@@ -1,0 +1,16 @@
+====== 28196 - DC - 1886 Tinta loura ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1886 Tinta loura
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-04
+**UnitDateFinal**:: 1886-04
+**ScopeContent**:: Notas sobre a casta Tinta loura. Enxertos realizados em abril de 1886.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28196
+**LangMaterial**:: Português
+**PhysLoc**:: AS 468 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28196

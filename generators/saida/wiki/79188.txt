@@ -1,0 +1,35 @@
+====== 79188 - SR - Coleção de Fotografias da Exposição Humberto Fonseca ======
+
+**Parent**:: 79187
+**RootParent**:: 79187
+**UnitTitle**:: Coleção de Fotografias da Exposição Humberto Fonseca
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1998
+**UnitDateFinal**:: 1998
+**Repository**:: Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79188
+**PhysLoc**:: CFEHF 1 a 6 - cx. 1
+CFEHF 7 a 13 - cx. 2
+CFEHF 14 a 22 - cx. 3
+CFEHF 23 a 31 - cx. 4
+CFEHF 32 a 40 - cx. 5
+CFEHF 41 a 49 - cx. 6
+CFEHF 50 a 58 - cx. 7
+CFEHF 59 a 67 - cx. 8
+CFEHF 68 a 76 - cx. 9
+CFEHF 77 a 85 - cx. 10
+CFEHF 86 a 94 - cx. 11
+CFEHF 95 a 103 - cx. 12
+CFEHF 104 a 112 - cx. 13
+CFEHF 113 a 121 - cx. 14
+CFEHF 122 a 129 - cx. 15
+CFEHF 130 a 138 - cx. 16
+CFEHF 139 a 147 - cx. 17
+CFEHF 148 a 156 - cx. 18
+CFEHF 157 a 165 - cx. 19
+CFEHF 166 a 175 - cx. 20
+CFEHF 176 a 184 - cx. 21
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79188

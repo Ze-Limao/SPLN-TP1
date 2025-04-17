@@ -1,0 +1,16 @@
+====== 24777 - DC - Panfletos de José de Araújo Carvalho (Carvalho de Travassos) ======
+
+**Parent**:: 24746
+**RootParent**:: 20342
+**UnitTitle**:: Panfletos de José de Araújo Carvalho (Carvalho de Travassos)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929-09-08
+**UnitDateFinal**:: 1930-01-25
+**ScopeContent**:: Contém um ofício de José de Araújo Carvalho dirigido à Direção da AHBVF e 3 panfletos sobre os bombeiros que eram distribuídos gratuitamente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24777
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 5 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24777

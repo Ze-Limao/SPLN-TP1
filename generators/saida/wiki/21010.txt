@@ -1,0 +1,15 @@
+====== 21010 - DC - Nº 7/963 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 7/963
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1963-04-01
+**UnitDateFinal**:: 1963-04-01
+**ScopeContent**:: Contrato de adjudicação da pavimentação do caminho entre o Largo da Castela e o cemitério de Calendário
+Outorgante - Artur da Silva Campos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21010
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 94
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21010

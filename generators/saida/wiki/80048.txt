@@ -1,0 +1,15 @@
+====== 80048 - UI - Processo nº 56 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 56
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-10-01
+**UnitDateFinal**:: 1972-04-29
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 56-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 59 - cx. 4
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80048

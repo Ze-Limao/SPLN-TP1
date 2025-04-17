@@ -1,0 +1,15 @@
+====== 97526 - UI - Processo nº 20 ======
+
+**Parent**:: 80014
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 20
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-07-08
+**UnitDateFinal**:: 1972-01-31
+**ScopeContent**:: Junto com Autos de Execução de Sentença nº 214-C, Autos de Execução de Custas nº 20-A, Autos de Reclamação de Créditos nº 214-B, Autos de Habilitação de Herdeiros nº 20-A/68/69.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 347 - cx. 20
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97526

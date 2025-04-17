@@ -1,0 +1,15 @@
+====== 66124 - DC - Escritura de compra que fez José Domingues Costa a Manuel da Costa Santos e mulher, todos de Fradelos ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra que fez José Domingues Costa a Manuel da Costa Santos e mulher, todos de Fradelos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-01-26
+**UnitDateFinal**:: 1869-01-26
+**ScopeContent**:: Manuscrito em papel azul com o imposto de selo colado 60 reis, original, sem capa. No canto esquerdo superior “Nota nº33. Af 14 vº”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 309 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66124

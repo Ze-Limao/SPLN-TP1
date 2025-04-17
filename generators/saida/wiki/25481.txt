@@ -1,0 +1,16 @@
+====== 25481 - DC - Carta ======
+
+**Parent**:: 21122
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-05-23
+**UnitDateFinal**:: 1913-05-23
+**ScopeContent**:: Carta manuscrita assinada, da redação da "A Nação", R. da Lucta, 30, 2º Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25481
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 438 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25481

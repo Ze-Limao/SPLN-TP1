@@ -1,0 +1,15 @@
+====== 97564 - UI - Processo nº 39 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 39
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-09-01
+**UnitDateFinal**:: 1976-10-01
+**ScopeContent**:: Autos de Processo Comum Sumário. Junto com Autos de Acção de Processo Comum (Ordinário) nº 41, Autos de Execução por Custas nº 41-A e 112-I, Autos e Acção de Processo Comum Sumário nº 37, 38 e 40, Autos de Reclamação de Créditos nº 112-A e Autos de Providência Cautelar -Arresto nº 48.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 386 - cx. 23
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97564

@@ -1,0 +1,16 @@
+====== 29767 - DC - Carta ======
+
+**Parent**:: 21301
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-05-19
+**UnitDateFinal**:: 1904-05-19
+**ScopeContent**:: Carta manuscrita assinada, de Braga. Informa que conferenciou com o par do reino Rodrigues de Carvalho e que soube que os progressistas combinaram não disputar a maioria no distrito de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29767
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1176 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29767

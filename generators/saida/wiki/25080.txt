@@ -1,0 +1,27 @@
+====== 25080 - UI - Documentos diversos sobre as Bodas de Diamante da AHBVF ======
+
+**Parent**:: 20386
+**RootParent**:: 20342
+**UnitTitle**:: Documentos diversos sobre as Bodas de Diamante da AHBVF
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1966
+**UnitDateFinal**:: 1966-10-23
+**ScopeContent**:: Contém: Recortes de imprensa; folheto; Relação das corporações que tomaram parte no desfile; Relação dos convites para Bodas de Diamante 1966; Correspondência recebida sobre as Bodas de Diamante; jornais.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25080
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 178 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25080
+
+===== Filhos =====
+  * [[25451.txt|25451 - DC - Convite da AHBVF para todos os associados, amigos e público em geral para as cerimónias das Bodas de Diamante]]
+  * [[25452.txt|25452 - DC - Comemorações das Bodas de Diamante dos Bombeiros Voluntários de Famalicão]]
+  * [[25453.txt|25453 - DC - Notícias de Famalicão]]
+  * [[25454.txt|25454 - DC - Estrela da Manhã]]
+  * [[25455.txt|25455 - DC - Notícias de Famalicão]]
+  * [[25456.txt|25456 - DC - Estrela da Manhã]]
+  * [[25457.txt|25457 - DC - Discurso de Hilário de Carvalho na ceia das Bodas de Diamante dos Bombeiros Voluntários de Famalicão]]
+  * [[25458.txt|25458 - DC - Merecidas distinções]]
+  * [[25459.txt|25459 - DC - Jornal de Riba d´Ave]]

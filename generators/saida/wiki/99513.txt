@@ -1,0 +1,14 @@
+====== 99513 - UI - João Machado ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: João Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917
+**ScopeContent**:: Paderne.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99513
+
+===== Filhos =====
+  * [[99514.txt|99514 - DC - Carta]]

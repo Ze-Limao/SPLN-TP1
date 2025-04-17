@@ -1,0 +1,15 @@
+====== 66290 - DC - Sentença cível de Jerónimo Francisco da freguesia de S. Tiago de Antas contra o Reverendo Abade de Lousado ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de Jerónimo Francisco da freguesia de S. Tiago de Antas contra o Reverendo Abade de Lousado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1640
+**UnitDateFinal**:: 1640
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 430 - cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66290

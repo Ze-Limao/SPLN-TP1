@@ -1,0 +1,17 @@
+====== 46515 - DC - Registo do recenseamento eleitoral de António Pereira da Costa ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Pereira da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Nine
+Profissão - Lavrador
+Estado - Casado
+Morada - Coura
+Idade - 57
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46515
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46515

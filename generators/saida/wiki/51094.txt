@@ -1,0 +1,18 @@
+====== 51094 - DC - Registo do recenseamento militar de Luís ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-04-13
+**UnitDateFinal**:: 1864-04-13
+**ScopeContent**:: Data de nascimento - 1842-11-22
+Filiação - Maria
+Naturalidade - Vermoim
+Profissão - 
+Residência - Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51094
+**LangMaterial**:: Português
+**PhysLoc**:: 60v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51094

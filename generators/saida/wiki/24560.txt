@@ -1,0 +1,16 @@
+====== 24560 - DC - Registo do recenseamento eleitoral de Domingos de Faria ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Joane
+Profissão - Pedreiro
+Morada - Pousada
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24560
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24560

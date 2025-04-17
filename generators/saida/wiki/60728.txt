@@ -1,0 +1,15 @@
+====== 60728 - DC - Emprazamento da quebrada de Boelhe, situada na freguesia de S. Tiago de Cambeses (concelho de Barcelos), feita por Pedro Álvares, raçoeiro da Igreja de S. Tiago de Antas, a Beatriz Martins, viúva ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento da quebrada de Boelhe, situada na freguesia de S. Tiago de Cambeses (concelho de Barcelos), feita por Pedro Álvares, raçoeiro da Igreja de S. Tiago de Antas, a Beatriz Martins, viúva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1536-10-23
+**UnitDateFinal**:: 1536-10-23
+**ScopeContent**:: Manuscrito, original, com selo. Tem restauro cosido da época. Ilegível.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 29 - cx. P19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60728

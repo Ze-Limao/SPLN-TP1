@@ -1,0 +1,15 @@
+====== 64097 - DC - Rol da desobriga de ambos os sexos desta freguesia de S. Tiago de Antas na Quaresma do ano de 1871 ======
+
+**Parent**:: 64091
+**RootParent**:: 60536
+**UnitTitle**:: Rol da desobriga de ambos os sexos desta freguesia de S. Tiago de Antas na Quaresma do ano de 1871
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-04-13
+**UnitDateFinal**:: 1871-04-13
+**ScopeContent**:: Manuscrito, original, folhas cosidas, 3 f. em branco.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 267 - cx. 14
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64097

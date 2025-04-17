@@ -1,0 +1,17 @@
+====== 98233 - DC - Compra de uns campos que se juntaram a Pindela ======
+
+**Parent**:: 54463
+**RootParent**:: 31258
+**UnitTitle**:: Compra de uns campos que se juntaram a Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1574-06-06
+**UnitDateFinal**:: 1579
+**ScopeContent**:: Manuscrito com folhas cosidas numa "Pasta nº 3 Cazal Nº 7 A". Este documento estava  na caixa “Pasta nº2 Anno 1841”, que contém CP 12875 a CP 12958.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31266
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12893 - cx. 79
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98233

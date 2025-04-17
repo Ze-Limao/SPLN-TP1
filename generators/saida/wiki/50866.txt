@@ -1,0 +1,18 @@
+====== 50866 - DC - Registo do recenseamento militar de Bernardino ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1844-01-02
+Filiação - José Bernardo da Silva e Joaquina Rosa
+Naturalidade - Landim
+Profissão - Lavrador
+Residência - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50866
+**LangMaterial**:: Português
+**PhysLoc**:: 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50866

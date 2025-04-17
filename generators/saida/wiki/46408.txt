@@ -1,0 +1,18 @@
+====== 46408 - DC - Registo do recenseamento eleitoral de João Correia da Silva ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Correia da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Louro
+Profissão - Lavrador
+Estado - Casado
+Morada - Outeirinho
+Idade - 62
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46408
+**LangMaterial**:: Português
+**PhysLoc**:: 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46408

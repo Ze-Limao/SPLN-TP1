@@ -1,0 +1,18 @@
+====== 49140 - DC - Registo do recenseamento eleitoral de João Ribeiro ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Riba de Ave
+Profissão - Proprietário
+Estado - Casado
+Morada - Venda
+Idade - 31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49140
+**LangMaterial**:: Português
+**PhysLoc**:: 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49140

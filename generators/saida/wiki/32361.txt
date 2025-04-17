@@ -1,0 +1,24 @@
+====== 32361 - UI - Maria Carolina Roma Barbosa (Maria Barbosa) ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria Carolina Roma Barbosa (Maria Barbosa)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-07-23
+**UnitDateFinal**:: 1911-05-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32361
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32361
+
+===== Filhos =====
+  * [[32362.txt|32362 - DC - Carta]]
+  * [[32363.txt|32363 - DC - Carta]]
+  * [[32364.txt|32364 - DC - Cartão]]
+  * [[32365.txt|32365 - DC - Carta]]
+  * [[32366.txt|32366 - DC - Carta]]
+  * [[32367.txt|32367 - DC - Carta para Viscondes]]
+  * [[32368.txt|32368 - DC - Carta]]

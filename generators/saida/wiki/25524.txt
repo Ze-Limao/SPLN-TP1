@@ -1,0 +1,16 @@
+====== 25524 - DC - Carta ======
+
+**Parent**:: 21133
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-07-24
+**UnitDateFinal**:: 1924-07-24
+**ScopeContent**:: Carta manuscrita assinada, R. Amoreiras 83, 3º Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25524
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 478 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25524

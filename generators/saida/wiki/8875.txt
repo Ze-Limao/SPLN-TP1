@@ -1,0 +1,18 @@
+====== 8875 - DC - Termo do exame de Maria da Silva Moreira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Maria da Silva Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-08
+**UnitDateFinal**:: 1893-08-08
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Jerónimo Bernardino
+Naturalidade - Vila Nova de Famalicão
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8875
+**LangMaterial**:: Português
+**PhysLoc**:: f. 54
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8875

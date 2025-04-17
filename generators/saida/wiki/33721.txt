@@ -1,0 +1,18 @@
+====== 33721 - UI - Bartolomeu Dias e Sousa da Costa Cabral ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Bartolomeu Dias e Sousa da Costa Cabral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-04-07
+**UnitDateFinal**:: 1910-04-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33721
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33721
+
+===== Filhos =====
+  * [[33720.txt|33720 - DC - Carta]]
+  * [[33722.txt|33722 - DC - Carta]]

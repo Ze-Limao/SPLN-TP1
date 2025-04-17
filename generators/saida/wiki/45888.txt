@@ -1,0 +1,18 @@
+====== 45888 - DC - Registo do recenseamento eleitoral de José António de Araújo ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Carreira
+Profissão - Proprietário
+Estado - Solteiro
+Morada - Corgo
+Idade - 62
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45888
+**LangMaterial**:: Português
+**PhysLoc**:: 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45888

@@ -1,0 +1,16 @@
+====== 23007 - DC - Registo do recenseamento eleitoral de João de Sousa Pinto ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João de Sousa Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Pedome
+Profissão - Marchante
+Morada - Ponte de Serves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23007
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23007

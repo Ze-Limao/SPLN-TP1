@@ -1,0 +1,17 @@
+====== 25347 - DC - Ofício da Presidência da República dirigido ao Presidente da AHBVF ======
+
+**Parent**:: 24746
+**RootParent**:: 20342
+**UnitTitle**:: Ofício da Presidência da República dirigido ao Presidente da AHBVF
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1940-05-30
+**UnitDateFinal**:: 1940-05-30
+**ScopeContent**:: «Tenho a honra de enviar a V. Ex.ª o incluso Diploma de Comendador da Ordem de Benemerência, com que Sua Excelência o Senhor Presidente da República se dignou agraciar a Associação Humanitária dos Bombeiros Voluntários de Vila Nova de Famalicão, de que V. Ex.ª é mui digno Presidente da Direção, sendo-me grato apresentar a V. Ex.ª as minhas felicitações pela distinção que foi prestada a essa tão prestimosa instituição.»
+Nota: Presidente da República - António Óscar de Cardoso Carmona / Presidente da Direção da Associação dos Bombeiros Voluntários de Vila Nova de Famalicão José da Costa Jácome (1938-1940) ou Augusto Carneiro de Sousa Fernandes (1940-1977)
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25347
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 5 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25347

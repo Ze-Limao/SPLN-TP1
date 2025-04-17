@@ -1,0 +1,15 @@
+====== 58372 - DC - Minuta de carta de Bernardo Pinheiro Correia de Melo ======
+
+**Parent**:: 54588
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta de Bernardo Pinheiro Correia de Melo
+**DescriptionLevel**:: D
+**ScopeContent**:: Minuta de carta manuscrita assinada. Junto com CP 7947.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58372
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7947B - cx. 50
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=58372

@@ -1,0 +1,16 @@
+====== 23929 - DC - Carta ======
+
+**Parent**:: 21055
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-11-05
+**UnitDateFinal**:: 1923-11-05
+**ScopeContent**:: Ana Menezes agradece o convite para o casamento de Maria Rita e aceita. Carta manuscrita assinada. Papel timbrado Casa d´Emfias, Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23929
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 83 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23929

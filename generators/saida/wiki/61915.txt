@@ -1,0 +1,20 @@
+====== 61915 - DC - Registo do recenseamento militar de Rodrigo ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Rodrigo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Joaquim Luís Ferreira e Joana Rosa, na freguesia
+Naturalidade - Mogege
+Morada - 
+Data de nascimento - 1861-11-22
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61915

@@ -1,0 +1,16 @@
+====== 28140 - DC - 1895 Vindima geral em 23 de Setembro (Clarete) ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1895 Vindima geral em 23 de Setembro (Clarete)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-09-23
+**UnitDateFinal**:: 1895-09-30
+**ScopeContent**:: Diversas informações sobre a vindima de 1895. Informações respeitantes às vindimas, nomeadamente locais da vindima − «vinha de cima», «vinha de baixo»−, condições climatéricas nos dias de vindima − «trovoada», «sol com algumas nuvens» −, quantidades vindimadas − «de vindimado apenas uma pipa e meia de vinho ao todo» e, por fim, dias de − «Ramadas da reserva − vindima em 26, 27 e 28 Set»; «Caseiros − Vindimas gerais − 30 Set.».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28140
+**LangMaterial**:: Português
+**PhysLoc**:: AS 413 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28140

@@ -1,0 +1,15 @@
+====== 99340 - UI - Joaquim de Azevedo Carneiro ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Joaquim de Azevedo Carneiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-05-28
+**UnitDateFinal**:: 1916-05-28
+**ScopeContent**:: Rio de Janeiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99340
+
+===== Filhos =====
+  * [[99341.txt|99341 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 9754 - SR - Fotografia do Bolhão ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Fotografia do Bolhão
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1910
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9754
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9754
+
+===== Filhos =====
+  * [[9755.txt|9755 - DC - Nº 1 Famalicão - Vida na aldeia]]

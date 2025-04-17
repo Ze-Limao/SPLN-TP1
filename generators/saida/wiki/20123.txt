@@ -1,0 +1,23 @@
+====== 20123 - SR - Copiador da correspondência expedida ======
+
+**Parent**:: 20060
+**RootParent**:: 20048
+**UnitTitle**:: Copiador da correspondência expedida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1920-02-16
+**UnitDateFinal**:: 1927-03-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20123
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20123
+
+===== Filhos =====
+  * [[20124.txt|20124 - UI - Copiador da correspondência expedida]]
+  * [[20125.txt|20125 - UI - Copiador da correspondência expedida]]
+  * [[20126.txt|20126 - UI - Copiador da correspondência expedida]]
+  * [[20127.txt|20127 - UI - Copiador da correspondência expedida]]
+  * [[20128.txt|20128 - UI - Copiador da correspondência expedida]]
+  * [[20129.txt|20129 - UI - Copiador da correspondência expedida]]
+  * [[20130.txt|20130 - UI - Copiador da correspondência expedida]]
+  * [[20131.txt|20131 - UI - Copiador da correspondência expedida]]
+  * [[20132.txt|20132 - UI - Copiador da correspondência expedida]]

@@ -1,0 +1,17 @@
+====== 58280 - DC - Cartão ======
+
+**Parent**:: 54576
+**RootParent**:: 31258
+**UnitTitle**:: Cartão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-11
+**UnitDateFinal**:: 1905-11
+**ScopeContent**:: Cartão em papel timbrado "Hotel Bristol, Paris". Trata das relações oficiais entre Portugal e Noruega e a tomada de posse dos novo rei da Noruega.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58280
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12804 - cx.
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=58280

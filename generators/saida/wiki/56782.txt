@@ -1,0 +1,17 @@
+====== 56782 - DC - Notas sobre resinagem, área de pinhal e produção mundial ======
+
+**Parent**:: 31341
+**RootParent**:: 31258
+**UnitTitle**:: Notas sobre resinagem, área de pinhal e produção mundial
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56782
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2423 - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56782

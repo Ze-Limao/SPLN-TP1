@@ -1,0 +1,23 @@
+====== 28619 - DC - Notas sobre a Póvoa de Varziim ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre a Póvoa de Varziim
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Consultar capítulo III “O mar livre” do estudo As Povoas Marítimas do Norte de Portugal in Estudos Históricos e Económicos, ed. 1923, pp. 321-326.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28619
+**LangMaterial**:: Português
+**PhysLoc**:: AS 113 (1) a 113 (6)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28619
+
+===== Filhos =====
+  * [[28620.txt|28620 - DC - Carta de foro do Reguengo de Varazim de Jusaão]]
+  * [[29900.txt|29900 - DC - Povoa de Varzim]]
+  * [[29901.txt|29901 - DC - Argivai]]
+  * [[29902.txt|29902 - DC - Inq. de 1220]]
+  * [[29903.txt|29903 - DC - 5ª alçada]]
+  * [[29904.txt|29904 - DC - Regufe]]

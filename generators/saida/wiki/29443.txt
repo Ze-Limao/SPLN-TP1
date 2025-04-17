@@ -1,0 +1,16 @@
+====== 29443 - DC - Carta ======
+
+**Parent**:: 28811
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 188 -06-16
+**UnitDateFinal**:: 188 -06-16
+**ScopeContent**:: Carta expedida a 16 de junho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29443
+**LangMaterial**:: Português
+**PhysLoc**:: AS 876 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29443

@@ -1,0 +1,16 @@
+====== 30226 - DC - Carta ======
+
+**Parent**:: 21396
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-02-15
+**UnitDateFinal**:: 1908-02-15
+**ScopeContent**:: Carta manuscrita e assinada. Papel timbrado "A Palavra. Redacção".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30226
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1359 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30226

@@ -1,0 +1,15 @@
+====== 64160 - DC - Sentença cível sobre um cortelho e uma casa na freguesia de Landim, dada a favor de João Soares de Brito, abade da Igreja de S. Tiago de Antas, contra Ana Francisca e seu marido ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível sobre um cortelho e uma casa na freguesia de Landim, dada a favor de João Soares de Brito, abade da Igreja de S. Tiago de Antas, contra Ana Francisca e seu marido
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1660-04-03
+**UnitDateFinal**:: 1660-04-03
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 103 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64160

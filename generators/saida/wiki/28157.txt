@@ -1,0 +1,15 @@
+====== 28157 - DC - Set. 19, 1904 - Vindima do Clarete - Set. 20, 1904 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Set. 19, 1904 - Vindima do Clarete - Set. 20, 1904
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-09-19
+**UnitDateFinal**:: 1904-09-20
+**ScopeContent**:: Registo dos nomes dos vindimadores, número de dias de trabalho por vindimador e número de cestos de uvas vindimadas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28157
+**LangMaterial**:: Português
+**PhysLoc**:: AS 430
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28157

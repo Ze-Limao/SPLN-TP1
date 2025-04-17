@@ -1,0 +1,18 @@
+====== 8908 - DC - Termo do exame de Joaquim José Ribeiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim José Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-21
+**UnitDateFinal**:: 1894-07-21
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Luís José Ribeiro
+Naturalidade - Requião
+Classificação - Distinto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8908
+**LangMaterial**:: Português
+**PhysLoc**:: f. 62
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8908

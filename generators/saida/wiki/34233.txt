@@ -1,0 +1,19 @@
+====== 34233 - DC - Registo do recenseamento militar de Manuel Rebelo ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Rebelo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Cruz
+Data de nascimento - 1852-12-26
+Filiação - José Bento Rebelo e Maria Pereira
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Cruz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34233
+**LangMaterial**:: Português
+**PhysLoc**:: 75v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34233

@@ -1,0 +1,16 @@
+====== 30976 - DC - Registo do recenseamento eleitoral de Francisco Machado ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Joane
+Profissão - Carpinteiro
+Morada - Telhado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30976
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30976

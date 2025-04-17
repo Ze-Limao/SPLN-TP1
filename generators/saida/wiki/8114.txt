@@ -1,0 +1,18 @@
+====== 8114 - DC - Camilo Dias Pereira ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Camilo Dias Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-10-17
+**UnitDateFinal**:: 1889-10-17
+**ScopeContent**:: Escola - Vila Nova de Famalicão. Masculina
+Cargo - Professor ajudante
+Vínculo - Temporário
+Naturalidade - Avidos
+Data de posse - 1889-10-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8114
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8114

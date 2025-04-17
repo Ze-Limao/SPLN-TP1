@@ -1,0 +1,20 @@
+====== 61654 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Joaquim Alves de Oliveira e Maria Dias da Costa, na freguesia
+Naturalidade - Riba de Ave
+Morada - 
+Data de nascimento - 1861-02-06
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61654

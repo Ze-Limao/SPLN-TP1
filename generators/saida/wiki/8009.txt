@@ -1,0 +1,15 @@
+====== 8009 - DC - Termo de Jerónimo Dias dos Santos ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Jerónimo Dias dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-06-28
+**UnitDateFinal**:: 1871-06-28
+**ScopeContent**:: Declaração de residência
+Local - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8009
+**LangMaterial**:: Português
+**PhysLoc**:: f. 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8009

@@ -1,0 +1,29 @@
+====== 21357 - UI - Luís José Machado de Mendonça Eça Osório Castelo-Branco Vasconcelos e Sousa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Luís José Machado de Mendonça Eça Osório Castelo-Branco Vasconcelos e Sousa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1925-11-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21357
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1275 a 1288
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21357
+
+===== Filhos =====
+  * [[30137.txt|30137 - DC - Carta]]
+  * [[30138.txt|30138 - DC - Carta]]
+  * [[30139.txt|30139 - DC - Carta]]
+  * [[30140.txt|30140 - DC - Carta]]
+  * [[30141.txt|30141 - DC - Carta]]
+  * [[30142.txt|30142 - DC - Carta]]
+  * [[30143.txt|30143 - DC - Carta]]
+  * [[30144.txt|30144 - DC - Carta]]
+  * [[30145.txt|30145 - DC - Carta]]
+  * [[30146.txt|30146 - DC - Carta]]
+  * [[30147.txt|30147 - DC - Carta]]
+  * [[30148.txt|30148 - DC - Carta]]
+  * [[30149.txt|30149 - DC - Carta]]
+  * [[30150.txt|30150 - DC - Carta]]

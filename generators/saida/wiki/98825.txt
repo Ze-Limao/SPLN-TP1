@@ -1,0 +1,17 @@
+====== 98825 - DC - Certidão de uma carta citatória e de uma provisão de Sua Magestade pedida por Veríssimo Pinheiro Lobo contra Manuel de Vasconcelos ======
+
+**Parent**:: 54468
+**RootParent**:: 31258
+**UnitTitle**:: Certidão de uma carta citatória e de uma provisão de Sua Magestade pedida por Veríssimo Pinheiro Lobo contra Manuel de Vasconcelos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1702-01
+**UnitDateFinal**:: 1702-01
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº6 Cazal nº37 E". Este documento estava na “Caixa 6”, que contém CP 12997 a CP 13016.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54262
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13012 - cx. 83
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98825

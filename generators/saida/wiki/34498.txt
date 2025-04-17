@@ -1,0 +1,19 @@
+====== 34498 - DC - Registo do recenseamento militar de Augusto ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Augusto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Ribeirão
+Data de nascimento - 1862-10-09
+Filiação - Higino Ferreira da Silva e Antónia Maria Gomes
+Profissão - Alfaiate
+Estado - Solteiro
+Morada - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34498
+**LangMaterial**:: Português
+**PhysLoc**:: 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34498

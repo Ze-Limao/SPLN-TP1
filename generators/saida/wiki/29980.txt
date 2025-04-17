@@ -1,0 +1,16 @@
+====== 29980 - DC - Carta ======
+
+**Parent**:: 21427
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Carta manuscrita assinada, expedida a 10 de março sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29980
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1408 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29980

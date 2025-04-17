@@ -1,0 +1,18 @@
+====== 47611 - DC - Registo do recenseamento eleitoral de José Gomes da Silva Anta ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Gomes da Silva Anta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Cavalões
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Seara
+Idade - 43
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47611
+**LangMaterial**:: Português
+**PhysLoc**:: 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47611

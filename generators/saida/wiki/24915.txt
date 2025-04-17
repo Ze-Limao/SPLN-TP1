@@ -1,0 +1,15 @@
+====== 24915 - UI - Processo de contas Caixa 1958 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Processo de contas Caixa 1958
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1958-01-01
+**UnitDateFinal**:: 1958-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24915
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 38 - cx. 11
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24915

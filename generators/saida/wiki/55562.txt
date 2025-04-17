@@ -1,0 +1,17 @@
+====== 55562 - DC - Carta de José de Azevedo e Meneses ======
+
+**Parent**:: 55553
+**RootParent**:: 31258
+**UnitTitle**:: Carta de José de Azevedo e Meneses
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-08-31
+**UnitDateFinal**:: 1894-08-31
+**ScopeContent**:: Este documento está no envelope CP 8938 com os documentos de preparação de visita do Rei D. Carlos a Pindela, em 1894, que não chegou a ser efetuada. Junto com CP 8939 a CP 8962.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55562
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8947 - cx. 55
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55562

@@ -1,0 +1,27 @@
+====== 32771 - UI - José Luís de Sousa Botelho ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: José Luís de Sousa Botelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-08-15
+**UnitDateFinal**:: 1921-04-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32771
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32771
+
+===== Filhos =====
+  * [[32772.txt|32772 - DC - Carta]]
+  * [[32773.txt|32773 - DC - Carta]]
+  * [[32774.txt|32774 - DC - Telegrama]]
+  * [[32775.txt|32775 - DC - Telegrama]]
+  * [[32776.txt|32776 - DC - Telegrama]]
+  * [[32777.txt|32777 - DC - Telegrama]]
+  * [[32778.txt|32778 - DC - Carta]]
+  * [[32779.txt|32779 - DC - Telegrama]]
+  * [[32955.txt|32955 - DC - Telegrama]]
+  * [[53109.txt|53109 - DC - Carta]]

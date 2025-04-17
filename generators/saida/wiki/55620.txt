@@ -1,0 +1,17 @@
+====== 55620 - DC - 1907. Tratado de Commercio ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: 1907. Tratado de Commercio
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Maço que contém 8 documentos: cópia de correspondência enviada e recebida. Este documento está no envelope CP 12756, junto com CP 12757 a 12763.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55620
+**LangMaterial**:: Francês, Português
+**PhysLoc**:: CP 12758 - cx. 77
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55620

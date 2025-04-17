@@ -1,0 +1,20 @@
+====== 20401 - DC - Registo do recenseamento militar de Custódio ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Custódio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Arnoso Santa Eulália
+Filiação - Joaquim da Costa e Maria Gomes
+Naturalidade - Arnoso Santa Eulália
+Data de nascimento - 1870-03-23
+Emprego - Armador
+Estado - Solteiro
+Residência - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20401
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20401

@@ -1,0 +1,14 @@
+====== 54422 - UI - Jerónimo da Cunha Pimentel ======
+
+**Parent**:: 31323
+**RootParent**:: 31258
+**UnitTitle**:: Jerónimo da Cunha Pimentel
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1884-06-07
+**UnitDateFinal**:: 1884-06-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54422
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54422
+
+===== Filhos =====
+  * [[54423.txt|54423 - DC - Carta]]

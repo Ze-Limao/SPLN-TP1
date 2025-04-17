@@ -1,0 +1,19 @@
+====== 29158 - UI - Cartas de Antero de Quental a Germano Vieira de Meireles ======
+
+**Parent**:: 29157
+**RootParent**:: 27963
+**UnitTitle**:: Cartas de Antero de Quental a Germano Vieira de Meireles
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1875-07-16
+**UnitDateFinal**:: 1877-10-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29158
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29158
+
+===== Filhos =====
+  * [[29159.txt|29159 - DC - Carta]]
+  * [[29160.txt|29160 - DC - Carta]]
+  * [[29161.txt|29161 - DC - Carta]]
+  * [[29162.txt|29162 - DC - Carta]]
+  * [[29163.txt|29163 - DC - Carta]]
+  * [[29164.txt|29164 - DC - Notas biográficas sobre Germano Vieira de Meireles]]

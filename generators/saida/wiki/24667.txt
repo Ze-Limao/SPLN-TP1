@@ -1,0 +1,16 @@
+====== 24667 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-04-21
+**UnitDateFinal**:: 1903-04-21
+**ScopeContent**:: António Ferraz deseja as melhoras assim como a dos netos da Portela. Responde a algumas questões sobre Corrêas e sobre Pedro Falcão. Agradece o convite para visitar Pindela. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24667
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 169 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24667

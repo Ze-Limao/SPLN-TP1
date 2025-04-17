@@ -1,0 +1,17 @@
+====== 50350 - DC - Carta ======
+
+**Parent**:: 50348
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-04-25
+**UnitDateFinal**:: 1891-04-25
+**ScopeContent**:: Carta manuscrita assinada. Ex-Libris impresso "Aqua Anima".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50350
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8279 - cx. 51
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50350

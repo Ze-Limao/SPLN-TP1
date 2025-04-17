@@ -1,0 +1,16 @@
+====== 23175 - DC - Carta ======
+
+**Parent**:: 21051
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-09-10
+**UnitDateFinal**:: 1906-09-10
+**ScopeContent**:: Álvaro Camelo agradece a “Palavra” e refere que leu com atenção o artigo “A Mãe do primeiro duque de Bragança”. Solicita informações sobre as armas dos Madureiras. Carta manuscrita assinada, Rua da Boavista 262, Porto. Assinada Álvaro Camello (Villar do Paraíso).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23175
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 64 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23175

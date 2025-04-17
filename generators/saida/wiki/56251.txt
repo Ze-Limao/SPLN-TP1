@@ -1,0 +1,17 @@
+====== 56251 - DC - Carta do abade de Tagilde de 1894 sobre a data da compra da Casa pelo instituidor do morgado de Pindela e cópia de uma genealogia dos Carvalhos ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Carta do abade de Tagilde de 1894 sobre a data da compra da Casa pelo instituidor do morgado de Pindela e cópia de uma genealogia dos Carvalhos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1894
+**UnitDateFinal**:: 1894
+**ScopeContent**:: Envelope que contém CP 13265 a CP 13268.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56251
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13264 a 13268 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56251

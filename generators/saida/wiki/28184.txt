@@ -1,0 +1,16 @@
+====== 28184 - DC - Disposição de vides no acrescento da vinha do alto ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Disposição de vides no acrescento da vinha do alto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-02-06
+**UnitDateFinal**:: 1906-03
+**ScopeContent**:: "Plantação feita em 6-8 de Fevereiro de 1900, com as vides procedentes do viveiro de Cerqueira Machado, em Lordelo”. Identificação das castas e locais de plantação das vides na vinha do alto. Nas primeiras cinco folhas são indicados os locais de plantação das vides italianas, francesas, alemãs, húngaras e persas, compradas no viveiro de Cerqueira Machado. As folhas 6 e 7 apresentam notas diversas sobre a qualidade das uvas − «uva tinta, ácida e de fraca densidade», «casta tinta, doce»−, produção da vinha − «só deu um pequeno cacho em 1904», «produção abundante em 1904»− e tempo de produção − «temporã sobretudo em sítio muito soalheiro», «não m.to temporã nem tardia». As notas remetem para as respectivas castas e locais de plantação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28184
+**LangMaterial**:: Português
+**PhysLoc**:: AS 456 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28184

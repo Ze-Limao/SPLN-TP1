@@ -1,0 +1,14 @@
+====== 46648 - UI - José Joaquim Rodrigues de Freitas ======
+
+**Parent**:: 31306
+**RootParent**:: 31258
+**UnitTitle**:: José Joaquim Rodrigues de Freitas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1884-05-20
+**UnitDateFinal**:: 1884-05-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46648
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46648
+
+===== Filhos =====
+  * [[46649.txt|46649 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 28902 - UI - Joaquim de Almeida Negrão ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Joaquim de Almeida Negrão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1870-01-02
+**UnitDateFinal**:: 1870-01-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28902
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28902
+
+===== Filhos =====
+  * [[28903.txt|28903 - DC - Carta]]
+  * [[60953.txt|60953 - DC - Carta]]

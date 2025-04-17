@@ -1,0 +1,15 @@
+====== 65709 - DC - Sentença contra Abade da vila Leonel Lopes e Pe. Correia a união que tiveram em suas mãos da ração, movida por Gaspar de Carvalho cura em S. Tiago de Antas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença contra Abade da vila Leonel Lopes e Pe. Correia a união que tiveram em suas mãos da ração, movida por Gaspar de Carvalho cura em S. Tiago de Antas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1612-07-14
+**UnitDateFinal**:: 1640-03-30
+**ScopeContent**:: Manuscrito, original, folhas cosidas. Junto com certidão que notifica o reverendo João Abílio abade da vila..por P.e Manuel G. cura da Igreja de S. Tiago de Antas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 298 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65709

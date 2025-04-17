@@ -1,0 +1,16 @@
+====== 28153 - DC - Vindima de 1902 (Densidade dos mostos) ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vindima de 1902 (Densidade dos mostos)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-09-13
+**UnitDateFinal**:: 1902-10-03
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Diversas informações sobre a vindima de 1902. Nas observações Alberto Sampaio anotou as condições climatéricas, dias de vindima, qualidade das uvas e produção em almudes. Voltou a incluir a nota que havia escrito nos apontamentos da vindima do ano anterior, sobre a correspondência dos graus do gleucómetro e os graus Baumé. Tabela com a indicação das castas, dias de observação da densidade, valores de densidades dos mostos registadas pelo gleucómetro Cadet de Vaux e ainda registo dos valores de temperatura à sombra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28153
+**LangMaterial**:: Português
+**PhysLoc**:: AS 426 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28153

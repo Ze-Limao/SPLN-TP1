@@ -1,0 +1,18 @@
+====== 8132 - DC - Joaquim Vieira de Araújo Braga ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Vieira de Araújo Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-10-15
+**UnitDateFinal**:: 1891-04-01
+**ScopeContent**:: Escola - Joane
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Joane
+Data de posse - 1883-10-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8132
+**LangMaterial**:: Português
+**PhysLoc**:: f. 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8132

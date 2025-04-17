@@ -1,0 +1,16 @@
+====== 30754 - DC - Registo do recenseamento eleitoral de João Pinheiro da Costa ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Pinheiro da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Cruz
+Profissão - Lavrador
+Morada - Ribela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30754
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30754

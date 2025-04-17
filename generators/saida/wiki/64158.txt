@@ -1,0 +1,15 @@
+====== 64158 - DC - Carta de tuitiva a favor de Francisco Mateus, raçoeiro da Igreja de S. Tiago de Antas, ameaçado de posse do seu benefício por Miguel Soares, estante em Roma, que tinha impetrado a dita capelania ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Carta de tuitiva a favor de Francisco Mateus, raçoeiro da Igreja de S. Tiago de Antas, ameaçado de posse do seu benefício por Miguel Soares, estante em Roma, que tinha impetrado a dita capelania
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1625-06-01
+**UnitDateFinal**:: 1625-06-01
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 93 - cx. 3
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64158

@@ -1,0 +1,15 @@
+====== 64084 - DC - Recibo de Joquim Cardoso de Abreu e Sá, de um escritura pública feita a António Joaquim de Andrade e mulher Rosa Ferreira de Andrade pertencente à Confraria do Menino de Deus ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de Joquim Cardoso de Abreu e Sá, de um escritura pública feita a António Joaquim de Andrade e mulher Rosa Ferreira de Andrade pertencente à Confraria do Menino de Deus
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-10-01
+**UnitDateFinal**:: 1883-10-01
+**ScopeContent**:: Manuscrito. Recibo em papel azul com imposto de selo 60 reis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 401 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64084

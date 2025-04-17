@@ -1,0 +1,16 @@
+====== 25059 - UI - Livro de Registo de incêndios nº1 ======
+
+**Parent**:: 20381
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Registo de incêndios nº1
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-06-22
+**UnitDateFinal**:: 1930-08-15
+**ScopeContent**:: Contém: Registo do primeiro incêndio. Na madrugada de 22 de junho de 1890 a Corporação de Bombeiros Voluntários de Vila Nova de Famalicão fez a sua estreia no primeiro combate a um incêndio numa loja na rua de Santo António, de que era proprietário o vice-presidente da Direção da Associação, Silvério Ferreira de Macedo. O incêndio foi dado como extinto às 8 horas da manhã. No campo das observações do registo de incêndio n.º 1, o comandante Francisco Maria de Oliveira e Silva escreveu: «Primeiro incêndio em que a corporação prestou serviço». Tem o registo de incêndio nº150 referente ao incêndio que destruiu a casa do escritor Camilo Castelo Branco, em S. Miguel de Seide, no dia 17 março 1915.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25059
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 158
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25059

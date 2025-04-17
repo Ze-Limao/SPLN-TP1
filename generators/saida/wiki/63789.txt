@@ -1,0 +1,19 @@
+====== 63789 - DC - Registo do recenseamento militar de Jerónimo ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Jerónimo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - José de Sousa Lobo e Joaquina de Sousa
+Naturalidade - Brito
+Morada - Mogege
+Data de nascimento - 1866-10-30
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63789

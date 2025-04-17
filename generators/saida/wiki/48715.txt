@@ -1,0 +1,19 @@
+====== 48715 - UI - António José de Freitas Honorato ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António José de Freitas Honorato
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48715
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48715
+
+===== Filhos =====
+  * [[48716.txt|48716 - DC - Carta]]
+  * [[48717.txt|48717 - DC - Carta]]
+  * [[48718.txt|48718 - DC - Carta]]
+  * [[48719.txt|48719 - DC - Carta]]

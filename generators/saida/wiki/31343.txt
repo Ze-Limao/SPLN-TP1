@@ -1,0 +1,14 @@
+====== 31343 - SSSC - Funções na Federação dos Sindicatos Agrícolas do Norte de Portugal ======
+
+**Parent**:: 31331
+**RootParent**:: 31258
+**UnitTitle**:: Funções na Federação dos Sindicatos Agrícolas do Norte de Portugal
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1879
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31343
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31343
+
+===== Filhos =====
+  * [[31344.txt|31344 - SR - Documentos]]

@@ -1,0 +1,16 @@
+====== 28192 - DC - Na ramada da vinha do alto sobre o campo da Porta ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Na ramada da vinha do alto sobre o campo da Porta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1900
+**ScopeContent**:: No documento AS 463 são mencionadas duas castas − Gross Poulsard e a Moscatel de Jesus - as quais são referenciadas neste documento. Ambas terão secado a seguir à plantação feita em Outubro de 1900 e, como tal, tiveram de ser substituídas. A primeira, Frankenthal, foi enxertada em Março de 1906 em Gross Poulsard, já a segunda, dada como «Desconhecida» foi substituída em Março de 1906 por uma planta de Moscatel de Jesus (ver doc. AS 463). No documento são assinaladas ainda outras castas, plantadas noutros locais, nomeadamente na ramada da vinha do alto, para o lado do pinhal; ramada alta da cancela entre a vinha de baixo e a do meio e, por fim, na ramada da vinha de baixo, para o lado do pinhal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28192
+**LangMaterial**:: Português
+**PhysLoc**:: AS 464 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28192

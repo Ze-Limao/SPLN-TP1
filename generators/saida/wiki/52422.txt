@@ -1,0 +1,18 @@
+====== 52422 - DC - Registo do recenseamento militar de António Ferreira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-09-16
+Filiação - Narciso Ferreira e Maria
+Naturalidade - Joane
+Profissão - Alfaiate
+Residência - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52422
+**LangMaterial**:: Português
+**PhysLoc**:: 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52422

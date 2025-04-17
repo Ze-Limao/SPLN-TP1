@@ -1,0 +1,17 @@
+====== 53952 - DC - Cópia de desenhos de mobiliário para gabinete do Presidente ======
+
+**Parent**:: 53749
+**RootParent**:: 25851
+**UnitTitle**:: Cópia de desenhos de mobiliário para gabinete do Presidente
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1961
+**ScopeContent**:: Desenhos da secretária de trabalho, mesa de conferência, mesa para telefone, cadeiras, cesto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53952
+**LangMaterial**:: Português
+**PhysLoc**:: JG 190 - cx. 14
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53952

@@ -1,0 +1,16 @@
+====== 22662 - DC - Carta ======
+
+**Parent**:: 21466
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-03-01
+**UnitDateFinal**:: 1918-03-01
+**ScopeContent**:: José Malhoa em resposta ao pedido de JAM, manifesta o desejo de se associar à homenagem a Camilo Castelo Branco, prometendo um quadro que tem no ateliê na rua 5 de Outubro, em Lisboa, para ficar no museu ou escola em memória do escritor. Carta manuscrita assinada, de Avenida 5 de Outubro, 6.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22662
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1477- cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22662

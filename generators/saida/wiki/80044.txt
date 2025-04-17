@@ -1,0 +1,15 @@
+====== 80044 - UI - Processo nº 6 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 6
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-03-16
+**UnitDateFinal**:: 1971-09-30
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 6/71-B
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 55 - cx. 4
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80044

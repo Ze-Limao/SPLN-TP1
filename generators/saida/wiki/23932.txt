@@ -1,0 +1,16 @@
+====== 23932 - DC - Carta ======
+
+**Parent**:: 21055
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-10-11
+**UnitDateFinal**:: 1923-10-11
+**ScopeContent**:: Ana Menezes envia condolências pela morte da Maria Ana. Carta manuscrita assinada, Casa das Enfias. Papel de carta de luto. Na parte superior nota manuscrita ”Agradeci em 27-X-1923”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23932
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 86 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23932

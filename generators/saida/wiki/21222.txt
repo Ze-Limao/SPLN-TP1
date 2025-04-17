@@ -1,0 +1,17 @@
+====== 21222 - UI - Luigi Siciliani ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Luigi Siciliani
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-22
+**UnitDateFinal**:: 1913-04-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21222
+**LangMaterial**:: Português e Italiano
+**PhysLoc**:: JAM 883, 884
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21222
+
+===== Filhos =====
+  * [[26089.txt|26089 - DC - Carta]]
+  * [[26090.txt|26090 - DC - Carta]]

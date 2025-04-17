@@ -1,0 +1,16 @@
+====== 29741 - DC - Carta ======
+
+**Parent**:: 21290
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-12-03
+**UnitDateFinal**:: 1907-12-03
+**ScopeContent**:: Carta manuscrita assinada, de Vairão, Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29741
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1152 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29741

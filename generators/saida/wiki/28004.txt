@@ -1,0 +1,16 @@
+====== 28004 - DC - Manifesto dos Estudantes da Universidade de Coimbra - 1862-1863: À oppinião illustrada do paíz. ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Manifesto dos Estudantes da Universidade de Coimbra - 1862-1863: À oppinião illustrada do paíz.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1862
+**ScopeContent**:: Assinaturas de vários estudantes nas últimas páginas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28004
+**LangMaterial**:: Português
+**PhysLoc**:: AS 271 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28004

@@ -1,0 +1,18 @@
+====== 50647 - DC - Registo do recenseamento militar de Alberto ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Alberto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 1842-07-29
+Filiação - Francisco Xavier Nunes de Matos e Carolina Pinheiro de Lacerda
+Naturalidade - Bairro
+Profissão - 
+Residência - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50647
+**LangMaterial**:: Português
+**PhysLoc**:: 99v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50647

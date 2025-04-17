@@ -1,0 +1,20 @@
+====== 20759 - DC - Registo do recenseamento eleitoral de João ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-04-08
+**UnitDateFinal**:: 1890-04-08
+**ScopeContent**:: Freguesia - Louro
+Filiação - António José Gonçalves e Teresa Martins de Carvalho
+Naturalidade - Louro
+Data de nascimento - 1867-09-21
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20759
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 71v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20759

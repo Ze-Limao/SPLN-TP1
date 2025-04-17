@@ -1,0 +1,18 @@
+====== 46233 - DC - Registo do recenseamento eleitoral de José Correia de Mesquita ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Correia de Mesquita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Joane
+Profissão - Negociante
+Estado - Casado
+Morada - Assento
+Idade - 40
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46233
+**LangMaterial**:: Português
+**PhysLoc**:: 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46233

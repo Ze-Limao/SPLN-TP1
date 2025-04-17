@@ -1,0 +1,20 @@
+====== 62165 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - António José Domingues de Faria e Margarida de Oliveira, em Gemunde
+Naturalidade - Brufe
+Morada - 
+Data de nascimento - 1861-12-05
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62165

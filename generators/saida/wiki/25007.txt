@@ -1,0 +1,15 @@
+====== 25007 - UI - Registo de sócios ======
+
+**Parent**:: 20364
+**RootParent**:: 20342
+**UnitTitle**:: Registo de sócios
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-06-28
+**UnitDateFinal**:: 1933-01-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25007
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 110
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25007

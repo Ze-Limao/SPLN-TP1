@@ -1,0 +1,18 @@
+====== 45531 - UI - António Feijó ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: António Feijó
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-12-28
+**UnitDateFinal**:: 1900-12-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45531
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45531
+
+===== Filhos =====
+  * [[45516.txt|45516 - DC - Telegrama]]

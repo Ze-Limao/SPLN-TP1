@@ -1,0 +1,16 @@
+====== 29945 - DC - Carta ======
+
+**Parent**:: 21345
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912-04-07
+**UnitDateFinal**:: 1912-04-07
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29945
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1242 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29945

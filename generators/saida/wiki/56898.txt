@@ -1,0 +1,17 @@
+====== 56898 - DC - Organização do Serviço Central ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Organização do Serviço Central
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 193
+**UnitDateFinal**:: 193
+**ScopeContent**:: Documento composto por: vários modelos da CVRVV: folhas impressas "Guia de trânsito"; "Requisição de certificado de origem 193"; "Certificado de origem concelhio"; "Registo diário de aumento nos manifestos de venda"; Registo diário de baixas nos manifestos de vendas"; "Folha de entrada e saídas, saldos, armazenistas e exportadores"; "Registo de entrada de amostras no laboratório"; "Provas e análise química sumária"; "Boletim de análise de vinhos - laboratório"; Envelopes, etiquetas e guias, taxas; "Boletim de registo de negociantes de vinhos a retalho";"Auto de apreensão"; "Auto de levantamento de amostras"; Auto de transgressão"; Auto de Notícia".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56898
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2352 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56898

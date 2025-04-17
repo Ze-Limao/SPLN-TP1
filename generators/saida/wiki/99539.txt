@@ -1,0 +1,16 @@
+====== 99539 - UI - João Rés? ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: João Rés?
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-09-20
+**UnitDateFinal**:: 1916-01-07
+**ScopeContent**:: A. Rodrigues de Freitas, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99539
+
+===== Filhos =====
+  * [[99540.txt|99540 - DC - Bilhete-postal]]
+  * [[99554.txt|99554 - DC - Bilhete-postal]]

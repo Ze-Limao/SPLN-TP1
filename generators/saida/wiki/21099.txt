@@ -1,0 +1,21 @@
+====== 21099 - UI - Carlos Fernando de Mesquita Henriques ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Carlos Fernando de Mesquita Henriques
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906
+**UnitDateFinal**:: 1913-06-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21099
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 342, 343, 344, 345, 346
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21099
+
+===== Filhos =====
+  * [[24906.txt|24906 - DC - Carta]]
+  * [[24907.txt|24907 - DC - Carta]]
+  * [[24908.txt|24908 - DC - Carta]]
+  * [[24909.txt|24909 - DC - Carta]]
+  * [[24910.txt|24910 - DC - Carta]]

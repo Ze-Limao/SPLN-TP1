@@ -1,0 +1,15 @@
+====== 20994 - DC - nº 14/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: nº 14/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-08-21
+**UnitDateFinal**:: 1962-08-21
+**ScopeContent**:: Contrato de compra e venda de um terreno para ampliação da escola primária de Giestais, em Joane
+Outorgantes - António de Araújo Cunha e Castro e Maria Manuela Fernandes de Matos Antunes e Castro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20994
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 63v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20994

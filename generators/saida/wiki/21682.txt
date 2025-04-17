@@ -1,0 +1,16 @@
+====== 21682 - DC - Registo do recenseamento eleitoral de Fernando da Silva Araújo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Fernando da Silva Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Aves
+Profissão - Tendeiro
+Morada - Romão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21682
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21682

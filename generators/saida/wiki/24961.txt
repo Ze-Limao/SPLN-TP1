@@ -1,0 +1,15 @@
+====== 24961 - UI - Correspondência de cobranças de transporte para o Hospital de S. João de Deus ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência de cobranças de transporte para o Hospital de S. João de Deus
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-06-11
+**UnitDateFinal**:: 1974-09-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24961
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 65 - cx. 24
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24961

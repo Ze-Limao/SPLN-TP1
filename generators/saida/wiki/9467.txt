@@ -1,0 +1,19 @@
+====== 9467 - DC - Registo do recenseamento militar de Luís ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - João Joaquim Pinheiro e Emília Rodrigues Lopes
+Naturalidade - Louro
+Data de nascimento - 1877-02-04
+Profissão - Serviçal
+Estado civil - Solteiro
+Residência - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9467
+**LangMaterial**:: Português
+**PhysLoc**:: f. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9467

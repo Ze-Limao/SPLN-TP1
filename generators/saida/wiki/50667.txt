@@ -1,0 +1,18 @@
+====== 50667 - DC - Registo do recenseamento militar de Gaspar ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Gaspar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 1842-08-31
+Filiação - 
+Naturalidade - Vila Nova de Famalicão
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50667
+**LangMaterial**:: Português
+**PhysLoc**:: 105v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50667

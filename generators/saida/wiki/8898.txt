@@ -1,0 +1,18 @@
+====== 8898 - DC - Termo do exame de Paulo Brandão Peixoto ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Paulo Brandão Peixoto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-19
+**UnitDateFinal**:: 1894-07-19
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - Manuel de Sá Peixoto
+Naturalidade - Vila Nova de Famalicão
+Classificação - Distinto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8898
+**LangMaterial**:: Português
+**PhysLoc**:: f. 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8898

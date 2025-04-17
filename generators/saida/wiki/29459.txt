@@ -1,0 +1,16 @@
+====== 29459 - SSSC - Associação Comercial de Guimarães ======
+
+**Parent**:: 28068
+**RootParent**:: 27963
+**UnitTitle**:: Associação Comercial de Guimarães
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1896
+**UnitDateFinal**:: 1896
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29459
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29459
+
+===== Filhos =====
+  * [[28079.txt|28079 - DC - Socios honorarios]]

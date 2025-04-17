@@ -1,0 +1,16 @@
+====== 60945 - DC - Livro para o Registo das Concialiações desta freguezia de Fradellos de Vermoim ======
+
+**Parent**:: 60675
+**RootParent**:: 60541
+**UnitTitle**:: Livro para o Registo das Concialiações desta freguezia de Fradellos de Vermoim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1835-01-10
+**UnitDateFinal**:: 1835-12-24
+**ScopeContent**:: Manuscrito. Livro sem capas. No início: "Serve este livro para o Registo das Concialiações desta freguezia de Fradellos de Vermoim de que sou Juiz de Paz. Fradellos 10 de Janeiro de 1835. Fran.co José Gonc."
+**Repository**:: Município de Vila Nova Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60676
+**LangMaterial**:: Português
+**PhysLoc**:: JPFV - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60945

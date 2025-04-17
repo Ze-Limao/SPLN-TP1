@@ -1,0 +1,15 @@
+====== 20063 - UI - Receitas e despesa da Administração ======
+
+**Parent**:: 20061
+**RootParent**:: 20048
+**UnitTitle**:: Receitas e despesa da Administração
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-01-02
+**UnitDateFinal**:: 1909-07-21
+**ScopeContent**:: Termo de abertura: “Tem de servir este livro para nelle ser lançado a receita e despesa desta administração…”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20063
+**LangMaterial**:: Português
+**PhysLoc**:: AC 100
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20063

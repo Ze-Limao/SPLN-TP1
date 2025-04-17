@@ -1,0 +1,19 @@
+====== 34265 - DC - Registo do recenseamento militar de Domingos de Araújo ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Gondifelos
+Data de nascimento - 1852-12-05
+Filiação - António de Araújo e Joana Maria
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Gondifelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34265
+**LangMaterial**:: Português
+**PhysLoc**:: 83v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34265

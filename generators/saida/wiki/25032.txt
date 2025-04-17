@@ -1,0 +1,20 @@
+====== 25032 - UI - Anteprojecto para novo Quartel de Bombeiros Voluntários de Famalicão do arquiteto Casais Rodrigues (reprovado) ======
+
+**Parent**:: 20371
+**RootParent**:: 20342
+**UnitTitle**:: Anteprojecto para novo Quartel de Bombeiros Voluntários de Famalicão do arquiteto Casais Rodrigues (reprovado)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1959-05-11
+**UnitDateFinal**:: 1959-09-04
+**ScopeContent**:: Contém: 19 plantas; alçados e memória descritiva.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25032
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 134 - cx. 33
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25032
+
+===== Filhos =====
+  * [[25849.txt|25849 - DC - Memória descritiva e justificativa do novo quartel, assinada pelo arquitecto Alfredo Casais Rodrigues (1.º Projecto)]]
+  * [[25850.txt|25850 - DC - Ante-projecto do novo quartel da Associação dos Bombeiros Voluntários de v. n. Famalicão: Memória descritiva e justificativa, assinada pelo arquitecto Alfredo Casais Rodrigues (2.º Projecto)]]

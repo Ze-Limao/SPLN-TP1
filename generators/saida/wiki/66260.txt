@@ -1,0 +1,15 @@
+====== 66260 - DC - Sentença com uma ação de força dos raçoeiros beneficiados João Gomes da Silva e Bento Mendes contra o abade de S. Tiago de Antas Manuel Botelho Pereira ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença com uma ação de força dos raçoeiros beneficiados João Gomes da Silva e Bento Mendes contra o abade de S. Tiago de Antas Manuel Botelho Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1679-08-02
+**UnitDateFinal**:: 1679-08-02
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 423 - cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66260

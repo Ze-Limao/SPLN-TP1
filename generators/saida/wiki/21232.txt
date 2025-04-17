@@ -1,0 +1,16 @@
+====== 21232 - UI - Manuel Marinho Falcão ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Manuel Marinho Falcão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-03-14
+**UnitDateFinal**:: 1906-03-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21232
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 951
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21232
+
+===== Filhos =====
+  * [[26156.txt|26156 - DC - Carta]]

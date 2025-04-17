@@ -1,0 +1,65 @@
+====== 20350 - SR - Contabilidade ======
+
+**Parent**:: 20349
+**RootParent**:: 20342
+**UnitTitle**:: Contabilidade
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1990
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20350
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20350
+
+===== Filhos =====
+  * [[20353.txt|20353 - UI - Processo de contas Caixa 1956]]
+  * [[24913.txt|24913 - UI - Processo de contas Caixa 1957]]
+  * [[24915.txt|24915 - UI - Processo de contas Caixa 1958]]
+  * [[24917.txt|24917 - UI - Processo de contas Caixa 1959]]
+  * [[24919.txt|24919 - UI - Processo de contas Caixa 1960]]
+  * [[24921.txt|24921 - UI - Processo de contas Caixa 1961]]
+  * [[24923.txt|24923 - UI - Processo de contas Caixa 1962]]
+  * [[24925.txt|24925 - UI - Processo de contas Caixa 1963]]
+  * [[24927.txt|24927 - UI - Processo de contas Caixa 1964]]
+  * [[24929.txt|24929 - UI - Processo de contas Caixa 1965 Maço nº1 a 11]]
+  * [[24931.txt|24931 - UI - Processo de contas Caixa 1965 Maço nº 12 a 17]]
+  * [[24933.txt|24933 - UI - Processo de contas Caixa 1966 Maço nº 1 a 11]]
+  * [[24935.txt|24935 - UI - Processo de contas Caixa 1966 Maço nº 12 a 17]]
+  * [[24937.txt|24937 - UI - Processo de contas Caixa 1967]]
+  * [[24939.txt|24939 - UI - Processo de contas Caixa 1968]]
+  * [[24941.txt|24941 - UI - Processo de contas Caixa 1969]]
+  * [[24943.txt|24943 - UI - Processo de contas Caixa 1970]]
+  * [[24945.txt|24945 - UI - Processo de contas Caixa 1971]]
+  * [[24947.txt|24947 - UI - Processo de contas Caixa 1972]]
+  * [[24949.txt|24949 - UI - Processo de contas Caixa 1974]]
+  * [[24951.txt|24951 - UI - Processo de contas Caixa 1975]]
+  * [[24953.txt|24953 - UI - Balancetes mensais dados ao cofre da Assistência aos tuberculosos pobres deste concelho]]
+  * [[24954.txt|24954 - UI - Conta Corrente: notas dos credores da casa]]
+  * [[24955.txt|24955 - UI - Conta da Receita e Despesa 1943 a 1965]]
+  * [[24956.txt|24956 - UI - Conta da Receita e Despesa]]
+  * [[24957.txt|24957 - UI - Livro Caixa nº 4 desde 1942 a 1953]]
+  * [[24958.txt|24958 - UI - Orçamentos (aprovados pelo Governo Civil)]]
+  * [[24959.txt|24959 - UI - Orçamentos (ordinário da receita e despesa para o ano económico)]]
+  * [[24960.txt|24960 - UI - Facturas da Garagem Soares Lda.]]
+  * [[24961.txt|24961 - UI - Correspondência de cobranças de transporte para o Hospital de S. João de Deus]]
+  * [[24962.txt|24962 - UI - Requisições de transporte do Hospital Distrital de Vila Nova de Famalicão e correspondência de cobranças]]
+  * [[24963.txt|24963 - UI - Árvore de Natal de 1907 - Grupo dos 29]]
+  * [[24964.txt|24964 - UI - Rifa do Relógio; “Sorteios”]]
+  * [[24965.txt|24965 - UI - Registo dos bilhetes do sorteio do automóvel usado - Buick; Contas do sorteio a realizar em 22/12/1951]]
+  * [[24966.txt|24966 - UI - Apontamentos de despesas, vistos para crédito da conta - depósitos à ordem dos Bombeiros, apontamentos de receitas de venda de bilhetes por paróquias]]
+  * [[24967.txt|24967 - UI - Despesa Livro nº 1- Conta corrente]]
+  * [[24968.txt|24968 - UI - Receita Livro nº 1]]
+  * [[24969.txt|24969 - UI - Mapas comparativos da receita e da despesa]]
+  * [[24970.txt|24970 - UI - Receita e Despesa da Assistência aos tuberculosos pobres deste concelho]]
+  * [[24971.txt|24971 - UI - Livro de caixa nº2 (caixa borrão)]]
+  * [[24972.txt|24972 - UI - Livro de caixa nº6 receitas e despesas]]
+  * [[24973.txt|24973 - UI - Livro Contas correntes com as despesas orçamentais]]
+  * [[24974.txt|24974 - UI - Deve e Haver]]
+  * [[24975.txt|24975 - UI - Mapas comparativos das contas 1943-1965]]
+  * [[24976.txt|24976 - UI - Livro Caixa nº3 de 1933 a 1941]]
+  * [[24977.txt|24977 - UI - Livro nº1 de Orçamentos desde o ano de 1941 a 1953]]
+  * [[24978.txt|24978 - UI - Livro de Caixa nº1 desde 1890 a 1926]]
+  * [[24979.txt|24979 - UI - Razão anos de 1927 a 1931]]
+  * [[24980.txt|24980 - UI - Orçamentos da Ass. Bombeiros de Famalicão a partir de 1954]]
+  * [[24981.txt|24981 - UI - Averbamento Obrigações]]

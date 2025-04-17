@@ -1,0 +1,19 @@
+====== 34282 - DC - Registo do recenseamento militar de João Luís Ferreira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João Luís Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Requião
+Data de nascimento - 1853-01-27
+Filiação - Luís Ferreira e Maria Rosa
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34282
+**LangMaterial**:: Português
+**PhysLoc**:: 87v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34282

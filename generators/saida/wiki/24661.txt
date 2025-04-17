@@ -1,0 +1,16 @@
+====== 24661 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-07-29
+**UnitDateFinal**:: 1902-07-29
+**ScopeContent**:: António Ferraz refere a impossibilidade de visitar o filho. Dá conta que só agora tomou conhecimento que o autor dos artigos no Jornal do Comércio sobre a questão com o Braamcamp Freire e os Farias. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24661
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 162 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24661

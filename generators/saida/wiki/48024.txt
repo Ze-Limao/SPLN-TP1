@@ -1,0 +1,18 @@
+====== 48024 - DC - Registo do recenseamento eleitoral de António de Azevedo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Jesufrei
+Profissão - Lavrador
+Estado - Casado
+Morada - Bairro
+Idade - 46
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48024
+**LangMaterial**:: Português
+**PhysLoc**:: 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48024

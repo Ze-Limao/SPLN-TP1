@@ -1,0 +1,19 @@
+====== 34715 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Vilarinho das Cambas
+Data de nascimento - 1862-02-28
+Filiação - Manuel da Fonseca e Ana da Costa Fontes
+Profissão - Criado de servir
+Estado - Solteiro
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34715
+**LangMaterial**:: Português
+**PhysLoc**:: 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34715

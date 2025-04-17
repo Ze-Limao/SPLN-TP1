@@ -1,0 +1,17 @@
+====== 97421 - UI - Rumpfenaz? ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Rumpfenaz?
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-02-02
+**UnitDateFinal**:: 1892-02-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55151
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97421
+
+===== Filhos =====
+  * [[97422.txt|97422 - DC - Carta]]
+  * [[97423.txt|97423 - DC - Carta]]
+  * [[97424.txt|97424 - DC - Carta]]

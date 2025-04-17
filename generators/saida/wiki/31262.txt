@@ -1,0 +1,15 @@
+====== 31262 - SC - Simão Pinheiro e Leonor Almeida e Helena Dias ======
+
+**Parent**:: 31258
+**RootParent**:: 31258
+**UnitTitle**:: Simão Pinheiro e Leonor Almeida e Helena Dias
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1538-03
+**UnitDateFinal**:: 1792-02-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31262
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31262
+
+===== Filhos =====
+  * [[31263.txt|31263 - SSC - Simão Pinheiro e Leonor Almeida]]
+  * [[31265.txt|31265 - SSC - Simão Pinheiro e Helena Dias]]

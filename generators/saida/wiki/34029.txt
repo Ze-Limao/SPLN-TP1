@@ -1,0 +1,19 @@
+====== 34029 - DC - Registo do recenseamento militar de José de Castro ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José de Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Delães e Oliveira S. Mateus
+Data de nascimento - 1853-01-12
+Filiação - Jerónimo Pereira de Castro e Ana Maria Pereira
+Profissão - Ferreiro
+Estado - Solteiro
+Morada - Delães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34029
+**LangMaterial**:: Português
+**PhysLoc**:: 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34029

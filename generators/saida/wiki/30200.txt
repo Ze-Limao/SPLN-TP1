@@ -1,0 +1,16 @@
+====== 30200 - DC - Carta ======
+
+**Parent**:: 21376
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-06-04
+**UnitDateFinal**:: 1905-06-04
+**ScopeContent**:: Carta manuscrita e assinada, de Braga. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30200
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1332 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30200

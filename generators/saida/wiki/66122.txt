@@ -1,0 +1,15 @@
+====== 66122 - DC - Escritura de obrigação e de ração que fazem Manuel da Silva e sua mulher Maria José, do lugar do Monte da freguesia de S. Julião de Calendário, desta colegiada de Vermoim, da renda do campo do do património do reverendo José de Sá, de Santa Marinha de Lousado ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de obrigação e de ração que fazem Manuel da Silva e sua mulher Maria José, do lugar do Monte da freguesia de S. Julião de Calendário, desta colegiada de Vermoim, da renda do campo do do património do reverendo José de Sá, de Santa Marinha de Lousado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1782-06-18
+**UnitDateFinal**:: 1782-06-18
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 307 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66122

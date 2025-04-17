@@ -1,0 +1,16 @@
+====== 30244 - DC - Carta ======
+
+**Parent**:: 21414
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-04-11
+**UnitDateFinal**:: 1915-04-11
+**ScopeContent**:: O autor agradece o convite para assistir à reunião de homenagem a Camilo. Pensa que vai encontrar exemplares de cartas para publicação. Carta manuscrita assinada, de Famalicão. Carta dirigida a JAM, Visconde de Pindela e Nuno Simões.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30244
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1392 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30244

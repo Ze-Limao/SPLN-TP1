@@ -1,0 +1,19 @@
+====== 34399 - DC - Registo do recenseamento militar de Daniel Augusto do Pilar ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Daniel Augusto do Pilar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1852-12-17
+Filiação - Exposto
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34399
+**LangMaterial**:: Português
+**PhysLoc**:: 113v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34399

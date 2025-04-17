@@ -1,0 +1,15 @@
+====== 65762 - DC - Certidão do prazo do casal do Freitas, situado na freguesia S. Tiago de Rebordões, concelho de S. Tirso, passada a favor de Rodrigo Joaquim de Meneses, abade de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Certidão do prazo do casal do Freitas, situado na freguesia S. Tiago de Rebordões, concelho de S. Tirso, passada a favor de Rodrigo Joaquim de Meneses, abade de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1850-10-26
+**UnitDateFinal**:: 1850-10-31
+**ScopeContent**:: Manuscrito, pública-forma. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 255 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65762

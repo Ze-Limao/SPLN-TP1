@@ -1,0 +1,15 @@
+====== 80487 - UI - Processo nº 253-A ======
+
+**Parent**:: 80074
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 253-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-10-25
+**UnitDateFinal**:: 1976-10-01
+**ScopeContent**:: Junto com Auto de Execução Sumária nº 253.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 178 - cx. 10
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80487

@@ -1,0 +1,16 @@
+====== 25332 - DC - Circular dos Bombeiros Voluntários de Famalicão dirigida aos amigos ======
+
+**Parent**:: 25019
+**RootParent**:: 20342
+**UnitTitle**:: Circular dos Bombeiros Voluntários de Famalicão dirigida aos amigos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1967-04-01
+**UnitDateFinal**:: 1967-04-01
+**ScopeContent**:: Circular que informa sobre o envio de um cartão dum sorteio a realizar a 9 de junho pela lotaria do Santo António. Tem manuscrito que a iniciativa é de Luiz Gonçalves e tem valores recebidos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25332
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 122 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25332

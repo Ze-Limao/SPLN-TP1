@@ -1,0 +1,13 @@
+====== 25087 - UI - Recenseamento para o Recrutamento do Exército e Armada ======
+
+**Parent**:: 8968
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento para o Recrutamento do Exército e Armada
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-02-13
+**UnitDateFinal**:: 1902-05-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25087
+**LangMaterial**:: Português
+**PhysLoc**:: 5.5.39
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25087

@@ -1,0 +1,14 @@
+====== 80581 - UI - Processo nº 119 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 119
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-05-24
+**UnitDateFinal**:: 1977-04-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 225 - cx. 12
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80581

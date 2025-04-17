@@ -1,0 +1,20 @@
+====== 20573 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Fradelos
+Filiação - Joaquim Gonçalves e Maria Lopes dos Santos
+Naturalidade - Fradelos
+Data de nascimento - 1869-04-16
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20573
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20573

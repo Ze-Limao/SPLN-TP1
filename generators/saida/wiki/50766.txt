@@ -1,0 +1,18 @@
+====== 50766 - DC - Registo do recenseamento militar de Manuel Joaquim ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-10-22
+Filiação - José Gomes e Ana de Oliveira
+Naturalidade - Arnoso Santa Maria
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50766
+**LangMaterial**:: Português
+**PhysLoc**:: 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50766

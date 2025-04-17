@@ -1,0 +1,18 @@
+====== 50857 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-06-29
+Filiação - José Marques e Antónia Maria
+Naturalidade - Pousada de Saramagos
+Profissão - Pedreiro
+Residência - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50857
+**LangMaterial**:: Português
+**PhysLoc**:: 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50857

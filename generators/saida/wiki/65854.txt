@@ -1,0 +1,15 @@
+====== 65854 - DC - Treslado de emprazamento do casal da Quinta da Oliveira, situado na freguesia de S. Miguel de Chorente, feita por Álvaro Gomes, abade da Igreja de S. Tiago de Antas, a Fernão Gonçalves e a sua mulher Leonor Vasque ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Treslado de emprazamento do casal da Quinta da Oliveira, situado na freguesia de S. Miguel de Chorente, feita por Álvaro Gomes, abade da Igreja de S. Tiago de Antas, a Fernão Gonçalves e a sua mulher Leonor Vasque
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1700
+**UnitDateFinal**:: 1800
+**ScopeContent**:: Manuscrito, cópia. Transcrição do documento original datado de 1469-01-24, pergaminho, com a cota CSTA 5.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 617 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65854

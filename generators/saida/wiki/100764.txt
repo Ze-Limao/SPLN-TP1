@@ -1,0 +1,17 @@
+====== 100764 - DC - Sentença a favor de Vicente Machado de Melo Pinheiro da casa e quinta de Pindela extraída do inventário do seu tio José Maria de Melo ======
+
+**Parent**:: 31302
+**RootParent**:: 31258
+**UnitTitle**:: Sentença a favor de Vicente Machado de Melo Pinheiro da casa e quinta de Pindela extraída do inventário do seu tio José Maria de Melo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1840-07-23
+**UnitDateFinal**:: 1840-07-23
+**ScopeContent**:: Manuscrito em papel azul timbrado 20 reis, numa "Pasta nº1 Casal nº 1AC". Este documento estava na caixa “Pasta nº1 Anno 1841”, que contém CP 13170 a CP 13193. Certidão do inventário que se fez por falecimento do cónego José Maria de Melo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13190 - cx. 88
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100764

@@ -1,0 +1,16 @@
+====== 66601 - DC - Cópia de cartas da correspondência recebida do Fundo José de Azevedo e Menezes e folhas de descrição ======
+
+**Parent**:: 22757
+**RootParent**:: 20290
+**UnitTitle**:: Cópia de cartas da correspondência recebida do Fundo José de Azevedo e Menezes e folhas de descrição
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1998
+**UnitDateFinal**:: 1998
+**ScopeContent**:: Fotocópias a cores e a preto e branco das cartas e folhas de descrição produzidas e organizadas por um familiar de JAM, nos anos 90 do século XX.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30360
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1557 - cx. 18 e 19
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66601

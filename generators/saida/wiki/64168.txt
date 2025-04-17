@@ -1,0 +1,15 @@
+====== 64168 - DC - Sentença cível de assignação a dez dias contra os réus Domingos da Silva e sua mulher, moradores na freguesia de S. Tiago de Antas, num conflito com Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas, acerca da quantia de cinquenta e nove mil e quarenta reis, que o autor tinha emprestado aos réus ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de assignação a dez dias contra os réus Domingos da Silva e sua mulher, moradores na freguesia de S. Tiago de Antas, num conflito com Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas, acerca da quantia de cinquenta e nove mil e quarenta reis, que o autor tinha emprestado aos réus
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1814-02-06
+**UnitDateFinal**:: 1814-02-06
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 230 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64168

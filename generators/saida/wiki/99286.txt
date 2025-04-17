@@ -1,0 +1,15 @@
+====== 99286 - UI - Ofício ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Ofício
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-03-18
+**UnitDateFinal**:: 1917-03-18
+**ScopeContent**:: Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99286
+
+===== Filhos =====
+  * [[99287.txt|99287 - DC - Ofício]]

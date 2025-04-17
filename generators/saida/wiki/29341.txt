@@ -1,0 +1,16 @@
+====== 29341 - DC - Remédio para escaldaduras ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: Remédio para escaldaduras
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Escrita por Alberto Sampaio. Composição da receita: cera virgem, azeite de oliveira. «Deita-se o azeite numa vasilha limpa que leve meia canada. Põe-se em lume brando até ferver − depois retira-se do lume e deita-se-lhe a cera e mexe-se até fundir: volta ao lume até levantar fervura − retira-se logo, arrefecido um pouco, deita-se-lhe um quartilho de água, lava-se mexendo bem, escorre-se a água, e assim se faz com mais oito águas.».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29341
+**LangMaterial**:: Português
+**PhysLoc**:: AS 236 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29341

@@ -1,0 +1,15 @@
+====== 20223 - SSR - Correspondência recebida ======
+
+**Parent**:: 20216
+**RootParent**:: 7651
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1952-01-07
+**UnitDateFinal**:: 1952-09-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20223
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20223
+
+===== Filhos =====
+  * [[20330.txt|20330 - UI - Correspondência recebida]]
+  * [[20331.txt|20331 - UI - Correspondência recebida]]

@@ -1,0 +1,16 @@
+====== 53971 - DC - Benção do carro Packard pelo Monsenhor Torres Carneiro ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Benção do carro Packard pelo Monsenhor Torres Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-07-23
+**UnitDateFinal**:: 1934-07-23
+**ScopeContent**:: Fotografia tirada de uma andar superior, visualiza-se o corpo dos bombeiros em formatura, o Monsenhor e ajudante e várias pessoas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53971
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53971

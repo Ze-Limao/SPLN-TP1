@@ -1,0 +1,13 @@
+====== 9095 - DC - Edital ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Edital
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-02-08
+**UnitDateFinal**:: 1886-02-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9095
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9095

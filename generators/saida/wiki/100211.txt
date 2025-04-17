@@ -1,0 +1,16 @@
+====== 100211 - UI - Fotografias positivos em papel da reprodução de negativos de vidro ======
+
+**Parent**:: 100192
+**RootParent**:: 60695
+**UnitTitle**:: Fotografias positivos em papel da reprodução de negativos de vidro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1928
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99378
+**LangMaterial**:: Português
+**PhysLoc**:: CSC F431 a F535 - cx. 15
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100211

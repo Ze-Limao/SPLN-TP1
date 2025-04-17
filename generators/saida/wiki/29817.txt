@@ -1,0 +1,16 @@
+====== 29817 - DC - Carta ======
+
+**Parent**:: 21332
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-03-01
+**UnitDateFinal**:: 1905-03-01
+**ScopeContent**:: Carta manuscrita assinada, do Seixal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29817
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1226 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29817

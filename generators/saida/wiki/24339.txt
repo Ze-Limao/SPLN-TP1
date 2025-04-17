@@ -1,0 +1,16 @@
+====== 24339 - DC - Registo do recenseamento eleitoral de Francisco Gomes Alves ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Gomes Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Cruz
+Profissão - Lavrador
+Morada - Moldes
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24339
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24339

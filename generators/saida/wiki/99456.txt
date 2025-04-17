@@ -1,0 +1,15 @@
+====== 99456 - UI - Ezequiel A. Batoréu ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Ezequiel A. Batoréu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-04-28
+**UnitDateFinal**:: 1916-04-28
+**ScopeContent**:: Comissões e consignações, Guarda.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99456
+
+===== Filhos =====
+  * [[99457.txt|99457 - DC - Bilhete-postal]]

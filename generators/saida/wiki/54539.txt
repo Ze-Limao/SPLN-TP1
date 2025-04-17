@@ -1,0 +1,14 @@
+====== 54539 - UI - Bernardo Pinheiro Correia de Melo ======
+
+**Parent**:: 31334
+**RootParent**:: 31258
+**UnitTitle**:: Bernardo Pinheiro Correia de Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-05-17
+**UnitDateFinal**:: 1901-05-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54539
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54539
+
+===== Filhos =====
+  * [[54540.txt|54540 - DC - Telegrama]]

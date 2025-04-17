@@ -1,0 +1,11 @@
+====== 29617 - SSR - Cantar dos Reis da Escola de Lagarinhos ======
+
+**Parent**:: 29595
+**RootParent**:: 29618
+**UnitTitle**:: Cantar dos Reis da Escola de Lagarinhos
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 2016-01-05
+**UnitDateFinal**:: 2016-01-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29617
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29617

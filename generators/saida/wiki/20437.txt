@@ -1,0 +1,20 @@
+====== 20437 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Telhado
+Filiação - Joaquim Gomes e Maria de Ourique
+Naturalidade - Telhado
+Data de nascimento - 1869-04-28
+Emprego - Criado de servir
+Estado - Solteiro
+Residência - Sezures
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20437
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20437

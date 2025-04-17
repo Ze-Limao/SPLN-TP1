@@ -1,0 +1,18 @@
+====== 50977 - DC - Registo do recenseamento militar de Tomás ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Tomás
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-03-30
+Filiação - João António de Sampaio
+Naturalidade - Ana Martins
+Profissão - Lavrador
+Residência - Requião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50977
+**LangMaterial**:: Português
+**PhysLoc**:: 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50977

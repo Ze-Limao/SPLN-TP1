@@ -1,0 +1,16 @@
+====== 22315 - DC - Registo do recenseamento eleitoral de Manuel Luís de Azevedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Luís de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Vendeiro
+Morada - Mesa Chã
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22315
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22315

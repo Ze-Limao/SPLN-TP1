@@ -1,0 +1,16 @@
+====== 28129 - DC - 1891 Registo do vinho espumoso ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1891 Registo do vinho espumoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-10-04
+**UnitDateFinal**:: 1892-03-18
+**ScopeContent**:: Diversas informações sobre a produção de vinho espumoso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28129
+**LangMaterial**:: Português
+**PhysLoc**:: AS 402 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28129

@@ -1,0 +1,16 @@
+====== 30128 - DC - Carta ======
+
+**Parent**:: 21353
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-04-25
+**UnitDateFinal**:: 1903-04-25
+**ScopeContent**:: Carta manuscrita assinada, de Rua Nova do Loureiro, 19 2º (Lisboa).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30128
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1264 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30128

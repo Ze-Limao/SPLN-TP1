@@ -1,0 +1,31 @@
+====== 32795 - UI - Alberto Braga ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Alberto Braga
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880
+**UnitDateFinal**:: 1911-05-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32795
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32795
+
+===== Filhos =====
+  * [[32784.txt|32784 - DC - Carta]]
+  * [[32785.txt|32785 - DC - Carta]]
+  * [[32786.txt|32786 - DC - Carta]]
+  * [[32787.txt|32787 - DC - Carta]]
+  * [[32788.txt|32788 - DC - Carta]]
+  * [[32789.txt|32789 - DC - Carta]]
+  * [[32790.txt|32790 - DC - Carta]]
+  * [[32791.txt|32791 - DC - Carta]]
+  * [[32796.txt|32796 - DC - Carta]]
+  * [[32797.txt|32797 - DC - Carta para Vicente e Bernardo]]
+  * [[32798.txt|32798 - DC - Carta]]
+  * [[32799.txt|32799 - DC - Carta]]
+  * [[32800.txt|32800 - DC - Carta]]
+  * [[32801.txt|32801 - DC - Carta]]

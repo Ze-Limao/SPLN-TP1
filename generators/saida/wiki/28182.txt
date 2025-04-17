@@ -1,0 +1,16 @@
+====== 28182 - DC - Enxertos feitos em 1897 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Enxertos feitos em 1897
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1897
+**ScopeContent**:: Castas usadas para enxertar algumas vides da Quinta de Boamense.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28182
+**LangMaterial**:: Português
+**PhysLoc**:: AS 454 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28182

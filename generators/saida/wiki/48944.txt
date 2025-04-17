@@ -1,0 +1,18 @@
+====== 48944 - DC - Registo do recenseamento eleitoral de Joaquim da Costa Pinto ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim da Costa Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Nine
+Profissão - Lavrador
+Estado - Casado
+Morada - Vilar d'Este
+Idade - 60
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48944
+**LangMaterial**:: Português
+**PhysLoc**:: 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48944

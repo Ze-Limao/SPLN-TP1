@@ -1,0 +1,19 @@
+====== 34141 - DC - Registo do recenseamento militar de António Joaquim ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Ribeirão
+Data de nascimento - 1852-06-30
+Filiação - José Dias Moreira e Maria de Jesus
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34141
+**LangMaterial**:: Português
+**PhysLoc**:: 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34141

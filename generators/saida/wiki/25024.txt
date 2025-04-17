@@ -1,0 +1,15 @@
+====== 25024 - UI - Apontamentos sobre catalogação de livros e UNIMARC ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Apontamentos sobre catalogação de livros e UNIMARC
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 2004
+**UnitDateFinal**:: 2004
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25024
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 127 - cx. 32
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25024

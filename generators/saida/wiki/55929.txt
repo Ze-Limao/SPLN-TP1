@@ -1,0 +1,17 @@
+====== 55929 - DC - Carta de Condessa d´Edla ======
+
+**Parent**:: 55919
+**RootParent**:: 31258
+**UnitTitle**:: Carta de Condessa d´Edla
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905
+**UnitDateFinal**:: 1905
+**ScopeContent**:: Este documento está no maço CP 14527, juntamente com CP 14528 a CP 14537. Elise Friederike Hensler (La Chaux-de-Fonds, 22 de maio de 1836 — Lisboa, 21 de maio de 1929), titulada Condessa de Edla, foi uma atriz de teatro e cantora de ópera, célebre por ter sido a segunda esposa do rei D. Fernando II de Portugal, viúvo da rainha D. Maria II.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55929
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14537 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55929

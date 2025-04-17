@@ -1,0 +1,16 @@
+====== 30484 - DC - Registo do recenseamento eleitoral de Francisco Joaquim das Chagas ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Joaquim das Chagas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Avidos
+Profissão - Carpinteiro
+Morada - Penso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30484
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30484

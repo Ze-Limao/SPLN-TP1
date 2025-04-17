@@ -1,0 +1,16 @@
+====== 61389 - DC - A inauguração do monumento a António José de Almeida ======
+
+**Parent**:: 60929
+**RootParent**:: 60550
+**UnitTitle**:: A inauguração do monumento a António José de Almeida
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1932-02-04
+**UnitDateFinal**:: 1932-02-04
+**ScopeContent**:: Documento impresso de autoria de Bernardino Machado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 166 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61389

@@ -1,0 +1,16 @@
+====== 22689 - DC - Registo do recenseamento eleitoral de José Nunes de Sá Júnior ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Nunes de Sá Júnior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Louro
+Profissão - Lavrador
+Morada - Trescarreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22689
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22689

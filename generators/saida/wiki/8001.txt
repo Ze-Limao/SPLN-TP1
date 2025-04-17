@@ -1,0 +1,14 @@
+====== 8001 - DC - Termo de Manuel Rodrigues de Freitas ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel Rodrigues de Freitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-01-28
+**UnitDateFinal**:: 1868-01-28
+**ScopeContent**:: Arrematação de alguns impostos indiretos municipais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8001
+**LangMaterial**:: Português
+**PhysLoc**:: f. 27
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8001

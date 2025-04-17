@@ -1,0 +1,16 @@
+====== 24296 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-06-09
+**UnitDateFinal**:: 1921-06-09
+**ScopeContent**:: António Cabral refere que as anotações que enviou na anterior carta sobre o livro “Camilo homenageado” podem ser aproveitadas para uma 2ª edição. Felicita pela coragem do novo trabalho “O Testamento Histórico dos Pinheiros de Barcelos”. Refere que acabou de ler o artigo de JAM sobre Fernão Magalhães publicado no “Instituto:revista científica e literária” de Coimbra (janeiro 1921, vol.68, nº1). Diz que anseia pelo dia da inauguração do Museu Camilo. Carta manuscrita assinada, Lisboa, r. de S. Vicente à Guia - 45-2º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24296
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 132 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24296

@@ -1,0 +1,17 @@
+====== 31411 - UI - João Rodrigues de Sá e Abreu ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: João Rodrigues de Sá e Abreu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-07-04
+**UnitDateFinal**:: 1900-05-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31411
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31411
+
+===== Filhos =====
+  * [[31487.txt|31487 - DC - Carta]]
+  * [[31488.txt|31488 - DC - Carta]]
+  * [[31489.txt|31489 - DC - Carta]]
+  * [[31490.txt|31490 - DC - Carta para Viscondes]]

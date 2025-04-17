@@ -1,0 +1,18 @@
+====== 99280 - UI - Confeitaria e Mercearia Europa de Bernardo Ribeiro Gonçalves Basto ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Confeitaria e Mercearia Europa de Bernardo Ribeiro Gonçalves Basto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-05-16
+**UnitDateFinal**:: 1916-06-14
+**ScopeContent**:: Rua da Conceição, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99280
+
+===== Filhos =====
+  * [[99281.txt|99281 - DC - Memorandum]]
+  * [[99435.txt|99435 - DC - Bilhete-postal]]
+  * [[99436.txt|99436 - DC - Bilhete-postal]]
+  * [[99441.txt|99441 - DC - Bilhete-postal]]

@@ -1,0 +1,17 @@
+====== 53957 - DC - Medição de obras a mais a executar como Primeiro Adicional à empreitada geral da construção do novo edifício dos Paços do Concelho de Vila Nova de Famalicão, Secção de Finanças e demais repartições ======
+
+**Parent**:: 53954
+**RootParent**:: 25851
+**UnitTitle**:: Medição de obras a mais a executar como Primeiro Adicional à empreitada geral da construção do novo edifício dos Paços do Concelho de Vila Nova de Famalicão, Secção de Finanças e demais repartições
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-04-18
+**UnitDateFinal**:: 1959-04-18
+**ScopeContent**:: Original. Exemplar igual JG 158(1).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53957
+**LangMaterial**:: Português
+**PhysLoc**:: JG 152(3) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53957

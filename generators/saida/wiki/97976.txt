@@ -1,0 +1,15 @@
+====== 97976 - UI - Processo nº 369-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 369-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-05-21
+**UnitDateFinal**:: 1979-01-04
+**ScopeContent**:: Junto com Autos de Transgressão nº 362, 510, 582, 369, 465, 599 e Autos de Execução por Custas nº 362/A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 678 - cx. 37
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97976

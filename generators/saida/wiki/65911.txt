@@ -1,0 +1,15 @@
+====== 65911 - DC - Emprazamento do casal ?, situado na freguesia de S. Julião de Calendário, feito pelo João Soares de Brito, abade de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal ?, situado na freguesia de S. Julião de Calendário, feito pelo João Soares de Brito, abade de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1642-12-07
+**UnitDateFinal**:: 1642-12-07
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 647 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65911

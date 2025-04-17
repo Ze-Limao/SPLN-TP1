@@ -1,0 +1,16 @@
+====== 29775 - DC - Carta ======
+
+**Parent**:: 21302
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-12-16
+**UnitDateFinal**:: 1892-12-16
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29775
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1184 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29775

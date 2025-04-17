@@ -1,0 +1,14 @@
+====== 30050 - DC - Francisco Marques de Faria ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Francisco Marques de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-10-25
+**UnitDateFinal**:: 1961-10-25
+**ScopeContent**:: Regedor efetivo da freguesia da Portela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30050
+**LangMaterial**:: Português
+**PhysLoc**:: f. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30050

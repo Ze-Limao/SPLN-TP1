@@ -1,0 +1,15 @@
+====== 7988 - DC - Termo de Francisco José Pereira Borges ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Francisco José Pereira Borges
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-08-05
+**UnitDateFinal**:: 1863-08-05
+**ScopeContent**:: Ampliação de uma mina de água
+Local - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7988
+**LangMaterial**:: Português
+**PhysLoc**:: f. 16
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7988

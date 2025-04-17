@@ -1,0 +1,16 @@
+====== 26027 - DC - Carta ======
+
+**Parent**:: 21211
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-01-06
+**UnitDateFinal**:: 1920-01-06
+**ScopeContent**:: Carta manuscrita assinada, da Rua do Guedes, Coimbra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26027
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 821- cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26027

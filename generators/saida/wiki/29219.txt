@@ -1,0 +1,16 @@
+====== 29219 - DC - A Camponêsa Fábrica de Máquinas Agrícolas Vila Nova de Famalicão ======
+
+**Parent**:: 29178
+**RootParent**:: 27963
+**UnitTitle**:: A Camponêsa Fábrica de Máquinas Agrícolas Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Folheto publicitário sobre batoques de conservação e fermentação ilustrado com desenhos das máquinas. “A Camponesa - Fábrica de Máquinas Agrícolas” tinha a sua sede no Campo Mouzinho de Albuquerque, 52-54, em Vila Nova de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29219
+**LangMaterial**:: Português
+**PhysLoc**:: AS 335 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29219

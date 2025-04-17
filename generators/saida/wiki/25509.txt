@@ -1,0 +1,16 @@
+====== 25509 - DC - Carta ======
+
+**Parent**:: 21131
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-07-15
+**UnitDateFinal**:: 1908-07-15
+**ScopeContent**:: Carta manuscrita assinada, da R. Nova de St. Antóno a ?, 42 Lisboa. Assina como Secretário-Arqueólogo da Real Associação dos Arquitectos e Arqueólogos Portugueses.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25509
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 465 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25509

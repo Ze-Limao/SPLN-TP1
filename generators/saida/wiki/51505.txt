@@ -1,0 +1,18 @@
+====== 51505 - DC - Registo do recenseamento militar de Cândido ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Cândido
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1846-01-10
+Filiação - João Manuel da Silva Pinto e Josefa Maria
+Naturalidade - Gavião
+Profissão - Lavrador
+Residência - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51505
+**LangMaterial**:: Português
+**PhysLoc**:: 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51505

@@ -1,0 +1,17 @@
+====== 21034 - UI - Alberto Cardoso de Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alberto Cardoso de Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1909-08-13
+**UnitDateFinal**:: 1909-08-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21034
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 21
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21034
+
+===== Filhos =====
+  * [[23096.txt|23096 - DC - Carta]]

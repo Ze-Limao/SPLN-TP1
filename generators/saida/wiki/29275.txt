@@ -1,0 +1,17 @@
+====== 29275 - DC - Verniz de boneca que deixa a cor natural da madeira ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Verniz de boneca que deixa a cor natural da madeira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Composição: goma branca, espírito de vinho de 12 graus. Boneca é uma bucha de estopa envolvida em tecido fino de algodão, utilizada para aplicação do verniz.
+O chamado espírito de vinho resulta da fermentação alcoólica do açúcar contido no mosto das uvas. É um líquido incolor, límpido e volátil. É um excelente dissolvente de muitas matérias orgânicas insolúveis em água, como por exemplo resinas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29275
+**LangMaterial**:: Português
+**PhysLoc**:: AS 186 (1) a 186 (2) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29275

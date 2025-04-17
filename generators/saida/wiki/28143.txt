@@ -1,0 +1,15 @@
+====== 28143 - DC - Vindima de 1896 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vindima de 1896
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-09-07
+**UnitDateFinal**:: 1897-02-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28143
+**LangMaterial**:: Português
+**PhysLoc**:: AS 416 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28143

@@ -1,0 +1,18 @@
+====== 8843 - DC - Termo do exame de Álvaro da Rocha Mendonça Camões ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Álvaro da Rocha Mendonça Camões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-01
+**UnitDateFinal**:: 1893-08-01
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - José da Rocha Camões de Mendonça
+Naturalidade - Paranhos, Porto
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8843
+**LangMaterial**:: Português
+**PhysLoc**:: f. 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8843

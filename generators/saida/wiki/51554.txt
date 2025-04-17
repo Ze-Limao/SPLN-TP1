@@ -1,0 +1,18 @@
+====== 51554 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-08-09
+Filiação - João Ferreira da Cruz e Joaquina Maria de Sá
+Naturalidade - Vila Nova de Famalicão
+Profissão - Sapateiro
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51554
+**LangMaterial**:: Português
+**PhysLoc**:: 63v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51554

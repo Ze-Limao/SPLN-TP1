@@ -1,0 +1,17 @@
+====== 21132 - UI - António Cândido Gonçalves Crespo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Cândido Gonçalves Crespo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1875-10-12
+**UnitDateFinal**:: 1875-10-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21132
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 467
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21132
+
+===== Filhos =====
+  * [[25512.txt|25512 - DC - Carta]]

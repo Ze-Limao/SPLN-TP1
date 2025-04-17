@@ -1,0 +1,22 @@
+====== 56193 - DC - Título do empréstimo que fez o Vicente Almada a Bernardo Bernardo Pinheiro Correia de Melo e minuta de procuração ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Título do empréstimo que fez o Vicente Almada a Bernardo Bernardo Pinheiro Correia de Melo e minuta de procuração
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1911
+**UnitDateFinal**:: 1911
+**ScopeContent**:: Título do empréstimo de 4 contos. Este documento está junto com CP 13660 a CP 13662. Este documento está no maço “Papeis relativos à herança dos Sres. Visconde de Pindella", que contém CP 13656 a CP 13662.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56193
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13659 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56193
+
+===== Filhos =====
+  * [[56194.txt|56194 - DC - Carta de Bernardo Correia de Melo para José de Azevedo e Menezes]]
+  * [[56195.txt|56195 - DC - Carta sobre a procuração]]
+  * [[56196.txt|56196 - DC - Procuração]]

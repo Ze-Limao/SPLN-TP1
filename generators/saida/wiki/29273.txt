@@ -1,0 +1,16 @@
+====== 29273 - DC - Graisser les armes; Cirage imperméable pour la chassse au marais ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Graisser les armes; Cirage imperméable pour la chassse au marais
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: As preparações que constam dos documentos AS 181 (Enceradura impermeável para calçado) e AS 183 (Untura para espingardas) foram transcritas do livro Manuel de l’Armurier du fourbisseur et de l'arquebusier de A. Paulin-Désormeaux. A primeira encontra-se nas páginas 197-198 e não na página 173 como está indicado no documento. Quanto à segunda sobre a preparação da cera para impermeabilizar o calçado, não se consegui localizar. Referência bibliográfica: A. Paulin-Désormeaux - Manuel de l’Armurier du fourbisseur et de l'arquebusier: ou Traité Complet et Simplifié de ces arts.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29273
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 184 - cx. 5 
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29273

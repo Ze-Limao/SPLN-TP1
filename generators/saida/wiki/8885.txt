@@ -1,0 +1,18 @@
+====== 8885 - DC - Termo do exame de Arnaldo Dinis da Silva ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Arnaldo Dinis da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-17
+**UnitDateFinal**:: 1894-07-17
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Domingos Dinis da Silva
+Naturalidade - Antas
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8885
+**LangMaterial**:: Português
+**PhysLoc**:: f. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8885

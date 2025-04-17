@@ -1,0 +1,15 @@
+====== 65802 - DC - Título dos Rações do Arcebispado de Braga ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Título dos Rações do Arcebispado de Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1600
+**UnitDateFinal**:: 1700
+**ScopeContent**:: Manuscrito, original. Documento sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 638 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65802

@@ -1,0 +1,19 @@
+====== 34711 - DC - Registo do recenseamento militar de Luís ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Vale S. Martinho
+Data de nascimento - 1862-05-27
+Filiação - António Ferreira Capelo e Josefa Ferreira
+Profissão - Jornaleiro
+Estado - Solteiro
+Morada - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34711
+**LangMaterial**:: Português
+**PhysLoc**:: 49v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34711

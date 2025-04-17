@@ -1,0 +1,18 @@
+====== 49063 - DC - Registo do recenseamento eleitoral de Joaquim José de Carvalho ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim José de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Pousada de Saramagos
+Profissão - Lavrador
+Estado - Casado
+Morada - Pipe
+Idade - 55
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49063
+**LangMaterial**:: Português
+**PhysLoc**:: 63v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49063

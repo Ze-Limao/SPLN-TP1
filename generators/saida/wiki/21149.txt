@@ -1,0 +1,17 @@
+====== 21149 - UI - João Cardoso de Albuquerque ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Cardoso de Albuquerque
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-15
+**UnitDateFinal**:: 1913-02-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21149
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 527
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21149
+
+===== Filhos =====
+  * [[25574.txt|25574 - DC - Carta]]

@@ -1,0 +1,19 @@
+====== 63488 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Joaquim de Oliveira e Maria Ribeiro da Silva Salgado
+Naturalidade - Joane
+Morada - Joane
+Data de nascimento - 1866-02-19
+Emprego - Criado de servir
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63488

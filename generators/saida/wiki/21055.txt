@@ -1,0 +1,20 @@
+====== 21055 - UI - Ana Borges Pacheco Bourbon e Menezes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Ana Borges Pacheco Bourbon e Menezes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1923-09-13
+**UnitDateFinal**:: 1923-11-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21055
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 83, 84, 85, 86
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21055
+
+===== Filhos =====
+  * [[23929.txt|23929 - DC - Carta]]
+  * [[23930.txt|23930 - DC - Carta]]
+  * [[23931.txt|23931 - DC - Carta]]
+  * [[23932.txt|23932 - DC - Carta]]

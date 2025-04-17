@@ -1,0 +1,16 @@
+====== 29404 - DC - Carta ======
+
+**Parent**:: 28762
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877
+**UnitDateFinal**:: 1877
+**ScopeContent**:: Carta manuscrita e assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29404
+**LangMaterial**:: Português
+**PhysLoc**:: AS 691 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29404

@@ -1,0 +1,17 @@
+====== 56362 - DC - Sentença cível de partilha para títulos e posse a favor... Maria Amália de Sousa Botelho ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Sentença cível de partilha para títulos e posse a favor... Maria Amália de Sousa Botelho
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1892-05-11
+**UnitDateFinal**:: 1892-05-11
+**ScopeContent**:: Manuscrito em papel azul selado. Refere-se à casa da Rua do Norte, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56362
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12545 - cx. 74
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56362

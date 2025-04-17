@@ -1,0 +1,19 @@
+====== 98421 - DC - Carta ======
+
+**Parent**:: 98896
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1703-09-20
+**UnitDateFinal**:: 1703-09-20
+**ScopeContent**:: Manuscrito. Transcrição da carta:
+"meu amigo não são criveis as embrulhadas  q tem feito manuel  de Vasconcelos e cõ hua peticão que fez a sua magestade desenvergonhada teve poder para que Sua Magestade pagasse assi pello secretº . de Estado o feito de Arnozo pª comunicar a minitros a tal petição, fui falar a Sua Magestade e e falar tambem e pareceo q quê fala verdade he muito valente he que elle ficou abismado do que eu lhe disse Eu 2ª feira lhe torno a falar porp já agora não goardo talha vossa mercê lhe não dê cuidado o negócio mas o velhaco este embaraço consegue o entento da delação, mas que remédio, o dinheiro de António de Crasto ja esta desembaraçado da fiança, e lhe pedi o deixasse ficar a Resão de juro para sua mão, de que me fez escrito a sinco por cento. essa carta me dará vossa mercê a minha cunhada lhe escrevo sobre a vinda dos filhos q ella sofre mal mas terá paciencia vossa mercê a anime se lhe falar nessa materia Adeus que guarde a vossa mercê Lx 20 8bro de 1703
+P.S. Como disse a Sua Mag. de que como vossa mercê estava auzente era forçoso falar-lhe a ser escritador, se acazo este negócio não rebente nesta semana, se tiver saude será forcozo vir athe aqui o que avizarei pello correio. Do Dz.or Hjmº Vaz Viera sobre o drº que me deve de 20 de 8bro de 1703."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54262
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12950 - cx. 80
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98421

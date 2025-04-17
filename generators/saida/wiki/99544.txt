@@ -1,0 +1,15 @@
+====== 99544 - UI - J. Bielman ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: J. Bielman
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-04-09
+**UnitDateFinal**:: 1915-04-09
+**ScopeContent**:: Consultório Técnico, R. Galeria de Paris, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99544
+
+===== Filhos =====
+  * [[99545.txt|99545 - DC - Bilhete-postal]]

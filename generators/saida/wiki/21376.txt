@@ -1,0 +1,16 @@
+====== 21376 - UI - Domingos Lopes Alves ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Domingos Lopes Alves
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1905-06-04
+**UnitDateFinal**:: 1905-06-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21376
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1332
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21376
+
+===== Filhos =====
+  * [[30200.txt|30200 - DC - Carta]]

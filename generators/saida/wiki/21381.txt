@@ -1,0 +1,16 @@
+====== 21381 - UI - Eduardo Abreu ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Eduardo Abreu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1924-09-22
+**UnitDateFinal**:: 1924-09-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21381
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1339
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21381
+
+===== Filhos =====
+  * [[30207.txt|30207 - DC - Carta]]

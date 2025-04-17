@@ -1,0 +1,47 @@
+====== 31579 - UI - Luís de Magalhães ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Luís de Magalhães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-10-05
+**UnitDateFinal**:: 1921-04-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31579
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31579
+
+===== Filhos =====
+  * [[63898.txt|63898 - DC - Carta]]
+  * [[63899.txt|63899 - DC - Carta]]
+  * [[63900.txt|63900 - DC - Carta]]
+  * [[63901.txt|63901 - DC - Carta]]
+  * [[63902.txt|63902 - DC - Carta]]
+  * [[63903.txt|63903 - DC - Carta]]
+  * [[63904.txt|63904 - DC - Carta]]
+  * [[63905.txt|63905 - DC - Carta]]
+  * [[63906.txt|63906 - DC - Carta]]
+  * [[63907.txt|63907 - DC - Carta]]
+  * [[63908.txt|63908 - DC - Carta]]
+  * [[63909.txt|63909 - DC - Carta]]
+  * [[63910.txt|63910 - DC - Carta]]
+  * [[63911.txt|63911 - DC - Carta]]
+  * [[63912.txt|63912 - DC - Carta]]
+  * [[63913.txt|63913 - DC - Carta]]
+  * [[63914.txt|63914 - DC - Carta]]
+  * [[63915.txt|63915 - DC - Carta]]
+  * [[63916.txt|63916 - DC - Carta]]
+  * [[63917.txt|63917 - DC - Carta]]
+  * [[63918.txt|63918 - DC - Carta]]
+  * [[63919.txt|63919 - DC - Carta]]
+  * [[63920.txt|63920 - DC - Carta]]
+  * [[63921.txt|63921 - DC - Carta]]
+  * [[63922.txt|63922 - DC - Carta]]
+  * [[63923.txt|63923 - DC - Carta]]
+  * [[63924.txt|63924 - DC - Cartão]]
+  * [[63925.txt|63925 - DC - Cartão]]
+  * [[63926.txt|63926 - DC - Carta]]
+  * [[63927.txt|63927 - DC - Carta]]
+  * [[63928.txt|63928 - DC - Carta]]
+  * [[63929.txt|63929 - DC - Carta]]
+  * [[63930.txt|63930 - DC - Carta]]

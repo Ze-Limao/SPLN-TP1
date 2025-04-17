@@ -1,0 +1,16 @@
+====== 26071 - DC - Carta ======
+
+**Parent**:: 21216
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-05-07
+**UnitDateFinal**:: 1917-05-07
+**ScopeContent**:: Carta manuscrita assinada, do Lumiar (Lisboa).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26071
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 865 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26071

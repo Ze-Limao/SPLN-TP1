@@ -1,0 +1,19 @@
+====== 62003 - DC - Registo do recenseamento militar de Custódio ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Custódio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Maria da Costa, falecida
+Naturalidade - Landim
+Morada - 
+Data de nascimento - 1861-10-12
+Emprego - 
+Estado -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62003

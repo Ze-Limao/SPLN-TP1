@@ -1,0 +1,15 @@
+====== 8056 - DC - Termo de António Correia Gomes ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António Correia Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-06-04
+**UnitDateFinal**:: 1878-06-04
+**ScopeContent**:: Vedação de terreno
+Local - Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8056
+**LangMaterial**:: Português
+**PhysLoc**:: f. 28
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8056

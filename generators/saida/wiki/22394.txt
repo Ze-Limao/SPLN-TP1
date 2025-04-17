@@ -1,0 +1,16 @@
+====== 22394 - DC - Registo do recenseamento eleitoral de António Gonçalves do Vau ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Gonçalves do Vau
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Joane
+Profissão - Lavrador
+Morada - Cima de Pele
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22394
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22394

@@ -1,0 +1,15 @@
+====== 21126 - DC - Termo de António Joaquim Ferreira e Jacinta Gomes ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António Joaquim Ferreira e Jacinta Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-11-02
+**UnitDateFinal**:: 1879-11-02
+**ScopeContent**:: Vedação de terreno
+Local - Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21126
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21126

@@ -1,0 +1,16 @@
+====== 25727 - DC - Carta ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-02-10
+**UnitDateFinal**:: 1905-02-10
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25727
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 678 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25727

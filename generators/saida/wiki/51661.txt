@@ -1,0 +1,18 @@
+====== 51661 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-03-28
+Filiação - Joaquim José de Araújo e Maria Miquelina de Jesus Vieira
+Naturalidade - Joane
+Profissão - Estudante
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51661
+**LangMaterial**:: Português
+**PhysLoc**:: 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51661

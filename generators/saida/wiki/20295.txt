@@ -1,0 +1,16 @@
+====== 20295 - DC - Carta ======
+
+**Parent**:: 20292
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-01-30
+**UnitDateFinal**:: 1920-01-30
+**ScopeContent**:: Adolfo da Fonseca Magalhães da Costa e Silva agradece a oferta do livro. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20295
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20295

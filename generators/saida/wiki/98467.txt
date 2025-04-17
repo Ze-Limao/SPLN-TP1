@@ -1,0 +1,17 @@
+====== 98467 - DC - Sentença cível do libelo de Ana Maria Isabel de Melo, como tutora do seu filho João Machado, do Casal do Fundo que possui António Costa, da Gandra ======
+
+**Parent**:: 54471
+**RootParent**:: 31258
+**UnitTitle**:: Sentença cível do libelo de Ana Maria Isabel de Melo, como tutora do seu filho João Machado, do Casal do Fundo que possui António Costa, da Gandra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1776-11-06
+**UnitDateFinal**:: 1776-11-06
+**ScopeContent**:: Manuscrito com folhas cosidas. "Pasta nº4 Cazal 22 A". Este documento estava na “Caixa 4”, que contém CP 12559 a CP 12976.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12971 - cx. 81
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98467

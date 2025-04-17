@@ -1,0 +1,16 @@
+====== 31138 - DC - Registo do recenseamento eleitoral de Manuel da Costa Campos ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel da Costa Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Lousado
+Profissão - Lavrador
+Morada - Ponte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31138
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31138

@@ -1,0 +1,13 @@
+====== 99010 - UI - António Francisco Valbom ======
+
+**Parent**:: 98419
+**RootParent**:: 31258
+**UnitTitle**:: António Francisco Valbom
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98896
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99010
+
+===== Filhos =====
+  * [[98918.txt|98918 - DC - Carta]]
+  * [[99011.txt|99011 - DC - Carta]]

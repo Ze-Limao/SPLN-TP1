@@ -1,0 +1,16 @@
+====== 28910 - DC - Carta ======
+
+**Parent**:: 28908
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-06-17
+**UnitDateFinal**:: 1907-06-17
+**ScopeContent**:: Carta expedida de Lisboa, Rua Palmeira nº 58, 1º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28910
+**LangMaterial**:: Português
+**PhysLoc**:: AS 631 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28910

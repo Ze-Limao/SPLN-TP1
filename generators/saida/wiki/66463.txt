@@ -1,0 +1,15 @@
+====== 66463 - DC - Procuração de Felisberta Felismina de Meneses, moradora na cidade de Guimarães e anteriormente na freguesia de S. Tiago de Antas, constituiu o Padre Manuel Henrique da Silva Machado para tomar por afilhado um filho de Luís Alves e Margarida Costa, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Procuração de Felisberta Felismina de Meneses, moradora na cidade de Guimarães e anteriormente na freguesia de S. Tiago de Antas, constituiu o Padre Manuel Henrique da Silva Machado para tomar por afilhado um filho de Luís Alves e Margarida Costa, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-05-10
+**UnitDateFinal**:: 1866-05-10
+**ScopeContent**:: Manuscrito, original, em papel azul timbrado “20 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 498 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66463

@@ -1,0 +1,17 @@
+====== 21405 - UI - Frederico Guilherme Gavazzo Perry Vidal ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Frederico Guilherme Gavazzo Perry Vidal
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1925-01-26
+**UnitDateFinal**:: 1925-02-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21405
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1373, 1374
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21405
+
+===== Filhos =====
+  * [[30237.txt|30237 - DC - Carta]]
+  * [[30239.txt|30239 - DC - Carta]]

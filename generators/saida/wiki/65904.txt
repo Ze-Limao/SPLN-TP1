@@ -1,0 +1,15 @@
+====== 65904 - DC - Apegação, medição e confrontação do casal da Ribeira, situado na freguesia de Creixomil, pelos padres Manuel Pereira e Damião de Figueiredo e homens bons Domingues e João Martins ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal da Ribeira, situado na freguesia de Creixomil, pelos padres Manuel Pereira e Damião de Figueiredo e homens bons Domingues e João Martins
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1670-08-13
+**UnitDateFinal**:: 1670-08-13
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 640 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65904

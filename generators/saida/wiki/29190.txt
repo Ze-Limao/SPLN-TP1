@@ -1,0 +1,16 @@
+====== 29190 - DC - Beurré d’Arenberg ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Beurré d’Arenberg
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-12-23
+**UnitDateFinal**:: 1907-12-23
+**ScopeContent**:: Identificação da variedade de pereira plantada num determinado local da Quinta de Boamense.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29190
+**LangMaterial**:: Português
+**PhysLoc**:: AS 305 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29190

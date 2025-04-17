@@ -1,0 +1,16 @@
+====== 61381 - DC - Corôas & saias: Episodios de politica sertaneja ======
+
+**Parent**:: 60931
+**RootParent**:: 60550
+**UnitTitle**:: Corôas & saias: Episodios de politica sertaneja
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1930
+**UnitDateFinal**:: 1930
+**ScopeContent**:: Manuscrito, sem datação, posterior a 1930.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 163 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61381

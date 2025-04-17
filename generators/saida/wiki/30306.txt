@@ -1,0 +1,16 @@
+====== 30306 - DC - Carta ======
+
+**Parent**:: 21460
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-04-09
+**UnitDateFinal**:: 1915-04-09
+**ScopeContent**:: Padre José Dias Veloso avisa que não poderá assistir à reunião no Salão Olympia, mas saúda a Comissão em honra do escritor Camilo. Carta manuscrita e assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30306
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1465 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30306

@@ -1,0 +1,17 @@
+====== 57864 - DC - Ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos e cópia de ofício para Gabriel Santos ======
+
+**Parent**:: 57840
+**RootParent**:: 31258
+**UnitTitle**:: Ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos e cópia de ofício para Gabriel Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1937-04-30
+**UnitDateFinal**:: 1937-07-24
+**ScopeContent**:: Ofício manuscrito para Engº Chefe da 1ª Circunscrição Florestal do Porto do Gabriel Santos, 1937-07-21. Cópia de ofício manuscrito para Gabriel Santos 1937-07-24. Ofícios manuscrito para Engº Chefe da 1ª Circunscrição Florestal do Porto do Gabriel Santos, 1937-05-04, do Porto, e outro ofício 1937-04-30.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57864
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2396 - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57864

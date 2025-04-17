@@ -1,0 +1,19 @@
+====== 21186 - UI - Joaquim Costa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-09-14
+**UnitDateFinal**:: 1921-05-02
+**ScopeContent**:: Joaquim Pereira da Costa foi poeta e jornalista. Formado em Direito pela Universidade de Coimbra. Foi redator principal do Primeiro de Janeiro e colaborou noutros jornais No final de 1910 iniciou funções como 2º oficial conservador da Biblioteca Pública Municipal do Porto, sendo em 1934 seu diretor até 1947.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21186
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 743, 744
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21186
+
+===== Filhos =====
+  * [[25837.txt|25837 - DC - Carta]]
+  * [[25838.txt|25838 - DC - Carta]]

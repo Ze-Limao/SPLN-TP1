@@ -1,0 +1,15 @@
+====== 97990 - UI - Processo nº 762 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 762
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-12-13
+**UnitDateFinal**:: 1979-11-20
+**ScopeContent**:: Junto com Autos de Execução por Custas nº 7 e 762/A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 679 - cx. 38
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97990

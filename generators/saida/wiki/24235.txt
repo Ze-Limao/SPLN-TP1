@@ -1,0 +1,16 @@
+====== 24235 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-11-30
+**UnitDateFinal**:: 1914-11-30
+**ScopeContent**:: António Cabral anuncia que devolveu as cartas e o livro do poeta Siciliani e quando publicar o livro sobre Eça indicará a solicitude de JAM. Noticia que Joaquim de Araújo está internado com problemas mentais e problemas financeiros, sem família. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24235
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 111 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24235

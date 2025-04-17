@@ -1,0 +1,14 @@
+====== 30079 - DC - Manuel Ferreira de Freitas ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Ferreira de Freitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1970-08-03
+**UnitDateFinal**:: 1970-08-03
+**ScopeContent**:: Regedor efetivo da freguesia de Mogege
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30079
+**LangMaterial**:: Português
+**PhysLoc**:: f. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30079

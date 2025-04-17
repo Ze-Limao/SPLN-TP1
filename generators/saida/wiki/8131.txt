@@ -1,0 +1,18 @@
+====== 8131 - DC - José António de Oliveira ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: José António de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-08-28
+**UnitDateFinal**:: 1883-10-13
+**ScopeContent**:: Escola - Joane
+Cargo - Professor
+Vínculo - Temporário
+Naturalidade - Barcelos
+Data de posse - 1882-08-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8131
+**LangMaterial**:: Português
+**PhysLoc**:: f. 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8131

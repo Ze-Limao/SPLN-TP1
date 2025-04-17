@@ -1,0 +1,16 @@
+====== 30316 - DC - Carta ======
+
+**Parent**:: 25360
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-08
+**UnitDateFinal**:: 1916-08
+**ScopeContent**:: O secretário do Governo Civil informa sobre a aprovação do projeto de estatutos da Comissão promotora da homenagem póstuma ao escritor Camilo Castelo Branco. Carta manuscrita. Carta incompleta, falta assinatura e data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30316
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1498 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30316

@@ -1,0 +1,15 @@
+====== 65806 - DC - Apegação, medição e confrontação do casal da Lamela, situado na freguesia de S. Tiago de Outiz, por Bernardo da Silva, abade da Igreja de S. Tiago de Antas, que empraza a António Gomes e sua mulher Helena Manuel ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal da Lamela, situado na freguesia de S. Tiago de Outiz, por Bernardo da Silva, abade da Igreja de S. Tiago de Antas, que empraza a António Gomes e sua mulher Helena Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1596-01-18
+**UnitDateFinal**:: 1596-01-18
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. Para Carta de Vedoria.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 74 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65806

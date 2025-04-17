@@ -1,0 +1,17 @@
+====== 78380 - DC - Marcelino Pereira Cleto, abade de Entre-Ambos-os-Rios pagou a D. Helena Maria da Graça e  a seus sobrinhos 20.000 reis de uma composição que Diogo de Barros Alvim tinha feito sobre a remissão de umas medidas que pagava à dita D. Helena e seus parentes ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Marcelino Pereira Cleto, abade de Entre-Ambos-os-Rios pagou a D. Helena Maria da Graça e  a seus sobrinhos 20.000 reis de uma composição que Diogo de Barros Alvim tinha feito sobre a remissão de umas medidas que pagava à dita D. Helena e seus parentes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1782-08-30
+**UnitDateFinal**:: 1782-08-30
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4996 - cx. 36
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78380

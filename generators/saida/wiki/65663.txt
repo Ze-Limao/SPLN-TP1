@@ -1,0 +1,17 @@
+====== 65663 - DC - Licença para se dizer missa no oratório de Refalcão, Santa Senhorinha de Basto, no ano de 1803 ======
+
+**Parent**:: 54364
+**RootParent**:: 31258
+**UnitTitle**:: Licença para se dizer missa no oratório de Refalcão, Santa Senhorinha de Basto, no ano de 1803
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1803-04-25
+**UnitDateFinal**:: 1804-08-03
+**ScopeContent**:: Folhas cosidas. Documento mencionado no CP 3802 na anotação do Abade de Tagilde com o título "Casa de Basto" que menciona 4 documentos. Este documento tem no título  Nº1.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14054 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65663

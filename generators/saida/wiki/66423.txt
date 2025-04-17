@@ -1,0 +1,15 @@
+====== 66423 - DC - Carta de João Soares ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Carta de João Soares
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1818-05-22
+**UnitDateFinal**:: 1818-05-22
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 475 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66423

@@ -1,0 +1,18 @@
+====== 8452 - DC - Termo do exame de Manuel Gomes da Costa ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Gomes da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-05-06
+**UnitDateFinal**:: 1885-05-06
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - António Gomes da Costa
+Naturalidade - Jesufrei
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8452
+**LangMaterial**:: Português
+**PhysLoc**:: f. 26
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8452

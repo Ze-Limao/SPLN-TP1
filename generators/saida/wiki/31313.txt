@@ -1,0 +1,20 @@
+====== 31313 - SSC - Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 31312
+**RootParent**:: 31258
+**UnitTitle**:: Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1839
+**UnitDateFinal**:: 1924-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31313
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31313
+
+===== Filhos =====
+  * [[31316.txt|31316 - SSSC - Estudante em Coimbra]]
+  * [[31318.txt|31318 - SSSC - Governador da Província de São Tomé e Príncipe]]
+  * [[31320.txt|31320 - SSSC - Deputado do Partido Progressista]]
+  * [[31321.txt|31321 - SSSC - Ministro plenipotenciário de Portugal na Legação de Haia (Países Baixos)]]
+  * [[31324.txt|31324 - SSSC - Ministro plenipotenciário de Portugal na Legação de Berlim, Dresden e Saxe-Coburgo-Gotha (Alemanha)]]
+  * [[31326.txt|31326 - SSSC - Administração da Casa de Pindela]]
+  * [[31328.txt|31328 - SSSC - Vida social e familiar]]

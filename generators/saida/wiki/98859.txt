@@ -1,0 +1,17 @@
+====== 98859 - DC - Escritura de compra de 10 medidas que faz Domingos da Costa, de Cabeçudos a Jerónimo Simões e sua mulher, de Tebosa ======
+
+**Parent**:: 54467
+**RootParent**:: 31258
+**UnitTitle**:: Escritura de compra de 10 medidas que faz Domingos da Costa, de Cabeçudos a Jerónimo Simões e sua mulher, de Tebosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1684-12-02
+**UnitDateFinal**:: 1684-12-02
+**ScopeContent**:: Manuscrito com folhas cosidas na "Pasta nº 5 Cazal 32 A". Este documento estava  na “Caixa 5”, que contém CP 13017 a CP 13107. Tem 2 f. com anotações sem datação (18--?) CP 13021(2).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54261
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13021 - cx. 84
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98859

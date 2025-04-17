@@ -1,0 +1,16 @@
+====== 61385 - DC - Acta da Assembleia Republicana eleitoral ======
+
+**Parent**:: 60931
+**RootParent**:: 60550
+**UnitTitle**:: Acta da Assembleia Republicana eleitoral
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-02-16
+**UnitDateFinal**:: 1919-02-16
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 157 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61385

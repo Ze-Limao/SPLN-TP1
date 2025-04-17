@@ -1,0 +1,16 @@
+====== 23146 - DC - Carta ======
+
+**Parent**:: 21039
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-06-20
+**UnitDateFinal**:: 1921-06-20
+**ScopeContent**:: Alberto Pimentel refere o agradecimento já feito em anterior carta à oferta do livro “Camilo homenageado”, e refere que na página XLI encontrou assunto para um conto e para isto precisa de informação do modo como Castilho e o filho Eugénio viajaram do Porto até Seide em julho de 1866, se de diligência e qual o trajeto e a duração da visita. Alberto Pimentel escreveu o conto "Horas alegres numa casa triste" dedicando-o a JAM e publicado no livro “O Torturado de Seide”. Carta manuscrita assinada, Trafaria.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23146
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 35 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23146

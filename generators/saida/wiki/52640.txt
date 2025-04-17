@@ -1,0 +1,18 @@
+====== 52640 - DC - Registo do recenseamento militar de Manuel de Oliveira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-04-10
+Filiação - José Joaquim de Oliveira e Maria Dias
+Naturalidade - Cabeçudos
+Profissão - Lavrador
+Residência - Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52640
+**LangMaterial**:: Português
+**PhysLoc**:: 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52640

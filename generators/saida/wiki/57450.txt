@@ -1,0 +1,17 @@
+====== 57450 - DC - Ofício e cópia de ofícios para 3º Visconde de Pindela do Engenheiro Diretor da Exploração da CCFNP e respostas ======
+
+**Parent**:: 57397
+**RootParent**:: 31258
+**UnitTitle**:: Ofício e cópia de ofícios para 3º Visconde de Pindela do Engenheiro Diretor da Exploração da CCFNP e respostas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928-02-02
+**UnitDateFinal**:: 1929-04-30
+**ScopeContent**:: Ofício manuscrito em papel timbrado (1 f.) do 3º Visconde 1920-04-30. Cópia de ofício datilografado do 3º Visconde para o Engenheiro Diretor da Exploração da Companhia e Caminhos de Ferro do Norte de Portugal (2 f.) 1929-04-26. Documento sobre o Projeto para criação de uma Comissão de Fomento Agrícola e Florestas (3 f.). Cópia de ofício datilografado do 3º Visconde para o Engenheiro Diretor da Exploração da Companhia e Caminhos de Ferro do Norte de Portugal 1928-02-02.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57450
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2860 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57450

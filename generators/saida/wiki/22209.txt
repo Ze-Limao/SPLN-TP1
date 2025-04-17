@@ -1,0 +1,16 @@
+====== 22209 - DC - Registo do recenseamento eleitoral de António José Pereira Coutinho ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Pereira Coutinho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Esmeriz
+Profissão - Lavrador
+Morada - Pereira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22209
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22209

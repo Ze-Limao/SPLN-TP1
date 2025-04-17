@@ -1,0 +1,54 @@
+====== 21178 - UI - João Manuel Esteves Pereira ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Manuel Esteves Pereira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1924-02-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21178
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 568 a 605
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21178
+
+===== Filhos =====
+  * [[22125.txt|22125 - DC - Carta]]
+  * [[25616.txt|25616 - DC - Carta]]
+  * [[25617.txt|25617 - DC - Carta]]
+  * [[25618.txt|25618 - DC - Carta]]
+  * [[25619.txt|25619 - DC - Carta]]
+  * [[25620.txt|25620 - DC - Carta]]
+  * [[25621.txt|25621 - DC - Carta]]
+  * [[25622.txt|25622 - DC - Carta]]
+  * [[25623.txt|25623 - DC - Carta]]
+  * [[25624.txt|25624 - DC - Carta]]
+  * [[25625.txt|25625 - DC - Carta]]
+  * [[25626.txt|25626 - DC - Carta]]
+  * [[25627.txt|25627 - DC - Carta]]
+  * [[25628.txt|25628 - DC - Carta]]
+  * [[25629.txt|25629 - DC - Carta]]
+  * [[25630.txt|25630 - DC - Carta]]
+  * [[25631.txt|25631 - DC - Carta]]
+  * [[25632.txt|25632 - DC - Carta]]
+  * [[25633.txt|25633 - DC - Bilhete-postal]]
+  * [[25634.txt|25634 - DC - Carta]]
+  * [[25635.txt|25635 - DC - Carta]]
+  * [[25636.txt|25636 - DC - Carta]]
+  * [[25637.txt|25637 - DC - Carta]]
+  * [[25638.txt|25638 - DC - Bilhete-postal]]
+  * [[25639.txt|25639 - DC - Carta]]
+  * [[25640.txt|25640 - DC - Carta]]
+  * [[25641.txt|25641 - DC - Carta]]
+  * [[25642.txt|25642 - DC - Carta]]
+  * [[25643.txt|25643 - DC - Carta]]
+  * [[25644.txt|25644 - DC - Carta]]
+  * [[25645.txt|25645 - DC - Carta]]
+  * [[25646.txt|25646 - DC - Carta]]
+  * [[25647.txt|25647 - DC - Carta]]
+  * [[25648.txt|25648 - DC - Carta]]
+  * [[25649.txt|25649 - DC - Carta]]
+  * [[25650.txt|25650 - DC - Carta]]
+  * [[25651.txt|25651 - DC - Carta]]
+  * [[25652.txt|25652 - DC - Carta]]

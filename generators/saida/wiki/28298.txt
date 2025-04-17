@@ -1,0 +1,16 @@
+====== 28298 - DC - Postal "Processo das três cores" ======
+
+**Parent**:: 28293
+**RootParent**:: 27963
+**UnitTitle**:: Postal "Processo das três cores"
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877
+**UnitDateFinal**:: 1877
+**ScopeContent**:: Postal executado nos Ateliers da Imprensa Moderna. Este documento encontrava-se dentro do Caderno de Apontamentos AS 24.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28298
+**LangMaterial**:: Português
+**PhysLoc**:: AS 28- cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28298

@@ -1,0 +1,17 @@
+====== 56133 - DC - Documento sobre diretos de água repartidos entre as quintas de Pindela e do Casilho ======
+
+**Parent**:: 56131
+**RootParent**:: 31258
+**UnitTitle**:: Documento sobre diretos de água repartidos entre as quintas de Pindela e do Casilho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870
+**UnitDateFinal**:: 1887
+**ScopeContent**:: Este documento está no envelope CP 14259, juntamente com CP 14260 a CP 14262.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56133
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14261 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56133

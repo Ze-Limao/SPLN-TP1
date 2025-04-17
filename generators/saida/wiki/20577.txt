@@ -1,0 +1,20 @@
+====== 20577 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Fradelos
+Filiação - José da Costa Rua e Umbelina Rosa da Silva
+Naturalidade - Fradelos
+Data de nascimento - 1870-11-23
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20577
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20577

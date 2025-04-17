@@ -1,0 +1,31 @@
+====== 54200 - SSR - Concurso para limitado para o fornecimento do mobiliário de madeira e metálico para o novo edifício dos Paços de concelho. Câmara Municipal de Vila Nova de Famalicão ======
+
+**Parent**:: 53752
+**RootParent**:: 25851
+**UnitTitle**:: Concurso para limitado para o fornecimento do mobiliário de madeira e metálico para o novo edifício dos Paços de concelho. Câmara Municipal de Vila Nova de Famalicão
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1958-05-07
+**UnitDateFinal**:: 1961-04-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54200
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54200
+
+===== Filhos =====
+  * [[54201.txt|54201 - DC - Programa de Concurso: concurso limitado para o fornecimento do mobiliário de madeira para o novo edifício dos Paços de concelho. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54202.txt|54202 - DC - Caderno de encargos para o fornecimento do mobiliário de madeira, reposteiros e alcatifas para o novo edifício dos Paços de concelho. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54203.txt|54203 - DC - Concurso para o fornecimento do mobiliário metálico para o novo edifício dos Paços de concelho: programa de concurso. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54204.txt|54204 - DC - Caderno de encargos para o fornecimento do mobiliário metálico para o novo edifício dos Paços de concelho. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54205.txt|54205 - DC - Concurso público para o fornecimento de mobiliário para a Secção de Finanças e balcão para a Tesouraria da Fazenda Pública de Vila Nova de Famalicão: programa de concurso e caderno de encargos]]
+  * [[54206.txt|54206 - DC - Guias e ofícios-requerimentos à Câmara em branco]]
+  * [[54207.txt|54207 - DC - Processo Concurso para o fornecimento do mobiliário para o salão nobre dos novos Paços de concelho. Câmara Municipal de Vila Nova de Famalicão - secretaria]]
+  * [[54208.txt|54208 - DC - Concurso para o fornecimento do mobiliário de madeira para o novo edifício dos Paços de concelho – 1961. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54209.txt|54209 - DC - Concurso para o fornecimento do mobiliário de madeira para o novo edifício dos Paços de concelho - 1961. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54210.txt|54210 - DC - Concurso para o fornecimento do mobiliário metálico para o novo edifício dos Paços de concelho 1961. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54211.txt|54211 - DC - Concurso para o fornecimento do mobiliário metálico para o novo edifício dos Paços de concelho 1961. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54212.txt|54212 - DC - Concurso para o fornecimento do mobiliário metálico para o novo edifício dos Paços de concelho 1961. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54213.txt|54213 - DC - Processo Concurso para o fornecimento do mobiliário de madeira para o novo edifício dos Paços de concelho. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54214.txt|54214 - DC - Processo Concurso para o fornecimento e assentamento do mobiliário destinado às dependências reservadas no novo edifício dos Paços de concelho para a Biblioteca Municipal. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54215.txt|54215 - DC - Processo Concurso para o fornecimento do mobiliário metálico para o novo edifício dos Paços de concelho. Câmara Municipal de Vila Nova de Famalicão]]

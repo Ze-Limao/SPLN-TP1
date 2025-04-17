@@ -1,0 +1,17 @@
+====== 61750 - DC - Para a história de Rotary Club de Famalicão ======
+
+**Parent**:: 61452
+**RootParent**:: 60551
+**UnitTitle**:: Para a história de Rotary Club de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1970
+**UnitDateFinal**:: 1976
+**ScopeContent**:: Cartaz com fotografias e nomes dos presidentes e Governadores do Distrito do Rotary Club de Famalicão desde 1970 a 1976.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 419 - cx. 9
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61750

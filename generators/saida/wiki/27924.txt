@@ -1,0 +1,16 @@
+====== 27924 - DC - Carta ======
+
+**Parent**:: 21259
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-11-02
+**UnitDateFinal**:: 1915-11-02
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Villa Poças. Praia da Granja".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27924
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1018 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27924

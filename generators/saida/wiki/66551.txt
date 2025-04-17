@@ -1,0 +1,15 @@
+====== 66551 - DC - Pedido para licença de matrimónio de José Inácio de Lima com Rita ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido para licença de matrimónio de José Inácio de Lima com Rita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-01-19
+**UnitDateFinal**:: 1862-05
+**ScopeContent**:: Manuscrito, original. Em baixo o deferimento do coadjutor Bernardo Dias Ribeiro, de S. Tiago de Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 571 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66551

@@ -1,0 +1,18 @@
+====== 51152 - DC - Registo do recenseamento militar de José Joaquim ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-11-10
+Filiação - António da Costa Pinto e Custódia
+Naturalidade - Arnoso Santa Maria
+Profissão - Criado de servir
+Residência - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51152
+**LangMaterial**:: Português
+**PhysLoc**:: 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51152

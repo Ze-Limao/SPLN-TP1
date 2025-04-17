@@ -1,0 +1,17 @@
+====== 60569 - DC - Carta ======
+
+**Parent**:: 60568
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-09-28
+**UnitDateFinal**:: 1867-09-28
+**ScopeContent**:: Carta manuscrita assinada, em papel azul, de Oscott (Inglaterra).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53091
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4316 - cx.
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60569

@@ -1,0 +1,16 @@
+====== 23341 - DC - Registo do recenseamento eleitoral de Manuel Moreira da Silva ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Moreira da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Morada - Montalegre
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23341
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23341

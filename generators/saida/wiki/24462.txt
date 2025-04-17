@@ -1,0 +1,16 @@
+====== 24462 - DC - Registo do recenseamento eleitoral de António Gonçalves ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Esmeriz
+Profissão - Lavrador
+Morada - Bairros
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24462
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24462

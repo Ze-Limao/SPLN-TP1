@@ -1,0 +1,16 @@
+====== 61213 - DC - Carta ======
+
+**Parent**:: 61212
+**RootParent**:: 60550
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-07-17
+**UnitDateFinal**:: 1950-07-17
+**ScopeContent**:: Carta manuscrita da Senhora da Hora.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 122 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61213

@@ -1,0 +1,16 @@
+====== 25439 - DC - Jornal "Estrela do Minho" ======
+
+**Parent**:: 25082
+**RootParent**:: 20342
+**UnitTitle**:: Jornal "Estrela do Minho"
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-10-31
+**UnitDateFinal**:: 1943-10-31
+**ScopeContent**:: Artigo "A Festa dos Bombeiros"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25439
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 180 - cx. 45
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25439

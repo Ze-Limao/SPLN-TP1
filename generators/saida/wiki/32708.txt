@@ -1,0 +1,17 @@
+====== 32708 - DC - Carta ======
+
+**Parent**:: 32525
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-08-23
+**UnitDateFinal**:: 1903-08-23
+**ScopeContent**:: Carta manuscrita assinada, de Cascais. Esta carta pertence ao maço "24 d´Agosto de 1903".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32708
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6826 - cx. 45
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32708

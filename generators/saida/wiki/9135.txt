@@ -1,0 +1,13 @@
+====== 9135 - DC - Ofício nº 35 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 35
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-08-04
+**UnitDateFinal**:: 1886-08-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9135
+**LangMaterial**:: Português
+**PhysLoc**:: f. 21
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9135

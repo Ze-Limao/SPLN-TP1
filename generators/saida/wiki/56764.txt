@@ -1,0 +1,14 @@
+====== 56764 - UI - Francisco Mourão ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Francisco Mourão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1934-03-20
+**UnitDateFinal**:: 1934-03-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56764
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56764
+
+===== Filhos =====
+  * [[56765.txt|56765 - DC - Carta]]

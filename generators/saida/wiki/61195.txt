@@ -1,0 +1,53 @@
+====== 61195 - SSR - Documentos administrativos ======
+
+**Parent**:: 61194
+**RootParent**:: 60551
+**UnitTitle**:: Documentos administrativos
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 2019-10-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61195
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61195
+
+===== Filhos =====
+  * [[61485.txt|61485 - DC - Rotação de Tarefas 1980-81]]
+  * [[61487.txt|61487 - DC - Rotação de Tarefas 1982]]
+  * [[61488.txt|61488 - DC - Rotação de Tarefas 1983]]
+  * [[61489.txt|61489 - DC - Rotação de Tarefas 1985]]
+  * [[61490.txt|61490 - DC - Rotação de Tarefas 1988]]
+  * [[61491.txt|61491 - DC - Rotação de Tarefas 1991]]
+  * [[61492.txt|61492 - DC - Rotação de Tarefas 1991]]
+  * [[61493.txt|61493 - DC - Rotação de Tarefas 1991]]
+  * [[61494.txt|61494 - DC - Transmissão de Tarefas 1998-99]]
+  * [[61495.txt|61495 - DC - Transmissão de Tarefas]]
+  * [[61496.txt|61496 - DC - Transmissão de Tarefas]]
+  * [[61497.txt|61497 - DC - Transmissão de Tarefas]]
+  * [[61498.txt|61498 - DC - Transmissão de Tarefas]]
+  * [[61499.txt|61499 - DC - Transmissão de Tarefas]]
+  * [[61500.txt|61500 - DC - Transmissão de mandatos]]
+  * [[61501.txt|61501 - DC - V.O.G. Visita oficial do Governador distrito Rotário 1970]]
+  * [[61502.txt|61502 - DC - V.O.G. Visita oficial do Governador distrito Rotário 1970]]
+  * [[61503.txt|61503 - DC - 48º Aniversário]]
+  * [[61504.txt|61504 - DC - 49º Aniversário]]
+  * [[61505.txt|61505 - DC - 49º Aniversário]]
+  * [[61506.txt|61506 - DC - Visita oficial do Governador do Distrito 1970]]
+  * [[61507.txt|61507 - DC - Visita oficial do Governador do Distrito 1970]]
+  * [[61508.txt|61508 - DC - Retrospectiva de 2 anos de Presidência Armando Moura da Silva 1994-1995 e 1995-1996]]
+  * [[61509.txt|61509 - DC - Retrospectiva de 2 anos de Presidência Armando Moura da Silva 1994-1995 e 1995-1996]]
+  * [[61510.txt|61510 - DC - Resumo dos Planos e Objetivos do Clube]]
+  * [[61511.txt|61511 - DC - Retrospectiva de 2 anos de Presidência Armando Moura da Silva 1994-1995 e 1995-1996]]
+  * [[61512.txt|61512 - DC - Resumo dos Planos e Objetivos do Clube]]
+  * [[61513.txt|61513 - DC - Conselho Director 1999/2000]]
+  * [[61514.txt|61514 - DC - Plano de organização de Comissões do Rotary Club]]
+  * [[61515.txt|61515 - DC - Processo de registo de domínio e site na Internet]]
+  * [[61516.txt|61516 - DC - Regimento Interno Rotary de Vila Nova de Famalicão]]
+  * [[61517.txt|61517 - DC - Estatutos do Rotary de Vila Nova de Famalicão]]
+  * [[61518.txt|61518 - DC - Carta Constitucional Rotary de Vila Nova de Famalicão]]
+  * [[61519.txt|61519 - DC - Contabilidade]]
+  * [[61520.txt|61520 - DC - Palestra no Rotary Clube de Braga]]
+  * [[61521.txt|61521 - DC - Imagem da medalha de President Rotary International]]
+  * [[61522.txt|61522 - DC - Eventos do Rotary Club de Famalicão]]
+  * [[61523.txt|61523 - DC - Postais ilustrados de V. N. Famalicão]]
+  * [[61524.txt|61524 - DC - Briefing de Imprensa Rotary Club de Famalicão]]
+  * [[61525.txt|61525 - DC - Documentos do Rotary Club de Famalicão]]

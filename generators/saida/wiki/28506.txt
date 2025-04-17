@@ -1,0 +1,16 @@
+====== 28506 - DC - Sobre as esquadras de D. Dinis ======
+
+**Parent**:: 28504
+**RootParent**:: 27963
+**UnitTitle**:: Sobre as esquadras de D. Dinis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: «Pelo tratado recíproco de 1353 entre os moradores do Porto e de Lisboa com Eduardo III, ficavam eles autorizados a irem pescar nas costas da Inglaterra. «Hoje isto parece paradoxo» diz J. Bonifácio d’Andrade, reproduzindo o teor do contrato. «Não era decerto hoje, acrescenta o sr. Oliveira Martins, que tal tratado poderia negociar-se; hoje que as nossas lanchas de pesca só acossadas pelos temporais se alongam até à baía da Biscaya.» (O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, p. 393). Referência bibliográfica: Frei Francisco Brandão - Monarquia Lusitania.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28506
+**LangMaterial**:: Português
+**PhysLoc**:: AS 89 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28506

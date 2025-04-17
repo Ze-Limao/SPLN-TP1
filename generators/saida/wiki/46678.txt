@@ -1,0 +1,18 @@
+====== 46678 - DC - Registo do recenseamento eleitoral de Joaquim da Silva Pinheiro ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim da Silva Pinheiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Outiz
+Profissão - Lavrador
+Estado - Casado
+Morada - Quintão
+Idade - 37
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46678
+**LangMaterial**:: Português
+**PhysLoc**:: 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46678

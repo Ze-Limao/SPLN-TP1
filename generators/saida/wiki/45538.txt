@@ -1,0 +1,17 @@
+====== 45538 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 45529
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-05-29
+**UnitDateFinal**:: 1913-05-29
+**ScopeContent**:: Minuta de carta manuscrita assinada, da Casa de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45538
+**LangMaterial**:: Português
+**PhysLoc**:: CP 411 - cx. 3
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45538

@@ -1,0 +1,15 @@
+====== 24649 - DC - Carta ======
+
+**Parent**:: 21065
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-06-23
+**UnitDateFinal**:: 1920-06-23
+**ScopeContent**:: António Azevedo noticia doenças dos familiares e solicita um exemplar da obra "Ninharias" para o filho oferecer ao Dr. Nuno de Moura Teixiera. Carta manuscrita, Aveiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24649
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 150 - cx. 2
+depósito 3, estante 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24649

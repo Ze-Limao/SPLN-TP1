@@ -1,0 +1,15 @@
+====== 21002 - DC - Nº 22/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 22/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-12-21
+**UnitDateFinal**:: 1962-12-21
+**ScopeContent**:: Contrato de adjudicação da obra de reparação do piso do Estádio Municipal
+Outorgante - Gabriel Alves Sampaio Couto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21002
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 79v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21002

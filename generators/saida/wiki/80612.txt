@@ -1,0 +1,15 @@
+====== 80612 - UI - Processo nº 143-A ======
+
+**Parent**:: 80074
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 143-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1978-03-20
+**UnitDateFinal**:: 1984-01-05
+**ScopeContent**:: Junto com Autos de Execução por Quantia Certa nº 143 e Autos de Prestação de Caução nº 143-B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 252 - cx. 13
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80612

@@ -1,0 +1,16 @@
+====== 23164 - DC - Carta ======
+
+**Parent**:: 21044
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-07-24
+**UnitDateFinal**:: 1905-07-24
+**ScopeContent**:: Alexandre Amaral agradece as notas do Livro Velho das Linhagens. Aguarda as notas complementares extraídas dos Brasões da Sala de Cintra. Carta manuscrita assinada, Gerêz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23164
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 53 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23164

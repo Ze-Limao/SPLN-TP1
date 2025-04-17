@@ -1,0 +1,24 @@
+====== 8290 - UI - António de Araújo Costa ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: António de Araújo Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-04-05
+**UnitDateFinal**:: 1895-11-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8290
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8290
+
+===== Filhos =====
+  * [[8291.txt|8291 - DC - Carta]]
+  * [[8292.txt|8292 - DC - Carta]]
+  * [[8293.txt|8293 - DC - Carta]]
+  * [[8294.txt|8294 - DC - Carta]]
+  * [[8295.txt|8295 - DC - Carta]]
+  * [[8296.txt|8296 - DC - Carta]]
+  * [[8297.txt|8297 - DC - Carta]]
+  * [[8298.txt|8298 - DC - Carta]]
+  * [[8299.txt|8299 - DC - Carta]]

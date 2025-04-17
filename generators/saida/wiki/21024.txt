@@ -1,0 +1,15 @@
+====== 21024 - DC - Contrato de compra e venda ======
+
+**Parent**:: 7706
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de compra e venda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1948-08-05
+**UnitDateFinal**:: 1948-08-05
+**ScopeContent**:: Venda de um terreno para construção na nova rua Vasconcelos e Castro
+Outorgante - Heitor da Costa Carvalho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21024
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 34
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21024

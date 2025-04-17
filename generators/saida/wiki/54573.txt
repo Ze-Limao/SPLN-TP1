@@ -1,0 +1,14 @@
+====== 54573 - SR - Correspondência ======
+
+**Parent**:: 31393
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1851-07-04
+**UnitDateFinal**:: 1851-07-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54573
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54573
+
+===== Filhos =====
+  * [[54574.txt|54574 - UI - Maria Emília Freitas Rangel]]

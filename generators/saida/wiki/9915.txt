@@ -1,0 +1,17 @@
+====== 9915 - SSC - Cartografia ======
+
+**Parent**:: 9914
+**RootParent**:: 7651
+**UnitTitle**:: Cartografia
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1850
+**UnitDateFinal**:: 1924
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9915
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9915
+
+===== Filhos =====
+  * [[78817.txt|78817 - DC - Planta do Campo da Feira de Vila Nova de Famalicão]]
+  * [[78822.txt|78822 - DC - Planta do Campo da Feira em Villa Nova de Famalicão]]
+  * [[78823.txt|78823 - DC - Planta de Villa Nova de Famalicão]]
+  * [[78824.txt|78824 - DC - Carta Topográfica de Vila Nova de Famalicão: Ano de 1920]]

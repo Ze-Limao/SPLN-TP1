@@ -1,0 +1,13 @@
+====== 9701 - DC - Ofício nº 50 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 50
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-07-16
+**UnitDateFinal**:: 1887-07-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9701
+**LangMaterial**:: Português
+**PhysLoc**:: f. 36
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9701

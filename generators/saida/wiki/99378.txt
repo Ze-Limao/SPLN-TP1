@@ -1,0 +1,23 @@
+====== 99378 - UI - Fotografias positivos em papel de grande dimensão ======
+
+**Parent**:: 100192
+**RootParent**:: 60695
+**UnitTitle**:: Fotografias positivos em papel de grande dimensão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1928
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99378
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 237 a 240A - cx. 7
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99378
+
+===== Filhos =====
+  * [[99830.txt|99830 - DC - Mesa festiva da receção dada a D. António Barroso, bispo do Porto, na casa de Sacais no Porto]]
+  * [[99834.txt|99834 - DC - Sala capela da Casa de Sacais no Porto]]
+  * [[99836.txt|99836 - DC - D. António Barroso, bispo do Porto, com um grupo de pessoas, na casa de Sacais no Porto]]
+  * [[99837.txt|99837 - DC - Retrato de família Sousa Cristino]]
+  * [[99986.txt|99986 - DC - Retrato de família Sousa Cristino]]

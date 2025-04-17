@@ -1,0 +1,16 @@
+====== 29553 - DC - Bilhete-postal ======
+
+**Parent**:: 29047
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-11-09
+**UnitDateFinal**:: 1892-11-09
+**ScopeContent**:: Bilhete-postal carimbado e selado expedido da Biblioteca Nacional, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29553
+**LangMaterial**:: Português
+**PhysLoc**:: AS 659 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29553

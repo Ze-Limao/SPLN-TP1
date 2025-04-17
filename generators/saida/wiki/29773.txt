@@ -1,0 +1,16 @@
+====== 29773 - DC - Carta ======
+
+**Parent**:: 21301
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-08
+**UnitDateFinal**:: 1901-08
+**ScopeContent**:: Carta manuscrita sem data e incompleta, de Braga. Informa que não conseguiu falar com o Arcebispo de Braga sobre a organização do Centro Católico em V.N.Famalicão, mas alerta para a necessidade de se continuar a defender a religião.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29773
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1182 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29773

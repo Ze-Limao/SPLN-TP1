@@ -1,0 +1,18 @@
+====== 51064 - DC - Registo do recenseamento militar de Agostinho ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Agostinho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-04-21
+Filiação - Manuel da Costa e Maria Correia
+Naturalidade - Calendário
+Profissão - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51064
+**LangMaterial**:: Português
+**PhysLoc**:: 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51064

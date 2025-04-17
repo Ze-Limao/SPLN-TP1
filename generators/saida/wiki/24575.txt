@@ -1,0 +1,16 @@
+====== 24575 - DC - Registo do recenseamento eleitoral de João Ferreira ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Joane
+Profissão - Lavrador
+Morada - Bairros
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24575
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24575

@@ -1,0 +1,18 @@
+====== 8576 - DC - Termo do exame de António Gomes da Costa ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António Gomes da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-07-20
+**UnitDateFinal**:: 1888-07-20
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - António Gomes da Costa
+Naturalidade - Jesufrei
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8576
+**LangMaterial**:: Português
+**PhysLoc**:: f. 58
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8576

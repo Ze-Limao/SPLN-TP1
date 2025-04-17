@@ -1,0 +1,17 @@
+====== 56365 - DC - Lisboa 1º Outubro 1915  30 de Set.bro de 1916 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Lisboa 1º Outubro 1915  30 de Set.bro de 1916
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1915-10-01
+**UnitDateFinal**:: 1916-09-30
+**ScopeContent**:: Maço que contém 117 documentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56365
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12548 (1) a 12548 (117) - cx. 74
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56365

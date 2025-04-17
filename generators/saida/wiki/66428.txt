@@ -1,0 +1,15 @@
+====== 66428 - DC - Foros e prazos ======
+
+**Parent**:: 63952
+**RootParent**:: 60536
+**UnitTitle**:: Foros e prazos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1679-01-29
+**UnitDateFinal**:: 1679-01-29
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 479 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66428

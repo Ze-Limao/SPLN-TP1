@@ -1,0 +1,26 @@
+====== 25851 - F - Projeto do Novo Edifício dos Paços de Concelho, Tribunal, Secção de Finanças, etc. - Januário Godinho ======
+
+**Parent**:: 0
+**RootParent**:: 25851
+**UnitTitle**:: Projeto do Novo Edifício dos Paços de Concelho, Tribunal, Secção de Finanças, etc. - Januário Godinho
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1944-04-17
+**UnitDateFinal**:: 2011-08-02
+**ScopeContent**:: As peças que compõem o arquivo apresentavam-se dispersas por vários departamentos do município, estavam parcialmente compiladas por temas e separados em dossiers. Procedeu-se a uma reorganização do projeto e peças acessórias, de acordo com a organização original do processo. Deste modo a organização compõem-se de séries e ao nível da série o critério de ordenação é numérico. As séries referem-se ao mobiliário, pormenores de arquitetura, concursos de fornecimento, concursos públicos diversos, correspondência.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25851
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25851
+
+===== Filhos =====
+  * [[53745.txt|53745 - SR - Ante-Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Câmara Municipal de Famalicão - 1952]]
+  * [[53746.txt|53746 - SR - Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Arquitectura]]
+  * [[53747.txt|53747 - SR - Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Pormenores - Arquitectura]]
+  * [[53748.txt|53748 - SR - Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Aditamento - Mobiliário]]
+  * [[53749.txt|53749 - SR - Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Peças não Catalogadas]]
+  * [[53750.txt|53750 - SR - Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Adicionais]]
+  * [[53751.txt|53751 - SR - Diversos]]
+  * [[53752.txt|53752 - SR - Concursos Públicos de fornecimento para o novo edifício dos Paços de Concelho, Tribunal, etc.]]
+  * [[53753.txt|53753 - SR - Correspondência recebida e expedida referente ao Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc.]]

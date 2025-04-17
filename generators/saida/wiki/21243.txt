@@ -1,0 +1,17 @@
+====== 21243 - UI - Mário Beirão ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Mário Beirão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-10-01
+**UnitDateFinal**:: 1914-10-01
+**ScopeContent**:: Mário Beirão era da Casa de Porto Manso em Baião.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21243
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 968
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21243
+
+===== Filhos =====
+  * [[26172.txt|26172 - DC - Carta]]

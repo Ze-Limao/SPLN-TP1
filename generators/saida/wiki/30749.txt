@@ -1,0 +1,16 @@
+====== 30749 - DC - Registo do recenseamento eleitoral de Francisco Gomes Alves ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Gomes Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Cruz
+Profissão - Lavrador
+Morada - Moldes
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30749
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30749

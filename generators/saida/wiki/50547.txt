@@ -1,0 +1,18 @@
+====== 50547 - DC - Registo do recenseamento militar de Marcos Luís ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Marcos Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-04-24
+Filiação - Josefa da Silva
+Naturalidade - Vale S. Martinho
+Profissão - 
+Residência - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50547
+**LangMaterial**:: Português
+**PhysLoc**:: 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50547

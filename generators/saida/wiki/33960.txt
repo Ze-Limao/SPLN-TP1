@@ -1,0 +1,19 @@
+====== 33960 - DC - Domingos Rodrigues ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Domingos Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Joane
+Data de nascimento - 1852-09-07
+Filiação - Manuel Rodrigues e Joana Maria Ferreira
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33960
+**LangMaterial**:: Português
+**PhysLoc**:: 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33960

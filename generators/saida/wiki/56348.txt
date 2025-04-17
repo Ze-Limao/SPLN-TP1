@@ -1,0 +1,17 @@
+====== 56348 - DC - Contas dos Exmos o Barão de Pombeiro e Vicente Pinheiro. Documentos respeitantes às mmas ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Contas dos Exmos o Barão de Pombeiro e Vicente Pinheiro. Documentos respeitantes às mmas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1881-09-03
+**UnitDateFinal**:: 1888-01-03
+**ScopeContent**:: Este maço contém CP 11734 (1) a CP 11734 (172). Contém 172 documentos manuscritos e impressos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56348
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11734 (1) a 11734 (172) - cx. 68
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56348

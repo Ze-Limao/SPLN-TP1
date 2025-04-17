@@ -1,0 +1,15 @@
+====== 67036 - UI - Embassy of the United States of America Berlin ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Embassy of the United States of America Berlin
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1894-02-11
+**UnitDateFinal**:: 1894-02-11
+**ScopeContent**:: Assinatura ilegível.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67036
+
+===== Filhos =====
+  * [[67037.txt|67037 - DC - Carta]]

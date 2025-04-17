@@ -1,0 +1,24 @@
+====== 28094 - SSSC - Participação em exposições vitícolas ======
+
+**Parent**:: 28067
+**RootParent**:: 27963
+**UnitTitle**:: Participação em exposições vitícolas
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1880
+**UnitDateFinal**:: 1895
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28094
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28094
+
+===== Filhos =====
+  * [[28095.txt|28095 - DC - Acaba de ser posto à venda o Relatório Geral do Congresso Vitícola Nacional de 1895, volume I]]
+  * [[28096.txt|28096 - DC - Ofício de George Collins Levey, secretário da International Exhibition of Arts, Manufactures and Agricultural and Industrial Products of all Nations, a realizar em Melbourne, Australia de 1 de Outubro de 1880 a 31 de Março de 1881.]]
+  * [[28097.txt|28097 - DC - Ofício da comissão de organização da XII.e Exposition générale des Produits de l’Agriculture, de l’Industrie, des Arts industriels et de l’Art ancien, a realizar na Societé Philomathique de Bordeaux]]
+  * [[28098.txt|28098 - DC - Règlement XII.e Exposition générale des Produits de l’Agriculture, de l’Industrie, des Arts industriels et de l’Art ancien]]
+  * [[28099.txt|28099 - DC - Questionnaire spécial aux exposants de la IIIme Section XII.e Exposition générale des Produits de l’Agriculture, de l’Industrie, des Arts industriels et de l’Art ancien]]
+  * [[28100.txt|28100 - DC - Exposição Agrícola de Lisboa em 1883 iniciada e subsidiada pela Junta Geral do Distrito inaugurar-se-ha no dia 20 de Maio]]
+  * [[28101.txt|28101 - DC - Ofício de José Taveira de Carvalho Pinto Menezes, Presidente da Junta Promotora de Melhoramentos Agrícolas- 1ª Região agronómica, dirigido a José da Cunha Sampaio, irmão de Alberto Sampaio.]]
+  * [[28102.txt|28102 - DC - Ofício do Visconde de Vilar de Allen e de José Taveira de Carvalho Pinto de Menezes dirigido a Alberto Sampaio.]]
+  * [[28103.txt|28103 - DC - Exposição Universal d´Antuerpia em 1894... Circular da Commissão Executiva aos Productores]]

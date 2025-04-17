@@ -1,0 +1,15 @@
+====== 65754 - DC - Emprazamento do casal das Fontes, situado na freguesia de Santa Lucrécia do Louro, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Isabel Maria Rodrigues e a seu marido José Luís Ferreira ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal das Fontes, situado na freguesia de Santa Lucrécia do Louro, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Isabel Maria Rodrigues e a seu marido José Luís Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1775-05-14
+**UnitDateFinal**:: 1775-05-27
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 180 - cx. 9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65754

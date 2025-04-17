@@ -1,0 +1,15 @@
+====== 65849 - DC - Carta de sentença de D. Manuel, numa contenda entre João Álvares, ouvidor nas terras do Duque de Bragança e Gonçalo Anes de Pelho, lavrador ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Carta de sentença de D. Manuel, numa contenda entre João Álvares, ouvidor nas terras do Duque de Bragança e Gonçalo Anes de Pelho, lavrador
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1450
+**UnitDateFinal**:: 1520
+**ScopeContent**:: Manuscrito, original. Documento sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 285 - cx. P17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65849

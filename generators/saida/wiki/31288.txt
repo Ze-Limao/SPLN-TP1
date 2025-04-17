@@ -1,0 +1,15 @@
+====== 31288 - SSC - João Machado Fagundes da Guerra Pinheiro e Figueira e Mariana Josefa de Castro ======
+
+**Parent**:: 31287
+**RootParent**:: 31258
+**UnitTitle**:: João Machado Fagundes da Guerra Pinheiro e Figueira e Mariana Josefa de Castro
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1702
+**UnitDateFinal**:: 1738
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31288
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31288
+
+===== Filhos =====
+  * [[54469.txt|54469 - SR - Documentos]]
+  * [[98419.txt|98419 - SR - Correspondência]]

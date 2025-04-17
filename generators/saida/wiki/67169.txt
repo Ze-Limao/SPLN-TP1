@@ -1,0 +1,17 @@
+====== 67169 - DC - Cartas 1913 ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Cartas 1913
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913
+**ScopeContent**:: Papel do maço com título manuscrito, contém CP 3520 a CP 3717.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58466
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3519 - cx. 26
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67169

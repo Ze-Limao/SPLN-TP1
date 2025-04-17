@@ -1,0 +1,16 @@
+====== 28204 - DC - Despesa do sulco do cortelho ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Despesa do sulco do cortelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Despesas com mão-de-obra e pedra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28204
+**LangMaterial**:: Português
+**PhysLoc**:: AS 476 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28204

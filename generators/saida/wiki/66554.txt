@@ -1,0 +1,15 @@
+====== 66554 - DC - Recibo de José Correia Pedroso da freguesia de S. Tiago de Antas vai pagar à fazenda nacional a quantia da licença da festa a S. Sebastião ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de José Correia Pedroso da freguesia de S. Tiago de Antas vai pagar à fazenda nacional a quantia da licença da festa a S. Sebastião
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-12-30
+**UnitDateFinal**:: 1880-12-30
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 574 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66554

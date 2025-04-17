@@ -1,0 +1,16 @@
+====== 30370 - DC - Registo do recenseamento eleitoral de António José de Carvalho ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Antas
+Profissão - Funileiro
+Morada - Feira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30370
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30370

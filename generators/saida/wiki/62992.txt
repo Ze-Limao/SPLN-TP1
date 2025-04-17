@@ -1,0 +1,20 @@
+====== 62992 - DC - Registo do recenseamento militar de Alfredo ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Alfredo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - José de Sousa Carvalho Brandão e Maria Joaquina Monteiro, na freguesia
+Naturalidade - Antas
+Morada - 
+Data de nascimento - 1863-02-27
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62992

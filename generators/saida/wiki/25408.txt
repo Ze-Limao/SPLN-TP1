@@ -1,0 +1,16 @@
+====== 25408 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-03-01
+**UnitDateFinal**:: 1915-03-01
+**ScopeContent**:: Carta manuscrita assinada, de Coimbra. 35, rua do Norte. Tem brasão timbrado a vermelho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25408
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 387 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25408

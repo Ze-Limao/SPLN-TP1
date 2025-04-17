@@ -1,0 +1,14 @@
+====== 60268 - UI - Maria do Carmo Barros Vasconcelos da Cruz Soveral ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Maria do Carmo Barros Vasconcelos da Cruz Soveral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-07-24
+**UnitDateFinal**:: 1901-07-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60268
+
+===== Filhos =====
+  * [[60269.txt|60269 - DC - Cartão de visita]]

@@ -1,0 +1,19 @@
+====== 9511 - DC - Registo do recenseamento militar de José Joaquim ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - António Joaquim Ribeiro e Rosa Maria de Araújo
+Naturalidade - Cavalões
+Data de nascimento - 1877-10-05
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - Cavalões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9511
+**LangMaterial**:: Português
+**PhysLoc**:: f. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9511

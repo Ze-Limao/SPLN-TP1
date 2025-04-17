@@ -1,0 +1,15 @@
+====== 63998 - DC - Escritura de compra e venda e bens de raiz de uma casa de tabuado, com todas as suas pertenças, situado no dito lugar do Ribainho, foreira à igreja de S. Tiago de Antas, que fez Maria Teresa do Couto, moradora no lugar do Ribainho, freguesia de S. Julião de Calendário, a António Joaquim da Silva, morador no lugar do Padrão, freguesia de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra e venda e bens de raiz de uma casa de tabuado, com todas as suas pertenças, situado no dito lugar do Ribainho, foreira à igreja de S. Tiago de Antas, que fez Maria Teresa do Couto, moradora no lugar do Ribainho, freguesia de S. Julião de Calendário, a António Joaquim da Silva, morador no lugar do Padrão, freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-03-19
+**UnitDateFinal**:: 1862-03-19
+**ScopeContent**:: Manuscrito, instrumento. Folhas cosidas com capa. Papel timbrado "XL.Tesouro Publico 40 Reis". No canto superior esquerdo "Nota 21, af. 68vº".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 260 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63998

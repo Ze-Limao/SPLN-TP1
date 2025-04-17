@@ -1,0 +1,17 @@
+====== 7665 - UI - Livro de Actas da Câmara Municipal Nº 24 ======
+
+**Parent**:: 7654
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Actas da Câmara Municipal Nº 24
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-02-05
+**UnitDateFinal**:: 1900-12-10
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7665
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 15
+depósito 2, estante 18
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7665

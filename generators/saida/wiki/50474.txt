@@ -1,0 +1,18 @@
+====== 50474 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-12-31
+Filiação - José Francisco da Cruz e Ana Maria de Macedo
+Naturalidade - Cruz
+Profissão - Lavrador
+Residência - Cruz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50474
+**LangMaterial**:: Português
+**PhysLoc**:: 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50474

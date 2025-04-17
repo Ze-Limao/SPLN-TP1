@@ -1,0 +1,16 @@
+====== 23689 - DC - Registo do recenseamento eleitoral de Manuel da Rocha ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel da Rocha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vermoim
+Profissão - Lavrador
+Morada - Bouça do Monte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23689
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 82v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23689

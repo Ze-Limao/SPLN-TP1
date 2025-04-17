@@ -1,0 +1,22 @@
+====== 21252 - UI - Joaquim Pedro de Oliveira Martins ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Pedro de Oliveira Martins
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1881
+**UnitDateFinal**:: 1894
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21252
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 992 a 998
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21252
+
+===== Filhos =====
+  * [[26196.txt|26196 - DC - Carta]]
+  * [[26197.txt|26197 - DC - Carta]]
+  * [[26198.txt|26198 - DC - Carta]]
+  * [[26199.txt|26199 - DC - Carta]]
+  * [[26200.txt|26200 - DC - Carta]]
+  * [[26201.txt|26201 - DC - Carta]]
+  * [[26202.txt|26202 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 80057 - UI - Processo nº 68-A ======
+
+**Parent**:: 79994
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 68-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-02-23
+**UnitDateFinal**:: 1976-10-02
+**ScopeContent**:: Junto com Autos de Acção de Processo Comum nº 68, e Execução de Custas nº 68-B, nº 68-C.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 67 - cx. 5
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80057

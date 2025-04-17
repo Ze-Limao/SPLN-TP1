@@ -1,0 +1,18 @@
+====== 45816 - DC - Registo do recenseamento eleitoral de Joaquim Correia da Silva Torres ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Correia da Silva Torres
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Cabeçudos
+Profissão - Lavrador
+Estado - Casado
+Morada - Nespereira
+Idade - 27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45816
+**LangMaterial**:: Português
+**PhysLoc**:: 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45816

@@ -1,0 +1,15 @@
+====== 99490 - UI - Fernando B. Vale ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Fernando B. Vale
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917
+**UnitDateFinal**:: 1917
+**ScopeContent**:: Comissões, por conta própria. Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99490
+
+===== Filhos =====
+  * [[99491.txt|99491 - DC - Cartão]]

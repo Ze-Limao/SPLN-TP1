@@ -1,0 +1,28 @@
+====== 28716 - SR - Correspondência expedida ======
+
+**Parent**:: 28064
+**RootParent**:: 27963
+**UnitTitle**:: Correspondência expedida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1874-09
+**UnitDateFinal**:: 1907-07-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28716
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28716
+
+===== Filhos =====
+  * [[28746.txt|28746 - UI - Bento Carqueja]]
+  * [[29016.txt|29016 - UI - José Malheiro Reimão]]
+  * [[29064.txt|29064 - UI - José Leite de Vasconcelos]]
+  * [[29080.txt|29080 - UI - José da Cunha Sampaio]]
+  * [[29087.txt|29087 - UI - António Vicente Leal Sampaio]]
+  * [[29103.txt|29103 - UI - Emília Ermelinda Sequeira Leal Sampaio da Nóvoa]]
+  * [[29112.txt|29112 - UI - Guilherme de Vasconcelos Abreu]]
+  * [[29117.txt|29117 - UI - C. Boulanger]]
+  * [[29120.txt|29120 - UI - Joaquim Pedro de Oliveira Martins]]
+  * [[29123.txt|29123 - UI - Joaquim José Meira]]
+  * [[29125.txt|29125 - UI - Augusto Carlos Cardoso Pinto Osório]]
+  * [[29127.txt|29127 - UI - José Leite de Vasconcelos]]
+  * [[29129.txt|29129 - UI - Aniceto Gonçalves dos Reis Viana]]
+  * [[29131.txt|29131 - UI - Remetentes desconhecidos]]
+  * [[29381.txt|29381 - UI - António de Azevedo Castello-Branco]]

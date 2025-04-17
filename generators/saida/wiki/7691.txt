@@ -1,0 +1,15 @@
+====== 7691 - SC - Serviços Administrativos ======
+
+**Parent**:: 7651
+**RootParent**:: 7651
+**UnitTitle**:: Serviços Administrativos
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1836
+**UnitDateFinal**:: 1982-05-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7691
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7691
+
+===== Filhos =====
+  * [[7692.txt|7692 - SSC - Notariado]]
+  * [[7725.txt|7725 - SSC - Expediente]]

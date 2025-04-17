@@ -1,0 +1,12 @@
+====== 54694 - UI - Baron ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Baron
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54694
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54694
+
+===== Filhos =====
+  * [[97407.txt|97407 - DC - Minuta de carta de Vicente]]

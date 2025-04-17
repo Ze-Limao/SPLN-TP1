@@ -1,0 +1,16 @@
+====== 29227 - DC - Fatura da Real Companhia Horticolo-Agrícola Portuense ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Fatura da Real Companhia Horticolo-Agrícola Portuense
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-10-05
+**UnitDateFinal**:: 1897-10-05
+**ScopeContent**:: Fatura da Real Companhia Horticolo-Agrícola Portuense, com sede na Rua dos Fogueteiros, 5 - Porto. Factura n. 16008, no valor de 1240 réis, respeitante à compra de 1 begónia capreolata, 1 begónia speciosa, 1 Thimus, 1 Clematis montana, 1Polyonthes tuberosa, 2 Iris Kaempferi, 2 Iris Germanica. Anotação do viveirista: «O nome da flor que V. Ex.ª desejava saber é “Campanula Pyramidalis”».  Anotação, a tinta, feita por Alberto Sampaio: «Paga por um vale de correio de V.ª N.ª de Famalicão passado em 7 de Out. 97».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29227
+**LangMaterial**:: Português
+**PhysLoc**:: AS 344 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29227

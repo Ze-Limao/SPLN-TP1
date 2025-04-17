@@ -1,0 +1,20 @@
+====== 28024 - SSR - Antero de Quental ======
+
+**Parent**:: 28022
+**RootParent**:: 27963
+**UnitTitle**:: Antero de Quental
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1863-07
+**UnitDateFinal**:: 1867
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28024
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28024
+
+===== Filhos =====
+  * [[28025.txt|28025 - DC - Carta]]
+  * [[28026.txt|28026 - DC - Carta]]
+  * [[28027.txt|28027 - DC - Carta]]
+  * [[28028.txt|28028 - DC - Carta]]
+  * [[28029.txt|28029 - DC - Carta]]
+  * [[28030.txt|28030 - DC - Carta]]
+  * [[28031.txt|28031 - DC - Carta]]

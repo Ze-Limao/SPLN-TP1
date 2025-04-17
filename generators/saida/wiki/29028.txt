@@ -1,0 +1,17 @@
+====== 29028 - UI - Ricardo Severo ======
+
+**Parent**:: 28714
+**RootParent**:: 27963
+**UnitTitle**:: Ricardo Severo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1908-10-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29028
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29028
+
+===== Filhos =====
+  * [[29029.txt|29029 - DC - Postal ilustrado]]
+  * [[29030.txt|29030 - DC - Carta]]
+  * [[29031.txt|29031 - DC - Carta]]
+  * [[29032.txt|29032 - DC - Carta]]

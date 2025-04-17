@@ -1,0 +1,19 @@
+====== 34045 - DC - Registo do recenseamento militar de Francisco Duarte ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco Duarte
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Oliveira Santa Maria
+Data de nascimento - 1852-02-26
+Filiação - João Pereira Duarte e Justina Rosa
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34045
+**LangMaterial**:: Português
+**PhysLoc**:: 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34045

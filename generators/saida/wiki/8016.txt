@@ -1,0 +1,15 @@
+====== 8016 - DC - Termo de José do Nascimento Castelo ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José do Nascimento Castelo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1874-08-04
+**UnitDateFinal**:: 1874-08-04
+**ScopeContent**:: Construção de uma mina de água atravessando um caminho público
+Local - Gondifelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8016
+**LangMaterial**:: Português
+**PhysLoc**:: f. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8016

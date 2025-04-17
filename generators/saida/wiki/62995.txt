@@ -1,0 +1,19 @@
+====== 62995 - DC - Registo do recenseamento militar de Augusto ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Augusto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - José Correia Pedrosa e Ana Ribeiro da Silva, ele na freguesia e ela falecida
+Naturalidade - Antas
+Morada - Antas
+Data de nascimento - 1863-07-26
+Emprego - Armador
+Estado - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62995

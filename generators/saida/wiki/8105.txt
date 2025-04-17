@@ -1,0 +1,14 @@
+====== 8105 - SC - Educação ======
+
+**Parent**:: 7651
+**RootParent**:: 7651
+**UnitTitle**:: Educação
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1897-07-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8105
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8105
+
+===== Filhos =====
+  * [[8106.txt|8106 - SSC - Ensino Pré-Primário e Básico]]

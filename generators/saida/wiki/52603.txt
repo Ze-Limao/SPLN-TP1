@@ -1,0 +1,16 @@
+====== 52603 - DC - Registo do recenseamento militar de António Correia ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-12-19
+Filiação - Maria Correia
+Naturalidade - Lagoa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52603
+**LangMaterial**:: Português
+**PhysLoc**:: 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52603

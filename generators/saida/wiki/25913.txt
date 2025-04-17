@@ -1,0 +1,16 @@
+====== 25913 - DC - Retrato de conjunto da Direção e Comando nas Bodas de Ouro ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Retrato de conjunto da Direção e Comando nas Bodas de Ouro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-10-24
+**UnitDateFinal**:: 1943-10-24
+**ScopeContent**:: Retrato no exterior do quartel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25913
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25913

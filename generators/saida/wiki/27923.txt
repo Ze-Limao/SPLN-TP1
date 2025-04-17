@@ -1,0 +1,16 @@
+====== 27923 - DC - Carta ======
+
+**Parent**:: 21258
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-02-17
+**UnitDateFinal**:: 1925-02-17
+**ScopeContent**:: Carta manuscrita assinada, da R. Fonte Arcada, 71, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27923
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1017 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27923

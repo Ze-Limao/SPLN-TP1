@@ -1,0 +1,15 @@
+====== 65765 - DC - Sentença cível de emprazamento de dois terços do casal de S. Cláudio, situado na freguesia de S. Tiago de Antas, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a António José Magalhães Araújo Costa ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento de dois terços do casal de S. Cláudio, situado na freguesia de S. Tiago de Antas, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a António José Magalhães Araújo Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1782-04-24
+**UnitDateFinal**:: 1782-06-06
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. A data de 1782-06-06 é a do registo geral da Corte do Livro de Prazos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 198 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65765

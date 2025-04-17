@@ -1,0 +1,16 @@
+====== 24373 - DC - Carta ======
+
+**Parent**:: 21063
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-11-03
+**UnitDateFinal**:: 1914-11-03
+**ScopeContent**:: António Cabreira agradece a forma como distinguiu no livro que publicou onde está inserida uma carta em que JAM se refere aos seus trabalhos. Envia apontamentos onde se prova que os Farias e Pinheiros de Barcelos entroncam com os Cabreiras do Algarve.  Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24373
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 146 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24373

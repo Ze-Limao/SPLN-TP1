@@ -1,0 +1,20 @@
+====== 9917 - SR - Conta Corrente da Câmara com o Tesoureiro ======
+
+**Parent**:: 7827
+**RootParent**:: 7651
+**UnitTitle**:: Conta Corrente da Câmara com o Tesoureiro
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1850-07-11
+**UnitDateFinal**:: 1909-05-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9917
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9917
+
+===== Filhos =====
+  * [[9918.txt|9918 - UI - Conta Corrente da Câmara com o Tesoureiro]]
+  * [[9919.txt|9919 - UI - Conta Corrente da Câmara com o Tesoureiro]]
+  * [[9920.txt|9920 - UI - Conta Corrente da Câmara com o Tesoureiro]]
+  * [[9921.txt|9921 - UI - Conta Corrente da Câmara com o Tesoureiro]]
+  * [[9922.txt|9922 - UI - Conta Corrente da Câmara com o Tesoureiro]]
+  * [[9923.txt|9923 - UI - Conta Corrente da Câmara com o Tesoureiro]]
+  * [[9924.txt|9924 - UI - Conta Corrente da Câmara com o Tesoureiro]]

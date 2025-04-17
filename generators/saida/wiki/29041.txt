@@ -1,0 +1,15 @@
+====== 29041 - UI - Abílio da Costa Torres ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Abílio da Costa Torres
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-02-10
+**UnitDateFinal**:: 1898-02-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29041
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29041
+
+===== Filhos =====
+  * [[29042.txt|29042 - DC - Carta]]
+  * [[29043.txt|29043 - DC - Carta]]

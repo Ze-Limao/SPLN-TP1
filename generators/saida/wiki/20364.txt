@@ -1,0 +1,18 @@
+====== 20364 - SR - Registo de sócios ======
+
+**Parent**:: 20349
+**RootParent**:: 20342
+**UnitTitle**:: Registo de sócios
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1890-06-28
+**UnitDateFinal**:: 1966-04-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20364
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20364
+
+===== Filhos =====
+  * [[25007.txt|25007 - UI - Registo de sócios]]
+  * [[25008.txt|25008 - UI - Registo de sócios]]
+  * [[25009.txt|25009 - UI - Termos de responsabilidade dos sócios do Corpo Activo da AHBVF; Copiador de correspondência]]

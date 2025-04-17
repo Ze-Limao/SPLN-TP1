@@ -1,0 +1,16 @@
+====== 23371 - DC - Registo do recenseamento eleitoral de Francisco Pereira de Sousa Guimarães ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Pereira de Sousa Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Lavrador
+Morada - Boavista
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23371
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 69v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23371

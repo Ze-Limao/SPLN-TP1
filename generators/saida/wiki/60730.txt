@@ -1,0 +1,18 @@
+====== 60730 - SR - Tombos ======
+
+**Parent**:: 60536
+**RootParent**:: 60536
+**UnitTitle**:: Tombos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1450
+**UnitDateFinal**:: 1804-07-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60704
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60730
+
+===== Filhos =====
+  * [[63969.txt|63969 - UI - Tombo e registo dos casais da Igreja de S.Tiago de Antas]]
+  * [[63970.txt|63970 - UI - Certidão do tombo da igreja de S.Tiago de Antas]]
+  * [[65687.txt|65687 - DC - Certidão do tombo da igreja de S.Tiago de Antas com as freguesias que confina]]
+  * [[65807.txt|65807 - DC - Parte do tombo e apegação de uma quebrada doada por Maria Afonso, à ração de Bartolomeu Gonçalves, raçoeiro da igreja de S.Tiago de Antas, representado pelo seu procurador Gonçalo de Seabra]]
+  * [[66299.txt|66299 - DC - Tombo]]

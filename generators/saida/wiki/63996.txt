@@ -1,0 +1,15 @@
+====== 63996 - DC - Escritura de venda do direito que poderão ter, posse e fruição dos bens de raiz em S. Julião de Calendário, deixados por seu pai e sogro de José Nicolau Regueira Costa e sua mulher Josefa de Meneses e Vasconcelos de Drumond, moradores na cidade do Desterro, capital da Província de Santa Catarina, no Brasil, a José Dias, morador no lugar de Fontelo, freguesia de S. Julião de Calendário ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de venda do direito que poderão ter, posse e fruição dos bens de raiz em S. Julião de Calendário, deixados por seu pai e sogro de José Nicolau Regueira Costa e sua mulher Josefa de Meneses e Vasconcelos de Drumond, moradores na cidade do Desterro, capital da Província de Santa Catarina, no Brasil, a José Dias, morador no lugar de Fontelo, freguesia de S. Julião de Calendário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-11-12
+**UnitDateFinal**:: 1860-11-12
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas. No canto superior esquerdo "Lº 489, 76vº".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 259 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63996

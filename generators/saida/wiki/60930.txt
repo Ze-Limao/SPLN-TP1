@@ -1,0 +1,36 @@
+====== 60930 - SR - Recortes de imprensa e jornais ======
+
+**Parent**:: 60550
+**RootParent**:: 60550
+**UnitTitle**:: Recortes de imprensa e jornais
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1951-12-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60930
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60930
+
+===== Filhos =====
+  * [[60940.txt|60940 - DC - O Mundo. Nº7, 188, ano XXI]]
+  * [[61394.txt|61394 - DC - Estrela do Minho. Ano 57]]
+  * [[61395.txt|61395 - DC - A selagem…o Ministro das Finanças: mais vale sêlo que parecelo]]
+  * [[61396.txt|61396 - DC - A selagem…o Ministro das Finanças: mais vale sêlo que parecelo]]
+  * [[61397.txt|61397 - DC - A selagem…o Ministro das Finanças: mais vale sêlo que parecelo]]
+  * [[61398.txt|61398 - DC - Caixa Geral de Depósitos juro 4%]]
+  * [[61399.txt|61399 - DC - A melhoria cambial…o sr. Ministro das Finanças]]
+  * [[61400.txt|61400 - DC - A melhoria cambial…o sr. Ministro das Finanças]]
+  * [[61401.txt|61401 - DC - Velha Lucerna: um livro de versos de Daniel Salgado]]
+  * [[61402.txt|61402 - DC - Trocas a lápis – VII o sêlo das bebidas]]
+  * [[61403.txt|61403 - DC - Trocas a lápis – VII o sêlo das bebidas]]
+  * [[61404.txt|61404 - DC - Movimento…uniformemente accelarado….]]
+  * [[61405.txt|61405 - DC - Descida ou trambolhão]]
+  * [[61406.txt|61406 - DC - Sol e dó político]]
+  * [[61407.txt|61407 - DC - A Bandeira da vitória flutua sobre África. Nº 1]]
+  * [[61408.txt|61408 - DC - A Bandeira da vitória flutua sobre África. Nº 12]]
+  * [[61409.txt|61409 - DC - A Bandeira da vitória flutua sobre África. Nº 6]]
+  * [[61410.txt|61410 - DC - Homens com toga]]
+  * [[61411.txt|61411 - DC - Posse novo governo]]
+  * [[61412.txt|61412 - DC - O programa financeiro do governo]]
+  * [[61413.txt|61413 - DC - Álbum com recortes de imprensa]]
+  * [[61414.txt|61414 - DC - Referencias dos jornais à terra de Basto]]
+  * [[61415.txt|61415 - DC - Doutor Caturra especialista em doenças da língua…portuguesa]]

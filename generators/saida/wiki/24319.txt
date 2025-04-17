@@ -1,0 +1,16 @@
+====== 24319 - DC - Registo do recenseamento eleitoral de José Joaquim Dias ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Joaquim Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Castelões
+Profissão - Lavrador
+Morada - Assento
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24319
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24319

@@ -1,0 +1,15 @@
+====== 20977 - DC - Nº 23/961 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 23/961
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-11-30
+**UnitDateFinal**:: 1961-11-30
+**ScopeContent**:: Contrato de adjudicação da empreitada de 'Construção do cemitério do Louro'
+Outorgante - Joaquim Rodrigues
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20977
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20977

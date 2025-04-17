@@ -1,0 +1,28 @@
+====== 80014 - SR - Autos de Contrato Individual de Trabalho ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Contrato Individual de Trabalho
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1968-03-08
+**UnitDateFinal**:: 1982-02-18
+**ScopeContent**:: Contém Auto de Ação Emergente de Contrato Individual de Trabalho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80014
+
+===== Filhos =====
+  * [[80015.txt|80015 - UI - Processo nº 29]]
+  * [[80020.txt|80020 - UI - Processo nº 19]]
+  * [[80025.txt|80025 - UI - Processo nº 3]]
+  * [[80603.txt|80603 - UI - Processo nº 128]]
+  * [[97502.txt|97502 - UI - Processo nº 4]]
+  * [[97507.txt|97507 - UI - Processo nº 40]]
+  * [[97508.txt|97508 - UI - Processo nº 41]]
+  * [[97510.txt|97510 - UI - Processo nº 16]]
+  * [[97511.txt|97511 - UI - Processo nº 9]]
+  * [[97512.txt|97512 - UI - Processo nº 6]]
+  * [[97517.txt|97517 - UI - Processo nº 21]]
+  * [[97526.txt|97526 - UI - Processo nº 20]]
+  * [[97680.txt|97680 - UI - Processo nº 200]]
+  * [[97682.txt|97682 - UI - Processo nº 118]]

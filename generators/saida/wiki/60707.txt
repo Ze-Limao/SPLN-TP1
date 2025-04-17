@@ -1,0 +1,15 @@
+====== 60707 - DC - Emprazamento dos casais do Raio e do Eiral, situados na freguesia de Brufe, feitos por Diogo Afonso, abade da Igreja de S. Tiago de Antas e Álvaro Dias e João Alvares, raçoeiros da dita Igreja, a Pero Nogueira, escudeiro, morador em Barcelos e a sua mulher Margarida Carvalho ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento dos casais do Raio e do Eiral, situados na freguesia de Brufe, feitos por Diogo Afonso, abade da Igreja de S. Tiago de Antas e Álvaro Dias e João Alvares, raçoeiros da dita Igreja, a Pero Nogueira, escudeiro, morador em Barcelos e a sua mulher Margarida Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1495-05-12
+**UnitDateFinal**:: 1495-05-12
+**ScopeContent**:: Manuscrito, original, sem selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 8 - cx. P7
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60707

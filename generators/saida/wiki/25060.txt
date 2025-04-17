@@ -1,0 +1,15 @@
+====== 25060 - UI - Registo de incêndios nº2 ======
+
+**Parent**:: 20381
+**RootParent**:: 20342
+**UnitTitle**:: Registo de incêndios nº2
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1930-08-30
+**UnitDateFinal**:: 1937-12-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25060
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 159
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25060

@@ -1,0 +1,19 @@
+====== 9341 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Machado de Azevedo e Josefa Rosa Simões
+Naturalidade - Vale S. Cosme
+Data de nascimento - 1877-09-05
+Profissão - 
+Estado civil - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9341
+**LangMaterial**:: Português
+**PhysLoc**:: f. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9341

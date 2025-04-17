@@ -1,0 +1,19 @@
+====== 20744 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Filiação - Maria Luísa
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1870-06-23
+Estado - Solteiro
+Residência - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20744
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20744

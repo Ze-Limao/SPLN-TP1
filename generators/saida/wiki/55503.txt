@@ -1,0 +1,17 @@
+====== 55503 - DC - Nota dirigida pelo Ministro de Portugal em Berlim ao Secretario de Estado Allemão ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Nota dirigida pelo Ministro de Portugal em Berlim ao Secretario de Estado Allemão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-03-22
+**UnitDateFinal**:: 1907-03-22
+**ScopeContent**:: Documento datilografado, de Berlim, em papel timbrado "Ministerio dos Negocios Estrangeiros. Gabinete do Ministro. Repartição do Expediente". Este documento está junto com CP 2495 a CP 2502.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55503
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 2494 - cx. 19
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55503

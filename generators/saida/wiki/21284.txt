@@ -1,0 +1,16 @@
+====== 21284 - UI - Albino José Rodrigues Leite ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Albino José Rodrigues Leite
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-14
+**UnitDateFinal**:: 1913-02-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21284
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1134
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21284
+
+===== Filhos =====
+  * [[29725.txt|29725 - DC - Carta]]

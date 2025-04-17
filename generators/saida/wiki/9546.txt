@@ -1,0 +1,19 @@
+====== 9546 - DC - Registo do recenseamento militar de Domingos ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Luís José Ribeiro e Carolina Pereira Cardoso
+Naturalidade - Antas
+Data de nascimento - 1877-08-27
+Profissão - 
+Estado civil - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9546
+**LangMaterial**:: Português
+**PhysLoc**:: f. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9546

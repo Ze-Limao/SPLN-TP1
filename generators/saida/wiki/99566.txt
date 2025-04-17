@@ -1,0 +1,16 @@
+====== 99566 - UI - Afonso Cristino ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Afonso Cristino
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Filho de António Cristino. Diretor da Escola Agro Pecuária Paraíba do Norte.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99566
+
+===== Filhos =====
+  * [[99569.txt|99569 - DC - Carta]]
+  * [[99571.txt|99571 - DC - Carta Bilhete]]

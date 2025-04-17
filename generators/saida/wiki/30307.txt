@@ -1,0 +1,16 @@
+====== 30307 - DC - Carta ======
+
+**Parent**:: 21461
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-12-29
+**UnitDateFinal**:: 1917-12-29
+**ScopeContent**:: Carta manuscrita e assinada, de Ovar.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30307
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1466 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30307

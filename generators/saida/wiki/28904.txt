@@ -1,0 +1,14 @@
+====== 28904 - UI - Henrique das Neves ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Henrique das Neves
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-07-06
+**UnitDateFinal**:: 1892-07-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28904
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28904
+
+===== Filhos =====
+  * [[28905.txt|28905 - DC - Postal ilustrado]]

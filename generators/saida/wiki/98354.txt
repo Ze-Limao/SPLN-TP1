@@ -1,0 +1,17 @@
+====== 98354 - DC - Certidão das ordens e instruçoens que autorizão os zeladores da policia dada ao zelador da policia de Santiago da Cruz ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Certidão das ordens e instruçoens que autorizão os zeladores da policia dada ao zelador da policia de Santiago da Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1792-10-22
+**UnitDateFinal**:: 1792-10-22
+**ScopeContent**:: Manuscrito com folhas cosidas. Este documento está na capa "Documento nº4", que contém CP 12912 a CP 12936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12913 - cx. 80
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98354

@@ -1,0 +1,15 @@
+====== 60337 - UI - António Rodrigues ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: António Rodrigues
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60337
+
+===== Filhos =====
+  * [[60338.txt|60338 - DC - Carta]]
+  * [[60339.txt|60339 - DC - Minuta de carta de Júlia Leonor para António Rodrigues]]

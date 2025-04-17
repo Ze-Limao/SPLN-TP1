@@ -1,0 +1,24 @@
+====== 33905 - UI - José de Azevedo Castelo Branco ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: José de Azevedo Castelo Branco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-06-05
+**UnitDateFinal**:: 1916-09-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33905
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33905
+
+===== Filhos =====
+  * [[33906.txt|33906 - DC - Carta]]
+  * [[33907.txt|33907 - DC - Carta]]
+  * [[33908.txt|33908 - DC - Carta]]
+  * [[33909.txt|33909 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[33910.txt|33910 - DC - Carta]]
+  * [[33911.txt|33911 - DC - Carta]]
+  * [[56081.txt|56081 - DC - Minuta de carta]]

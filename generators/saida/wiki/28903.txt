@@ -1,0 +1,16 @@
+====== 28903 - DC - Carta ======
+
+**Parent**:: 28902
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870-01-02
+**UnitDateFinal**:: 1870-01-02
+**ScopeContent**:: Carta expedida de Portimão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28903
+**LangMaterial**:: Português
+**PhysLoc**:: AS 627 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28903

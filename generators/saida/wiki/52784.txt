@@ -1,0 +1,16 @@
+====== 52784 - DC - Registo do recenseamento militar de Joaquim de Sousa ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-09-03
+Filiação - Manuel Ferreira de Sousa e Maria Joaquina
+Naturalidade - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52784
+**LangMaterial**:: Português
+**PhysLoc**:: 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52784

@@ -1,0 +1,14 @@
+====== 30058 - DC - António Alves de Pinho ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: António Alves de Pinho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1965-04-07
+**UnitDateFinal**:: 1965-04-07
+**ScopeContent**:: Regedor efetivo da freguesia de Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30058
+**LangMaterial**:: Português
+**PhysLoc**:: f. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30058

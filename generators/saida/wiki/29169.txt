@@ -1,0 +1,16 @@
+====== 29169 - DC - Árvore do costado resumido segundo − “Os antepassados de Camilo por Pedro A. Azevedo Ediç. particular − Lisboa, 1907”. ======
+
+**Parent**:: 28292
+**RootParent**:: 27963
+**UnitTitle**:: Árvore do costado resumido segundo − “Os antepassados de Camilo por Pedro A. Azevedo Ediç. particular − Lisboa, 1907”.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Árvore genealógica, elaborada por Alberto Sampaio, a partir da obra Os antepassados de Camilo, de Pedro Augusto de S. Bartolomeu de Azevedo (1875-1928), historiógrafo e conservador do Real Arquivo da Torre do Tombo. Desconhece-se qual a finalidade de Alberto Sampaio quando produziu este documento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29169
+**LangMaterial**:: Português
+**PhysLoc**:: AS 155 - cx. 3
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29169

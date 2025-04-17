@@ -1,0 +1,20 @@
+====== 61448 - SR - Publicações Periódicas ======
+
+**Parent**:: 61191
+**RootParent**:: 60551
+**UnitTitle**:: Publicações Periódicas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1970-04
+**UnitDateFinal**:: 2020-02-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61448
+
+===== Filhos =====
+  * [[61449.txt|61449 - DC - Boletim semanal do Distrito 197]]
+  * [[61736.txt|61736 - DC - Rotary Club de Famalicão comemorou bodas de ouro]]
+  * [[61737.txt|61737 - DC - Estrela da Manhã]]
+  * [[61738.txt|61738 - DC - Estrela da Manhã, Cidade Hoje, Notícias de Famalicão]]
+  * [[61739.txt|61739 - DC - Boletim mensal do Distrito 176]]
+  * [[61740.txt|61740 - DC - Boletim mensal do Distrito 176]]
+  * [[61741.txt|61741 - DC - Boletim mensal do Distrito 176]]

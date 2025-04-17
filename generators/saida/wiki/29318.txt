@@ -1,0 +1,16 @@
+====== 29318 - DC - Recibo do Alfaiate Gonçalves Júnior ======
+
+**Parent**:: 29317
+**RootParent**:: 27963
+**UnitTitle**:: Recibo do Alfaiate Gonçalves Júnior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-07-03
+**UnitDateFinal**:: 1875-07-03
+**ScopeContent**:: Recibo no valor total de 45640 réis, respeitante à confeção de fatos, calça e paletós. Apresenta duas datas no campo DEVE/HAVER: 7 de Abril e 20 de Setembro de 1875. A loja situava-se  na Rua de Santo António, n. 163. Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29318
+**LangMaterial**:: Português
+**PhysLoc**:: AS 214 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29318

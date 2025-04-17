@@ -1,0 +1,17 @@
+====== 9746 - DC - Famalicão - Câmara Municipal ======
+
+**Parent**:: 9742
+**RootParent**:: 60698
+**UnitTitle**:: Famalicão - Câmara Municipal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902
+**UnitDateFinal**:: 1903
+**ScopeContent**:: Edifício da Câmara Municipal antes do incêndio de 1952. Bilhete-postal impresso em tom verde claro com legenda na frente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9746
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 4 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9746

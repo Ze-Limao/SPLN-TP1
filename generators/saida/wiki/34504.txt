@@ -1,0 +1,20 @@
+====== 34504 - DC - Registo do recenseamento militar de Domingos ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Ribeirão
+Data de nascimento - 1862-12-14
+Filiação - Manuel de Azevedo Carneiro e Silva e Rita Maria da Costa
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34504
+**LangMaterial**:: Português
+**PhysLoc**:: 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34504

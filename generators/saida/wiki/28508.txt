@@ -1,0 +1,15 @@
+====== 28508 - DC - Antes e durante a 1.ª dinastia ======
+
+**Parent**:: 28507
+**RootParent**:: 27963
+**UnitTitle**:: Antes e durante a 1.ª dinastia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28508
+**LangMaterial**:: Português
+**PhysLoc**:: AS 90 (1) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28508

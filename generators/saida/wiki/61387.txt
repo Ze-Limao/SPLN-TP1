@@ -1,0 +1,16 @@
+====== 61387 - DC - Carta ao Exmo Senhor Ramsay Mac-Donald, Primeiro Ministro de Inglaterra, de Bernardino Machado ======
+
+**Parent**:: 60929
+**RootParent**:: 60550
+**UnitTitle**:: Carta ao Exmo Senhor Ramsay Mac-Donald, Primeiro Ministro de Inglaterra, de Bernardino Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933-03-28
+**UnitDateFinal**:: 1933-03-28
+**ScopeContent**:: Folha impressa de autoria de Bernardino Machado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 164 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61387

@@ -1,0 +1,17 @@
+====== 54357 - DC - Carta ======
+
+**Parent**:: 54339
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1818-04-28
+**UnitDateFinal**:: 1818-04-28
+**ScopeContent**:: Carta manuscrita assinada, de Chainço Leiria para Guimarães. Notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54357
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4967 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54357

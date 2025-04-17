@@ -1,0 +1,18 @@
+====== 50827 - DC - Registo do recenseamento militar de Bernardino ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-08-02
+Filiação - Manuel da Silva e Rosa Maria Machado
+Naturalidade - Castelões
+Profissão - Lavrador
+Residência - Castelões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50827
+**LangMaterial**:: Português
+**PhysLoc**:: 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50827

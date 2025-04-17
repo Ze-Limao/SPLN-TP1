@@ -1,0 +1,17 @@
+====== 56814 - DC - Junho ======
+
+**Parent**:: 31341
+**RootParent**:: 31258
+**UnitTitle**:: Junho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927
+**UnitDateFinal**:: 1937
+**ScopeContent**:: Notas manuscritas relativas a itinerário do mês de Junho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56814
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8561 - cx. 53
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56814

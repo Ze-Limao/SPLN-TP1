@@ -1,0 +1,19 @@
+====== 34803 - DC - Registo do recenseamento militar de Luís ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Cruz
+Data de nascimento - 1862-03-24
+Filiação - Lourenço Mendes do Rego e Rosa da Costa
+Profissão - Pedreiro
+Estado - Solteiro
+Morada - Cruz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34803
+**LangMaterial**:: Português
+**PhysLoc**:: 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34803

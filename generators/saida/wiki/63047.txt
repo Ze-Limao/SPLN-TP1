@@ -1,0 +1,20 @@
+====== 63047 - DC - Registo do recenseamento militar de Daniel ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Daniel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Sebastião Silvério Moreira de Faria e Maria Barbosa, na vila
+Naturalidade - Vila Nova de Famalicão
+Morada - 
+Data de nascimento - 1863-03-25
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63047

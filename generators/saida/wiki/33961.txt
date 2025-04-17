@@ -1,0 +1,19 @@
+====== 33961 - DC - Registo do recenseamento militar de Francisco Rodrigues ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Joane
+Data de nascimento - 1852-02-08
+Filiação - Manuel Rodrigues e Ana Maria
+Profissão - Barbeiro
+Estado - Solteiro
+Morada - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33961
+**LangMaterial**:: Português
+**PhysLoc**:: 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33961

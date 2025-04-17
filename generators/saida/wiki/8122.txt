@@ -1,0 +1,18 @@
+====== 8122 - DC - António Gonçalves da Cruz ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: António Gonçalves da Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1887-08-11
+**ScopeContent**:: Escola - Ribeiorão
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Trofa
+Data de posse - 188-01-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8122
+**LangMaterial**:: Português
+**PhysLoc**:: f. 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8122

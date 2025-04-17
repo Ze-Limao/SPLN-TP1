@@ -1,0 +1,19 @@
+====== 34001 - DC - Registo do recenseamento militar de Manuel de Oliveira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Arnoso Santa Eulália
+Data de nascimento - 1852-04-02
+Filiação - José de Oliveira e Eusébia Martins
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34001
+**LangMaterial**:: Português
+**PhysLoc**:: 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34001

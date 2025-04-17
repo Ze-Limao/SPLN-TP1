@@ -1,0 +1,16 @@
+====== 25679 - DC - Carta ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1913
+**ScopeContent**:: Carta manuscrita assinada, Rua da Picaria nº7, Porto. Carta datada do dia 12 sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25679
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 629 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25679

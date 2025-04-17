@@ -1,0 +1,16 @@
+====== 27948 - DC - Carta ======
+
+**Parent**:: 21266
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-05-03
+**UnitDateFinal**:: 1921-05-03
+**ScopeContent**:: Sousa Fernandes agradece o livro Camilo Homenageado e tece honrosos comentários. Carta manuscrita assinada, de Mões (Vila Nova de Famalicão).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27948
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1041 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27948

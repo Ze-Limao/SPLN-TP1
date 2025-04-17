@@ -1,0 +1,19 @@
+====== 9251 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - António José da Cunha Moreira e Teresa Moreira
+Naturalidade - Arnoso Santa Eulália
+Data de nascimento - 1875-02-10
+Profissão - Tamanqueiro
+Estado civil - Solteiro
+Residência - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9251
+**LangMaterial**:: Português
+**PhysLoc**:: f. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9251

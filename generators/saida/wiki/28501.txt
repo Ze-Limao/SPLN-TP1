@@ -1,0 +1,16 @@
+====== 28501 - DC - Conquista d’Arzila e Tanger ======
+
+**Parent**:: 28499
+**RootParent**:: 27963
+**UnitTitle**:: Conquista d’Arzila e Tanger
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Das pesquisas às obras indicadas na nota deste documento, Alberto Sampaio terminou por mencionar no texto final do Norte Marítimo as duas crónicas de Afonso V, escritas por Duarte Nunes de Leão e Rui de Pina: «Apesar desta ruinosa situação e após várias tentativas frustradas, à conquista de Alcácer-Ceguer seguiu-se a de Arzila e Tânger em 1471. / Aprestou-se então no Porto quarta esquadra. Duarte Nunes diz: «Da armada que se fez no Porto, deu El-Rey cargo a D. Fernando, duque de Guimarães…» Ruy de Pina escreve no mesmo sentido: «Encommendou El-Rey o cargo da gente d’antre Douro e Minho, e da frota do Porto ao duque de Guimarães…» Não sabemos também infelizmente qual o número e espécie de navios. Os cronistas dizem apenas que eles, conduzindo as tropas da província, foram ajuntar-se em Lisboa com a expedição geral.» Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, p. 403.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28501
+**LangMaterial**:: Português
+**PhysLoc**:: AS 88 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28501

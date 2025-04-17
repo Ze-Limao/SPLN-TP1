@@ -1,0 +1,15 @@
+====== 31318 - SSSC - Governador da Província de São Tomé e Príncipe ======
+
+**Parent**:: 31313
+**RootParent**:: 31258
+**UnitTitle**:: Governador da Província de São Tomé e Príncipe
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1879-12-19
+**UnitDateFinal**:: 1884-06-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31318
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31318
+
+===== Filhos =====
+  * [[31319.txt|31319 - SR - Correspondência recebida]]
+  * [[46129.txt|46129 - SR - Correspondência enviada]]

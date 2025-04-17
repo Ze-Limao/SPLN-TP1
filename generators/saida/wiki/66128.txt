@@ -1,0 +1,15 @@
+====== 66128 - DC - Declaração de compra que fez Joaquim Ferreira da freguesia de Fradelos, a Manuel da Costa Santos e mulher, na nota do tab. Pinheiro, do Campo chamado hoje do Eirado, feito no lugar do Espírito Santo da mesma freguesia, de natureza de prazo foreiro à Igreja de D. Tiago de Antas, cuja compra foi feita pela quantia de 60$00 e paga de siza 5$66 reis ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Declaração de compra que fez Joaquim Ferreira da freguesia de Fradelos, a Manuel da Costa Santos e mulher, na nota do tab. Pinheiro, do Campo chamado hoje do Eirado, feito no lugar do Espírito Santo da mesma freguesia, de natureza de prazo foreiro à Igreja de D. Tiago de Antas, cuja compra foi feita pela quantia de 60$00 e paga de siza 5$66 reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-10
+**UnitDateFinal**:: 1869-02-10
+**ScopeContent**:: Manuscrito em papel pautado, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 313 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66128

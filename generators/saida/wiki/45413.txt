@@ -1,0 +1,18 @@
+====== 45413 - DC - Registo do recenseamento eleitoral de José de Sousa Carvalho Brandão ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José de Sousa Carvalho Brandão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Antas
+Profissão - Lavrador
+Estado - Casado
+Morada - Maia
+Idade - 42
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45413
+**LangMaterial**:: Português
+**PhysLoc**:: 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45413

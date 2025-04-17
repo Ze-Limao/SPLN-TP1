@@ -1,0 +1,29 @@
+====== 25822 - DC - Convocatória da Assembleia Geral Extraordinária para votação de uma proposta de venda do prédio, sede da Associação Humanitária e construção de um novo quartel ======
+
+**Parent**:: 24753
+**RootParent**:: 20342
+**UnitTitle**:: Convocatória da Assembleia Geral Extraordinária para votação de uma proposta de venda do prédio, sede da Associação Humanitária e construção de um novo quartel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-07-23
+**UnitDateFinal**:: 1958-07-23
+**ScopeContent**:: A proposta, com data de 30 de julho de 1958, apresentada por Hilário Carvalho, enuncia um conjunto de pontos justificativos da venda do prédio, para aquisição de um terreno destinado à construção duma nova sede e quartel.
+
+Transcrição:
+«Estimado Consócio:
+Realizando-se no dia 30 do corrente na sede social, pelas 21,30 horas, uma reunião da Assembleia Geral Extraordinária, conforme convocação publicada no jornal local «Notícias de Famalicão» de 25 do corrente e tratando-se dum assunto de interesse vital para o progresso desta Associação, vimos pedir a indispensável comparência de V. S.ª àquela reunião. / Trata-se de apreciar e votar uma proposta da Direção originada noutra do Sr. Hilário Carvalho apreciada já em reunião de Direção no sentido de ser vendido o prédio desta Associação, aplicando-se o seu produto na aquisição de terreno e construção dum novo quartel. […] Dentro de 7 anos vai esta Associação comemorar as suas Bodas de Diamante e será uma satisfação para todos comemora-las no novo edifício.»
+Vila Nova de Famalicão, 23 de julho de 1958
+A Direção:
+Augusto de Carneiro Sousa Fernandes
+Padre António José Carvalho Guimarães
+Luís Gonçalves
+Clemente Pinto Malheiro
+Hilário Carvalho
+Manuel Martins
+Armando Coelho"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25822
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 12 - cx. 3
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25822

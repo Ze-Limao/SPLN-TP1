@@ -1,0 +1,19 @@
+====== 62157 - DC - Registo do recenseamento militar de Aires ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Aires
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - José Maria de Oliveira e Narcisa Pereira, na freguesia
+Naturalidade - Brufe
+Morada - Brufe
+Data de nascimento - 1861-11-23
+Emprego - Alfaiate
+Estado - Casado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62157

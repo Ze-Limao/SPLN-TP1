@@ -1,0 +1,16 @@
+====== 29967 - DC - Carta ======
+
+**Parent**:: 21362
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-12-12
+**UnitDateFinal**:: 1878-12-12
+**ScopeContent**:: Carta manuscrita assinada, do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29967
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1297 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29967

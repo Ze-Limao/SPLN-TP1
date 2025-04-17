@@ -1,0 +1,15 @@
+====== 65880 - DC - Pertença de prazo do casal da Quintã de Fontelo, situado na freguesia de S. Julião de Calendário, foreiro à Igreja de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Pertença de prazo do casal da Quintã de Fontelo, situado na freguesia de S. Julião de Calendário, foreiro à Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868
+**UnitDateFinal**:: 1868
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 593 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65880

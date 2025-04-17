@@ -1,0 +1,16 @@
+====== 23141 - DC - Carta ======
+
+**Parent**:: 21039
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-09-12
+**UnitDateFinal**:: 1898-09-12
+**ScopeContent**:: Alberto Pimentel pede informações sobre a morte de Jorge Castelo Branco, filho de Camilo Castelo Branco. Jorge morreu em Seide a 10 de setembro de 1900. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23141
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 30 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23141

@@ -1,0 +1,15 @@
+====== 65824 - DC - Apegação, medição e confrontação do casal do Monte, situado na freguesia de Esmeriz e do Calendário, por Rodrigo Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, que empraza a Custódio de Sá e a sua mulher Paula Maria ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal do Monte, situado na freguesia de Esmeriz e do Calendário, por Rodrigo Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, que empraza a Custódio de Sá e a sua mulher Paula Maria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1780-12-29
+**UnitDateFinal**:: 1781-01-15
+**ScopeContent**:: Manuscrito, impresso. original. Folhas cosidas. Carta de Vedoria impressa de 1780-12-29, com selo fiscal colado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 192 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65824

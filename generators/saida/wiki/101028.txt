@@ -1,0 +1,16 @@
+====== 101028 - SR - Câmara Municipal de Vila Nova de Famalicão edição ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Câmara Municipal de Vila Nova de Famalicão edição
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 2000
+**UnitDateFinal**:: 2000
+**ScopeContent**:: Proeme/publicidade.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9756
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=101028
+
+===== Filhos =====
+  * [[101029.txt|101029 - DC - Tapeçaria de G. Camarinha/961 Salão Novre dos Paços do Concelho]]

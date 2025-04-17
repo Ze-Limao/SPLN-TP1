@@ -1,0 +1,15 @@
+====== 21018 - DC - Contrato de compra e venda ======
+
+**Parent**:: 7706
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de compra e venda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1947-07-04
+**UnitDateFinal**:: 1947-07-04
+**ScopeContent**:: Venda de um terreno para a construção de um posto clínico, junto à Rua Manuel Pinto de Sousa
+Outorgante - Caixa Sindical de Previdência dos Profissionais do Comércio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21018
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 16
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21018

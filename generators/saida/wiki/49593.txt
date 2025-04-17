@@ -1,0 +1,18 @@
+====== 49593 - DC - Registo do recenseamento eleitoral de João Bernardo do Vale Vessadas ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Bernardo do Vale Vessadas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Bacharel em Direito
+Estado - Solteiro
+Morada - Rua Formosa
+Idade - 41
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49593
+**LangMaterial**:: Português
+**PhysLoc**:: 91v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49593

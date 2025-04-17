@@ -1,0 +1,14 @@
+====== 80661 - UI - Processo nº 207 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 207
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1978-06-22
+**UnitDateFinal**:: 1983-05-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 286 - cx. 15
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80661

@@ -1,0 +1,15 @@
+====== 80039 - UI - Processo nº 18-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 18-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-03-29
+**UnitDateFinal**:: 1971-05-31
+**ScopeContent**:: Junto com Autos de Acção de Processo Comum nº 18.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 54 - cx. 4
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80039

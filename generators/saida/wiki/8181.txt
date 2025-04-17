@@ -1,0 +1,18 @@
+====== 8181 - DC - Termo do exame de Cândido Augusto de Oliveira Rebelo ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Cândido Augusto de Oliveira Rebelo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-05-31
+**UnitDateFinal**:: 1883-05-31
+**ScopeContent**:: Grau - Elementar
+Idade - 16
+Filiação - Semião Augusto de Oliveira Rebelo
+Naturalidade - Landim
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8181
+**LangMaterial**:: Português
+**PhysLoc**:: f. 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8181

@@ -1,0 +1,19 @@
+====== 25076 - UI - Correspondência recebida pela AHBVF ======
+
+**Parent**:: 20386
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida pela AHBVF
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1929-05-17
+**UnitDateFinal**:: 1931-06-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25076
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 174 - cx. 42
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25076
+
+===== Filhos =====
+  * [[25367.txt|25367 - DC - Ofício de Artur Macedo, 2º Comandante da AHBVF, dirigido ao Presidente da Direcção]]
+  * [[25368.txt|25368 - DC - Ofício nº9 de Manuel Carvalho, comandante do Corpo Activo da AHBVF, dirigido ao Presidente da Direcção]]

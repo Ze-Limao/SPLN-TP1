@@ -1,0 +1,19 @@
+====== 63129 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - João José Monteiro e Maria Gomes da Costa, ele na freguesia e ela falecida
+Naturalidade - Arnoso Santa Eulália
+Morada - Arnoso Santa Eulália
+Data de nascimento - 1864-07-08
+Emprego - Moleiro
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63129

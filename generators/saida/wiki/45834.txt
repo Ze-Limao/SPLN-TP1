@@ -1,0 +1,18 @@
+====== 45834 - DC - Registo do recenseamento eleitoral de Francisco dos Santos Oliveira ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco dos Santos Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - 
+Profissão - Lavrador
+Estado - Casado
+Morada - Louredo
+Idade - 42
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45834
+**LangMaterial**:: Português
+**PhysLoc**:: 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45834

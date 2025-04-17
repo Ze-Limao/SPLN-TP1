@@ -1,0 +1,19 @@
+====== 34381 - DC - Registo do recenseamento militar de Manuel Cardoso de Araújo ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Cardoso de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Avidos
+Data de nascimento -1853-01-30 
+Filiação - Francisco Cardoso de Araújo e Ana Maria Gomes
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34381
+**LangMaterial**:: Português
+**PhysLoc**:: 111v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34381

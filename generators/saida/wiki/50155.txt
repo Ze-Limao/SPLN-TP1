@@ -1,0 +1,14 @@
+====== 50155 - UI - Januário Correia de Almeida ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Januário Correia de Almeida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1888-11-27
+**UnitDateFinal**:: 1888-11-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50155
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50155
+
+===== Filhos =====
+  * [[50156.txt|50156 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 64078 - DC - Recibo de foro à Igreja S. Tiago de Antas de Sebastião Manuel de Carvalho, do casal de Pelhe em S. Julião de Calendário ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de foro à Igreja S. Tiago de Antas de Sebastião Manuel de Carvalho, do casal de Pelhe em S. Julião de Calendário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-03-17
+**UnitDateFinal**:: 1871-03-17
+**ScopeContent**:: Manuscrito. Recibo passado por Fonseca.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 395 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64078

@@ -1,0 +1,18 @@
+====== 47045 - DC - Registo do recenseamento eleitoral de José Ferreira ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vale S. Martinho
+Profissão - Lavrador
+Estado - Casado
+Morada - Ancede
+Idade - 70
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47045
+**LangMaterial**:: Português
+**PhysLoc**:: 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47045

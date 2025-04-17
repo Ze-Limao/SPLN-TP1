@@ -1,0 +1,18 @@
+====== 46888 - DC - Registo do recenseamento eleitoral de António José Alves Júnior ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Alves Júnior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Lavrador
+Estado - Casado
+Morada - Corredoura
+Idade - 27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46888
+**LangMaterial**:: Português
+**PhysLoc**:: 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46888

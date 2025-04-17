@@ -1,0 +1,16 @@
+====== 21253 - UI - Pajai ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Pajai
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-03-19
+**UnitDateFinal**:: 1902-03-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21253
+**LangMaterial**:: Francês
+**PhysLoc**:: JAM 999
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21253
+
+===== Filhos =====
+  * [[26203.txt|26203 - DC - Carta]]

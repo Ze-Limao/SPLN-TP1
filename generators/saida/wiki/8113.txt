@@ -1,0 +1,18 @@
+====== 8113 - DC - Manuel José Rodrigues ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Manuel José Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-06-30
+**UnitDateFinal**:: 1889-10-17
+**ScopeContent**:: Escola - Vila Nova de Famalicão. Masculina
+Cargo - Professor ajudante
+Vínculo - Temporário
+Naturalidade - Antas
+Data de posse - 1885-06-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8113
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8113

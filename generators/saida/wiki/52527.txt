@@ -1,0 +1,16 @@
+====== 52527 - DC - Registo do recenseamento militar de Manuel António ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-03-20
+Filiação - Bernardo António e Joaquina Maria
+Naturalidade - Oliveira Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52527
+**LangMaterial**:: Português
+**PhysLoc**:: 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52527

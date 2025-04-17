@@ -1,0 +1,16 @@
+====== 29479 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-07-28
+**UnitDateFinal**:: 1877-07-28
+**ScopeContent**:: Carta expedida de Bellevue (29, Grand Rue) Seine-et-Oise.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29479
+**LangMaterial**:: Português
+**PhysLoc**:: AS 720 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29479

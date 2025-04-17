@@ -1,0 +1,15 @@
+====== 20980 - DC - Nº 26/961 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 26/961
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-12-16
+**UnitDateFinal**:: 1961-12-16
+**ScopeContent**:: Contrato para a eleboração de estudos prévios e definitivos das zonas a serem abastecidas de água pelos rios Este e Ave
+Outorgante - Eng. Henrique de Oliveira Pinto da França
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20980
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 22
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20980

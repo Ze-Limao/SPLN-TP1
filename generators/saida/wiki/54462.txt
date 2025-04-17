@@ -1,0 +1,21 @@
+====== 54462 - SR - Documentos ======
+
+**Parent**:: 31265
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54462
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54462
+
+===== Filhos =====
+  * [[31266.txt|31266 - DC - Inventário de Helena Dias]]
+  * [[77698.txt|77698 - DC - Treslado de uma sentença de paga de 25.000 reis que tinha Francisco …, mercador de Barcelos que serão depositados para dar a Helena Dias pelas benfeitorias no morgado de Pindela e por o juiz os mandar dar à dita Helena Dias por falecimento de Simão Pinheiro do Morgado de Pindela]]
+  * [[77779.txt|77779 - DC - Escritura de instrumento de nomeação em que outorga António Pinheiro, filho de Simão Pinheiro]]
+  * [[78363.txt|78363 - DC - Compra da Ribeira de Pena que vendeu Juliana de Freitas]]
+  * [[98234.txt|98234 - DC - Sentença sobre o prazo da Ribela de Helena Dias e seu filho Afonso Pinheiro]]
+  * [[98235.txt|98235 - DC - Compra e posse da Ribela a António Garcia por Helena Dias]]
+  * [[98236.txt|98236 - DC - Doação feita por Helena Dias ao filho Pedro Ferreira de metade da quinta da Ribela]]
+  * [[98237.txt|98237 - DC - Documento judicial entre António Garcia, e sua mulher Maria Carvalha, com Helena Dias, viúva de Simão Pinheiro, sobre as propriedades da Ribela]]
+  * [[98239.txt|98239 - DC - Sentença a composição de António Garcia e sua mulher Maria Carvalha com Helena Dias e Simão Pinheiro sobre a quinta de Pindela]]
+  * [[99115.txt|99115 - DC - Certidão das casas que tenho Casal dos Dardos, em Guimarães]]

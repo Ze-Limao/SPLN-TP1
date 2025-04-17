@@ -1,0 +1,17 @@
+====== 67184 - DC - Correspondência antes do concerto e depois. Chantage Suggia ======
+
+**Parent**:: 66680
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência antes do concerto e depois. Chantage Suggia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905
+**UnitDateFinal**:: 1905
+**ScopeContent**:: Envelope com o título manuscrito. Contém CP 1705 a  CP 1719.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1703 - cx. 12
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67184

@@ -1,0 +1,18 @@
+====== 28580 - DC - Notas sobre a malatosta ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre a malatosta
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28580
+**LangMaterial**:: Português
+**PhysLoc**:: AS 103 (1) a 103 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28580
+
+===== Filhos =====
+  * [[28581.txt|28581 - DC - Malla-Tosta. Direito… que pagam os q. embarcam]]
+  * [[28582.txt|28582 - DC - A maltosta ou mallatosta existia desde antes 1324]]

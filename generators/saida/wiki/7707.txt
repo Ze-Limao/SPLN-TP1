@@ -1,0 +1,21 @@
+====== 7707 - UI - Livro de Notas Nº 20 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 20
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1948-08-16
+**UnitDateFinal**:: 1948-12-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7707
+**LangMaterial**:: Português
+**PhysLoc**:: 1.56
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7707
+
+===== Filhos =====
+  * [[21027.txt|21027 - DC - Contrato de adjudicação]]
+  * [[21028.txt|21028 - DC - Contrato de adjudicação]]
+  * [[21029.txt|21029 - DC - Contrato de compra e venda]]
+  * [[21030.txt|21030 - DC - Contrato de adjudicação]]
+  * [[21031.txt|21031 - DC - Contrato de adjudicação]]
+  * [[21032.txt|21032 - DC - Contrato de adjudicação]]

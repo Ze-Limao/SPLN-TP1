@@ -1,0 +1,18 @@
+====== 51502 - DC - Registo do recenseamento militar de ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 
+Filiação - 
+Naturalidade - 
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51502
+**LangMaterial**:: Português
+**PhysLoc**:: v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51502

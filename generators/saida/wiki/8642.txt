@@ -1,0 +1,18 @@
+====== 8642 - DC - Termo do exame de Óscar Brandão Peixoto ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Óscar Brandão Peixoto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-08-02
+**UnitDateFinal**:: 1889-08-02
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - Manuel de Sá Peixoto e Tedora Brandão Peixoto
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8642
+**LangMaterial**:: Português
+**PhysLoc**:: f. 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8642

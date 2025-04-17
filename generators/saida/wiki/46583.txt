@@ -1,0 +1,18 @@
+====== 46583 - UI - Ana Elvira de Freitas ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Ana Elvira de Freitas
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46583
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46583
+
+===== Filhos =====
+  * [[46584.txt|46584 - DC - Carta]]
+  * [[46585.txt|46585 - DC - Carta]]
+  * [[46586.txt|46586 - DC - Carta]]

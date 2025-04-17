@@ -1,0 +1,17 @@
+====== 60162 - DC - Federação. Secção F. Assumptos pendentes em estudo. Briquetes de Figo e Amendoa ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Federação. Secção F. Assumptos pendentes em estudo. Briquetes de Figo e Amendoa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1931-04-01
+**UnitDateFinal**:: 1931-04-01
+**ScopeContent**:: Capa com cópia ofício datilografado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9534 - cx. 59
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60162

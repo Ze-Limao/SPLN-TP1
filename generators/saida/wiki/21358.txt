@@ -1,0 +1,18 @@
+====== 21358 - UI - António de Sousa e Sá ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António de Sousa e Sá
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-01-01
+**UnitDateFinal**:: 1910-10-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21358
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1289, 1290, 1291
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21358
+
+===== Filhos =====
+  * [[30151.txt|30151 - DC - Carta]]
+  * [[30152.txt|30152 - DC - Carta]]
+  * [[30153.txt|30153 - DC - Carta]]

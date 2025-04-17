@@ -1,0 +1,15 @@
+====== 79966 - UI - Processo nº 112 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 112
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1960-10-26
+**UnitDateFinal**:: 1970-05-30
+**ScopeContent**:: Junto com Processo Autos de Habilitação de Herdeiros nº 18A/68 e Processo Autos de Execução de Custas nº 18B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 2 - cx. 1
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79966

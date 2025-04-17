@@ -1,0 +1,18 @@
+====== 8153 - DC - João José de Araújo ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: João José de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-12-15
+**UnitDateFinal**:: 1891-12-15
+**ScopeContent**:: Escola - Nine
+Cargo - Professor
+Vínculo - Temporário
+Naturalidade - Bente
+Data de posse - 1891-12-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8153
+**LangMaterial**:: Português
+**PhysLoc**:: f. 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8153

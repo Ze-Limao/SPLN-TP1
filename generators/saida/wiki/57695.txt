@@ -1,0 +1,17 @@
+====== 57695 - DC - Bilhete de comboio ======
+
+**Parent**:: 57680
+**RootParent**:: 31258
+**UnitTitle**:: Bilhete de comboio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928-07-01
+**UnitDateFinal**:: 1928-07-01
+**ScopeContent**:: Bilhete para a 1º Visita de propaganda agrícola em 1 de julho de 1928 válido para comboios especiais nº 502 e 501 entre as estações de Famalicão e Vilar do Pinheiro...a favor do Snr. Augusto de Souza Neves (nome manuscrito). No verso carimbo da Direcção da Exploração da Companhia dos Caminhos de Ferro do Norte de Portugal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57695
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2885 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57695

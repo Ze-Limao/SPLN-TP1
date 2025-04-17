@@ -1,0 +1,17 @@
+====== 54485 - DC - Caderno de Chimica ======
+
+**Parent**:: 31339
+**RootParent**:: 31258
+**UnitTitle**:: Caderno de Chimica
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905
+**UnitDateFinal**:: 1912
+**ScopeContent**:: Caderno pautado manuscrito de capa preta, colado ao CP 2364. Tem uma folha branca manuscrita com apontamento de Botânica sistemática.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54485
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2363 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54485

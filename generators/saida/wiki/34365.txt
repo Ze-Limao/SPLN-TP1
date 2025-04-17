@@ -1,0 +1,19 @@
+====== 34365 - DC - Registo do recenseamento militar de Joaquim Ferreira de Azevedo ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Ferreira de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Antas
+Data de nascimento - 1853-01-17
+Filiação - António Ferreira de Azevedo e Joaquina de Araújo
+Profissão - Carpinteiro
+Estado - Solteiro
+Morada - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34365
+**LangMaterial**:: Português
+**PhysLoc**:: 108v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34365

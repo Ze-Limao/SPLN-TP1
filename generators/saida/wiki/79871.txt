@@ -1,0 +1,17 @@
+====== 79871 - SSR - Tipografia Minerva 1929 ======
+
+**Parent**:: 79837
+**RootParent**:: 60698
+**UnitTitle**:: Tipografia Minerva 1929
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1929
+**UnitDateFinal**:: 1929
+**ScopeContent**:: Reprodução de postais em papel de fotografia e fotocópias em papel: Praça 9 de Abril (242); Campo Mousinho - Dia de feira (243); Campo Mousinho de Albuquerque (outro aspecto da feira) (244); Outro aspecto do Campo Mousinho d' Albuquerque (245); Rua Alves Roçadas (246); Rua Adriano Pinto Basto (247); Praça da República e Paços do Concelho (248); Largo Tinoco de Sousa e Hospital de Misericórdia (249); Rua Cândido dos Reis (Antiga Rua Direita) (250); Vila Nova de Famalicão (vista geral) (252); Rua Candido dos Reis (Antiga Rua Direita) (253).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79839
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 242 a CPVNF 253 - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79871

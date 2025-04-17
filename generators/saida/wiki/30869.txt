@@ -1,0 +1,16 @@
+====== 30869 - DC - Registo do recenseamento eleitoral de José Gomes Ferreira ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Gomes Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Morada - Corga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30869
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30869

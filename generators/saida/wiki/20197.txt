@@ -1,0 +1,16 @@
+====== 20197 - UI - Registo de licenças de caça nº 1 ======
+
+**Parent**:: 20196
+**RootParent**:: 20048
+**UnitTitle**:: Registo de licenças de caça nº 1
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1925-08-29
+**UnitDateFinal**:: 1928-07-15
+**ScopeContent**:: Termo de abertura: “Aos vinte e nove de Agosto de mil novecentos e vinte e cinco foi lavrado o termo d´abertura deste livro que tem de usar para registo das licenças de caça…”.
+Contém dados: nº, nº da licença, data da concessão, nome, freguesia, data em que termina.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20197
+**LangMaterial**:: Português
+**PhysLoc**:: AC 94
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20197

@@ -1,0 +1,15 @@
+====== 64175 - DC - Certidão do prazo do casal do Pelho, situado na freguesia de S. Julião de Calendário, passada a favor de Rodrigo Joaquim de Meneses, abade da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Certidão do prazo do casal do Pelho, situado na freguesia de S. Julião de Calendário, passada a favor de Rodrigo Joaquim de Meneses, abade da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1853-03-04
+**UnitDateFinal**:: 1853-03-04
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 251 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64175

@@ -1,0 +1,15 @@
+====== 20159 - UI - Caderneta militar de José da Silva ======
+
+**Parent**:: 20158
+**RootParent**:: 20048
+**UnitTitle**:: Caderneta militar de José da Silva
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1888-03-15
+**UnitDateFinal**:: 1892-03-15
+**ScopeContent**:: Contém dados: entrada de efectivo na companhia, nota de assentos de matrícula: designação do estado civil, notas biográficas durante o serviço militar, menção do comportamento em vista dos registos disciplinares e informação quando a praça tem baixa do efectivo do exército.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20159
+**LangMaterial**:: Português
+**PhysLoc**:: AC 102
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20159

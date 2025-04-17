@@ -1,0 +1,13 @@
+====== 66928 - SR - Correspondência enviada ======
+
+**Parent**:: 31324
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência enviada
+**DescriptionLevel**:: SR
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31325
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66928
+
+===== Filhos =====
+  * [[66929.txt|66929 - SSR - Minutas de telegramas]]
+  * [[66935.txt|66935 - SSR - Minutas de cartas]]

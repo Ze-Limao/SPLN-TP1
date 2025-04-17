@@ -1,0 +1,18 @@
+====== 51882 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-10-11
+Filiação - António Rodrigues de Miranda e Ana Maria de Sousa
+Naturalidade - Vilarinho das Cambas
+Profissão - criado de servir
+Residência - Vilarinho das Cambas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51882
+**LangMaterial**:: Português
+**PhysLoc**:: 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51882

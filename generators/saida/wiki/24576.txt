@@ -1,0 +1,16 @@
+====== 24576 - DC - Registo do recenseamento eleitoral de João Gomes ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Joane
+Profissão - Lavrador
+Morada - Cima de Pele
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24576
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24576

@@ -1,0 +1,19 @@
+====== 34406 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1852-09-22
+Filiação - Manuel da Costa e Rosa Ferreira
+Profissão - Sapateiro
+Estado - Solteiro
+Morada - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34406
+**LangMaterial**:: Português
+**PhysLoc**:: 114v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34406

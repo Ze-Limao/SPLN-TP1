@@ -1,0 +1,16 @@
+====== 24648 - DC - Carta ======
+
+**Parent**:: 21064
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-06-21
+**UnitDateFinal**:: 1921-06-21
+**ScopeContent**:: António Cândido agradece o envio do livro "Camilo Homenageado" que entende como uma prova de grande consideração. Carta manuscrita assinada, Candemil.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24648
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 149 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24648

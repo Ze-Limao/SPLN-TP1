@@ -1,0 +1,16 @@
+====== 24013 - DC - Carta ======
+
+**Parent**:: 21058
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-04-30
+**UnitDateFinal**:: 1889-04-30
+**ScopeContent**:: A. A. da Rocha Páris agradece o pagamento de uma letra e a venda de terras. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24013
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 97 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24013

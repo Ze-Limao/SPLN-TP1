@@ -1,0 +1,15 @@
+====== 65852 - DC - Sentença de conflito entre o abade e os raçoeiros da Igreja de S. Tiago de Antas, pela qual foi reconhecido o direito dos abades de emprazarem os prazos dos raçoeiros, necessitando do seu consentimento ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença de conflito entre o abade e os raçoeiros da Igreja de S. Tiago de Antas, pela qual foi reconhecido o direito dos abades de emprazarem os prazos dos raçoeiros, necessitando do seu consentimento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1552-11-15
+**UnitDateFinal**:: 1619
+**ScopeContent**:: Manuscrito, original, sem capa e folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 55 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65852

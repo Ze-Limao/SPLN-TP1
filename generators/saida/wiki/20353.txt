@@ -1,0 +1,15 @@
+====== 20353 - UI - Processo de contas Caixa 1956 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Processo de contas Caixa 1956
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1956-01-01
+**UnitDateFinal**:: 1956-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20353
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 36 - cx. 10
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20353

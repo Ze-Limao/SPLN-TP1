@@ -1,0 +1,18 @@
+====== 54331 - UI - Frei António, Comissário dos Terceiros ======
+
+**Parent**:: 31297
+**RootParent**:: 31258
+**UnitTitle**:: Frei António, Comissário dos Terceiros
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1826-04-18
+**UnitDateFinal**:: 1829-06-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54331
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54331
+
+===== Filhos =====
+  * [[54333.txt|54333 - DC - Carta]]
+  * [[54334.txt|54334 - DC - Carta]]
+  * [[54335.txt|54335 - DC - Carta]]
+  * [[54336.txt|54336 - DC - Carta]]

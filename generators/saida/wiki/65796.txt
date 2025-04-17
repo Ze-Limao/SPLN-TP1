@@ -1,0 +1,15 @@
+====== 65796 - DC - Sentença cível de execução, a favor do autor Rodrigo Joaquim de Meneses, abade da Igreja de S. Tiago de Antas, contra os réus Higino Ferreira de Macedo e mulher, da freguesia de S. Julião de Calendário, que deviam ao abade o foro do casal do Pelho, desde o ano 1836 ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de execução, a favor do autor Rodrigo Joaquim de Meneses, abade da Igreja de S. Tiago de Antas, contra os réus Higino Ferreira de Macedo e mulher, da freguesia de S. Julião de Calendário, que deviam ao abade o foro do casal do Pelho, desde o ano 1836
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1844-05-21
+**UnitDateFinal**:: 1844-05-21
+**ScopeContent**:: Manuscrito, original. Folhas cosidas, papel azul timbrado com selo fiscal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 253 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65796

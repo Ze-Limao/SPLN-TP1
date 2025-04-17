@@ -1,0 +1,16 @@
+====== 28102 - DC - Ofício do Visconde de Vilar de Allen e de José Taveira de Carvalho Pinto de Menezes dirigido a Alberto Sampaio. ======
+
+**Parent**:: 28094
+**RootParent**:: 27963
+**UnitTitle**:: Ofício do Visconde de Vilar de Allen e de José Taveira de Carvalho Pinto de Menezes dirigido a Alberto Sampaio.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-03-21
+**UnitDateFinal**:: 1889-03-21
+**ScopeContent**:: Solicita a participação dos vinhos da Quinta de Boamense na exposição de Paris. Assinam o ofício, enviado do Porto, o Visconde de Vilar de Allen e de José Taveira de Carvalho Pinto de Menezes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28102
+**LangMaterial**:: Português
+**PhysLoc**:: AS 508 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28102

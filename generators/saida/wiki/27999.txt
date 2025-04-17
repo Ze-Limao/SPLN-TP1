@@ -1,0 +1,16 @@
+====== 27999 - DC - Subscrição da viúva ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Subscrição da viúva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1862
+**ScopeContent**:: Lista de estudantes cujos nomes constam da “subscrição da viúva”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27999
+**LangMaterial**:: Português
+**PhysLoc**:: AS 266 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27999

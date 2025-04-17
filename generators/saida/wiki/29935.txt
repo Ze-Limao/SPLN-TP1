@@ -1,0 +1,16 @@
+====== 29935 - DC - Observações Historicas e Cristicas etc. por J. P. Ribeiro ======
+
+**Parent**:: 28665
+**RootParent**:: 27963
+**UnitTitle**:: Observações Historicas e Cristicas etc. por J. P. Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Alberto Sampaio acrescentou a lápis a seguinte nota: «Na Bibl. só há o 1.º T. no 2.º a p. 179 parece que ocupa da Vila de Portugal.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29935
+**LangMaterial**:: Português
+**PhysLoc**:: AS 118 (14) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29935

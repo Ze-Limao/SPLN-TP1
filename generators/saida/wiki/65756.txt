@@ -1,0 +1,15 @@
+====== 65756 - DC - Medição, apegação e confrontação do casal de Funde de Vila, situado na freguesia de S. Julião de Calendário, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Manuel Rodrigues de Carvalho, viúvo. Certidão de emprazamento e carta de vedoria ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Medição, apegação e confrontação do casal de Funde de Vila, situado na freguesia de S. Julião de Calendário, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Manuel Rodrigues de Carvalho, viúvo. Certidão de emprazamento e carta de vedoria
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1802-02-16
+**UnitDateFinal**:: 1802-02-16
+**ScopeContent**:: Manuscrito e impresso, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 225 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65756

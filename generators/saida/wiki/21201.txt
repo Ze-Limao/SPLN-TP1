@@ -1,0 +1,17 @@
+====== 21201 - UI - José Luciano de Castro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Luciano de Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-05-01
+**UnitDateFinal**:: 1898-05-01
+**ScopeContent**:: José Luciano de Castro Pereira Corte-Real (Oliveirinha, Aveiro, 14 de Dezembro de 1834 - Anadia, 9 de Março de 1914), mais conhecido por Luciano de Castro, foi um advogado, jornalista e político que se notabilizou como um dos fundadores do Partido Progressista, ao qual presidiu a partir da morte de Anselmo José Braamcamp (1885). Foi deputado, ministro e presidente do Conselho de Ministros em diversas ocasiões, incluindo durante o ano de 1890, quando a 11 de Janeiro Portugal recebeu o ultimato britânico, do qual resultou a queda do seu governo e o início de uma longa crise política que desembocou na implantação da República Portuguesa a 5 de Outubro de 1910. Foi ainda par do Reino, conselheiro de Estado; diretor-geral dos Próprios Nacionais; vogal do Supremo Tribunal Administrativo e governador da Companhia Geral de Crédito Predial Português. Alcunhado de "a velha raposa", foi certamente uma das mais proeminentes figuras da cena política portuguesa nas últimas três décadas da Monarquia Constitucional Portuguesa, à qual se manteve sempre fiel, mesmo após o seu derrube em 1910.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21201
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 784
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21201
+
+===== Filhos =====
+  * [[25990.txt|25990 - DC - Carta (para Vicente Pinheiro Lobo Machado de Melo e Almada, 2.º visconde de Pindela)]]

@@ -1,0 +1,15 @@
+====== 20074 - UI - Registo de passaportes ======
+
+**Parent**:: 20073
+**RootParent**:: 20048
+**UnitTitle**:: Registo de passaportes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885-10-22
+**UnitDateFinal**:: 1895-06-10
+**ScopeContent**:: Não tem termo de abertura. Contém dados: nº, data, nome, estado, profissão, características físicas, filiação e assinatura.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20074
+**LangMaterial**:: Português
+**PhysLoc**:: AC 46
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20074

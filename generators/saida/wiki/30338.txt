@@ -1,0 +1,16 @@
+====== 30338 - DC - Esboço para um brasão de armas ======
+
+**Parent**:: 20336
+**RootParent**:: 20290
+**UnitTitle**:: Esboço para um brasão de armas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Uma folha com uma composição de várias partes de um brasão formando um novo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30338
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1524 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30338

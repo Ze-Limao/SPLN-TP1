@@ -1,0 +1,15 @@
+====== 66452 - DC - Atestado de como Higino Ferreira de Macedo, da freguesia de S. Tiago de Antas, foram satisfeitos todos os legados das missas que à mesma é obrigada a dizer em 1854-1855-1956-1857-1858-1859 ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Atestado de como Higino Ferreira de Macedo, da freguesia de S. Tiago de Antas, foram satisfeitos todos os legados das missas que à mesma é obrigada a dizer em 1854-1855-1956-1857-1858-1859
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-06-28
+**UnitDateFinal**:: 1860-06-28
+**ScopeContent**:: Manuscrito, original, em papel azul timbrado “XL, 40 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 490 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66452

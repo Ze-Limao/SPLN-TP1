@@ -1,0 +1,15 @@
+====== 80404 - UI - Processo nº 118 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 118
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-04-26
+**UnitDateFinal**:: 1969-06-30
+**ScopeContent**:: Autos de Execução por Quantia Certa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 138 - cx. 8
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80404

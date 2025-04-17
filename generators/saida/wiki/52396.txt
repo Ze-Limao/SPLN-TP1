@@ -1,0 +1,18 @@
+====== 52396 - DC - Registo do recenseamento militar de Francisco da Silva ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-12-07
+Filiação - João da Silva e Maria de Oliveira
+Naturalidade - Aves
+Profissão - Alfaiate
+Residência - Aves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52396
+**LangMaterial**:: Português
+**PhysLoc**:: 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52396

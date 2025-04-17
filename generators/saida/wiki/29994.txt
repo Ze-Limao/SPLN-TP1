@@ -1,0 +1,16 @@
+====== 29994 - DC - Carta ======
+
+**Parent**:: 21465
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917
+**UnitDateFinal**:: 1917
+**ScopeContent**:: Carta manuscrita assinada sem data, de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29994
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1476 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29994

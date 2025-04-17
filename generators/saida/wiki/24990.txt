@@ -1,0 +1,15 @@
+====== 24990 - UI - Livro de Actas da Direcção nº1 ======
+
+**Parent**:: 20398
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Actas da Direcção nº1
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-06-22
+**UnitDateFinal**:: 1913-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24990
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 94
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24990

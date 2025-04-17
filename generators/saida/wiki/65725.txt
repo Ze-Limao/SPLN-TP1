@@ -1,0 +1,15 @@
+====== 65725 - DC - Emprazamento do casal de Rial, situado na freguesia de S. Tiago de Antas, feita por Miguel Ayala Gouveia, abade da Igreja de S. Tiago de Antas, a Domingos Ribeiro e a sua mulher Maria Antónia ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Rial, situado na freguesia de S. Tiago de Antas, feita por Miguel Ayala Gouveia, abade da Igreja de S. Tiago de Antas, a Domingos Ribeiro e a sua mulher Maria Antónia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1646-11-24
+**UnitDateFinal**:: 1646-12-13
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. No canto superior esquerdo "Nº35". No final um registo com data posterior.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 97 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65725

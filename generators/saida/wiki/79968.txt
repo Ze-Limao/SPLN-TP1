@@ -1,0 +1,18 @@
+====== 79968 - SR - Autos de Habilitação de Herdeiros ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Habilitação de Herdeiros
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1960-12-04
+**UnitDateFinal**:: 1972-01-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79968
+
+===== Filhos =====
+  * [[79967.txt|79967 - UI - Processo nº 18A/68]]
+  * [[79978.txt|79978 - UI - Processo nº 36/68A]]
+  * [[97504.txt|97504 - UI - Processo nº 102/68-B]]
+  * [[97505.txt|97505 - UI - Processo nº 102/68-A]]
+  * [[97530.txt|97530 - UI - Processo nº 214-B]]

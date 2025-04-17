@@ -1,0 +1,16 @@
+====== 26012 - DC - Carta ======
+
+**Parent**:: 21203
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-04-25
+**UnitDateFinal**:: 1924-04-25
+**ScopeContent**:: Carta manuscrita assinada, de Barcelos. Papel timbrado "Companhia das Minas de Carvão de S. Pedro da Cova."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26012
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 805 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26012

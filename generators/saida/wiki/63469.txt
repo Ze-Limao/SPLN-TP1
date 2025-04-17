@@ -1,0 +1,19 @@
+====== 63469 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - José Alves da Rocha e Ana da Silva
+Naturalidade - Riba de Ave
+Morada - Ignora-se
+Data de nascimento - 1866-03-27
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63469

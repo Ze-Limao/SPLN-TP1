@@ -1,0 +1,22 @@
+====== 67346 - UI - Maria Pia, Rainha de Portugal ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Maria Pia, Rainha de Portugal
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1905-01-03
+**UnitDateFinal**:: 1909-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56730
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67346
+
+===== Filhos =====
+  * [[67347.txt|67347 - DC - Telegrama]]
+  * [[67348.txt|67348 - DC - Telegrama para Viscondes de Pindela]]
+  * [[67349.txt|67349 - DC - Telegrama]]
+  * [[67350.txt|67350 - DC - Telegrama]]
+  * [[67351.txt|67351 - DC - Telegrama]]

@@ -1,0 +1,18 @@
+====== 46214 - DC - Registo do recenseamento eleitoral de José Pereira de Campos ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Pereira de Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Joane
+Profissão - Lavrador
+Estado - Casado
+Morada - Figueiró
+Idade - 30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46214
+**LangMaterial**:: Português
+**PhysLoc**:: 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46214

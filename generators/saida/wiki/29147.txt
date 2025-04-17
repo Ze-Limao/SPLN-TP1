@@ -1,0 +1,19 @@
+====== 29147 - SSC - Diretor da Exposição Industrial de Guimarães ======
+
+**Parent**:: 27965
+**RootParent**:: 27963
+**UnitTitle**:: Diretor da Exposição Industrial de Guimarães
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1883-12
+**UnitDateFinal**:: 1884-04-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29147
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29147
+
+===== Filhos =====
+  * [[29149.txt|29149 - DC - Ofício da direção da Sociedade Martins Sarmento]]
+  * [[29150.txt|29150 - DC - Exposição Industrial de Guimarães em 1884 − Requisição de Logar]]
+  * [[29151.txt|29151 - DC - Ofício da Comissão Executiva da Exposição Industrial de Guimarães]]
+  * [[29152.txt|29152 - DC - Exposição Industrial de Guimarães em 1884 − Condições Regulamentares]]

@@ -1,0 +1,16 @@
+====== 8412 - UI - José de Araújo Sousa ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: José de Araújo Sousa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-11-30
+**UnitDateFinal**:: 1895-11-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8412
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.50
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8412
+
+===== Filhos =====
+  * [[8413.txt|8413 - DC - Carta]]

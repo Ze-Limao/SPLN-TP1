@@ -1,0 +1,18 @@
+====== 8118 - DC - Manuel Jaselino Dias da Costa ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Jaselino Dias da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1891-10-14
+**ScopeContent**:: Escola - Requião
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Ribeirão
+Data de posse - 1879-08-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8118
+**LangMaterial**:: Português
+**PhysLoc**:: f. 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8118

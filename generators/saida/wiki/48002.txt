@@ -1,0 +1,18 @@
+====== 48002 - DC - Registo do recenseamento eleitoral de João José da Cunha Cirne ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João José da Cunha Cirne
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Abade
+Estado - Solteiro
+Morada - Residência
+Idade - 64
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48002
+**LangMaterial**:: Português
+**PhysLoc**:: 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48002

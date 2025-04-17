@@ -1,0 +1,17 @@
+====== 54078 - DC - Cópia de desenhos de tipos de candeeiros ======
+
+**Parent**:: 54161
+**RootParent**:: 25851
+**UnitTitle**:: Cópia de desenhos de tipos de candeeiros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961
+**UnitDateFinal**:: 1961
+**ScopeContent**:: Cópia de desenhos. Candeeiro Tipo A Passagem coberta do R. Civil escala 1/50; Tipo E Passagem do acesso à Torre escala 1/50; Tipo B e D diferença no tamanho escala 1/50. Tipo C interiores ou exteriores escala 1/100; Escadaria nobre da Câmara escala 1/100; Salão nobre da Câmara escala 1/50. Tipo F Pátio de honra (dois) escala 1/50.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54078
+**LangMaterial**:: Português
+**PhysLoc**:: JG 166(5) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54078

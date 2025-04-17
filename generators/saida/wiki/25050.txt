@@ -1,0 +1,19 @@
+====== 25050 - UI - Programa de Homenagem ao Comandante Fernando Soares ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Programa de Homenagem ao Comandante Fernando Soares
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1990-01-10
+**UnitDateFinal**:: 1990-01-10
+**ScopeContent**:: Contém: Programa de Homenagem; Discursos; Jornal Notícias de Famalicão de 10-01-1992; correspondência; Processo de aquisição do capacete de cristal que o Corpo Activo ofereceu ao Comandante Soares em 1992
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25050
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 152 - cx. 39
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25050
+
+===== Filhos =====
+  * [[25054.txt|25054 - DC - Programa de Homenagem ao Comandante Fernando Soares]]

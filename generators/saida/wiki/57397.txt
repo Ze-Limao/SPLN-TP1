@@ -1,0 +1,39 @@
+====== 57397 - DC - Relatórios e pareceres ======
+
+**Parent**:: 31346
+**RootParent**:: 31258
+**UnitTitle**:: Relatórios e pareceres
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1927-11
+**UnitDateFinal**:: 1936-03-27
+**ScopeContent**:: Capa com título manuscrito a cores respeitante à Companhia dos Caminhos de Ferro do Norte de Portugal. Contém relatórios e pareceres: Perfil longitudinal de Guimarães, Perfil longitudinal da linha do Porto a Famalicão, correspondência, relatórios, Inventário do arvoredo pertencente à Companhia na Linha do Caminho de Ferro de Lousado a Fafe Novembro 1927, etc. Contém CP Contém 2850 a CP 2869.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57397
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2849 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57397
+
+===== Filhos =====
+  * [[57409.txt|57409 - DC - Caminho de ferro de Guimarães: Perfil longitudinal]]
+  * [[57410.txt|57410 - DC - Ofício e cópia de ofício para 3º Visconde de Pindela do Engenheiro Diretor da Exploração da CCFNP e resposta]]
+  * [[57411.txt|57411 - DC - Cópias de ofício para Engenheiro Diretor da Exploração da CCFNP do 3º Visconde de Pindela]]
+  * [[57413.txt|57413 - DC - Cópia de ofícios para 3º Visconde de Pindela do Engenheiro Diretor da Exploração da CCFNP e resposta]]
+  * [[57414.txt|57414 - DC - Cópia de ofício para Engenheiro Diretor da Exploração da CCFNP do 3º Visconde de Pindela]]
+  * [[57415.txt|57415 - DC - Cópia de ofício para Engenheiro Diretor da Exploração da CCFNP do 3º Visconde de Pindela]]
+  * [[57416.txt|57416 - DC - Cópia de ofício para Engenheiro Diretor da Exploração da CCFNP do 3º Visconde de Pindela]]
+  * [[57447.txt|57447 - DC - Cópia de ofício para Engenheiro Diretor da Exploração da CCFNP do 3º Visconde de Pindela]]
+  * [[57448.txt|57448 - DC - Cópia de ofício para Engenheiro Diretor da Exploração da CCFNP do 3º Visconde de Pindela]]
+  * [[57449.txt|57449 - DC - Cópia de ofício para Engenheiro Diretor da Exploração da CCFNP? do 3º Visconde de Pindela]]
+  * [[57450.txt|57450 - DC - Ofício e cópia de ofícios para 3º Visconde de Pindela do Engenheiro Diretor da Exploração da CCFNP e respostas]]
+  * [[57451.txt|57451 - DC - Cópia de ofício para Engenheiro Diretor da Exploração da CCFNP do 3º Visconde de Pindela]]
+  * [[57452.txt|57452 - DC - Cópia de ofício para Engenheiro Diretor da Exploração da CCFNP do 3º Visconde de Pindela]]
+  * [[57453.txt|57453 - DC - Cartas e cópia de ofícios para 3º Visconde de Pindela e para Engenheiro Diretor da Exploração da CCFNP]]
+  * [[57480.txt|57480 - DC - Cópia de ofício para Engenheiro Diretor da Exploração da CCFNP do 3º Visconde de Pindela]]
+  * [[57487.txt|57487 - DC - Perfil longitudinal da Linha do Porto a Famalicão]]
+  * [[57488.txt|57488 - DC - Relatório do Conselho de Administração e Parecer do Conselho Fiscal referentes ao ano de 1928 da Companhia de Caminhos de Ferro do Norte de Portugal]]
+  * [[57489.txt|57489 - DC - Declaração de A. A. de Vasconcelos sobre a competência profissional de João Afonso Machado]]
+  * [[57490.txt|57490 - DC - Declaração de António Amorim Vasconcelos sobre a competência profissional de João Afonso Machado]]
+  * [[57491.txt|57491 - DC - Inventário de arvoredo pertencente à Companhia na Linha de Caminhos de Ferro de Lousado a Fafe]]

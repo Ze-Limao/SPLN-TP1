@@ -1,0 +1,18 @@
+====== 48859 - DC - Registo do recenseamento eleitoral de João de Azevedo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Mogege
+Profissão - Lavrador
+Estado - Casado
+Morada - Berredo
+Idade - 65
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48859
+**LangMaterial**:: Português
+**PhysLoc**:: 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48859

@@ -1,0 +1,18 @@
+====== 32983 - UI - João de Bragança ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: João de Bragança
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1874-11-30
+**UnitDateFinal**:: 1874-11-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32983
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32983
+
+===== Filhos =====
+  * [[32984.txt|32984 - DC - Carta]]

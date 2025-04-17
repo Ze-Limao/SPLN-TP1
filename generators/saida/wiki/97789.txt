@@ -1,0 +1,14 @@
+====== 97789 - SR - Autos de Reclamação de Recurso ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Reclamação de Recurso
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1979-11-12
+**UnitDateFinal**:: 1980-10-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97789
+
+===== Filhos =====
+  * [[97790.txt|97790 - UI - Processo nº 39/A/77]]

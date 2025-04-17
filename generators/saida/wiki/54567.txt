@@ -1,0 +1,19 @@
+====== 54567 - SR - Documentos ======
+
+**Parent**:: 31360
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1917-04-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54567
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54567
+
+===== Filhos =====
+  * [[54568.txt|54568 - DC - Declaração sobre um pagamento referente a Tarrio]]
+  * [[56225.txt|56225 - DC - Declaração de pagamento referente a Tarrio]]
+  * [[60403.txt|60403 - DC - Declaração sobre um pagamento referente a Tarrio]]
+  * [[60404.txt|60404 - DC - Recibo de óculos de J.A. Ribeiro & Cª Opticos]]
+  * [[60405.txt|60405 - DC - Recibo de L. Xavier Costa]]
+  * [[60406.txt|60406 - DC - Notas]]

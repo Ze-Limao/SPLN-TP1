@@ -1,0 +1,15 @@
+====== 64170 - DC - Sentença cível de arrematação a favor de José António Correia, dos rendimentos do casal de S. Cláudio, do executado José António Gonçalves, situado na freguesia de S. Tiago de Antas, e foreiro ao abade da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de arrematação a favor de José António Correia, dos rendimentos do casal de S. Cláudio, do executado José António Gonçalves, situado na freguesia de S. Tiago de Antas, e foreiro ao abade da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1816-12-18
+**UnitDateFinal**:: 1816-12-18
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 234 - cx. 12
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64170

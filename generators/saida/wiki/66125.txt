@@ -1,0 +1,15 @@
+====== 66125 - DC - Certidão de venda que fazem António Dias dos Santos e esposa Maria da Conceição Dias dos Santos a António Joaquim da Silva, casado, todos da freguesia de Ribeirão ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Certidão de venda que fazem António Dias dos Santos e esposa Maria da Conceição Dias dos Santos a António Joaquim da Silva, casado, todos da freguesia de Ribeirão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-11-10
+**UnitDateFinal**:: 1909-04-18
+**ScopeContent**:: Manuscrito em papel azul timbrado com “Imposto de selo 100 reis”, original, sem capa. No final do documento tem selos colados. Nota na parte de cima “.. recebi o laudémio que me pertencia relativo à importância de 250$00, apesar de que na escritura declarar que não tinha laudémio. Todos os prazos desta igreja estão obrigados ao laudémio. S. Tiago de Antas 18 abril de 1909. O parocho Padre Gabriel Rodrigues da Fonseca”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 310 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66125

@@ -1,0 +1,16 @@
+====== 29564 - DC - Carta ======
+
+**Parent**:: 29047
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-06-09
+**UnitDateFinal**:: 1906-06-09
+**ScopeContent**:: Carta expedida de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29564
+**LangMaterial**:: Português
+**PhysLoc**:: AS 671 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29564

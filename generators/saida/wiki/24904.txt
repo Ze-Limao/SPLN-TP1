@@ -1,0 +1,16 @@
+====== 24904 - DC - Carta ======
+
+**Parent**:: 21096
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Carta manuscrita assinada. Papel com carimbo a vermelho "Escola Industrial Fonseca Benavides". Carta do dia 5 de outubro sem menção do ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24904
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 339 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24904

@@ -1,0 +1,20 @@
+====== 20516 - DC - Registo do recenseamento militar de Luís ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Landim
+Filiação - Joana Correia
+Naturalidade - Landim
+Data de nascimento - 1869-10-29
+Emprego - Criado de servir
+Estado - Solteiro
+Residência - Delães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20516
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20516

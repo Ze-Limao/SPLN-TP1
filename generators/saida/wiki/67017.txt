@@ -1,0 +1,14 @@
+====== 67017 - UI - Ministério da Fazenda. Direcção Geral da Thesouraria. Repartição Central ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Ministério da Fazenda. Direcção Geral da Thesouraria. Repartição Central
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-04-28
+**UnitDateFinal**:: 1906-04-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67017
+
+===== Filhos =====
+  * [[67018.txt|67018 - DC - Carta]]

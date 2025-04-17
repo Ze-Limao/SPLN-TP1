@@ -1,0 +1,17 @@
+====== 54515 - DC - Caule ======
+
+**Parent**:: 54493
+**RootParent**:: 31258
+**UnitTitle**:: Caule
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Apontamentos manuscritos em folhas soltas. Junto com 2 f. soltas: 1 f. com notas manuscritas, 1 f. impressa com poemas "Outono" e Ao centenario de Alexandre Herculano".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54515
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8441 - cx. 52
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54515

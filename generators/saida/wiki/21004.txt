@@ -1,0 +1,15 @@
+====== 21004 - DC - Nº 1/963 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 1/963
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1963-02-08
+**UnitDateFinal**:: 1963-02-08
+**ScopeContent**:: Contrato de fornecimento de mobiliário e outros artigos para o Posto da Guarda Nacional Republicana, em Joane
+Outorgante - Leitão & Barbosa & Cª Lda.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21004
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 83v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21004

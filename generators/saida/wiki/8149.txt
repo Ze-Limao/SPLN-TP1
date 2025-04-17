@@ -1,0 +1,18 @@
+====== 8149 - DC - Manuel Custódio Rodrigues Saraiva da Cruz ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Custódio Rodrigues Saraiva da Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-01
+**UnitDateFinal**:: 1890-06-25
+**ScopeContent**:: Escola - Requião
+Cargo - Professor ajudante
+Vínculo - Temporário
+Naturalidade - Amares
+Data de posse - 1890-01-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8149
+**LangMaterial**:: Português
+**PhysLoc**:: f. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8149

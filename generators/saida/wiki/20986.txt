@@ -1,0 +1,15 @@
+====== 20986 - DC - Nº 7/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 7/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-04-05
+**UnitDateFinal**:: 1962-04-05
+**ScopeContent**:: Contrato para o fornecimento e montagem de mobiliário, tapetes e decorações para a Casa dos Magistrados
+Outorgante - José Rodrigues Barbosa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20986
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 45
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20986

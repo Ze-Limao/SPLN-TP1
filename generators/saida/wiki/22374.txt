@@ -1,0 +1,16 @@
+====== 22374 - DC - Registo do recenseamento eleitoral de Manuel da Costa Cardoso ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel da Costa Cardoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Lavrador
+Morada - Valdoi
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22374
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22374

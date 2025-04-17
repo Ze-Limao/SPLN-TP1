@@ -1,0 +1,16 @@
+====== 28067 - SSC - Atividade vitivinícola ======
+
+**Parent**:: 27965
+**RootParent**:: 27963
+**UnitTitle**:: Atividade vitivinícola
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1867-10
+**UnitDateFinal**:: 1908-09-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28067
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28067
+
+===== Filhos =====
+  * [[28086.txt|28086 - SSSC - Atividade vitivinícola na Quinta de Boamense]]
+  * [[28087.txt|28087 - SSSC - Participação no Congresso Vinícola do Palácio de Cristal]]
+  * [[28094.txt|28094 - SSSC - Participação em exposições vitícolas]]

@@ -1,0 +1,18 @@
+====== 47715 - DC - Registo do recenseamento eleitoral de José Ferreira Leite ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Ferreira Leite
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Carreira
+Profissão - Lavrador
+Estado - Casado
+Morada - Paredes
+Idade - 55
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47715
+**LangMaterial**:: Português
+**PhysLoc**:: 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47715

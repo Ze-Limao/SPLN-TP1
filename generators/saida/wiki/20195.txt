@@ -1,0 +1,16 @@
+====== 20195 - UI - Registo das licenças para uso e porte d´armas de caça ======
+
+**Parent**:: 20193
+**RootParent**:: 20048
+**UnitTitle**:: Registo das licenças para uso e porte d´armas de caça
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-01-02
+**UnitDateFinal**:: 1914-12-31
+**ScopeContent**:: Termo de abertura: “Tem de servir este livro para nele se registarem as licenças concedidas por esta administração para uso e porte d´armas de caça…”.
+Contém dados: Nº e nome dos solicitadores, idade, altura, rosto, cabelos, olhos, nariz, boca, cor, freguesia, nome e freguesia dos fiadores, data da concessão e duração.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20195
+**LangMaterial**:: Português
+**PhysLoc**:: AC 104
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20195

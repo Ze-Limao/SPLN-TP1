@@ -1,0 +1,16 @@
+====== 29798 - DC - Carta ======
+
+**Parent**:: 21319
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-09-17
+**UnitDateFinal**:: 1922-09-17
+**ScopeContent**:: Carta manuscrita assinada, de Mação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29798
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1207 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29798

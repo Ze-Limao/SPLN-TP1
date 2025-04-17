@@ -1,0 +1,32 @@
+====== 20133 - SR - Registo da correspondência recebida ======
+
+**Parent**:: 20060
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1884-07-01
+**UnitDateFinal**:: 1919-01-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20133
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20133
+
+===== Filhos =====
+  * [[20134.txt|20134 - UI - Registo da correspondência recebida]]
+  * [[20135.txt|20135 - UI - Livro de entrada de correspondência]]
+  * [[20136.txt|20136 - UI - Livro de entrada de correspondência]]
+  * [[20137.txt|20137 - UI - Registo da correspondência recebida]]
+  * [[20138.txt|20138 - UI - Registo da correspondência recebida]]
+  * [[20139.txt|20139 - UI - Registo da correspondência recebida]]
+  * [[20140.txt|20140 - UI - Registo da correspondência recebida]]
+  * [[20141.txt|20141 - UI - Registo da correspondência recebida]]
+  * [[20142.txt|20142 - UI - Registo da correspondência recebida]]
+  * [[20143.txt|20143 - UI - Registo da correspondência recebida]]
+  * [[20144.txt|20144 - UI - Registo da correspondência recebida]]
+  * [[20145.txt|20145 - UI - Registo da correspondência recebida]]
+  * [[20146.txt|20146 - UI - Registo da correspondência recebida]]
+  * [[20147.txt|20147 - UI - Registo da correspondência recebida]]
+  * [[20148.txt|20148 - UI - Registo da correspondência recebida]]
+  * [[20149.txt|20149 - UI - Registo da correspondência recebida]]
+  * [[20150.txt|20150 - UI - Registo da correspondência recebida]]
+  * [[20151.txt|20151 - UI - Registo da correspondência recebida]]

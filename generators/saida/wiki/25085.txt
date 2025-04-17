@@ -1,0 +1,32 @@
+====== 25085 - UI - Jornal de Bombeiros ======
+
+**Parent**:: 20386
+**RootParent**:: 20342
+**UnitTitle**:: Jornal de Bombeiros
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1958-09-14
+**ScopeContent**:: Contém: Recortes de imprensa e folhetos, fotografias, convites, fotografia do Biel 1890; outras fotografias 1936; jornais. Álbum concebido por Hilário Carvalho a partir de 1930.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25085
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 183 - cx. 47
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25085
+
+===== Filhos =====
+  * [[25868.txt|25868 - DC - Feira do Automóvel]]
+  * [[25869.txt|25869 - DC - Formatura dos bombeiros]]
+  * [[25870.txt|25870 - DC - Ambulância Volkswagen]]
+  * [[25871.txt|25871 - DC - O novo-pronto-socorro dos Bombeiros de Famalicão]]
+  * [[25872.txt|25872 - DC - Vida por vida]]
+  * [[25873.txt|25873 - DC - As Bodas de Ouro dos Bombeiros V. de Famalicão prometem revestir-se de grande luzimento]]
+  * [[25874.txt|25874 - DC - Para a História dos Bombeiros e para a História da terra: uma festa emocionante no velho quartel dos Bombeiros Voluntários de Famalicão]]
+  * [[25875.txt|25875 - DC - Folha de recolha nº 604 de cotizações de 1$00 por cada subscritor para aquisição de material para a corporação]]
+  * [[25876.txt|25876 - DC - A favor dos Bombeiros]]
+  * [[25877.txt|25877 - DC - Programa da festa de aniversário da fundação da AHBVF e Inauguração do carro de pronto-socorro Berliet]]
+  * [[25878.txt|25878 - DC - Convite para as festas da Árvore de Natal]]
+  * [[25879.txt|25879 - DC - Folha de Boas Festas e de Ano Novo]]
+  * [[25880.txt|25880 - DC - Regulamento do serviço de incêndios a cargo da Salvação Nacional Pública de Villa Nova de Famalicão]]
+  * [[53974.txt|53974 - DC - Viação perigosa: um desastre causado, e, Braga, pela velocidade exagerada dos bombeiros]]

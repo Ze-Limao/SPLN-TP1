@@ -1,0 +1,26 @@
+====== 20108 - SR - Registo de correspondência expedida aos Regedores ======
+
+**Parent**:: 20060
+**RootParent**:: 20048
+**UnitTitle**:: Registo de correspondência expedida aos Regedores
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1904-01-02
+**UnitDateFinal**:: 1930-11-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20108
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20108
+
+===== Filhos =====
+  * [[20109.txt|20109 - UI - Registo da correspondência expedida para os Regedores]]
+  * [[20110.txt|20110 - UI - Registo da correspondência expedida para os Regedores]]
+  * [[20111.txt|20111 - UI - Registo da correspondência expedida para os Regedores]]
+  * [[20112.txt|20112 - UI - Registo da correspondência expedida para os Regedores]]
+  * [[20113.txt|20113 - UI - Registo da correspondência expedida para os Regedores]]
+  * [[20114.txt|20114 - UI - Registo da correspondência expedida para os Regedores]]
+  * [[20115.txt|20115 - UI - Registo da correspondência expedida para os regedores]]
+  * [[20116.txt|20116 - UI - Registo da correspondência expedida para os regedores]]
+  * [[20117.txt|20117 - UI - Registo da correspondência expedida para os regedores]]
+  * [[20118.txt|20118 - UI - Registo da correspondência expedida para os regedores]]
+  * [[20119.txt|20119 - UI - Registo da correspondência expedida para os regedores]]
+  * [[20120.txt|20120 - UI - Registo da correspondência expedida para os regedores]]

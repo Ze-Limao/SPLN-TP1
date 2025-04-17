@@ -1,0 +1,16 @@
+====== 21316 - UI - António Girão ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Girão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1929-02-26
+**UnitDateFinal**:: 1929-02-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21316
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21316
+
+===== Filhos =====
+  * [[29792.txt|29792 - DC - Carta]]

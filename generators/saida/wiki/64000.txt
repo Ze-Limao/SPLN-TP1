@@ -1,0 +1,15 @@
+====== 64000 - DC - Título de posse de um raçoeiro, da Igreja de S. Tiago, a favor de João Gomes da Silva, por resignação de Lourenço da Gama Ferreira ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Título de posse de um raçoeiro, da Igreja de S. Tiago, a favor de João Gomes da Silva, por resignação de Lourenço da Gama Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1655-10-08
+**UnitDateFinal**:: 1848
+**ScopeContent**:: Manuscrito, original, folhas cosidas. Contém bula com a graça da aposentação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português e Latim
+**PhysLoc**:: CSTA 101 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64000

@@ -1,0 +1,14 @@
+====== 20233 - UI - Registo de correspondência recebida nº4 ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº4
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1947-07-03
+**UnitDateFinal**:: 1949-09-14
+**ScopeContent**:: Termo de abertura impresso: “Há de servir êste livro, nos termos do nº9 do artigo 120 do Código Administrativo, se registar a correspondência recebida na Câmara Municipal”. Contém dados: nº de entrada, número do ofício, data do ofício, data da receção, qualidade, por quem expedida, assunto, destino dado à correspondência recebida, nº do ofício de resposta se o tem. Inicia com o registo nº 533 até ao registo nº 986. O ano 1948 tem 869 registos, o ano 1949 tem 926 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20233
+**LangMaterial**:: Português
+**PhysLoc**:: 589
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20233

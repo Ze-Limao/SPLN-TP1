@@ -1,0 +1,15 @@
+====== 25035 - UI - Peditório para a construção do novo quartel 1961 a 1967 ======
+
+**Parent**:: 20371
+**RootParent**:: 20342
+**UnitTitle**:: Peditório para a construção do novo quartel 1961 a 1967
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1961-06-19
+**UnitDateFinal**:: 1967
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25035
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 137
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25035

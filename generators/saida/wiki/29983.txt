@@ -1,0 +1,16 @@
+====== 29983 - DC - Carta ======
+
+**Parent**:: 21403
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-03-07
+**UnitDateFinal**:: 1909-03-07
+**ScopeContent**:: Carta manuscrita e assinada, de Braga. Papel timbrado do Instituto Missionário Português de S. Boaventura de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29983
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1371 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29983

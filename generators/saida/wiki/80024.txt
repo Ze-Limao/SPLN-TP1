@@ -1,0 +1,14 @@
+====== 80024 - UI - Processo nº 13 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 13
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-05-10
+**UnitDateFinal**:: 1969-10-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 37 - cx. 3
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80024

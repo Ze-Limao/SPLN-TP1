@@ -1,0 +1,18 @@
+====== 47996 - DC - Registo do recenseamento eleitoral de Francisco José Ferreira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco José Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Lavrador
+Estado - Casado
+Morada - Real
+Idade - 34
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47996
+**LangMaterial**:: Português
+**PhysLoc**:: 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47996

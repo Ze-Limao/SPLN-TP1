@@ -1,0 +1,13 @@
+====== 9117 - DC - Ofício nº 18 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 18
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-04-13
+**UnitDateFinal**:: 1886-04-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9117
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9117

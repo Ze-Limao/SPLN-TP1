@@ -1,0 +1,20 @@
+====== 61913 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Manuel Alves Rodrigues e Maria Rosa
+Naturalidade - Mogege
+Morada - 
+Data de nascimento - 1861-04-15
+Emprego - 
+Estado - 
+Observações - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61913

@@ -1,0 +1,18 @@
+====== 8668 - DC - Termo do exame de José de Sá Oliveira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José de Sá Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-19
+**UnitDateFinal**:: 1890-08-19
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Manuel Domingues de Sá e Matilde Ferreira de Oliveira
+Naturalidade - Ribeirão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8668
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8668

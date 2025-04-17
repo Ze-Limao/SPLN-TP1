@@ -1,0 +1,16 @@
+====== 31246 - DC - Registo do recenseamento eleitoral de José Joaquim da Costa Moreira ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Joaquim da Costa Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Mouquim
+Profissão - Lavrador
+Morada - Montalvão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31246
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31246

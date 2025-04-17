@@ -1,0 +1,16 @@
+====== 61260 - DC - Telegrama ======
+
+**Parent**:: 61224
+**RootParent**:: 60550
+**UnitTitle**:: Telegrama
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1935-09-10
+**UnitDateFinal**:: 1935-09-10
+**ScopeContent**:: Telegrama de Paredes de Coura para Famalicão. O remetente pede a mesada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 127 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61260

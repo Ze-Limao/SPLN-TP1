@@ -1,0 +1,19 @@
+====== 34274 - DC - Registo do recenseamento militar de Rodrigo Rodrigues ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Rodrigo Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Gondifelos
+Data de nascimento - 1852-03-25
+Filiação - Paulo José Rodrigues e Teresa Maria da Costa
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34274
+**LangMaterial**:: Português
+**PhysLoc**:: 85v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34274

@@ -1,0 +1,15 @@
+====== 65759 - DC - Renovação do prazo do casal da Quinta, situado na freguesia de S. Tiago de Outiz, feita por Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas, a Maria José Brandão Gaio de Brito e a seu marido João Borges Pacheco Pereira, moradores em Braga ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Renovação do prazo do casal da Quinta, situado na freguesia de S. Tiago de Outiz, feita por Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas, a Maria José Brandão Gaio de Brito e a seu marido João Borges Pacheco Pereira, moradores em Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1826-07-06
+**UnitDateFinal**:: 1827-04-04
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. No canto superior esquerdo "Lº 140, nº 38".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 242 - cx. 12
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65759

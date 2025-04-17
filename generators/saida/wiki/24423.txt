@@ -1,0 +1,16 @@
+====== 24423 - DC - Registo do recenseamento eleitoral de Joaquim Domingues Carneiro ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Domingues Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Morada - Pedra Ruivas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24423
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24423

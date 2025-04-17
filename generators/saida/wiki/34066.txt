@@ -1,0 +1,20 @@
+====== 34066 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Mogege
+Data de nascimento - 1852-11-23
+Filiação - Joaquim Gonçalves e Bernardina Rosa
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34066
+**LangMaterial**:: Português
+**PhysLoc**:: 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34066

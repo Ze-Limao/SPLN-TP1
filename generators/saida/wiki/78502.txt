@@ -1,0 +1,13 @@
+====== 78502 - F - A Boa Reguladora ======
+
+**Parent**:: 0
+**RootParent**:: 78502
+**UnitTitle**:: A Boa Reguladora
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 2007
+**ScopeContent**:: Em tratamento.
+**Repository**:: Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD78502
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78502

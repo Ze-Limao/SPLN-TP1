@@ -1,0 +1,15 @@
+====== 65778 - DC - Troca de duas bouças que pertencem por título de prazo do abade de S. Tiago de Antas de Manuel Ferreira e a sua mulher Maria Josefa, moradores na freguesia de S. Tiago de Antas com José Carvalho e sua mulher Mariana de Sousa ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Troca de duas bouças que pertencem por título de prazo do abade de S. Tiago de Antas de Manuel Ferreira e a sua mulher Maria Josefa, moradores na freguesia de S. Tiago de Antas com José Carvalho e sua mulher Mariana de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1830-04-28
+**UnitDateFinal**:: 1830-04-28
+**ScopeContent**:: Manuscrito, certidão. Folhas cosidas em papel timbrado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 249 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65778

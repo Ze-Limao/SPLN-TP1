@@ -1,0 +1,44 @@
+====== 31596 - UI - José Augusto Moreira de Almeida ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: José Augusto Moreira de Almeida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-05-21
+**UnitDateFinal**:: 1921-04-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31596
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31596
+
+===== Filhos =====
+  * [[31597.txt|31597 - DC - Carta]]
+  * [[31598.txt|31598 - DC - Carta]]
+  * [[31599.txt|31599 - DC - Carta]]
+  * [[31600.txt|31600 - DC - Minutas de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31601.txt|31601 - DC - Carta]]
+  * [[31602.txt|31602 - DC - Telegrama]]
+  * [[31603.txt|31603 - DC - Carta]]
+  * [[31604.txt|31604 - DC - Carta]]
+  * [[31605.txt|31605 - DC - Carta]]
+  * [[31606.txt|31606 - DC - Carta]]
+  * [[31607.txt|31607 - DC - Carta]]
+  * [[31608.txt|31608 - DC - Carta]]
+  * [[31609.txt|31609 - DC - Carta]]
+  * [[31610.txt|31610 - DC - Carta]]
+  * [[31611.txt|31611 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31612.txt|31612 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[78099.txt|78099 - DC - Carta]]
+  * [[78100.txt|78100 - DC - Carta]]
+  * [[78101.txt|78101 - DC - Carta]]
+  * [[78102.txt|78102 - DC - Carta]]
+  * [[78103.txt|78103 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[78104.txt|78104 - DC - Carta]]
+  * [[78105.txt|78105 - DC - Carta]]
+  * [[78107.txt|78107 - DC - Carta]]
+  * [[78108.txt|78108 - DC - Carta]]
+  * [[78110.txt|78110 - DC - Carta]]
+  * [[78111.txt|78111 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

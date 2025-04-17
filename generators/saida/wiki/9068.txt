@@ -1,0 +1,13 @@
+====== 9068 - DC - Ofício nº 7 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 7
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-02-01
+**UnitDateFinal**:: 1886-02-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9068
+**LangMaterial**:: Português
+**PhysLoc**:: f. 13
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9068

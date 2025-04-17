@@ -1,0 +1,17 @@
+====== 29335 - DC - [Receita passada pelo médico Abílio Torres] ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: [Receita passada pelo médico Abílio Torres]
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-05-28
+**UnitDateFinal**:: 1884-05-28
+**ScopeContent**:: Composição da receita: Vaselina branca, ácido bórico pulverizado. Local e data: Vizela, 28 de Maio de 1887. Papel timbrado “Consultório Abílio Torres / Médico pela Universidade e ex-Director Técnico do Estabelecimento Termal de Vizela”. Carimbos da Farmácia do Hospital da Misericórdia de Guimarães e do Farmacêutico Rodrigo Augusto Alves, com farmácia na Rua da Rainha 35-37, em Guimarães. A receita terá sido aviada no farmacêutico Rodrigo Augusto Alves, tendo servido mais tarde para fazer novas preparações na Farmácia do Hospital da Misericórdia, de acordo com a informação inscrita na mesma receita: «Repetia em 21/6/87; repetida em 1/7/87».
+Abílio Torres era amigo de Alberto Sampaio, tendo havido, entre ambos, troca de correspondência. Foi diretor técnico do Estabelecimento Termal de Vizela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29335
+**LangMaterial**:: Português
+**PhysLoc**:: AS 230 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29335

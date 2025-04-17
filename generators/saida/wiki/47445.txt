@@ -1,0 +1,18 @@
+====== 47445 - DC - Registo do recenseamento eleitoral de Custódio Gomes ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Custódio Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Lavrador
+Estado - Casado
+Morada - Ponte do Monte
+Idade - 65
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47445
+**LangMaterial**:: Português
+**PhysLoc**:: 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47445

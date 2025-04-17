@@ -1,0 +1,16 @@
+====== 52332 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9168
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-02-01
+**UnitDateFinal**:: 1868-04-04
+**ScopeContent**:: Data de nascimento - 1847-05-03
+Filiação - Manuel José Machado e Maria de Oliveira
+Naturalidade - Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52332
+**LangMaterial**:: Português
+**PhysLoc**:: 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52332

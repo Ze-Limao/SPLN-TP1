@@ -1,0 +1,16 @@
+====== 24854 - DC - Carta ======
+
+**Parent**:: 21077
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-05-28
+**UnitDateFinal**:: 1925-05-28
+**ScopeContent**:: Pede a JAM para o informar se as ruínas da casa de Seide continuam como estão ou se já se construiu a escola. Carta manuscrita assinada. Papel timbrado do Diário de Notícias - Direcção.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24854
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 287 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24854

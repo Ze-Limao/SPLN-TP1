@@ -1,0 +1,19 @@
+====== 34433 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Riba de Ave
+Data de nascimento - 1862-09-25
+Filiação - Mateus José da Silva Soares e Matilde Genoveva de Oliveira
+Profissão - Caixeiro
+Estado - Solteiro
+Morada - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34433
+**LangMaterial**:: Português
+**PhysLoc**:: 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34433

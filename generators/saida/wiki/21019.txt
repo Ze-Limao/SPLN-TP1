@@ -1,0 +1,15 @@
+====== 21019 - DC - Contrato de compra e venda ======
+
+**Parent**:: 7706
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de compra e venda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1947-11-04
+**UnitDateFinal**:: 1947-11-04
+**ScopeContent**:: Aquisição de terrenos para a abertura da Rua Vasconcelos e Castro
+Outorgantes - Maria Flora Ferreira da Costa de Mesquita Guimarães e Angelino Correia de Mesquita Guimarães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21019
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 18
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21019

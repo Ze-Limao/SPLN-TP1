@@ -1,0 +1,16 @@
+====== 23149 - DC - Carta ======
+
+**Parent**:: 21039
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-07
+**UnitDateFinal**:: 1923-07
+**ScopeContent**:: Alberto Pimentel dá notícia da morte da sua mulher Ludovina Adelaide (29 maio 1923) e do seu estado de espírito, pede para informar Sousa Fernandes (1849-1928) desta tragédia da sua vida. Carta manuscrita assinada, Lisboa Estrada da Luz, 57.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23149
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 38 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23149

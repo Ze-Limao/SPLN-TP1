@@ -1,0 +1,17 @@
+====== 56480 - DC - Participação do casamento dos Viscondes de Pindela ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Participação do casamento dos Viscondes de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889
+**UnitDateFinal**:: 1889-05-23
+**ScopeContent**:: Este documento está no maço "Amigas da Viscondessa de Pindela…", contém CP 8204 a CP 8240.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56480
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8204 - cx. 51
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56480

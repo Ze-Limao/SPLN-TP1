@@ -1,0 +1,14 @@
+====== 29036 - UI - José de Macedo Souto Maior ======
+
+**Parent**:: 28714
+**RootParent**:: 27963
+**UnitTitle**:: José de Macedo Souto Maior
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-03-08
+**UnitDateFinal**:: 1908-03-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29036
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29036
+
+===== Filhos =====
+  * [[29037.txt|29037 - DC - Carta]]

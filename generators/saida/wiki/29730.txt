@@ -1,0 +1,16 @@
+====== 29730 - DC - Carta ======
+
+**Parent**:: 21287
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-01-09
+**UnitDateFinal**:: 1891-01-09
+**ScopeContent**:: Carta manuscrita assinada, da Rua dos Capelistas 78, 2º Lisboa. O autor refere a planta do pomar que examinou e pretende construir em Castelões. Pede a JAM para ser apresentado a José Marques Loureiro (1830-1898) que era considerado o primeiro horticultor de Portugal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29730
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1139 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29730

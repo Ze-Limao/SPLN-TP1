@@ -1,0 +1,15 @@
+====== 60565 - UI - António Gonçalves Pereira ======
+
+**Parent**:: 31373
+**RootParent**:: 31258
+**UnitTitle**:: António Gonçalves Pereira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878-07-03
+**UnitDateFinal**:: 1878-07-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53090
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60565
+
+===== Filhos =====
+  * [[60566.txt|60566 - DC - Carta]]
+  * [[60567.txt|60567 - DC - Carta]]

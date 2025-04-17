@@ -1,0 +1,18 @@
+====== 50859 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-02-14
+Filiação - José Maria de Carvalho e Vicência Tinoco
+Naturalidade - Cruz
+Profissão - Criado de servir
+Residência - Cruz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50859
+**LangMaterial**:: Português
+**PhysLoc**:: 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50859

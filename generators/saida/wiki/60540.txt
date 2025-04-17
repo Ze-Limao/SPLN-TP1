@@ -1,0 +1,22 @@
+====== 60540 - F - Junta Escolar do Concelho de Vila Nova de Famalicão ======
+
+**Parent**:: 0
+**RootParent**:: 60540
+**UnitTitle**:: Junta Escolar do Concelho de Vila Nova de Famalicão
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1835
+**UnitDateFinal**:: 1884
+**ScopeContent**:: Fundo composto por:
+Secção A Serviços Administrativos
+Subsecção A Expediente
+Série Correspondência expedida (1 livro);
+Série Registos de escrituras (1 livro).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60540
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais. A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**UseRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60540
+
+===== Filhos =====
+  * [[60626.txt|60626 - SC - Serviços Administrativos]]

@@ -1,0 +1,15 @@
+====== 8064 - DC - Termo de José de Oliveira Martins e Ana Martins ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José de Oliveira Martins e Ana Martins
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-09-04
+**UnitDateFinal**:: 1878-09-04
+**ScopeContent**:: Vedação de terreno
+Local - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8064
+**LangMaterial**:: Português
+**PhysLoc**:: f. 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8064

@@ -1,0 +1,16 @@
+====== 31058 - DC - Registo do recenseamento eleitoral de José Bento Correia ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Bento Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Landim
+Profissão - Lavrador
+Morada - Passelada
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31058
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31058

@@ -1,0 +1,20 @@
+====== 20767 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-05-16
+**UnitDateFinal**:: 1890-05-16
+**ScopeContent**:: Freguesia - Ribeirão
+Filiação - Félix Gonçalves dos Santos e Rita Duarte dos Santos
+Naturalidade - Ribeirão
+Data de nascimento - 1869-01-13
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20767
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20767

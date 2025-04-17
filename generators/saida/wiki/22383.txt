@@ -1,0 +1,16 @@
+====== 22383 - DC - Registo do recenseamento eleitoral de Teodósio Francisco de Azevedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Teodósio Francisco de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Eclesiástico
+Morada - Monte de Fora
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22383
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22383

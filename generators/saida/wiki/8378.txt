@@ -1,0 +1,16 @@
+====== 8378 - UI - José Marques Pinheiro ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: José Marques Pinheiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-11-01
+**UnitDateFinal**:: 1895-11-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8378
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.35
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8378
+
+===== Filhos =====
+  * [[8379.txt|8379 - DC - Carta]]

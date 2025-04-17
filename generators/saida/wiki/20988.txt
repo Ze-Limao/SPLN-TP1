@@ -1,0 +1,15 @@
+====== 20988 - DC - Nº 1/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 1/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-02-06
+**UnitDateFinal**:: 1962-02-06
+**ScopeContent**:: Contrato de compra e venda de um terreno no lugar de Sistães, da freguesia de Brufe, para construção de um poço de vigia da mina de abastecimento de água
+Outorgantes - Manuel de Campos Ferreira e Arminda Gomes da Silva
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20988
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 34
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20988

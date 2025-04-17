@@ -1,0 +1,15 @@
+====== 20137 - UI - Registo da correspondência recebida ======
+
+**Parent**:: 20133
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1889-05-07
+**UnitDateFinal**:: 1891-02-25
+**ScopeContent**:: Não tem termo de abertura. Contém dados: nº ofício, data da expedição, data da receção, designação da autoridade por quem foi expedido, extracto do conteúdo, expediente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20137
+**LangMaterial**:: Português
+**PhysLoc**:: AC 3
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20137

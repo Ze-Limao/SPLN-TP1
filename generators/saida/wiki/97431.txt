@@ -1,0 +1,18 @@
+====== 97431 - UI - Bernardo Pinheiro Correia de Melo ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Bernardo Pinheiro Correia de Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1892
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55151
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97431
+
+===== Filhos =====
+  * [[97434.txt|97434 - DC - Telegrama]]
+  * [[97435.txt|97435 - DC - Telegrama]]
+  * [[97436.txt|97436 - DC - Telegrama]]
+  * [[97442.txt|97442 - DC - Telegrama]]

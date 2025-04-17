@@ -1,0 +1,17 @@
+====== 31612 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 31596
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912-04-07
+**UnitDateFinal**:: 1912-04-07
+**ScopeContent**:: Carta manuscrita assinada. A carta está dentro do envelope "1912 correspondência com o Moreira de Almeida".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31612
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8186 - cx. 51
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31612

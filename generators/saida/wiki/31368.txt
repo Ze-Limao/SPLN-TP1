@@ -1,0 +1,16 @@
+====== 31368 - SC - Fernando de Sousa Botelho Mourão e Vasconcelos e Júlia Adelaide Braamcamp de Almeida Castelo-Branco ======
+
+**Parent**:: 31367
+**RootParent**:: 31258
+**UnitTitle**:: Fernando de Sousa Botelho Mourão e Vasconcelos e Júlia Adelaide Braamcamp de Almeida Castelo-Branco
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1843
+**UnitDateFinal**:: 1888
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31368
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31368
+
+===== Filhos =====
+  * [[31369.txt|31369 - SSC - Fernando de Sousa Botelho Mourão e Vasconcelos]]
+  * [[31372.txt|31372 - SSC - Júlia Adelaide Braamcamp de Almeida Castelo-Branco]]
+  * [[31374.txt|31374 - SSC - Mariana de Sousa Botelho Mourão e Vasconcelos]]

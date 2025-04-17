@@ -1,0 +1,16 @@
+====== 21779 - DC - Registo do recenseamento eleitoral de Francisco de Sousa Monteiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco de Sousa Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Bairro
+Profissão - Negociante
+Morada - Pombal
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21779
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21779

@@ -1,0 +1,16 @@
+====== 29852 - DC - Tojo arnal ======
+
+**Parent**:: 28388
+**RootParent**:: 27963
+**UnitTitle**:: Tojo arnal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Especificações botânicas de diversas variedades de tojo (arnal, molar e gadanho), uma planta arbustiva e espinhosa, abundante na floresta portuguesa. A letra não é de Alberto Sampaio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29852
+**LangMaterial**:: Português
+**PhysLoc**:: AS 58 (9) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29852

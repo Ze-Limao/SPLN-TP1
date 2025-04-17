@@ -1,0 +1,22 @@
+====== 55647 - DC - Fotografia de António Luís Machado Guimarães, Barão de Joane ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Fotografia de António Luís Machado Guimarães, Barão de Joane
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-10-02
+**UnitDateFinal**:: 1909-11-24
+**ScopeContent**:: Fotografia a preto e branco de António Luís Machado Guimarães, em Famalicão, no verso com dedicatória de Bernardino Machado ao 2º Visconde de Pindela.
+António Luís Machado Guimarães (Rio de Janeiro, Candelária, 18 de Janeiro de 1847 - Vila Nova de Famalicão, Calendário, Casa do Rodrigo, 1 de Outubro de 1909). Meio-irmão de Bernardino Machado.
+Foi Presidente da Câmara Municipal de Vila Nova de Famalicão, o qual surge identificado como Barão de Joane nas listas dos presidentes da Câmara Municipal de Vila Nova de Famalicão. Representante do Título de Barão de Joane, casado com Balbina Gracinda Simões Machado.
+
+Bernardino Luís Machado Guimarães (Rio de Janeiro, 28 de Março de 1851 — Vila Nova de Famalicão, 29 de Abril de 1944). Filho do mesmo pai  de António, do 2º casamento. Representante do Título de Barão de Joane, Grão-Mestre do Grande Oriente Lusitano, Presidente do Ministério e Presidente da República Portuguesa.
+Fonte: Wikipédia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55647
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12789 - cx. 78
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55647

@@ -1,0 +1,19 @@
+====== 34459 - DC - Registo do recenseamento militar de Jerónimo ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Jerónimo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Oliveira Santa Maria
+Data de nascimento - 1862-03-22
+Filiação - Manuel Lopes de Araújo e Catarina Maria Alves
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34459
+**LangMaterial**:: Português
+**PhysLoc**:: 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34459

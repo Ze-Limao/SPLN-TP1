@@ -1,0 +1,16 @@
+====== 78893 - DC - Ficha de subsídio de Balbina Araújo para Assistência aos Tuberculosos Pobres da Real Associação H. de Bombeiros Voluntários de V.N. de Famalicão ======
+
+**Parent**:: 25079
+**RootParent**:: 20342
+**UnitTitle**:: Ficha de subsídio de Balbina Araújo para Assistência aos Tuberculosos Pobres da Real Associação H. de Bombeiros Voluntários de V.N. de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-03-31
+**UnitDateFinal**:: 1907-03-31
+**ScopeContent**:: Impresso de Assistência aos Tuberculosos Pobres, da Real Associação H. de Bombeiros Voluntários de V.N. de Famalicão. Manuscrito o subsídio nº29 e quantias atribuídas a Balbina Araújo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25460
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 177 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78893

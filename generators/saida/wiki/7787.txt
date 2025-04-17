@@ -1,0 +1,14 @@
+====== 7787 - SR - Livros de Registo de Presenças nas Sessões do Conselho Municipal ======
+
+**Parent**:: 7783
+**RootParent**:: 7651
+**UnitTitle**:: Livros de Registo de Presenças nas Sessões do Conselho Municipal
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1952-09-13
+**UnitDateFinal**:: 1959-09-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7787
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7787
+
+===== Filhos =====
+  * [[7788.txt|7788 - UI - Livro de Registo de Presenças nas Sessões do Conselho Municipal]]

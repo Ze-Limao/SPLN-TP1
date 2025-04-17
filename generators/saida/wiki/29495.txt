@@ -1,0 +1,16 @@
+====== 29495 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-05-07
+**UnitDateFinal**:: 1879-05-07
+**ScopeContent**:: Carta expedida do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29495
+**LangMaterial**:: Português
+**PhysLoc**:: AS 736 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29495

@@ -1,0 +1,15 @@
+====== 66166 - DC - Carta de sentença apostólica de Bula de confirmação da Igreja de S. Tiago de Antas a favor do Reverendo Luís de Moura e Mendonça ======
+
+**Parent**:: 63976
+**RootParent**:: 60536
+**UnitTitle**:: Carta de sentença apostólica de Bula de confirmação da Igreja de S. Tiago de Antas a favor do Reverendo Luís de Moura e Mendonça
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1795-09-29
+**UnitDateFinal**:: 1795-09-29
+**ScopeContent**:: Manuscrito, original, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 324 -  cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66166

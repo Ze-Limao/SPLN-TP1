@@ -1,0 +1,27 @@
+====== 21155 - UI - João Gomes de Abreu ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Gomes de Abreu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1872-07-17
+**UnitDateFinal**:: 1928-08-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21155
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21155
+
+===== Filhos =====
+  * [[25583.txt|25583 - DC - Carta]]
+  * [[25584.txt|25584 - DC - Carta]]
+  * [[25585.txt|25585 - DC - Carta]]
+  * [[25586.txt|25586 - DC - Carta]]
+  * [[25587.txt|25587 - DC - Carta]]
+  * [[25588.txt|25588 - DC - Carta]]
+  * [[25589.txt|25589 - DC - Carta]]
+  * [[25590.txt|25590 - DC - Carta]]
+  * [[25591.txt|25591 - DC - Carta]]
+  * [[25592.txt|25592 - DC - Carta]]
+  * [[25593.txt|25593 - DC - Cartão]]

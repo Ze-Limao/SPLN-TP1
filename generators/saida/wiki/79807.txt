@@ -1,0 +1,23 @@
+====== 79807 - SR - Vila Nova - Comunicação e Publicidade Lda. ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Vila Nova - Comunicação e Publicidade Lda.
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1990
+**UnitDateFinal**:: 2000
+**ScopeContent**:: Apoio da Câmara Municipal  de V.N. de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9756
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79807
+
+===== Filhos =====
+  * [[79808.txt|79808 - DC - Igreja do Mosteiro de Oliveira Santa Maria]]
+  * [[79809.txt|79809 - DC - Igreja do Mosteiro de Arnoso Santa Eulália]]
+  * [[79810.txt|79810 - DC - Pormenores da Igreja do Mosteiro de Arnoso Santa Eulália]]
+  * [[79811.txt|79811 - DC - Frontaria do Mosteiro de Landim]]
+  * [[79812.txt|79812 - DC - Vista geral do Mosteiro de Landim]]
+  * [[79813.txt|79813 - DC - Pormenores da Igreja do Mosteiro de Landim]]
+  * [[79814.txt|79814 - DC - Pormenores da Igreja Românica de Antas]]
+  * [[79815.txt|79815 - DC - Igreja Românica de S. Tiago de Antas]]

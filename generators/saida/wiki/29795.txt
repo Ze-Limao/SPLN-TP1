@@ -1,0 +1,16 @@
+====== 29795 - DC - Carta ======
+
+**Parent**:: 21319
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-10-12
+**UnitDateFinal**:: 1921-10-12
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. O autor refere uma carta recebida de JAM, datada de 1 outubro de 1921 que está no Arquivo António Lino Neto, no Centro de Estudos de História Religiosa da Universidade Católica Portuguesa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29795
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1204 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29795

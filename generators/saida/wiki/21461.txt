@@ -1,0 +1,20 @@
+====== 21461 - UI - José Duarte dos Santos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Duarte dos Santos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-12-29
+**UnitDateFinal**:: 1918-01-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21461
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1466, 1467, 1468, 1469, 1470
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21461
+
+===== Filhos =====
+  * [[30307.txt|30307 - DC - Carta]]
+  * [[30308.txt|30308 - DC - Carta]]
+  * [[30309.txt|30309 - DC - Carta]]
+  * [[30310.txt|30310 - DC - Carta]]
+  * [[30311.txt|30311 - DC - Carta]]

@@ -1,0 +1,19 @@
+====== 9535 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Francisco José Ferreira e Maria de Oliveira
+Naturalidade - Brufe
+Data de nascimento - 1877-04-11
+Profissão - Estudante
+Estado civil - Solteiro
+Residência - Brufe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9535
+**LangMaterial**:: Português
+**PhysLoc**:: f. 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9535

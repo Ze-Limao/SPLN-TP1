@@ -1,0 +1,15 @@
+====== 66550 - DC - Pedido para licença gratuita de dispensa de pedido de matrimónio de José Inácio de Lima com Rita, por serem pobres ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido para licença gratuita de dispensa de pedido de matrimónio de José Inácio de Lima com Rita, por serem pobres
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-05-27
+**UnitDateFinal**:: 1867-05-28
+**ScopeContent**:: Manuscrito, original, com deferimento selado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 570 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66550

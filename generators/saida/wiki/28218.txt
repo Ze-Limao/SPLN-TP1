@@ -1,0 +1,16 @@
+====== 28218 - DC - Catálogo de F. Valentin ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Catálogo de F. Valentin
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1900-02
+**ScopeContent**:: F. Valentin / Ingenieur-Constructeur, Ancienne Maison L. Taillard. Ateliers de Construction de Machines pour les vins mousseux. Impresso Lith Bonnedame. Equipamentos diversos para engarrafamento. Artigos utilizados nas garrafas: cápsulas, “gaiolas” de arame, etc. Anotação a tinta na capa e notas manuscritas em algumas das páginas. No canto superior direito da capa Alberto Sampaio anotou: «Recebi em Fev.º 1900».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28218
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 490 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28218

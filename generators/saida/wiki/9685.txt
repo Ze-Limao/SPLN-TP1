@@ -1,0 +1,13 @@
+====== 9685 - DC - Ofício nº 40 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 40
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-05-30
+**UnitDateFinal**:: 1887-05-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9685
+**LangMaterial**:: Português
+**PhysLoc**:: f. 34
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9685

@@ -1,0 +1,21 @@
+====== 29457 - SSSC - Companhia dos Banhos de Vizela ======
+
+**Parent**:: 28068
+**RootParent**:: 27963
+**UnitTitle**:: Companhia dos Banhos de Vizela
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1882-12-07
+**UnitDateFinal**:: 1889-06-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29457
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29457
+
+===== Filhos =====
+  * [[28071.txt|28071 - DC - Proposta]]
+  * [[28072.txt|28072 - DC - Proposta]]
+  * [[28073.txt|28073 - DC - Proposta]]
+  * [[28074.txt|28074 - DC - Ofício do diretor da Companhia dos Banhos de Vizela dirigido a Alberto Sampaio.]]
+  * [[28075.txt|28075 - DC - Ofício para consulta aos acionistas da Companhia dos Banhos de Vizela.]]
+  * [[28076.txt|28076 - DC - Convocatória de acionistas, apresentação de propostas e parecer do Conselho Fiscal.]]

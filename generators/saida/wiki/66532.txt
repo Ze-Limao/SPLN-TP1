@@ -1,0 +1,15 @@
+====== 66532 - DC - Pedido de licença de matrimónio de Henrique da Silva Rebelo, da freguesia de Requião, com Henriqueta Correia de Sá, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de matrimónio de Henrique da Silva Rebelo, da freguesia de Requião, com Henriqueta Correia de Sá, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-06-13
+**UnitDateFinal**:: 1893-06-13
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”. Licença concedida pelo desembargador Drº Domingos Maria Guimarães da Relação Eclesiástica e juiz dos matrimónios na corte do Arcebispado de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 553 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66532

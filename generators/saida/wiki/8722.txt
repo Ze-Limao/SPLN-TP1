@@ -1,0 +1,18 @@
+====== 8722 - DC - Termo do exame de João Martins do Vale ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de João Martins do Vale
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-13
+**UnitDateFinal**:: 1891-07-13
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Joaquim Martins do Vale
+Naturalidade - S. Domingos, Viana do Castelo
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8722
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8722

@@ -1,0 +1,19 @@
+====== 34454 - DC - Registo do recenseamento militar de Rodrigo ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Rodrigo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Delães
+Data de nascimento - 1862-02-10
+Filiação - Domingos de Araújo e Maria da Silva Pinto Carneiro
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Delães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34454
+**LangMaterial**:: Português
+**PhysLoc**:: 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34454

@@ -1,0 +1,19 @@
+====== 9240 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Manuel José Gomes Rodrigues e Maria Joaquina Martins
+Naturalidade - Arnoso Santa Maria
+Data de nascimento - 1877-02-12
+Profissão - Criado de servir
+Estado civil - Solteiro
+Residência - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9240
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9240

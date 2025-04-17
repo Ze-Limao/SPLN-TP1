@@ -1,0 +1,15 @@
+====== 64153 - DC - Sentença cível e autos do processo movido pelo Dr. Pero Jorge da Silva, abade da igreja de S. Tiago de Antas, contra Melchior Afonso, Gaspar Afonso e Sebastião Álvares, moradores em Gavião, a propósito da água do Cortinhal. ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível e autos do processo movido pelo Dr. Pero Jorge da Silva, abade da igreja de S. Tiago de Antas, contra Melchior Afonso, Gaspar Afonso e Sebastião Álvares, moradores em Gavião, a propósito da água do Cortinhal.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1548-06-30
+**UnitDateFinal**:: 1548-06-30
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas. A água do Cortinhal é serventia do casal de Mões normalmente utilizada, um dia para os terrenos do casal, outro dia para os campos dos réus, que são acusados por força e armas, privarem o casal dessas águas, impedindo-as de circular.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 43 - cx. 1
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64153

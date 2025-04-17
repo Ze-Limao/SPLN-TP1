@@ -1,0 +1,17 @@
+====== 25836 - DC - Ofício da Associação Humanitária dos Bombeiros à Companhia Agrícola e Comercial dos Vinhos do Porto Ferreirinha ======
+
+**Parent**:: 24765
+**RootParent**:: 20342
+**UnitTitle**:: Ofício da Associação Humanitária dos Bombeiros à Companhia Agrícola e Comercial dos Vinhos do Porto Ferreirinha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1973-10-23
+**UnitDateFinal**:: 1973-10-23
+**ScopeContent**:: Transcrição:
+«Tendo esta Associação Humanitária necessitado de adquirir 12 garrafas de vinho do Porto de tão afamada marca Ferreirinha, a fim de poder mitigar um pouco o frio aos seus voluntários quando durante o inverno que se avizinha chegam do serviço de fogos ou sinistros, pedimos a V. Ex.as o favor de no-las fornecerem pelo melhor preço...»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25836
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 24 - cx. 6
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25836

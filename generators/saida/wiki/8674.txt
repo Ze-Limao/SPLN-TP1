@@ -1,0 +1,14 @@
+====== 8674 - SR - Copiadores da Correspondência Expedida ======
+
+**Parent**:: 7725
+**RootParent**:: 7651
+**UnitTitle**:: Copiadores da Correspondência Expedida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1837-04-22
+**UnitDateFinal**:: 1838-04-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8674
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8674
+
+===== Filhos =====
+  * [[8675.txt|8675 - UI - Copiador da Correspondência Expedida]]

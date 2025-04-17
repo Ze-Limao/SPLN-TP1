@@ -1,0 +1,16 @@
+====== 29214 - DC - Corn - Soak un warm water ======
+
+**Parent**:: 29178
+**RootParent**:: 27963
+**UnitTitle**:: Corn - Soak un warm water
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-04
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Notas respeitantes a cereais, transcritas a partir do periódico «American Agriculturist».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29214
+**LangMaterial**:: Português
+**PhysLoc**:: AS 330 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29214

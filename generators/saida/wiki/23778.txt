@@ -1,0 +1,16 @@
+====== 23778 - DC - Registo do recenseamento eleitoral de Joaquim de Sousa Reis ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim de Sousa Reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Ferrador
+Morada - Feira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23778
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 85v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23778

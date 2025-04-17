@@ -1,0 +1,16 @@
+====== 25333 - DC - Elementos compilados dos Livros de Actas das Reuniões Gerais existentes na Ass. dos Bombeiros V. de Famalicão lidos e apontados por Hilário Carvalho ======
+
+**Parent**:: 25019
+**RootParent**:: 20342
+**UnitTitle**:: Elementos compilados dos Livros de Actas das Reuniões Gerais existentes na Ass. dos Bombeiros V. de Famalicão lidos e apontados por Hilário Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958
+**UnitDateFinal**:: 1958
+**ScopeContent**:: Cópia de atas a partir de abril de 1890. A intenção de Hilário Carvalho era de publicar um livro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25333
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 122 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25333

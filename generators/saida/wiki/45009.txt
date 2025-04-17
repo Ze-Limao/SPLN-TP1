@@ -1,0 +1,19 @@
+====== 45009 - UI - António de Macedo Chaves ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António de Macedo Chaves
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1874-11-02
+**UnitDateFinal**:: 1920-01-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45009
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45009
+
+===== Filhos =====
+  * [[45010.txt|45010 - DC - Carta]]
+  * [[45011.txt|45011 - DC - Telegrama]]

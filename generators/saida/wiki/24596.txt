@@ -1,0 +1,16 @@
+====== 24596 - DC - Registo do recenseamento eleitoral de José de Freitas Costa ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José de Freitas Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Joane
+Profissão - Reiot
+Morada - Residência
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24596
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24596

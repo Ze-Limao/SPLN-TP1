@@ -1,0 +1,17 @@
+====== 78238 - DC - Tombo do Casal do Pego, do Casal do Muro, Montalvão e Pousada ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Tombo do Casal do Pego, do Casal do Muro, Montalvão e Pousada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1782
+**UnitDateFinal**:: 1837
+**ScopeContent**:: Manuscrito sem datação. Lista de terras dos foreiros do Pego posse de Luís de Macedo, terras de António Gonçalves de Pego, terras de Muro de Francisco Araújo e Manuel da Costa, Montalvão de Luís Fernandes, terras de foral de Francisco Gonçalves, terras de Gandra, terras do casal de Pousada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4598 - cx. 33
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78238

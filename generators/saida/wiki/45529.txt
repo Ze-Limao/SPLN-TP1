@@ -1,0 +1,37 @@
+====== 45529 - UI - António Feijó ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Feijó
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-12-26
+**UnitDateFinal**:: 1916-09-30
+**ScopeContent**:: 16 documentos relativos a correspondência enviada (minutas de cartas) e 3 documentos de correspondência recebida.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45529
+**LangMaterial**:: Português
+**PhysLoc**:: CP 404, 405, 406, 407, 408, 409, 410, 411, 412, 1115, 413, 414, 415, 3092, 416, 417, 418, 300, 419
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45529
+
+===== Filhos =====
+  * [[45530.txt|45530 - DC - Bilhete-postal de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45532.txt|45532 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45533.txt|45533 - DC - Bilhete-postal de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45534.txt|45534 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45535.txt|45535 - DC - Bilhete-postal de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45536.txt|45536 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45537.txt|45537 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45538.txt|45538 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45539.txt|45539 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45540.txt|45540 - DC - Carta]]
+  * [[45541.txt|45541 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45542.txt|45542 - DC - Postal de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45543.txt|45543 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45544.txt|45544 - DC - Carta]]
+  * [[45545.txt|45545 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45546.txt|45546 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45547.txt|45547 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45548.txt|45548 - DC - Carta]]
+  * [[45549.txt|45549 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

@@ -1,0 +1,16 @@
+====== 29772 - DC - Carta ======
+
+**Parent**:: 21301
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-01-11
+**UnitDateFinal**:: 1906-01-11
+**ScopeContent**:: Carta manuscrita assinada, de Braga. Solicita que se aceite a vontade de Rodrigues de Carvalho para candidato à presidência da Câmara de Famalicão, em 1906, o 2º Barão de Joane, António Luís Machado Guimarães, a bem do futuro dos nacionalistas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29772
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1181 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29772

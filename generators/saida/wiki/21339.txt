@@ -1,0 +1,16 @@
+====== 21339 - UI - António Valença ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Valença
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1922-05-08
+**UnitDateFinal**:: 1922-05-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21339
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1236
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21339
+
+===== Filhos =====
+  * [[29827.txt|29827 - DC - Carta]]

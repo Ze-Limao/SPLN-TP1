@@ -1,0 +1,17 @@
+====== 29349 - DC - Postal ilustrado Antero de Quental ======
+
+**Parent**:: 29153
+**RootParent**:: 27963
+**UnitTitle**:: Postal ilustrado Antero de Quental
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Postal com a fotografia de Antero de Quental e versos do poema “Zara” em inglês, italiano, alemão e francês, traduzidas respetivamente por F. W. Driver, Clelia Bertini-Attili, Wilhelm Storck e Maxime Formon. Na parte superior do postal, num formato de letra superior ao dos versos, está escrito “Anthero do Quental Great Portuguese poet of universal fame”. Por baixo da fotografia de Antero, a referência, em inglês, aos locais e datas de nascimento e morte. Edição Papelaria Travassos.
+Postal oferecido a Alberto Sampaio por Henrique das Neves.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29349
+**LangMaterial**:: Português
+**PhysLoc**:: AS 242 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29349

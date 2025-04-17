@@ -1,0 +1,16 @@
+====== 21920 - DC - Registo do recenseamento eleitoral de Joaquim da Costa Faria ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim da Costa Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Calendário
+Profissão - Pedreiro
+Morada - Cal
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21920
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21920

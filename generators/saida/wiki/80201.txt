@@ -1,0 +1,15 @@
+====== 80201 - UI - Processo nº 18-A ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 18-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-09-15
+**UnitDateFinal**:: 1982-00-10
+**ScopeContent**:: Junto com Autos de Processo Sumário nº 18.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 98 - cx. 6
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80201

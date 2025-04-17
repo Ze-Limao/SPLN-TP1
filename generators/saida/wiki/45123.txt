@@ -1,0 +1,22 @@
+====== 45123 - UI - Ana José Guedes da Costa ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Ana José Guedes da Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1921-03-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45123
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45123
+
+===== Filhos =====
+  * [[45124.txt|45124 - DC - Carta]]
+  * [[45125.txt|45125 - DC - Carta]]
+  * [[45126.txt|45126 - DC - Carta]]
+  * [[63943.txt|63943 - DC - Carta]]
+  * [[63944.txt|63944 - DC - Carta]]

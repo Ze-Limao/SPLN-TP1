@@ -1,0 +1,18 @@
+====== 8870 - DC - Termo do exame de Albertina Varela dos Santos ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Albertina Varela dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-07
+**UnitDateFinal**:: 1893-08-07
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - José Vaz Varela
+Naturalidade - Vila Nova de Famalicão
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8870
+**LangMaterial**:: Português
+**PhysLoc**:: f. 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8870

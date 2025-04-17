@@ -1,0 +1,16 @@
+====== 23850 - DC - Registo do recenseamento eleitoral de Paulino Manuel José de Faria ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Paulino Manuel José de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Padeiro
+Morada - Laranjeiras
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23850
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 88v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23850

@@ -1,0 +1,15 @@
+====== 28070 - DC - Declaração apresentada por Alberto Sampaio à Fazenda Pública ======
+
+**Parent**:: 28069
+**RootParent**:: 27963
+**UnitTitle**:: Declaração apresentada por Alberto Sampaio à Fazenda Pública
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-03-20
+**UnitDateFinal**:: 1878-03-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28070
+**LangMaterial**:: Português
+**PhysLoc**:: AS 162- cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28070

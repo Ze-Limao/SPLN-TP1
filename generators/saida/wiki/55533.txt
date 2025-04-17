@@ -1,0 +1,34 @@
+====== 55533 - DC - Endereços d´antiquarios=11 ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Endereços d´antiquarios=11
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Envelope com título manuscrito. Contém cartões de visita de antiquários de Berlim e notas manuscritas, CP 8760 a CP 8774.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55533
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8759 - cx. 54
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55533
+
+===== Filhos =====
+  * [[55534.txt|55534 - DC - Cartão de visita A. Dennewitz]]
+  * [[55535.txt|55535 - DC - Cartão de visita de Gérard van Aaken]]
+  * [[55536.txt|55536 - DC - Cartão de visita dM. Ksinski]]
+  * [[55537.txt|55537 - DC - Cartão de visita de Actien Gesellschaft]]
+  * [[55538.txt|55538 - DC - Cartão de visita de Herzog & Schnersenz]]
+  * [[55539.txt|55539 - DC - Cartão de visita de Jacques A. van Dam]]
+  * [[55540.txt|55540 - DC - Cartão de visita de Antiquitaten Ausstellung Max Wollmann]]
+  * [[55541.txt|55541 - DC - Cartão de visita de Franz Brandenburg]]
+  * [[55542.txt|55542 - DC - Cartão de visita de R. Bernstein]]
+  * [[55543.txt|55543 - DC - Cartão de visita de Adolph Froschels]]
+  * [[55544.txt|55544 - DC - Cartão de visita de Alt-Deutschland]]
+  * [[55545.txt|55545 - DC - Cartão de visita de Ferd. Ewest]]
+  * [[55546.txt|55546 - DC - Cartão de visita de Max Heilbronner]]
+  * [[55547.txt|55547 - DC - Notas sobre antiquários]]
+  * [[55548.txt|55548 - DC - Notas sobre antiquários]]

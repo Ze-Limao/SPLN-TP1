@@ -1,0 +1,16 @@
+====== 22607 - DC - Cartão ======
+
+**Parent**:: 21361
+**RootParent**:: 20290
+**UnitTitle**:: Cartão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-08-02
+**UnitDateFinal**:: 1918-08-02
+**ScopeContent**:: António Maria Vasco de Melo César e Meneses refere que ficou desvanecido ao saber que figurará entre os que a Comissão escolherá. (Poemetos, de 1882, consta no livro “Camilo Homenageado” - na lista do catálogo da livraria de Camilo Castelo Branco.) Cartão manuscrito assinado, de S. Amaro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22607
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1295 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22607

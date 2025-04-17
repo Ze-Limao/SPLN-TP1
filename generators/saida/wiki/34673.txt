@@ -1,0 +1,19 @@
+====== 34673 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Avidos
+Data de nascimento - 1862-03-07
+Filiação - Francisco António Guimarães e Maria Joaquina
+Profissão - Sapateiro
+Estado - Solteiro
+Morada - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34673
+**LangMaterial**:: Português
+**PhysLoc**:: 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34673

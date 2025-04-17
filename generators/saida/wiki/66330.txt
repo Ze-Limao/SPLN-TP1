@@ -1,0 +1,15 @@
+====== 66330 - DC - Sentença cível do beneficiário Reverendo Padre Damião de Araújo, da freguesia de S. Tiago de Antas, contra Francisco e sua mulher da aldeia de Barziela da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível do beneficiário Reverendo Padre Damião de Araújo, da freguesia de S. Tiago de Antas, contra Francisco e sua mulher da aldeia de Barziela da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1734-02-08
+**UnitDateFinal**:: 1734-02-08
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 453 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66330

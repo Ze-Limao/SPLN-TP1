@@ -1,0 +1,17 @@
+====== 56214 - DC - Carta de Vicente Miguel de Paula Pinheiro de Melo para Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 56210
+**RootParent**:: 31258
+**UnitTitle**:: Carta de Vicente Miguel de Paula Pinheiro de Melo para Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911
+**UnitDateFinal**:: 1914
+**ScopeContent**:: Carta do sobrinho do 2º Visconde de Pindela. Este documento pertence ao envelope CP 13635, juntamente com CP 13636 a 13643. Esta carta pertence ao envelope CP 13638.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56214
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13639 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56214

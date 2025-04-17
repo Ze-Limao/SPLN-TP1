@@ -1,0 +1,24 @@
+====== 20096 - UI - Registo de correspondência expedida pela 2ª repartição ======
+
+**Parent**:: 20095
+**RootParent**:: 20048
+**UnitTitle**:: Registo de correspondência expedida pela 2ª repartição
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-03-06
+**UnitDateFinal**:: 1920-02-09
+**ScopeContent**:: Termo de abertura: “Há-de servir este livro para copiar toda a correspondência expedida pela segunda repartição…”.
+O conteúdo da correspondência está resumido.
+Contém: 
+Cópia do ofício do Serviço da República-Secretaria da Guerra – 1ª Direcção Geral dirigido ao Senhor Comandante da 8ª Divisão do Exército de Braga, 1919-04-01, 1 f.; papel.
+Telegrama do Comandante dirigido à Administração do Concelho, 1919-01-23, 1 f. ; papel.
+Circular da Administração do Concelho dirigidos aos abades das freguesias, 1919-02-03, 1 f. impressa; papel
+Circular do Administrador do Concelho de Vila Nova de Famalicão dirigida aos Regedores do concelho, 1919-02-06, 1 f. impressa; papel.
+Circular do Administrador do Concelho de Vila Nova de Famalicão dirigida aos Párocos da freguesia do concelho, 1919-02-19, 1 f. impressa; papel.
+Cópia do ofício do Administrador do Concelho de Vila Nova de Famalicão ao Comandante do Batalhão de Infantaria nº 17 Moura, 1919-07-03, 1 f.; papel.
+Ofício do Comandante do Regimento de Infantaria nº 8 1º Batalhão dirigido ao Administrador do Concelho de Vila Nova de Famalicão, 1919-11-08, 1 f.; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20096
+**LangMaterial**:: Português
+**PhysLoc**:: AC 5
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20096

@@ -1,0 +1,17 @@
+====== 8407 - UI - Francisco Maria de Oliveira e Silva ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Francisco Maria de Oliveira e Silva
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1895
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8407
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.48
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8407
+
+===== Filhos =====
+  * [[8408.txt|8408 - DC - Carta]]
+  * [[8409.txt|8409 - DC - Carta]]

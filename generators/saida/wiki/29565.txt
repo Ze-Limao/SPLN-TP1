@@ -1,0 +1,16 @@
+====== 29565 - DC - Cartão de visita ======
+
+**Parent**:: 29047
+**RootParent**:: 27963
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1906
+**ScopeContent**:: Cartão "DR. J. leite de Vasconcelos, Director do Museu Ethnologico Português. Bibliotheca Nacional, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29565
+**LangMaterial**:: Português
+**PhysLoc**:: AS 672 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29565

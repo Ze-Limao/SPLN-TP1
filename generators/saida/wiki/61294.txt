@@ -1,0 +1,16 @@
+====== 61294 - DC - Bilhete-postal ======
+
+**Parent**:: 61224
+**RootParent**:: 60550
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1935-09-04
+**UnitDateFinal**:: 1935-09-05
+**ScopeContent**:: Bilhete-postal de S. Cosme para Famalicão, carimbado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 34 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61294

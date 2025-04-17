@@ -1,0 +1,17 @@
+====== 54175 - DC - Edifício Tribunal Judicial: Candeeiros. Câmara Municipal de Famalicão. Concurso para o fornecimento de assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze para o novo edifício do Tribunal Judicial. Câmara Municipal de Vila Nova de Famalicão ======
+
+**Parent**:: 54071
+**RootParent**:: 25851
+**UnitTitle**:: Edifício Tribunal Judicial: Candeeiros. Câmara Municipal de Famalicão. Concurso para o fornecimento de assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze para o novo edifício do Tribunal Judicial. Câmara Municipal de Vila Nova de Famalicão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961
+**UnitDateFinal**:: 1961-03
+**ScopeContent**:: Contém Programa de concurso, caderno de encargos assinados por Januário Godinho, 2 cópias de desenhos Tipo B e D, C, escadaria nobre e salão nobre da Câmara.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54175
+**LangMaterial**:: Português
+**PhysLoc**:: JG 198 - cx. 15
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54175

@@ -1,0 +1,15 @@
+====== 60710 - DC - Emprazamento do casal de Sequeiros, situado na freguesia de S. Cristovão de Cabeçudos, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas e João Álvares e Álvaro Dias, raçoeiros da dita Igreja, a Gonçalo Pires e a sua mulher Maria Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Sequeiros, situado na freguesia de S. Cristovão de Cabeçudos, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas e João Álvares e Álvaro Dias, raçoeiros da dita Igreja, a Gonçalo Pires e a sua mulher Maria Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1498-02-02
+**UnitDateFinal**:: 1498-02-02
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 11 - cx. P27
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60710

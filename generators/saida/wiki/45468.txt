@@ -1,0 +1,18 @@
+====== 45468 - DC - Registo do recenseamento eleitoral de Domingos Dias ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Lavrador
+Estado - Casado
+Morada - Lordelo
+Idade - 33
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45468
+**LangMaterial**:: Português
+**PhysLoc**:: 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45468

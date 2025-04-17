@@ -1,0 +1,18 @@
+====== 51077 - DC - Registo do recenseamento militar de Tomás ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Tomás
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-08-21
+Filiação - José da Costa Oliveira e Bernarda Rosa
+Naturalidade - Calendário
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51077
+**LangMaterial**:: Português
+**PhysLoc**:: 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51077

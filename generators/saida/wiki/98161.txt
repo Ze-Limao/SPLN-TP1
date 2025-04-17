@@ -1,0 +1,17 @@
+====== 98161 - DC - Certidão da Comissão Municipal do concelho de Vila Nova de Famalicão em como tem posse de um livro com os bens do concelho em que está o Tombo e o atombamento de um terreno baldio inculto que requereu João Machado de Melo ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Certidão da Comissão Municipal do concelho de Vila Nova de Famalicão em como tem posse de um livro com os bens do concelho em que está o Tombo e o atombamento de um terreno baldio inculto que requereu João Machado de Melo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1835-01-06
+**UnitDateFinal**:: 1835-01-07
+**ScopeContent**:: Manuscrito com folhas cosidas em papel timbrado "Causa Publica 40 reis" numa "Pasta nº 3 Cazal nº1 A". Este documento estava na caixa “Pasta nº3 Anno 1841”, que contém CP 12875 a CP 12958.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12875(1) - cx. 79
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98161

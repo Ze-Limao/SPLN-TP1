@@ -1,0 +1,17 @@
+====== 52698 - DC - Registo do recenseamento militar de Manuel Ribeiro ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Filiação - Manuel da Costa Ribeiro e Antónia Maria
+Naturalidade - Minhotães
+Profissão - Lavrador-caseiro
+Residência - Mouquim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52698
+**LangMaterial**:: Português
+**PhysLoc**:: 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52698

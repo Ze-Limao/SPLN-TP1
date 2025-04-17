@@ -1,0 +1,22 @@
+====== 8364 - UI - Joaquim Pacheco ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Joaquim Pacheco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-03-22
+**UnitDateFinal**:: 1895-11-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8364
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.31
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8364
+
+===== Filhos =====
+  * [[8365.txt|8365 - DC - Carta]]
+  * [[8366.txt|8366 - DC - Carta]]
+  * [[8367.txt|8367 - DC - Carta]]
+  * [[8368.txt|8368 - DC - Carta]]
+  * [[8369.txt|8369 - DC - Carta]]
+  * [[8370.txt|8370 - DC - Carta]]
+  * [[8371.txt|8371 - DC - Carta]]

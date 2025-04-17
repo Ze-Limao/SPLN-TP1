@@ -1,0 +1,20 @@
+====== 34830 - DC - Registo do recenseamento militar de José Júlio ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Júlio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1862-08-16
+Filiação - João Marcelino Rodrigues e Carolina Guilhermina da Silva e Sousa
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34830
+**LangMaterial**:: Português
+**PhysLoc**:: 69v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34830

@@ -1,0 +1,18 @@
+====== 47595 - DC - Registo do recenseamento eleitoral de António Ferreira Leitão ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Ferreira Leitão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Cavalões
+Profissão - Lavrador
+Estado - Casado
+Morada - Cavalões
+Idade - 35
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47595
+**LangMaterial**:: Português
+**PhysLoc**:: 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47595

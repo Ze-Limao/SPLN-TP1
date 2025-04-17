@@ -1,0 +1,18 @@
+====== 52087 - DC - Registo do recenseamento militar de Aires ======
+
+**Parent**:: 9168
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Aires
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-02-01
+**UnitDateFinal**:: 1868-04-04
+**ScopeContent**:: Data de nascimento - 1847-03-07
+Filiação - João de Sá Felgueiras Benevides e Inácia da Silva Castro
+Naturalidade - Arnoso Santa Eulália
+Profissão - Proprietário
+Residência - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52087
+**LangMaterial**:: Português
+**PhysLoc**:: 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52087

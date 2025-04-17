@@ -1,0 +1,17 @@
+====== 54661 - UI - Eduardo Burnay ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Eduardo Burnay
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-08-17
+**UnitDateFinal**:: 1892-02-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54661
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54661
+
+===== Filhos =====
+  * [[54662.txt|54662 - DC - Carta]]
+  * [[54782.txt|54782 - DC - Carta para Vicente e Bernardo]]
+  * [[54783.txt|54783 - DC - Carta]]
+  * [[54784.txt|54784 - DC - Carta]]

@@ -1,0 +1,18 @@
+====== 51250 - DC - Registo do recenseamento militar de Aires ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Aires
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-02-01
+Filiação - Domingos da Silva e Francisca Rebelo
+Naturalidade - Vale S. Cosme
+Profissão - Criado de servir
+Residência - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51250
+**LangMaterial**:: Português
+**PhysLoc**:: 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51250

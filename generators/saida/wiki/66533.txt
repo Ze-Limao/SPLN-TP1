@@ -1,0 +1,15 @@
+====== 66533 - DC - Pedido de licença de matrimónio António de Lima Magalhães com Miquelina de Jesus, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de matrimónio António de Lima Magalhães com Miquelina de Jesus, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-06-08
+**UnitDateFinal**:: 1898-06-08
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”. concedido pelo desembargador Drº Domingos Maria Guimarães da Relação Eclesiástica e juiz dos matrimónios na corte do Arcebispado de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 554 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66533

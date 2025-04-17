@@ -1,0 +1,20 @@
+====== 62418 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Manuel Joaquim da Silva e Maria Ferreira da Silva, na freguesia
+Naturalidade - Fradelos
+Morada - 
+Data de nascimento - 1856-08-19
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62418

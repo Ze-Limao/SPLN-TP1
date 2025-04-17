@@ -1,0 +1,16 @@
+====== 30257 - DC - Carta ======
+
+**Parent**:: 21424
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-06-30
+**UnitDateFinal**:: 1889-06-30
+**ScopeContent**:: Carta manuscrita e assinada, de Formiga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30257
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1403 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30257

@@ -1,0 +1,15 @@
+====== 66167 - DC - Colação de Luís Manuel Fialho de Mendonça numa ração da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Colação de Luís Manuel Fialho de Mendonça numa ração da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1801-03-29
+**UnitDateFinal**:: 1801-03-29
+**ScopeContent**:: Manuscrito, original, sem capa. Selo timbrado. Carta de título de um Benefício simples chamado ração da Igreja de S. Tiago de Antas a favor do Luís Manuel Fialho de Mendonça.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 326 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66167

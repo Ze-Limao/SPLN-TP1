@@ -1,0 +1,14 @@
+====== 60814 - UI - Alberto Eça e Queirós ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Alberto Eça e Queirós
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1934-04
+**UnitDateFinal**:: 1934-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56771
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60814
+
+===== Filhos =====
+  * [[60815.txt|60815 - DC - Carta]]

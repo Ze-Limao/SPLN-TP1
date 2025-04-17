@@ -1,0 +1,16 @@
+====== 8102 - DC - Termo de António da Costa Faria ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António da Costa Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-08-09
+**UnitDateFinal**:: 1879-08-09
+**ScopeContent**:: Declaração para seus filhos Francisco, António, Eduardo e Luís serem considerados cidadãos brasileiros
+Nacionalidade - Brasileira
+Morada - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8102
+**LangMaterial**:: Português
+**PhysLoc**:: f. 32
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8102

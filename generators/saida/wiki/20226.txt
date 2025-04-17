@@ -1,0 +1,14 @@
+====== 20226 - UI - Registo de correspondência recebida ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1883-02-20
+**UnitDateFinal**:: 1885-09-30
+**ScopeContent**:: Termo de abertura: “Há de servir para registo da correspondência recebida na conformidade das instituições de 19 de Novembro de 1849; …20 de Fevereiro de 1883”. Contém dados: nº de ordem, data da correspondência, autoridade de quem dimana, extracto, data da receção, expediente e observações. O ano 1883 tem 159 registos, o ano de 1884 tem 169 registos, e o ano de 1885 tem 126 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20226
+**LangMaterial**:: Português
+**PhysLoc**:: 636
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20226

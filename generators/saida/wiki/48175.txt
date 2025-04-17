@@ -1,0 +1,16 @@
+====== 48175 - UI - Maria Joaquina Tavares de Proença de Almeida Garrett ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria Joaquina Tavares de Proença de Almeida Garrett
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48175
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48175
+
+===== Filhos =====
+  * [[48176.txt|48176 - DC - Carta]]

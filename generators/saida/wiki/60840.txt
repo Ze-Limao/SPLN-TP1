@@ -1,0 +1,17 @@
+====== 60840 - DC - Trajes Rústicos Regionais ======
+
+**Parent**:: 60831
+**RootParent**:: 60698
+**UnitTitle**:: Trajes Rústicos Regionais
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1970
+**ScopeContent**:: Bilhete-postal impresso. No verso "Vila Nova de Famalicão nº182" e legenda. Duas pessoas vestidas com trajes tradicionais do Minho e junta de bois, junto de casa brasonada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9751
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 141 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60840

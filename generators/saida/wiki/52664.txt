@@ -1,0 +1,18 @@
+====== 52664 - DC - Registo do recenseamento militar de Luís António Marques ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís António Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-07-22
+Filiação - Francisco Marques e Rosa Maria
+Naturalidade - Vale S. Martinho
+Profissão - Cesteiro
+Residência - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52664
+**LangMaterial**:: Português
+**PhysLoc**:: 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52664

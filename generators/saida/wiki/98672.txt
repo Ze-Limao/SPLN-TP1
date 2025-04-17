@@ -1,0 +1,14 @@
+====== 98672 - SC - Cultura ======
+
+**Parent**:: 7651
+**RootParent**:: 7651
+**UnitTitle**:: Cultura
+**DescriptionLevel**:: SC
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8105
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98672
+
+===== Filhos =====
+  * [[98673.txt|98673 - SSC - Edições]]
+  * [[98779.txt|98779 - SSC - Medalhas comemorativas]]
+  * [[99790.txt|99790 - SSC - Comissão Municipal de Arte e Arqueologia]]

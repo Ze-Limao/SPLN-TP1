@@ -1,0 +1,15 @@
+====== 66538 - DC - Pedido de licença de matrimónio de José da Costa Teixeira com Engrácia Carvalho, da freguesia de Abade de Vermoim ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de matrimónio de José da Costa Teixeira com Engrácia Carvalho, da freguesia de Abade de Vermoim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-09-26
+**UnitDateFinal**:: 1892-09-26
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”. concedido pelo desembargador Drº Domingos Maria Guimarães da Relação Eclesiástica e juiz dos matrimónios na corte do Arcebispado de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 558 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66538

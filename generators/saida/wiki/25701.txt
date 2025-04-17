@@ -1,0 +1,16 @@
+====== 25701 - DC - Carta ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-05-29
+**UnitDateFinal**:: 1903-05-29
+**ScopeContent**:: Carta manuscrita assinada, de Génova. O autor dá uma explicação sobre aquilo que chama "a porcaria de 1828 dos Três Estados" e como se coloca em relação ao Conde de Azevedo. À morte de João VI não havia dúvidas que o herdeiro era imperador do Brasil. D. Pedro foi aclamado e a Europa aceitou mas com a carta vieram os dissidentes que por razões diferentes tomam partido. D. Miguel aceita a regência e dá um golpe de estado e surgem: os absolutistas que aborreciam a novidade, caso do Conde de Azevedo; os fanáticos sem convicção ligados a D. Carlota Joaquina "Viva D. Miguel se o merecer" Telles Jordão; Partidários legitimistas de D.Miguel José Acúrcio das Neves; Canalhas e perjuros o Bispo de Viseu; Homens absolutistas mas que queriam o D. Pedro o Duque da Terceira; Liberais sinceros como Passo Garrett, etc.; Partidários do regime conservador Duque de Palmela; Acomodatícios que ficaram em casa a ver; Partidários de D. Miguel mas com instituições no General Póvoas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25701
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 651 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25701

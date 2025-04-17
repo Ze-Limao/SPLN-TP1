@@ -1,0 +1,28 @@
+====== 53749 - SR - Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Peças não Catalogadas ======
+
+**Parent**:: 25851
+**RootParent**:: 25851
+**UnitTitle**:: Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Peças não Catalogadas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1968-02-27
+**ScopeContent**:: Série constituída por peças desenhadas em folhas de grandes formatos. Nesta série encontram-se desenhos, que são parte integrante do projeto da Câmara Municipal de Vila Nova de Famalicão, apesar da sua ordem não estar identificada originalmente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53749
+**LangMaterial**:: Português
+**PhysLoc**:: JG
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53749
+
+===== Filhos =====
+  * [[53944.txt|53944 - DC - Planta Topográfica da Futura Câmara Municipal de Famalicão]]
+  * [[53945.txt|53945 - DC - C.M.F. - P- Guarda de Ferro da Escada do Corpo das Finanças]]
+  * [[53946.txt|53946 - DC - Pormenor do Vestíbulo 2C-16, 2C-17 e 2C-18]]
+  * [[53947.txt|53947 - DC - Câmara Municipal de Famalicão - Paredes Laterais do Vestíbulo 2C-16, 2C-17 e 2C-18]]
+  * [[53948.txt|53948 - DC - C.M. de Famalicão - Escada Nobre]]
+  * [[53949.txt|53949 - DC - Busto de Camilo Castelo Branco]]
+  * [[53950.txt|53950 - DC - Câmara Municipal de Famalicão - Cofre forte]]
+  * [[53951.txt|53951 - DC - Câmara Municipal de Famalicão - Cofre forte]]
+  * [[53952.txt|53952 - DC - Cópia de desenhos de mobiliário para gabinete do Presidente]]
+  * [[53953.txt|53953 - DC - Equipamento das oficinas de aferição. Serviço de Pesos e Medidas 5ª repartição]]

@@ -1,0 +1,16 @@
+====== 24659 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-07-22
+**UnitDateFinal**:: 1902-07-22
+**ScopeContent**:: António Ferraz envia documentos sobre os Farias. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24659
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 160 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24659

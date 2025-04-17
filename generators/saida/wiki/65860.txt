@@ -1,0 +1,15 @@
+====== 65860 - DC - Emprazamento do casal da Bouça, situado na freguesia de Vilarinho das Cambas, que faz Manuel Botelho, abade do mosteiro de S. Tiago de Antas, a Domingos Gonçalves e a sua mulher ? Costa ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal da Bouça, situado na freguesia de Vilarinho das Cambas, que faz Manuel Botelho, abade do mosteiro de S. Tiago de Antas, a Domingos Gonçalves e a sua mulher ? Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1672-12-29
+**UnitDateFinal**:: 1674-01-01
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 623 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65860

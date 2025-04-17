@@ -1,0 +1,19 @@
+====== 61734 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - António Pereira e Maria Rosa, em Airão
+Naturalidade - Mogege
+Morada - Airão
+Data de nascimento - 1861-04-10
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61734

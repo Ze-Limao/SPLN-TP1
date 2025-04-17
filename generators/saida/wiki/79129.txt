@@ -1,0 +1,12 @@
+====== 79129 - UI - Joaquim Nunes Ferreira ======
+
+**Parent**:: 79084
+**RootParent**:: 31258
+**UnitTitle**:: Joaquim Nunes Ferreira
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79085
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79129
+
+===== Filhos =====
+  * [[79131.txt|79131 - DC - Carta]]

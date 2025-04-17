@@ -1,0 +1,16 @@
+====== 28131 - DC - 1893 Densidade dos mostos das vinhas ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1893 Densidade dos mostos das vinhas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-09-05
+**UnitDateFinal**:: 1894-01-16
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Diversas informações sobre a produção do vinho. Indicação das castas vindimadas, valores de densidades dos mostos registadas pelo pelo gleucómetro Dr. J. Guyot (Gleuc. Guyot) e pelo gleucoenometro e da temperatura à sombra no dia da vindima. Anotações feitas posteriormente a lápis relativas às fases de produção do vinho (trasfega, colagem e adição de aguardente).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28131
+**LangMaterial**:: Português
+**PhysLoc**:: AS 404 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28131

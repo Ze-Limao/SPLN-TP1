@@ -1,0 +1,18 @@
+====== 45954 - DC - Registo do recenseamento eleitoral de António Henriques de Carvalho ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Henriques de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Quinteiro
+Idade - 53
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45954
+**LangMaterial**:: Português
+**PhysLoc**:: 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45954

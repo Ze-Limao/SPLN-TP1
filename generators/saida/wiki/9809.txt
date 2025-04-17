@@ -1,0 +1,17 @@
+====== 9809 - DC - Vila Nova de Famalicão (vista geral) ======
+
+**Parent**:: 9799
+**RootParent**:: 60698
+**UnitTitle**:: Vila Nova de Famalicão (vista geral)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929
+**UnitDateFinal**:: 1929
+**ScopeContent**:: Bilhetes-postais impressos em tom de bege, na frente a legenda. Edição da Tipografia Minerva - Famalicão. O CPVNF 67A dobrado ao meio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9809
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 67, 67A - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9809

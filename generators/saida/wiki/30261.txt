@@ -1,0 +1,16 @@
+====== 30261 - DC - Carta ======
+
+**Parent**:: 21431
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927-03-21
+**UnitDateFinal**:: 1927-03-21
+**ScopeContent**:: Carta manuscrita e assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30261
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1415 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30261

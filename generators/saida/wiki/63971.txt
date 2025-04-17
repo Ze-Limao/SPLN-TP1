@@ -1,0 +1,18 @@
+====== 63971 - SR - Visitações Pastorais ======
+
+**Parent**:: 60536
+**RootParent**:: 60536
+**UnitTitle**:: Visitações Pastorais
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1548-07-30
+**UnitDateFinal**:: 1829-02-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60704
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63971
+
+===== Filhos =====
+  * [[63972.txt|63972 - UI - Vizitas]]
+  * [[63973.txt|63973 - UI - Livro das visitações e ordens pastorais]]
+  * [[63974.txt|63974 - UI - Livro das visitações e ordens pastorais]]
+  * [[65703.txt|65703 - UI - Livro das visitações e ordens pastorais]]
+  * [[66316.txt|66316 - DC - Petição ao visitador sobre o abade e beneficiado João Gomes da Silva e o dizer missas de canto de órgão]]

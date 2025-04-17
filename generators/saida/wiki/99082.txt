@@ -1,0 +1,17 @@
+====== 99082 - DC - Instrumento de justificação cível a favor de Vicente Machado de Melo Pinheiro e mulher sobre história da fundação da Capela do Senhor dos Aflitos ======
+
+**Parent**:: 31302
+**RootParent**:: 31258
+**UnitTitle**:: Instrumento de justificação cível a favor de Vicente Machado de Melo Pinheiro e mulher sobre história da fundação da Capela do Senhor dos Aflitos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1848-06-17
+**UnitDateFinal**:: 1848-10-11
+**ScopeContent**:: Manuscrito na "Pasta nº 2 Cazal nº1 AG", em papel azul timbrado de vários valores. Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 13108 a CP 13142.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13136 - cx. 86
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99082

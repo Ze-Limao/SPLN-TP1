@@ -1,0 +1,16 @@
+====== 31214 - DC - Registo do recenseamento eleitoral de Vicente da Silva Costa ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Vicente da Silva Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Louro
+Profissão - Lavrador
+Morada - Travassos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31214
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31214

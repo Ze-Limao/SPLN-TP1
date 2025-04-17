@@ -1,0 +1,19 @@
+====== 34370 - DC - Registo do recenseamento militar de Tomás da Costa Moreira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Tomás da Costa Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Antas
+Data de nascimento - 1852-04-25
+Filiação - Francisco da Costa Moreira e Josefa Maria da Costa
+Profissão - Sapateiro
+Estado - Solteiro
+Morada - Santo Tirso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34370
+**LangMaterial**:: Português
+**PhysLoc**:: 109v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34370

@@ -1,0 +1,18 @@
+====== 50782 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-05-23
+Filiação - Francisco Machado e Joaquina Maria
+Naturalidade - Oliveira Santa Maria
+Profissão - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50782
+**LangMaterial**:: Português
+**PhysLoc**:: 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50782

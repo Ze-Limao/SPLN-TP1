@@ -1,0 +1,14 @@
+====== 97580 - UI - Processo nº 123 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 123
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-10-25
+**UnitDateFinal**:: 1973-10-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 395 - cx. 23
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97580

@@ -1,0 +1,18 @@
+====== 21227 - UI - Manuel de Brito Furtado de Mendonça ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Manuel de Brito Furtado de Mendonça
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-01-08
+**UnitDateFinal**:: 1901-01-08
+**ScopeContent**:: António de Brito Furtado de Mendonça foi Cavaleiro de Cristo. Filho de João de Brito Cação de Lima, senhor do morgado do Amendo e Margarida Furtado de Mendonça. Casou com Rosa Maria Leite. Tiveram 1 filha Margarida Luiza Furtado de Mendonça. Irmão de Izabel Maria Furtado de Mendonça.
+Fonte: Geni.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21227
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 917
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21227
+
+===== Filhos =====
+  * [[26122.txt|26122 - DC - Carta]]

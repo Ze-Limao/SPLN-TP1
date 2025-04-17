@@ -1,0 +1,17 @@
+====== 78236 - DC - Licença dos devedores de Barcelos para emprazar o campo do Salgueiral, em Mouquim ======
+
+**Parent**:: 54467
+**RootParent**:: 31258
+**UnitTitle**:: Licença dos devedores de Barcelos para emprazar o campo do Salgueiral, em Mouquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1676
+**UnitDateFinal**:: 1737-03-03
+**ScopeContent**:: Manuscrito. Na 1ª folha refere que "Baltazar Pinheiro Lobo diz.." Na 2ª folha a data de 1737.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54261
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4597 - cx. 33
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78236

@@ -1,0 +1,20 @@
+====== 20337 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Riba de Ave
+Filiação - Jerónimo de Almeida e Narcisa Pereira
+Naturalidade - Riba de Ave
+Data de nascimento - 1870-08-11
+Emprego - Lavrador
+Estado - Casado
+Residência - Riba de Ave
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20337
+**LangMaterial**:: Português
+**PhysLoc**:: f. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20337

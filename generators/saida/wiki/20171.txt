@@ -1,0 +1,16 @@
+====== 20171 - UI - Relação dos recrutas chamados ao serviço efetivo do Exército ======
+
+**Parent**:: 20168
+**RootParent**:: 20048
+**UnitTitle**:: Relação dos recrutas chamados ao serviço efetivo do Exército
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1889
+**UnitDateFinal**:: 1891-01-26
+**ScopeContent**:: Não tem termo de abertura. Contém dados: nome, filiação, naturalidade, nº da sorte, a quem foram apurados, suplentes ou substituídos, data dos autos do refractário, destino que tiveram, observação. 
+Datas dos autos de refractário a partir de 1890-04-09 e 1891.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20171
+**LangMaterial**:: Português
+**PhysLoc**:: AC 89
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20171

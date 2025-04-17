@@ -1,0 +1,19 @@
+====== 9464 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Francisco da Costa Simões e Miquelina Gonçalves da Costa Moreira
+Naturalidade - Louro
+Data de nascimento - 1877-11-29
+Profissão - Carpinteiro
+Estado civil - Solteiro
+Residência - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9464
+**LangMaterial**:: Português
+**PhysLoc**:: f. 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9464

@@ -1,0 +1,16 @@
+====== 24679 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-07-16
+**UnitDateFinal**:: 1904-07-16
+**ScopeContent**:: António Ferraz agradece os parabéns pela reeleição para provedor da Misericórdia de Barcelos e refere a situação que provocara a sua saída anteriormente. Envia três jornais que se publicam na vila que comentam a reeleição. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24679
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 181 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24679

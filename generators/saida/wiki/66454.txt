@@ -1,0 +1,15 @@
+====== 66454 - DC - Certidão de não impedimentos de contração de matrimónio passada pelo Abade Joaquim da Silva Carneiro, de José da Costa, filho legítimo de Domingos José da Costa e sua mulher Mafalda Rodrigues, moradores em S. Tiago de Antas, com Cristina, filha ilegítima de Ana Rita e de Manuel José Dias, legitimada por este, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Certidão de não impedimentos de contração de matrimónio passada pelo Abade Joaquim da Silva Carneiro, de José da Costa, filho legítimo de Domingos José da Costa e sua mulher Mafalda Rodrigues, moradores em S. Tiago de Antas, com Cristina, filha ilegítima de Ana Rita e de Manuel José Dias, legitimada por este, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-05-30
+**UnitDateFinal**:: 1867-05-30
+**ScopeContent**:: Manuscrito, original, com selo fiscal de 40 reis colado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 492 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66454

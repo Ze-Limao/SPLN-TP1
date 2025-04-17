@@ -1,0 +1,19 @@
+====== 9372 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Luís Monteiro e Maria Correia
+Naturalidade - Landim
+Data de nascimento - 1877-02-28
+Profissão - Tecelão
+Estado civil - Solteiro
+Residência - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9372
+**LangMaterial**:: Português
+**PhysLoc**:: f. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9372

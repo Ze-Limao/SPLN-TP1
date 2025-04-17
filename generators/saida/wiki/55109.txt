@@ -1,0 +1,32 @@
+====== 55109 - UI - Luís Maria Pinto de Soveral ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Luís Maria Pinto de Soveral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-11
+**UnitDateFinal**:: 1910
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55109
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55109
+
+===== Filhos =====
+  * [[55110.txt|55110 - DC - Telegrama]]
+  * [[55136.txt|55136 - DC - Telegrama]]
+  * [[55137.txt|55137 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55138.txt|55138 - DC - Telegrama]]
+  * [[55140.txt|55140 - DC - Carta]]
+  * [[55141.txt|55141 - DC - Carta]]
+  * [[55142.txt|55142 - DC - Carta]]
+  * [[55143.txt|55143 - DC - Carta]]
+  * [[55144.txt|55144 - DC - Carta]]
+  * [[55145.txt|55145 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[67356.txt|67356 - DC - Telegrama]]
+  * [[67365.txt|67365 - DC - Telegrama]]
+  * [[67367.txt|67367 - DC - Telegrama]]
+  * [[67368.txt|67368 - DC - Telegrama]]
+  * [[67369.txt|67369 - DC - Telegrama]]
+  * [[67370.txt|67370 - DC - Telegrama]]
+  * [[67371.txt|67371 - DC - Telegrama]]
+  * [[67372.txt|67372 - DC - Telegrama]]
+  * [[67373.txt|67373 - DC - Telegrama]]

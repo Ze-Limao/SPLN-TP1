@@ -1,0 +1,17 @@
+====== 52351 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9168
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-02-01
+**UnitDateFinal**:: 1868-04-04
+**ScopeContent**:: Data de nascimento - 1847-12-26
+Filiação - João José da Costa e Maria Rodrigues
+Naturalidade - Antas
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52351
+**LangMaterial**:: Português
+**PhysLoc**:: 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52351

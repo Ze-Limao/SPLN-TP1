@@ -1,0 +1,18 @@
+====== 51043 - DC - Registo do recenseamento militar de Dionísio ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Dionísio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-05-13
+Filiação - Manuel Joaquim de Araújo e Ana Maria
+Naturalidade - Gavião
+Profissão - Lavrador-caseiro
+Residência - Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51043
+**LangMaterial**:: Português
+**PhysLoc**:: 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51043

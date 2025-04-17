@@ -1,0 +1,16 @@
+====== 29375 - DC - A Gennard Perrelli: Ao artista e ao Patriota Italiano ======
+
+**Parent**:: 27975
+**RootParent**:: 27963
+**UnitTitle**:: A Gennard Perrelli: Ao artista e ao Patriota Italiano
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863
+**UnitDateFinal**:: 1863
+**ScopeContent**:: Poema de Antero de Quental. Impresso na Imprensa Litteraria.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29375
+**LangMaterial**:: Português
+**PhysLoc**:: AS 282 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29375

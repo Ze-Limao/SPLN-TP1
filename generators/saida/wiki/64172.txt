@@ -1,0 +1,15 @@
+====== 64172 - DC - Autos cíveis de justificação de dívidas em que é justificante Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Autos cíveis de justificação de dívidas em que é justificante Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1826-08-08
+**UnitDateFinal**:: 1826-08-08
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 244 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64172

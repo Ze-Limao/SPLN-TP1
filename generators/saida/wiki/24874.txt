@@ -1,0 +1,16 @@
+====== 24874 - DC - Carta ======
+
+**Parent**:: 21081
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1874-12-05
+**UnitDateFinal**:: 1874-12-05
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Papel timbrado "Portugal Antigo e Moderno - Redacção. Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24874
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 307 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24874

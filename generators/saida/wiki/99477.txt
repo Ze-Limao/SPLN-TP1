@@ -1,0 +1,15 @@
+====== 99477 - UI - Joaquim Ferreira Pacheco Brandão ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Joaquim Ferreira Pacheco Brandão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-03-18
+**UnitDateFinal**:: 1918-03-18
+**ScopeContent**:: Paredes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99477
+
+===== Filhos =====
+  * [[99478.txt|99478 - DC - Carta]]

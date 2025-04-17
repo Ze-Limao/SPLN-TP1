@@ -1,0 +1,16 @@
+====== 25573 - DC - Carta ======
+
+**Parent**:: 21148
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-11-18
+**UnitDateFinal**:: 1921-11-18
+**ScopeContent**:: João Ameal agradece o livro Camilo Homenageado. Carta manuscrita assinada, da Casa do Ameal (Coimbra).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25573
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 526 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25573

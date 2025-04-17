@@ -1,0 +1,14 @@
+====== 30121 - DC - Joaquim Ferreira Vidal ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Ferreira Vidal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-11-16
+**UnitDateFinal**:: 1974-11-16
+**ScopeContent**:: Regedor efetivo da freguesia de Gondifelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30121
+**LangMaterial**:: Português
+**PhysLoc**:: f. 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30121

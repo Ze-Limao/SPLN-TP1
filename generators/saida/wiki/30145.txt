@@ -1,0 +1,16 @@
+====== 30145 - DC - Carta ======
+
+**Parent**:: 21357
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1925
+**ScopeContent**:: Carta manuscrita assinada, da Quinta de Travassos, Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30145
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1283 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30145

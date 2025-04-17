@@ -1,0 +1,19 @@
+====== 33792 - UI - António Zeferino Cândido da Piedade ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Zeferino Cândido da Piedade
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-09-15
+**UnitDateFinal**:: 1918-05-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33792
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33792
+
+===== Filhos =====
+  * [[33793.txt|33793 - DC - Carta]]
+  * [[33794.txt|33794 - DC - Carta]]

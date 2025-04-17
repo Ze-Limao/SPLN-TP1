@@ -1,0 +1,16 @@
+====== 22997 - DC - Registo do recenseamento eleitoral de António da Silva Marques ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António da Silva Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Pedome
+Profissão - Lavrador
+Morada - Casal
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22997
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22997

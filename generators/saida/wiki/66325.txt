@@ -1,0 +1,15 @@
+====== 66325 - DC - Petição de Domingos Fernandes Braziela, vigário ad nutum da Igreja de S. Miguel de Gemunde, remetida à nova Relação de Braga, de rezar missas dos domingos e dias santos pelos fregueses da paróquia conforme decreto do S. Pontífice ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Petição de Domingos Fernandes Braziela, vigário ad nutum da Igreja de S. Miguel de Gemunde, remetida à nova Relação de Braga, de rezar missas dos domingos e dias santos pelos fregueses da paróquia conforme decreto do S. Pontífice
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1755-11-20
+**UnitDateFinal**:: 1760-07-09
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 449 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66325

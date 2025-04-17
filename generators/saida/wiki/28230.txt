@@ -1,0 +1,21 @@
+====== 28230 - SSC - Atividade política ======
+
+**Parent**:: 27965
+**RootParent**:: 27963
+**UnitTitle**:: Atividade política
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1885
+**UnitDateFinal**:: 1887
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28230
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28230
+
+===== Filhos =====
+  * [[28231.txt|28231 - DC - Convite]]
+  * [[28232.txt|28232 - DC - Bandeira de mão]]
+  * [[28233.txt|28233 - DC - Bandeira de mão]]
+  * [[28234.txt|28234 - DC - Bandeira de mão]]
+  * [[28235.txt|28235 - DC - Fomento rural, artigos escriptos por Antonio de Serpa Pimentel.]]
+  * [[28236.txt|28236 - DC - Lembranças]]

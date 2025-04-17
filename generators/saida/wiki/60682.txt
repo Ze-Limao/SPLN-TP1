@@ -1,0 +1,14 @@
+====== 60682 - SR - Registo das conciliações ======
+
+**Parent**:: 60544
+**RootParent**:: 60544
+**UnitTitle**:: Registo das conciliações
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1834-12-14
+**UnitDateFinal**:: 1836-07-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60675
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60682
+
+===== Filhos =====
+  * [[60944.txt|60944 - DC - Livro para o registo das Conseliaçoens e mais termos necessarios no Juizo de Conseliação da Fregª de S. Miguel das Aves]]

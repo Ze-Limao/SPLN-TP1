@@ -1,0 +1,16 @@
+====== 28139 - DC - 1895 Registo do vinho branco ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1895 Registo do vinho branco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-09-11
+**UnitDateFinal**:: 1895-09-13
+**ScopeContent**:: Diversas informações sobre a vindima e à produção do vinho branco. Informações diversas sobre a vindima, nomeadamente qualidade e quantidades de uvas vindimadas, e ainda respeitantes às fases de produção do vinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28139
+**LangMaterial**:: Português
+**PhysLoc**:: AS 412 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28139

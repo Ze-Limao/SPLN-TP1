@@ -1,0 +1,16 @@
+====== 30190 - DC - Carta ======
+
+**Parent**:: 21367
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-08-30
+**UnitDateFinal**:: 1916-08-30
+**ScopeContent**:: Carta manuscrita e assinada, de Casa de Mateus.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30190
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1323 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30190

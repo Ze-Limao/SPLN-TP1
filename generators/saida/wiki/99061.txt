@@ -1,0 +1,16 @@
+====== 99061 - UI - Camilo Lambertini ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Camilo Lambertini
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-03-28
+**UnitDateFinal**:: 1918-03-16
+**ScopeContent**:: Vinhos e Aguardentes, Vila Nova de Gaia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99061
+
+===== Filhos =====
+  * [[99062.txt|99062 - DC - Telegrama]]
+  * [[99298.txt|99298 - DC - Ofício]]

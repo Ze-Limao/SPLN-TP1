@@ -1,0 +1,27 @@
+====== 20049 - SC - Serviços Administrativos ======
+
+**Parent**:: 20048
+**RootParent**:: 20048
+**UnitTitle**:: Serviços Administrativos
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1851-08-20
+**UnitDateFinal**:: 1930-11-12
+**ScopeContent**:: Secção constituída pelas subsecções:
+
+A Receitas e despesas 17 u.i. (3 livros, 14 f.);
+B Controlo da Mobilidade Demográfica 8 u.i. (8 livros);
+C Hipotecas 2 u.i. (2 livros);
+D Pessoal 23 u.i. (5 livros, 18 folhas);
+E Expediente 185 u.i (60 livros, 125 folhas).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20049
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20049
+
+===== Filhos =====
+  * [[20056.txt|20056 - SSC - Receitas e despesas]]
+  * [[20057.txt|20057 - SSC - Controlo da Mobilidade Demográfica]]
+  * [[20058.txt|20058 - SSC - Hipotecas]]
+  * [[20059.txt|20059 - SSC - Pessoal]]
+  * [[20060.txt|20060 - SSC - Expediente]]

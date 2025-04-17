@@ -1,0 +1,16 @@
+====== 24024 - DC - Registo do recenseamento eleitoral de António Pereira do Rego ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Pereira do Rego
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Lavrador
+Morada - Ferrão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24024
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24024

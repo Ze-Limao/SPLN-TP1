@@ -1,0 +1,15 @@
+====== 66117 - DC - Escritura de compra e venda de bens de raiz que fez Domingos Rodrigues da Costa, da freguesia de S. Tiago de Antas, a António Joaquim de Andrade e mulher, da mesma freguesia ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra e venda de bens de raiz que fez Domingos Rodrigues da Costa, da freguesia de S. Tiago de Antas, a António Joaquim de Andrade e mulher, da mesma freguesia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1857-07-23
+**UnitDateFinal**:: 1857-07-23
+**ScopeContent**:: Manuscrito, original, sem capa. No canto esquerdo superior “Nota nº16. Af 94”. O Abade Rodrigo Joaquim de Meneses dá consentimento à transação e ficará treslado no arquivo da Igreja em 1857-07-23.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 303 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66117

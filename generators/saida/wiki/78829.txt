@@ -1,0 +1,15 @@
+====== 78829 - SSSC - Edifícios Câmara Municipal de Vila Nova de Famalicão ======
+
+**Parent**:: 53741
+**RootParent**:: 7651
+**UnitTitle**:: Edifícios Câmara Municipal de Vila Nova de Famalicão
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1882-11-20
+**UnitDateFinal**:: 2011-08-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD78829
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78829
+
+===== Filhos =====
+  * [[53742.txt|53742 - SR - Projecto do Novo Edifício dos Paços do Concelho, Tribunal, Secção de Finanças, etc. - Januário Godinho]]
+  * [[78832.txt|78832 - SR - Edifício da Câmara Municipal]]

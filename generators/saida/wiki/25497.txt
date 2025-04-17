@@ -1,0 +1,16 @@
+====== 25497 - DC - Carta ======
+
+**Parent**:: 21125
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-12-07
+**UnitDateFinal**:: 1906-12-07
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado da Câmara dos Deputados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25497
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 454 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25497

@@ -1,0 +1,18 @@
+====== 50605 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-06-17
+Filiação - José Gonçalves de Meneses e Margarida Rosa de Faria
+Naturalidade - Gavião
+Profissão - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50605
+**LangMaterial**:: Português
+**PhysLoc**:: 84v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50605

@@ -1,0 +1,16 @@
+====== 22036 - DC - Registo do recenseamento eleitoral de Pedro da Costa ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Pedro da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Carreira
+Profissão - Lavrador
+Morada - Monte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22036
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22036

@@ -1,0 +1,19 @@
+====== 63022 - DC - Registo do recenseamento militar de Vicente ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Vicente
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - José de Paiva e Maria Vidal, ignoram-se
+Naturalidade - Calendário
+Morada - Ignora-se
+Data de nascimento - 1864-01-22
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 66v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63022

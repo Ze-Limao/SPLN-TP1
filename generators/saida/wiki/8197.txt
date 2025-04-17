@@ -1,0 +1,18 @@
+====== 8197 - DC - Termo do exame de Francisco Ribeiro da Silva ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Francisco Ribeiro da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-05-19
+**UnitDateFinal**:: 1884-05-19
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Firmino Ribeiro da Silva
+Naturalidade - Calendário
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8197
+**LangMaterial**:: Português
+**PhysLoc**:: f. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8197

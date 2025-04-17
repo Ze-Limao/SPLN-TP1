@@ -1,0 +1,20 @@
+====== 63477 - DC - Registo do recenseamento militar de Luís ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Francisco José Marques de Abreu e Maria Joaquina Marques de Abreu
+Naturalidade - Oliveira Santa Maria
+Morada - Ignora-se
+Data de nascimento - 1866-05-21
+Emprego - Ignora-se
+Estado - Solteiro
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63477

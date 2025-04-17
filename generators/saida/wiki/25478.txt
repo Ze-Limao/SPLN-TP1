@@ -1,0 +1,16 @@
+====== 25478 - DC - Carta ======
+
+**Parent**:: 21120
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-12-21
+**UnitDateFinal**:: 1917-12-21
+**ScopeContent**:: Carta manuscrita assinada, do Porto, Largo de St. Clara, 49.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25478
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 434 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25478

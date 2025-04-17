@@ -1,0 +1,16 @@
+====== 30788 - DC - Registo do recenseamento eleitoral de José Correia de Abreu ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Correia de Abreu
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Lavrador
+Morada - S. Mateus
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30788
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30788

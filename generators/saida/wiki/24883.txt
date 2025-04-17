@@ -1,0 +1,16 @@
+====== 24883 - DC - Carta ======
+
+**Parent**:: 21083
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-11-06
+**UnitDateFinal**:: 1921-11-06
+**ScopeContent**:: Carta manuscrita assinada, da Figueira da Foz, R. Cândido dos Reis, nº117. Papel carimbado com o brasão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24883
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 316 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24883

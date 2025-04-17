@@ -1,0 +1,25 @@
+====== 24996 - UI - Relatórios e contas do Conselho Administrativo e Técnico da Liga dos Bombeiros Portugueses e de outras corporações ======
+
+**Parent**:: 20399
+**RootParent**:: 20342
+**UnitTitle**:: Relatórios e contas do Conselho Administrativo e Técnico da Liga dos Bombeiros Portugueses e de outras corporações
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1932
+**UnitDateFinal**:: 1962
+**ScopeContent**:: Documentos diversos (17 livretos impressos; 1 livreto de Condecorações, 2 folhetos com relatórios, 1 Jornal Notícias de Ourém 1965, 1 livreto “José Alves de Brito” de 1958).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24996
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 100 - cx. 26
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24996
+
+===== Filhos =====
+  * [[25339.txt|25339 - DC - Relatório da Comissão Administrativa e Técnica do biénio de 1943-1944 da Liga dos Bombeiros Portugueses]]
+  * [[25340.txt|25340 - DC - Relatório da Comissão Administrativa e Técnica do biénio de 1945-1946 da Liga dos Bombeiros Portugueses]]
+  * [[25341.txt|25341 - DC - Relatório da Comissão Administrativa e Técnica do biénio de 1947-1948 da Liga dos Bombeiros Portugueses]]
+  * [[25342.txt|25342 - DC - Liga dos Bombeiros Portugueses: Condecorações]]
+  * [[25344.txt|25344 - DC - Relatório e contas de 1953/1954 da Associação Humanitária Bombeiros Voluntários de Arrifana]]
+  * [[25345.txt|25345 - DC - Projecto dos Estatutos da Liga dos Bombeiros Portugueses]]
+  * [[25346.txt|25346 - DC - Relatório da Comissão Administrativa e Técnica do biénio de 1939-1940 da Liga dos Bombeiros Portugueses]]

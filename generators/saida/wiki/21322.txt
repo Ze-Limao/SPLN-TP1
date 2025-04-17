@@ -1,0 +1,17 @@
+====== 21322 - UI - António Magalhães Barros de Abreu Coutinho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Magalhães Barros de Abreu Coutinho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-25
+**UnitDateFinal**:: 1913-03-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21322
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1212, 1213
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21322
+
+===== Filhos =====
+  * [[29803.txt|29803 - DC - Carta]]
+  * [[29804.txt|29804 - DC - Carta]]

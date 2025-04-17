@@ -1,0 +1,18 @@
+====== 52448 - DC - Registo do recenseamento militar de Joaquim de Oliveira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-07-12
+Filiação - Francisco de Oliveira e Rosa de Oliveira
+Naturalidade - Arnoso Santa Maria
+Profissão - Criado de servir
+Residência - Celeirós
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52448
+**LangMaterial**:: Português
+**PhysLoc**:: 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52448

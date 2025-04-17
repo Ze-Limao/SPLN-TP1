@@ -1,0 +1,16 @@
+====== 22976 - DC - Registo do recenseamento eleitoral de António José da Cunha ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José da Cunha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Outiz
+Profissão - Eclesiástico
+Morada - Residência
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22976
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22976

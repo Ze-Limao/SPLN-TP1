@@ -1,0 +1,15 @@
+====== 65871 - DC - Cópia de emprazamento do terço de dois casais de S. Cruz do Bispo, feito por Pero Jorge da Silva, abade e S. Tiago de Antas, a Gonçalo Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Cópia de emprazamento do terço de dois casais de S. Cruz do Bispo, feito por Pero Jorge da Silva, abade e S. Tiago de Antas, a Gonçalo Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1570-12-15
+**UnitDateFinal**:: 1570-12-15
+**ScopeContent**:: Manuscrito, cópia de documento de 1570-12-15.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 633 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65871

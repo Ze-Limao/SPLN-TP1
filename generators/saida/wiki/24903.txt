@@ -1,0 +1,16 @@
+====== 24903 - DC - Carta ======
+
+**Parent**:: 21096
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Carta manuscrita assinada e assinatura datilografada a vermelho. Papel timbrado do "Arquivo Nacional de Ex-Libris - Redação e Administração. R. de Sant´Ana á Lapa, 77, Lisboa". Carta do dia 12 de fevereiro sem menção do ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24903
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 338 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24903

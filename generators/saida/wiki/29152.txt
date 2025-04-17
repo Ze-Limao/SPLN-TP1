@@ -1,0 +1,17 @@
+====== 29152 - DC - Exposição Industrial de Guimarães em 1884 − Condições Regulamentares ======
+
+**Parent**:: 29147
+**RootParent**:: 27963
+**UnitTitle**:: Exposição Industrial de Guimarães em 1884 − Condições Regulamentares
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-04-08
+**UnitDateFinal**:: 1884-04-08
+**ScopeContent**:: Regulamento impresso da Exposição Industrial de Guimarães de 1884, aprovado na sessão da Comissão Central de 8 de Março de 1884.
+No artigo 1.º das condições regulamentares é dito que a exposição industrial de Guimarães foi uma iniciativa promovida pela Sociedade Martins Sarmento e que contou com a adesão dos «fabricantes, produtores e diversos negociantes», decidida em assembleia a 21 de Fevereiro de 1884. Refere ainda a data de abertura da exposição, a 1 de Junho, e o local de instalação, o palacete de Vila-Flor, propriedade do capitalista e gerente do caminho-de-ferro de Guimarães, António de Moura Soares Veloso. O artigo 2.º agrupa e discrimina os diversos «produtos da indústria fabril da cidade e concelho de Guimarães»: 1.º grupo − Educação e elementos de estudo; 2.º grupo − Mobiliário e seus acessórios; 3.º grupo − Tecidos, vestidos e acessórios; 4.º grupo − máquinas; 5.º grupo − produtos alimentares manufacturados; 6.º grupo − indústrias extractivas e suas transformações». Os restantes artigos incidem sobre diversos pontos de organização, tais como, data limite para requisição do espaço expositivo, venda de artigos no recinto da exposição, atribuição de prémios, preço de venda dos bilhetes, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29152
+**LangMaterial**:: Português
+**PhysLoc**:: AS 161 (1), (2) - cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29152

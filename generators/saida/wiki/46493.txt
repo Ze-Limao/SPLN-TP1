@@ -1,0 +1,18 @@
+====== 46493 - DC - Registo do recenseamento eleitoral de António José Garcia ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Garcia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Mouquim
+Profissão - Proprietário
+Estado - Casado
+Morada - Sarnado
+Idade - 54
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46493
+**LangMaterial**:: Português
+**PhysLoc**:: 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46493

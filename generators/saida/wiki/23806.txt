@@ -1,0 +1,16 @@
+====== 23806 - DC - Registo do recenseamento eleitoral de José Maria Couto Pinto de Azevedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Maria Couto Pinto de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Oficial
+Morada - Rua Direita
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23806
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 86v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23806

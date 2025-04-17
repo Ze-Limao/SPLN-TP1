@@ -1,0 +1,15 @@
+====== 61216 - UI - Júlio Dantas ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Júlio Dantas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1934-03-05
+**UnitDateFinal**:: 1934-03-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61216
+
+===== Filhos =====
+  * [[61217.txt|61217 - DC - Carta]]

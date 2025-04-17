@@ -1,0 +1,27 @@
+====== 21256 - UI - Pedro Correia Marques ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Pedro Correia Marques
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1923
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21256
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1004 a 1014
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21256
+
+===== Filhos =====
+  * [[27910.txt|27910 - DC - Carta]]
+  * [[27911.txt|27911 - DC - Carta]]
+  * [[27912.txt|27912 - DC - Carta]]
+  * [[27913.txt|27913 - DC - Carta]]
+  * [[27914.txt|27914 - DC - Carta]]
+  * [[27915.txt|27915 - DC - Carta]]
+  * [[27916.txt|27916 - DC - Bilhete-postal]]
+  * [[27917.txt|27917 - DC - Carta]]
+  * [[27918.txt|27918 - DC - Carta]]
+  * [[27919.txt|27919 - DC - Carta]]
+  * [[27920.txt|27920 - DC - Carta]]

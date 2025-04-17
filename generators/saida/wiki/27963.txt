@@ -1,0 +1,19 @@
+====== 27963 - F - Alberto Sampaio ======
+
+**Parent**:: 0
+**RootParent**:: 27963
+**UnitTitle**:: Alberto Sampaio
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1852-01
+**UnitDateFinal**:: 1941
+**ScopeContent**:: O arquivo Alberto Sampaio (AS) é composto por 866 unidades documentais, compreendidas entre os anos de 1852 a 1941. Este conjunto de documentos está distribuído por 12 caixas e abarca várias tipologias documentais, como correspondência, manuscritos, provas tipográficas, cadernos. Encontram-se também inúmeros maços de notas manuscritas provenientes de investigação para elaboração das obras posteriormente publicadas, assim como apontamentos com referências bibliográficas sobre práticas e experiências agrícolas, sobre a vitivinicultura, etc. Os documentos deste arquivo estão armazenados nas unidades arquivísticas já mencionadas e ordenados numericamente mantendo a ordem do primeiro inventário elaborado em 2011.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27963
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27963
+
+===== Filhos =====
+  * [[27968.txt|27968 - SF - Alberto Sampaio (1841-1908)]]
+  * [[27969.txt|27969 - SF - Emília Ermelinda Cardoso Teixeira da Cunha Sampaio (1813-1876)]]

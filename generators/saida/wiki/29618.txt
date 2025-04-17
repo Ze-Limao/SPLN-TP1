@@ -1,0 +1,15 @@
+====== 29618 - CL - Coleção de Fotografia da Câmara Municipal de Famalicão ======
+
+**Parent**:: 0
+**RootParent**:: 29618
+**UnitTitle**:: Coleção de Fotografia da Câmara Municipal de Famalicão
+**DescriptionLevel**:: CL
+**ScopeContent**:: Conjuntos documentais fotográficos compostos por provas e negativos de comemorações, manifestações e outros acontecimentos ocorridos no Concelho de V.N. Famalicão. Bem como documentos fotográficos de edifícios e outras construções. Faz parte desta coleção o arquivo de fotografias da presidência.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29618
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29618
+
+===== Filhos =====
+  * [[29619.txt|29619 - SC - Fotografias Câmara Municipal de V. N. de Famalicão]]
+  * [[29620.txt|29620 - SC - Fotografias da Presidência]]

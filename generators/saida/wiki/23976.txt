@@ -1,0 +1,16 @@
+====== 23976 - DC - Registo do recenseamento eleitoral de António Lopes de Azevedo ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Lopes de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Arnoso Mosteiro
+Profissão - Lavrador
+Morada - Veiga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23976
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23976

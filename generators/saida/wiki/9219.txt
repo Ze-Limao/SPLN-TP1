@@ -1,0 +1,19 @@
+====== 9219 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Bento Pereira e Joana de Castro
+Naturalidade - Pedome
+Data de nascimento - 1877-04-07
+Profissão - Lavrador
+Estado civil - Solteiro
+Residência - Oliveira Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9219
+**LangMaterial**:: Português
+**PhysLoc**:: f. 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9219

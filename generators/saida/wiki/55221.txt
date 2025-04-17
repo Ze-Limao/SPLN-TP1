@@ -1,0 +1,17 @@
+====== 55221 - DC - Carta e Processo Arroyo e Amor de Perdição ======
+
+**Parent**:: 55115
+**RootParent**:: 31258
+**UnitTitle**:: Carta e Processo Arroyo e Amor de Perdição
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-12-05
+**UnitDateFinal**:: 1909-12-05
+**ScopeContent**:: Minuta de carta manuscrita para Conde Seebach. No verso da folha manuscrita: "Processo Arroyo e Amor de Perdição" que contém CP 2262 a 2337.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55221
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2261 - cx. 16
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55221

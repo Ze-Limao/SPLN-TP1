@@ -1,0 +1,18 @@
+====== 47682 - DC - Registo do recenseamento eleitoral de José António Ferreira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Calendário
+Profissão - Lavrador
+Estado - Casado
+Morada - Rorigo
+Idade - 61
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47682
+**LangMaterial**:: Português
+**PhysLoc**:: 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47682

@@ -1,0 +1,19 @@
+====== 9529 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José da Silva Carneiro e Quitéria da Costa
+Naturalidade - Gavião
+Data de nascimento - 1877-03-13
+Profissão - 
+Estado civil - Solteiro
+Residência - Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9529
+**LangMaterial**:: Português
+**PhysLoc**:: f. 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9529

@@ -1,0 +1,15 @@
+====== 8059 - DC - Termo de José Luís Guedes ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José Luís Guedes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-06-19
+**UnitDateFinal**:: 1878-06-19
+**ScopeContent**:: Vedação de terreno e construção de habitação
+Local - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8059
+**LangMaterial**:: Português
+**PhysLoc**:: f. 31
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8059

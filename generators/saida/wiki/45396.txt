@@ -1,0 +1,18 @@
+====== 45396 - DC - Registo do recenseamento eleitoral de João Carneiro ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Abade de Vermoim
+Profissão - Negociante
+Estado - Casado
+Morada - Pena
+Idade - 35
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45396
+**LangMaterial**:: Português
+**PhysLoc**:: 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45396

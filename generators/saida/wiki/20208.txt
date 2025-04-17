@@ -1,0 +1,15 @@
+====== 20208 - UI - Registo de entrega de contas de gerência, de confrarias e juntas de paróquia ======
+
+**Parent**:: 20207
+**RootParent**:: 20048
+**UnitTitle**:: Registo de entrega de contas de gerência, de confrarias e juntas de paróquia
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-04-04
+**UnitDateFinal**:: 1927-11-30
+**ScopeContent**:: Não tem termo de abertura. Falta a f. 1. O título da capa “Juntas de Parochia e Confrarias”. Organizado por ordem alfabética de freguesias. Contém dados: Freguesia, nome das confrarias, data de entrega de contas, data de remessa para Braga, data de aprovação em Braga, capital e observações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20208
+**LangMaterial**:: Português
+**PhysLoc**:: AC 96
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20208

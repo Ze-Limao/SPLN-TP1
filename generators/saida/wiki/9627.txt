@@ -1,0 +1,13 @@
+====== 9627 - DC - Ofício nº 8 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 8
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-02
+**UnitDateFinal**:: 1887-02-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9627
+**LangMaterial**:: Português
+**PhysLoc**:: f. 28
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9627

@@ -1,0 +1,57 @@
+====== 31302 - SR - Documentos ======
+
+**Parent**:: 31301
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1832-04-02
+**UnitDateFinal**:: 1832-07-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31302
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31302
+
+===== Filhos =====
+  * [[100704.txt|100704 - DC - António José Ferreira Guimarães pede certidão do testamento de Rosa Barbosa, da freguesia de S. Tiago da Cruz falecida entre 1852 e 1854]]
+  * [[100707.txt|100707 - DC - António da Silva Pinto de S. Tiago da Cruz  pede certidão do testamento da falecida Josefa Barbosa, solteira, da mesma freguesia]]
+  * [[100708.txt|100708 - DC - Troca entre Luís Martins da Costa e sua mulher e João Antunes da Silva e sua mulher da freguesia de S. Tiago da Cruz]]
+  * [[100711.txt|100711 - DC - Instrumento de justificação cível requerido por Joaquina Rosa Pinto, da freguesia de S. Tiago da Cruz Cruz]]
+  * [[100714.txt|100714 - DC - Recibos Décima de juros pagos por Vicente Pinheiro de Melo]]
+  * [[100721.txt|100721 - DC - Recibo de Contribuição predial pago por Vicente Pinheiro de Melo]]
+  * [[100764.txt|100764 - DC - Sentença a favor de Vicente Machado de Melo Pinheiro da casa e quinta de Pindela extraída do inventário do seu tio José Maria de Melo]]
+  * [[101055.txt|101055 - DC - Instrumento de escritura de transação e obrigação entre António Francisco Nunes e mulher e Vicente Machado Melo Pinheiro e sua mulher e filho referente a muro]]
+  * [[101056.txt|101056 - DC - Transação entre António Francisco Nunes e Vicente Machado de melo Pinheiro, sua mulher e filho de uma casa na Rua Nova de Santo António]]
+  * [[101062.txt|101062 - DC - Nota sobre o prazo da casa Trás o Muro]]
+  * [[101063.txt|101063 - DC - Prazo que fazem Vicente Machado de Melo Pinheiro e mulher a Manuel José de Carvalho do lugar da Morteira, freguesia de Matamá]]
+  * [[101073.txt|101073 - DC - Salvador Gomes da Guerra, de Guimarães pede treslado da escritura de compra das casas na Rua dos Mercadores]]
+  * [[101083.txt|101083 - DC - Requerimento de Vicente Machado de Melo Pinheiro para uns autos de uma leira em Guimarães]]
+  * [[101084.txt|101084 - DC - Requerimento dos autos por Vicente Machado de Melo contra Simão Luís Rebelo de Andrade]]
+  * [[65679.txt|65679 - DC - Demanda relacionada com a Quinta de Refalcão entre Vicente Machado de Melo Pinheiro e sua mulher Carlota Carolina de Morais Correia contra José Bento de Magalhães]]
+  * [[77795.txt|77795 - DC - Caderno que há de servir para fazer o assento de todos os criados de lavoura desta Casa de Pindela e tem seu princípio no dia 6 de Abril de 1844, por mim o feitor Domingos Lourenço Gomes Costa]]
+  * [[77802.txt|77802 - DC - Execução de conciliação m que são requerentes Vicente Machado Pinheiro de melo e mulher os executados Narciso de Castro e mulher, em S. Tiago da Cruz e Arnoso.]]
+  * [[77804.txt|77804 - DC - Relação de rendas e foros devidos em diversos prazos]]
+  * [[78629.txt|78629 - DC - Papéis sobre a derrama da paróquia e sepulturas]]
+  * [[98171.txt|98171 - DC - Declaração de Vicente Machado de Melo Pinheiro, casado com Carlota Correia Morais e Almada que estão juntos contratados com José da Costa Ribeiro e sua mulher Josefa Maria da Costa, da freguesia de Mouquim, de lhe arrendarem os bens da Agra, casas, hortas e frutas delas e campo grande pegado à eira]]
+  * [[98231.txt|98231 - DC - Título de arrematação e posse dos bens da Bouça dos Viscondes de Pindela]]
+  * [[98276.txt|98276 - DC - Transação e paga que fizeram José Gomes Moreira e mulher a Vicente Machado de Melo Pinheiro e sua mulher]]
+  * [[98353.txt|98353 - DC - Escritura de declaração que fez João da Silva Azevedo e mulher Joaquina Gomes Moura, de S. Tiago da Cruz, e Domingos Lourenço Gomes da Costa como procurador de Vicente Machado Pinheiro de Melo]]
+  * [[98358.txt|98358 - DC - Pedido de Vicente Machado Pinheiro de Melo para imposição de vendas nos terrenos particulares na romaria do Senhor dos Aflitos]]
+  * [[98378.txt|98378 - DC - Compra de José Custódio de Magalhães e mulher Teresa Lopes de Carvalho, da Casa de Soutelo, da freguesia de Santa Senhorinha, julgado de Cabeceiras de Basto]]
+  * [[98379.txt|98379 - DC - Emprazamento de terreno por Vicente Machado Pinheiro de Melo a Custódio de Azevedo e mulher Luiza Gomes]]
+  * [[98380.txt|98380 - DC - Contrato de subemprazamento de Vicente Machado de Melo Pinheiro a João Costa e mulher da freguesia do Mosteiro de Arnoso, e medição e confrontação do terreno]]
+  * [[98413.txt|98413 - DC - Escritura de paga e quitação entre António Bento Machado e mulher da Casa da Ribeira ao Vicente Machado Pinheiro]]
+  * [[98414.txt|98414 - DC - Declaração de Domingos Lourenço Gomes da Costa, de Cruz, feita em Arnoso, referente a uma pedreira no monte de Azevedo, como procurador Vicente Pinheiro]]
+  * [[98417.txt|98417 - DC - Certidão de aforamento de terras pedida por Vicente Machado de Melo Pinheiro]]
+  * [[98470.txt|98470 - DC - Sentença de apelação cível sendo apelante Inês Francisca de Sales Pereira e apelador Vicente Machado de Melo]]
+  * [[98472.txt|98472 - DC - Escritura de venda de João Mendes de Oliveira, da freguesia, de Mouquim, a Manuel José da Costa Moreira]]
+  * [[98519.txt|98519 - DC - Contrato com Maria Josefa da Fonseca, viúva, de Santa Eulália de Arnoso, de arrendamento de uma leira do Capo da Seara ao pé da estrada que vai para a Minhoteira]]
+  * [[98535.txt|98535 - DC - Retificação de escritura de emprazamento que fez Vicente Machado de Melo a José da Silva Oliveira e mulher da freguesia do Mosteiro de Arnoso]]
+  * [[98537.txt|98537 - DC - Certidão de emprazamento requerida por Vicente Machado de melo Pinheiro, que João de Melo fez a Jacinto Gomes Morais, da freguesia de Arnoso]]
+  * [[98539.txt|98539 - DC - Minuta de aforamento de Vicente Machado a Manuel Gomes de Azevedo da freguesia de S. Salvador do Mosteiro de Arnoso]]
+  * [[98803.txt|98803 - DC - Certidão requerida por Vicente Machado referente a terras do Mosteiro de Arnoso]]
+  * [[98804.txt|98804 - DC - Carta de remissão do foro do Casal do Assento de S. Salvador de Arnoso]]
+  * [[98808.txt|98808 - DC - Prazo de parte da coutada do Monte de Azevedo, na freguesia de Arnoso que fez a Camara de Villa Nova de Famalicão a João Machado de Mello Pinheiro, requerida por Vicente Pinheiro de Mello]]
+  * [[99078.txt|99078 - DC - Escritura de compra que faz Vicente Machado de Melo a João Francisco Machado e mulher Luiza Maria Moreira, de uma leira, em Soutelo]]
+  * [[99079.txt|99079 - DC - Certidão do requerimento feito pela Junta de Paróquia de Cruz de sepulturas que aí tem Vicente Machado de Melo Pinheiro]]
+  * [[99082.txt|99082 - DC - Instrumento de justificação cível a favor de Vicente Machado de Melo Pinheiro e mulher sobre história da fundação da Capela do Senhor dos Aflitos]]
+  * [[99098.txt|99098 - DC - Escritura de emprazamento que faz José da Silva Taveira e Francisca Rosa Ribeiro, da freguesia de Gavião, a Vicente Pinheiro de Melo e sua mulher Carlota Correia leite de Morais]]
+  * [[99133.txt|99133 - DC - Arrendamento da Quinta dos Dardos feito pelo por Vicente Machado de Melo a Manuel da Cunha e mulher Maria da Luz, da freguesia de S. Miguel de Creixomil]]

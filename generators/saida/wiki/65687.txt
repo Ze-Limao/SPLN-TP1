@@ -1,0 +1,15 @@
+====== 65687 - DC - Certidão do tombo da igreja de S.Tiago de Antas com as freguesias que confina ======
+
+**Parent**:: 60730
+**RootParent**:: 60536
+**UnitTitle**:: Certidão do tombo da igreja de S.Tiago de Antas com as freguesias que confina
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1804-07-14
+**UnitDateFinal**:: 1804-07-14
+**ScopeContent**:: Manuscrito, com primeira folha timbrada "40 reis" e cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 226 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65687

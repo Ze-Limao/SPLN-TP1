@@ -1,0 +1,16 @@
+====== 21212 - UI - Secretaria Geral das Bibliothecas e Archivos Nacionaes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Secretaria Geral das Bibliothecas e Archivos Nacionaes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912-10-08
+**UnitDateFinal**:: 1912-10-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21212
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1500
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21212
+
+===== Filhos =====
+  * [[30136.txt|30136 - DC - Cartão]]

@@ -1,0 +1,15 @@
+====== 98786 - DC - Padre Benjamim Salgado 1916- 1978: Homenagem ao escritor, jornalista, compositor, professor, orador, pároco, autarca ======
+
+**Parent**:: 98787
+**RootParent**:: 7651
+**UnitTitle**:: Padre Benjamim Salgado 1916- 1978: Homenagem ao escritor, jornalista, compositor, professor, orador, pároco, autarca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1978
+**UnitDateFinal**:: 1978
+**ScopeContent**:: Medalha numa caixa de cartão. Edição da Câmara Municipal de Vila Nova de Famalicão. Feita por Galeria de Arte da Medalha, fabricante de medalhas comemorativas e Desportivas, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98781
+**LangMaterial**:: Português
+**PhysLoc**:: cx. 1
+depósito 1, estante 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98786

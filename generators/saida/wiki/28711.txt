@@ -1,0 +1,15 @@
+====== 28711 - SSC - Atividade pessoal ======
+
+**Parent**:: 27966
+**RootParent**:: 27963
+**UnitTitle**:: Atividade pessoal
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1908-11-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28711
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28711
+
+===== Filhos =====
+  * [[28713.txt|28713 - SSSC - Correspondência]]
+  * [[99800.txt|99800 - SSSC - Fotografia]]

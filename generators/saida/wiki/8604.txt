@@ -1,0 +1,18 @@
+====== 8604 - DC - Termo do exame de Alberto da Silva Carvalho ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Alberto da Silva Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-07-30
+**UnitDateFinal**:: 1889-07-30
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Maria Joaquina da Silva
+Naturalidade - Landim
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8604
+**LangMaterial**:: Português
+**PhysLoc**:: f. 65
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8604

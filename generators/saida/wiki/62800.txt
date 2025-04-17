@@ -1,0 +1,20 @@
+====== 62800 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - João Carvalho Neves e Ana Maria, no Calendário
+Naturalidade - Landim
+Morada - Ignora-se
+Data de nascimento - 1863-06-23
+Emprego - Criado de servir
+Estado - Solteiro
+Residência acidental - Santo Tirso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62800

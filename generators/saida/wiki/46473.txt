@@ -1,0 +1,18 @@
+====== 46473 - DC - Registo do recenseamento eleitoral de Domingos Carvalho ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Mogege
+Profissão - Lavrador
+Estado - Casado
+Morada - Carril
+Idade - 39
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46473
+**LangMaterial**:: Português
+**PhysLoc**:: 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46473

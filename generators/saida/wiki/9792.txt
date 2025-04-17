@@ -1,0 +1,15 @@
+====== 9792 - SR - Foto Alvão ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Foto Alvão
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9792
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9792
+
+===== Filhos =====
+  * [[9795.txt|9795 - DC - Assoalhando o linho - Nine]]

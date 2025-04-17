@@ -1,0 +1,18 @@
+====== 8170 - DC - Termo do exame de Augusto José Pinto ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Augusto José Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-05-29
+**UnitDateFinal**:: 1883-05-29
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Domingos José Pinto
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8170
+**LangMaterial**:: Português
+**PhysLoc**:: f. 5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8170

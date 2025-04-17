@@ -1,0 +1,16 @@
+====== 26123 - DC - Carta ======
+
+**Parent**:: 21228
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-05-25
+**UnitDateFinal**:: 1904-05-25
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26123
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 918 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26123

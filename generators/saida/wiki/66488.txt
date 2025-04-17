@@ -1,0 +1,15 @@
+====== 66488 - DC - Pedido de licença de António Alves de Azevedo, da freguesia de S. Tiago de Antas, para a criança ser batizada ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de António Alves de Azevedo, da freguesia de S. Tiago de Antas, para a criança ser batizada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-08-21
+**UnitDateFinal**:: 1867-08-21
+**ScopeContent**:: Manuscrito, original, papel com selo fiscal de 60 reis colado. No início o despacho de deferimento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 515 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66488

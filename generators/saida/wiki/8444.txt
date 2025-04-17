@@ -1,0 +1,18 @@
+====== 8444 - DC - Termo do exame de José António Fontes Barbosa ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José António Fontes Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-05-05
+**UnitDateFinal**:: 1885-05-05
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - António Fontes de Araújo
+Naturalidade - Jesufrei
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8444
+**LangMaterial**:: Português
+**PhysLoc**:: f. 24
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8444

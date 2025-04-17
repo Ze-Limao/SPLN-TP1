@@ -1,0 +1,15 @@
+====== 66130 - DC - Escritura de compra que fez Joaquim Ferreira e sua mulher, de Fradelos, a Manuel Costa Santos e mulher da mesma freguesia, do campo de terra lavradia chamado do Eirado no Lugar do Espírito Santo ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra que fez Joaquim Ferreira e sua mulher, de Fradelos, a Manuel Costa Santos e mulher da mesma freguesia, do campo de terra lavradia chamado do Eirado no Lugar do Espírito Santo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-02-01
+**UnitDateFinal**:: 1879-02-10
+**ScopeContent**:: Manuscrito em papel azul timbrado com o imposto de selo 60 réis, original, folhas cosidas sem capa. No canto esquerdo superior “Nota nº26. Af.55vº”. Junto com outro documento “Escritura de declaração que que fez Manuel Costa Santos e mulher de Fradelos a Manuel da Silva Maia da mesma. … o seu campo chamado do campo de terra lavradia chamado do Eirado de terra lavradia sito na mesma freguesia e lugar do Espírito Santo. 1879-02-10. Nota nº 26 af. 70.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 314 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66130

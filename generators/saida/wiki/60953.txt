@@ -1,0 +1,16 @@
+====== 60953 - DC - Carta ======
+
+**Parent**:: 28902
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870-01-14
+**UnitDateFinal**:: 1870-01-14
+**ScopeContent**:: Carta expedida de Portimão. Informa do envio de vides, figueiras e alfarrobeiras no navio "Puritano" com destino a Viana. Refere que gostava que Alberto e Antero se deslocassem a Portimão para banhos de mar e para Alberto analisar o clima e indicar produtos agrícolas do Norte que pudessem ser cultivados no sul.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28903
+**LangMaterial**:: Português
+**PhysLoc**:: AS 879 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60953

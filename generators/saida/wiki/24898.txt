@@ -1,0 +1,16 @@
+====== 24898 - DC - Ofício ======
+
+**Parent**:: 21093
+**RootParent**:: 20290
+**UnitTitle**:: Ofício
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-09-13
+**UnitDateFinal**:: 1919-09-13
+**ScopeContent**:: Ofício nº142 manuscrito assinado pelo vice-Presidente em exercício Cardoso Mirandella, dirigida ao Presidente da Comissão Promotora da Homenagem Póstuma ao Grande escritor Camilo Castelo Branco dando notícia que a Câmara não pode dar já o subsídio e aguarda orçamento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24898
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 333 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24898

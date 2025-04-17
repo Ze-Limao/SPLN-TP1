@@ -1,0 +1,17 @@
+====== 8361 - UI - Alexandre de Sousa e Melo ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Alexandre de Sousa e Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-05-02
+**UnitDateFinal**:: 1895-05-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8361
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.30
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8361
+
+===== Filhos =====
+  * [[8362.txt|8362 - DC - Carta]]
+  * [[8363.txt|8363 - DC - Carta]]

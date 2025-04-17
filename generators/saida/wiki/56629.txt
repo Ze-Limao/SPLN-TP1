@@ -1,0 +1,17 @@
+====== 56629 - DC - Postal ilustrado ======
+
+**Parent**:: 56627
+**RootParent**:: 31258
+**UnitTitle**:: Postal ilustrado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-12-28
+**UnitDateFinal**:: 1885-12-28
+**ScopeContent**:: Postal ilustrado com a Catedral de S. Pedro em Roma, assinado pela família Isabel, Miguel, Júlia, Francês e Fernando (8 anos), com envelope enviado de Roma para a Legação de Haia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56629
+**LangMaterial**:: Italiano
+**PhysLoc**:: CP 12368 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56629

@@ -1,0 +1,13 @@
+====== 8255 - DC - Carta ======
+
+**Parent**:: 8250
+**RootParent**:: 8241
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-07-19
+**UnitDateFinal**:: 1895-07-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8255
+**LangMaterial**:: Português
+**PhysLoc**:: Arquivo Sousa Fernandes, Correspondência, 34, nº 8
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8255

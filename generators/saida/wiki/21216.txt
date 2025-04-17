@@ -1,0 +1,22 @@
+====== 21216 - UI - Júlio de Castilho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Júlio de Castilho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-01-14
+**UnitDateFinal**:: 1917-05-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21216
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 859, 860, 861, 862, 863, 864,865
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21216
+
+===== Filhos =====
+  * [[26065.txt|26065 - DC - Carta]]
+  * [[26066.txt|26066 - DC - Carta]]
+  * [[26067.txt|26067 - DC - Carta]]
+  * [[26068.txt|26068 - DC - Carta]]
+  * [[26069.txt|26069 - DC - Carta]]
+  * [[26070.txt|26070 - DC - Carta]]
+  * [[26071.txt|26071 - DC - Carta]]

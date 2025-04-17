@@ -1,0 +1,12 @@
+====== 79607 - SSC - Grácia da Assunção Pinheiro de Melo ======
+
+**Parent**:: 31312
+**RootParent**:: 31258
+**UnitTitle**:: Grácia da Assunção Pinheiro de Melo
+**DescriptionLevel**:: SSC
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31314
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79607
+
+===== Filhos =====
+  * [[54801.txt|54801 - DC - Agenda de bolso]]

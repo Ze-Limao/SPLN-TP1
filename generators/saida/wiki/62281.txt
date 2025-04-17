@@ -1,0 +1,19 @@
+====== 62281 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - António de Matos e Ana Machado Dinis, na freguesia
+Naturalidade - Joane
+Morada - Joane
+Data de nascimento - 1856-10-06
+Emprego - Carpinteiro
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62281

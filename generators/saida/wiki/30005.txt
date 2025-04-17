@@ -1,0 +1,14 @@
+====== 30005 - DC - Joaquim Borges Alves de Araújo ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Borges Alves de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954-06-03
+**UnitDateFinal**:: 1954-06-03
+**ScopeContent**:: Regedor efetivo da freguesia de Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30005
+**LangMaterial**:: Português
+**PhysLoc**:: f. 3
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30005

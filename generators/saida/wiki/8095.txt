@@ -1,0 +1,15 @@
+====== 8095 - DC - Termo de José da Silva Mendes e Rosa da Silva Pinheiro ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José da Silva Mendes e Rosa da Silva Pinheiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-06-19
+**UnitDateFinal**:: 1879-06-19
+**ScopeContent**:: Mudança de um caminho público
+Local - Aves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8095
+**LangMaterial**:: Português
+**PhysLoc**:: f. 23
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8095

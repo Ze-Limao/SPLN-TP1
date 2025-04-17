@@ -1,0 +1,15 @@
+====== 25358 - DC - Total de serviços e comparências durante o mês de Agosto de 1952 ======
+
+**Parent**:: 25044
+**RootParent**:: 20342
+**UnitTitle**:: Total de serviços e comparências durante o mês de Agosto de 1952
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1952-08
+**UnitDateFinal**:: 1952-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25358
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 146 - cx. 38
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25358

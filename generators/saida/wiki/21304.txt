@@ -1,0 +1,16 @@
+====== 21304 - UI - António Bernardino de Sousa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Bernardino de Sousa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1889-03-22
+**UnitDateFinal**:: 1889-03-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21304
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1186
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21304
+
+===== Filhos =====
+  * [[29777.txt|29777 - DC - Carta]]

@@ -1,0 +1,20 @@
+====== 34474 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Pedome
+Data de nascimento - 1862-06-30
+Filiação - António da Silva e Rosa Marcolina
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34474
+**LangMaterial**:: Português
+**PhysLoc**:: 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34474

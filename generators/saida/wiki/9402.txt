@@ -1,0 +1,19 @@
+====== 9402 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Pereira e Joaquina Monteiro
+Naturalidade - Carreira
+Data de nascimento - 1877-03-07
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9402
+**LangMaterial**:: Português
+**PhysLoc**:: f. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9402

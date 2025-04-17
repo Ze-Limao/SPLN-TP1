@@ -1,0 +1,37 @@
+====== 54464 - SR - Documentos ======
+
+**Parent**:: 31273
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1599-04-29
+**UnitDateFinal**:: 1627
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54464
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54464
+
+===== Filhos =====
+  * [[100731.txt|100731 - DC - Petição de cónego Miguel Pinheiro e Figueira, cónego da Sé de Braga]]
+  * [[100732.txt|100732 - DC - Instituição do morgado Miguel Pinheiro Figueira a favor de Baltasar Pinheiro Lobo]]
+  * [[54253.txt|54253 - DC - Escritura de doação dos móveis, prazos e herdades que fez Afonso Pinheiro a Baltasar Pinheiro do prazo do casal de Ribela]]
+  * [[54254.txt|54254 - DC - Prazo velho da quinta do Mosteiro d´Arnozo]]
+  * [[60951.txt|60951 - DC - Testamento de João Arosa Pinto Machado]]
+  * [[60952.txt|60952 - DC - Compra da horta Montalvão a João Martins e mulher]]
+  * [[77858.txt|77858 - DC - Ordem contra alguns moradores desta freguesia de S. Tiago da Cruz por terem roçado no monte da Quinta de Pindela]]
+  * [[77863.txt|77863 - DC - Quitação da legítima do Reverendo Padre Frei Manuel da Cruz]]
+  * [[78278.txt|78278 - DC - Compra de leiras do casal de Monte Alvão, Sarnado por Manuel Figueira]]
+  * [[78420.txt|78420 - DC - Escritura de distrate do cónego Manuel Pinheiro Figueira do casal de Pousada, em Jesufrei por 200 mil reis a Pantaleão de Castro, de Vila do Conde]]
+  * [[78632.txt|78632 - DC - Relação das terras que o cónego Miguel Pinheiro da Figueira vinculou ao morgadio]]
+  * [[78641.txt|78641 - DC - Sentença contra António Álvares do Casal de Mariz]]
+  * [[78642.txt|78642 - DC - Carta de compra de Pantaleão de Castro, e a Miguel Pinheiro Figueira, da venda do casal de Pousada em Jesufrei]]
+  * [[78643.txt|78643 - DC - Carta de compra de Manuel Figueira a Justa Lopes, da quinta de Pousada, na freguesia de Jesufrei, e posse que dela tomou]]
+  * [[78653.txt|78653 - DC - Prazo da bouça da Lagoa, em Mariz]]
+  * [[78654.txt|78654 - DC - Venda que Diogo Figueira fez a Justa Lopes, da quinta de Pousada, na freguesia de Jesufrei]]
+  * [[98251.txt|98251 - DC - Escritura que fizeram as freiras de Vale de Pereira porque desistiram das demandas que trariam de metade da quinta da Ribela]]
+  * [[98252.txt|98252 - DC - Desistência de Paulo Cunha de Barcelos relativa à herança de Estevão Pinheiro do casal da Ribela]]
+  * [[98253.txt|98253 - DC - Sentença sobre várias demandas com Paulo Cunha, de Baltasar Pinho, sobre a herança de Estevão Pinheiro de metade da quinta de Ribela, por esta ficar vinculada com certa obrigação de missas ao Morgado de Pindela]]
+  * [[98254.txt|98254 - DC - Sentença de Paulo Cunha com as freiras de Vale de Pereira sobre o prazo da Ribela]]
+  * [[98855.txt|98855 - DC - Transação e obrigação do reverendo Miguel Pinheiro Figueira com Pero Fernandes e mulher Leonor Afonso, e Amador Emes e mulher Catarina Pires de Sezures]]
+  * [[98883.txt|98883 - DC - Confissão judicial a respeito do montado de Pindela, do cónego Miguel Pinheiro Figueira]]
+  * [[98884.txt|98884 - DC - Sentença de forca do cónego Miguel Pinheiro Figueira contra Gaspar Cardoso, Abade de S. Tiago da  Cruz, sobre o roçar dos montes da quinta e morgado de Pindela]]
+  * [[99071.txt|99071 - DC - Testamento de D. Pedro da Rocha Figueira deão de Braga]]

@@ -1,0 +1,16 @@
+====== 31059 - DC - Registo do recenseamento eleitoral de José Correia da Silva Oliveira ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Correia da Silva Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Landim
+Profissão - Eclesiástico
+Morada - Santa Marinha
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31059
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31059

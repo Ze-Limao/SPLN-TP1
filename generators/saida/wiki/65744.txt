@@ -1,0 +1,15 @@
+====== 65744 - DC - Emprazamento do casal da Cortinha, situado na freguesia de Avidos, feita por Jerónimo de Oliveira Carvalho, abade da Igreja de S. Tiago de Antas, a Bento João e a sua mulher Serafina de Araújo Pereira ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal da Cortinha, situado na freguesia de Avidos, feita por Jerónimo de Oliveira Carvalho, abade da Igreja de S. Tiago de Antas, a Bento João e a sua mulher Serafina de Araújo Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1712-09-17
+**UnitDateFinal**:: 1712-09-17
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 144 - cx. 6
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65744

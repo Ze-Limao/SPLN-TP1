@@ -1,0 +1,15 @@
+====== 65767 - DC - Sentença cível de emprazamento do casal de Freitas, situado na freguesia de S. Tiago de Rebordães, concelho de S. Tirso, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Manuel Dias ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal de Freitas, situado na freguesia de S. Tiago de Rebordães, concelho de S. Tirso, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Manuel Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1784-07-02
+**UnitDateFinal**:: 1784-07-22
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. A data de 1784-07-22 é a do registo geral da Corte do Livro de Prazos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 207 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65767

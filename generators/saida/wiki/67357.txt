@@ -1,0 +1,15 @@
+====== 67357 - UI - Manuel II, Rei de Portugal ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Manuel II, Rei de Portugal
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1909-03-22
+**UnitDateFinal**:: 1910-02-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67357
+
+===== Filhos =====
+  * [[67360.txt|67360 - DC - Telegrama]]
+  * [[67361.txt|67361 - DC - Telegrama]]

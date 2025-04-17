@@ -1,0 +1,16 @@
+====== 29753 - DC - Carta ======
+
+**Parent**:: 21283
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926-09-10
+**UnitDateFinal**:: 1926-09-10
+**ScopeContent**:: Carta manuscrita assinada, da Quinta do Vilar. Informa que vai entregar a Mesquita Guimarães toda a documentação referente ao Monte do Facho só depois da criação da Confraria. Pede a JAM um conselho sobre esta matéria.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29753
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1163 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29753

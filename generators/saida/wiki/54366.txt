@@ -1,0 +1,55 @@
+====== 54366 - SR - Documentos ======
+
+**Parent**:: 31304
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1800
+**UnitDateFinal**:: 1877
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54366
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54366
+
+===== Filhos =====
+  * [[100683.txt|100683 - DC - Manuel António de Magalhães, secretário da junta da Paróquia da freguesia de S. Tiago da Cruz, passa certidão sobre um requerimento de Joaquim Pinto Leite, do Porto, como testamenteiro de José da Costa Pires, em 1866-08-26]]
+  * [[100713.txt|100713 - DC - Recibos da Santa Casa da Misericórdia de Guimarães do Visconde de Pindela, por mão do S. Fortunato José da Silva Bento, relativos a escrituras desde 1832 a 1871]]
+  * [[100718.txt|100718 - DC - Recibos da Companhia Geral Bracarense do Visconde de Pindela]]
+  * [[100719.txt|100719 - DC - Recibos Contribuições de renda de casas e sumptuaria]]
+  * [[100724.txt|100724 - DC - Recibos]]
+  * [[100727.txt|100727 - DC - Desenho de localização de capela]]
+  * [[54475.txt|54475 - DC - Vínculos da casa de Pindela]]
+  * [[79064.txt|79064 - DC - Convite de casamento de Eulália Estelita Freitas e João Machado Pinheiro de Mello]]
+  * [[98272.txt|98272 - DC - Sentença cível contra José, filho de Manuel Araújo Alves, de Mouquim a favor dos viscondes de Pindela]]
+  * [[98364.txt|98364 - DC - Certidão predial pedida por António de Alpoim Fortunato]]
+  * [[98365.txt|98365 - DC - Certidão predial sobre hipotecas em Pindela pedida por António Alpoim Fortunato]]
+  * [[98366.txt|98366 - DC - Certidão predial sobre hipotecas a pedido dos Viscondes de Pindela]]
+  * [[98367.txt|98367 - DC - Requerimento para certificar campos em S. Tiago da Cruz]]
+  * [[98368.txt|98368 - DC - Certidão predial de vários prédios]]
+  * [[98369.txt|98369 - DC - Certidão predial de vários prédios]]
+  * [[98370.txt|98370 - DC - Certidão predial de vários prédios]]
+  * [[98371.txt|98371 - DC - Certidão predial de vários prédios]]
+  * [[98372.txt|98372 - DC - Declaração feita por António de Oliveira e mulher e António Ferreira sobre venda de terras no lugar de Ermida em S. Eulália a Manuel José de Araújo]]
+  * [[98373.txt|98373 - DC - Compra de José da Costa Carvalho a José Martins de Carvalho da freguesia de S. Eulália]]
+  * [[98374.txt|98374 - DC - Compra de José Ferreira, viúvo, da freguesia de S. Eulália de Arnoso a José Martins de Carvalho da freguesia de S. Eulália]]
+  * [[98375.txt|98375 - DC - Compra de Domingos Ramos de Faria Almeida a José Martins de Carvalho]]
+  * [[98376.txt|98376 - DC - Compra de Santos Fernandes a José Martins Carvalho da freguesia de S. Eulália de Arnoso]]
+  * [[98377.txt|98377 - DC - Declaração de António José de Oliveira e mulher Antónia Ferreira, da freguesia de S. Eulália de Arnoso, sobre um contrato com António José Andrade]]
+  * [[98381.txt|98381 - DC - Ajuste de arrendamento entre João Pinheiro da Costa e Viscondes de Pindela]]
+  * [[98382.txt|98382 - DC - Ajuste com Manuel José Pinheiro da Cruz e mulher Mariana, na freguesia de S. Tiago da Cruz, com Viscondes de Pindela]]
+  * [[98383.txt|98383 - DC - Arrendamento a António da Silva Pinto e a mulher Clementina, morador na Casa da Bouça, freguesia de S. Tiago da Cruz, por Viscondes de Pindela]]
+  * [[98410.txt|98410 - DC - Obrigação de Penhor do Banco Mercantil de Braga]]
+  * [[98412.txt|98412 - DC - Quitação de António Joaquim Ribeiro ao Visconde e Pindela]]
+  * [[98415.txt|98415 - DC - Recibo passado aos Viscondes de Pindela]]
+  * [[98416.txt|98416 - DC - Certidão predial de diversos prédios em Arnoso requerida por Vicente Pinheiro]]
+  * [[98802.txt|98802 - DC - Certidão predial de inscrição hipotecária sobre prédios do Mosteiro de Arnoso]]
+  * [[98863.txt|98863 - DC - Compra de António de Oliveira e mulher a António Ferreira Martins da leira da Agra, em Santa Eulália Arnoso]]
+  * [[98865.txt|98865 - DC - Compra que faz Margarida Ferreira, solteira, de Arentim a António José de Oliveira e mulher, de um campo em Vessadas de Arnoso.]]
+  * [[98866.txt|98866 - DC - Venda de António de Oliveira para António Ferreira]]
+  * [[98867.txt|98867 - DC - Venda de António José de Andrade e mulher Teresa Gomes da Costa, da freguesia de Santa Eulália de Arnoso, a José Ferreira Barbosa, da freguesia do Mosteiro de Arnoso, o Eido e casas, no lugar do Monte]]
+  * [[98868.txt|98868 - DC - Venda de António de Oliveira e mulher Antónia Ferreira a Joaquim Gomes Ferreira e Martins e mulher, de Nine, o cortelho da Agra, na freguesia de Santa Euláliade Arnoso]]
+  * [[98869.txt|98869 - DC - Venda de António de Oliveira e mulher Antónia Ferreira, do lugar do Silvão da freguesia de Santa Eulália de Arnoso,  a Manuel Gomes de Azevedo e mulher do lugar de Trancoso da mesma freguesia, o cortelho da Chansinha]]
+  * [[98870.txt|98870 - DC - Compra de Joaquim José da Costa, casado, a António José de Oliveira e mulher, de Santa Eulália, de um prazo de Pindela]]
+  * [[99077.txt|99077 - DC - Contrato de de arrendamento de João Machado Pinheiro e mulher Eulália Estelista de Freitas a António da Silva Pinto e mulher Clementina Barbosa, de Cruz, da Quinta do Soutelo]]
+  * [[99109.txt|99109 - DC - Procuração passada por João Machado a José de Azevedo e Meneses]]
+  * [[99110.txt|99110 - DC - Declaração de João Machado Pinheiro Correia de Melo e mulher Eulália Estelita de Freitas Melo Castro e Padre Manuel Gomes Jacome, pároco da freguesia de S. Eulália, sobre uma leira de terra de mato de que são possuidores, no lugar do Monte, S. Salvador do Mosteiro de Arnoso]]
+  * [[99111.txt|99111 - DC - Títulos que dizem respeito às aguas da Casa de Pindela que convem registar]]

@@ -1,0 +1,17 @@
+====== 54510 - DC - O rendimento da cultura do Pinheiro Bravo ======
+
+**Parent**:: 54493
+**RootParent**:: 31258
+**UnitTitle**:: O rendimento da cultura do Pinheiro Bravo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Apontamentos em folhas brancas manuscritas a lápis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54510
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2417 - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54510

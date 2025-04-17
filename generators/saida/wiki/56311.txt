@@ -1,0 +1,17 @@
+====== 56311 - DC - Casa de Pindela S. Miguel de 1908. Recibos e contas archivadas relativas à Administração desta Casa até 29 de setembro de 1909. Menezes ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Pindela S. Miguel de 1908. Recibos e contas archivadas relativas à Administração desta Casa até 29 de setembro de 1909. Menezes
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1909-09-29
+**ScopeContent**:: Este maço contém CP 11698 (1) a CP 11698 (113). Contém 113 documentos manuscritos e impressos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56311
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11698 (1) a 11698 (113) - cx. 64
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56311

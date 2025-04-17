@@ -1,0 +1,14 @@
+====== 8008 - DC - Termo de Manuel António Ferreira ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel António Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-04-05
+**UnitDateFinal**:: 1871-04-05
+**ScopeContent**:: Declaração para ser considerado cidadão brasileiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8008
+**LangMaterial**:: Português
+**PhysLoc**:: f. 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8008

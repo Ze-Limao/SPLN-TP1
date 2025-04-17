@@ -1,0 +1,17 @@
+====== 101120 - DC - Processo crime de defloração contra João Machado Fagundes instado em 1671 por Mariana do Amaral e seu pai Geraldo de Vilas Boas, nobres de Braga ======
+
+**Parent**:: 54469
+**RootParent**:: 31258
+**UnitTitle**:: Processo crime de defloração contra João Machado Fagundes instado em 1671 por Mariana do Amaral e seu pai Geraldo de Vilas Boas, nobres de Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Manuscrito. Este documento estava na “Caixa 18”, que contém CP 13256 a CP 13368. Junto com CP 13260, CP 13261 e 13262.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54262
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13259 - cx. 92
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=101120

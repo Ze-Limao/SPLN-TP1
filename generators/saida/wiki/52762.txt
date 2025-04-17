@@ -1,0 +1,16 @@
+====== 52762 - DC - Registo do recenseamento militar de Manuel Ferreira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-05-04
+Filiação - Francisco Ferreira e Quitéria Rosa
+Naturalidade - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52762
+**LangMaterial**:: Português
+**PhysLoc**:: 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52762

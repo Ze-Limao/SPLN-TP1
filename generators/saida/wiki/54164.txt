@@ -1,0 +1,16 @@
+====== 54164 - DC - Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício do Tribunal Judicial. Câmara Municipal de Famalicão. Programa de concurso e proposta ======
+
+**Parent**:: 54163
+**RootParent**:: 25851
+**UnitTitle**:: Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício do Tribunal Judicial. Câmara Municipal de Famalicão. Programa de concurso e proposta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-03
+**UnitDateFinal**:: 1961-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54164
+**LangMaterial**:: Português
+**PhysLoc**:: JG 174(2) - cx. 7
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54164

@@ -1,0 +1,19 @@
+====== 20377 - SSC - Material especializado para bombeiros ======
+
+**Parent**:: 20375
+**RootParent**:: 20342
+**UnitTitle**:: Material especializado para bombeiros
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1891-11-16
+**UnitDateFinal**:: 1961-06-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20377
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20377
+
+===== Filhos =====
+  * [[25055.txt|25055 - UI - Material de incêndios]]
+  * [[25056.txt|25056 - UI - Panfletos de material especializado para bombeiros (viaturas)]]
+  * [[25057.txt|25057 - UI - Documentos diversos sobre viaturas e material para incêndios]]
+  * [[25058.txt|25058 - UI - Documentos diversos sobre viaturas e material para incêndios]]

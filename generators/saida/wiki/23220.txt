@@ -1,0 +1,16 @@
+====== 23220 - DC - Registo do recenseamento eleitoral de António José Ribeiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Riba de Ave
+Profissão - Alfaiate
+Morada - Sobreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23220
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23220

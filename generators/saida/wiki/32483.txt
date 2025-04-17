@@ -1,0 +1,17 @@
+====== 32483 - DC - Bilhete-postal ======
+
+**Parent**:: 32473
+**RootParent**:: 31258
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-11-25
+**UnitDateFinal**:: 1889-11-26
+**ScopeContent**:: Carta manuscrita assinada, de Paris para Haia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32483
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12342 - cx. 71
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32483

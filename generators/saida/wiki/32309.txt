@@ -1,0 +1,18 @@
+====== 32309 - UI - Joaquim Anacleto Pedrosa de Azevedo ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Joaquim Anacleto Pedrosa de Azevedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32309
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32309
+
+===== Filhos =====
+  * [[32310.txt|32310 - DC - Cartão de visita]]

@@ -1,0 +1,16 @@
+====== 21416 - UI - Henrique Machado ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Henrique Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-20
+**UnitDateFinal**:: 1913-02-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21416
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1394
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21416
+
+===== Filhos =====
+  * [[30246.txt|30246 - DC - Carta]]

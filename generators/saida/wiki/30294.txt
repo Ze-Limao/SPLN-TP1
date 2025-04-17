@@ -1,0 +1,16 @@
+====== 30294 - DC - Carta ======
+
+**Parent**:: 21453
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-07-01
+**UnitDateFinal**:: 1920-07-01
+**ScopeContent**:: Jorge Colaço informa que vai fazer o retrato de Camilo no painel de azulejos a tempo da inauguração da escola em Seide. Carta manuscrita e assinada, de Rua Conde de Óbidos, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30294
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1453 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30294

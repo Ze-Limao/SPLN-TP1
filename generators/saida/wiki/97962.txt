@@ -1,0 +1,15 @@
+====== 97962 - UI - Processo nº 557 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 557
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-09-13
+**UnitDateFinal**:: 1973-05-31
+**ScopeContent**:: Junto com Auto de Transgressão nº 555 e e escrituras de constituição de sociedade.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 663 - cx. 37
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97962

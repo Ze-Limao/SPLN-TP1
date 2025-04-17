@@ -1,0 +1,19 @@
+====== 63586 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Manuel Luís de Miranda e Maria Rosa de Freitas Avis
+Naturalidade - Vermoim
+Morada - Ignora-se
+Data de nascimento - 1866-03-10
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63586

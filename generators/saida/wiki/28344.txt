@@ -1,0 +1,16 @@
+====== 28344 - DC - Os muçulmanos ou sarracenos ======
+
+**Parent**:: 28329
+**RootParent**:: 27963
+**UnitTitle**:: Os muçulmanos ou sarracenos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Índice temático circunscrito aos muçulmanos, feito por Alberto Sampaio, da obra de Alexandre Herculano História de Portugal. Tem referência bibliográfica: Alexandre Herculano - História de Portugal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28344
+**LangMaterial**:: Português
+**PhysLoc**:: AS 45 (15) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28344

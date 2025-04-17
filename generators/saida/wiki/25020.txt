@@ -1,0 +1,16 @@
+====== 25020 - UI - Desenho com poema colado num cartão sobre o presidente do Club Sete e meia ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Desenho com poema colado num cartão sobre o presidente do Club Sete e meia
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1990
+**ScopeContent**:: Desenho com poema colado num cartão, no verso a lápis: “Sebastião de Carvalho”. Não está datado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25020
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 123 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25020

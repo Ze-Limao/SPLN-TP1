@@ -1,0 +1,18 @@
+====== 47258 - DC - Registo do recenseamento eleitoral de António José Dias Guimarães ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Dias Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Negociante
+Estado - Viúvo
+Morada - Feira
+Idade - 65
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47258
+**LangMaterial**:: Português
+**PhysLoc**:: 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47258

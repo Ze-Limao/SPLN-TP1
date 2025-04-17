@@ -1,0 +1,16 @@
+====== 29965 - DC - Carta ======
+
+**Parent**:: 21356
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-08-25
+**UnitDateFinal**:: 1919-08-25
+**ScopeContent**:: Carta manuscrita assinada, de Ponte de Lima. Nota manuscrita de JAM "Agradeci em 2-IX-1919".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29965
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1273 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29965

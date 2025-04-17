@@ -1,0 +1,15 @@
+====== 61231 - UI - João de Barros ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: João de Barros
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1950-09-13
+**UnitDateFinal**:: 1950-09-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61231
+
+===== Filhos =====
+  * [[61232.txt|61232 - DC - Carta]]

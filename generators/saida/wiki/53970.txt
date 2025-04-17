@@ -1,0 +1,16 @@
+====== 53970 - DC - Fotografia do primeiro carro Berliet ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Fotografia do primeiro carro Berliet
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926
+**UnitDateFinal**:: 1926
+**ScopeContent**:: Fotografia tirada à porta do quartel na Rua Adriano Pinto Basto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53970
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53970

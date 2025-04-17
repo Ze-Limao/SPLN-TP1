@@ -1,0 +1,19 @@
+====== 9299 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Maria Rosa de Paiva
+Naturalidade - Ruivães
+Data de nascimento - 1877-04-09
+Profissão - 
+Estado civil - Solteiro
+Residência - Refojos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9299
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9299

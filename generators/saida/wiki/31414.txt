@@ -1,0 +1,19 @@
+====== 31414 - UI - Alberto de Aguiar ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Alberto de Aguiar
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-01-26
+**UnitDateFinal**:: 1915-03-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31414
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3449, 3450.
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31414
+
+===== Filhos =====
+  * [[31494.txt|31494 - DC - Cartão de visita]]
+  * [[31495.txt|31495 - DC - Nota]]

@@ -1,0 +1,20 @@
+====== 20656 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Esmeriz
+Filiação - João José  Barbosa e Joana Rosa de Sá
+Naturalidade - Esmeriz
+Data de nascimento - 1869-06-16
+Emprego - Lavrador
+Estado - Solteiro
+Residência - Esmeriz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20656
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20656

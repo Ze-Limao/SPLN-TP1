@@ -1,0 +1,15 @@
+====== 66171 - DC - Carta de examinação de Rodrigo Mendonça ======
+
+**Parent**:: 63976
+**RootParent**:: 60536
+**UnitTitle**:: Carta de examinação de Rodrigo Mendonça
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1743-12-06
+**UnitDateFinal**:: 1743-12-09
+**ScopeContent**:: Manuscrito, original, sem capa. Certificado de batismo de Doutor reverendo Inácio Gonçalves da Santa Examinações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 329 -  cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66171

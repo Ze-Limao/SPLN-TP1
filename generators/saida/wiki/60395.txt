@@ -1,0 +1,17 @@
+====== 60395 - DC - Anleitung zur Benutzung der Entwicklungs und Druck-Ausrustung / Kodak ======
+
+**Parent**:: 54535
+**RootParent**:: 31258
+**UnitTitle**:: Anleitung zur Benutzung der Entwicklungs und Druck-Ausrustung / Kodak
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905
+**UnitDateFinal**:: 193
+**ScopeContent**:: Livreto impresso em Berlim pela Kodak com instruções para usar o equipamento de revelação e impressão de fotografia. Na primeira página assinado "Júlia Leonor Pinheiro".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56820
+**LangMaterial**:: Alemão
+**PhysLoc**:: CP 1248 - cx. 8
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60395

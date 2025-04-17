@@ -1,0 +1,15 @@
+====== 25945 - DC - Retrato de conjunto do Corpo Ativo e Drº Sampaio na Homenagem ao Comandante Fernando Soares ======
+
+**Parent**:: 25316
+**RootParent**:: 20342
+**UnitTitle**:: Retrato de conjunto do Corpo Ativo e Drº Sampaio na Homenagem ao Comandante Fernando Soares
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1992-01-10
+**UnitDateFinal**:: 1992-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25945
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 185 - cx. 49
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25945

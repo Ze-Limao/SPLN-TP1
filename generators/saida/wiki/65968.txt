@@ -1,0 +1,15 @@
+====== 65968 - DC - Monitória para Sebastião Gonçalves (?) ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Monitória para Sebastião Gonçalves (?)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1540
+**UnitDateFinal**:: 1560
+**ScopeContent**:: Manuscrito, original, com selo. Foi restaurado e acondicionado em 2021.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 289 - Capa P6
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65968

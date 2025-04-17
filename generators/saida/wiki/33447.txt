@@ -1,0 +1,17 @@
+====== 33447 - DC - Carta ======
+
+**Parent**:: 33439
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-12-24
+**UnitDateFinal**:: 1891-12-24
+**ScopeContent**:: Carta manuscrita assinada em papel de luto, de Lisboa. Esta carta pertence ao maço "Hollande 1889 a 1891".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33447
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12468 - cx. 72
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33447

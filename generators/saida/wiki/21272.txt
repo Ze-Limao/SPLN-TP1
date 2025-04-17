@@ -1,0 +1,18 @@
+====== 21272 - UI - Abílio Torres ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Abílio Torres
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-03-07
+**UnitDateFinal**:: 1913-03-07
+**ScopeContent**:: Abílio Torres ilustre médico vizelense e principal fundador do Balneário das Termas de Vizela. Esteve ligado à fundação dos Bombeiros de Vizela e da Filarmónica Vizelense. O seu nome foi dado à principal rua de Vizela. Nasceu em Barrosas em 1846.
+Fonte: Digital de Vizela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21272
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1117
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21272
+
+===== Filhos =====
+  * [[29708.txt|29708 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 61309 - DC - Carta ======
+
+**Parent**:: 60925
+**RootParent**:: 60550
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1935-05-30
+**UnitDateFinal**:: 1935-05-30
+**ScopeContent**:: Carta datilografada de La Guardia. Junto com três documentos: Orçamento manuscrito do construtor civil Elísio Ferreira Brandão, em papel timbrado, 1835-05-24 (DR 52 (2)); Orçamento manuscrito de Augusto de Azevedo sobre custos de obra (DR 52(3)); Orçamento manuscrito de Abílio Duarte Miranda para casa de Rorigo, 1835-05-24  (DR 53(4)); Orçamento de José Gomes Lamego, 1835-05-20 (DR 52(5)).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 52 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61309

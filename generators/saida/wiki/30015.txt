@@ -1,0 +1,14 @@
+====== 30015 - DC - Mário Dias Carneiro ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Mário Dias Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1955-01-12
+**UnitDateFinal**:: 1955-01-12
+**ScopeContent**:: Regedor efetivo da freguesia da Portela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30015
+**LangMaterial**:: Português
+**PhysLoc**:: f. 8
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30015

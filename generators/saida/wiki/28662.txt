@@ -1,0 +1,18 @@
+====== 28662 - DC - Notas de investigação alusivas às inquirições de D. Afonso III (1258) na Foz do Douro, Lordelo e Nevogilde ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas de investigação alusivas às inquirições de D. Afonso III (1258) na Foz do Douro, Lordelo e Nevogilde
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28662
+**LangMaterial**:: Português
+**PhysLoc**:: AS 117 (1) a 117 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28662
+
+===== Filhos =====
+  * [[28663.txt|28663 - DC - Foz do Douro (S. João da Foz) Lordelo]]
+  * [[28664.txt|28664 - DC - De Judicatu Bauzarum]]

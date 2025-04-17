@@ -1,0 +1,19 @@
+====== 34069 - DC - Registo do recenseamento militar de Manuel Francisco ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Mogege
+Data de nascimento - 1852-10-17
+Filiação - António Francisco e Antónia Maria Ribeiro
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34069
+**LangMaterial**:: Português
+**PhysLoc**:: 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34069

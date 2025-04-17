@@ -1,0 +1,16 @@
+====== 23098 - DC - Carta para Luís de Gonzaga Cardoso de Menezes Pinheiro de Azevedo ======
+
+**Parent**:: 21036
+**RootParent**:: 20290
+**UnitTitle**:: Carta para Luís de Gonzaga Cardoso de Menezes Pinheiro de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-04-27
+**UnitDateFinal**:: 1919-04-27
+**ScopeContent**:: Alberto Osório de Castro informa que nada sabe sobre o paradeiro de D. Manuel de Noronha. Informa também que seu irmão deve ter apontamentos sobre os Bourbons. Carta assinada, Pas de Calais.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23098
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 24 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23098

@@ -1,0 +1,16 @@
+====== 26143 - DC - Carta ======
+
+**Parent**:: 21229
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-09-28
+**UnitDateFinal**:: 1907-09-28
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "A Palavra. Diário Catholico. Porto".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26143
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 938 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26143

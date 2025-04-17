@@ -1,0 +1,17 @@
+====== 45519 - UI - Manuel Marinho Falcão ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Manuel Marinho Falcão
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45519
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45519
+
+===== Filhos =====
+  * [[45520.txt|45520 - DC - Carta]]
+  * [[45521.txt|45521 - DC - Carta]]

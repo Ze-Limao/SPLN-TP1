@@ -1,0 +1,19 @@
+====== 20574 - DC - Registo do recenseamento militar de Bernardino ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Fradelos
+Filiação - Joaquim António da Silva e Ana Ferreira
+Naturalidade - radelos
+Data de nascimento - 1870-05-18
+Estado - Solteiro
+Residência - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20574
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20574

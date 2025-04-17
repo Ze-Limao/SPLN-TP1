@@ -1,0 +1,17 @@
+====== 54813 - DC - Rosa seca oferecida pelo do Grão-Duque do Luxemburgo ======
+
+**Parent**:: 54476
+**RootParent**:: 31258
+**UnitTitle**:: Rosa seca oferecida pelo do Grão-Duque do Luxemburgo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-22
+**UnitDateFinal**:: 1891-07-22
+**ScopeContent**:: Rosa seca oferecida pelo do Grão-Duque do Luxemburgo a Vicente Pinheiro, no jantar de 22 julho 1891, no Château de Walferlange, Luxemburgo. Tem a envolvê-la uma tira de papel onde se lê: «Rosa dada pelo Grão-Duque do Luxemburgo no jantar de 22 de Julho de 1891. Luxemburgo, Chateau de Walferdange» (caligrafia de Amália).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54813
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7367 - cx. 99
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54813

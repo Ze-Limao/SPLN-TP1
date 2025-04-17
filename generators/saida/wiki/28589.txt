@@ -1,0 +1,15 @@
+====== 28589 - SR - O Norte Marítimo ======
+
+**Parent**:: 28237
+**RootParent**:: 27963
+**UnitTitle**:: O Norte Marítimo
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1890-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28589
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28589
+
+===== Filhos =====
+  * [[28590.txt|28590 - DC - Revisão do estudo Norte Marítimo publicado na «Revista de Portugal»]]
+  * [[28591.txt|28591 - DC - Manuscrito relacionado com o Norte Marítimo]]

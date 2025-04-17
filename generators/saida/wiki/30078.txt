@@ -1,0 +1,14 @@
+====== 30078 - DC - José Maria de Oliveira Reis ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: José Maria de Oliveira Reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1970-04-15
+**UnitDateFinal**:: 1970-04-15
+**ScopeContent**:: Regedor substituto da freguesia de Cruz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30078
+**LangMaterial**:: Português
+**PhysLoc**:: f. 40
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30078

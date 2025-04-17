@@ -1,0 +1,18 @@
+====== 31485 - UI - João Rodrigues de Sá e Abreu ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: João Rodrigues de Sá e Abreu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901
+**UnitDateFinal**:: 1910
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31485
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11890
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31485
+
+===== Filhos =====
+  * [[31491.txt|31491 - DC - Cartão de visita]]

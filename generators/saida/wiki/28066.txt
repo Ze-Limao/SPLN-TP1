@@ -1,0 +1,15 @@
+====== 28066 - SSC - Atividade de investigação ======
+
+**Parent**:: 27965
+**RootParent**:: 27963
+**UnitTitle**:: Atividade de investigação
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1855
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28066
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28066
+
+===== Filhos =====
+  * [[28265.txt|28265 - SSSC - Referências bibliográficas]]
+  * [[28291.txt|28291 - SSSC - Notas de investigação]]

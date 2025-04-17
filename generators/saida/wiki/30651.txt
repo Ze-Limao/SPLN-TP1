@@ -1,0 +1,16 @@
+====== 30651 - DC - Registo do recenseamento eleitoral de Francisco Salgado ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Salgado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Calendário
+Profissão - Lavrador
+Morada - Outeiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30651
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30651

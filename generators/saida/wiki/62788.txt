@@ -1,0 +1,20 @@
+====== 62788 - DC - Registo do recenseamento militar de Domingos ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - José Joaquim Fernandes e Maria Máxima, na freguesia
+Naturalidade - Landim
+Morada - Ignora-se
+Data de nascimento - 1863-02-28
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62788

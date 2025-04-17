@@ -1,0 +1,18 @@
+====== 8457 - DC - Termo do exame de Herminigildo José de Oliveira ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Herminigildo José de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-05-06
+**UnitDateFinal**:: 1885-05-06
+**ScopeContent**:: Grau - Elementar
+Idade - 19
+Filiação - Domingos José de Oliveira Braga
+Naturalidade - Vila Nova de Famalicão
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8457
+**LangMaterial**:: Português
+**PhysLoc**:: f. 27
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8457

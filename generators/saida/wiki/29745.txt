@@ -1,0 +1,16 @@
+====== 29745 - DC - Carta ======
+
+**Parent**:: 21294
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1914
+**ScopeContent**:: Carta manuscrita assinada de 9 de janeiro, sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29745
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1156 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29745

@@ -1,0 +1,16 @@
+====== 22125 - DC - Carta ======
+
+**Parent**:: 21178
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-03-01
+**UnitDateFinal**:: 1894-03-01
+**ScopeContent**:: No cumprimento das ordens tem procurado obter a cópia dos documentos nos arquivos de Bragança e na Torre do Tombo. Apresenta a listagem de alguns documentos que podem estar ligados ao assunto solicitado. Carta manuscrita assinada, Rua da Esperança 19 - 2º andar D., Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22125
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 568 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22125

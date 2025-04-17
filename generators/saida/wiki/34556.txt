@@ -1,0 +1,20 @@
+====== 34556 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Lousado
+Data de nascimento - 1862-07-11
+Filiação - João de Azevedo e Claudina Rosa
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34556
+**LangMaterial**:: Português
+**PhysLoc**:: 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34556

@@ -1,0 +1,16 @@
+====== 28074 - DC - Ofício do diretor da Companhia dos Banhos de Vizela dirigido a Alberto Sampaio. ======
+
+**Parent**:: 29457
+**RootParent**:: 27963
+**UnitTitle**:: Ofício do diretor da Companhia dos Banhos de Vizela dirigido a Alberto Sampaio.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-06-05
+**UnitDateFinal**:: 1889-06-05
+**ScopeContent**:: Ofício impresso, na frente e numa das partes encontra-se o nome do destinatário, Alberto da Cunha Sampaio, e o endereço, Guimarães, ambos manuscritos, apresentando ainda o selo no valor de cinco réis, com carimbo do correio. Na outra parte da folha o texto do ofício impresso, com assinatura, também impressa do diretor Domingos José de Souza Júnior e data de 5 de Junho de 1889.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28074
+**LangMaterial**:: Português
+**PhysLoc**:: AS 166- cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28074

@@ -1,0 +1,16 @@
+====== 52423 - DC - Registo do recenseamento militar de António Couto ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Couto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-09-20
+Filiação - Maria Couto
+Naturalidade - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52423
+**LangMaterial**:: Português
+**PhysLoc**:: 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52423

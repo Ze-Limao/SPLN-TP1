@@ -1,0 +1,14 @@
+====== 100574 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7955
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 466
+depósito 2, estante
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100574

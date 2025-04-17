@@ -1,0 +1,16 @@
+====== 30658 - DC - Registo do recenseamento eleitoral de João José Barbosa ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João José Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Calendário
+Profissão - Lavrador
+Morada - Paços
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30658
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30658

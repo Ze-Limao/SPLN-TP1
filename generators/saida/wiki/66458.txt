@@ -1,0 +1,15 @@
+====== 66458 - DC - Procuração de Barão de Massarelos para José Lobo ser padrinho de uma filha de Ana de Albuquerque e de António de Freitas, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Procuração de Barão de Massarelos para José Lobo ser padrinho de uma filha de Ana de Albuquerque e de António de Freitas, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1857-04-24
+**UnitDateFinal**:: 1857-04-24
+**ScopeContent**:: Manuscrito, original, papel azul.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 494 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66458

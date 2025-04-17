@@ -1,0 +1,18 @@
+====== 48049 - DC - Registo do recenseamento eleitoral de Manuel Luís Simões ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Luís Simões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Jesufrei
+Profissão - Lavrador
+Estado - Casado
+Morada - Paço
+Idade - 69
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48049
+**LangMaterial**:: Português
+**PhysLoc**:: 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48049

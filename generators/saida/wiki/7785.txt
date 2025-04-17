@@ -1,0 +1,14 @@
+====== 7785 - SR - Livros de Actas de Verificação de Poderes do Conselho Municipal e Câmara Municipal ======
+
+**Parent**:: 7783
+**RootParent**:: 7651
+**UnitTitle**:: Livros de Actas de Verificação de Poderes do Conselho Municipal e Câmara Municipal
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1937-11-24
+**UnitDateFinal**:: 1950-12-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7785
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7785
+
+===== Filhos =====
+  * [[7786.txt|7786 - UI - Livro de Actas de Verificação de Poderes do Conselho Municipal e Câmara Municipal]]

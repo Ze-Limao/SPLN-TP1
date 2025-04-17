@@ -1,0 +1,32 @@
+====== 33681 - UI - Eduardo Burnay ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Eduardo Burnay
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-01-04
+**UnitDateFinal**:: 1921-12-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33681
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33681
+
+===== Filhos =====
+  * [[33682.txt|33682 - DC - Telegrama]]
+  * [[33683.txt|33683 - DC - Carta]]
+  * [[33684.txt|33684 - DC - Cartão]]
+  * [[33685.txt|33685 - DC - Minuta de carta]]
+  * [[33686.txt|33686 - DC - Carta]]
+  * [[33687.txt|33687 - DC - Carta]]
+  * [[33688.txt|33688 - DC - Carta]]
+  * [[33689.txt|33689 - DC - minuta de carta]]
+  * [[33690.txt|33690 - DC - Carta]]
+  * [[33691.txt|33691 - DC - Telegrama]]
+  * [[33692.txt|33692 - DC - Carta]]
+  * [[33693.txt|33693 - DC - Bilhete-postal]]
+  * [[33694.txt|33694 - DC - Carta]]
+  * [[33695.txt|33695 - DC - Carta]]
+  * [[33696.txt|33696 - DC - Carta]]
+  * [[33697.txt|33697 - DC - Cartão]]

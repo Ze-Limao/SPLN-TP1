@@ -1,0 +1,17 @@
+====== 21061 - UI - António Barbosa de Azevedo Falcão ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Barbosa de Azevedo Falcão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-11-09
+**UnitDateFinal**:: 1915-11-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21061
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 104
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21061
+
+===== Filhos =====
+  * [[24105.txt|24105 - DC - Carta]]

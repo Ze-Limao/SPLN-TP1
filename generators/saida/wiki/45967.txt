@@ -1,0 +1,18 @@
+====== 45967 - DC - Registo do recenseamento eleitoral de Jerónimo Pereira de Castro ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Jerónimo Pereira de Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Lavrador
+Estado - Casado
+Morada - Delães
+Idade - 52
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45967
+**LangMaterial**:: Português
+**PhysLoc**:: 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45967

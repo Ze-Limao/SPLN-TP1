@@ -1,0 +1,14 @@
+====== 30082 - DC - João da Silva Castro ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: João da Silva Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1971-01-20
+**UnitDateFinal**:: 1971-01-20
+**ScopeContent**:: Regedor substituto da freguesia de Riba de Ave
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30082
+**LangMaterial**:: Português
+**PhysLoc**:: f. 42
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30082

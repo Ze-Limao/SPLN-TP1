@@ -1,0 +1,17 @@
+====== 52431 - DC - Registo do recenseamento militar de João de Faria ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-11-20
+Filiação - João de Faria e Bernardina Ferreira
+Naturalidade - Joane
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52431
+**LangMaterial**:: Português
+**PhysLoc**:: 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52431

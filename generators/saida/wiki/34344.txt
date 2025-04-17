@@ -1,0 +1,19 @@
+====== 34344 - DC - Registo do recenseamento militar de Manuel Dias ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Calendário
+Data de nascimento - 1852-11-28
+Filiação - João Francisco Dias e Justa Maria de Sousa
+Profissão - Alfaiate
+Estado - Solteiro
+Morada - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34344
+**LangMaterial**:: Português
+**PhysLoc**:: 102v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34344

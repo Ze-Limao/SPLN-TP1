@@ -1,0 +1,15 @@
+====== 24959 - UI - Orçamentos (ordinário da receita e despesa para o ano económico) ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Orçamentos (ordinário da receita e despesa para o ano económico)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1963-11-11
+**UnitDateFinal**:: 1977-12-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24959
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 63 - cx. 23
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24959

@@ -1,0 +1,13 @@
+====== 9134 - DC - Ofício nº 34 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 34
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-07-28
+**UnitDateFinal**:: 1886-07-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9134
+**LangMaterial**:: Português
+**PhysLoc**:: f. 21
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9134

@@ -1,0 +1,16 @@
+====== 99288 - UI - Marcos Moreira da Silva Couto ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Marcos Moreira da Silva Couto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-07-26
+**UnitDateFinal**:: 1915-12
+**ScopeContent**:: Oficina de Caldeireiro, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99288
+
+===== Filhos =====
+  * [[99289.txt|99289 - DC - Ofício]]
+  * [[99437.txt|99437 - DC - Bilhete-postal]]

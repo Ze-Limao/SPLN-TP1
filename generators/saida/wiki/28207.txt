@@ -1,0 +1,16 @@
+====== 28207 - DC - Despesa com o conserto das cortes do caseiro de Dentro ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Despesa com o conserto das cortes do caseiro de Dentro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-10
+**UnitDateFinal**:: 1875-10
+**ScopeContent**:: Despesas com mão-de-obra (pedreiros, carpinteiros, ferreiros e caiador) e transporte de carros de barro e de pedra para a obra das cortes do casal de Boamense de Dentro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28207
+**LangMaterial**:: Português
+**PhysLoc**:: AS 479 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28207

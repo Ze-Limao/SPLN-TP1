@@ -1,0 +1,40 @@
+====== 28586 - SR - Temas vários ======
+
+**Parent**:: 28265
+**RootParent**:: 27963
+**UnitTitle**:: Temas vários
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1883-10-05
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28586
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28586
+
+===== Filhos =====
+  * [[28266.txt|28266 - DC - Referências bibliográficas sobre Agricultura e Horticultura]]
+  * [[28267.txt|28267 - DC - Referências bibliográficas sobre Arqueologia, Antropologia e Etnografia]]
+  * [[28268.txt|28268 - DC - Referências bibliográficas sobre Biologia e Botânica]]
+  * [[28269.txt|28269 - DC - Referências bibliográficas sobre Dicionários e Gramáticas]]
+  * [[28270.txt|28270 - DC - Referências bibliográficas sobre Economia e Finanças]]
+  * [[28271.txt|28271 - DC - Referências bibliográficas sobre Economia Rural]]
+  * [[28272.txt|28272 - DC - Referências bibliográficas sobre Floresta]]
+  * [[28273.txt|28273 - DC - Referências bibliográficas sobre Floricultura]]
+  * [[28274.txt|28274 - DC - Referências bibliográficas sobre Geografia]]
+  * [[28275.txt|28275 - DC - Referências bibliográficas sobre História Antiga e Moderna]]
+  * [[28276.txt|28276 - DC - Referências bibliográficas sobre História de Portugal]]
+  * [[28277.txt|28277 - DC - Referências bibliográficas sobre Literatura Clássica]]
+  * [[28278.txt|28278 - DC - Referências bibliográficas sobre Literatura Francesa]]
+  * [[28279.txt|28279 - DC - Referências bibliográficas sobre Literatura Inglesa]]
+  * [[28280.txt|28280 - DC - Referências bibliográficas sobre Meteorologia]]
+  * [[28281.txt|28281 - DC - Referências bibliográficas sobre Minerologia e Geologia]]
+  * [[28282.txt|28282 - DC - Referências bibliográficas sobre Navegações e Descobrimentos]]
+  * [[28283.txt|28283 - DC - Referências bibliográficas sobre Poesia]]
+  * [[28284.txt|28284 - DC - Referências bibliográficas sobre Política]]
+  * [[28285.txt|28285 - DC - Referências bibliográficas sobre Religião e Mitologia]]
+  * [[28286.txt|28286 - DC - Referências bibliográficas sobre Vitivinicultura]]
+  * [[28287.txt|28287 - DC - Referências bibliográficas sobre Zoologia]]
+  * [[28288.txt|28288 - DC - Referências bibliográficas sobre temas diversos]]
+  * [[28289.txt|28289 - DC - Listagens de livros de vários temas]]
+  * [[28290.txt|28290 - DC - Folhetos publicitários de venda de livros]]

@@ -1,0 +1,18 @@
+====== 28357 - DC - Francos ======
+
+**Parent**:: 28292
+**RootParent**:: 27963
+**UnitTitle**:: Francos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28357
+**LangMaterial**:: Português
+**PhysLoc**:: AS 46 (1), 46 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28357
+
+===== Filhos =====
+  * [[28358.txt|28358 - DC - Francos]]
+  * [[28359.txt|28359 - DC - A respeito dos francos]]

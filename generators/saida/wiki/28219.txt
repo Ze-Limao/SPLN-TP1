@@ -1,0 +1,16 @@
+====== 28219 - DC - A Casa Veuve Clicquot Ponsardin ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: A Casa Veuve Clicquot Ponsardin
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Impresso publicitário aos Champagnes comercializados pela Casa Veuve Clicquot Ponsardin, Rheims. Impresso Lith. P. Budker.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28219
+**LangMaterial**:: Português
+**PhysLoc**:: AS 491 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28219

@@ -1,0 +1,16 @@
+====== 25961 - DC - Carta ======
+
+**Parent**:: 21194
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-02-17
+**UnitDateFinal**:: 1913-02-17
+**ScopeContent**:: Carta manuscrita assinada, de Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25961
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 760 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25961

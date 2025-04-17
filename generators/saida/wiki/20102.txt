@@ -1,0 +1,19 @@
+====== 20102 - UI - Registo da correspondência expedida pela 2ª repartição ======
+
+**Parent**:: 20095
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida pela 2ª repartição
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-10-29
+**UnitDateFinal**:: 1912-04-15
+**ScopeContent**:: Termo de abertura: “Tem de servir este livro para nelle se copiar toda a correspondência expedida pela 2ª repartição…”.
+O conteúdo da correspondência está resumido.
+Contém: 
+Cópia telegrama do Governador Civil ao Administrador do Concelho de Vila Nova de Famalicão, 1915-03-19, 1 f.; papel.
+Circular impressa da Associação de Operários de Construção Civil, 1915-03-24, 1 f. ; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20102
+**LangMaterial**:: Português
+**PhysLoc**:: AC 21
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20102

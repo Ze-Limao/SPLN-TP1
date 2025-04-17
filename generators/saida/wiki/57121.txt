@@ -1,0 +1,17 @@
+====== 57121 - DC - Regulamento da Produção e Comércio dos Vinhos do Pôrto ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Regulamento da Produção e Comércio dos Vinhos do Pôrto
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1927
+**UnitDateFinal**:: 1934
+**ScopeContent**:: Capa que contém 5 documentos: Regulamento da Produção e Comércio dos Vinhos do Pôrto (31 f.)  datilografadas; Folhas manuscritas de Registo de propriedades productoras de vinho situadas no concelho...; Folhas impressas com fichas para preenchimento do Ministério da Agricultura, Comissão de Viticultura da Região do Douro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57121
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9481 - cx. 57
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57121

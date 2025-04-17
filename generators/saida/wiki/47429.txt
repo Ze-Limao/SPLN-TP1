@@ -1,0 +1,18 @@
+====== 47429 - DC - Registo do recenseamento eleitoral de Manuel Gomes Pereira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Gomes Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Arnoso Santa Eulália
+Profissão - Lavrador
+Estado - Casado
+Morada - Minhoteira
+Idade - 68
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47429
+**LangMaterial**:: Português
+**PhysLoc**:: 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47429

@@ -1,0 +1,17 @@
+====== 55637 - DC - Minuta de telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 55125
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-02-28
+**UnitDateFinal**:: 1907-03-10
+**ScopeContent**:: Minuta manuscrita de dois telegramas cifrados, com decifração, sobre a questão das condecorações portugueses na Alemanha. No envelope CP 12663, junto com CP 12664 a CP 12684.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55637
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12677 - cx. 75
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55637

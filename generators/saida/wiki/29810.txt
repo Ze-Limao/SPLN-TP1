@@ -1,0 +1,16 @@
+====== 29810 - DC - Carta ======
+
+**Parent**:: 21326
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-07-10
+**UnitDateFinal**:: 1880-07-10
+**ScopeContent**:: Carta manuscrita assinada, de Barcelos. O autor congratula-se com o facto de JAM ter solicitado às irmãs Hospitaleiras para gerirem o Hospital da Misericórdia de S. João de Deus em Famalicão, pois são competentes e têm formação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29810
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1219 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29810

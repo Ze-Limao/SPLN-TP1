@@ -1,0 +1,18 @@
+====== 8147 - DC - Joaquim Alves de Sousa ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Alves de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-11-12
+**UnitDateFinal**:: 1891-04-08
+**ScopeContent**:: Escola - Gondifelos
+Cargo - Professor
+Vínculo - Temporário
+Naturalidade - Póvoa de Varzim
+Data de posse - 1890-11-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8147
+**LangMaterial**:: Português
+**PhysLoc**:: f. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8147

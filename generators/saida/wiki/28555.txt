@@ -1,0 +1,22 @@
+====== 28555 - DC - Notas sobre o reinado D. João II (1481-1495) ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre o reinado D. João II (1481-1495)
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28555
+**LangMaterial**:: Português
+**PhysLoc**:: AS 98 (1) a 98 (6)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28555
+
+===== Filhos =====
+  * [[28556.txt|28556 - DC - D. João II 1481-1495]]
+  * [[28557.txt|28557 - DC - 1493 João II nomeou governador de S. Tomé]]
+  * [[28558.txt|28558 - DC - Álvaro de Caminha foi o donatário em 1493]]
+  * [[28559.txt|28559 - DC - Álvaro de Caminha, que teve em 1493 a Capitania de S. Tomé]]
+  * [[28560.txt|28560 - DC - João Afonso de Aveiro descobriu em 1486 as Terras de Benin]]
+  * [[28561.txt|28561 - DC - 1486 (João II) Um dos mais notáveis navegadores deste tempo foi João Afonso de Aveiro]]

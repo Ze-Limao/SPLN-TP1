@@ -1,0 +1,16 @@
+====== 21383 - UI - Eduardo Moreira ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Eduardo Moreira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-05-26
+**UnitDateFinal**:: 1917-05-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21383
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1341
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21383
+
+===== Filhos =====
+  * [[30209.txt|30209 - DC - Carta]]

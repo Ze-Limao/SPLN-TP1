@@ -1,0 +1,16 @@
+====== 30360 - DC - Listagem de documentos de investigação genealógica do Prof. Dr. Jaime Salazar de Sousa ======
+
+**Parent**:: 22757
+**RootParent**:: 20290
+**UnitTitle**:: Listagem de documentos de investigação genealógica do Prof. Dr. Jaime Salazar de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1998
+**UnitDateFinal**:: 1998
+**ScopeContent**:: Folhas impressas com informação sobre documentos genealógicos que não estão no arquivo de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30360
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1548 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30360

@@ -1,0 +1,16 @@
+====== 29107 - DC - Rascunho de carta ======
+
+**Parent**:: 29103
+**RootParent**:: 27963
+**UnitTitle**:: Rascunho de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-03-13
+**UnitDateFinal**:: 1904-03-13
+**ScopeContent**:: Carta escrita no Porto, R. F., 335, 2º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29107
+**LangMaterial**:: Português
+**PhysLoc**:: AS 532 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29107

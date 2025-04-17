@@ -1,0 +1,18 @@
+====== 45895 - DC - Registo do recenseamento eleitoral de Joaquim António Carneiro ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim António Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Carreira
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Monte
+Idade - 56
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45895
+**LangMaterial**:: Português
+**PhysLoc**:: 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45895

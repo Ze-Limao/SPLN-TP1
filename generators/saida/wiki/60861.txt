@@ -1,0 +1,18 @@
+====== 60861 - SR - A. Sousa Lopes. Foto Adriano ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: A. Sousa Lopes. Foto Adriano
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1960
+**ScopeContent**:: Editor A. Sousa Lopes. Fotografia de Foto Adriano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60861
+
+===== Filhos =====
+  * [[60863.txt|60863 - DC - Famalicão - Vista parcial da Feira]]
+  * [[60864.txt|60864 - DC - Famalicão - Monumento a Camilo]]
+  * [[60865.txt|60865 - DC - Famalicão - Avenida Dr. Oliveira Salazar]]

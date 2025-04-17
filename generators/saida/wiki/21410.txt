@@ -1,0 +1,18 @@
+====== 21410 - UI - Artur Gomes dos Santos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Artur Gomes dos Santos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-11-03
+**UnitDateFinal**:: 1915-04-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21410
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1385, 1386, 1387
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21410
+
+===== Filhos =====
+  * [[29975.txt|29975 - DC - Carta]]
+  * [[29976.txt|29976 - DC - Carta]]
+  * [[29977.txt|29977 - DC - Carta]]

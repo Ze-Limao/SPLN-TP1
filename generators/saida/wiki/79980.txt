@@ -1,0 +1,15 @@
+====== 79980 - UI - Processo nº 14 ======
+
+**Parent**:: 79979
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 14
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1968-11-20
+**UnitDateFinal**:: 1969-03-15
+**ScopeContent**:: Junto com Processo de Previdência Social nº 19 e Processo de Autos de Incompetência Territorial nº 75A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 8 - cx. 1
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79980

@@ -1,0 +1,18 @@
+====== 48850 - DC - Registo do recenseamento eleitoral de Manuel José de Oliveira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Louro
+Profissão - Lavrador
+Estado - Casado
+Morada - Outeirinho de Cima
+Idade - 42
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48850
+**LangMaterial**:: Português
+**PhysLoc**:: 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48850

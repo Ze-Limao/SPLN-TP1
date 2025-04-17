@@ -1,0 +1,18 @@
+====== 51068 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1844-01-29
+Filiação - Luís de Sousa Veloso e Maria de Jesus
+Naturalidade - Calendário
+Profissão - Ferrador
+Residência - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51068
+**LangMaterial**:: Português
+**PhysLoc**:: 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51068

@@ -1,0 +1,18 @@
+====== 50467 - DC - Registo do recenseamento militar de Mateus ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Mateus
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-04-29
+Filiação - Jerónimo José Ribeiro e Joaquina Rosa Monteiro
+Naturalidade - Carreira
+Profissão - Sapateiro
+Residência - Carreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50467
+**LangMaterial**:: Português
+**PhysLoc**:: 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50467

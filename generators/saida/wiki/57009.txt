@@ -1,0 +1,92 @@
+====== 57009 - DC - Negócios Dorville, etc. Cartas Penha e Costa e Acciauoli ======
+
+**Parent**:: 56919
+**RootParent**:: 31258
+**UnitTitle**:: Negócios Dorville, etc. Cartas Penha e Costa e Acciauoli
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1933-07-07
+**UnitDateFinal**:: 1934-11-13
+**ScopeContent**:: Folha de título manuscrito a cores. Contém CP 2774 a CP 2848.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57009
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2773 - cx. 22
+depósito 3, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57009
+
+===== Filhos =====
+  * [[57010.txt|57010 - DC - Notas]]
+  * [[57011.txt|57011 - DC - Ofícios para 3º Visconde de Pindela de Luís Acciauoli]]
+  * [[57012.txt|57012 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57013.txt|57013 - DC - Ofício para Directeur-Delegué des Enterprises Bartissol de António da Penha e Costa]]
+  * [[57014.txt|57014 - DC - Ofícios para 3º Visconde de Pindela de Luís Acciauoli]]
+  * [[57015.txt|57015 - DC - Ofício para Administrateur - Delegué des Établissements des Travaux Publics et des Constructions  Bartissol de António da Penha e Costa]]
+  * [[57016.txt|57016 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57017.txt|57017 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57018.txt|57018 - DC - Cópia de ofício para António da Penha e Costa de Noel Dorville]]
+  * [[57019.txt|57019 - DC - Ofício para Noel Dorville]]
+  * [[57020.txt|57020 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57021.txt|57021 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57022.txt|57022 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57023.txt|57023 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57024.txt|57024 - DC - Ofício para Noel Dorville de António Penha e Costa]]
+  * [[57025.txt|57025 - DC - Ofício para 3º Visconde de Pindela de António Penha e Costa]]
+  * [[57026.txt|57026 - DC - Ofício para 3º Visconde de Pindela de António Penha e Costa]]
+  * [[57027.txt|57027 - DC - Ofício para 3º Visconde de Pindela de António Penha e Costa]]
+  * [[57028.txt|57028 - DC - Ofício para 3º Visconde de Pindela de António Penha e Costa]]
+  * [[57029.txt|57029 - DC - Ofício para Noel Dorville de António Penha e Costa]]
+  * [[57030.txt|57030 - DC - Ofício para 3º Visconde de Pindela de António Penha e Costa]]
+  * [[57031.txt|57031 - DC - Notas]]
+  * [[57032.txt|57032 - DC - Ofício para 3º Visconde de Pindela de António Penha e Costa]]
+  * [[57033.txt|57033 - DC - Ofício para 3º Visconde de Pindela de António Penha e Costa]]
+  * [[57034.txt|57034 - DC - Cópia de ofício para António Penha e Costa de Noel Dorville]]
+  * [[57035.txt|57035 - DC - Ofício para 3º Visconde de Pindela]]
+  * [[57036.txt|57036 - DC - Ofício para Noel Dorville de António Penha e Costa]]
+  * [[57037.txt|57037 - DC - Ofício para Noel Dorville de António Penha e Costa]]
+  * [[57038.txt|57038 - DC - Ofício para Noel Dorville de António Penha e Costa]]
+  * [[57039.txt|57039 - DC - Revestimento a quente em duas aplicações]]
+  * [[57040.txt|57040 - DC - Ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[57041.txt|57041 - DC - Ofício para António Penha e Costa de Noel Dorville]]
+  * [[57042.txt|57042 - DC - Cópia de carta de Fernando Fialho de Loanda]]
+  * [[57043.txt|57043 - DC - Ofício para 3º Visconde de Pindela de L. de Sá Pereira]]
+  * [[57044.txt|57044 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57045.txt|57045 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57046.txt|57046 - DC - Ofício para Noel Dorville de António Penha e Costa]]
+  * [[57047.txt|57047 - DC - Ofício para 3º Visconde de Pindela]]
+  * [[57048.txt|57048 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57049.txt|57049 - DC - Telegrama para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57050.txt|57050 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57051.txt|57051 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57052.txt|57052 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57053.txt|57053 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57054.txt|57054 - DC - Ofício para 3º Visconde de Pindela de Madame Picot Sousa Rosa]]
+  * [[57055.txt|57055 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57056.txt|57056 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57057.txt|57057 - DC - Ofícios para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57058.txt|57058 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57059.txt|57059 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57060.txt|57060 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57061.txt|57061 - DC - Bilhete-postal para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57062.txt|57062 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57063.txt|57063 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57064.txt|57064 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57065.txt|57065 - DC - Ofício para 3º Visconde de Pindela, ofício para Madame Picot de António da Penha e Costa]]
+  * [[57066.txt|57066 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57067.txt|57067 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57068.txt|57068 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57069.txt|57069 - DC - Telegrama para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57070.txt|57070 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57071.txt|57071 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57072.txt|57072 - DC - Memorandum para 3º Visconde de Pindela de Mundet & Cª Lda.]]
+  * [[57073.txt|57073 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57074.txt|57074 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57075.txt|57075 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57076.txt|57076 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57077.txt|57077 - DC - Minuta de ofício para Noel Dorville? do 3º Visconde de Pindela]]
+  * [[57078.txt|57078 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57079.txt|57079 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57080.txt|57080 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57081.txt|57081 - DC - Minuta de ofício para Viana do 3º Visconde de Pindela]]
+  * [[57083.txt|57083 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57084.txt|57084 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]
+  * [[57085.txt|57085 - DC - Ofício para 3º Visconde de Pindela de António da Penha e Costa]]

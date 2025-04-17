@@ -1,0 +1,24 @@
+====== 21267 - UI - Tomás Maria de Almeida Manuel de Vilhena ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Tomás Maria de Almeida Manuel de Vilhena
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1932
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21267
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1046 a 1053
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21267
+
+===== Filhos =====
+  * [[27953.txt|27953 - DC - Carta]]
+  * [[27954.txt|27954 - DC - Carta]]
+  * [[27955.txt|27955 - DC - Carta]]
+  * [[27956.txt|27956 - DC - Carta]]
+  * [[27957.txt|27957 - DC - Carta]]
+  * [[27958.txt|27958 - DC - Carta]]
+  * [[27959.txt|27959 - DC - Carta]]
+  * [[27960.txt|27960 - DC - Carta]]

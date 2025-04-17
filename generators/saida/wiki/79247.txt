@@ -1,0 +1,17 @@
+====== 79247 - DC - Notas sobre as cartas do rei D. Carlos recebidas na família ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Notas sobre as cartas do rei D. Carlos recebidas na família
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912-03
+**UnitDateFinal**:: 1912-03
+**ScopeContent**:: Notas manuscritas com lista de cartas e assuntos. Este documento está dentro do envelope CP 9009.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56644
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9011 - cx. 55
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79247

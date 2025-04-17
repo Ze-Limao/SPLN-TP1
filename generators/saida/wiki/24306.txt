@@ -1,0 +1,16 @@
+====== 24306 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927-11-20
+**UnitDateFinal**:: 1927-11-20
+**ScopeContent**:: António Cabral agradece as palavras elogiosas ao seu livro “Cartas de El Rei D. Carlos a José Luciano de Castro: um grande rei, um notável estadista, memórias políticas” (Lisboa: Portugal-Brasil, 1927). Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24306
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 142 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24306

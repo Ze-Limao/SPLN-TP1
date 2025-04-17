@@ -1,0 +1,15 @@
+====== 63946 - UI - Livro dos bens e móveis pertencentes à Igreja de S. Tiago de Antas, feito no ano de 1709 ======
+
+**Parent**:: 63945
+**RootParent**:: 60536
+**UnitTitle**:: Livro dos bens e móveis pertencentes à Igreja de S. Tiago de Antas, feito no ano de 1709
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1707-11-03
+**UnitDateFinal**:: 1709
+**ScopeContent**:: Manuscrito, original. Encadernado a pele com atilhos. Na capa título a lápis "Livro dos bens e objectos pertencentes a Egreja de S. Thiago 1707". Título a tinta "Livro primeiro dos mandatos na pastoral que trata dos Bens moveis Desta Igreja...". A data indicado no início do livro 1707-11-03 e no final 1707-11-08.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 138 - cx. 5
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63946

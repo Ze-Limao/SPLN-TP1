@@ -1,0 +1,24 @@
+====== 60890 - SR - Âncora ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Âncora
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1970
+**UnitDateFinal**:: 1990
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60890
+
+===== Filhos =====
+  * [[60894.txt|60894 - DC - Igreja Matriz da cidade]]
+  * [[60895.txt|60895 - DC - Praça 9 de Abril e Monumento a Maria da Fonte]]
+  * [[60896.txt|60896 - DC - Pormenor dos Paços do Conselho]]
+  * [[60897.txt|60897 - DC - Aspectos dos jardins e estátua de D. Maria II]]
+  * [[60898.txt|60898 - DC - Pormenor do centro da cidade]]
+  * [[60899.txt|60899 - DC - Aspecto do centro moderno da cidade]]
+  * [[60900.txt|60900 - DC - Centro da cidade]]
+  * [[60901.txt|60901 - DC - Pormenor do palacete dos Menezes]]
+  * [[60902.txt|60902 - DC - Capela da Lapa e rotunda com estátua de Stº António]]
+  * [[60903.txt|60903 - DC - Nova fonte luminosa e quartel dos bombeiros]]

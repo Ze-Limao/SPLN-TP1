@@ -1,0 +1,17 @@
+====== 54001 - DC - Medição de obras a mais a executar como Primeiro Adicional à empreitada geral da urbanização da praça do novo edifício do Tribunal… ======
+
+**Parent**:: 53995
+**RootParent**:: 25851
+**UnitTitle**:: Medição de obras a mais a executar como Primeiro Adicional à empreitada geral da urbanização da praça do novo edifício do Tribunal…
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-06-03
+**UnitDateFinal**:: 1961-06-03
+**ScopeContent**:: Original. A primeira folha com o título "Urbanização". Exemplar igual 153(6), JG 157(1) e 160(6).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54001
+**LangMaterial**:: Português
+**PhysLoc**:: JG 159(6) - cx. 16
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54001

@@ -1,0 +1,16 @@
+====== 24686 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-12-31
+**UnitDateFinal**:: 1905-12-31
+**ScopeContent**:: António Ferraz solicita um favor a Estevão Pereira, amigo de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24686
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 188 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24686

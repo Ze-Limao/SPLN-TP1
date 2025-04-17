@@ -1,0 +1,20 @@
+====== 21196 - UI - José Ernesto de Sousa Caldas ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Ernesto de Sousa Caldas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903
+**UnitDateFinal**:: 1932
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21196
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 762, 763, 764, 765
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21196
+
+===== Filhos =====
+  * [[25963.txt|25963 - DC - Carta]]
+  * [[25964.txt|25964 - DC - Carta]]
+  * [[25965.txt|25965 - DC - Carta]]
+  * [[25966.txt|25966 - DC - Carta]]

@@ -1,0 +1,19 @@
+====== 34326 - DC - Registo do recenseamento militar de José de Oliveira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Gavião
+Data de nascimento -1852-03-26 
+Filiação - José Joaquim de Oliveira e Ana  Alves
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34326
+**LangMaterial**:: Português
+**PhysLoc**:: 98v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34326

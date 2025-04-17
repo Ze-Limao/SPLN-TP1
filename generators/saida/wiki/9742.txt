@@ -1,0 +1,22 @@
+====== 9742 - SR - Tipografia Minerva 1902-1903 ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Tipografia Minerva 1902-1903
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1902
+**UnitDateFinal**:: 1903
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9742
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9742
+
+===== Filhos =====
+  * [[60870.txt|60870 - DC - Famalicão - Trecho do Campo Mousinho d´Albuquerque]]
+  * [[9743.txt|9743 - DC - Famalicão - Trecho do Campo Mousinho d´Albuquerque]]
+  * [[9744.txt|9744 - DC - Famalicão - Hospital da Misericordia]]
+  * [[9745.txt|9745 - DC - Famalicão - Estação do Caminho de Ferro]]
+  * [[9746.txt|9746 - DC - Famalicão - Câmara Municipal]]
+  * [[9748.txt|9748 - DC - Famalicão - Trecho do Campo Mousinho d´Albuquerque]]
+  * [[9749.txt|9749 - DC - Famalicão - Trecho do Campo Mousinho d´Albuquerque]]
+  * [[9926.txt|9926 - DC - Famalicão - Trecho do Campo Mousinho d´Albuquerque]]

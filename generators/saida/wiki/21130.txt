@@ -1,0 +1,17 @@
+====== 21130 - UI - José Maria Gomes Alves ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Maria Gomes Alves
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21130
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1481
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21130
+
+===== Filhos =====
+  * [[25504.txt|25504 - DC - Carta]]

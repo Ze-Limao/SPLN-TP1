@@ -1,0 +1,16 @@
+====== 51568 - DC - Registo do recenseamento militar de Miguel ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Miguel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-05-08
+Filiação - Teresa da Silva
+Naturalidade - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51568
+**LangMaterial**:: Português
+**PhysLoc**:: 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51568

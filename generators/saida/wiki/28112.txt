@@ -1,0 +1,16 @@
+====== 28112 - DC - Registo do vinho maduro − 1882 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Registo do vinho maduro − 1882
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-09-17
+**UnitDateFinal**:: 1883-01-09
+**ScopeContent**:: Diversas informações sobre a vindima e a produção do vinho maduro de 1882. Informações sobre as castas vindimadas, respetivas produções em almudes de vinho e quantidade de aguardente adicionada. Informação da data da trasfega das pipas de clarete (Janeiro de 1883) e das quantidades adicionadas de aguardente e gelatina Coignet.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28112
+**LangMaterial**:: Português
+**PhysLoc**:: AS 385 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28112

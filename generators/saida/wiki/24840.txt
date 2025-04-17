@@ -1,0 +1,17 @@
+====== 24840 - DC - Carta ======
+
+**Parent**:: 21077
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-09-09
+**UnitDateFinal**:: 1916-09-09
+**ScopeContent**:: Agradece a visita a S. Miguel de Seide e à Casa do Vinhal. Diz que tenciona escrever sobre Seide para a Ilustração Portuguesa e solicita fotografia de JAM, planta e fotografia da fachada antiga da casa de Seide e reprodução de objetos do escritor.
+Carta manuscrita assinada, da Póvoa de Varzim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24840
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 273 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24840

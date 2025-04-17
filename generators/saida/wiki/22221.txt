@@ -1,0 +1,16 @@
+====== 22221 - DC - Registo do recenseamento eleitoral de José de Azevedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Esmeriz
+Profissão - Lavrador
+Morada - Três Caminhos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22221
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22221

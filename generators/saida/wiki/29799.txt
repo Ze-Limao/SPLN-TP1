@@ -1,0 +1,16 @@
+====== 29799 - DC - Carta ======
+
+**Parent**:: 21319
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-11-27
+**UnitDateFinal**:: 1925-11-27
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Papel timbrado "Instituto Superior de Comércio de Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29799
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1208 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29799

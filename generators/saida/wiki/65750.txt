@@ -1,0 +1,15 @@
+====== 65750 - DC - Sentença de emprazamento do meio casal de Pero Gil, situado na freguesia de Fradelos, feita por Pedro de Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Manuel Gonçalves e a sua mulher Maria Joana ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença de emprazamento do meio casal de Pero Gil, situado na freguesia de Fradelos, feita por Pedro de Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Manuel Gonçalves e a sua mulher Maria Joana
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1758-04-16
+**UnitDateFinal**:: 1758-04-16
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 173 - cx. 8
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65750

@@ -1,0 +1,19 @@
+====== 34134 - DC - Registo do recenseamento militar de António Joaquim ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Carreira
+Data de nascimento - 1852-03-29
+Filiação - João Luís e Rosa Maria
+Profissão - Tecelão
+Estado - Solteiro
+Morada - Carreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34134
+**LangMaterial**:: Português
+**PhysLoc**:: 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34134

@@ -1,0 +1,14 @@
+====== 20321 - UI - Registo de correspondência recebida nº7 ======
+
+**Parent**:: 20220
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº7
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1956-03-29
+**UnitDateFinal**:: 1956-10-26
+**ScopeContent**:: Termo de abertura impresso: “Neste livro, que contém duzentas folhas, todas elas numeradas e por mim rubricadas, se registará, exclusivamente, a correspondência recebida, nos precisos termos do nº9 do artº 137 do Código Administrativo e da Circ. da DGAPC nº L-4/11, Lv º 5-A, de 6-5-1951…”. Contém dados: nº de entrada, data de entrada e do documento, remetente ou signatário, assunto, expediente, observações. Inicia com o registo nº 610 ao registo nº 2089.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20321
+**LangMaterial**:: Português
+**PhysLoc**:: 572
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20321

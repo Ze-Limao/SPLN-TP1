@@ -1,0 +1,18 @@
+====== 60547 - F - Confraria das Almas da freguesia de Cruz São Tiago ======
+
+**Parent**:: 0
+**RootParent**:: 60547
+**UnitTitle**:: Confraria das Almas da freguesia de Cruz São Tiago
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1873
+**UnitDateFinal**:: 1898
+**ScopeContent**:: Este fundo é composto pelo Livro de Receita e Despesa da Confraria das Almas dos anos 1873 a 1898.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60547
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60547
+
+===== Filhos =====
+  * [[60686.txt|60686 - SC - Administração financeira]]

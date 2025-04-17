@@ -1,0 +1,18 @@
+====== 50928 - DC - Registo do recenseamento militar de Albino ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Albino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-09-23
+Filiação - José Manuel Ferreira Leite e Clara Emília
+Naturalidade - Carreira
+Profissão - Pintor
+Residência - Carreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50928
+**LangMaterial**:: Português
+**PhysLoc**:: 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50928

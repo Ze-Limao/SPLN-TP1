@@ -1,0 +1,16 @@
+====== 28137 - DC - Nota 1895 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Nota 1895
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-09-23
+**UnitDateFinal**:: 1895-09-23
+**ScopeContent**:: Notas sobre uvas de diversas castas plantadas nas vinhas da Quinta e Boamense.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28137
+**LangMaterial**:: Português
+**PhysLoc**:: AS 410 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28137

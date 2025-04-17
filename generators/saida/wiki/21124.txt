@@ -1,0 +1,15 @@
+====== 21124 - DC - Termo de Manuel Pereira de Azevedo e Joaquina Dias Alves Pimenta ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel Pereira de Azevedo e Joaquina Dias Alves Pimenta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-10-28
+**UnitDateFinal**:: 1879-10-28
+**ScopeContent**:: Vedação de terreno
+Local - Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21124
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21124

@@ -1,0 +1,17 @@
+====== 78371 - DC - Vínculo de D. Manuel Afonso da Guerra ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Vínculo de D. Manuel Afonso da Guerra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1622-03-05
+**UnitDateFinal**:: 1691-06-11
+**ScopeContent**:: Manuscrito com folhas cosidas, numerado nº1. Cópia não autenticada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54363
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4987 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78371

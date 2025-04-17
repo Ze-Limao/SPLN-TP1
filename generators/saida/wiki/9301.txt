@@ -1,0 +1,19 @@
+====== 9301 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - João Alves Carneiro e Delfina Rosa
+Naturalidade - Ruivães
+Data de nascimento - 1877-04-27
+Profissão - 
+Estado civil - Casado
+Residência - Delães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9301
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9301

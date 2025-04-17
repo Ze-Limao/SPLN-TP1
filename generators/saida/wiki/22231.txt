@@ -1,0 +1,16 @@
+====== 22231 - DC - Registo do recenseamento eleitoral de Manuel Pinto Sales ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Pinto Sales
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Esmeriz
+Profissão - Lavrador
+Morada - Pisão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22231
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22231

@@ -1,0 +1,15 @@
+====== 66432 - DC - Requerimentos e despachos interlocutórios na causa contra Manuel de Sá e Meneses sobre a pensão de 300$00 ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Requerimentos e despachos interlocutórios na causa contra Manuel de Sá e Meneses sobre a pensão de 300$00
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1652-02-20
+**UnitDateFinal**:: 1652-02-20
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 483 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66432

@@ -1,0 +1,18 @@
+====== 8110 - DC - Tomás de Aquino Correia de Araújo ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Tomás de Aquino Correia de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-12-01
+**UnitDateFinal**:: 1886-01-23
+**ScopeContent**:: Escola - Vila Nova de Famalicão. Masculina
+Cargo - Professor
+Vínculo - Temporário
+Naturalidade - Requião
+Data de posse - 1884-12-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8110
+**LangMaterial**:: Português
+**PhysLoc**:: f. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8110

@@ -1,0 +1,19 @@
+====== 34726 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Mouquim
+Data de nascimento - 1862-02-13
+Filiação - Lino António de Araújo Costa e Maria Joaquina de Araújo
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Mouquim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34726
+**LangMaterial**:: Português
+**PhysLoc**:: 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34726

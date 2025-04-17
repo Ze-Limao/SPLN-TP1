@@ -1,0 +1,17 @@
+====== 56368 - DC - Pindella. Cartas de diversos e documentos antigos ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Pindella. Cartas de diversos e documentos antigos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1831-12-23
+**UnitDateFinal**:: 1908-11-20
+**ScopeContent**:: Maço que contém 19 documentos: Apólice de 800$000rs. do Real Emprestimo de 1831; contas manuscritas; cartas recebidas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56368
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12780 (1) a (19) - cx. 78
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56368

@@ -1,0 +1,15 @@
+====== 98080 - UI - Processo nº 55 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 55
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-12-12
+**UnitDateFinal**:: 1979-12-19
+**ScopeContent**:: Junto com Autos de Transgressão nº 16 e 1189.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 745 - cx. 40
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98080

@@ -1,0 +1,16 @@
+====== 21445 - UI - Joaquim José da Silva Monteiro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim José da Silva Monteiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-01-12
+**UnitDateFinal**:: 1906-01-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21445
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1438
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21445
+
+===== Filhos =====
+  * [[29992.txt|29992 - DC - Carta]]

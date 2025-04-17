@@ -1,0 +1,15 @@
+====== 67028 - UI - Fürstlich Hohenzollern Hofmarschallamt ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Fürstlich Hohenzollern Hofmarschallamt
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-12-02
+**UnitDateFinal**:: 1901-12-02
+**ScopeContent**:: Gabinete do Marechal da Corte do Príncipe Hohenzollern. Assinatura ilegível.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67028
+
+===== Filhos =====
+  * [[67029.txt|67029 - DC - Carta]]

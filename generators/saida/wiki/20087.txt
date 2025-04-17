@@ -1,0 +1,17 @@
+====== 20087 - UI - Registo de requerimentos ======
+
+**Parent**:: 20086
+**RootParent**:: 20048
+**UnitTitle**:: Registo de requerimentos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-06-01
+**UnitDateFinal**:: 1910-11-26
+**ScopeContent**:: Termo de abertura: "tem este livro de servir para nelle se lavrarem as entradas dos requerimentos entregues nesta Administração e seu seguimento…”.
+Contém dados: nº e data do requerimento, data de entrada, nome do requerente, residência.
+Contém: Requerimento, 1897-12-09, 1 f.; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20087
+**LangMaterial**:: Português
+**PhysLoc**:: AC 110
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20087

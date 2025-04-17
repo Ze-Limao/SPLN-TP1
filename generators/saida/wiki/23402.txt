@@ -1,0 +1,16 @@
+====== 23402 - DC - Registo do recenseamento eleitoral de Manuel José de Azevedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Moleiro
+Morada - Cova
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23402
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 71v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23402

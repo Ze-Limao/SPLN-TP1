@@ -1,0 +1,18 @@
+====== 8702 - DC - Termo do exame de Manuel Rodrigues do Rego ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Rodrigues do Rego
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-20
+**UnitDateFinal**:: 1890-08-20
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação -Francisco Rodrigues do Rego 
+Naturalidade - Calendário
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8702
+**LangMaterial**:: Português
+**PhysLoc**:: f. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8702

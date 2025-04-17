@@ -1,0 +1,14 @@
+====== 31272 - SC - Miguel Pinheiro Figueira ======
+
+**Parent**:: 31258
+**RootParent**:: 31258
+**UnitTitle**:: Miguel Pinheiro Figueira
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1599-04-29
+**UnitDateFinal**:: 1627
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31272
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31272
+
+===== Filhos =====
+  * [[31273.txt|31273 - SSC - Miguel Pinheiro Figueira]]

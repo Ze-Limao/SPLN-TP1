@@ -1,0 +1,17 @@
+====== 54475 - DC - Vínculos da casa de Pindela ======
+
+**Parent**:: 54366
+**RootParent**:: 31258
+**UnitTitle**:: Vínculos da casa de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1800
+**UnitDateFinal**:: 1877
+**ScopeContent**:: Manuscrito com Relação de Prazos (V.N. Famalicão); Vínculos da Casa de Pindela; Vínculos pertencentes Casa de Guimarães; Prazos (Guimarães). Relação dos morgadios, padroados e prazos em Famalicão, Barcelos e Guimarães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5367 - cx. 39
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54475

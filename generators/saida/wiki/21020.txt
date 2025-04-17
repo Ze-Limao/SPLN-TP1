@@ -1,0 +1,14 @@
+====== 21020 - DC - Contrato entre a Federação de Caixas de Previdência - Habitações Económicas e a Câmara Municipal de Vila Nova de Famalicão ======
+
+**Parent**:: 7706
+**RootParent**:: 7651
+**UnitTitle**:: Contrato entre a Federação de Caixas de Previdência - Habitações Económicas e a Câmara Municipal de Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1947-12-22
+**UnitDateFinal**:: 1947-12-22
+**ScopeContent**:: Construção de casas de renda económica na Avenida Marechal Humberto Delgado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21020
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21020

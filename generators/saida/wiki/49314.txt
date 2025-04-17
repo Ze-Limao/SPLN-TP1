@@ -1,0 +1,18 @@
+====== 49314 - DC - Registo do recenseamento eleitoral de André Gomes Pereira Rios ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de André Gomes Pereira Rios
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Sezures
+Profissão - Lavrador
+Estado - Casado
+Morada - Rio
+Idade - 54
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49314
+**LangMaterial**:: Português
+**PhysLoc**:: 76v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49314

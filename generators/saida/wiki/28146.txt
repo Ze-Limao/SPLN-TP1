@@ -1,0 +1,17 @@
+====== 28146 - DC - Nota sobre valores de densidade do mosto ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Nota sobre valores de densidade do mosto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894
+**UnitDateFinal**:: 1897-03-01
+**ScopeContent**:: Anotação a lápis: «Nota remetida a Taveira em 28 Fev. ou 1 Março 97».
+Valores de densidade do mosto de diversas castas em 1894, 1895, 1896 e 1897. Registo de valores de densidade de diversas castas nacionais (Boal, Souzão, Touriga, Alvarelhão, etc.) e internacionais (Cabernet, Chasselas, Trebiano, etc.) nos anos de 1894, 1895, 1896. Na mesma tabela aparecem também registados, a lápis, valores de densidade de quatro castas (Souzão, Touriga, Alvarelhão e Patorra) no ano de 1897. Alberto Sampaio enviou estes dados ao engenheiro e enólogo José Taveira de Carvalho Pinto de Menezes, segundo o que anotou a lápis na mesma folha onde registou os valores de densidade.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28146
+**LangMaterial**:: Português
+**PhysLoc**:: AS 419 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28146

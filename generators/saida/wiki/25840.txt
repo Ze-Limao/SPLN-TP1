@@ -1,0 +1,16 @@
+====== 25840 - DC - Carta ======
+
+**Parent**:: 21187
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-04-28
+**UnitDateFinal**:: 1922-04-28
+**ScopeContent**:: Carta manuscrita assinada, de Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25840
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 747 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25840

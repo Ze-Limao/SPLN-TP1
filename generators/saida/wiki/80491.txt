@@ -1,0 +1,15 @@
+====== 80491 - UI - Processo nº 47-A ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 47-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-01-06
+**UnitDateFinal**:: 1973-10-06
+**ScopeContent**:: Junto com Autos de Execução nº 147 e nº 47/71-B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 180 - cx. 10
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80491

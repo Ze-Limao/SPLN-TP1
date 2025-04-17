@@ -1,0 +1,49 @@
+====== 60461 - UI - Júlia Adelaide Braamcamp de Almeida Castelo-Branco ======
+
+**Parent**:: 31370
+**RootParent**:: 31258
+**UnitTitle**:: Júlia Adelaide Braamcamp de Almeida Castelo-Branco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1843
+**UnitDateFinal**:: 1856-12-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31444
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60461
+
+===== Filhos =====
+  * [[60462.txt|60462 - DC - Carta]]
+  * [[60465.txt|60465 - DC - Carta]]
+  * [[60466.txt|60466 - DC - Carta]]
+  * [[60467.txt|60467 - DC - Carta]]
+  * [[60468.txt|60468 - DC - Carta]]
+  * [[60469.txt|60469 - DC - Carta]]
+  * [[60470.txt|60470 - DC - Carta]]
+  * [[60471.txt|60471 - DC - Carta]]
+  * [[60472.txt|60472 - DC - Carta]]
+  * [[60473.txt|60473 - DC - Carta]]
+  * [[60474.txt|60474 - DC - Carta]]
+  * [[60475.txt|60475 - DC - Carta]]
+  * [[60479.txt|60479 - DC - Carta]]
+  * [[60480.txt|60480 - DC - Carta]]
+  * [[60482.txt|60482 - DC - Carta]]
+  * [[60483.txt|60483 - DC - Carta]]
+  * [[60484.txt|60484 - DC - Carta]]
+  * [[60485.txt|60485 - DC - Carta]]
+  * [[60486.txt|60486 - DC - Carta]]
+  * [[60487.txt|60487 - DC - Carta]]
+  * [[60488.txt|60488 - DC - Carta]]
+  * [[60489.txt|60489 - DC - Carta]]
+  * [[60490.txt|60490 - DC - Carta]]
+  * [[60491.txt|60491 - DC - Carta]]
+  * [[60492.txt|60492 - DC - Carta]]
+  * [[60493.txt|60493 - DC - Carta]]
+  * [[60494.txt|60494 - DC - Carta]]
+  * [[60495.txt|60495 - DC - Carta]]
+  * [[60496.txt|60496 - DC - Carta]]
+  * [[60497.txt|60497 - DC - Carta]]
+  * [[60498.txt|60498 - DC - Carta]]
+  * [[60499.txt|60499 - DC - Carta]]
+  * [[60500.txt|60500 - DC - Carta]]
+  * [[60501.txt|60501 - DC - Carta]]
+  * [[60502.txt|60502 - DC - Carta]]
+  * [[60503.txt|60503 - DC - Carta]]

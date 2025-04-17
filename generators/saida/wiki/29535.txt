@@ -1,0 +1,16 @@
+====== 29535 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-07-05
+**UnitDateFinal**:: 1889-07-05
+**ScopeContent**:: Carta expedida de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29535
+**LangMaterial**:: Português
+**PhysLoc**:: AS 776 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29535

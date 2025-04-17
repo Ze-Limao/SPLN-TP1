@@ -1,0 +1,18 @@
+====== 8747 - DC - Termo do exame de António Pereira Alves Carneiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António Pereira Alves Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-16
+**UnitDateFinal**:: 1891-07-16
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - José Pereira Alves Carneiro
+Naturalidade - Seide S. Paio
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8747
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8747

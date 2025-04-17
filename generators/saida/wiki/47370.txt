@@ -1,0 +1,18 @@
+====== 47370 - DC - Registo do recenseamento eleitoral de Higino Ferreira de Macedo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Higino Ferreira de Macedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Antas
+Profissão - Proprietário
+Estado - Viúvo
+Morada - Lameiras
+Idade - 74
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47370
+**LangMaterial**:: Português
+**PhysLoc**:: 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47370

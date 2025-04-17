@@ -1,0 +1,15 @@
+====== 8040 - DC - Termo de Bernardino Pinto de Araújo ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Bernardino Pinto de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-10-05
+**UnitDateFinal**:: 1876-10-05
+**ScopeContent**:: Construção de uma mina de água junto de um caminho público
+Cargo - Pároco de Vilaça, conc. de Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8040
+**LangMaterial**:: Português
+**PhysLoc**:: f. 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8040

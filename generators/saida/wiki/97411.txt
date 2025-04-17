@@ -1,0 +1,15 @@
+====== 97411 - UI - Ezequiel Sousa Prego ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Ezequiel Sousa Prego
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-02-04
+**UnitDateFinal**:: 1892-02-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55151
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97411
+
+===== Filhos =====
+  * [[97412.txt|97412 - DC - Telegrama]]

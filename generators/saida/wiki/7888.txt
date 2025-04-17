@@ -1,0 +1,30 @@
+====== 7888 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1861-03-04
+**UnitDateFinal**:: 1861-03-04
+**ScopeContent**:: 'Este livro há de servir para a revisão do recenseamento dos eleitores, elegíveis para as diversas eleições (...)'
+
+Contém dados sobre:
+1- Freguesia
+2- Nome
+3- Censo
+4- Título literário
+5- Emprego ou profissão
+6- Estado
+7- Morada
+8- Idade
+9- Classificações diversas
+9.1- Elegíveis para deputados
+9.2- Jurados do cível, crime e liberdade de imprensa
+9.3- Jurados especiais dos crimes de moeda falsa
+9.4- Quarenta maiores contribuintes
+10-Observações
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7888
+**LangMaterial**:: Português
+**PhysLoc**:: 1.1.1.10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7888

@@ -1,0 +1,46 @@
+====== 100624 - SR - Negativos em vidro ======
+
+**Parent**:: 60696
+**RootParent**:: 60696
+**UnitTitle**:: Negativos em vidro
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1940
+**ScopeContent**:: Negativos sem impressão dos positivos em papel. Negativos digitalizados em tiff no servidor.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD100544
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100624
+
+===== Filhos =====
+  * [[100625.txt|100625 - UI - Negativos em vidro]]
+  * [[100633.txt|100633 - UI - Negativos em vidro]]
+  * [[100634.txt|100634 - UI - Negativos em vidro]]
+  * [[100635.txt|100635 - UI - Negativos em vidro]]
+  * [[100636.txt|100636 - UI - Negativos em vidro]]
+  * [[100638.txt|100638 - UI - Negativos em vidro]]
+  * [[100639.txt|100639 - UI - Negativos em vidro]]
+  * [[100641.txt|100641 - UI - Negativos em vidro]]
+  * [[100642.txt|100642 - UI - Negativos em vidro]]
+  * [[100643.txt|100643 - UI - Negativos em vidro]]
+  * [[100645.txt|100645 - UI - Negativos em vidro]]
+  * [[100646.txt|100646 - UI - Negativos em vidro]]
+  * [[100647.txt|100647 - UI - Negativos em vidro]]
+  * [[100648.txt|100648 - UI - Negativos em vidro]]
+  * [[100650.txt|100650 - UI - Negativos em vidro]]
+  * [[100651.txt|100651 - UI - Negativos em vidro]]
+  * [[100653.txt|100653 - UI - Negativos em vidro]]
+  * [[100654.txt|100654 - UI - Negativos em vidro]]
+  * [[100655.txt|100655 - UI - Negativos em vidro]]
+  * [[100656.txt|100656 - UI - Negativos em vidro]]
+  * [[100657.txt|100657 - UI - Negativos em vidro]]
+  * [[100658.txt|100658 - UI - Negativos em vidro]]
+  * [[100659.txt|100659 - UI - Negativos em vidro]]
+  * [[100660.txt|100660 - UI - Negativos em vidro]]
+  * [[100661.txt|100661 - UI - Negativos em vidro]]
+  * [[100662.txt|100662 - UI - Negativos em vidro]]
+  * [[100663.txt|100663 - UI - Negativos em vidro]]
+  * [[100664.txt|100664 - UI - Negativos em vidro]]
+  * [[100665.txt|100665 - UI - Negativos em vidro]]
+  * [[100666.txt|100666 - UI - Negativos em vidro]]
+  * [[100667.txt|100667 - UI - Negativos em vidro]]
+  * [[100668.txt|100668 - UI - Negativos em vidro]]

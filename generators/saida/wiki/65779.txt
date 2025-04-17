@@ -1,0 +1,15 @@
+====== 65779 - DC - Certidão de emprazamento do casal da Vila, situado na freguesia em V.N. Famalicão, por Pedro Mendonça Barata de Moura, abade de S. Tiago de Antas, a Brás Fernandes da Silva e a sua mulher Maria Correia de Araújo, do lugar de Salgueiro ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Certidão de emprazamento do casal da Vila, situado na freguesia em V.N. Famalicão, por Pedro Mendonça Barata de Moura, abade de S. Tiago de Antas, a Brás Fernandes da Silva e a sua mulher Maria Correia de Araújo, do lugar de Salgueiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1839-06-13
+**UnitDateFinal**:: 1839-06-13
+**ScopeContent**:: Manuscrito, certidão. Folhas cosidas em papel timbrado. A data de emprazamento 1754-09-25.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 615 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65779

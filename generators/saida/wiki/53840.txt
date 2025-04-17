@@ -1,0 +1,17 @@
+====== 53840 - DC - Edifício dos Novos Paços do Concelho de Vila Nova de Famalicão - Construção da Torre ======
+
+**Parent**:: 53747
+**RootParent**:: 25851
+**UnitTitle**:: Edifício dos Novos Paços do Concelho de Vila Nova de Famalicão - Construção da Torre
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-09
+**UnitDateFinal**:: 1959-09
+**ScopeContent**:: Original. Memória do aditamento. Assinado pelo Arquiteto Januário Godinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53840
+**LangMaterial**:: Português
+**PhysLoc**:: JG 61- cx. 2
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53840

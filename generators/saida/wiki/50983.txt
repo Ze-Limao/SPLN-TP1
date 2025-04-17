@@ -1,0 +1,18 @@
+====== 50983 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-09-29
+Filiação - João Pereira de Mesquita e Ana Pereira
+Naturalidade - Seide S. Paio
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50983
+**LangMaterial**:: Português
+**PhysLoc**:: 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50983

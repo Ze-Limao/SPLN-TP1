@@ -1,0 +1,16 @@
+====== 54426 - UI - Paulo de Melo Sampaio ======
+
+**Parent**:: 31323
+**RootParent**:: 31258
+**UnitTitle**:: Paulo de Melo Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885-06-05
+**UnitDateFinal**:: 1889
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54426
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54426
+
+===== Filhos =====
+  * [[54427.txt|54427 - DC - Carta]]
+  * [[54444.txt|54444 - DC - Carta]]
+  * [[54445.txt|54445 - DC - Carta]]

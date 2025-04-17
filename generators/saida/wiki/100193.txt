@@ -1,0 +1,40 @@
+====== 100193 - UI - Fotografias positivos em papel ======
+
+**Parent**:: 100192
+**RootParent**:: 60695
+**UnitTitle**:: Fotografias positivos em papel
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1928
+**ScopeContent**:: 97 Fotografias de Casas Fotográficas.
+Portugal:
+A. Fillon, Lisboa;
+Célestin Bénard, Porto;
+Emilio Biel & Cª, Porto;
+Guedes, Porto;
+M. Fritz, Porto;
+M.S. Ferreira;
+Photographia Alvão;
+Phot. Universal, Porto
+Photographia Universal Solas, Lisboa;
+Peixoto & Irmão, Porto;
+Sala & Irmão, Phot., Porto;
+Silva Pereira  Photographo, Porto;
+União Photographia, Fonseca & Cª, Porto
+
+Brasil:
+Carneiro & Gaspar, Rio de Janeiro;
+Cypriano & Silveira, Phot., Rio de Janeiro;
+L. Terragno & Cª, Porto Alegre;
+Martins & Teixeira Phot., Rio de Janeiro;
+
+Grã-Bretanha
+James Mudd & Son, Manchester
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99378
+**LangMaterial**:: Português
+**PhysLoc**:: CSC F1 a F100 - cx. 11
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100193

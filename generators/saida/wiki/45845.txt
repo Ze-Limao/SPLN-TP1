@@ -1,0 +1,14 @@
+====== 45845 - UI - José Maria da Silva Ferrão de Carvalho Martens ======
+
+**Parent**:: 31319
+**RootParent**:: 31258
+**UnitTitle**:: José Maria da Silva Ferrão de Carvalho Martens
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880-04-04
+**UnitDateFinal**:: 1880-04-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45845
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45845
+
+===== Filhos =====
+  * [[45846.txt|45846 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 24720 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-04-03
+**UnitDateFinal**:: 1911-01-01
+**ScopeContent**:: António Ferraz envia elementos sobre os ascendentes do Visconde de Faria. Fala sobre a eventual publicação do processo do Solar dos Pinheiros e o mistério das suas armas. Refere que as quatro chaves tanto podem ser um emblema heráldico como um símbolo dos cargos de Pedro Esteves. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24720
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 221 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24720

@@ -1,0 +1,15 @@
+====== 64056 - DC - Fatura de Fernandes & Machado ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Fatura de Fernandes & Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-12-14
+**UnitDateFinal**:: 1890-12-14
+**ScopeContent**:: Manuscrito e impresso. Empresa de fazendas do Porto. Fatura de biscoito doce e azedo e outros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 375 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64056

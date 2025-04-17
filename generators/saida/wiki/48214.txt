@@ -1,0 +1,18 @@
+====== 48214 - DC - Registo do recenseamento eleitoral de João de Oliveira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Lavrador
+Estado - Casado
+Morada - Cachada
+Idade - 70
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48214
+**LangMaterial**:: Português
+**PhysLoc**:: 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48214

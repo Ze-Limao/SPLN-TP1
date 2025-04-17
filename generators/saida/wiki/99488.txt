@@ -1,0 +1,14 @@
+====== 99488 - UI - Cunha ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Cunha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-03-23
+**UnitDateFinal**:: 1917-03-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99488
+
+===== Filhos =====
+  * [[99489.txt|99489 - DC - Telegrama]]

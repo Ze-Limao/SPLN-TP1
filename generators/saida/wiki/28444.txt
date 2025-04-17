@@ -1,0 +1,23 @@
+====== 28444 - DC - Notas e legislação sobre propriedades ======
+
+**Parent**:: 28381
+**RootParent**:: 27963
+**UnitTitle**:: Notas e legislação sobre propriedades
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28444
+**LangMaterial**:: Português
+**PhysLoc**:: AS 65 (1) a 65 (7)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28444
+
+===== Filhos =====
+  * [[28445.txt|28445 - DC - Sobre o entalhamento da propriedade no Minho]]
+  * [[29878.txt|29878 - DC - Enfiteuse no Alentejo]]
+  * [[29879.txt|29879 - DC - Sobre o imposto dos terrenos incultos]]
+  * [[29880.txt|29880 - DC - Açudes nos afluentes do Tejo e Sado]]
+  * [[29881.txt|29881 - DC - Compilação de legislação florestal]]
+  * [[29882.txt|29882 - DC - Aforarem-se às ditas pessoas em vida ou em fateóta]]
+  * [[29883.txt|29883 - DC - Listagem da criação de circunscrições e regiões agronómicas por decretos publicados em Novembro e Dezembro de 1887]]

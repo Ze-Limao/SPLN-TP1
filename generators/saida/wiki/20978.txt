@@ -1,0 +1,15 @@
+====== 20978 - DC - Nº 24/961 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 24/961
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-12-12
+**UnitDateFinal**:: 1961-12-12
+**ScopeContent**:: Contrato de compra e venda de uma casa de habitação no lugar de Telhado, da freguesia de Joane, para instalação do Posto da Guarda Nacional Republicana
+Outorgante - Margarida da Silva Freitas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20978
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20978

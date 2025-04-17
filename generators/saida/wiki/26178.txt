@@ -1,0 +1,16 @@
+====== 26178 - DC - Carta ======
+
+**Parent**:: 21245
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-12-16
+**UnitDateFinal**:: 1920-12-16
+**ScopeContent**:: Carta manuscrita assinada, da Rua Alexandre Herculano, 241, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26178
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 974 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26178

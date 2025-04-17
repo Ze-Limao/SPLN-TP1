@@ -1,0 +1,15 @@
+====== 31386 - SC - Luísa Maria Joana Braamcamp de Almeida Castelo-Branco e Geraldo José Braamcamp de Almeida Castelo-Branco ======
+
+**Parent**:: 31385
+**RootParent**:: 31258
+**UnitTitle**:: Luísa Maria Joana Braamcamp de Almeida Castelo-Branco e Geraldo José Braamcamp de Almeida Castelo-Branco
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1835
+**UnitDateFinal**:: 1845
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31386
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31386
+
+===== Filhos =====
+  * [[31388.txt|31388 - SSC - Luísa Maria Joana Braamcamp de Almeida Castelo-Branco]]
+  * [[31390.txt|31390 - SSC - Geraldo José Braamcamp de Almeida Castelo-Branco]]

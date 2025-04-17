@@ -1,0 +1,16 @@
+====== 21493 - DC - Registo do recenseamento eleitoral de Bernardino de Sá Bezerra ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Bernardino de Sá Bezerra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Antas
+Profissão - Lavrador
+Morada - Currais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21493
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21493

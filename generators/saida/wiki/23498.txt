@@ -1,0 +1,16 @@
+====== 23498 - DC - Registo do recenseamento eleitoral de Domingos Ferreira Gonçalves ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos Ferreira Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Telhado
+Profissão - Lavrador
+Morada - Melhe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23498
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23498

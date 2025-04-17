@@ -1,0 +1,17 @@
+====== 53888 - DC - Ofício dirigido ao Presidente da Câmara Municipal de Famalicão do Arquiteto Januário Godinho sobre pormenores P 67, P 68, P 69, P 70 ======
+
+**Parent**:: 53747
+**RootParent**:: 25851
+**UnitTitle**:: Ofício dirigido ao Presidente da Câmara Municipal de Famalicão do Arquiteto Januário Godinho sobre pormenores P 67, P 68, P 69, P 70
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1960-11-09
+**UnitDateFinal**:: 1960-11-10
+**ScopeContent**:: Original. Assinado pelo Arquiteto Januário Godinho com despacho do Presidente da Câmara 1960-11-10.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53888
+**LangMaterial**:: Português
+**PhysLoc**:: JG 107A - cx. 4
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53888

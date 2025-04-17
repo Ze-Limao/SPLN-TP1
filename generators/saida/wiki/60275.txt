@@ -1,0 +1,14 @@
+====== 60275 - UI - José de Azevedo e Menezes ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: José de Azevedo e Menezes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-11-21
+**UnitDateFinal**:: 1920-11-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60275
+
+===== Filhos =====
+  * [[60276.txt|60276 - DC - Carta]]

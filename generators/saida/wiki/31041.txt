@@ -1,0 +1,16 @@
+====== 31041 - DC - Registo do recenseamento eleitoral de Francisco José Correia Amaro ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco José Correia Amaro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Landim
+Profissão - Lavrador
+Morada - Moinhos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31041
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31041

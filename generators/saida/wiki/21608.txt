@@ -1,0 +1,16 @@
+====== 21608 - DC - Registo do recenseamento eleitoral de António Martins Gomes ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Martins Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Lavrador
+Morada - Outeiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21608
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21608

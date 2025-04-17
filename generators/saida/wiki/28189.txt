@@ -1,0 +1,16 @@
+====== 28189 - DC - Viveiros de 1902 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Viveiros de 1902
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902
+**UnitDateFinal**:: 1902
+**ScopeContent**:: Indicação de locais de plantação de diversas castas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28189
+**LangMaterial**:: Português
+**PhysLoc**:: AS 461 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28189

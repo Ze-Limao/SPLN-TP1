@@ -1,0 +1,17 @@
+====== 78523 - DC - Assinado de dívida que fez Manuel Leite de Magalhães Barros a Luís Pinto de Magalhães ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Assinado de dívida que fez Manuel Leite de Magalhães Barros a Luís Pinto de Magalhães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1814
+**UnitDateFinal**:: 1820-05-17
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5376 - cx. 39
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78523

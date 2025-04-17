@@ -1,0 +1,17 @@
+====== 78406 - DC - Certidão do prazo que do Lameiro dos Prados e suas pertenças, na freguesia de Britelo fez o Mosteiro de Arnoia a Fabiana de Mesquita e marido Luís de Magalhães o quando casassem ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Certidão do prazo que do Lameiro dos Prados e suas pertenças, na freguesia de Britelo fez o Mosteiro de Arnoia a Fabiana de Mesquita e marido Luís de Magalhães o quando casassem
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1675
+**UnitDateFinal**:: 1675
+**ScopeContent**:: Manuscrito. Nota "Esta propriedade tinha sido doada a D. Fabiana Mesquita por seu tio Miguel de Mesquita e Freitas Abade na mesma freguesia de Britelo. Esta Fabiana de mesquita casou com o capitão Luís de Magalhães."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5359 - cx. 39
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78406

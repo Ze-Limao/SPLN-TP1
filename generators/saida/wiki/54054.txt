@@ -1,0 +1,17 @@
+====== 54054 - DC - Nota da Câmara Municipal de Vila Nova de Famalicão ao Engenheiro sobre o revestimento de azulejos ======
+
+**Parent**:: 54055
+**RootParent**:: 25851
+**UnitTitle**:: Nota da Câmara Municipal de Vila Nova de Famalicão ao Engenheiro sobre o revestimento de azulejos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1960-04-14
+**UnitDateFinal**:: 1960-04-14
+**ScopeContent**:: Original assinado em papel timbrada da Câmara, Gabinete do Presidente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54054
+**LangMaterial**:: Português
+**PhysLoc**:: JG 163 - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54054

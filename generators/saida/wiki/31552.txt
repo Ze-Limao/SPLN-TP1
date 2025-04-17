@@ -1,0 +1,18 @@
+====== 31552 - UI - Bernardo de Magalhães e Meneses Vilas Boas Correia de Almada ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Bernardo de Magalhães e Meneses Vilas Boas Correia de Almada
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-03-10
+**UnitDateFinal**:: 1917-03-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31552
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31552
+
+===== Filhos =====
+  * [[31553.txt|31553 - DC - Carta]]

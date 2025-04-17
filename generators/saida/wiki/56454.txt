@@ -1,0 +1,17 @@
+====== 56454 - DC - Fazendas Moda e Miudezas Terroso & Costa ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Fazendas Moda e Miudezas Terroso & Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-01-23
+**UnitDateFinal**:: 1918-01-23
+**ScopeContent**:: Fatura do armazém de Famalicão manuscrita, com carimbo para Visconde de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56454
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4796 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56454

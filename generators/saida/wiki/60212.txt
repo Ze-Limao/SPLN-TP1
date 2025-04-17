@@ -1,0 +1,30 @@
+====== 60212 - DC - Protesto da Academia do Liceu Nacional e Central de Braga ao povo português e a todos os nossos colegas ======
+
+**Parent**:: 60210
+**RootParent**:: 31258
+**UnitTitle**:: Protesto da Academia do Liceu Nacional e Central de Braga ao povo português e a todos os nossos colegas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-11-29
+**UnitDateFinal**:: 1910-11-29
+**ScopeContent**:: Folha impressa. A Academia - estudantes republicanos do Liceu de Nacional e Central de Braga respondem à iniciativa dos estudantes monárquicos. 
+Transcrição do documento:
+«Protesto da Academia do Liceu Nacional e Central de Braga
+Ao povo português e a todos os nossos colegas
+A academia do Liceu Nacional Central de Braga, ufanava-se de, numa maioria esmagadora, comungar no altar da Liberdade.
+E como tal, ao ter conhecimento da ignominiosa teia em que a desqualificação mental de um restrito número de colegas seus a pretendeu enredar, na redacção equívoca duma mensagem de saudação e profissão de fé política enviada ao rei deposto Manuel de Bragança, apressa-se a correr à estacada para bradar bem alto, para que todo o Portugal o ouça, bem alto para que o povo português o sinta.
+Mentira! Mentira! Tartufos!
+Que ideia faríeis do nosso carácter, cidadãos portugueses e colegas nossos, depois da publicação da mensagem? Do nosso carácter que a descoberto, sem máscara e sem rebuço, se manifestava em apoteose de frenesim, vitoriando os caudilhos da Liberdade? De nós que amamos e estremecemos a mãe comum, a nossa querida Pátria, berço de heróis e túmulo de gigantes? Certamente que pensasteis o mesmo que nós, a respeito desses indivíduos de consciência negra como a fuligem e duvidosa como a encruzilhada. Desses que não militam em princípios, mas sim em interesses, contando que lhes satisfaçam a desmedida ambição e o encendrado desejo de lançar toda a bílis que encerram no seu âmago alfugento, no pensamento puríssimo das almas em flor.
+Eis aqui bem patente o nosso protesto e a concretização do nosso pensar.
+E se um dia a Pátria, numa situação angustiosa para a sua dignidade, precisar dos seus filhos, nós teremos então almejado o momento de lhe patentear quão sincera é esta crença ferida em cordas de bronze no nosso coração de patriotas.
+Os delegados da Assembleia Geral da Academia que em 29 de Novembro resolveu publicar este protesto:
+Francisco Martins Lage
+Paulino António da Costa
+Mário Conceição Rocha»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56777
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8967- cx. 55
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60212

@@ -1,0 +1,17 @@
+====== 63903 - DC - Carta ======
+
+**Parent**:: 31579
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-12-02
+**UnitDateFinal**:: 1916-12-09
+**ScopeContent**:: Carta manuscrita assinada, em papel de luto, de Moreira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31582
+**LangMaterial**:: Português
+**PhysLoc**:: CP 137 - cx. 2
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63903

@@ -1,0 +1,16 @@
+====== 29501 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-01-12
+**UnitDateFinal**:: 1880-01-12
+**ScopeContent**:: Carta expedida de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29501
+**LangMaterial**:: Português
+**PhysLoc**:: AS 742 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29501

@@ -1,0 +1,14 @@
+====== 30042 - DC - Narciso de Castro Macedo ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Narciso de Castro Macedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1960-01-30
+**UnitDateFinal**:: 1960-01-30
+**ScopeContent**:: Regedor efetivo da freguesia de Bente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30042
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30042

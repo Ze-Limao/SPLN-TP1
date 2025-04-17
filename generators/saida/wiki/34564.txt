@@ -1,0 +1,19 @@
+====== 34564 - DC - Registo do recenseamento militar de Agostinho ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Agostinho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Nine
+Data de nascimento - 1863-01-20
+Filiação - João Miguel Pires Arantes e Ana Joaquina Gomes Pinto
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34564
+**LangMaterial**:: Português
+**PhysLoc**:: 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34564

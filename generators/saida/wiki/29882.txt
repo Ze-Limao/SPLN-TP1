@@ -1,0 +1,16 @@
+====== 29882 - DC - Aforarem-se às ditas pessoas em vida ou em fateóta ======
+
+**Parent**:: 28444
+**RootParent**:: 27963
+**UnitTitle**:: Aforarem-se às ditas pessoas em vida ou em fateóta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: … aforarem-se às ditas pessoas em vida ou em fateóta / Colec. 5.ª à Ord. L. 1.º Tit. 66, n.º 14 § 4, Edic. Vicentina pág. 376.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29882
+**LangMaterial**:: Português
+**PhysLoc**:: AS 65 (6) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29882

@@ -1,0 +1,17 @@
+====== 28081 - DC - Ofício n. 362 da Câmara Municipal de Guimarães dirigido a António Vicente Leal Sampaio ======
+
+**Parent**:: 29579
+**RootParent**:: 27963
+**UnitTitle**:: Ofício n. 362 da Câmara Municipal de Guimarães dirigido a António Vicente Leal Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-12-02
+**UnitDateFinal**:: 1908-12-02
+**ScopeContent**:: Ofício manuscrito dirigido a António Vicente Leal Sampaio, sobrinho de Alberto Sampaio,  
+em que o Presidente da Câmara Municipal de Guimarães, João Gomes de Oliveira Guimarães, informa que na sessão da Câmara realizada a 2 de Dezembro de 1908, foi deliberado «consignar em acta um voto de profundo sentimento» pela morte de Alberto Sampaio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28081
+**LangMaterial**:: Português
+**PhysLoc**:: AS 173- cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28081

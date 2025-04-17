@@ -1,0 +1,18 @@
+====== 49496 - DC - Registo do recenseamento eleitoral de António Rodrigues de Miranda ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Rodrigues de Miranda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vilarinho das Cambas
+Profissão - Lavrador
+Estado - Casado
+Morada - Barrinho
+Idade - 52
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49496
+**LangMaterial**:: Português
+**PhysLoc**:: 86v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49496

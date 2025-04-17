@@ -1,0 +1,14 @@
+====== 20271 - UI - Registo de correspondência recebida nº45 ======
+
+**Parent**:: 20218
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº45
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-11-08
+**UnitDateFinal**:: 1974-03-01
+**ScopeContent**:: Termo de abertura não está preenchido. Contém dados: nº de ordem, nº e data do documento, data do registo, remetente ou signatário, natureza do documento e respectivo assunto, resolução, destino, observação. Inicia com o registo nº 4474 até ao registo nº 5101. O ano 1974 tem 867 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20271
+**LangMaterial**:: Português
+**PhysLoc**:: 658
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20271

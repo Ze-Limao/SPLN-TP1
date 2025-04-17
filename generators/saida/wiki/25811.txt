@@ -1,0 +1,16 @@
+====== 25811 - DC - Em Vila Nova de Famalicão um violento incêndio destruiu duas fábricas e um prédio causando mais de 2 mil contos de prejuizos ======
+
+**Parent**:: 25084
+**RootParent**:: 20342
+**UnitTitle**:: Em Vila Nova de Famalicão um violento incêndio destruiu duas fábricas e um prédio causando mais de 2 mil contos de prejuizos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1937-10-02
+**UnitDateFinal**:: 1937-10-02
+**ScopeContent**:: Recorte de imprensa do Jornal Diário do Minho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25811
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 182 - cx. 46
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25811

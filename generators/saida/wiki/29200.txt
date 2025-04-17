@@ -1,0 +1,16 @@
+====== 29200 - DC - Lavagem da resina da madeira resinosa ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Lavagem da resina da madeira resinosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Informações de como lavar a resina da madeira e do tratamento a fazer às macieiras atacadas com o pulgão lanígero.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29200
+**LangMaterial**:: Português
+**PhysLoc**:: AS 315 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29200

@@ -1,0 +1,16 @@
+====== 25669 - DC - Carta ======
+
+**Parent**:: 21182
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-03-17
+**UnitDateFinal**:: 1925-03-17
+**ScopeContent**:: Carta manuscrita assinada, de Villa Franca, Leça de Palmeira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25669
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 619 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25669

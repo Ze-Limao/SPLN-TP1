@@ -1,0 +1,19 @@
+====== 34575 - DC - Registo do recenseamento militar de Sebastião ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Sebastião
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Nine
+Data de nascimento - 1862-11-05
+Filiação - Maria da Costa
+Profissão - Ferreiro
+Estado - Solteiro
+Morada - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34575
+**LangMaterial**:: Português
+**PhysLoc**:: 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34575

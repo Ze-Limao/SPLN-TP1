@@ -1,0 +1,17 @@
+====== 60619 - DC - Carta enviada a irmã não identificada ======
+
+**Parent**:: 60618
+**RootParent**:: 31258
+**UnitTitle**:: Carta enviada a irmã não identificada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1936
+**ScopeContent**:: Carta manuscrita assinada, sem datação e sem destinatário, muito danificada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32465
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4324 - cx. 32
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60619

@@ -1,0 +1,16 @@
+====== 23230 - DC - Registo do recenseamento eleitoral de João Ferreira da Silva Guimarães ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Ferreira da Silva Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Riba de Ave
+Profissão - Proprietário
+Morada - Venda
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23230
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23230

@@ -1,0 +1,28 @@
+====== 20376 - SSC - Serviços Administrativos ======
+
+**Parent**:: 20375
+**RootParent**:: 20342
+**UnitTitle**:: Serviços Administrativos
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1890-07-03
+**UnitDateFinal**:: 1992-12-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20376
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20376
+
+===== Filhos =====
+  * [[25039.txt|25039 - UI - Ordens de serviço da Corporação de bombeiros de V.N. Famalicão]]
+  * [[25040.txt|25040 - UI - Partituras musicais da AHBVF]]
+  * [[25041.txt|25041 - UI - Ordens de serviço do Comando]]
+  * [[25042.txt|25042 - UI - Tabela de piquetes de bombeiros Voluntários de Vila Nova de Famalicão]]
+  * [[25043.txt|25043 - UI - Mapas de serviço prestado pelo corpo de bombeiros com designação dos serviços]]
+  * [[25044.txt|25044 - UI - Folhas com total dos serviços e comparências durante os meses/ano]]
+  * [[25045.txt|25045 - UI - Atestados de pobreza]]
+  * [[25046.txt|25046 - UI - Processo referente ao desastre rodoviário ocorrido em 24 de novembro de 1953 na estrada Porto-Braga]]
+  * [[25047.txt|25047 - UI - Serviço para avisar o pessoal]]
+  * [[25048.txt|25048 - UI - Funerais]]
+  * [[25049.txt|25049 - UI - Posse Comandante Júlio Sousa Freitas]]
+  * [[25050.txt|25050 - UI - Programa de Homenagem ao Comandante Fernando Soares]]
+  * [[25051.txt|25051 - UI - Cópia de ofício dirigida a Higino Macedo pelo Corpo Ativo]]

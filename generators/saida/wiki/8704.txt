@@ -1,0 +1,18 @@
+====== 8704 - DC - Ilídio do Sacramento Araújo Faria ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Ilídio do Sacramento Araújo Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-20
+**UnitDateFinal**:: 1890-08-20
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - António Joaquim de Araújo Faria
+Naturalidade - Monsul, Póvoa de Lanhoso
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8704
+**LangMaterial**:: Português
+**PhysLoc**:: f. 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8704

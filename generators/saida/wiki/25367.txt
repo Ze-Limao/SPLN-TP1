@@ -1,0 +1,16 @@
+====== 25367 - DC - Ofício de Artur Macedo, 2º Comandante da AHBVF, dirigido ao Presidente da Direcção ======
+
+**Parent**:: 25076
+**RootParent**:: 20342
+**UnitTitle**:: Ofício de Artur Macedo, 2º Comandante da AHBVF, dirigido ao Presidente da Direcção
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1931-06-22
+**UnitDateFinal**:: 1931-06-22
+**ScopeContent**:: Ofício que autoriza à audição dos voluntários do Comando na investigação que a Direcção está a proceder. Ofício manuscrito em papel timbrado dos Bombeiros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25367
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 174 - cx. 42
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25367

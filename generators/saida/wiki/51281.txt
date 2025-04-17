@@ -1,0 +1,18 @@
+====== 51281 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-06-10
+Filiação - Joaquim António dos Santos e Leonarda Maria de Azevedo
+Naturalidade - Ribeirão
+Profissão - Lavrador
+Residência - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51281
+**LangMaterial**:: Português
+**PhysLoc**:: 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51281

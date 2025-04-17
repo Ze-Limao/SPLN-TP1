@@ -1,0 +1,16 @@
+====== 24681 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-08-13
+**UnitDateFinal**:: 1904-08-13
+**ScopeContent**:: António Ferraz disponibiliza notas a propósito de Francisco Villas Boas Truão. A existência de uma família Truão em Barcelos será válida. Há elementos da Câmara que referem actas das reuniões nos anos de 1715 a 1724. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24681
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 183 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24681

@@ -1,0 +1,18 @@
+====== 21110 - UI - Ernesto Leite de Vasconcelos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Ernesto Leite de Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1924
+**UnitDateFinal**:: 1924-03-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21110
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 365
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21110
+
+===== Filhos =====
+  * [[25386.txt|25386 - DC - Carta]]
+  * [[25387.txt|25387 - DC - Carta]]

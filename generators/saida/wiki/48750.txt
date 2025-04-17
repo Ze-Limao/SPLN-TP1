@@ -1,0 +1,18 @@
+====== 48750 - DC - Registo do recenseamento eleitoral de Manuel da Costa e Silva ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel da Costa e Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Lavrador
+Estado - Casado
+Morada - Padroso
+Idade - 38
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48750
+**LangMaterial**:: Português
+**PhysLoc**:: 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48750

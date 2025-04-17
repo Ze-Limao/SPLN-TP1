@@ -1,0 +1,16 @@
+====== 23552 - DC - Registo do recenseamento eleitoral de Francisco Simões de Oliveira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Simões de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vale S. Cosme
+Profissão - Lavrador
+Morada - Lourido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23552
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 77v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23552

@@ -1,0 +1,34 @@
+====== 54571 - UI - Eulália Estelista de Freitas Rangel de Quadros ======
+
+**Parent**:: 31366
+**RootParent**:: 31258
+**UnitTitle**:: Eulália Estelista de Freitas Rangel de Quadros
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-01
+**UnitDateFinal**:: 1908
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54571
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54571
+
+===== Filhos =====
+  * [[58455.txt|58455 - DC - Bilhete-postal]]
+  * [[58456.txt|58456 - DC - Carta]]
+  * [[58687.txt|58687 - DC - Carta]]
+  * [[58694.txt|58694 - DC - Carta]]
+  * [[58792.txt|58792 - DC - Bilhete-postal]]
+  * [[58793.txt|58793 - DC - Bilhete-postal]]
+  * [[58794.txt|58794 - DC - Carta]]
+  * [[58810.txt|58810 - DC - Carta]]
+  * [[58811.txt|58811 - DC - Bilhete-postal]]
+  * [[58812.txt|58812 - DC - Bilhete-postal]]
+  * [[58813.txt|58813 - DC - Bilhete-postal]]
+  * [[58814.txt|58814 - DC - Carta]]
+  * [[58815.txt|58815 - DC - Bilhete-postal]]
+  * [[58816.txt|58816 - DC - Bilhete-postal]]
+  * [[58817.txt|58817 - DC - Carta]]
+  * [[58818.txt|58818 - DC - Carta]]
+  * [[58819.txt|58819 - DC - Carta]]
+  * [[58820.txt|58820 - DC - Carta]]
+  * [[58928.txt|58928 - DC - Bilhete-postal]]
+  * [[59086.txt|59086 - DC - Carta para netos]]
+  * [[59087.txt|59087 - DC - Carta para Ana e Vicente]]

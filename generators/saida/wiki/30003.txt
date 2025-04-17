@@ -1,0 +1,14 @@
+====== 30003 - DC - Carlos Henriques Fernandes Carreira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Carlos Henriques Fernandes Carreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1953-05-11
+**UnitDateFinal**:: 1953-05-11
+**ScopeContent**:: Regedor efetivo da freguesia de Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30003
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30003

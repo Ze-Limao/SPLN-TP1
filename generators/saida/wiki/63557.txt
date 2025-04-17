@@ -1,0 +1,19 @@
+====== 63557 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Bernardino Pinheiro da Costa e Ana Tinoco de Carvalho
+Naturalidade - Cruz
+Morada - Mouquim
+Data de nascimento - 1866-08-04
+Emprego - Pedreiro
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63557

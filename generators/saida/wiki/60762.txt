@@ -1,0 +1,15 @@
+====== 60762 - UI - Tombo de uma ração da igreja de S. Tiago de Antas ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Tombo de uma ração da igreja de S. Tiago de Antas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1541
+**UnitDateFinal**:: 1611-02-12
+**ScopeContent**:: Manuscrito. Encadernado a pele com atilhos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 32 - cx. 1
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60762

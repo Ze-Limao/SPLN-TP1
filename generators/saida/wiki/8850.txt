@@ -1,0 +1,18 @@
+====== 8850 - DC - Termo do exame de Joaquim Francisco da Costa ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim Francisco da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-03
+**UnitDateFinal**:: 1893-08-03
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - Manuel da Costa
+Naturalidade - Vermoim
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8850
+**LangMaterial**:: Português
+**PhysLoc**:: f. 47
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8850

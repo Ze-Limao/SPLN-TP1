@@ -1,0 +1,20 @@
+====== 63472 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Manuel Alves de Sousa e Narcisa Rosa Antunes
+Naturalidade - Oliveira Santa Maria
+Morada - Ignora-se
+Data de nascimento - 1866-09-10
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63472

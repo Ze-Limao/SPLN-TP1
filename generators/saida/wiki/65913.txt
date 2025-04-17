@@ -1,0 +1,15 @@
+====== 65913 - DC - Apegação, medição e confrontação do casal de Vila Nova de Famalicão, situado na mesma freguesia, a favor do Padre Manuel de António Correia ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal de Vila Nova de Famalicão, situado na mesma freguesia, a favor do Padre Manuel de António Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1753-04-02
+**UnitDateFinal**:: 1753-04-02
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 649 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65913

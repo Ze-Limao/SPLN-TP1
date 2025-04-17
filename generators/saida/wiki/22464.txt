@@ -1,0 +1,16 @@
+====== 22464 - DC - Registo do recenseamento eleitoral de Manuel Nogueira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Nogueira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Joane
+Profissão - Lavrador
+Morada - Monte Chão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22464
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22464

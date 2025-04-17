@@ -1,0 +1,17 @@
+====== 78545 - DC - Sentença a favor de Vicente Pinheiro Lobo da Guerra contra Veríssimo Machado Fagundes ======
+
+**Parent**:: 54470
+**RootParent**:: 31258
+**UnitTitle**:: Sentença a favor de Vicente Pinheiro Lobo da Guerra contra Veríssimo Machado Fagundes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1758
+**UnitDateFinal**:: 1758
+**ScopeContent**:: Manuscrito com folhas cosidas. Veríssimo Machado Fagundes é filho natural do 8º morgado, João Machado Fagundes da Guerra Pinheiro e Figueira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54262
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5389 - cx. 39
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78545

@@ -1,0 +1,17 @@
+====== 67334 - DC - Envelope ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Envelope
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Envelope timbrado "In Die Königlich Haus Die Abgeordneten Portugiesische Gefanaltschaft" com nomes manuscritos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56728
+**LangMaterial**:: Português e Alemão
+**PhysLoc**:: CP 16  - cx. 1
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67334

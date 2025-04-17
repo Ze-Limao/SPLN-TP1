@@ -1,0 +1,15 @@
+====== 65958 - DC - Carta de confirmação de uma ração, feita por Pêro Jorge da Silva, abade de S. Tiago de Antas, a António Costa ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Carta de confirmação de uma ração, feita por Pêro Jorge da Silva, abade de S. Tiago de Antas, a António Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1553-12-20
+**UnitDateFinal**:: 1553-12-20
+**ScopeContent**:: Manuscrito, original, sem selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 283 - cx. P9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65958

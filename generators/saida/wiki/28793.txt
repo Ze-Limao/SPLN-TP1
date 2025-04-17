@@ -1,0 +1,17 @@
+====== 28793 - UI - Jaime de Magalhães Lima ======
+
+**Parent**:: 28714
+**RootParent**:: 27963
+**UnitTitle**:: Jaime de Magalhães Lima
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-10-27
+**UnitDateFinal**:: 1908-11-04
+**ScopeContent**:: Jaime de Magalhães Lima (1859-1936). Escritor e político. Irmão de Sebastião de Magalhães Lima, grão-mestre do Grande Oriente Lusitano Unido. Formou-se em Direito na Universidade de Coimbra. Foi eleito deputado pelo Partido Regenerador nas legislaturas de 1893-1894 e 1896-1897. Em 1892 exerceu o cargo de Presidente da Câmara Municipal de Aveiro. Colaborou em vários jornais e revistas, entre os quais O Século, do qual seu irmão foi fundador, A Província e a Revista de Portugal. Foi um seguidor dos ideais de vida de S. Francisco de Assis, por quem tinha uma profunda devoção, e admirador de Leão Tolstoi, a quem visitou numa viagem que fez à Rússia. Escreveu vários ensaios, textos doutrinários e crónicas de viagem.
+Fonte: Cartas a Alberto Sampaio. Organização, introdução e notas Emília Nóvoa Faria. Porto: Campo das Letras, 2008.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28793
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28793
+
+===== Filhos =====
+  * [[28794.txt|28794 - DC - Bilhete-postal]]
+  * [[28795.txt|28795 - DC - Bilhete-postal]]

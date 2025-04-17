@@ -1,0 +1,14 @@
+====== 28782 - UI - José Augusto Ferreira ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: José Augusto Ferreira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 19  -11-15
+**UnitDateFinal**:: 19  -11-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28782
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28782
+
+===== Filhos =====
+  * [[28783.txt|28783 - DC - Carta]]

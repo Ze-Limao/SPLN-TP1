@@ -1,0 +1,30 @@
+====== 24753 - UI - Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros; Documentos diversos sobre nova sede. ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros; Documentos diversos sobre nova sede.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1958-07-23
+**UnitDateFinal**:: 1962-10-14
+**ScopeContent**:: Os documentos diversos sobre nova sede dizem respeito a contas, estudo para desenhar o projeto do novo quartel, recortes de imprensa, notas, folhetos, ofícios, cópia de atas, discurso, proposta à direção.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24753
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 12 - cx. 3
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24753
+
+===== Filhos =====
+  * [[24788.txt|24788 - DC - Anúncio do concurso público para arrematação da empreitada para a construção do novo quartel dos BVF]]
+  * [[24789.txt|24789 - DC - Nota de Hilário de Carvalho "Em Lisboa"]]
+  * [[24790.txt|24790 - DC - Novo quartel dos Bombeiros Voluntários de Famalicão]]
+  * [[24791.txt|24791 - DC - O novo quartel dos Bombeiros Voluntários de Famalicão será modelar no seu género]]
+  * [[25820.txt|25820 - DC - Cópia do ofício dirigido a José Maria Pereira, comandante dos Bombeiros Voluntários de Vila Nova de Ourém e memorial da construção do novo quartel]]
+  * [[25821.txt|25821 - DC - Discurso de Hilário de Carvalho na Assembleia geral para a venda do prédio]]
+  * [[25822.txt|25822 - DC - Convocatória da Assembleia Geral Extraordinária para votação de uma proposta de venda do prédio, sede da Associação Humanitária e construção de um novo quartel]]
+  * [[25823.txt|25823 - DC - Discurso de Hilário de Carvalho proferido no quartel na Rua Adriano Pinto Basto quando da retirada do mesmo]]
+  * [[25825.txt|25825 - DC - Os Bombeiros Voluntários de Famalicão vão ter um novo quartel]]
+  * [[25826.txt|25826 - DC - Os Bombeiros de Famalicão e o seu novo quartel]]
+  * [[25827.txt|25827 - DC - Foi impressionante a despedida dos Bombeiros V. de Famalicão do seu velho Quartel]]
+  * [[25828.txt|25828 - DC - Já estão instalados no seu novo quartel os Bombeiros V. de Famalicão]]

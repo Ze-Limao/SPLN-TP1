@@ -1,0 +1,14 @@
+====== 20263 - UI - Registo de correspondência recebida nº37 ======
+
+**Parent**:: 20218
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº37
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-03-13
+**UnitDateFinal**:: 1970-08-26
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir este livro para nele se registar (manuscrito) correspondência recebida nesta Câmara Municipal…”. Contém dados: nº de ordem, nº e data do documento, data do registo, remetente ou signatário, natureza do documento e respectivo assunto, resolução, destino, observação. Inicia com o registo nº 1682 até ao registo nº 3545.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20263
+**LangMaterial**:: Português
+**PhysLoc**:: 660
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20263

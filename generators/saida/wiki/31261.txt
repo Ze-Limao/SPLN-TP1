@@ -1,0 +1,19 @@
+====== 31261 - DC - Certidão do Testamento de Luís Carvalho de 1526 ======
+
+**Parent**:: 54460
+**RootParent**:: 31258
+**UnitTitle**:: Certidão do Testamento de Luís Carvalho de 1526
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1526
+**UnitDateFinal**:: 1724
+**ScopeContent**:: 3 - Nº 12 1526-05-12. Certidão da instituição do morgado de Pindela. Certidão do século XVIII do testamento de Luís de Carvalho.Testamento que Luís de Carvalho deixa o Morgadio de Pindela a seu sobrinho Simão Pinheiro - Vínculo. Na primeira f. manuscrita "Nº12, 1526 Maio 12. Instituição do Morgado de Pindela".
+
+"Em nome de Deus, amém: saibam quantos esta manda e testamento virem que no ano do nascimento de Nosso Senhor Jesus Cristo de mil quinhentos e vinte seis anos, aos doze dias do mês de Maio, na Quinta de Pindela, sita na freguesia de S. Tiago da Forca, nas pousadas de Luis de Carvalho. Escudeiro-fidalgo, jazendo ele aí, em uma cama doente de doença que lhe Nosso Senhor deu, em todo o seu juízo e entendimento, como sabia ter, e bem assim estando aí presente Beatriz de Almeida, sua Mulher, logo por eles ambos juntamente e cada um por si, em presença de mim Tabelião e das testemunhas ao diante e nomeadas, foi dito que suas vontades eram, porquanto de entre eles não havia filho nem filha que suas fazendas herdassem, de um fazer herdeiro o outro, e o outro ao outro, como de facto logo fizeram: que o que mais vivesse ficasse herdeiro do que primeiro falecesse, somente em sua vida, e que, por suas mortes, assim do primeiro como do derradeiro, toda sua fazenda e bens fiquem para Simão, filho de Estevão Pinheiro e sobrinho dele Luís de Carvalho, e bem assim a Leonor, filha de Gregório de Benevides e de Filipa Mendes e sobrinha dela, Beatriz de Almeida, com tal condição que ambos casem um com o outro, e lhe mandamos, sob pena das nossas bençãos, que assim o façam e mandamos e assim é nossa vontade, que toda a dita nossa fazenda de raíz, assim como nós a temos e possuímos, ande toda juntamente unida sem se nunca poder dividir (...)".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31261
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6038 -  cx. 42
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31261

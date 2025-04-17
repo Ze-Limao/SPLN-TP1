@@ -1,0 +1,16 @@
+====== 23162 - DC - Carta ======
+
+**Parent**:: 21044
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-06-07
+**UnitDateFinal**:: 1905-06-07
+**ScopeContent**:: Alexandre Amaral pede para o tratar por primo visto existir uma relação de parentesco pela casa de Cezim através da sua 3ª avó paterna, aparentada com a casa de Paço de Nespereira, etc. Pede informações sobre a família Barbosas de Ovar, concunhado de JAM. Carta manuscrita assinada, L.c. de Sequeiros, Ancêde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23162
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 51 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23162

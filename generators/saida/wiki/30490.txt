@@ -1,0 +1,16 @@
+====== 30490 - DC - Registo do recenseamento eleitoral de José Carneiro ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Avidos
+Profissão - Lavrador
+Morada - Penso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30490
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30490

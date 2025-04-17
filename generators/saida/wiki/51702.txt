@@ -1,0 +1,18 @@
+====== 51702 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-05-03
+Filiação - António da Costa Coelho e Maria Joaquina Nogueira
+Naturalidade - Vale S. Cosme
+Profissão - Lavrador-caseiro
+Residência - Requião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51702
+**LangMaterial**:: Português
+**PhysLoc**:: 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51702

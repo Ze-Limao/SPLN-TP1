@@ -1,0 +1,16 @@
+====== 28705 - DC - No title ======
+
+**Parent**:: 28703
+**RootParent**:: 27963
+**UnitTitle**:: No title
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Transcrições de livros de inquirições de D. Dinis e D. Afonso IV.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28705
+**LangMaterial**:: Português
+**PhysLoc**:: AS 122 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28705

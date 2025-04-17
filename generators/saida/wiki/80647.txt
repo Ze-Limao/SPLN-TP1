@@ -1,0 +1,14 @@
+====== 80647 - UI - Processo nº 280 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 280
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-06-03
+**UnitDateFinal**:: 1977-07-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 275 - cx. 15
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80647

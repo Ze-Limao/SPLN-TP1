@@ -1,0 +1,15 @@
+====== 97523 - UI - Processo nº 21-C ======
+
+**Parent**:: 79994
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 21-C
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-02-02
+**UnitDateFinal**:: 1971-12-31
+**ScopeContent**:: Junto com Acção Emergente de Contrato de Trabalho Ordinário nº 21, Autos de Reclamação de Créditos nº 21-D, Autos de Execução de Custas nº 21-A e 21-B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 345 - cx. 20
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97523

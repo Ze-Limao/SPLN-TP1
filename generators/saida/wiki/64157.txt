@@ -1,0 +1,15 @@
+====== 64157 - DC - Certidão e treslado de duas apelações feitas perante o Vigário-geral da diocese do Porto, pelo Dr. António Fernandes, abade da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Certidão e treslado de duas apelações feitas perante o Vigário-geral da diocese do Porto, pelo Dr. António Fernandes, abade da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1618-01-19
+**UnitDateFinal**:: 1618-01-19
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 87 - cx. 3
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64157

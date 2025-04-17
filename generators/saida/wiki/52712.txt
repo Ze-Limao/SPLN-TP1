@@ -1,0 +1,16 @@
+====== 52712 - DC - Registo do recenseamento militar de António Marques ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-05-05
+Filiação - Joaquim Marques e Josefa da Costa
+Naturalidade - Calendário-
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52712
+**LangMaterial**:: Português
+**PhysLoc**:: 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52712

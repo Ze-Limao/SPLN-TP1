@@ -1,0 +1,14 @@
+====== 30045 - DC - Artur Barbosa da Silva ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Artur Barbosa da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1960-04-30
+**UnitDateFinal**:: 1960-04-30
+**ScopeContent**:: Regedor efetivo da freguesia de Brufe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30045
+**LangMaterial**:: Português
+**PhysLoc**:: f. 22
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30045

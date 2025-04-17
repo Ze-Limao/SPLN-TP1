@@ -1,0 +1,16 @@
+====== 23088 - DC - Carta ======
+
+**Parent**:: 20335
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913
+**ScopeContent**:: Alberto de Gusmão Navarro refere que não conhece JAM e escreve-lhe para fazer uma observação ao livro “Ninharias” sobre os títulos de Farias que encontrou no nobiliário de Afonso Torres, do qual só existem 4 a 5 cópias. O remetente oferece-se para prestar esclarecimentos sobre esta matéria. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23088
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 13 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23088

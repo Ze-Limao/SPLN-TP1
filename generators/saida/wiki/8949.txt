@@ -1,0 +1,18 @@
+====== 8949 - DC - Termo do exame de Arminda Gonçalves de Oliveira Reis ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Arminda Gonçalves de Oliveira Reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-31
+**UnitDateFinal**:: 1894-07-31
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - João António Gonçalves de Oliveira
+Naturalidade - Vitória, Porto
+Classificação - Distinta
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8949
+**LangMaterial**:: Português
+**PhysLoc**:: f. 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8949

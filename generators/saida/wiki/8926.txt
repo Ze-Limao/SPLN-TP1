@@ -1,0 +1,18 @@
+====== 8926 - DC - Termos do exame de Domingos de Sousa Monteiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termos do exame de Domingos de Sousa Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-26
+**UnitDateFinal**:: 1894-07-26
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Manuel de Sousa Monteiro
+Naturalidade - Bairro
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8926
+**LangMaterial**:: Português
+**PhysLoc**:: f. 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8926

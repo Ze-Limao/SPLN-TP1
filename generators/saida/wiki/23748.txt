@@ -1,0 +1,16 @@
+====== 23748 - DC - Registo do recenseamento eleitoral de Francisco António do Vale Vessadas ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco António do Vale Vessadas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Proprietário
+Morada - Feira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23748
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 84v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23748

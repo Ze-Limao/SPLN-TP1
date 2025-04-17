@@ -1,0 +1,15 @@
+====== 25028 - UI - Inventário de material ======
+
+**Parent**:: 20367
+**RootParent**:: 20342
+**UnitTitle**:: Inventário de material
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-06-28
+**UnitDateFinal**:: 1937-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25028
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 130
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25028

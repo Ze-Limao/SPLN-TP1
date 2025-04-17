@@ -1,0 +1,15 @@
+====== 97736 - UI - Processo nº 1036 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 1036
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-11-13
+**UnitDateFinal**:: 1991-10-18
+**ScopeContent**:: Junto com Autos de Execução Sumária nº 531.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 477 - cx. 29
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97736

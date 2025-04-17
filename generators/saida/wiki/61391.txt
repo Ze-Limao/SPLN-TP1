@@ -1,0 +1,16 @@
+====== 61391 - DC - Terra de Basto ======
+
+**Parent**:: 60929
+**RootParent**:: 60550
+**UnitTitle**:: Terra de Basto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933
+**UnitDateFinal**:: 1933
+**ScopeContent**:: Documento impresso da Livraria Central Editora Lisboa. Tarjeta para colocar à volta do livro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 172 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61391

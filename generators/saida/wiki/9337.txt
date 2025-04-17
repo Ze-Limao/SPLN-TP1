@@ -1,0 +1,19 @@
+====== 9337 - DC - Registo do recenseamento militar de Domingos ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Domingos Carvalho Marques e Felicidade de Oliveira
+Naturalidade - Vale S. Cosme
+Data de nascimento - 1877-11-30
+Profissão - 
+Estado civil - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9337
+**LangMaterial**:: Português
+**PhysLoc**:: f. 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9337

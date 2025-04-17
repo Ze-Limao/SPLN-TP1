@@ -1,0 +1,24 @@
+====== 20334 - UI - Afonso de Azevedo Nunes Branco ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Afonso de Azevedo Nunes Branco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-03-07
+**UnitDateFinal**:: 1920-09-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20334
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 5, 6, 7, 8, 9, 10, 11, 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20334
+
+===== Filhos =====
+  * [[23080.txt|23080 - DC - Carta]]
+  * [[23081.txt|23081 - DC - Carta]]
+  * [[23082.txt|23082 - DC - Carta]]
+  * [[23083.txt|23083 - DC - Carta]]
+  * [[23084.txt|23084 - DC - Carta]]
+  * [[23085.txt|23085 - DC - Carta]]
+  * [[23086.txt|23086 - DC - Carta]]
+  * [[23087.txt|23087 - DC - Carta]]

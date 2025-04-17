@@ -1,0 +1,17 @@
+====== 56914 - DC - Comissão de Viticultura. Archivo Especial. Minha sahida da Comissão Executiva. Nota de caixa de 15 de Maio de 1933. Nº 7 ======
+
+**Parent**:: 56907
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Archivo Especial. Minha sahida da Comissão Executiva. Nota de caixa de 15 de Maio de 1933. Nº 7
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933-01-01
+**UnitDateFinal**:: 1933-05-15
+**ScopeContent**:: Capa com título manuscrito a cores; Várias notas manuscritas de caixa, de faturas, de despesas da C.V.R.V.V. de janeiro a maio de 1933
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56914
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2678 - cx. 21
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56914

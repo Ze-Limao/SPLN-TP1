@@ -1,0 +1,16 @@
+====== 30737 - DC - Registo do recenseamento eleitoral de Manuel Machado ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia -Castelões
+Profissão - Lavrador
+Morada - Torres
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30737
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30737

@@ -1,0 +1,16 @@
+====== 30865 - DC - Registo do recenseamento eleitoral de José Gonçalves de azevedo ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Gonçalves de azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Morada - Povoação
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30865
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30865

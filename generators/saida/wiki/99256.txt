@@ -1,0 +1,13 @@
+====== 99256 - SR - Recibos ======
+
+**Parent**:: 60695
+**RootParent**:: 60695
+**UnitTitle**:: Recibos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1911
+**UnitDateFinal**:: 1916
+**ScopeContent**:: CSC 126 a 202 - cx. 4
+depósito 3, estante 5
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99060
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99256

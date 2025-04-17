@@ -1,0 +1,18 @@
+====== 8204 - DC - Termo do exame de Manuel José Rodrigues ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel José Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-05-20
+**UnitDateFinal**:: 1884-05-20
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - José Joaquim Ferreira
+Naturalidade - Vila Nova de Famalicão
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8204
+**LangMaterial**:: Português
+**PhysLoc**:: f. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8204

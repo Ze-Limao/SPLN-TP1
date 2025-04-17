@@ -1,0 +1,14 @@
+====== 54452 - UI - José Maria Brinche Carvalho ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: José Maria Brinche Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1897-09-07
+**UnitDateFinal**:: 1897-09-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54452
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54452
+
+===== Filhos =====
+  * [[54453.txt|54453 - DC - Carta]]

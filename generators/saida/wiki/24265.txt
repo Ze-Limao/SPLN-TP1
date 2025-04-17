@@ -1,0 +1,16 @@
+====== 24265 - DC - Registo do recenseamento eleitoral de António José Alves ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Carreira
+Profissão - Lavrador
+Morada - Almofães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24265
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24265

@@ -1,0 +1,19 @@
+====== 9594 - DC - Registo do recenseamento militar de Arnaldo ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Arnaldo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Feliciano José Pita e Ana Maria dos Anjos
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1877-09-23
+Profissão - 
+Estado civil - 
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9594
+**LangMaterial**:: Português
+**PhysLoc**:: f. 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9594

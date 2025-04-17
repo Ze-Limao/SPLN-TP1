@@ -1,0 +1,16 @@
+====== 28084 - DC - 1871 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1871
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-09-18
+**UnitDateFinal**:: 1871-09-26
+**ScopeContent**:: Colheita 1871. Valores de densidade do mosto de diversas castas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28084
+**LangMaterial**:: Português
+**PhysLoc**:: AS 372- cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28084

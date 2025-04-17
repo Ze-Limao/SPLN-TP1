@@ -1,0 +1,26 @@
+====== 9799 - SR - Tipografia Minerva 1929 ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Tipografia Minerva 1929
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1929
+**UnitDateFinal**:: 1929
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9799
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9799
+
+===== Filhos =====
+  * [[9800.txt|9800 - DC - Largo Tinoco de Sousa e Hospital de Misericórdia]]
+  * [[9801.txt|9801 - DC - Praça da República e Paços do Concelho]]
+  * [[9802.txt|9802 - DC - Rua Cândido dos Reis (antiga Rua Direita)]]
+  * [[9803.txt|9803 - DC - Rua Cândido dos Reis (antiga Rua Direita)]]
+  * [[9804.txt|9804 - DC - Praça 9 de Abril]]
+  * [[9805.txt|9805 - DC - Campo Mousinho - Dia de feira]]
+  * [[9806.txt|9806 - DC - Campo Mousinho de Albuquerque (outro aspecto da feira)]]
+  * [[9807.txt|9807 - DC - Outro aspecto do Campo Mousinho d´Albuquerque]]
+  * [[9808.txt|9808 - DC - Rua Alves Roçadas]]
+  * [[9809.txt|9809 - DC - Vila Nova de Famalicão (vista geral)]]
+  * [[9817.txt|9817 - DC - Molêdo - Arredores de Famalicão]]
+  * [[9818.txt|9818 - DC - Molêdo - Arredores de Famalicão]]

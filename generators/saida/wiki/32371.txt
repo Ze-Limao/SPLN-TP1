@@ -1,0 +1,24 @@
+====== 32371 - UI - António Luís Cardoso de Meneses Barreto ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Luís Cardoso de Meneses Barreto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891
+**UnitDateFinal**:: 1909
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32371
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32371
+
+===== Filhos =====
+  * [[32372.txt|32372 - DC - Carta]]
+  * [[32373.txt|32373 - DC - Carta]]
+  * [[32374.txt|32374 - DC - Carta]]
+  * [[32375.txt|32375 - DC - Carta e declaração]]
+  * [[32376.txt|32376 - DC - Carta]]
+  * [[32377.txt|32377 - DC - Carta]]
+  * [[32378.txt|32378 - DC - Carta]]

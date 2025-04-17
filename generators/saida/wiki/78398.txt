@@ -1,0 +1,24 @@
+====== 78398 - DC - Casa de Basto. Pagas e escritos de dívidas distratadas ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Basto. Pagas e escritos de dívidas distratadas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1678-07-14
+**UnitDateFinal**:: 1778-04-23
+**ScopeContent**:: Capa manuscrita que contém o maço CP 5013A a CP 5017
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5013 - cx. 36
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78398
+
+===== Filhos =====
+  * [[78399.txt|78399 - DC - Obrigação de dívida]]
+  * [[78400.txt|78400 - DC - Escritura de transação, composição que fez Clara Pereira Pinto Fagundes e seus filhos, Francisco de Abreu Pereira Pinto, Antónia e Manuel de Abreu Pereira Pinto com Diogo de Barros]]
+  * [[78401.txt|78401 - DC - Paga e quitação que deu Manuel António, do lugar de Chacim, a Paulo Pinto de Magalhães, seu cunhado e morador na casa de Lobela, o total de 150 reis]]
+  * [[78402.txt|78402 - DC - Paga de legítimos de Joana de Campos e seus filhos que os receberam de Gervásio de Magalhães, do lugar de Lobela, da freguesia de Santa Senhorinha]]
+  * [[78403.txt|78403 - DC - Paga de 200 mil reis que pagou Paulo Pinto de Magalhães e seu tio o padre Gervásio Portillo de Magalhães a Manuel Alves de Carvalho]]

@@ -1,0 +1,22 @@
+====== 56131 - DC - Documentos diversos de foros de Vila do Conde ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Documentos diversos de foros de Vila do Conde
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1870
+**UnitDateFinal**:: 1887
+**ScopeContent**:: Este envelope contém documentos sobre diretos de água repartidos entre as quintas de Pindela e do Casilho, CP 14260 a CP 14262.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56131
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14259 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56131
+
+===== Filhos =====
+  * [[56132.txt|56132 - DC - Documento sobre diretos de água repartidos entre as quintas de Pindela e do Casilho]]
+  * [[56133.txt|56133 - DC - Documento sobre diretos de água repartidos entre as quintas de Pindela e do Casilho]]
+  * [[56134.txt|56134 - DC - Documento sobre diretos de água repartidos entre as quintas de Pindela e do Casilho]]

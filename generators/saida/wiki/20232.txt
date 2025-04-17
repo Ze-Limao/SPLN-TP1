@@ -1,0 +1,14 @@
+====== 20232 - UI - Registo de correspondência recebida ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1938-03-09
+**UnitDateFinal**:: 1959-08-20
+**ScopeContent**:: Termo de abertura impresso: “Vão ser numerados e rubricadas as folhas deste livro que há de servir para n´ele se registar a correspondência recebida…”. Contém dados: mês, dia, procedência, número, circular ou ofício, extracto, folio do arquivo, obs. O ano de 1938 tem 4 registos, passa para o ano de 1944 com 1 registo, 1946 com 3 registos, 1953 com 16 registos, 1954 com 3 registos, 1955 com 11 registos, 1956 com 8 registos, 1957 com 8 registos, 1958 com 8 registos, 1959 com 6 registos. Contém: Cópia do Ofício do Governo Civil do Districto de Braga dirigido ao Presidente da Câmara do concelho de Vila Nova de Famalicão, 1955-08-20,1 f.; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20232
+**LangMaterial**:: Português
+**PhysLoc**:: 694
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20232

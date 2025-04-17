@@ -1,0 +1,15 @@
+====== 20185 - SR - Registo de soldados que passaram à reserva territorial ======
+
+**Parent**:: 20050
+**RootParent**:: 20048
+**UnitTitle**:: Registo de soldados que passaram à reserva territorial
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1895-04-17
+**UnitDateFinal**:: 1897-02-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20185
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20185
+
+===== Filhos =====
+  * [[20186.txt|20186 - UI - Registo de soldados que passaram à reserva territorial]]

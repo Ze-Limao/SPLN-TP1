@@ -1,0 +1,15 @@
+====== 80035 - UI - Processo nº 27-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 27-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-04-02
+**UnitDateFinal**:: 1971-04-30
+**ScopeContent**:: Junto com Autos de Acção Emergente de Contrato de Trabalho com Processo Comum nº 27.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 47 - cx. 4
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80035

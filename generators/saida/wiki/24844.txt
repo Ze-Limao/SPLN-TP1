@@ -1,0 +1,16 @@
+====== 24844 - DC - Carta ======
+
+**Parent**:: 21077
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-03-21
+**UnitDateFinal**:: 1917-03-21
+**ScopeContent**:: Informa que falou com o Ministro da Instrução Pública (Joaquim Pedro Martins) para o pedido de subsídio para as despesas das obras de Seide, sendo necessário JAM fazer um outro ofício adaptado ao regulamento sobre construções escolares. Carta manuscrita assinada, de R. Almeida Brandão, nº10, 2º (Lisboa).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24844
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 277 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24844

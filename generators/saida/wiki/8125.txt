@@ -1,0 +1,18 @@
+====== 8125 - DC - Joaquim José Alves Pimenta ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim José Alves Pimenta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-05-18
+**UnitDateFinal**:: 1889-07-18
+**ScopeContent**:: Escola - Vermoim
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Delães
+Data de posse - 1883-05-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8125
+**LangMaterial**:: Português
+**PhysLoc**:: f. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8125

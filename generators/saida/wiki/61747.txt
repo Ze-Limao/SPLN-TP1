@@ -1,0 +1,17 @@
+====== 61747 - DC - 25 anos Engenho 1994-2019. Território. Gente. Comunidade ======
+
+**Parent**:: 61450
+**RootParent**:: 60551
+**UnitTitle**:: 25 anos Engenho 1994-2019. Território. Gente. Comunidade
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2020
+**UnitDateFinal**:: 2020
+**ScopeContent**:: Autor Associação de Desenvolvimento Local do Vale do Este.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 379 - cx. 5
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61747

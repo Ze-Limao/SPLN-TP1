@@ -1,0 +1,18 @@
+====== 8779 - DC - Termo do exame de Bernardino Pereira Ribeiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Bernardino Pereira Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-08-12
+**UnitDateFinal**:: 1892-08-12
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Manuel José Ribeiro
+Naturalidade - Lagoa
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8779
+**LangMaterial**:: Português
+**PhysLoc**:: f. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8779

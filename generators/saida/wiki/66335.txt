@@ -1,0 +1,15 @@
+====== 66335 - DC - Procuração do Cónego José Abreu Pereira da Fonseca, abade da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Procuração do Cónego José Abreu Pereira da Fonseca, abade da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-26
+**UnitDateFinal**:: 1893-07-26
+**ScopeContent**:: Manuscrito, original, em papel azul.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 457 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66335

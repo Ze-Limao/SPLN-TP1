@@ -1,0 +1,16 @@
+====== 24082 - DC - Carta ======
+
+**Parent**:: 21060
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-12-16
+**UnitDateFinal**:: 1914-12-16
+**ScopeContent**:: António de Almeida Campos informa do seu casamento com D. Anna Cardoso de Menezes (Margaride). Carta manuscrita assinada, Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24082
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 102 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24082

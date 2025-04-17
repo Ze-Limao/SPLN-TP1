@@ -1,0 +1,24 @@
+====== 7706 - UI - Livro de Notas Nº 19 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 19
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1947-07-04
+**UnitDateFinal**:: 1948-08-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7706
+**LangMaterial**:: Português
+**PhysLoc**:: 1.55
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7706
+
+===== Filhos =====
+  * [[21018.txt|21018 - DC - Contrato de compra e venda]]
+  * [[21019.txt|21019 - DC - Contrato de compra e venda]]
+  * [[21020.txt|21020 - DC - Contrato entre a Federação de Caixas de Previdência - Habitações Económicas e a Câmara Municipal de Vila Nova de Famalicão]]
+  * [[21021.txt|21021 - DC - Contrato de compra e venda]]
+  * [[21022.txt|21022 - DC - Contrato de compra e venda]]
+  * [[21023.txt|21023 - DC - Contrato de compra e venda]]
+  * [[21024.txt|21024 - DC - Contrato de compra e venda]]
+  * [[21025.txt|21025 - DC - Contrato de compra e venda]]
+  * [[21026.txt|21026 - DC - Contrato de adjudicação]]

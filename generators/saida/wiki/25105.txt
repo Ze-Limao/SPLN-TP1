@@ -1,0 +1,18 @@
+====== 25105 - DC - Estatutos da Associação Humanitária dos Bombeiros Voluntários Famalicenses ======
+
+**Parent**:: 25084
+**RootParent**:: 20342
+**UnitTitle**:: Estatutos da Associação Humanitária dos Bombeiros Voluntários Famalicenses
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1930
+**UnitDateFinal**:: 1930
+**ScopeContent**:: Livreto publicado em Famalicão pela Typ. Minerva. Publicação dos estatutos reformulados após o Alvará dado pelo Governador civil de Braga no dia 17 de novembro de 1927.
+Um ato de indisciplina de alguns dos bombeiros da corporação esteve na origem do afastamento do 1.º Comandante, Álvaro Bezerra e da formação de uma nova Associação de Bombeiros na vila de Famalicão, corria o ano de 1927. A irredutibilidade nas decisões que, entretanto, se tomaram, incendiou ainda mais os ânimos, passando a constituir tema de conversa na vila e arredores. É neste cenário de conflito e de alguma instabilidade que surgem, em 1928, os Estatutos da Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão em letra de imprensa e, no ano seguinte, a proposta de alterações dos uniformes, apresentada pelo 1.º Comandante, Capitão Manuel Moreira Rodrigues de Carvalho. 
+As reuniões das assembleias gerais da Associação Humanitária dos Bombeiros Voluntários realizadas em maio de 1926 foram preenchidas com a discussão e a aprovação dos novos Estatutos. A edição dos Estatutos data, no entanto, de 1928, a seguir à dissolução do corpo ativo e à consequente fundação dos Bombeiros Voluntários Famalicenses.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25105
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 182 - cx. 46
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25105

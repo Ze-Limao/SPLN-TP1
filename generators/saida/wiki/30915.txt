@@ -1,0 +1,16 @@
+====== 30915 - DC - Registo do recenseamento eleitoral de José Pinto ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Lavrador
+Morada - Boca
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30915
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30915

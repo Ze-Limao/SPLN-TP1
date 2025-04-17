@@ -1,0 +1,16 @@
+====== 24211 - DC - Registo do recenseamento eleitoral de Roberto Rodrigues de Sá ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Roberto Rodrigues de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Cabeçudos
+Profissão - Proprietário
+Morada - Quintão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24211
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24211

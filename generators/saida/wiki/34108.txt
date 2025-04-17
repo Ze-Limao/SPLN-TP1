@@ -1,0 +1,19 @@
+====== 34108 - DC - Registo do recenseamento militar de José de Matos ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José de Matos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Ruivães e Novais
+Data de nascimento - 1852-05-13
+Filiação - José de Matos e Balbina Rosa
+Profissão - Carpinteiro
+Estado - Solteiro
+Morada - Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34108
+**LangMaterial**:: Português
+**PhysLoc**:: 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34108

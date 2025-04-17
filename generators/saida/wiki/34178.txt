@@ -1,0 +1,19 @@
+====== 34178 - DC - Registo do recenseamento militar de Fernando Ferreira de Sousa ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Fernando Ferreira de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Nine
+Data de nascimento - 1852-06-05
+Filiação - Manuel Joaquim Ferreira de Sousa e Felícia Augusta de Macedo Passos
+Profissão - 
+Estado - 
+Morada - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34178
+**LangMaterial**:: Português
+**PhysLoc**:: 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34178

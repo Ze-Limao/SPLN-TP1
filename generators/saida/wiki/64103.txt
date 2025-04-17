@@ -1,0 +1,15 @@
+====== 64103 - DC - Certidão dos autos de execução e de arrematação em que foi executante a Fazenda Nacional e executado António da Costa Regadas e seu fiador Custódio Rodrigues Cardoso, da freguesia de S. Julião de Calendário ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Certidão dos autos de execução e de arrematação em que foi executante a Fazenda Nacional e executado António da Costa Regadas e seu fiador Custódio Rodrigues Cardoso, da freguesia de S. Julião de Calendário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1843-02-12
+**UnitDateFinal**:: 1878-07-10
+**ScopeContent**:: Manuscrito, certidão em papel azul timbrado com selo de 60 reis, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 273 - cx. 14
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64103

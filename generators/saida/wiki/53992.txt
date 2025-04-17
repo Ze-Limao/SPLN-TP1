@@ -1,0 +1,17 @@
+====== 53992 - DC - Medição de obras a menos a deduzir como Primeiro Adicional à empreitada geral da urbanização da praça anexa ao edifício do Tribunal… ======
+
+**Parent**:: 53982
+**RootParent**:: 25851
+**UnitTitle**:: Medição de obras a menos a deduzir como Primeiro Adicional à empreitada geral da urbanização da praça anexa ao edifício do Tribunal…
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-06-03
+**UnitDateFinal**:: 1961-06-03
+**ScopeContent**:: Original. Exemplar incompleto. Exemplar igual JG 157(2), JG 159(7) e 160(7).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53992
+**LangMaterial**:: Português
+**PhysLoc**:: JG 153(7) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53992

@@ -1,0 +1,16 @@
+====== 23493 - DC - Registo do recenseamento eleitoral de António Maria Gomes de Matos ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Maria Gomes de Matos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Telhado
+Profissão - Proprietário
+Morada - Valverde
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23493
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23493

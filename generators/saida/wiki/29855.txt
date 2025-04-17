@@ -1,0 +1,16 @@
+====== 29855 - DC - Pastorais de Longus ou Daphnis e Chloe ======
+
+**Parent**:: 28388
+**RootParent**:: 27963
+**UnitTitle**:: Pastorais de Longus ou Daphnis e Chloe
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: "Pastorais de Longus ou Daphnis e Chloe (Cenas rústicas) trad. de P- L- Courier: Paris, Libr. Firmin Didot, 1857 (Vinha alta)”. Transcrição de extractos, referentes à vinha, do romance Pastorais de Daphnis e Chloé, escrito por Longus, poeta grego, e traduzido por Paul-Louis Courier.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29855
+**LangMaterial**:: Português
+**PhysLoc**:: AS 58 (12) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29855

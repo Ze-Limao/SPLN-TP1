@@ -1,0 +1,14 @@
+====== 20225 - UI - Registo de correspondência recebida ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1870-01-03
+**UnitDateFinal**:: 1872-04-05
+**ScopeContent**:: Termo de abertura: “Livro E. Para a entrada de toda a correspondencia que a Camara recebe das diferentes Authoridades… novembro de 1869”. Contém dados: nº de ordem, data da receção, data do ofício, designação da autoridade que expediu os ofícios ou circulares, extracto dos ofícios ou circulares, expediente. O ano de 1870 tem 252 registos, o ano de 1871 tem 222 registos, o ano 1872 tem 69 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20225
+**LangMaterial**:: Português
+**PhysLoc**:: 635
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20225

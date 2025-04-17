@@ -1,0 +1,11 @@
+====== 29583 - SR - 2004 ======
+
+**Parent**:: 29620
+**RootParent**:: 29618
+**UnitTitle**:: 2004
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 2004-01-01
+**UnitDateFinal**:: 2004-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29583
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29583

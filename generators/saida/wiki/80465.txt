@@ -1,0 +1,15 @@
+====== 80465 - UI - Processo nº 43 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 43
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-03-12
+**UnitDateFinal**:: 1970-07-30
+**ScopeContent**:: Autos de Execução por Quantia Certa com Processo. Junto com Autos de Embargos nº 43/A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 160 - cx. 9
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80465

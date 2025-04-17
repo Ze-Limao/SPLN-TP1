@@ -1,0 +1,16 @@
+====== 8248 - UI - Aires José Barbosa ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Aires José Barbosa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-07-12
+**UnitDateFinal**:: 1895-07-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8248
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.3
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8248
+
+===== Filhos =====
+  * [[8249.txt|8249 - DC - Carta]]

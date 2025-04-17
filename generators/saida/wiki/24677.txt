@@ -1,0 +1,16 @@
+====== 24677 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-05-27
+**UnitDateFinal**:: 1904-05-27
+**ScopeContent**:: António Ferraz refere a leitura de um artigo sobre os Pinheiros com menção a uma figura de uma cabeça de homem e mãos nas barbas no jazigo dos Pinheiros na Colegiada, túmulo de Álvaro Pinheiro. Refere também o túmulo de D.Diogo Pinheiro em Santa Maria do Olival - Tomar, que não considera de estilo Manuelino mas sim da Renascença. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24677
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 179 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24677

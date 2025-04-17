@@ -1,0 +1,19 @@
+====== 9253 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Pereira Simões e Felicidade Faria Peixoto
+Naturalidade - Pousada de Saramagos
+Data de nascimento - 1877-06-03
+Profissão - Criado de servir
+Estado civil - Solteiro
+Residência - Pousada de Saramagos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9253
+**LangMaterial**:: Português
+**PhysLoc**:: f. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9253

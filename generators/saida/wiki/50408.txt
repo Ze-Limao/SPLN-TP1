@@ -1,0 +1,18 @@
+====== 50408 - DC - Registo do recenseamento militar de Paulo ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Paulo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-03-17
+Filiação - Manuel António da Silva e Maria Josefa
+Naturalidade - Oliveira Santa Maria
+Profissão - Lavrador-caseiro
+Residência - Gondar
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50408
+**LangMaterial**:: Português
+**PhysLoc**:: 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50408

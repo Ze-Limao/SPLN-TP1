@@ -1,0 +1,17 @@
+====== 78637 - DC - Concórdia sobre limites de propriedades de Pindela e da Quinta da Costa entre Manuel da Figueira e Bartolomeu de Lemos ======
+
+**Parent**:: 54463
+**RootParent**:: 31258
+**UnitTitle**:: Concórdia sobre limites de propriedades de Pindela e da Quinta da Costa entre Manuel da Figueira e Bartolomeu de Lemos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1587-06-28
+**UnitDateFinal**:: 1587-06-28
+**ScopeContent**:: Manuscrito. Miguel Figueira foi o marido da 2ª Morgada Ana Pinheiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31266
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6028 - cx. 42
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78637

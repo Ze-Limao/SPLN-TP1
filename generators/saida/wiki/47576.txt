@@ -1,0 +1,18 @@
+====== 47576 - DC - Registo do recenseamento eleitoral de José António de Araújo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Brufe
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Silvares
+Idade - 38
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47576
+**LangMaterial**:: Português
+**PhysLoc**:: 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47576

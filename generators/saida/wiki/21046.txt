@@ -1,0 +1,15 @@
+====== 21046 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7708
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1951-05-14
+**UnitDateFinal**:: 1951-05-14
+**ScopeContent**:: Fornecimento de cento e cinquenta contadores para o abastecimento de água
+Outorgante - Engenheiro Bruno Janz (Herdeiros)
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21046
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 57
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21046

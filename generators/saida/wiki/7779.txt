@@ -1,0 +1,15 @@
+====== 7779 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 8 ======
+
+**Parent**:: 7766
+**RootParent**:: 7651
+**UnitTitle**:: Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 8
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1747-11-10
+**UnitDateFinal**:: 1830-03-02
+**ScopeContent**:: Freguesias de Louro, Cavalões, Outiz, Gemunde, Brufe, Fradelos, Gavião, Mouquim, Jesufrei, Nine, Arnoso Santa Maria, Arnoso Santa Eulália, Sezures, Arnoso Mosteiro, Vale S. Cosme, Telhado, Portela, Pousada de Saramagos, Pedome, Oliveira Santa Maria, Oliveira S. Mateus, Delães, Abade de Vermoim, Landim e Carreira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7779
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF - cx. 50
+depósito 1, estante 43
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7779

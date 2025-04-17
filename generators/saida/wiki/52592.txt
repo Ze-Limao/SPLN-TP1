@@ -1,0 +1,18 @@
+====== 52592 - DC - Registo do recenseamento militar de Joaquim Moreira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-06-28
+Filiação - Bernardo Moreira e Joana Maria
+Naturalidade - Seide S. Paio
+Profissão - Criado de servir
+Residência - Lagoa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52592
+**LangMaterial**:: Português
+**PhysLoc**:: 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52592

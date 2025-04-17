@@ -1,0 +1,18 @@
+====== 54253 - DC - Escritura de doação dos móveis, prazos e herdades que fez Afonso Pinheiro a Baltasar Pinheiro do prazo do casal de Ribela ======
+
+**Parent**:: 54464
+**RootParent**:: 31258
+**UnitTitle**:: Escritura de doação dos móveis, prazos e herdades que fez Afonso Pinheiro a Baltasar Pinheiro do prazo do casal de Ribela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1611-05-10
+**UnitDateFinal**:: 1611-05-10
+**ScopeContent**:: Manuscrito com folhas cosidas. "Pasta nº 3 Cazal nº 7 I". Este documento estava na caixa “Pasta nº3 Anno 1841”, que contém CP 12875 a CP 12958.
+Afonso Pinheiro, tio do 3º Morgado, fez escritura a 10 maio de 1611, num tabelião de Braga, e por não ter descendentes, fez doação dos móveis, prazos e herdades a Baltasar Pinheiro Lobo (futuro 4º Morgado). A doação era composta do casal de Ribela (que já tinha recebido por doação do outro irmão Estevão Pinheiro). O casal de Ribela teria outro co-proprietário, seu irmão, Pedro Ferreira que também doou a Baltasar Pinheiro Lobo, mas houve vários problemas porque havia pessoas externas à família que estavam interessados nestas heranças e recorreram a instâncias judiciais (CP 12900, CP 12902, CP 12903, CP 12904, CP 12906).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54253
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12901  - cx. 80
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54253

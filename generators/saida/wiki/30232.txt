@@ -1,0 +1,16 @@
+====== 30232 - DC - Carta ======
+
+**Parent**:: 21398
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Carta manuscrita e assinada, de Oliveira do Hospital, Casa de Baixo. Tem o monograma impresso CM. Não menciona ano, é do dia 03 de setembro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30232
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1365 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30232

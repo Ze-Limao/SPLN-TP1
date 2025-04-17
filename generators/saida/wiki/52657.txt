@@ -1,0 +1,16 @@
+====== 52657 - DC - Registo do recenseamento militar de António de Azevedo ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-09-25
+Filiação - Francisco Ferreira de Azevedo e Maria Carneiro
+Naturalidade - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52657
+**LangMaterial**:: Português
+**PhysLoc**:: 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52657

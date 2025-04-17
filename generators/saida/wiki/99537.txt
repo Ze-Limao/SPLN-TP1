@@ -1,0 +1,15 @@
+====== 99537 - UI - Pedro Marques da Cunha ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Pedro Marques da Cunha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-01-27
+**UnitDateFinal**:: 1915-01-27
+**ScopeContent**:: Valbom.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99537
+
+===== Filhos =====
+  * [[99538.txt|99538 - DC - Carta]]

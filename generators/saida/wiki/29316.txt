@@ -1,0 +1,16 @@
+====== 29316 - DC - The stomach and its trials ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: The stomach and its trials
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Prospecto publicitário da Eno (sais de fruta para o estômago). Impresso por M. Corquodale & Co. Limited, London.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29316
+**LangMaterial**:: Inglês
+**PhysLoc**:: AS 213 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29316

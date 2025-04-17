@@ -1,0 +1,29 @@
+====== 33885 - DC - Carta ======
+
+**Parent**:: 33878
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-04-16
+**UnitDateFinal**:: 1882-04-16
+**ScopeContent**:: Carta manuscrita assinada, das Caldas de Vizela. Esta carta está dentro envelope CP 2252 juntamente com outras 12 cartas de Camilo Castelo Branco.
+Transcrição da carta:
+"Meu amigo e
+Ex.mo Snr.
+Creio q. visconde de Villa da Praia n. há. Houve barão, que era o Garção Stokler, mas os descendentes não tiveram o titulo. Há, porem, visconde da Praia que se chama Duarte da Camara Medeiros. A genealogia do sujeito é fácil organizar-se até ao seculo 17 na metrópole; mas, como V. Exª sabe, os apelidos do homem nem indicam linhagem dos primeiros descobridores e donatários dos Açores. O m.mo se dá com o visconde de Monforte Luiz Coutinho de Albergaria Freire. Os nossos genealógicos limitavam a sua curiosid.e ao reino, e pouco nos disseram das fam.as ultramarinas.
+Se V. Exª quiser, eu escrevo ao Eugenio do Canto que nos pode dar, como nobilianista q. é, abundantes esclarecim.tos
+De V. Exª
+obrgm.e e affectuo.te
+Cde Vla
+16/4/82
+Camillo Castello Branco."
+
+Nesta carta, Camilo escreve a Vicente sobre genealogia de uma família fidalga açoriana. Neste  Arquivo  Casa de Pindela encontra-se também uma carta sobre o mesmo assunto de José Azevedo e Menezes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33885
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2250 - cx. 16
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33885

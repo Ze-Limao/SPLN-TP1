@@ -1,0 +1,17 @@
+====== 60182 - DC - Mapas da exploração agrícola e comprovativos de despesas ======
+
+**Parent**:: 57357
+**RootParent**:: 31258
+**UnitTitle**:: Mapas da exploração agrícola e comprovativos de despesas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1928-10-31
+**UnitDateFinal**:: 1931-08
+**ScopeContent**:: Manuscrito. Este maço estava na “Caixa 15”, que contém CP 13246 a CP 13255.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57358
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13254 - cx. 92
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60182

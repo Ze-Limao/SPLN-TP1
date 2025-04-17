@@ -1,0 +1,16 @@
+====== 25841 - DC - Carta ======
+
+**Parent**:: 21187
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-06-21
+**UnitDateFinal**:: 1916-06-21
+**ScopeContent**:: O autor envia a minuta a bem da homenagem ao escritor Camilo. Carta manuscrita assinada, de Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25841
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 748 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25841

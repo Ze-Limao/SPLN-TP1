@@ -1,0 +1,17 @@
+====== 99737 - DC - A besta infame ======
+
+**Parent**:: 99382
+**RootParent**:: 60695
+**UnitTitle**:: A besta infame
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Folheto impresso de autoria Abílio Gomes Ferreira da Costa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99390
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 227 - cx. 6
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99737

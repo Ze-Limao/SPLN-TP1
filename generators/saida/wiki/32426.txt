@@ -1,0 +1,17 @@
+====== 32426 - DC - Carta ======
+
+**Parent**:: 32445
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875
+**UnitDateFinal**:: 1889
+**ScopeContent**:: Carta manuscrita assinada, de Mateus 28 de Outubro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32426
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4435 - cx. 32
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32426

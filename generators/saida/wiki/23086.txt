@@ -1,0 +1,16 @@
+====== 23086 - DC - Carta ======
+
+**Parent**:: 20334
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-09-03
+**UnitDateFinal**:: 1920-09-03
+**ScopeContent**:: Afonso de Azevedo Nunes Branco informa sobre a possibilidade de se obter um subsídio anual de 1.000$00 para o Museu de Seide. Carta manuscrita assinada, Lisboa. Papel timbrado "Ministério das Finanças. Conselho Fiscalizador do Comércio Geral e Cambios".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23086
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 11 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23086

@@ -1,0 +1,16 @@
+====== 22441 - DC - Registo do recenseamento eleitoral de José Correia de Mesquita Guimarães ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Correia de Mesquita Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Joane
+Profissão - Negociante
+Morada - Igreja
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22441
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22441

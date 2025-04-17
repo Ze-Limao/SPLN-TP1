@@ -1,0 +1,15 @@
+====== 63973 - UI - Livro das visitações e ordens pastorais ======
+
+**Parent**:: 63971
+**RootParent**:: 60536
+**UnitTitle**:: Livro das visitações e ordens pastorais
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1603-07-01
+**UnitDateFinal**:: 1705-07-01
+**ScopeContent**:: Manuscrito, original, encadernado a pele com atilhos. A pele é de um pergaminho com pauta de música. Folhas escritas até à 116.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 78 - cx. 3
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63973

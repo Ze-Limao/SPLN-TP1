@@ -1,0 +1,21 @@
+====== 21063 - UI - António Cabreira ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Cabreira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-04-18
+**UnitDateFinal**:: 1917-02-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21063
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 143, 144, 145, 146, 147
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21063
+
+===== Filhos =====
+  * [[24370.txt|24370 - DC - Cartão de visita]]
+  * [[24371.txt|24371 - DC - Carta]]
+  * [[24372.txt|24372 - DC - Carta]]
+  * [[24373.txt|24373 - DC - Carta]]
+  * [[24374.txt|24374 - DC - Recibo]]

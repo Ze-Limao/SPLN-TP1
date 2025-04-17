@@ -1,0 +1,18 @@
+====== 51012 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-04-17
+Filiação - José Barroso e Bernardina de Araújo
+Naturalidade - Lagoa
+Profissão - Carpinteiro
+Residência - Lagoa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51012
+**LangMaterial**:: Português
+**PhysLoc**:: 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51012

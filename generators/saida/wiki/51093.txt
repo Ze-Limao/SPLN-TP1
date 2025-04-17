@@ -1,0 +1,18 @@
+====== 51093 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-04-13
+**UnitDateFinal**:: 1864-04-13
+**ScopeContent**:: Data de nascimento - 
+Filiação - Joaquim Neto e Maria Nunes
+Naturalidade - Lamoso, Paços de Ferreira
+Profissão - Criado de servir
+Residência - Aves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51093
+**LangMaterial**:: Português
+**PhysLoc**:: 60v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51093

@@ -1,0 +1,15 @@
+====== 66328 - DC - José Joaquim, desembargador, envia documento a Provedor da Comarca de Miranda, informações no conteúdo na petição de D. Fr. Jorge de Meneses copiada nas costas desta…mandou os deputados da Mesa da Consciência e Ordens ======
+
+**Parent**:: 63954
+**RootParent**:: 60536
+**UnitTitle**:: José Joaquim, desembargador, envia documento a Provedor da Comarca de Miranda, informações no conteúdo na petição de D. Fr. Jorge de Meneses copiada nas costas desta…mandou os deputados da Mesa da Consciência e Ordens
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1736-07-31
+**UnitDateFinal**:: 1786-10-03
+**ScopeContent**:: Manuscrito, original, sem capas, folhas cosidas. Documento composto por: O Comentador da Comenda de São Mamede de Sortes… manda fazer as obras pertencentes à Capela da Igreja de S. Nicolau do lugar de Paço das Sortes”, púbica forma, de 1780-02-22, Lisboa; Documento enviado ao Comendador da Comenda de S. Mamede de Sortes para saber informações sobre a necessidade de fazer a obra da Capela mór e retábulo da Igreja de S. Bartolomeu, no lugar de Viduedo…1780-02-09, Lisboa; Manuel Lopes da Silveira…ajudante do agravos, 1736-07-31, Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 451 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66328

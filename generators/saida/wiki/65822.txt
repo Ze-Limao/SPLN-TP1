@@ -1,0 +1,15 @@
+====== 65822 - DC - Apegação, medição e confrontação de um terço do casal do Eiral, situado na freguesia de Brufe, por Rodrigo Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, que empraza a Manuel Ferreira Jorge e a sua mulher Catarina Bernarda de Oliveira ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação de um terço do casal do Eiral, situado na freguesia de Brufe, por Rodrigo Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, que empraza a Manuel Ferreira Jorge e a sua mulher Catarina Bernarda de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1780-10-27
+**UnitDateFinal**:: 1780-11-07
+**ScopeContent**:: Manuscrito, impresso. original. Folhas cosidas. Carta de Vedoria impressa de 1780-10-27.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 190 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65822

@@ -1,0 +1,15 @@
+====== 66316 - DC - Petição ao visitador sobre o abade e beneficiado João Gomes da Silva e o dizer missas de canto de órgão ======
+
+**Parent**:: 63971
+**RootParent**:: 60536
+**UnitTitle**:: Petição ao visitador sobre o abade e beneficiado João Gomes da Silva e o dizer missas de canto de órgão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1674
+**UnitDateFinal**:: 1685-06-19
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 442 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66316

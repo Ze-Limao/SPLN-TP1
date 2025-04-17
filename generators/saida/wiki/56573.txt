@@ -1,0 +1,17 @@
+====== 56573 - DC - Os monarchicos e as eleições ======
+
+**Parent**:: 31328
+**RootParent**:: 31258
+**UnitTitle**:: Os monarchicos e as eleições
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-09-26
+**UnitDateFinal**:: 1916-09-26
+**ScopeContent**:: Recorte do jornal O Dia. Documento junto com CP 12711 a CP 12721.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56573
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12716 - cx. 76
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56573

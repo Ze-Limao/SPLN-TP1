@@ -1,0 +1,20 @@
+====== 21356 - UI - Gonçalo Pereira da Silva de Sousa e Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Gonçalo Pereira da Silva de Sousa e Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1909-03-20
+**UnitDateFinal**:: 1919-08-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21356
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1269 a 1273
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21356
+
+===== Filhos =====
+  * [[29961.txt|29961 - DC - Carta]]
+  * [[29962.txt|29962 - DC - Carta]]
+  * [[29963.txt|29963 - DC - Carta]]
+  * [[29964.txt|29964 - DC - Carta]]
+  * [[29965.txt|29965 - DC - Carta]]

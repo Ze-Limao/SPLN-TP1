@@ -1,0 +1,17 @@
+====== 57754 - DC - Diploma de Funções Públicas da República Portuguesa de João Vicente Ferreira e Ficha biográfica ======
+
+**Parent**:: 31341
+**RootParent**:: 31258
+**UnitTitle**:: Diploma de Funções Públicas da República Portuguesa de João Vicente Ferreira e Ficha biográfica
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1925-06-13
+**UnitDateFinal**:: 1925-06-13
+**ScopeContent**:: Diploma datilografado e assinado pelo Director Geral, selado e carimbado com selo branco, no verso assinado por João Vicente Ferreira. Junto com uma folha branca com a fotografia de J.V.F. colada e manuscrito uma apreciação do 3º Visconde de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57754
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2374 - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57754

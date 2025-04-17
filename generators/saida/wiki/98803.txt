@@ -1,0 +1,17 @@
+====== 98803 - DC - Certidão requerida por Vicente Machado referente a terras do Mosteiro de Arnoso ======
+
+**Parent**:: 31302
+**RootParent**:: 31258
+**UnitTitle**:: Certidão requerida por Vicente Machado referente a terras do Mosteiro de Arnoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1839-03-07
+**UnitDateFinal**:: 1839-03-07
+**ScopeContent**:: Manuscrito com folhas cosidas, em papel azul selado 20 reis. "Pasta nº6 Cazal 37 R". Este documento estava na “Caixa 6”, que contém CP 12997 a CP 13016.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12999 - cx. 83
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98803

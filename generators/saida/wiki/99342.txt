@@ -1,0 +1,15 @@
+====== 99342 - UI - Orfanato Ferro-Viário Minho e Douro ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Orfanato Ferro-Viário Minho e Douro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-09-05
+**UnitDateFinal**:: 1916-09-05
+**ScopeContent**:: Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99342
+
+===== Filhos =====
+  * [[99343.txt|99343 - DC - Carta]]

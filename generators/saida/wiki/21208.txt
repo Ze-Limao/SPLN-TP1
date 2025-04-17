@@ -1,0 +1,16 @@
+====== 21208 - UI - José Maria Camacho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Maria Camacho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1905-07-03
+**UnitDateFinal**:: 1905-07-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21208
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 817
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21208
+
+===== Filhos =====
+  * [[26023.txt|26023 - DC - Carta]]

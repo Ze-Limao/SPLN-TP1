@@ -1,0 +1,18 @@
+====== 46598 - DC - Registo do recenseamento eleitoral de Manuel Martins de Carvalho ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Martins de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Nine
+Profissão - Lavrador
+Estado - Casado
+Morada - Fonte Cova
+Idade - 50
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46598
+**LangMaterial**:: Português
+**PhysLoc**:: 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46598

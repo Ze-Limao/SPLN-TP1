@@ -1,0 +1,16 @@
+====== 23157 - DC - Carta ======
+
+**Parent**:: 21040
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-05-25
+**UnitDateFinal**:: 1918-05-25
+**ScopeContent**:: Alberto Pinheiro Torres envia a letra para ser enviada para seu irmão em Braga. Carta manuscrita assinada, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23157
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 46 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23157

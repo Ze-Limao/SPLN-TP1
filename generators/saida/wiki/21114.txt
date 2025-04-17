@@ -1,0 +1,15 @@
+====== 21114 - DC - Termo de José da Costa Pereira e Alexandrina Gomes da Costa ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José da Costa Pereira e Alexandrina Gomes da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-10-22
+**UnitDateFinal**:: 1879-10-22
+**ScopeContent**:: Vedação de terreno e construção de habitação
+Local - Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21114
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 44
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21114

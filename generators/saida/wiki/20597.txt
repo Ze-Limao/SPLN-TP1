@@ -1,0 +1,20 @@
+====== 20597 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Jesufrei
+Filiação - António de Araújo Fernanndes e Ana Gomes de Castro
+Naturalidade - Jesufrei
+Data de nascimento - 1870-10-31
+Emprego - Sapateiro
+Estado - Solteiro
+Residência - Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20597
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 41v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20597

@@ -1,0 +1,17 @@
+====== 100609 - UI - Negativos em vidro ======
+
+**Parent**:: 100543
+**RootParent**:: 60696
+**UnitTitle**:: Negativos em vidro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1940
+**ScopeContent**:: Os negativos em vidro têm a mesma numeração das fotografias positivas em papel da CHF 705 a 749 - cx. 4.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99378
+**LangMaterial**:: Português
+**PhysLoc**:: CHF N705 a N749 - cx. 51
+depósito 3, estante 1, gaveta 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100609

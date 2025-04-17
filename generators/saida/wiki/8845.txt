@@ -1,0 +1,18 @@
+====== 8845 - DC - Termo do exame de José Maria da Cruz Guedes ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José Maria da Cruz Guedes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-02
+**UnitDateFinal**:: 1893-08-02
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - José da Silva Abreu Guedes
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8845
+**LangMaterial**:: Português
+**PhysLoc**:: f. 46
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8845

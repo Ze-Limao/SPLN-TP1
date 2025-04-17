@@ -1,0 +1,16 @@
+====== 25486 - DC - Carta ======
+
+**Parent**:: 21122
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-07-08
+**UnitDateFinal**:: 1918-07-08
+**ScopeContent**:: Carta manuscrita assinada, da Rua da Ilha Terceira, nº1, 1, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25486
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 443 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25486

@@ -1,0 +1,15 @@
+====== 24970 - UI - Receita e Despesa da Assistência aos tuberculosos pobres deste concelho ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Receita e Despesa da Assistência aos tuberculosos pobres deste concelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-01-01
+**UnitDateFinal**:: 1932-06-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24970
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 74
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24970

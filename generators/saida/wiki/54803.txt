@@ -1,0 +1,17 @@
+====== 54803 - DC - Calendrier ======
+
+**Parent**:: 54476
+**RootParent**:: 31258
+**UnitTitle**:: Calendrier
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889
+**UnitDateFinal**:: 1889
+**ScopeContent**:: Agenda calendário de bolso. Anotada por Amália(?). Capa com imagem em relevo de duas andorinhas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54803
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12525 - cx. 72
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54803

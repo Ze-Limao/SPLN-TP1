@@ -1,0 +1,16 @@
+====== 29526 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885
+**UnitDateFinal**:: 1885
+**ScopeContent**:: Carta expedida de Vila do Conde no Verão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29526
+**LangMaterial**:: Português
+**PhysLoc**:: AS 767 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29526

@@ -1,0 +1,16 @@
+====== 29332 - DC - Pomada d´extracto de belladona ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: Pomada d´extracto de belladona
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-10-28
+**UnitDateFinal**:: 1878-10-28
+**ScopeContent**:: Composição da receita: pomada de extracto de beladona, pomada mercurial, água rosada, açúcar de saturno, álcool. Carimbo do farmacêutico António José Machado do Valle, com farmácia na Rua de Cirilo Machado, 18 na Vila de Santo Tirso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29332
+**LangMaterial**:: Português
+**PhysLoc**:: AS 227 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29332

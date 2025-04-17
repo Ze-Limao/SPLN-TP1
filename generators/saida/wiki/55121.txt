@@ -1,0 +1,15 @@
+====== 55121 - UI - João Pedro Lima Calheiros ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: João Pedro Lima Calheiros
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903
+**UnitDateFinal**:: 1903
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55121
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55121
+
+===== Filhos =====
+  * [[55122.txt|55122 - DC - Carta]]
+  * [[56099.txt|56099 - DC - Carta]]

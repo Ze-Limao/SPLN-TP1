@@ -1,0 +1,16 @@
+====== 23140 - DC - Carta ======
+
+**Parent**:: 21039
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-11-22
+**UnitDateFinal**:: 1898-11-22
+**ScopeContent**:: Alberto Pimentel pede esclarecimentos sobre a "lenda de Camillo em Seide" e o que JAM pretende dizer na carta com a frase "… mas ninguém o teme (ao diabo) antes os homens o procuram por elle andar de saias." e sobre o nome da casa a que pertence Ana Rosa Correia. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23140
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 29 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23140

@@ -1,0 +1,13 @@
+====== 7700 - UI - Livro de Notas Nº 11 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 11
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1931-02-16
+**UnitDateFinal**:: 1931-07-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7700
+**LangMaterial**:: Português
+**PhysLoc**:: 1.48
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7700

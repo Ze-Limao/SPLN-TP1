@@ -1,0 +1,19 @@
+====== 62198 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Luís Gonçalves e Carolina de Albuquerque, na freguesia
+Naturalidade - Antas
+Morada - Calendário
+Data de nascimento - 1861-04-06
+Emprego - Criado de servir
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62198

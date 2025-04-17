@@ -1,0 +1,15 @@
+====== 54645 - UI - Caetano Segismundo de Bragança ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Caetano Segismundo de Bragança
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-08-14
+**UnitDateFinal**:: 1891-05-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54645
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54645
+
+===== Filhos =====
+  * [[32977.txt|32977 - DC - Carta]]
+  * [[32978.txt|32978 - DC - Carta]]

@@ -1,0 +1,17 @@
+====== 60606 - DC - Carta e faturas e recibos ======
+
+**Parent**:: 60604
+**RootParent**:: 31258
+**UnitTitle**:: Carta e faturas e recibos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872-05-29
+**UnitDateFinal**:: 1872-06-07
+**ScopeContent**:: Carta manuscrita assinada, de Coimbra. Junto com 5 recibos e faturas, CP 4235(2) a CP 4235(6). CP 4235(2) Fatura impressa e manuscrita de Isaac Torres Veiga, de Coimbra, 1872-05-25, com despesas de Alexandre Sousa Botelho. CP 4235(3) Recibo manuscrito de António Maria, 1872-06-07. CP 4235(4) Recibo manuscrito de Anselmo Sousa Botelho. CP 4235(5) Folha manuscrita com despesas. CP 4235(6) Fatura e pagamentos assinada por José de Morais.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32465
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4235 (1) a (6) - cx. 31
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60606

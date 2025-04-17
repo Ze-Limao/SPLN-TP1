@@ -1,0 +1,16 @@
+====== 28136 - DC - Clarificação do vinho com gelatina ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Clarificação do vinho com gelatina
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1894
+**ScopeContent**:: Quantidades de gelatina adicionadas ao vinho da colheita de 1892, 1893 e 1894.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28136
+**LangMaterial**:: Português
+**PhysLoc**:: AS 409 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28136

@@ -1,0 +1,19 @@
+====== 34317 - DC - Registo do recenseamento militar de Pedro da Costa Pinto ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Pedro da Costa Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Cabeçudos
+Data de nascimento - 1852-04-26
+Filiação - António da Costa Pinto e Ana Maria
+Profissão - Criado de servir
+Estado - Solteiro
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34317
+**LangMaterial**:: Português
+**PhysLoc**:: 96v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34317

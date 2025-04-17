@@ -1,0 +1,14 @@
+====== 98903 - UI - João Pereira de Sousa ======
+
+**Parent**:: 98419
+**RootParent**:: 31258
+**UnitTitle**:: João Pereira de Sousa
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98896
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98903
+
+===== Filhos =====
+  * [[98901.txt|98901 - DC - Carta]]
+  * [[98911.txt|98911 - DC - Carta]]
+  * [[99037.txt|99037 - DC - Carta]]

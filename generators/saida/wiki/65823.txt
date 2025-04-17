@@ -1,0 +1,15 @@
+====== 65823 - DC - Apegação, medição e confrontação do meio casal Quinta de Freitas, situado na freguesia de S. Tiago de Rebordões, concelho de S. Tirso, por Rodrigo Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, que empraza a Custódio de Sousa Santos e a sua mulher Ana Maria Brandão ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do meio casal Quinta de Freitas, situado na freguesia de S. Tiago de Rebordões, concelho de S. Tirso, por Rodrigo Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, que empraza a Custódio de Sousa Santos e a sua mulher Ana Maria Brandão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1781-01-02
+**UnitDateFinal**:: 1781-01-08
+**ScopeContent**:: Manuscrito, impresso. original. Folhas cosidas. Carta de Vedoria impressa de 1781-01-02.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 191 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65823

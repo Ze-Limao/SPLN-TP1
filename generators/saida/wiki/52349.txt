@@ -1,0 +1,16 @@
+====== 52349 - DC - Registo do recenseamento militar de José Francisco ======
+
+**Parent**:: 9168
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-02-01
+**UnitDateFinal**:: 1868-04-04
+**ScopeContent**:: Data de nascimento - 1848-01-10
+Filiação - João Valinhas e Josefa da Costa
+Naturalidade - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52349
+**LangMaterial**:: Português
+**PhysLoc**:: 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52349

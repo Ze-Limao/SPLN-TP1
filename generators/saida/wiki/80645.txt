@@ -1,0 +1,14 @@
+====== 80645 - UI - Processo nº 198 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 198
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-04-07
+**UnitDateFinal**:: 1979-01-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 273 - cx. 15
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80645

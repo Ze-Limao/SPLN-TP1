@@ -1,0 +1,16 @@
+====== 61223 - DC - Cartão ======
+
+**Parent**:: 61222
+**RootParent**:: 60550
+**UnitTitle**:: Cartão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-07-18
+**UnitDateFinal**:: 1910-07-18
+**ScopeContent**:: Cartão impresso e manuscrito. O remetente Souza Gonçalves agradece a oferta que o destinatário lhe enviou, do seu trabalho "Confraternidade"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 114 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61223

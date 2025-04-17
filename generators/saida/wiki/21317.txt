@@ -1,0 +1,16 @@
+====== 21317 - UI - António L. P. Gomes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António L. P. Gomes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1923-07-01
+**UnitDateFinal**:: 1923-07-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21317
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1202
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21317
+
+===== Filhos =====
+  * [[29793.txt|29793 - DC - Carta]]

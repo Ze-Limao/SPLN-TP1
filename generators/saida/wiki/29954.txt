@@ -1,0 +1,16 @@
+====== 29954 - DC - Carta ======
+
+**Parent**:: 21347
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-01-23
+**UnitDateFinal**:: 1910-01-23
+**ScopeContent**:: Carta manuscrita assinada, de 2 S. Domingos à Lapa, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29954
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1252 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29954

@@ -1,0 +1,16 @@
+====== 52550 - DC - Registo do recenseamento militar de Joaquim António de Araújo ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim António de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-04-06
+Filiação - Sebastião António de Araújo e Rosa de Araújo
+Naturalidade - Nine
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52550
+**LangMaterial**:: Português
+**PhysLoc**:: 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52550

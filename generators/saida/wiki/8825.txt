@@ -1,0 +1,18 @@
+====== 8825 - DC - Termo do exame de António de Araújo Campos Pinto ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António de Araújo Campos Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-28
+**UnitDateFinal**:: 1893-07-28
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - João José Pinto da Cruz
+Naturalidade - Gavião
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8825
+**LangMaterial**:: Português
+**PhysLoc**:: f. 41
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8825

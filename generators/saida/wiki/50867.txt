@@ -1,0 +1,18 @@
+====== 50867 - DC - Registo do recenseamento militar de Francisco das Chagas ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco das Chagas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-09-17
+Filiação - José Félix do Sacramento e Maria Josefa
+Naturalidade - Landim
+Profissão - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50867
+**LangMaterial**:: Português
+**PhysLoc**:: 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50867

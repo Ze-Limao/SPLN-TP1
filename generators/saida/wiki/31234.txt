@@ -1,0 +1,16 @@
+====== 31234 - DC - Registo do recenseamento eleitoral de António da Costa ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Mouquim
+Profissão - Lavrador
+Morada - Igreja
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31234
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31234

@@ -1,0 +1,14 @@
+====== 30109 - DC - Carlos Moreira da Silva ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Carlos Moreira da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-15
+**UnitDateFinal**:: 1974-10-15
+**ScopeContent**:: Regedor efetivo da freguesia de Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30109
+**LangMaterial**:: Português
+**PhysLoc**:: f. 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30109

@@ -1,0 +1,17 @@
+====== 61530 - DC - Ata de Assembleia do Clube ======
+
+**Parent**:: 61440
+**RootParent**:: 60551
+**UnitTitle**:: Ata de Assembleia do Clube
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1999-12-16
+**UnitDateFinal**:: 1999-12-16
+**ScopeContent**:: Documento datilografado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 242 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61530

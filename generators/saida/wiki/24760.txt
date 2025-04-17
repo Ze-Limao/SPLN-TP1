@@ -1,0 +1,15 @@
+====== 24760 - UI - Correspondência recebida (circulares) do Serviço Nacional de Bombeiros ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida (circulares) do Serviço Nacional de Bombeiros
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-12-30
+**UnitDateFinal**:: 1990-06-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24760
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 19 - cx. 4
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24760

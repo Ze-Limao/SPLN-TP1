@@ -1,0 +1,20 @@
+====== 61672 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - João Francisco de Carvalho e Maria Joana Cardoso, na freguesia
+Naturalidade - Pousada de Saramagos
+Morada - 
+Data de nascimento - 1861-12-16
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61672

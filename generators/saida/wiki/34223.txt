@@ -1,0 +1,19 @@
+====== 34223 - DC - Registo do recenseamento militar de Manuel Correia ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Landim
+Data de nascimento - 1852-10-13
+Filiação - Bernardo José Correia e Ana Maria
+Profissão - Criado de servir
+Estado - Solteiro
+Morada - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34223
+**LangMaterial**:: Português
+**PhysLoc**:: 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34223

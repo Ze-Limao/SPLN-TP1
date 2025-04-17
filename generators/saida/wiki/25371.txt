@@ -1,0 +1,16 @@
+====== 25371 - DC - Carta ======
+
+**Parent**:: 21104
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-01-05
+**UnitDateFinal**:: 1925-01-05
+**ScopeContent**:: Custódio José Vieira convida JAM a colaborar no número único de homenagem ao escritor Camilo. Carta manuscrita assinada. Papel timbrado "Comissão Executiva do Centenário Camilo Castelo Branco". Manuscrito "Sede Museu Arqueologico de Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25371
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 351 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25371

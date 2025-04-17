@@ -1,0 +1,19 @@
+====== 63463 - DC - Registo do recenseamento militar de Nuno ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Nuno
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Camilo Castelo Branco e Ana Augusta Plácido
+Naturalidade - Vitória, Porto
+Morada - Seide S. Miguel
+Data de nascimento - 1864-09-15
+Emprego - Proprietário
+Estado - Viúvo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63463

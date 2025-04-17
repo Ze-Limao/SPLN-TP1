@@ -1,0 +1,17 @@
+====== 57841 - DC - Informação de Tude de Sousa ======
+
+**Parent**:: 57840
+**RootParent**:: 31258
+**UnitTitle**:: Informação de Tude de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-12-13
+**UnitDateFinal**:: 1913-12-13
+**ScopeContent**:: Informação manuscrita dirigida ao mestre Serafim dos Anjos e Silva do regente florestal Tude de Martins de Sousa, do Gerês, sobre o pagamento dos salários aos trabalhadores.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57841
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2378 - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57841

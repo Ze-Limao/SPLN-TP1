@@ -1,0 +1,15 @@
+====== 97747 - UI - Processo nº 771 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 771
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-08-19
+**UnitDateFinal**:: 1984-06-05
+**ScopeContent**:: Junto com Autos de Transgressão nº 772 e Autos de Execução Sumária nº 205.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 486 - cx. 29
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97747

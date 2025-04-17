@@ -1,0 +1,23 @@
+====== 60841 - SR - Rodrigo F. da Silva. LIFER ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Rodrigo F. da Silva. LIFER
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1970
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60841
+
+===== Filhos =====
+  * [[60842.txt|60842 - DC - Igreja de São Tiago de Antas]]
+  * [[60843.txt|60843 - DC - Paços do Concelho e Palácio da Justiça (vista nocturna)]]
+  * [[60844.txt|60844 - DC - Panorâmica da vila]]
+  * [[60845.txt|60845 - DC - Rua do General Humberto Delgado]]
+  * [[60846.txt|60846 - DC - Santuário de N.ª S.ª do Carmo (1660) - Lemenhe]]
+  * [[60848.txt|60848 - DC - Trajes Rústicos Regionais]]
+  * [[60889.txt|60889 - DC - Um trecho da vila]]
+  * [[61196.txt|61196 - DC - Igreja de São Tiago de Antas]]
+  * [[61197.txt|61197 - DC - Rua do General Humberto Delgado]]

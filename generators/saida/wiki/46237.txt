@@ -1,0 +1,18 @@
+====== 46237 - DC - Registo do recenseamento eleitoral de João Ferreira ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Joane
+Profissão - Lavrador
+Estado - Casado
+Morada - Ruivos
+Idade - 56
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46237
+**LangMaterial**:: Português
+**PhysLoc**:: 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46237

@@ -1,0 +1,16 @@
+====== 24164 - DC - Registo do recenseamento eleitoral de António de Araújo ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Cavalões
+Profissão - Lavrador
+Morada - Bouça
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24164
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24164

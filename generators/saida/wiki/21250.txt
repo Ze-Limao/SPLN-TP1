@@ -1,0 +1,16 @@
+====== 21250 - UI - António Augusto Nogueira Souto ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Augusto Nogueira Souto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21250
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 990
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21250
+
+===== Filhos =====
+  * [[26194.txt|26194 - DC - Carta]]

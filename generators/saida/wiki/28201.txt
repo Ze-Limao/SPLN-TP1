@@ -1,0 +1,16 @@
+====== 28201 - DC - Despezas com vinha e obra e plantações ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Despezas com vinha e obra e plantações
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-11
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Contém AS 474 a AS 480. Despesas com várias obras e plantações” realizadas na Quinta de Boamense nas décadas de 60 e 70 do século XIX.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28201
+**LangMaterial**:: Português
+**PhysLoc**:: AS 473 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28201

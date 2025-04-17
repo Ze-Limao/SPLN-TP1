@@ -1,0 +1,18 @@
+====== 50723 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-03-06
+Filiação - José da Silva Leite e Ana Correia
+Naturalidade - Oliveira S. Mateus
+Profissão - Lavrador
+Residência - Oliveira S. Mateus
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50723
+**LangMaterial**:: Português
+**PhysLoc**:: 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50723

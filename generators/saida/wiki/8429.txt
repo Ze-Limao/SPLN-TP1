@@ -1,0 +1,18 @@
+====== 8429 - DC - Termo do exame de João de Almeida ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de João de Almeida
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-05-04
+**UnitDateFinal**:: 1885-05-04
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - Domingos de Almeida
+Naturalidade - Oliveira Santa Maria
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8429
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8429

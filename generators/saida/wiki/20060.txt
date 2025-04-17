@@ -1,0 +1,22 @@
+====== 20060 - SSC - Expediente ======
+
+**Parent**:: 20049
+**RootParent**:: 20048
+**UnitTitle**:: Expediente
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1884-07-01
+**UnitDateFinal**:: 1930-11-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20060
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20060
+
+===== Filhos =====
+  * [[20084.txt|20084 - SR - Registo de atestados]]
+  * [[20086.txt|20086 - SR - Registo de requerimentos]]
+  * [[20088.txt|20088 - SR - Registo de correspondência expedida pela 1ª repartição]]
+  * [[20095.txt|20095 - SR - Registo de correspondência expedida pela 2ª repartição]]
+  * [[20108.txt|20108 - SR - Registo de correspondência expedida aos Regedores]]
+  * [[20121.txt|20121 - SR - Registo de telegramas expedidos]]
+  * [[20123.txt|20123 - SR - Copiador da correspondência expedida]]
+  * [[20133.txt|20133 - SR - Registo da correspondência recebida]]

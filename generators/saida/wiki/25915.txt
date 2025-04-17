@@ -1,0 +1,16 @@
+====== 25915 - DC - Benção do Arcebispo de Braga na festa dos 75 anos da Associação ======
+
+**Parent**:: 25318
+**RootParent**:: 20342
+**UnitTitle**:: Benção do Arcebispo de Braga na festa dos 75 anos da Associação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-10-16
+**UnitDateFinal**:: 1966-10-16
+**ScopeContent**:: Benção com a presença de Hilário Carvalho e José Casimiro Silva na assistência.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25915
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 187 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25915

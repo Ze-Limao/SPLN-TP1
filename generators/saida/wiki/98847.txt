@@ -1,0 +1,16 @@
+====== 98847 - DC - Livro de Receita e Despesa da Junta de Paróquia ======
+
+**Parent**:: 98846
+**RootParent**:: 60539
+**UnitTitle**:: Livro de Receita e Despesa da Junta de Paróquia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-12-29
+**UnitDateFinal**:: 1896-01-11
+**ScopeContent**:: Livro encadernado com pastas de cartão, manuscrito só em 27 folhas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60670
+**LangMaterial**:: Português
+**PhysLoc**:: JPL 1 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98847

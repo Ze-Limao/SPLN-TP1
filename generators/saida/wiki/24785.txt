@@ -1,0 +1,19 @@
+====== 24785 - DC - Ordem de serviço dos Bombeiros Voluntários de Villa Nova de Famalicão ======
+
+**Parent**:: 24746
+**RootParent**:: 20342
+**UnitTitle**:: Ordem de serviço dos Bombeiros Voluntários de Villa Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-11-23
+**UnitDateFinal**:: 1891-11-23
+**ScopeContent**:: «Ordem de serviço / Por ofício que hoje recebi do Ex.mo Presidente da Câmara Municipal desta Vila, participa-me que na 5.ª feira 27 do corrente pelas 11 horas da manhã passa na estação de Caminho-de-ferro um direção a Braga Suas Majestades e Alteza e que por esse motivo me convida a tomar parte na receção com o corpo ativo de meu comendo com a respetiva banda, portanto é avisado o Sr. Primeiro Diretor para avisar toda a Banda para aquele dia e comparecer no Quartel de Grande uniforme, às 11 horas da manhã.
+Estação dos Voluntários, 23 de Novembro de 1891
+ O 2.º Comandante
+Higino Veloso de Macedo»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24785
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 5 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24785

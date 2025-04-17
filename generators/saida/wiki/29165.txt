@@ -1,0 +1,14 @@
+====== 29165 - UI - Carta de Antero de Quental a Stern ======
+
+**Parent**:: 29157
+**RootParent**:: 27963
+**UnitTitle**:: Carta de Antero de Quental a Stern
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 18
+**UnitDateFinal**:: 18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29165
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29165
+
+===== Filhos =====
+  * [[29166.txt|29166 - DC - Carta]]

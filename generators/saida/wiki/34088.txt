@@ -1,0 +1,19 @@
+====== 34088 - DC - Registo do recenseamento militar de Luís Correia ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vermoim
+Data de nascimento - 1852-02-18
+Filiação - Francisco Correia e Joaquina Machado
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Vermoim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34088
+**LangMaterial**:: Português
+**PhysLoc**:: 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34088

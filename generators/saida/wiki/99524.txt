@@ -1,0 +1,14 @@
+====== 99524 - UI - M. Mesquita ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: M. Mesquita
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-09-02
+**UnitDateFinal**:: 1911-09-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99524
+
+===== Filhos =====
+  * [[99526.txt|99526 - DC - Carta]]

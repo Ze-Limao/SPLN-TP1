@@ -1,0 +1,18 @@
+====== 8921 - DC - Termo do exame de David da Costa Oliveira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de David da Costa Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-24
+**UnitDateFinal**:: 1894-07-24
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Manuel da Costa Oliveira
+Naturalidade - Santo Tirso
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8921
+**LangMaterial**:: Português
+**PhysLoc**:: f. 66
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8921

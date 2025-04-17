@@ -1,0 +1,14 @@
+====== 30077 - DC - Alberto Ferreira Marques Fonseca ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Alberto Ferreira Marques Fonseca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1970-04-15
+**UnitDateFinal**:: 1970-04-15
+**ScopeContent**:: Regedor efetivo da freguesia de Cruz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30077
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30077

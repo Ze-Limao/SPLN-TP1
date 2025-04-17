@@ -1,0 +1,11 @@
+====== 7873 - SR - Correspondência Expedida pela Comissão do Recenseamento Eleitoral ======
+
+**Parent**:: 7871
+**RootParent**:: 7651
+**UnitTitle**:: Correspondência Expedida pela Comissão do Recenseamento Eleitoral
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1904
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7873
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7873

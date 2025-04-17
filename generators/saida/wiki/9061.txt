@@ -1,0 +1,13 @@
+====== 9061 - DC - Edital ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Edital
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-12-16
+**UnitDateFinal**:: 1885-12-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9061
+**LangMaterial**:: Português
+**PhysLoc**:: f. 11
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9061

@@ -1,0 +1,16 @@
+====== 30559 - DC - Registo do recenseamento eleitoral de António Joaquim Teixeira de Melo ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Joaquim Teixeira de Melo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Bente
+Profissão - Proprietário
+Morada - Além
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30559
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30559

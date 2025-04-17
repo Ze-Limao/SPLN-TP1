@@ -1,0 +1,14 @@
+====== 28238 - SR - Estudos Históricos e Económicos ======
+
+**Parent**:: 28237
+**RootParent**:: 27963
+**UnitTitle**:: Estudos Históricos e Económicos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1923
+**UnitDateFinal**:: 1923
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28238
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28238
+
+===== Filhos =====
+  * [[28239.txt|28239 - DC - Alberto Sampaio e a sua obra (prefácio de Luís de Magalhães aos Estudos Históricos e Económicos, 1.ª edição, 1923)]]

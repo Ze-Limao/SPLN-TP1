@@ -1,0 +1,16 @@
+====== 52596 - DC - Registo do recenseamento militar de António de Sousa ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-07-18
+Filiação - José Bento de Sousa e Maria Álvares Monteiro
+Naturalidade - Lagoa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52596
+**LangMaterial**:: Português
+**PhysLoc**:: v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52596

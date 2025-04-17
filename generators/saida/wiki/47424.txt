@@ -1,0 +1,18 @@
+====== 47424 - DC - Registo do recenseamento eleitoral de João José Monteiro ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João José Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Arnoso Santa Eulália
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Além do Rio
+Idade - 28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47424
+**LangMaterial**:: Português
+**PhysLoc**:: 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47424

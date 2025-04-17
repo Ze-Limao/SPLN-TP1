@@ -1,0 +1,16 @@
+====== 25658 - DC - Carta ======
+
+**Parent**:: 21181
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-03-09
+**UnitDateFinal**:: 1910-03-09
+**ScopeContent**:: Carta manuscrita assinada João Pinto Simães, de C. de Ribeiro. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25658
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 608 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25658

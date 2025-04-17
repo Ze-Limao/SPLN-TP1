@@ -1,0 +1,18 @@
+====== 47762 - DC - Registo do recenseamento eleitoral de Domingos José de Carvalho ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos José de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Cruz
+Profissão - Lavrador
+Estado - Casado
+Morada - Ribela
+Idade - 77
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47762
+**LangMaterial**:: Português
+**PhysLoc**:: 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47762

@@ -1,0 +1,18 @@
+====== 45913 - DC - Registo do recenseamento eleitoral de José António Machado ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Castelões
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Seixal
+Idade - 51
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45913
+**LangMaterial**:: Português
+**PhysLoc**:: 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45913

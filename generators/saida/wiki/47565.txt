@@ -1,0 +1,18 @@
+====== 47565 - DC - Registo do recenseamento eleitoral de João da Costa Araújo Vale ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João da Costa Araújo Vale
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Bente
+Profissão - Pároco
+Estado - Solteiro
+Morada - Residência
+Idade - 54
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47565
+**LangMaterial**:: Português
+**PhysLoc**:: 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47565

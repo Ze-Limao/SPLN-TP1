@@ -1,0 +1,22 @@
+====== 21096 - UI - Manuel Cardoso Marta ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Manuel Cardoso Marta
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21096
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 334, 335, 336, 337, 338, 339
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21096
+
+===== Filhos =====
+  * [[24899.txt|24899 - DC - Carta]]
+  * [[24900.txt|24900 - DC - Carta]]
+  * [[24901.txt|24901 - DC - Carta]]
+  * [[24902.txt|24902 - DC - Carta]]
+  * [[24903.txt|24903 - DC - Carta]]
+  * [[24904.txt|24904 - DC - Carta]]

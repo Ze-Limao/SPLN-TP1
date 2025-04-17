@@ -1,0 +1,19 @@
+====== 34345 - DC - Registo do recenseamento militar de Manuel Ferreira Dias ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Ferreira Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Calendário
+Data de nascimento - 1853-01-16
+Filiação - Manuel Ferreira Dias e Maria Rodrigues de Miranda
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34345
+**LangMaterial**:: Português
+**PhysLoc**:: 103v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34345

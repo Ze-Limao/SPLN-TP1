@@ -1,0 +1,17 @@
+====== 100771 - DC - Sentença contra o caseiro de Airão, Guimarães, João Gonçalves e sua mulher ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Sentença contra o caseiro de Airão, Guimarães, João Gonçalves e sua mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1625-04-14
+**UnitDateFinal**:: 1625-04-14
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº 14 Cazal nº 126 A". Este documento estava na “Caixa 14”, que contém CP 13194 a CP 13210.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13196 - cx. 88
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100771

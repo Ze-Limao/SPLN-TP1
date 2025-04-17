@@ -1,0 +1,38 @@
+====== 61446 - SSR - Documentos do Interact Famalicão ======
+
+**Parent**:: 61194
+**RootParent**:: 60551
+**UnitTitle**:: Documentos do Interact Famalicão
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1980
+**UnitDateFinal**:: 1990
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61195
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61446
+
+===== Filhos =====
+  * [[61447.txt|61447 - DC - Cartões de sócio Rotoract Club e cartões Interact Club]]
+  * [[61558.txt|61558 - DC - Interact Club V.N. Famalicão]]
+  * [[61559.txt|61559 - DC - Rotação de tarefas 1989 do Interact Clube de Vila Nova de Famalicão]]
+  * [[61560.txt|61560 - DC - Divertir-se seriamente]]
+  * [[61561.txt|61561 - DC - Cópia de ofício do Rotary International para Armando Moura da Silva]]
+  * [[61562.txt|61562 - DC - Eleição 28/5/83]]
+  * [[61563.txt|61563 - DC - Estatutos prescritos para o Interact Club]]
+  * [[61564.txt|61564 - DC - Formulário de sócio]]
+  * [[61565.txt|61565 - DC - Declarações de normas referentes ao Interact estabelecidas pelo Conselho Diretor do Rotary International]]
+  * [[61566.txt|61566 - DC - Declarações de normas referentes ao Interact estabelecidas pelo Conselho Diretor do Rotary International]]
+  * [[61567.txt|61567 - DC - Estatutos prescritos para o Interact Club]]
+  * [[61568.txt|61568 - DC - Estatutos prescritos para o Interact Club]]
+  * [[61569.txt|61569 - DC - Interact o trabalho da sua comissão]]
+  * [[61570.txt|61570 - DC - Lista de organização Interact Club]]
+  * [[61571.txt|61571 - DC - Programa de Treinamento de Líderes do Rotaract]]
+  * [[61572.txt|61572 - DC - Registo das actividades do quadro social Interact Club]]
+  * [[61573.txt|61573 - DC - Registo de frequência Interact Club]]
+  * [[61574.txt|61574 - DC - Logotipos do Interact Club]]
+  * [[61575.txt|61575 - DC - Capa Interact Club]]
+  * [[61576.txt|61576 - DC - Interact Club Inaugural Ceremony]]
+  * [[61577.txt|61577 - DC - Your Club´s Letterhead]]
+  * [[61578.txt|61578 - DC - Notícias do Interact nº2]]
+  * [[61579.txt|61579 - DC - Manual dos Dirigentes do Interact Club]]
+  * [[61580.txt|61580 - DC - Interact em ação Rotary International]]
+  * [[61581.txt|61581 - DC - Patrocínio do Interact]]

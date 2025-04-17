@@ -1,0 +1,20 @@
+====== 28290 - DC - Folhetos publicitários de venda de livros ======
+
+**Parent**:: 28586
+**RootParent**:: 27963
+**UnitTitle**:: Folhetos publicitários de venda de livros
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1883-10-05
+**UnitDateFinal**:: 1895-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28290
+**LangMaterial**:: Português
+**PhysLoc**:: AS 148 (1) a (4)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28290
+
+===== Filhos =====
+  * [[29939.txt|29939 - DC - Supplément à la Revue Politique et Littéraire]]
+  * [[29940.txt|29940 - DC - Supplément à la Revue Politique et Littéraire]]
+  * [[29941.txt|29941 - DC - Supplément du numéro 6 avril de La Nature]]
+  * [[29942.txt|29942 - DC - Bullettin des Nouveautés]]

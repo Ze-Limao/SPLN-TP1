@@ -1,0 +1,16 @@
+====== 20193 - SR - Registo das licenças para uso e porte d´armas ======
+
+**Parent**:: 20055
+**RootParent**:: 20048
+**UnitTitle**:: Registo das licenças para uso e porte d´armas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1902-01-02
+**UnitDateFinal**:: 1919-10-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20193
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20193
+
+===== Filhos =====
+  * [[20194.txt|20194 - UI - Registo das licenças para uso e porte d´armas]]
+  * [[20195.txt|20195 - UI - Registo das licenças para uso e porte d´armas de caça]]

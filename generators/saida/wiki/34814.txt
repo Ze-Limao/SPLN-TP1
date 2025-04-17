@@ -1,0 +1,19 @@
+====== 34814 - DC - Registo do recenseamento militar de Bernardino ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Chavão
+Data de nascimento - 1862-07-23
+Filiação - Francisco da Silva e Rosária Maria de Brito
+Profissão - Empregado na Estação do Caminho-de-Ferro
+Estado - Casado
+Morada - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34814
+**LangMaterial**:: Português
+**PhysLoc**:: 66v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34814

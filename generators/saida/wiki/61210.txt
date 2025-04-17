@@ -1,0 +1,15 @@
+====== 61210 - UI - Ramon de La Féria ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Ramon de La Féria
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1950-07-15
+**UnitDateFinal**:: 1950-07-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61210
+
+===== Filhos =====
+  * [[61211.txt|61211 - DC - Carta]]

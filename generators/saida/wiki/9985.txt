@@ -1,0 +1,14 @@
+====== 9985 - DC - Registo do pagamento a José do Padre da Cunha ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a José do Padre da Cunha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-31
+**UnitDateFinal**:: 1882-03-31
+**ScopeContent**:: Ordenado de cantoneiro da estrada municipal de 1ª classe, nº 9 de Vila Nova de Famalicão a Ferreiró
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9985
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9985

@@ -1,0 +1,20 @@
+====== 25849 - DC - Memória descritiva e justificativa do novo quartel, assinada pelo arquitecto Alfredo Casais Rodrigues (1.º Projecto) ======
+
+**Parent**:: 25032
+**RootParent**:: 20342
+**UnitTitle**:: Memória descritiva e justificativa do novo quartel, assinada pelo arquitecto Alfredo Casais Rodrigues (1.º Projecto)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-05-11
+**UnitDateFinal**:: 1959-05-11
+**ScopeContent**:: Transcrição:
+«A Associação Humanitária dos Bombeiros de Famalicão encontrava-se instalada desde 1890 num prédio da Rua Adriano Pinto Basto que, de ano para ano, se tornava menos adequado para o efeito, quer pelas reduzidas dimensões para abrigar o seu actual material de incêndios e socorro a doentes - moderno e bem apetrechado - como pela dificuldade em faze-lo sair para serviço, dificuldade imposta pelo acanhado espaço da sua garagem, como, e ainda, pela aglomeração de trânsito ocasionado pela passagem forçada de veículos entre as cidades Porto e Braga na rua onde se encontra aquele edifício, o que algumas vezes originava atrasos e sérias preocupações. / Por outro lado, não possuía a sua sede instalações condignas com o valor dos seus serviços, dificultando a série de iniciativas culturais e beneficentes que noutras épocas levava a efeito. / Estas circunstâncias fizeram criar a urgente necessidade duma nova Sede, que aguardava uma oportunidade para ser realidade, oportunidade que surgiu em Setembro do ano findo, atendendo a Associação ao pedido da Câmara Municipal para que lhe fosse vendido o edifício dos Bombeiros para nele serem instaladas mais salas de aulas para a Escola Comercial e Industrial de Famalicão […]. / A venda do referido edifício foi autorizada por portaria publicada no Diário do Governo, 2.ª série, n.º 242, de 15/10/958. / Hoje, e desde Setembro do ano passado, os Bombeiros estão instalados numa garagem onde pagam uma renda mensal de 800$00, em situação vexatória e sem condições de espécie alguma, aguardando o início da construção do novo edifício. / […] Em face do acima exposto, foi elaborado o respectivo anteprojecto para o novo Quartel dos Bombeiros Voluntários de Famalicão, que temos a honra de submeter à aprovação superior, para efeitos de comparticipação do Estado. / O terreno já adquirido, e onde se construirá o edifício, fica perto do Posto da Polícia de Viação e Trânsito, e nas proximidades da estrada Porto-Braga, com fáceis e amplos acessos, conforme se pode ver na planta topográfica junto. […]
+O arquitecto
+Alfredo Casais Rodrigues 
+Porto, 11/Maio/1959
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25849
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 122  - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25849

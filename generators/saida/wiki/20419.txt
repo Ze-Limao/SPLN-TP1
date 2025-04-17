@@ -1,0 +1,20 @@
+====== 20419 - DC - Registo do recenseamento eleitoral de José ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Joane
+Filiação - Luís Pires de Matos e Narcisa Ferreira de Oliveira
+Naturalidade - Joane
+Data de nascimento - 1870-09-20
+Emprego - 
+Estado - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20419
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20419

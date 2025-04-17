@@ -1,0 +1,13 @@
+====== 7694 - UI - Livro de Notas Nº 1 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 1
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1881-04-30
+**UnitDateFinal**:: 1892-06-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7694
+**LangMaterial**:: Português
+**PhysLoc**:: 1.40
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7694

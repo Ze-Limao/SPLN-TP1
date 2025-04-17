@@ -1,0 +1,41 @@
+====== 21226 - UI - Luís de Magalhães ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Luís de Magalhães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-03-22
+**UnitDateFinal**:: 1925-11-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21226
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 892 a 916
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21226
+
+===== Filhos =====
+  * [[22419.txt|22419 - DC - Carta]]
+  * [[26098.txt|26098 - DC - Carta]]
+  * [[26099.txt|26099 - DC - Carta]]
+  * [[26100.txt|26100 - DC - Carta]]
+  * [[26101.txt|26101 - DC - Carta]]
+  * [[26102.txt|26102 - DC - Carta]]
+  * [[26103.txt|26103 - DC - Carta]]
+  * [[26104.txt|26104 - DC - Carta]]
+  * [[26105.txt|26105 - DC - Carta]]
+  * [[26106.txt|26106 - DC - Carta]]
+  * [[26107.txt|26107 - DC - Carta]]
+  * [[26108.txt|26108 - DC - Carta]]
+  * [[26109.txt|26109 - DC - Carta]]
+  * [[26110.txt|26110 - DC - Carta]]
+  * [[26111.txt|26111 - DC - Carta]]
+  * [[26112.txt|26112 - DC - Carta]]
+  * [[26113.txt|26113 - DC - Carta]]
+  * [[26114.txt|26114 - DC - Carta]]
+  * [[26115.txt|26115 - DC - Carta]]
+  * [[26116.txt|26116 - DC - Carta]]
+  * [[26117.txt|26117 - DC - Carta]]
+  * [[26118.txt|26118 - DC - Carta]]
+  * [[26119.txt|26119 - DC - Carta]]
+  * [[26120.txt|26120 - DC - Carta]]
+  * [[26121.txt|26121 - DC - Carta]]

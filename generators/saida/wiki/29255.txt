@@ -1,0 +1,16 @@
+====== 29255 - DC - Vides que mandei para Capela em Fevereiro 1898 ======
+
+**Parent**:: 29254
+**RootParent**:: 27963
+**UnitTitle**:: Vides que mandei para Capela em Fevereiro 1898
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1898
+**ScopeContent**:: O apontamento apresenta um risco a lápis na diagonal e a seguinte nota, também escrita a lápis: «Perderam-se quase todas».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29255
+**LangMaterial**:: Português
+**PhysLoc**:: AS 369 (2) - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29255

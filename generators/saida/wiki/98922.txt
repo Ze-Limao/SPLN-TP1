@@ -1,0 +1,21 @@
+====== 98922 - UI - António Vaz Vieira ======
+
+**Parent**:: 98419
+**RootParent**:: 31258
+**UnitTitle**:: António Vaz Vieira
+**DescriptionLevel**:: UI
+**ScopeContent**:: Irmão de Jerónimo Vaz Vieira. Colaborou na compra do prazo de Arnoso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98896
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98922
+
+===== Filhos =====
+  * [[98925.txt|98925 - DC - Carta]]
+  * [[98986.txt|98986 - DC - Carta]]
+  * [[98989.txt|98989 - DC - Carta]]
+  * [[98994.txt|98994 - DC - Carta]]
+  * [[99002.txt|99002 - DC - Carta]]
+  * [[99003.txt|99003 - DC - Carta]]
+  * [[99005.txt|99005 - DC - Carta]]
+  * [[99046.txt|99046 - DC - Carta]]
+  * [[99049.txt|99049 - DC - Carta]]

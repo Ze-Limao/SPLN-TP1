@@ -1,0 +1,15 @@
+====== 97816 - UI - Processo nº 49 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 49
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1982-10-04
+**UnitDateFinal**:: 1986-07-02
+**ScopeContent**:: 2ª Secção. Junto com Autos de Execução de Custas nº 49-A e Autos de Reclamação de Créditos nº 9.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 540 - cx. 32
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97816

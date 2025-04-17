@@ -1,0 +1,16 @@
+====== 24784 - DC - Poema "Os Bombeiros" de Álvaro Pinheiro ======
+
+**Parent**:: 24746
+**RootParent**:: 20342
+**UnitTitle**:: Poema "Os Bombeiros" de Álvaro Pinheiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-10
+**UnitDateFinal**:: 1943-10
+**ScopeContent**:: Poema escrito para as comemorações das Bodas de Ouro dos Bombeiros Voluntários de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24784
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 5 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24784

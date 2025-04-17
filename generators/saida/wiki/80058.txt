@@ -1,0 +1,15 @@
+====== 80058 - UI - Processo nº 69 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 69
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-11-29
+**UnitDateFinal**:: 1980-02-07
+**ScopeContent**:: Junto com Auto de Execução Sentenças nº 69-B, Autos de Execução por Custas nº 69-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 70 - cx. 5
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80058

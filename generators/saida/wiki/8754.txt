@@ -1,0 +1,18 @@
+====== 8754 - DC - Termo do exame de José Maria Pereira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José Maria Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-16
+**UnitDateFinal**:: 1891-07-16
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Manuel Pereira Sampaio
+Naturalidade - Lagoa
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8754
+**LangMaterial**:: Português
+**PhysLoc**:: f. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8754

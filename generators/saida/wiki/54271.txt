@@ -1,0 +1,18 @@
+====== 54271 - DC - Provisão sobre os casais de Monte Alvão, Pego e Mamoa em Mouquim e o casal de Pousada, em Jesufrei e terras em Mariz ======
+
+**Parent**:: 54471
+**RootParent**:: 31258
+**UnitTitle**:: Provisão sobre os casais de Monte Alvão, Pego e Mamoa em Mouquim e o casal de Pousada, em Jesufrei e terras em Mariz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1776-02-05
+**UnitDateFinal**:: 1776-02-05
+**ScopeContent**:: Manuscrito numa "Pasta nº1 Casal nº 10". Este documento estava na caixa “Pasta nº1 Anno 1841”, que contém CP 13170 a CP 13193.
+"D. José (...) faço saber que Dona Ana Maria Isabel de Melo Pereira de Sampaio, viúva que ficou de Vicente Pinheiro e Figueira Lobo da Guerra (...), administrando os bens tanto alodiais como de vínculo na menoridade de seu filho primogénito João Machado de Melo Pinheiro e Figueira, e porque ao vínculo da quinta de Pindela, sita no termo de Barcelos, pertenciam os casais de Monte Alvão, Pego e Mamoa, sitos na freguesia de Mouquim, e o casal de Pousada, na freguesia de Jesufrei, e as terras que lhe pertenciam na freguesia de Mariz e todas as pertenças destes casais que por andar tudo mal cultivado era de pouco rendimento no vínculo (...), grave dano que se pode evitar emprazando-se a quem melhor os cultive e como o não podia fazer sem provisão minha por ser tudo de vínculo (...)"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13180 - cx. 88
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54271

@@ -1,0 +1,55 @@
+====== 48276 - UI - Ana Maria Isabel do Carmo Pinheiro de Melo ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Ana Maria Isabel do Carmo Pinheiro de Melo
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48276
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48276
+
+===== Filhos =====
+  * [[48277.txt|48277 - DC - Carta]]
+  * [[48278.txt|48278 - DC - Carta]]
+  * [[48279.txt|48279 - DC - Carta]]
+  * [[48280.txt|48280 - DC - Carta]]
+  * [[48281.txt|48281 - DC - Carta]]
+  * [[48282.txt|48282 - DC - Carta]]
+  * [[48283.txt|48283 - DC - Carta]]
+  * [[48284.txt|48284 - DC - Carta]]
+  * [[48285.txt|48285 - DC - Carta]]
+  * [[48286.txt|48286 - DC - Carta]]
+  * [[48287.txt|48287 - DC - Carta]]
+  * [[48288.txt|48288 - DC - Carta]]
+  * [[48289.txt|48289 - DC - Carta]]
+  * [[48290.txt|48290 - DC - Carta]]
+  * [[48291.txt|48291 - DC - Carta]]
+  * [[48292.txt|48292 - DC - Carta]]
+  * [[48293.txt|48293 - DC - Carta]]
+  * [[48294.txt|48294 - DC - Carta]]
+  * [[48295.txt|48295 - DC - Carta]]
+  * [[48296.txt|48296 - DC - Carta]]
+  * [[48297.txt|48297 - DC - Carta]]
+  * [[48298.txt|48298 - DC - Carta]]
+  * [[48299.txt|48299 - DC - Carta]]
+  * [[48300.txt|48300 - DC - Carta]]
+  * [[48301.txt|48301 - DC - Carta]]
+  * [[48302.txt|48302 - DC - Carta]]
+  * [[48303.txt|48303 - DC - Carta]]
+  * [[48304.txt|48304 - DC - Carta]]
+  * [[48305.txt|48305 - DC - Carta]]
+  * [[48306.txt|48306 - DC - Carta]]
+  * [[48307.txt|48307 - DC - Carta]]
+  * [[48308.txt|48308 - DC - Carta]]
+  * [[48309.txt|48309 - DC - Carta]]
+  * [[48310.txt|48310 - DC - Carta]]
+  * [[48311.txt|48311 - DC - Carta]]
+  * [[48312.txt|48312 - DC - Carta]]
+  * [[48313.txt|48313 - DC - Carta]]
+  * [[48314.txt|48314 - DC - Carta]]
+  * [[48315.txt|48315 - DC - Carta]]
+  * [[48316.txt|48316 - DC - Carta]]

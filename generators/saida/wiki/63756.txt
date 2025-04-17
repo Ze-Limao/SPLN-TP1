@@ -1,0 +1,19 @@
+====== 63756 - DC - Registo do recenseamento militar de Julião ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Julião
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Manuel de Sousa e Josefa de Oliveira
+Naturalidade - Calendário
+Morada - Ignora-se
+Data de nascimento - 1856-02-02
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63756

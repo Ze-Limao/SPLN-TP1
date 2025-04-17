@@ -1,0 +1,16 @@
+====== 21756 - DC - Registo do recenseamento eleitoral de José Manuel Claudino Teixeira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Manuel Claudino Teixeira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Avidos
+Profissão - Pároco
+Morada - Residência
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21756
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21756

@@ -1,0 +1,14 @@
+====== 8242 - SR - Correspondência ======
+
+**Parent**:: 8241
+**RootParent**:: 8241
+**UnitTitle**:: Correspondência
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1849
+**UnitDateFinal**:: 1928
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8242
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8242
+
+===== Filhos =====
+  * [[8243.txt|8243 - SSR - Correspondência de 1895]]

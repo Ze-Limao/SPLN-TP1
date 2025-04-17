@@ -1,0 +1,16 @@
+====== 22496 - DC - Registo do recenseamento eleitoral de Manuel Luís Simões ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Luís Simões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Jesufrei
+Profissão - Lavrador
+Morada - Paço
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22496
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22496

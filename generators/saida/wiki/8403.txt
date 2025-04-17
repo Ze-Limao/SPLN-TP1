@@ -1,0 +1,16 @@
+====== 8403 - UI - Daniel Augusto dos Santos ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Daniel Augusto dos Santos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-08-08
+**UnitDateFinal**:: 1895-08-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8403
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.46
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8403
+
+===== Filhos =====
+  * [[8404.txt|8404 - DC - Carta]]

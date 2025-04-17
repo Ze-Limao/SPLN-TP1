@@ -1,0 +1,18 @@
+====== 52711 - DC - Registo do recenseamento militar de Sebastião Pereira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Sebastião Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1849-01-20
+Filiação - Joaquim Pereira e Joaquina Rosa
+Naturalidade - Antas
+Profissão - Lavrador
+Residência - Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52711
+**LangMaterial**:: Português
+**PhysLoc**:: 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52711

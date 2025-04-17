@@ -1,0 +1,16 @@
+====== 21307 - UI - António Bravo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Bravo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1926-04-06
+**UnitDateFinal**:: 1926-04-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21307
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1189
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21307
+
+===== Filhos =====
+  * [[29780.txt|29780 - DC - Carta]]

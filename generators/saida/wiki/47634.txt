@@ -1,0 +1,18 @@
+====== 47634 - DC - Registo do recenseamento eleitoral de João Tinoco de Sá ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Tinoco de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Cabeçudos
+Profissão - Lavrador
+Estado - Casado
+Morada - Palhais
+Idade - 65
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47634
+**LangMaterial**:: Português
+**PhysLoc**:: 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47634

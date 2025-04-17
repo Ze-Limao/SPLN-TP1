@@ -1,0 +1,18 @@
+====== 8912 - DC - Termo do exame de Firmino Ribeiro da Silva Coelho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Firmino Ribeiro da Silva Coelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-23
+**UnitDateFinal**:: 1894-07-23
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Aurélio Ribeiro da Silva Coelho
+Naturalidade - Vila Nova de Famalicão
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8912
+**LangMaterial**:: Português
+**PhysLoc**:: f. 63
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8912

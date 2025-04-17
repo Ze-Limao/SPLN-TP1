@@ -1,0 +1,56 @@
+====== 28065 - SR - Correspondência recebida ======
+
+**Parent**:: 28064
+**RootParent**:: 27963
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907-12-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28065
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28065
+
+===== Filhos =====
+  * [[28717.txt|28717 - UI - Guilherme de Vasconcelos Abreu]]
+  * [[28719.txt|28719 - UI - António Arroio]]
+  * [[28722.txt|28722 - UI - Caetano de Andrade Albuquerque]]
+  * [[28726.txt|28726 - UI - Gustavo António Barbosa]]
+  * [[28728.txt|28728 - UI - Henrique da Gama Barros]]
+  * [[28731.txt|28731 - UI - Sebastião de Arruda da Costa Botelho]]
+  * [[28736.txt|28736 - UI - Bento Carqueja]]
+  * [[28752.txt|28752 - UI - António de Azevedo Castelo Branco]]
+  * [[28762.txt|28762 - UI - Camilo Castelo Branco]]
+  * [[28776.txt|28776 - UI - Francisco do Amaral Cirne]]
+  * [[28778.txt|28778 - UI - Francisco Ribeiro Martins da Costa (Francisco Agra)]]
+  * [[28780.txt|28780 - UI - José Falcão]]
+  * [[28782.txt|28782 - UI - José Augusto Ferreira]]
+  * [[28784.txt|28784 - UI - José Tomás Ribeiro Fortes Júnior]]
+  * [[28787.txt|28787 - UI - João Gomes de Oliveira Guimarães]]
+  * [[28790.txt|28790 - UI - Jaime de Magalhães Lima]]
+  * [[28800.txt|28800 - UI - Agostinho Vicente Lourenço]]
+  * [[28809.txt|28809 - UI - Francisco Machado de Faria e Maia]]
+  * [[28811.txt|28811 - UI - Joaquim Pedro de Oliveira Martins]]
+  * [[28898.txt|28898 - UI - Vitória Barbosa de Oliveira Martins]]
+  * [[28900.txt|28900 - UI - Joaquim José de Meira]]
+  * [[28902.txt|28902 - UI - Joaquim de Almeida Negrão]]
+  * [[28904.txt|28904 - UI - Henrique das Neves]]
+  * [[28906.txt|28906 - UI - Emília Ermelinda Sequeira Leal Sampaio da Nóvoa]]
+  * [[28908.txt|28908 - UI - Augusto Carlos Cardoso Pinto Osório]]
+  * [[28913.txt|28913 - UI - António Augusto da Rocha Peixoto]]
+  * [[28918.txt|28918 - UI - Antero de Quental]]
+  * [[29010.txt|29010 - UI - Augusto Arruda Quental]]
+  * [[29013.txt|29013 - UI - José Malheiro Reimão]]
+  * [[29019.txt|29019 - UI - António Vicente Leal Sampaio]]
+  * [[29022.txt|29022 - UI - Francisco Martins Sarmento]]
+  * [[29025.txt|29025 - UI - Ricardo Severo]]
+  * [[29033.txt|29033 - UI - José de Macedo Souto Maior]]
+  * [[29039.txt|29039 - UI - Alberto Teles]]
+  * [[29041.txt|29041 - UI - Abílio da Costa Torres]]
+  * [[29044.txt|29044 - UI - Inácio Teixeira Brandão de Vasconcelos]]
+  * [[29047.txt|29047 - UI - José Leite de Vasconcelos]]
+  * [[29066.txt|29066 - UI - Aniceto dos Reis Gonçalves]]
+  * [[29072.txt|29072 - UI - Simon-Louis Fréres Horticulteurs]]
+  * [[29075.txt|29075 - UI - Vilmorin Andrieux Cie.]]
+  * [[60957.txt|60957 - UI - António Emílio Almeida Azevedo]]

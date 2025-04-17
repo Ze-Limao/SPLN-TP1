@@ -1,0 +1,16 @@
+====== 30890 - DC - Registo do recenseamento eleitoral de Manuel Luís de Azevedo ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Luís de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Vendeiro
+Morada - Mesa Chã
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30890
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30890

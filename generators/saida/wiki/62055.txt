@@ -1,0 +1,19 @@
+====== 62055 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Joaquim Gonçalves de Azevedo e Maria Domingues da Costa, ele em Vila do Conde e ela falecida
+Naturalidade - Fradelos
+Morada - Vila Nova de Famalicão
+Data de nascimento - 1861-06-26
+Emprego - Sapateiro
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62055

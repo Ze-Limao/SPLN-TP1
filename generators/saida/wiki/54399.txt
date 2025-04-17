@@ -1,0 +1,17 @@
+====== 54399 - UI - Francisco Costa ======
+
+**Parent**:: 46129
+**RootParent**:: 31258
+**UnitTitle**:: Francisco Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880-08-01
+**UnitDateFinal**:: 1882-12-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54399
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54399
+
+===== Filhos =====
+  * [[54401.txt|54401 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[54402.txt|54402 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[79230.txt|79230 - DC - Minuta de carta de de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[79231.txt|79231 - DC - Correspondência particulr com Francisco da Costa e Silva. Está a carta de 5 d´abril]]

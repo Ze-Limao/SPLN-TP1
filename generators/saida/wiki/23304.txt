@@ -1,0 +1,16 @@
+====== 23304 - DC - Registo do recenseamento eleitoral de José António dos Santos ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Morada - Beleco
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23304
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23304

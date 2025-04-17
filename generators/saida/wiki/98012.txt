@@ -1,0 +1,15 @@
+====== 98012 - UI - Processo nº 174/A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 174/A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-10-01
+**UnitDateFinal**:: 1980-03-17
+**ScopeContent**:: Junto com Autos de Transgressão nº 197 e 174-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 697 - cx. 38
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98012

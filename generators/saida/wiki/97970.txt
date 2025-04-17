@@ -1,0 +1,15 @@
+====== 97970 - UI - Processo nº 362 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 362
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-06-13
+**UnitDateFinal**:: 1979-12-31
+**ScopeContent**:: Junto com Autos de Transgressão nº 510, 582, 369, 465, 599 e Autos de Execução por Custas nº 362/A e 369-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 671 - cx. 37
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97970

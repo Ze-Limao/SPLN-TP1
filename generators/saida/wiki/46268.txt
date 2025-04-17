@@ -1,0 +1,20 @@
+====== 46268 - UI - João Carlos da Horta Machado da Franca ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: João Carlos da Horta Machado da Franca
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1888-12-15
+**UnitDateFinal**:: 1891-01-09
+**ScopeContent**:: Dois documentos relativos à correspondência enviada (minuta de carta) e 4 documentos de correspondência recebida.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46268
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46268
+
+===== Filhos =====
+  * [[46269.txt|46269 - DC - Carta]]
+  * [[46270.txt|46270 - DC - Carta]]
+  * [[46271.txt|46271 - DC - Carta]]
+  * [[46272.txt|46272 - DC - Carta]]
+  * [[46273.txt|46273 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[46274.txt|46274 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

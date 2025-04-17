@@ -1,0 +1,27 @@
+====== 54639 - UI - Jerónimo da Cunha Pimentel ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Jerónimo da Cunha Pimentel
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1894-07-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54639
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54639
+
+===== Filhos =====
+  * [[54640.txt|54640 - DC - Carta]]
+  * [[54687.txt|54687 - DC - Cartão]]
+  * [[54688.txt|54688 - DC - Telegrama]]
+  * [[54689.txt|54689 - DC - Carta]]
+  * [[54690.txt|54690 - DC - Carta]]
+  * [[54691.txt|54691 - DC - Carta]]
+  * [[54788.txt|54788 - DC - Envelope]]
+  * [[54789.txt|54789 - DC - Envelope]]
+  * [[54790.txt|54790 - DC - Envelope]]
+  * [[54791.txt|54791 - DC - Envelope]]
+  * [[54792.txt|54792 - DC - Envelope]]
+  * [[54793.txt|54793 - DC - Envelope]]
+  * [[54794.txt|54794 - DC - Envelope]]
+  * [[54795.txt|54795 - DC - Envelope]]

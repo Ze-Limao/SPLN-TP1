@@ -1,0 +1,16 @@
+====== 52466 - DC - Registo do recenseamento militar de José Fernandes ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Fernandes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-03-25
+Filiação - José Fernandes e Margarida da Silva Oliveira
+Naturalidade - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52466
+**LangMaterial**:: Português
+**PhysLoc**:: 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52466

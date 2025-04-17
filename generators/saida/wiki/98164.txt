@@ -1,0 +1,17 @@
+====== 98164 - DC - Declaração de João Machado de Melo que tendo um terreno no monte do Senhor dos Aflitos sem demarcação solicita a demarcação do terreno com sobreiros. Junto com Auto de Vistoria que se produziu na freguesia de S. Tiago da Cruz, do secretário da Câmara de Vila Nova de Famalicão, o fiscal e louvados, para demarcação do terreno com sobreiros ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Declaração de João Machado de Melo que tendo um terreno no monte do Senhor dos Aflitos sem demarcação solicita a demarcação do terreno com sobreiros. Junto com Auto de Vistoria que se produziu na freguesia de S. Tiago da Cruz, do secretário da Câmara de Vila Nova de Famalicão, o fiscal e louvados, para demarcação do terreno com sobreiros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1836-09-20
+**UnitDateFinal**:: 1836-09-20
+**ScopeContent**:: Manuscrito com folhas cosidas numa "Pasta nº 3 Cazal nº1 A". Este documento estava na caixa “Pasta nº3 Anno 1841”, que contém CP 12875 a CP 12958.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12875(4) - cx. 79
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98164

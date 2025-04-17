@@ -1,0 +1,16 @@
+====== 25780 - DC - Bilhete-postal ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-08-14
+**UnitDateFinal**:: 1906-08-19
+**ScopeContent**:: Bilhete-postal manuscrito assinado e carimbado, de Génova. Cartolina Postale Italiana.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25780
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 712 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25780

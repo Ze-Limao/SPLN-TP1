@@ -1,0 +1,14 @@
+====== 60280 - UI - Else Werner ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Else Werner
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60280
+
+===== Filhos =====
+  * [[60282.txt|60282 - DC - Carta]]

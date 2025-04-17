@@ -1,0 +1,17 @@
+====== 78152 - DC - Vedoria do Casal de Venda da freguesia de S. Tiago da Cruz pertença dos casais de Mouquim ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Vedoria do Casal de Venda da freguesia de S. Tiago da Cruz pertença dos casais de Mouquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1802-10-25
+**UnitDateFinal**:: 1802-10-25
+**ScopeContent**:: Manuscrito em papel azul.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4562 - cx. 33
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78152

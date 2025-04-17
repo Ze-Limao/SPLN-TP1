@@ -1,0 +1,16 @@
+====== 28126 - DC - 1890 Densidade dos mostos das uvas verdes ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1890 Densidade dos mostos das uvas verdes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-09-29
+**UnitDateFinal**:: 1890-09-29
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Indicação do dia da vindima, das castas vindimadas, temperatura do mosto, valores de densidades dos mostos registadas pelo gleucómetro (Gl. oenometro) pelo gleucómetro Dr. J. Guyot (Gleuc. J. G.) e da temperatura à sombra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28126
+**LangMaterial**:: Português
+**PhysLoc**:: AS 399 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28126

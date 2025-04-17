@@ -1,0 +1,15 @@
+====== 20086 - SR - Registo de requerimentos ======
+
+**Parent**:: 20060
+**RootParent**:: 20048
+**UnitTitle**:: Registo de requerimentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1906-06-01
+**UnitDateFinal**:: 1910-11-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20086
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20086
+
+===== Filhos =====
+  * [[20087.txt|20087 - UI - Registo de requerimentos]]

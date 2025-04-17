@@ -1,0 +1,18 @@
+====== 8150 - DC - Manuel Correia de Sá ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Correia de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-06-30
+**UnitDateFinal**:: 1891-10-07
+**ScopeContent**:: Escola - Requião
+Cargo - Professor ajudante
+Vínculo - Temporário
+Naturalidade - Abade de Vermoim
+Data de posse - 1890-06-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8150
+**LangMaterial**:: Português
+**PhysLoc**:: f. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8150

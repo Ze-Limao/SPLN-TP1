@@ -1,0 +1,17 @@
+====== 33683 - DC - Carta ======
+
+**Parent**:: 33681
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-12-30
+**UnitDateFinal**:: 1915-12-30
+**ScopeContent**:: Carta manuscrita assinada, com impressão de uma fotografia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33683
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14027 - cx.
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33683

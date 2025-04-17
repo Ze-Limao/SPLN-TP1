@@ -1,0 +1,16 @@
+====== 21310 - UI - António de Castro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António de Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-10-26
+**UnitDateFinal**:: 1901-10-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21310
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1191
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21310
+
+===== Filhos =====
+  * [[29782.txt|29782 - DC - Carta]]

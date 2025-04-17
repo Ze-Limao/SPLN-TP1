@@ -1,0 +1,20 @@
+====== 20424 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Sezures
+Filiação - Manuel Dinis da Costa e Violante Pedrosa
+Naturalidade - Sezures
+Data de nascimento - 1870-02-17
+Emprego - 
+Estado - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20424
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20424

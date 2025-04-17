@@ -1,0 +1,18 @@
+====== 50844 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-06-20
+Filiação - José Joaquim Fernandes e Joaquina Rosa
+Naturalidade - Ruivães
+Profissão - Criado de servir
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50844
+**LangMaterial**:: Português
+**PhysLoc**:: 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50844

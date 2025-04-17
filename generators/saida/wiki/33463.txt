@@ -1,0 +1,21 @@
+====== 33463 - UI - Maria Teresa de Sousa Botelho ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Maria Teresa de Sousa Botelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1888-04-23
+**UnitDateFinal**:: 1890-08-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33463
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33463
+
+===== Filhos =====
+  * [[33464.txt|33464 - DC - Carta]]
+  * [[33465.txt|33465 - DC - Carta]]
+  * [[54242.txt|54242 - DC - Cartão de visita]]
+  * [[54243.txt|54243 - DC - Cartão de visita]]

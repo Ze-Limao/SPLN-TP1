@@ -1,0 +1,16 @@
+====== 24284 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-05-27
+**UnitDateFinal**:: 1916-05-27
+**ScopeContent**:: António Cabral comunica o envio da obra “Eça e Queirós” e pede desculpa pelas falhas. Refere que ainda não escreveu ao Henrique Ferreira Machado. Carta manuscrita assinada, Lisboa, r. de S. Vicente à Guia - 45.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24284
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 120 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24284

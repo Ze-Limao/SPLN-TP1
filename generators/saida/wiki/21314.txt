@@ -1,0 +1,19 @@
+====== 21314 - UI - António Ferreira de Serpa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Ferreira de Serpa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-03-02
+**UnitDateFinal**:: 1923-01-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21314
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1196, 1197, 1198, 1199
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21314
+
+===== Filhos =====
+  * [[29787.txt|29787 - DC - Carta]]
+  * [[29788.txt|29788 - DC - Carta]]
+  * [[29789.txt|29789 - DC - Carta]]
+  * [[29790.txt|29790 - DC - Carta]]

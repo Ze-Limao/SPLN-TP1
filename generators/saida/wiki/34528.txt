@@ -1,0 +1,19 @@
+====== 34528 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Arnoso Santa Eulália
+Data de nascimento - 1862-02-22
+Filiação - Manuel Simões e Maria Ferreira
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34528
+**LangMaterial**:: Português
+**PhysLoc**:: 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34528

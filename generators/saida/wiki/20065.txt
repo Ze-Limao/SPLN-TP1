@@ -1,0 +1,21 @@
+====== 20065 - SR - Termos de abonação e reconhecimento de identidade para requisição de passaportes ======
+
+**Parent**:: 20057
+**RootParent**:: 20048
+**UnitTitle**:: Termos de abonação e reconhecimento de identidade para requisição de passaportes
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1882-01-27
+**UnitDateFinal**:: 1900-08-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20065
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20065
+
+===== Filhos =====
+  * [[20066.txt|20066 - UI - Termos de abonação e reconhecimento de identidade para requisição de passaportes]]
+  * [[20067.txt|20067 - UI - Termos de abonação e reconhecimento de identidade para requisição de passaportes]]
+  * [[20068.txt|20068 - UI - Termos de abonação e reconhecimento de identidade para requisição de passaportes]]
+  * [[20069.txt|20069 - UI - Termos de abonação e reconhecimento de identidade para requisição de passaportes]]
+  * [[20070.txt|20070 - UI - Termos de abonação e reconhecimento de identidade para requisição de passaportes]]
+  * [[20071.txt|20071 - UI - Termos de abonação e reconhecimento de identidade para requisição de passaportes]]
+  * [[20072.txt|20072 - UI - Termos de abonação e reconhecimento de identidade para requisição de passaportes]]

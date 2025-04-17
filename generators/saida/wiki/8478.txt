@@ -1,0 +1,18 @@
+====== 8478 - DC - Termo do exame de António José Pacheco ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António José Pacheco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-05-05
+**UnitDateFinal**:: 1886-05-05
+**ScopeContent**:: Grau - Elementar
+Idade - 25
+Filiação - José António Pacheco
+Naturalidade - Sé, Braga
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8478
+**LangMaterial**:: Português
+**PhysLoc**:: f. 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8478

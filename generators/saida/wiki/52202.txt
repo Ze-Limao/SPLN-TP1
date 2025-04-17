@@ -1,0 +1,16 @@
+====== 52202 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9168
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-02-01
+**UnitDateFinal**:: 1868-04-04
+**ScopeContent**:: Data de nascimento - 1847-03-28
+Filiação - António Ferreira e Rosa Maria
+Naturalidade - Requião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52202
+**LangMaterial**:: Português
+**PhysLoc**:: 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52202

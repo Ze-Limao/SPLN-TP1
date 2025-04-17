@@ -1,0 +1,19 @@
+====== 62514 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - José Gomes da Silva Anta e Maria Rosa da Cruz
+Naturalidade - Cavalões
+Morada - Cavalões
+Data de nascimento - 1856.12-05
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62514

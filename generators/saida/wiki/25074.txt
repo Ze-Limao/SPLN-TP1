@@ -1,0 +1,16 @@
+====== 25074 - DC - Exercício de Barcelos ======
+
+**Parent**:: 25073
+**RootParent**:: 20342
+**UnitTitle**:: Exercício de Barcelos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1940-04-21
+**UnitDateFinal**:: 1940-04-21
+**ScopeContent**:: Contém: Ordem de serviço, o tema e resolução. Duas folhas com desenhos explicativos. O esboço do exercício efetuado em Barcelos no dia 21 de abril de 1940 acompanha o processo da qual faz parte uma ordem de serviço com a equipe de Bombeiros que tomou parte do simulacro de ataque aéreo à cidade de Barcelos e o relatório do exercício onde se explica o tema do simulacro e a sua resolução (colocação  das viaturas, do corpo efetivo, a formatura, as guarnições); desmontagem, ataque e salvados, localização e extinção e a retirada).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25074
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 172 - cx. 41
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25074

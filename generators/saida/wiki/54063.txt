@@ -1,0 +1,17 @@
+====== 54063 - DC - Catálogos de materiais da empresa Metalúrgica da Longra Limitada ======
+
+**Parent**:: 53751
+**RootParent**:: 25851
+**UnitTitle**:: Catálogos de materiais da empresa Metalúrgica da Longra Limitada
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1958
+**UnitDateFinal**:: 1960
+**ScopeContent**:: 4 Panfletos, 4 catálogos publicitários de mobiliário de escritório, arquivos, equipamentos, catálogo de cores.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54063
+**LangMaterial**:: Português
+**PhysLoc**:: JG 186 - cx. 14
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54063

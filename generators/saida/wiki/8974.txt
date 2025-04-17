@@ -1,0 +1,14 @@
+====== 8974 - SR - Correspondência Expedida ======
+
+**Parent**:: 8106
+**RootParent**:: 7651
+**UnitTitle**:: Correspondência Expedida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1885-01-08
+**UnitDateFinal**:: 1888-12-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8974
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8974
+
+===== Filhos =====
+  * [[8975.txt|8975 - UI - Copiador da Instrução Primária]]

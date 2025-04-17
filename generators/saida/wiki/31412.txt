@@ -1,0 +1,18 @@
+====== 31412 - UI - Academia das Ciências de Lisboa ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Academia das Ciências de Lisboa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-05-29
+**UnitDateFinal**:: 1918-05-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31412
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1972
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31412
+
+===== Filhos =====
+  * [[31492.txt|31492 - DC - Ofício e Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

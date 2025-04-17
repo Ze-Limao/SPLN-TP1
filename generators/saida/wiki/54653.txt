@@ -1,0 +1,14 @@
+====== 54653 - UI - Jacinto da Costa Coutinho de Vasconcelos ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Jacinto da Costa Coutinho de Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-05-10
+**UnitDateFinal**:: 1891-05-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54653
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54653
+
+===== Filhos =====
+  * [[54654.txt|54654 - DC - Carta]]

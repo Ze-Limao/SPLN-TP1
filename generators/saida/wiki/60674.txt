@@ -1,0 +1,16 @@
+====== 60674 - DC - Livro de Recibos da Junta de Paróquia ======
+
+**Parent**:: 60673
+**RootParent**:: 60671
+**UnitTitle**:: Livro de Recibos da Junta de Paróquia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-01
+**UnitDateFinal**:: 1863-06-13
+**ScopeContent**:: Manuscrito com folhas cosidas e sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60670
+**LangMaterial**:: Português
+**PhysLoc**:: JPA 1 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60674

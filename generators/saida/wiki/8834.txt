@@ -1,0 +1,18 @@
+====== 8834 - DC - Termo do exame de Camilo Pereira da Silva ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Camilo Pereira da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-31
+**UnitDateFinal**:: 1893-07-31
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - José Pereira da Silva
+Naturalidade - Vila Nova de Famalicão
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8834
+**LangMaterial**:: Português
+**PhysLoc**:: f. 43
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8834

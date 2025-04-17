@@ -1,0 +1,19 @@
+====== 33984 - DC - Registo do recenseamento militar de Joaquim Pereira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Pedome
+Data de nascimento - 1852-06-07
+Filiação - Manuel Luís Pereira e Clara de Oliveira
+Profissão - Lavrador caseiro
+Estado - Solteiro
+Morada - Pedome
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33984
+**LangMaterial**:: Português
+**PhysLoc**:: 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33984

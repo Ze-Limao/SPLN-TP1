@@ -1,0 +1,17 @@
+====== 56313 - DC - Administração da Casa de Pindela S. Miguel de 1909. Recibos e apontamentos do ano corrente até 29 Setembro de 1910 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Administração da Casa de Pindela S. Miguel de 1909. Recibos e apontamentos do ano corrente até 29 Setembro de 1910
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1910-09-29
+**ScopeContent**:: Maço com 53 documentos manuscritos e impressos, contém 11699 (1) a 11699 (53).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56313
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11699 (1) a 11699 (53) - cx. 65
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56313

@@ -1,0 +1,18 @@
+====== 28532 - DC - Carta de Luís de Figueiredo da Guerra a Alberto Sampaio ======
+
+**Parent**:: 28524
+**RootParent**:: 27963
+**UnitTitle**:: Carta de Luís de Figueiredo da Guerra a Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-12-23
+**UnitDateFinal**:: 1889-12-23
+**ScopeContent**:: Envia a carta de Viana com a informação contida na lápide dos mareantes. Enuncia as causas que, em seu entender, determinaram a cessação da pesca do bacalhau pelos armadores de Viana do Castelo.
+Anexa à carta uma gravura da Lápide dos Mareantes.
+Com base nas informações obtidas na carta, Alberto Sampaio escreveu: «Efectuado o descobrimento, quem quer que fosse o seu autor, começou logo a ser exercida a pescaria do bacalhau por armadores de todos os portos do norte e destes somente, segundo parece, entre os quais se distinguiam os de Aveiro e Viana. Os vexames fiscais foram-na minando e por fim ocasionaram a sua ruína, a qual se não pode atribuir unicamente ao assoreamento das barras. / Não fique em silêncio que certos armadores de Viana, haverá quatro ou cinco anos, tentaram restaurar esta indústria e as suas antigas navegações para aqueles mares. Infelizmente, o inimigo − o fisco de Lisboa, estava alerta. Os armadores contemporâneos sucumbiram em face das suas exigências.» . Referência bibliográfica: O Norte Marítimo (Notas para uma história) in Estudos Históricos e Económicos, vol. I, ed. 1923, p. 409.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28532
+**LangMaterial**:: Português
+**PhysLoc**:: AS 91 (8) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28532

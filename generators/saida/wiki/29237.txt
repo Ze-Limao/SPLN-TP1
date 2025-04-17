@@ -1,0 +1,16 @@
+====== 29237 - DC - Plantações ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Plantações
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-06-28
+**UnitDateFinal**:: 1898-06-28
+**ScopeContent**:: Identificação dos locais e variedades de plantas, plantadas no jardim da Casa de Boamense. Plantações de canas na elipse do jardim - com a indicação de algumas serem «procedentes do Jaime» (supomos tratar-se de Jaime de Magalhães Lima) e outras de José de Castro, de dálias «nos lados do caminho do portal» e ainda de uma Hoteia japónica e de um Hibiscus Cooperi no tabuleiro do rododendro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29237
+**LangMaterial**:: Português
+**PhysLoc**:: AS 354 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29237

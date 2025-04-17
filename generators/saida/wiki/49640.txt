@@ -1,0 +1,18 @@
+====== 49640 - DC - Registo do recenseamento eleitoral de Martiniano Tomás Rodrigues ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Martiniano Tomás Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Escrivão de Fazenda
+Estado - Viúvo
+Morada - Rua Direita
+Idade - 68
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49640
+**LangMaterial**:: Português
+**PhysLoc**:: 93v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49640

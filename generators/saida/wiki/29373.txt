@@ -1,0 +1,17 @@
+====== 29373 - DC - Ao Eximio Actor Simões ======
+
+**Parent**:: 27975
+**RootParent**:: 27963
+**UnitTitle**:: Ao Eximio Actor Simões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-05-10
+**UnitDateFinal**:: 1862-05-10
+**ScopeContent**:: Poema de Antero de Quental. Impresso na Imprensa Literária. 
+José Simões Nunes Borges «Nasceu na freguesia de Beijos, bispado de Viseu, em 10 de Março de 1826 […]. Estreou-se no teatro de D. Maria II, a 9 de Julho de 1850 no drama Os herdeiros do Czar. Saiu dali pouco depois para ir para o teatro D. Fernando. Voltou para D. Maria II em Outubro de 1853. A 18 de Dezembro de 1854 apareceu no teatro da Rua dos Condes, onde esteve até 1858, como actor e ensaiador, e onde adquiriu grande popularidade. A 28 de Agosto de 1858 estreou-se no Ginásio na comédia Destes há poucos. Aí agradou muito, principalmente no papel de Manuel Escota do drama Probidade. Foi ao Brasil em companhia do actor João Caetano dos Santos em 1861. Lá voltou por diversas vezes, sendo sempre recebido com agrado. Em Lisboa e Porto representou ainda nos teatros do Ginásio, Rua dos Condes, Baquet e Princípe Real. Morreu a 21 de Fevereiro de 1904.». Refreência bibliográfica: Sousa Bastos - Dicionário do Teatro Português (edição fac-similada). Minerva, 1994.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29373
+**LangMaterial**:: Português
+**PhysLoc**:: AS 280 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29373

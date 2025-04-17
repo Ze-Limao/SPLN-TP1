@@ -1,0 +1,14 @@
+====== 20315 - UI - Registo de correspondência recebida nº1 ======
+
+**Parent**:: 20220
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº1
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1952-04-05
+**UnitDateFinal**:: 1953-03-06
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir êste livro para  registar a correspondência recebida na Câmara Municipal…”. Contém dados: nº de entrada, número do ofício, data entrada do ofício, qualidade, nº da correspondência, data da correspondência, por quem expedida, assunto, destino dado à correspondência recebida, nº ofício de resposta se o tem”. Inicia com o registo nº 1 até ao registo nº 1764. O ano de 1953 tem 477 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20315
+**LangMaterial**:: Português
+**PhysLoc**:: 304
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20315

@@ -1,0 +1,24 @@
+====== 79229 - UI - Francisco Costa ======
+
+**Parent**:: 31319
+**RootParent**:: 31258
+**UnitTitle**:: Francisco Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880-05-05
+**UnitDateFinal**:: 1881-10-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54872
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79229
+
+===== Filhos =====
+  * [[54400.txt|54400 - DC - Carta]]
+  * [[79232.txt|79232 - DC - Carta]]
+  * [[79233.txt|79233 - DC - Carta]]
+  * [[79234.txt|79234 - DC - Carta]]
+  * [[79235.txt|79235 - DC - Carta]]
+  * [[79236.txt|79236 - DC - Carta]]
+  * [[79237.txt|79237 - DC - Carta]]
+  * [[79238.txt|79238 - DC - Carta]]
+  * [[79239.txt|79239 - DC - Carta]]
+  * [[79240.txt|79240 - DC - Carta]]
+  * [[79241.txt|79241 - DC - Carta]]

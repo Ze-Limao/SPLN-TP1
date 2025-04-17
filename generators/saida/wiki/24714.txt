@@ -1,0 +1,16 @@
+====== 24714 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912-06-15
+**UnitDateFinal**:: 1912-06-15
+**ScopeContent**:: António Ferraz diz que a chegada de um primo de África não lhe permitiu escrever mais cedo. Analisa o desenho de armas e agradece as palavras sobre o trabalho sobre os Machados Mayas. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24714
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 215 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24714

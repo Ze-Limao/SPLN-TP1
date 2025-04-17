@@ -1,0 +1,20 @@
+====== 54205 - DC - Concurso público para o fornecimento de mobiliário para a Secção de Finanças e balcão para a Tesouraria da Fazenda Pública de Vila Nova de Famalicão: programa de concurso e caderno de encargos ======
+
+**Parent**:: 54200
+**RootParent**:: 25851
+**UnitTitle**:: Concurso público para o fornecimento de mobiliário para a Secção de Finanças e balcão para a Tesouraria da Fazenda Pública de Vila Nova de Famalicão: programa de concurso e caderno de encargos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1958-05-07
+**UnitDateFinal**:: 1958-05-07
+**ScopeContent**:: Cópias do programa de concurso e caderno de encargos com notas manuscritas; Cópia de planta - Balcão para as matrizes e verbetes do concelho: alçado para o lado dos funcionários JG 180(10)- 5; Cópia desenho de cadeira rotativa e secretária para dactilografo JG 180(10)-6; 2 cópias de desenhos de secretária, armário e cadeira JG 180(10)-7 e 8.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54205
+**LangMaterial**:: Português
+**PhysLoc**:: JG 180(10) - cx. 13
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54205
+
+===== Filhos =====
+  * [[54237.txt|54237 - DC - Cópia desenho de cadeira rotativa e secretária para dactilografo]]

@@ -1,0 +1,15 @@
+====== 66433 - DC - Monitória ao requerimento do abade João Soares de Brito ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Monitória ao requerimento do abade João Soares de Brito
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1650-06-07
+**UnitDateFinal**:: 1650-06-07
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 484 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66433

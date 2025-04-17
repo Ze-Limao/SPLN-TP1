@@ -1,0 +1,16 @@
+====== 22749 - DC - Registo do recenseamento eleitoral de António José Dinis ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Dinis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Mogege
+Profissão - Lavrador
+Morada - Lamela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22749
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 49v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22749

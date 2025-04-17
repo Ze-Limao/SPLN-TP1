@@ -1,0 +1,16 @@
+====== 61406 - DC - Sol e dó político ======
+
+**Parent**:: 60930
+**RootParent**:: 60550
+**UnitTitle**:: Sol e dó político
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925
+**UnitDateFinal**:: 1925
+**ScopeContent**:: Caricatura.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 174 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61406

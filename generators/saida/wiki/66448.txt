@@ -1,0 +1,15 @@
+====== 66448 - DC - Certidão do Padre José Bento da Vinha, da freguesia de Gavião, de como disse treze missas pelos irmãos em 1864 e 1866 e pagas ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Certidão do Padre José Bento da Vinha, da freguesia de Gavião, de como disse treze missas pelos irmãos em 1864 e 1866 e pagas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-04-09
+**UnitDateFinal**:: 1864-04-30
+**ScopeContent**:: Manuscrito, original, em papel azul timbrado “XL, 40 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 488 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66448

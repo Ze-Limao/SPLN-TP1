@@ -1,0 +1,26 @@
+====== 31373 - SR - Correspondência ======
+
+**Parent**:: 31372
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1851-08-05
+**UnitDateFinal**:: 1888
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31373
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31373
+
+===== Filhos =====
+  * [[53090.txt|53090 - UI - Alexandre de Sousa Botelho Mourão e Vasconcelos]]
+  * [[60463.txt|60463 - UI - Fernando de Sousa Botelho Mourão e Vasconcelos]]
+  * [[60563.txt|60563 - UI - Maria Amália de Sousa Botelho Mourão e Vasconcelos]]
+  * [[60565.txt|60565 - UI - António Gonçalves Pereira]]
+  * [[60568.txt|60568 - UI - Anselmo de Sousa Botelho Mourão e Vasconcelos]]
+  * [[60570.txt|60570 - UI - José de Morais]]
+  * [[60574.txt|60574 - UI - Maria Teresa de Sousa Botelho Mourão e Vasconcelos]]
+  * [[60577.txt|60577 - UI - J.P. Pedaing d´Oguel]]
+  * [[60586.txt|60586 - UI - António José Soares]]
+  * [[60588.txt|60588 - UI - Miguel Aleixo António do Carmo de Noronha]]
+  * [[60598.txt|60598 - UI - Chardey & Cª.]]
+  * [[60600.txt|60600 - UI - James Spencer Northcote]]
+  * [[60602.txt|60602 - UI - Margarida de Castelo Branco]]

@@ -1,0 +1,18 @@
+====== 50909 - DC - Registo do recenseamento militar de Lino ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Lino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-04-27
+Filiação - Maria Joaquina
+Naturalidade - Fradelos
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50909
+**LangMaterial**:: Português
+**PhysLoc**:: 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50909

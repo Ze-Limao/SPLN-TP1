@@ -1,0 +1,14 @@
+====== 9942 - DC - Registo do pagamento a Joaquim Eduardo de Sousa Meneses ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a Joaquim Eduardo de Sousa Meneses
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-01-19
+**UnitDateFinal**:: 1882-01-19
+**ScopeContent**:: Estudos e trabalhos gráficos na estrada municipal de 1ª classe nº 9, de Vila do Conde a Cabeceiras de Basto, lanço em Gondifelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9942
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9942

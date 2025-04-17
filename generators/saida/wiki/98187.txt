@@ -1,0 +1,17 @@
+====== 98187 - DC - Carta de Sentença cível de Vicente Pinheiro Machado da Guerra contra Manuel Carvalho e mulher sobre os bens de Soutelo ======
+
+**Parent**:: 54470
+**RootParent**:: 31258
+**UnitTitle**:: Carta de Sentença cível de Vicente Pinheiro Machado da Guerra contra Manuel Carvalho e mulher sobre os bens de Soutelo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1745-06-02
+**UnitDateFinal**:: 1745-06-02
+**ScopeContent**:: Manuscrito com folhas cosidas numa "Pasta nº3 Cazal Nº 3 B". Este documento estava na caixa ““Pasta nº2 Anno 1841”, que contém CP 12875 a CP 12958. Junto com cópia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12879 (1) e (2) - cx. 79
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98187

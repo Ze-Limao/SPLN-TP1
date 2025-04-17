@@ -1,0 +1,15 @@
+====== 27980 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de António Joaquim de Matos Pinto ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Manuscrito com juramento de admissão à Sociedade do Raio de António Joaquim de Matos Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1862
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27980
+**LangMaterial**:: Português
+**PhysLoc**:: AS 247 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27980

@@ -1,0 +1,17 @@
+====== 100675 - DC - Medições do Campo da Prova pedido pelo António Jorge da Guerra ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Medições do Campo da Prova pedido pelo António Jorge da Guerra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1601
+**UnitDateFinal**:: 1610
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº 12 Cazal nº 120 E". Este documento estava na “Caixa 12”, que contém CP 13143 a CP 13169.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13151 - cx. 87
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100675

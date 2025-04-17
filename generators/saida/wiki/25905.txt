@@ -1,0 +1,15 @@
+====== 25905 - DC - Mesa do copo de água nas festas realizadas comemorativas do 44º aniversário da fundação dos BVF ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Mesa do copo de água nas festas realizadas comemorativas do 44º aniversário da fundação dos BVF
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-06-22
+**UnitDateFinal**:: 1934-06-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25905
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25905

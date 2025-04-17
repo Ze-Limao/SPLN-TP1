@@ -1,0 +1,15 @@
+====== 25966 - DC - Carta ======
+
+**Parent**:: 21196
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903
+**UnitDateFinal**:: 1932
+**ScopeContent**:: Carta manuscrita assinada, de Azurara. Carta sem menção ao ano e mês, menciona o dia 12.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25966
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 765
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25966

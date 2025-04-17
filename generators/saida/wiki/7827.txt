@@ -1,0 +1,14 @@
+====== 7827 - SSC - Contabilidade ======
+
+**Parent**:: 7826
+**RootParent**:: 7651
+**UnitTitle**:: Contabilidade
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1850-07-11
+**UnitDateFinal**:: 1909-05-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7827
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7827
+
+===== Filhos =====
+  * [[9917.txt|9917 - SR - Conta Corrente da Câmara com o Tesoureiro]]

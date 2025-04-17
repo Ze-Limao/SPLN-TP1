@@ -1,0 +1,17 @@
+====== 56343 - DC - Casa de Pindella 1918 a 1919, 1 de Outubro de 1918 a 30 de Setembro de 1919 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Pindella 1918 a 1919, 1 de Outubro de 1918 a 30 de Setembro de 1919
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1918-10-01
+**UnitDateFinal**:: 1919-09-30
+**ScopeContent**:: Este maço contém CP 11729 (1) a CP 11729 (99). Contém 99 documentos manuscritos e impressos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56343
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11729 (1) a 11729 (99) - cx. 68
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56343

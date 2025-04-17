@@ -1,0 +1,16 @@
+====== 23307 - DC - Registo do recenseamento eleitoral de José de Azevedo Pereira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José de Azevedo Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Morada - Santana
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23307
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23307

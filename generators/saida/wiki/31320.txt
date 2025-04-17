@@ -1,0 +1,15 @@
+====== 31320 - SSSC - Deputado do Partido Progressista ======
+
+**Parent**:: 31313
+**RootParent**:: 31258
+**UnitTitle**:: Deputado do Partido Progressista
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1889
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31320
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31320
+
+===== Filhos =====
+  * [[31323.txt|31323 - SR - Correspondência recebida]]
+  * [[54417.txt|54417 - SR - Documentos]]

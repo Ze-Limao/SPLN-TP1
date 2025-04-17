@@ -1,0 +1,22 @@
+====== 52599 - UI - Carlos Lobo de Ávila ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Carlos Lobo de Ávila
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-08-01
+**UnitDateFinal**:: 1892-10-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52599
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52599
+
+===== Filhos =====
+  * [[31464.txt|31464 - DC - Carta]]
+  * [[31468.txt|31468 - DC - Carta]]
+  * [[31469.txt|31469 - DC - Carta]]
+  * [[31470.txt|31470 - DC - Carta]]
+  * [[31471.txt|31471 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31475.txt|31475 - DC - Carta]]
+  * [[31479.txt|31479 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31481.txt|31481 - DC - Carta]]
+  * [[31482.txt|31482 - DC - Carta]]

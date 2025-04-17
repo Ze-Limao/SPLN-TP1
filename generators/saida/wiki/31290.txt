@@ -1,0 +1,15 @@
+====== 31290 - SC - Vicente Pinheiro e Figueira Lobo da Guerra e Ana Maria Isabel de Melo Pereira de Sampaio ======
+
+**Parent**:: 31258
+**RootParent**:: 31258
+**UnitTitle**:: Vicente Pinheiro e Figueira Lobo da Guerra e Ana Maria Isabel de Melo Pereira de Sampaio
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1695-10-27
+**UnitDateFinal**:: 1786-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31290
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31290
+
+===== Filhos =====
+  * [[31291.txt|31291 - SSC - Vicente Pinheiro e Figueira Lobo da Guerra]]
+  * [[31292.txt|31292 - SSC - Ana Maria Isabel de Melo Pereira de Sampaio]]

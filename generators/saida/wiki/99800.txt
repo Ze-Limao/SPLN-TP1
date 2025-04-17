@@ -1,0 +1,14 @@
+====== 99800 - SSSC - Fotografia ======
+
+**Parent**:: 28711
+**RootParent**:: 27963
+**UnitTitle**:: Fotografia
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1908
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99800
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99800
+
+===== Filhos =====
+  * [[99801.txt|99801 - DC - Alberto Sampaio]]

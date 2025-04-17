@@ -1,0 +1,17 @@
+====== 56340 - DC - Archivo da Casa de Pindela. Arrendamento antigos caseiros ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Archivo da Casa de Pindela. Arrendamento antigos caseiros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923
+**UnitDateFinal**:: 1923
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56340
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11724 - cx. 68
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56340

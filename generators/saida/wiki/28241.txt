@@ -1,0 +1,18 @@
+====== 28241 - DC - Lavouras e Lavradores (Norte de Portugal) ======
+
+**Parent**:: 28240
+**RootParent**:: 27963
+**UnitTitle**:: Lavouras e Lavradores (Norte de Portugal)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906
+**UnitDateFinal**:: 1906
+**ScopeContent**:: Versão resumida d’ As Vilas do Norte de Portugal. 
+Informação complementar: Alberto Sampaio escreveu o que apelidou de “resumo” d’ As Vilas do Norte de Portugal a pedido de Ricardo Severo, director da «Portugália», uma das revistas literárias de maior prestígio na época. O resumo permaneceu inédito até 1991, data da sua publicação numa edição do Museu de Alberto Sampaio, comemorativa dos 150 anos do nascimento de Alberto Sampaio. Em 2008, nas Comemorações do Centenário da Morte do historiador, foi de novo dado à estampa no Boletim Cultural de Vila Nova de Famalicão.
+Referências bibliográficas: Alberto Sampaio - As vilas do Norte de Portugal: resumo inédito. Introdução de Emília Nóvoa Faria. [Guimarães]: Museu Alberto Sampaio, 1991.; Cartas de Alberto Sampaio. Organização, transcrição e notas de Emília Nóvoa Faria e António Martins. Ribeirão: Edições Húmus, 2009.; Emília Nóvoa Faria; António Martins - “Lavouras e lavradores (Norte de Portugal): As Vilas do Norte de Portugal um resumo de Alberto Sampaio”. Boletim Cultural. Vila Nova de Famalicão: Câmara Municipal, III série, n.º 3-4, 2007/8, pp. 427-439.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28241
+**LangMaterial**:: Português
+**PhysLoc**:: AS 2 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28241

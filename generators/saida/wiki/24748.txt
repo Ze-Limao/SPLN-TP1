@@ -1,0 +1,15 @@
+====== 24748 - UI - Correspondência recebida/expedida à Câmara Municipal de Vila Nova de Famalicão ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida à Câmara Municipal de Vila Nova de Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1935-12-11
+**UnitDateFinal**:: 1974-11-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24748
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 7 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24748

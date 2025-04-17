@@ -1,0 +1,15 @@
+====== 29044 - UI - Inácio Teixeira Brandão de Vasconcelos ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Inácio Teixeira Brandão de Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-04-05
+**UnitDateFinal**:: 1902-12-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29044
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29044
+
+===== Filhos =====
+  * [[29045.txt|29045 - DC - Carta]]
+  * [[29046.txt|29046 - DC - Bilhete-postal]]

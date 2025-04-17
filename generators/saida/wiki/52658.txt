@@ -1,0 +1,17 @@
+====== 52658 - DC - Registo do recenseamento militar de Domingos Manuel de Azevedo ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos Manuel de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-08-01
+Filiação - José de Azevedo e Josefa da Silva
+Naturalidade - Vale S. Martinho
+Residência - Cruz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52658
+**LangMaterial**:: Português
+**PhysLoc**:: 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52658

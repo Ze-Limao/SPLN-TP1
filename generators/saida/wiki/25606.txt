@@ -1,0 +1,16 @@
+====== 25606 - DC - Carta ======
+
+**Parent**:: 21157
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-05-20
+**UnitDateFinal**:: 1909-05-20
+**ScopeContent**:: Carta manuscrita assinada, de Tagilde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25606
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 558 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25606

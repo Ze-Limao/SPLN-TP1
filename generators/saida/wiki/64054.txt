@@ -1,0 +1,15 @@
+====== 64054 - DC - Fatura de Fernandes & Machado ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Fatura de Fernandes & Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-10-20
+**UnitDateFinal**:: 1889-10-20
+**ScopeContent**:: Manuscrito e impresso. Empresa de miudezas do Porto. Fatura de envelopes, resma de papel, caixa com envelopes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 373 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64054

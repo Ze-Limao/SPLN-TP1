@@ -1,0 +1,16 @@
+====== 23388 - DC - Registo do recenseamento eleitoral de José Fernandes ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Fernandes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Lavrador
+Morada - Rebordelo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23388
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23388

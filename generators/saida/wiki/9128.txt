@@ -1,0 +1,13 @@
+====== 9128 - DC - Ofício nº 28 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 28
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-07-05
+**UnitDateFinal**:: 1886-07-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9128
+**LangMaterial**:: Português
+**PhysLoc**:: f. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9128

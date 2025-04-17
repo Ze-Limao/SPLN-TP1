@@ -1,0 +1,15 @@
+====== 64076 - DC - Recibos de Bernardo Dias Ribeiro ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibos de Bernardo Dias Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-07-01
+**UnitDateFinal**:: 1864-07-03
+**ScopeContent**:: Manuscrito. Recibos nº5 e 6 de S. Tiago de Antas, recebido das procissões que se fizeram na freguesia em 1864
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 393 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64076

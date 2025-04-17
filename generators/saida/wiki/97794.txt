@@ -1,0 +1,15 @@
+====== 97794 - UI - Processo nº 301 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 301
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1979-11-30
+**UnitDateFinal**:: 1980-11-20
+**ScopeContent**:: Junto com Autos de Transgressão nº 138/80.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 521 - cx. 31
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97794

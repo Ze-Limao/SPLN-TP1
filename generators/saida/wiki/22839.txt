@@ -1,0 +1,16 @@
+====== 22839 - DC - Registo do recenseamento eleitoral de Manuel de Oliveira Pinheiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel de Oliveira Pinheiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Mouquim
+Profissão - Lavrador
+Morada - Pego
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22839
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22839

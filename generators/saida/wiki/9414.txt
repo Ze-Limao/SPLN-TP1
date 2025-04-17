@@ -1,0 +1,19 @@
+====== 9414 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Manuel Vieira e Ana Maria
+Naturalidade - Areias
+Data de nascimento - 1877-12-07
+Profissão - 
+Estado civil - 
+Residência - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9414
+**LangMaterial**:: Português
+**PhysLoc**:: f. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9414

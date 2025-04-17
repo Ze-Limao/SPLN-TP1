@@ -1,0 +1,17 @@
+====== 21323 - UI - António Manuel da Silva Pinto Abreu ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Manuel da Silva Pinto Abreu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-05-04
+**UnitDateFinal**:: 1908-12-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21323
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1214, 1215
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21323
+
+===== Filhos =====
+  * [[29805.txt|29805 - DC - Carta]]
+  * [[29806.txt|29806 - DC - Carta]]

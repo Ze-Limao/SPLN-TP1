@@ -1,0 +1,14 @@
+====== 30065 - DC - Carlos Alberto Trovisqueira Jácome ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Carlos Alberto Trovisqueira Jácome
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1968-01-04
+**UnitDateFinal**:: 1968-01-04
+**ScopeContent**:: Regedor efetivo da freguesia de Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30065
+**LangMaterial**:: Português
+**PhysLoc**:: f. 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30065

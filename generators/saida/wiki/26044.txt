@@ -1,0 +1,16 @@
+====== 26044 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-10-14
+**UnitDateFinal**:: 1920-10-14
+**ScopeContent**:: Júlio Brandão autoriza a publicação do soneto e aguarda a inauguração do Museu de Seide. Carta manuscrita assinada, do Porto. Carta de 14 outubro, sem menção ao ano. Papel timbrado "Museu Municipal do Porto. Gabinete do Director".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26044
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 838 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26044

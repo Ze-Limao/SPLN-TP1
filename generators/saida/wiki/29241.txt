@@ -1,0 +1,16 @@
+====== 29241 - DC - Variedades d’ Aster ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Variedades d’ Aster
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899
+**UnitDateFinal**:: 1899
+**ScopeContent**:: Identificação dos locais e variedades de Aster, plantadas no jardim da Casa de Boamense. Plantação de variedades de Aster em diversos locais junto à casa: aster grandiflorus; aster bessarabicus; aster roseus ou rosa; aster latisquamas; aster coronário; aster macrophyllus. Tal como nas listagens anteriores, também nesta, Alberto Sampaio dá indicações precisas dos sítios onde foram plantadas: «no tab.º defronte da ramada alta, perto da Cam.ª (camélia) reticulata» ou «no tab.º do fim da casa, a seguir à 1ª porta da adega».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29241
+**LangMaterial**:: Português
+**PhysLoc**:: AS 358 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29241

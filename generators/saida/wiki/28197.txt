@@ -1,0 +1,16 @@
+====== 28197 - DC - Observações sobre as vides do acrescente da vinha do alto (1901) ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Observações sobre as vides do acrescente da vinha do alto (1901)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-09-13
+**UnitDateFinal**:: 1901-09-21
+**ScopeContent**:: Notas sobre as vides plantadas na vinha do alto. Notas sobre algumas das castas estrangeiras plantadas na vinha do alto, resultado da visualização das videiras, nomeadamente: Pinot gris, Epinette blanche, Kadarkas tinto, Limberger, Enfariné, Aramon e Osella. Refere, por exemplo que vale a pena propagar a Pinot Gris, juntamente com o Boal e Verdelho da Madeira «por ser temperã e dar vinho fino», para além de não apodrecer. Já sobre a Limberger limita-se a dizer que «tem mau gosto». Quanto à Aramon considera «imprópria deste clima».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28197
+**LangMaterial**:: Português
+**PhysLoc**:: AS 469 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28197

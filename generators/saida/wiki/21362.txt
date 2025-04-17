@@ -1,0 +1,22 @@
+====== 21362 - UI - Francisco de Azeredo Teixeira de Aguilar ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco de Azeredo Teixeira de Aguilar
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878-11-23
+**UnitDateFinal**:: 1909-02-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21362
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1296, 1297, 1298, 1299, 1300, 1301, 1302
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21362
+
+===== Filhos =====
+  * [[29966.txt|29966 - DC - Carta]]
+  * [[29967.txt|29967 - DC - Carta]]
+  * [[29968.txt|29968 - DC - Carta]]
+  * [[29969.txt|29969 - DC - Carta]]
+  * [[29970.txt|29970 - DC - Carta]]
+  * [[29971.txt|29971 - DC - Carta]]
+  * [[29972.txt|29972 - DC - Bilhete-postal]]

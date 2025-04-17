@@ -1,0 +1,15 @@
+====== 63983 - DC - Escritura de fiança que faz José Carvalho da Cunha, reitor da Igreja paroquial de Nossa senhora da Conceição, como fiador António Ramos, da mesma freguesia, na compra que faz de um prazo, em S. Martinho de Brufe, a Inácio Silva Peres, foreiro da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de fiança que faz José Carvalho da Cunha, reitor da Igreja paroquial de Nossa senhora da Conceição, como fiador António Ramos, da mesma freguesia, na compra que faz de um prazo, em S. Martinho de Brufe, a Inácio Silva Peres, foreiro da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1748-08-27
+**UnitDateFinal**:: 1748-08-27
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas. No canto superior esquerdo "L. 44".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 167 - cx. 8
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63983

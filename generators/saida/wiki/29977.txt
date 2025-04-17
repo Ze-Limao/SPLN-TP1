@@ -1,0 +1,16 @@
+====== 29977 - DC - Carta ======
+
+**Parent**:: 21410
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-04-23
+**UnitDateFinal**:: 1915-04-23
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Papel timbrado "Mundo Catholico. Revista mensal literaria, biographica e illustrada. Redacção e Administração, Lisboa."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29977
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1387 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29977

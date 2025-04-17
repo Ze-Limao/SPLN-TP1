@@ -1,0 +1,16 @@
+====== 28114 - DC - Colheita 1884 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Colheita 1884
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-09-13
+**UnitDateFinal**:: 1884-10-21
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Diversas informações sobre a vindima de 1884. Indicação das castas, temperatura do ensaio de densidade, e respetivos valores de densidades dos mostos registadas pelo gleucómetro (Gl. oen.) e pelo gleucómetro Dr. J. Guyot (Gleuc. J. G.). Informação das condições climatéricas verificadas nos meses de Agosto, Setembro e Outubro. Prática a adotar de futuro em relação à desfolhagem da vinha: «A vindima da vinha foi um pouco precipitada, pois que devia ser colhida 3 dias mais tarde: todavia as uvas estavam a apodrecer, sobretudo o Souzão, devido isto principalmente à esfolha algum tanto antecipada e bastantemente mal feita: fica de aviso que se não deve esfolhar senão 8 ou dez dias antes da vindima.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28114
+**LangMaterial**:: Português
+**PhysLoc**:: AS 387 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28114

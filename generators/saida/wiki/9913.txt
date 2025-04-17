@@ -1,0 +1,13 @@
+====== 9913 - DC - Ofício nº 27 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 27
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-12-07
+**UnitDateFinal**:: 1888-12-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9913
+**LangMaterial**:: Português
+**PhysLoc**:: f. 48
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9913

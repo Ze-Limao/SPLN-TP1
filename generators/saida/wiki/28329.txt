@@ -1,0 +1,43 @@
+====== 28329 - DC - Pasta Sobre a serracenasição do Sul ======
+
+**Parent**:: 28292
+**RootParent**:: 27963
+**UnitTitle**:: Pasta Sobre a serracenasição do Sul
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28329
+**LangMaterial**:: Português
+**PhysLoc**:: AS 45 (1) a 45 (27)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28329
+
+===== Filhos =====
+  * [[28330.txt|28330 - DC - Sobre a serracenasição do Sul]]
+  * [[28331.txt|28331 - DC - Os sarracenos que na ocasião da conquista]]
+  * [[28332.txt|28332 - DC - Então o infante chamou alguns sarracenos]]
+  * [[28333.txt|28333 - DC - A percepção dos impostos]]
+  * [[28334.txt|28334 - DC - Omar Ibn Al-mundhir]]
+  * [[28335.txt|28335 - DC - Sobre muitos nomes de localidades]]
+  * [[28336.txt|28336 - DC - Em Sintra ficaram os mouros]]
+  * [[28337.txt|28337 - DC - Thomar]]
+  * [[28338.txt|28338 - DC - Dos muçulmanos na Lusitânia]]
+  * [[28339.txt|28339 - DC - No tempo d’ Afonso III]]
+  * [[28340.txt|28340 - DC - Vários nomes árabes no Algarve]]
+  * [[28341.txt|28341 - DC - A respeito d’ Évora]]
+  * [[28342.txt|28342 - DC - A respeito do elemento sarraceno]]
+  * [[28343.txt|28343 - DC - 1115 - sarracenos]]
+  * [[28344.txt|28344 - DC - Os muçulmanos ou sarracenos]]
+  * [[28345.txt|28345 - DC - Na tomada de Alvor]]
+  * [[28346.txt|28346 - DC - Sobre a origem de Faro]]
+  * [[28347.txt|28347 - DC - Os ingleses prestaram um socorro efectivo a Sancho I]]
+  * [[28348.txt|28348 - DC - Gentes semitas]]
+  * [[28349.txt|28349 - DC - Comparação entre a população do norte e a do sul]]
+  * [[28350.txt|28350 - DC - Herculano afirma]]
+  * [[28351.txt|28351 - DC - Herculano diz que muitos lugares da Estremadura]]
+  * [[28352.txt|28352 - DC - Como prova dos baldamentos]]
+  * [[28353.txt|28353 - DC - Sobre o forte]]
+  * [[28354.txt|28354 - DC - A respeito do elemento sarraceno]]
+  * [[28355.txt|28355 - DC - D. Theresa mandou avisar o prelado]]
+  * [[28356.txt|28356 - DC - Visitando (Abdu-r-rahman) a Lusitânia]]

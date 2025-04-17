@@ -1,0 +1,17 @@
+====== 53938 - DC - Projecto da Câmara Municipal de Famalicão 5A Planta do 4º Piso - Aditamento Mobiliário ======
+
+**Parent**:: 53748
+**RootParent**:: 25851
+**UnitTitle**:: Projecto da Câmara Municipal de Famalicão 5A Planta do 4º Piso - Aditamento Mobiliário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-01
+**UnitDateFinal**:: 1959-01
+**ScopeContent**:: Cópia de planta. Vazio da Sala de audiências, arquivos gerais do Tribunal, gabinetes, etc. Escalas: 1/100.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53938
+**LangMaterial**:: Português
+**PhysLoc**:: JG 145 - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53938

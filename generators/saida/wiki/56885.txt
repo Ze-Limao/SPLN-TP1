@@ -1,0 +1,17 @@
+====== 56885 - DC - Comissão de Viticultura. Serviço central. Serviço de Estatística. Correspondência ======
+
+**Parent**:: 54532
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço central. Serviço de Estatística. Correspondência
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1930-07
+**UnitDateFinal**:: 1935-03
+**ScopeContent**:: Capa manuscrita a cores. Contém 12 documentos: Nota manuscrita de 1935-03; ofícios datilografados para Grémio do Minho 1933; Cópia de respostas; ofícios manuscritos 1930 do engenheiro agrónomo Luiz Cincinnato Cabral da Costa; etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56885
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2343 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56885

@@ -1,0 +1,16 @@
+====== 29334 - DC - Agua rosada ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: Agua rosada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-12-04
+**UnitDateFinal**:: 1882-12-04
+**ScopeContent**:: Composição da receita: água rosada, sulfato de zinco, tint[ura] de ópio canforado, rosas rubras. A tintura de ópio canforado é usada no tratamento de diarreias.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29334
+**LangMaterial**:: Português
+**PhysLoc**:: AS 229 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29334

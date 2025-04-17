@@ -1,0 +1,16 @@
+====== 29285 - DC - Para tornar o couro impermeável ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Para tornar o couro impermeável
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-04-19
+**UnitDateFinal**:: 1894-04-19
+**ScopeContent**:: Transcritas a partir da Nature de 10 de Abril de 1897. Numa nota à margem Alberto Sampaio escreveu: «Extraídas ambas duma revista [?].
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29285
+**LangMaterial**:: Português
+**PhysLoc**:: AS 194 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29285

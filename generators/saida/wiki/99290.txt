@@ -1,0 +1,15 @@
+====== 99290 - UI - António Amaral? ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: António Amaral?
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-01-29
+**UnitDateFinal**:: 1917-01-29
+**ScopeContent**:: Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99290
+
+===== Filhos =====
+  * [[99291.txt|99291 - DC - Ofício]]

@@ -1,0 +1,19 @@
+====== 9381 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Dias de Sá e Engrácia Alves Carneiro
+Naturalidade - Landim
+Data de nascimento - 1876-09-07
+Profissão - Lavrador
+Estado civil - Solteiro
+Residência - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9381
+**LangMaterial**:: Português
+**PhysLoc**:: f. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9381

@@ -1,0 +1,17 @@
+====== 60052 - DC - Minuta de ofício e Grande Exposição Agrícola na Régua ======
+
+**Parent**:: 59590
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de ofício e Grande Exposição Agrícola na Régua
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1930-07-14
+**UnitDateFinal**:: 1930-07-20
+**ScopeContent**:: Minuta de ofício datilografada em papel timbrado da Federação dos Sindicatos Agrícolas do Norte de Portugal, junto com documento "Grande Exposição Agrícola na Régua".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2995 - cx. 24
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60052

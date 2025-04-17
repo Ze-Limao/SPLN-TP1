@@ -1,0 +1,16 @@
+====== 24696 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-03-22
+**UnitDateFinal**:: 1907-03-22
+**ScopeContent**:: António Ferraz lamenta o ataque de gripe e deseja as melhoras fazendo algumas recomendações clínicas. Comenta o artigo de José Machado sobre os Pinheiros e recomenda retificações. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24696
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 198 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24696

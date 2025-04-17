@@ -1,0 +1,16 @@
+====== 25912 - DC - Retrato de Fernando Soares e Hilário Carvalho no novo quartel ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Retrato de Fernando Soares e Hilário Carvalho no novo quartel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-12-16
+**UnitDateFinal**:: 1962-12-16
+**ScopeContent**:: Retrato com um comentário "pensamos Vencêmos".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25912
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25912

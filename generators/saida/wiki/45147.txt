@@ -1,0 +1,18 @@
+====== 45147 - DC - Carta ======
+
+**Parent**:: 45136
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-11-27
+**UnitDateFinal**:: 1920-11-27
+**ScopeContent**:: Carta manuscrita assinada, de Valença em papel de luto. Pêsames pela morte de Gaspar Lobo de Sousa Machado e Couros
+1º Visconde do Paço de Nespereira (1842-1920), cunhado do 2º Visconde de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45147
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4850 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45147

@@ -1,0 +1,16 @@
+====== 22925 - DC - Registo do recenseamento eleitoral de António José Antunes de Carvalho ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Antunes de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Oliveira Santa Maria
+Profissão - Tamanqueiro
+Morada - Aceiras
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22925
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22925

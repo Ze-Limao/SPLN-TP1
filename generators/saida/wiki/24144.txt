@@ -1,0 +1,16 @@
+====== 24144 - DC - Registo do recenseamento eleitoral de Domingos Alves Ferreira ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos Alves Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Brufe e Gemunde
+Profissão - Jornaleiro
+Morada - Varziela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24144
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24144

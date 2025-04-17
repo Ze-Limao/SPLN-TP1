@@ -1,0 +1,17 @@
+====== 56425 - DC - Receita farmacêutica ======
+
+**Parent**:: 56409
+**RootParent**:: 31258
+**UnitTitle**:: Receita farmacêutica
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-02-03
+**UnitDateFinal**:: 1917-02-03
+**ScopeContent**:: Receita manuscrita assinada, para Visconde de Pindela, com carimbo da Farmácia Magalhães Brandão, S. Tiago da Cruz, Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56425
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4539 - cx. 32
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56425

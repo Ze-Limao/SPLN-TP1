@@ -1,0 +1,17 @@
+====== 55100 - DC - Telegrama ======
+
+**Parent**:: 33831
+**RootParent**:: 31258
+**UnitTitle**:: Telegrama
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-09-02
+**UnitDateFinal**:: 1896-09-02
+**ScopeContent**:: Telegrama enviado de Cascais para casa de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55100
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3728 - cx. 27
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55100

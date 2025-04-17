@@ -1,0 +1,14 @@
+====== 60374 - UI - Constança Martins da Costa ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Constança Martins da Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60374
+
+===== Filhos =====
+  * [[60375.txt|60375 - DC - Carta]]

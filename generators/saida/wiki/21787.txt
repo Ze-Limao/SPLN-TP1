@@ -1,0 +1,16 @@
+====== 21787 - DC - Registo do recenseamento eleitoral de João Ribeiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Bairro
+Profissão - Fogueteiro
+Morada - Monte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21787
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21787

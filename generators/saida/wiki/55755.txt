@@ -1,0 +1,42 @@
+====== 55755 - DC - Envelope ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Envelope
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1909
+**ScopeContent**:: Envelope timbrado "In Die Königlich Haus Die Abgeordneten Portugiesische Gefanaltschaft", que contém CP 14364 a CP 14386.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55755
+**LangMaterial**:: Português e alemão
+**PhysLoc**:: CP 14362 - cx. 100
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55755
+
+===== Filhos =====
+  * [[55756.txt|55756 - DC - Minuta de carta para Venceslau Lima]]
+  * [[55757.txt|55757 - DC - Minuta de carta para Venceslau Lima]]
+  * [[55758.txt|55758 - DC - Minuta de carta para Conde Hulsea-Haeseler]]
+  * [[55759.txt|55759 - DC - Telegrama para Carlos Roma du Bocage]]
+  * [[55760.txt|55760 - DC - Telegrama para Carlos Roma du Bocage]]
+  * [[55761.txt|55761 - DC - Telegrama para Carlos Roma du Bocage]]
+  * [[55762.txt|55762 - DC - Telegrama de Eduardo Vilaça]]
+  * [[55763.txt|55763 - DC - Telegrama de Eduardo Vilaça]]
+  * [[55764.txt|55764 - DC - Carta de Luís Terra Viana]]
+  * [[55765.txt|55765 - DC - Carta de Luís Terra Viana]]
+  * [[55766.txt|55766 - DC - Carta de Carlos Roma du Bocage]]
+  * [[55767.txt|55767 - DC - Carta de Telmo Iglésias Vasquez]]
+  * [[55768.txt|55768 - DC - Minuta de carta para Eduardo Vilaça]]
+  * [[55769.txt|55769 - DC - Carta para Luís Terra Viana]]
+  * [[55770.txt|55770 - DC - Cartão de visita]]
+  * [[55771.txt|55771 - DC - Carta]]
+  * [[55772.txt|55772 - DC - Carta de F. Serrate]]
+  * [[55773.txt|55773 - DC - Carta de Luís Terra Viana]]
+  * [[55774.txt|55774 - DC - Carta de Manuel Martins Gomes Júnior]]
+  * [[55775.txt|55775 - DC - Carta Auswartiges Amt Chancelaria]]
+  * [[55776.txt|55776 - DC - Carta Auswartiges Amt Chancelaria]]
+  * [[55777.txt|55777 - DC - Carta da Direção Geral da Estatística. Repartição Central]]
+  * [[55778.txt|55778 - DC - Envelope]]

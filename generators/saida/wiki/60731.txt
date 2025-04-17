@@ -1,0 +1,15 @@
+====== 60731 - DC - Tombo de uma ração da igreja de S. Tiago de Antas pertencente a António da Costa ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Tombo de uma ração da igreja de S. Tiago de Antas pertencente a António da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1541-08-28
+**UnitDateFinal**:: 1541-08-28
+**ScopeContent**:: Manuscrito, original, sem capa. António Costa é morador da cidade de Braga, vigário da comenda de Bobadela desse Arcebispado. Título na f.1 "Tombo da ração do Most.ro de Santiago Dantas..."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 30 - cx. 1
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60731

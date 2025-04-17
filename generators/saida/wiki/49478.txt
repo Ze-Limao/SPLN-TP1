@@ -1,0 +1,18 @@
+====== 49478 - DC - Registo do recenseamento eleitoral de Joaquim Fernandes de Mesquita ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Fernandes de Mesquita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vilarinho das Cambas
+Profissão - Lavrador
+Estado - Casado
+Morada - Barrinho
+Idade - 49
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49478
+**LangMaterial**:: Português
+**PhysLoc**:: 85v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49478

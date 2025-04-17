@@ -1,0 +1,18 @@
+====== 28261 - DC - Recensão de Alberto Sampaio à obra de Adolf Schulten "Numantia: Eine topographisch-historische Untersuchung". ======
+
+**Parent**:: 28260
+**RootParent**:: 27963
+**UnitTitle**:: Recensão de Alberto Sampaio à obra de Adolf Schulten "Numantia: Eine topographisch-historische Untersuchung".
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906
+**UnitDateFinal**:: 1906
+**ScopeContent**:: Prova tipográfica com correção manuscrita a tinta na 2.ª página. 
+A recensão foi publicada na revista «Portugália», Porto, vol. II, 1905-1908, pg. 294. Diz respeito à obra Numantia: Eine topographisch-historische Untersuchung. Berlin : Weidmannsche Buchhandlung, 1905.
+«Adolf Schulten (27 de Maio de 1870 a 19 de Março de 1960  foi um arqueólogo, historiador e filólogo alemão, considerado o pai da investigação moderna sobre Tartessos - estudo a que dedicou muitos anos. Realizou escavações arqueológicas em Espanha, Itália e no norte de África e embora a sua verdadeira obsessão fosse encontrar os vestígios da cidade de Tartessos, nunca conseguiu realizar esse sonho. Empenhou-se em escavações no atual Parque Nacional Dona Ana, na foz do rio Guadalquivir e encontrou um povoado romano no Cerro del Trigo, convencido de que se tratava da população situada sobre os restos da cidade mítica. Entre outros trabalhos de escavação por todo o país, trouxe à luz as ruínas de Numancia  ou o acampamento romano de Castra Cecilia, situado na atual cidade Cáceres. Autor da obra monumental Hispania. Geografía, etnología e historia.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28261
+**LangMaterial**:: Português
+**PhysLoc**:: AS 20 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28261

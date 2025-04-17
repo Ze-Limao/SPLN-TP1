@@ -1,0 +1,17 @@
+====== 60232 - DC - Comissão de Viticultura. Serviço Central. Assumptos tratados. A questão do Entreposto de V.N. Gaia ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Assumptos tratados. A questão do Entreposto de V.N. Gaia
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1928
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes com: ofícios datilografados; recortes de jornais; Diário do Governo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57243
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9550 - cx. 60
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60232

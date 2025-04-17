@@ -1,0 +1,16 @@
+====== 26048 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-12-10
+**UnitDateFinal**:: 1920-12-10
+**ScopeContent**:: Júlio Brandão refere a festa de abertura da Casa de Seide e a verba necessária proveniente da venda do livro Camilo Homenageado poderá ser suficiente para a Casa. Carta manuscrita assinada, do Porto. Carta de 10 dezembro, sem menção ao ano. Papel timbrado "Museu Municipal do Porto. Gabinete do Director".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26048
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 842 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26048

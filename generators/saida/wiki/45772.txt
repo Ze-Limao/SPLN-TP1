@@ -1,0 +1,18 @@
+====== 45772 - DC - Registo do recenseamento eleitoral de José Gomes de Faria ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Gomes de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Brufe
+Profissão - Lavrador
+Estado - Casado
+Morada - Carvalho
+Idade - 36
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45772
+**LangMaterial**:: Português
+**PhysLoc**:: 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45772

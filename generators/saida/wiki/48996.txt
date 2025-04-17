@@ -1,0 +1,16 @@
+====== 48996 - DC - Apontamento manuscrito de João Gomes de Abreu ======
+
+**Parent**:: 31428
+**RootParent**:: 31258
+**UnitTitle**:: Apontamento manuscrito de João Gomes de Abreu
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-01
+**UnitDateFinal**:: 1914-01
+**ScopeContent**:: Apontamento manuscrito de João Gomes de Abreu sobre a genealogia da sua família, datado de Janeiro de 1914; junto com CP 1405 e 1407 - apontamentos manuscritos de Vicente sobre o mesmo assunto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48996
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1406 - cx. 10
+depósito 3, estante 9 e 10
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48996

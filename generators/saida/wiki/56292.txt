@@ -1,0 +1,17 @@
+====== 56292 - DC - Casa de Pindela S. Miguel de 1906. Recibos do ano corrente ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Pindela S. Miguel de 1906. Recibos do ano corrente
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1906
+**UnitDateFinal**:: 1906
+**ScopeContent**:: Maço que contém 78 documentos impressos e manuscritos, CP 11617 a CP 11693A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56292
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11616 a 11693A - cx. 64
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56292

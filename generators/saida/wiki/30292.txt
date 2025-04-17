@@ -1,0 +1,16 @@
+====== 30292 - DC - Carta ======
+
+**Parent**:: 21452
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-06-19
+**UnitDateFinal**:: 1896-06-19
+**ScopeContent**:: Carta manuscrita e assinada, de Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30292
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1451 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30292

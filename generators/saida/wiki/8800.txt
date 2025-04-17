@@ -1,0 +1,18 @@
+====== 8800 - DC - Termo do exame de Luís Fernandes Pinto ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Luís Fernandes Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-08-18
+**UnitDateFinal**:: 1892-08-18
+**ScopeContent**:: Grau - Elementar
+Idade - 15
+Filiação - Manuel Fernandes Pinto
+Naturalidade - Louro
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8800
+**LangMaterial**:: Português
+**PhysLoc**:: f. 34
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8800

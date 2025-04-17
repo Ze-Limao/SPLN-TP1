@@ -1,0 +1,15 @@
+====== 25013 - UI - Livro para o movimento da Bibliotheca respeitante às obras pedidas pelos sócios desta AHBVF para serem lidos fora do seu edifício ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Livro para o movimento da Bibliotheca respeitante às obras pedidas pelos sócios desta AHBVF para serem lidos fora do seu edifício
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-01-01
+**UnitDateFinal**:: 1933-04-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25013
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 116
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25013

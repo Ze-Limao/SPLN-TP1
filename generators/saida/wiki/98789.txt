@@ -1,0 +1,15 @@
+====== 98789 - DC - Manuel Faria 1916-1983, S. Miguel de Seide, sacerdote, compositor, musicólogo ======
+
+**Parent**:: 98788
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Faria 1916-1983, S. Miguel de Seide, sacerdote, compositor, musicólogo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1991
+**UnitDateFinal**:: 1991
+**ScopeContent**:: Medalha do escultor Alves André, desenho Ribeiro Carvalho, numa caixa de cartão, referente ao XX aniversário 1991 do Prémio Nacional de Música (Composição 1971). Na caixa uma f. com 1 f. Editado por Lusatenas Edições e Medalhística, Coimbra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98781
+**LangMaterial**:: Português
+**PhysLoc**:: cx. 1
+depósito 1, estante 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98789

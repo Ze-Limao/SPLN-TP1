@@ -1,0 +1,17 @@
+====== 98886 - DC - Licença que deu Ana Maria Isabel de Melo a Domingos da Costa, de Mouquim, para fazer um campo de lameiro ======
+
+**Parent**:: 54471
+**RootParent**:: 31258
+**UnitTitle**:: Licença que deu Ana Maria Isabel de Melo a Domingos da Costa, de Mouquim, para fazer um campo de lameiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1771-03-30
+**UnitDateFinal**:: 1771-03-30
+**ScopeContent**:: Manuscrito com folhas cosidas. "Pasta nº 4 Cazal nº1 D". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 13108 a CP 13142.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13111 - cx. 85
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98886

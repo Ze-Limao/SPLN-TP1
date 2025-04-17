@@ -1,0 +1,17 @@
+====== 101083 - DC - Requerimento de Vicente Machado de Melo Pinheiro para uns autos de uma leira em Guimarães ======
+
+**Parent**:: 31302
+**RootParent**:: 31258
+**UnitTitle**:: Requerimento de Vicente Machado de Melo Pinheiro para uns autos de uma leira em Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1840-07-08
+**UnitDateFinal**:: 1840-07-08
+**ScopeContent**:: Manuscrito com folhas cosidas em papel azul timbrado 40 reis, numa "Pasta nº 11 Cazal Nº 113 D". Este documento estava na “Caixa 11”, que contém CP 13211 a CP 13245.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13242 - cx. 90
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=101083

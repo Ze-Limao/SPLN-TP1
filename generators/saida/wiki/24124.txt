@@ -1,0 +1,16 @@
+====== 24124 - DC - Registo do recenseamento eleitoral de João de Sampaio ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João de Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Bairro
+Profissão - Lavrador
+Morada - Monte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24124
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24124

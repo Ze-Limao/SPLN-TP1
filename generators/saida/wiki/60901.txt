@@ -1,0 +1,17 @@
+====== 60901 - DC - Pormenor do palacete dos Menezes ======
+
+**Parent**:: 60890
+**RootParent**:: 60698
+**UnitTitle**:: Pormenor do palacete dos Menezes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1970
+**UnitDateFinal**:: 1990
+**ScopeContent**:: Postal impresso. No verso "4091 Vila Nova de Famalicão - Portugal" e legenda.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9751
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 151 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60901

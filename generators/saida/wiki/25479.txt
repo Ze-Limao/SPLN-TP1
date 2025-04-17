@@ -1,0 +1,16 @@
+====== 25479 - DC - Carta ======
+
+**Parent**:: 21121
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-11-06
+**UnitDateFinal**:: 1922-11-06
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Francisco Velloso. Advogado. Santo Thyrso". Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25479
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 436 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25479

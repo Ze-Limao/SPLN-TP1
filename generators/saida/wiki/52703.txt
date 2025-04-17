@@ -1,0 +1,17 @@
+====== 52703 - DC - Registo do recenseamento militar de Bernardo de Sousa Carvalho ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardo de Sousa Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1849-01-10
+Filiação - José de Sousa Carvalho Brandão e Maria Joaquina Monteiro
+Naturalidade - Antas
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52703
+**LangMaterial**:: Português
+**PhysLoc**:: 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52703

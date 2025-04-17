@@ -1,0 +1,25 @@
+====== 29178 - SSC - Atividade agrícola ======
+
+**Parent**:: 27965
+**RootParent**:: 27963
+**UnitTitle**:: Atividade agrícola
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1935
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29178
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29178
+
+===== Filhos =====
+  * [[29179.txt|29179 - DC - Perus - água chalada para beberem]]
+  * [[29212.txt|29212 - DC - Cabras]]
+  * [[29213.txt|29213 - DC - Ração para cavalos]]
+  * [[29214.txt|29214 - DC - Corn - Soak un warm water]]
+  * [[29215.txt|29215 - DC - Drought! - Fooder scarge?]]
+  * [[29216.txt|29216 - DC - Do emprego do coaltar para prevenir a moléstia das batatas]]
+  * [[29217.txt|29217 - DC - A Camponêsa Fábrica de Máquinas Agrícolas Vila Nova de Famalicão]]
+  * [[29218.txt|29218 - DC - A Camponêsa Fábrica de Máquinas Agrícolas Vila Nova de Famalicão]]
+  * [[29219.txt|29219 - DC - A Camponêsa Fábrica de Máquinas Agrícolas Vila Nova de Famalicão]]
+  * [[29220.txt|29220 - DC - A Camponêsa Fábrica de Máquinas Agrícolas Vila Nova de Famalicão]]
+  * [[29221.txt|29221 - DC - A Camponêsa Fábrica de Máquinas Agrícolas Vila Nova de Famalicão]]
+  * [[29222.txt|29222 - DC - A Camponêsa]]

@@ -1,0 +1,17 @@
+====== 60815 - DC - Carta ======
+
+**Parent**:: 60814
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-04
+**UnitDateFinal**:: 1934-04
+**ScopeContent**:: Carta manuscrita assinada de Quinta da Vila Nova, Stª Cruz do Douro. No envelope manuscrito "Celebre Soneto d´Arvers pretensas respostas e outros varias", com indicação que foram publicadas no Figaro, 5 e 9 Out. 1896, assinadas por Louis Aigoin.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56772
+**LangMaterial**:: Português e Francês
+**PhysLoc**:: CP 5728A - cx. 40
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60815

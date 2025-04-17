@@ -1,0 +1,19 @@
+====== 34002 - DC - Registo do recenseamento militar de Manuel de Abreu ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel de Abreu
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Arnoso Santa Eulália
+Data de nascimento - 1852-04-13
+Filiação - Domingos de Abreu e Maria Ferreira Simões
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34002
+**LangMaterial**:: Português
+**PhysLoc**:: 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34002

@@ -1,0 +1,15 @@
+====== 65967 - DC - Licença de Clavina de Luís de Moura Mendonça, abade de S. Tiago de Antas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Licença de Clavina de Luís de Moura Mendonça, abade de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1796-04-27
+**UnitDateFinal**:: 1796-04-27
+**ScopeContent**:: Manuscrito, original, com quatro orifícios na parte inferior, sem selo. Foi restaurado e acondicionado em 2021.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 287  - Capa P5
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65967

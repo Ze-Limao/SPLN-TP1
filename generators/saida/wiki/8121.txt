@@ -1,0 +1,18 @@
+====== 8121 - DC - Manuel Joaquim da Costa Moreira Pinto ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Joaquim da Costa Moreira Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-08-02
+**UnitDateFinal**:: 1891-05-27
+**ScopeContent**:: Escola - Jesufrei
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Jesufrei
+Data de posse - 1883-08-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8121
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8121

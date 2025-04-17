@@ -1,0 +1,13 @@
+====== 8998 - DC - Ofício nº 22 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 22
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-06-23
+**UnitDateFinal**:: 1885-06-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8998
+**LangMaterial**:: Português
+**PhysLoc**:: f. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8998

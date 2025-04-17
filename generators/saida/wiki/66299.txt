@@ -1,0 +1,15 @@
+====== 66299 - DC - Tombo ======
+
+**Parent**:: 60730
+**RootParent**:: 60536
+**UnitTitle**:: Tombo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1450
+**UnitDateFinal**:: 1600
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 433 - cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66299

@@ -1,0 +1,21 @@
+====== 21115 - UI - Francisco Lopes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco Lopes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1872-07-29
+**UnitDateFinal**:: 1877-08-08
+**ScopeContent**:: Francisco Lopes foi tio de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21115
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 420, 421, 4222, 423
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21115
+
+===== Filhos =====
+  * [[25464.txt|25464 - DC - Carta]]
+  * [[25465.txt|25465 - DC - Carta]]
+  * [[25466.txt|25466 - DC - Carta]]
+  * [[25467.txt|25467 - DC - Carta]]

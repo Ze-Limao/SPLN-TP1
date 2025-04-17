@@ -1,0 +1,25 @@
+====== 21245 - UI - Matias de Lima ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Matias de Lima
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-10-24
+**UnitDateFinal**:: 1925-02-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21245
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 971 a 980
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21245
+
+===== Filhos =====
+  * [[26175.txt|26175 - DC - Carta]]
+  * [[26176.txt|26176 - DC - Carta]]
+  * [[26177.txt|26177 - DC - Carta]]
+  * [[26178.txt|26178 - DC - Carta]]
+  * [[26179.txt|26179 - DC - Carta]]
+  * [[26180.txt|26180 - DC - Carta]]
+  * [[26181.txt|26181 - DC - Carta]]
+  * [[26182.txt|26182 - DC - Carta]]
+  * [[26183.txt|26183 - DC - Carta]]
+  * [[26184.txt|26184 - DC - Carta]]

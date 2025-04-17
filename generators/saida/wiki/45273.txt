@@ -1,0 +1,18 @@
+====== 45273 - UI - Courbeiro ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Courbeiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-05-11
+**UnitDateFinal**:: 1891-05-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45273
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45273
+
+===== Filhos =====
+  * [[45274.txt|45274 - DC - Telegrama]]

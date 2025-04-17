@@ -1,0 +1,15 @@
+====== 24807 - DC - Maço de fotocópias sobre sistema de classificação e arrumação da documentação de José de Azevedo e Menezes ======
+
+**Parent**:: 22757
+**RootParent**:: 20290
+**UnitTitle**:: Maço de fotocópias sobre sistema de classificação e arrumação da documentação de José de Azevedo e Menezes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1998
+**UnitDateFinal**:: 1998
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24807
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1523 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24807

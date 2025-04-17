@@ -1,0 +1,17 @@
+====== 21116 - UI - Francisco de Miranda da Costa Lobo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco de Miranda da Costa Lobo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1924-11-08
+**UnitDateFinal**:: 1924-11-08
+**ScopeContent**:: .
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21116
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 424
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21116
+
+===== Filhos =====
+  * [[25468.txt|25468 - DC - Carta]]

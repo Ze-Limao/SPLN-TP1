@@ -1,0 +1,16 @@
+====== 22191 - DC - Registo do recenseamento eleitoral de José Pereira de Castro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Pereira de Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Tecelão
+Morada - Loureiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22191
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22191

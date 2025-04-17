@@ -1,0 +1,15 @@
+====== 97855 - UI - Processo nº 348 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 348
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1960-02-03
+**UnitDateFinal**:: 1971-07-31
+**ScopeContent**:: Junto com Autos de Transgressão nº 1655, 224, 637, 642, 671, 940, 1052 Autos de Reclamação de Créditos nº 710-B, 710-A, 137-B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 574 - cx. 33
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97855

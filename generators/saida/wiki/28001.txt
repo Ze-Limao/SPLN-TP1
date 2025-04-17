@@ -1,0 +1,16 @@
+====== 28001 - DC - Relação e Indice Alphabetico dos Estudantes Matriculados na Universidade de Coimbra e no Lyceu no Anno Lectivo de 1861 para 1862... ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Relação e Indice Alphabetico dos Estudantes Matriculados na Universidade de Coimbra e no Lyceu no Anno Lectivo de 1861 para 1862...
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1862
+**ScopeContent**:: Livro impresso em Coimbra na Imprensa da Universidade em 1862 com o título completo "Relação e Indice Alphabetico dos Estudantes Matriculados na Universidade de Coimbra e no Lyceu no Anno Lectivo de 1861 para 1862 com suas filiações, naturalidades e moradas e com a designação das diversas cadeiras e disciplinas, e dos lentes e professores respectivos".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28001
+**LangMaterial**:: Português
+**PhysLoc**:: AS 268 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28001

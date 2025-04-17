@@ -1,0 +1,16 @@
+====== 22589 - DC - Registo do recenseamento eleitoral de António Pinheiro Braga ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Pinheiro Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Lavrador
+Morada - Além de Cima
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22589
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22589

@@ -1,0 +1,15 @@
+====== 99370 - UI - Minutas de cartas para o Ministro do Fomento de António Cristino ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Minutas de cartas para o Ministro do Fomento de António Cristino
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-07-11
+**UnitDateFinal**:: 1911-07-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99370
+
+===== Filhos =====
+  * [[99371.txt|99371 - DC - Minuta de carta]]
+  * [[99372.txt|99372 - DC - Minuta de carta]]

@@ -1,0 +1,17 @@
+====== 57449 - DC - Cópia de ofício para Engenheiro Diretor da Exploração da CCFNP? do 3º Visconde de Pindela ======
+
+**Parent**:: 57397
+**RootParent**:: 31258
+**UnitTitle**:: Cópia de ofício para Engenheiro Diretor da Exploração da CCFNP? do 3º Visconde de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929-06-20
+**UnitDateFinal**:: 1929-06-20
+**ScopeContent**:: Cópia de ofício datilografado para Companhia e Caminhos de Ferro do Norte de Portugal (14 f.) com relato e parecer sobre o campo de demonstração de Vizela, das Fontainhas e de Fafe. Falta a primeira folha.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57449
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2859 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57449

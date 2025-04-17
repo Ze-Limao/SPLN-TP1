@@ -1,0 +1,18 @@
+====== 50982 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-02-05
+Filiação - António Carneiro Correia e Maria Rosa
+Naturalidade - Seide S. Paio
+Profissão - Lavrador
+Residência - Seide S. Paio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50982
+**LangMaterial**:: Português
+**PhysLoc**:: 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50982

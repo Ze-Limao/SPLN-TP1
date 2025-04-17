@@ -1,0 +1,17 @@
+====== 54806 - DC - Violetas de Pindela, José de Menezes, La Haya 1890 ======
+
+**Parent**:: 54476
+**RootParent**:: 31258
+**UnitTitle**:: Violetas de Pindela, José de Menezes, La Haya 1890
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1890
+**ScopeContent**:: Violetas secas da Casa de Pindela enviadas por José de Menezes para Haia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54806
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7363 - cx. 47
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54806

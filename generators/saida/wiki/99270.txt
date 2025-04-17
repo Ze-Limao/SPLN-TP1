@@ -1,0 +1,15 @@
+====== 99270 - UI - Alfredo Carneiro de Vasconcelos & Filhos ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Alfredo Carneiro de Vasconcelos & Filhos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-11-06
+**UnitDateFinal**:: 1911-11-06
+**ScopeContent**:: Estabelecimento de sementes e depósito de sabão, na Rua de S. João, 105-111, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99270
+
+===== Filhos =====
+  * [[99271.txt|99271 - DC - Ofício]]

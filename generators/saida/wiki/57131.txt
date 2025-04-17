@@ -1,0 +1,17 @@
+====== 57131 - DC - Comissão de Viticultura. Serviço Central. Serviço de estatística. Elementos de estudo ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Serviço de estatística. Elementos de estudo
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1927
+**UnitDateFinal**:: 1932
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes que contém 6 documentos: ofícios datilografados; Folhas de exploração fiscalização e estatística impressas e manuscritas; Manifesto Geral de Produção Concelho da Póvoa de Lanhoso 1932.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57131
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9490 - cx. 57
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57131

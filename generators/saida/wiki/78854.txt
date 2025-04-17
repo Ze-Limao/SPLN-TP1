@@ -1,0 +1,15 @@
+====== 78854 - DC - Título de um dos benefícios rações estabelecidos na Igreja do Mosteiro de S. Tiago de Antas a favor do reverendo Luís Pedro de Brito Caldeira, prelado da Igreja Patriarcal de Lisboa ======
+
+**Parent**:: 63976
+**RootParent**:: 60536
+**UnitTitle**:: Título de um dos benefícios rações estabelecidos na Igreja do Mosteiro de S. Tiago de Antas a favor do reverendo Luís Pedro de Brito Caldeira, prelado da Igreja Patriarcal de Lisboa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1774-10-27
+**UnitDateFinal**:: 1774-10-28
+**ScopeContent**:: Manuscrito, original, sem capa, com selo de lacre.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 656 -  Capa 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78854

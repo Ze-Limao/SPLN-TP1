@@ -1,0 +1,15 @@
+====== 20984 - DC - Nº 5/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 5/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-03-20
+**UnitDateFinal**:: 1962-03-20
+**ScopeContent**:: Contrato de adjudicação da empreitada de 'Arranjo da feira do gado em Vila Nova de Famalicão. Primeira parte. Quarta fase. Conclusão da nova feira do gado'
+Outorgante - Gabriel Alves Sampaio Couto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20984
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 41v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20984

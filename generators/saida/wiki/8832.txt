@@ -1,0 +1,18 @@
+====== 8832 - DC - Termo do exame de Augusto de Paula Pereira de Mesquita ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Augusto de Paula Pereira de Mesquita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-31
+**UnitDateFinal**:: 1893-07-31
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Francisco de Paula Pereira de Mesquita
+Naturalidade - Antas
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8832
+**LangMaterial**:: Português
+**PhysLoc**:: f. 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8832

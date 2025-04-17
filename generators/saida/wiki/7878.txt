@@ -1,0 +1,42 @@
+====== 7878 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1852-11-03
+**UnitDateFinal**:: 1854-01-27
+**ScopeContent**:: Contém dados sobre:
+1 - Freguesia
+2 - Nome
+3 - Contribuições
+4 - Qualificação literária
+5 - Profissão
+6 - Estado
+7 - Morada
+8 - Idade
+9 - Eleitores e elegíveis
+10 - Observações
+
+Além das atuais freguesias (excepto Gondifelos), Aves e Serzedelo, mantém como autónomas as seguintes freguesias:
+1 - Arnoso Mosteiro
+2 - Ferreiró
+3 - Gemunde
+4 - Landim Santa Marinha
+5 - Romão
+6 - Sanfins
+7 - Sobrado
+
+Na revisão do recenseamento em 1854, mantém-se Arnoso Mosteiro e dão-se as alterações seguintes:
+1 - Romão e Sobrado são anexadas a Aves
+2 - Sanfins é anexada a Bairro
+3 - Gemunde é anexada a Brufe
+4 - Oliveira S. Mateus é anexada a Delães
+5 - Landim Santa Marinha é anexada a Landim Santa maria
+6 - Novais é anexada a Ruivães
+Estas alterações no que se refere a Aves, Bairro e Landim serão definitivas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7878
+**LangMaterial**:: Português
+**PhysLoc**:: 1.1.1.4
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7878

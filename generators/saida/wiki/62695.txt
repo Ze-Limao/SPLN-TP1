@@ -1,0 +1,19 @@
+====== 62695 - DC - Registo do recenseamento militar de Lino ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Lino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - António Alves Ferreira e Ana Maria da Costa, na freguesia
+Naturalidade - Ribeirão
+Morada - Ribeirão
+Data de nascimento - 1863-02-02
+Emprego - Serrador
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62695

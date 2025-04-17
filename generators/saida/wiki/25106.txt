@@ -1,0 +1,17 @@
+====== 25106 - DC - Coração de bombeiro: drama em 1 acto ======
+
+**Parent**:: 25084
+**RootParent**:: 20342
+**UnitTitle**:: Coração de bombeiro: drama em 1 acto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924
+**UnitDateFinal**:: 1924
+**ScopeContent**:: Livreto escrito por Daniel Correia que reverteu a favor da subscrição para a compra dum auto-bomba para a corporação dos Bombeiros Voluntários de V. N. de Famalicão, impresso na Tip. Minerva de Cruz, Sousa & Barbosa, 1924. O livreto é uma peça de teatro que foi representada no Teatro Olímpia de Vila Nova de Famalicão em 19 de junho de 1924.
+O produto dos bilhetes da peça de teatro Coração de Bombeiro, assim como a venda do livrete (5$000 réis por exemplar), reverteram também para a compra do carro pronto-socorro Berliet.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25106
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 182 - cx. 46
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25106

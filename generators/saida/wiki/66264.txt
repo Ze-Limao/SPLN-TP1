@@ -1,0 +1,15 @@
+====== 66264 - DC - Sentença dada em favor do Doutor padre Jorge, abade de S. Tiago de e Antas, contra Sebastião Gonçalves, raçoeiro na dita igreja no ano de 1543 ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença dada em favor do Doutor padre Jorge, abade de S. Tiago de e Antas, contra Sebastião Gonçalves, raçoeiro na dita igreja no ano de 1543
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1541-09-26
+**UnitDateFinal**:: 1543
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 42 -  cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66264

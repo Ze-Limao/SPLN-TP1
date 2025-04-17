@@ -1,0 +1,16 @@
+====== 24408 - DC - Registo do recenseamento eleitoral de Francisco Gomes da Costa ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Gomes da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Morada - Água Levada
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24408
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24408

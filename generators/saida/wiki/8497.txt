@@ -1,0 +1,18 @@
+====== 8497 - DC - Termo do exame de Manuel Carneiro Dias dos Santos ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Carneiro Dias dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-05-03
+**UnitDateFinal**:: 1886-05-03
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - 
+Naturalidade - 
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8497
+**LangMaterial**:: Português
+**PhysLoc**:: f. 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8497

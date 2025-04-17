@@ -1,0 +1,17 @@
+====== 21128 - UI - Gaspar Lobo Machado do Amaral Cardoso de Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Gaspar Lobo Machado do Amaral Cardoso de Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-05-30
+**UnitDateFinal**:: 1921-05-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21128
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 457
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21128
+
+===== Filhos =====
+  * [[25500.txt|25500 - DC - Carta]]

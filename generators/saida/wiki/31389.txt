@@ -1,0 +1,14 @@
+====== 31389 - SR - Correspondência recebida ======
+
+**Parent**:: 31388
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1835
+**UnitDateFinal**:: 1845
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31389
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31389
+
+===== Filhos =====
+  * [[32963.txt|32963 - UI - Anselmo José Braamcamp]]

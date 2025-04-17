@@ -1,0 +1,15 @@
+====== 97662 - UI - Processo nº 26-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 26-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-02-12
+**UnitDateFinal**:: 1977-04-12
+**ScopeContent**:: Junto com Autos de Ação com Processo Comum - Ordinário nº 26.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 408 - cx. 25
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97662

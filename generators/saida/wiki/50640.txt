@@ -1,0 +1,18 @@
+====== 50640 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 
+Filiação - Francisco da Costa Azevedo e Maria Joaquina
+Naturalidade - Minhotães
+Profissão - 
+Residência - Mouquim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50640
+**LangMaterial**:: Português
+**PhysLoc**:: 95v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50640

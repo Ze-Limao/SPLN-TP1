@@ -1,0 +1,17 @@
+====== 29319 - DC - Recibo A Regeneração ======
+
+**Parent**:: 29317
+**RootParent**:: 27963
+**UnitTitle**:: Recibo A Regeneração
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-04-30
+**UnitDateFinal**:: 1875-04-30
+**ScopeContent**:: A loja situava-se em Braga. Assinatura autógrafa de M. Pereira, administrador do periódico.
+Recibo n. 384, no valor de 1440 réis, respeitante ao pagamento da assinatura do 2.º e 3.º trimestre de 1875 (15 de Março a 15 de Setembro de 1875).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29319
+**LangMaterial**:: Português
+**PhysLoc**:: AS 215 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29319

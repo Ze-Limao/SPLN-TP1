@@ -1,0 +1,16 @@
+====== 28176 - DC - Vides ao correr do socalco da vinha de baixo ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vides ao correr do socalco da vinha de baixo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Indicação das castas e do número de vides, bem como respetiva proveniência (viveiro de Landim; viveiro do cortelho…), plantadas no socalco da vinha de baixo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28176
+**LangMaterial**:: Português
+**PhysLoc**:: AS 448 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28176

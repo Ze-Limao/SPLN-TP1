@@ -1,0 +1,16 @@
+====== 29387 - DC - Carta ======
+
+**Parent**:: 28736
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-07-05
+**UnitDateFinal**:: 1907-07-05
+**ScopeContent**:: Carta expedida do Porto. Anexo o rascunho da carta enviada por Alberto Sampaio (AS 599).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29387
+**LangMaterial**:: Português
+**PhysLoc**:: AS 598 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29387

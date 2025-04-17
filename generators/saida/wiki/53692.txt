@@ -1,0 +1,17 @@
+====== 53692 - DC - Carta ======
+
+**Parent**:: 33020
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-06-08
+**UnitDateFinal**:: 1880-06-08
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa, em papel de luto. Esta carta pertence ao maço "Cartas da minha irmã Maria e do António Xavier".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53692
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7556 - cx. 48
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53692

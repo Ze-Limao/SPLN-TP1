@@ -1,0 +1,22 @@
+====== 27975 - SSSC - Amizade com Antero de Quental ======
+
+**Parent**:: 27971
+**RootParent**:: 27963
+**UnitTitle**:: Amizade com Antero de Quental
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1861
+**UnitDateFinal**:: 1863
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27975
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27975
+
+===== Filhos =====
+  * [[28009.txt|28009 - DC - Adeus!]]
+  * [[28010.txt|28010 - DC - Não fugi, mariposa!]]
+  * [[28011.txt|28011 - DC - Ao Distincto Actor Simões na Récita do seu benefício em 22 de Março: O Homem - o bello - o artista.]]
+  * [[29373.txt|29373 - DC - Ao Eximio Actor Simões]]
+  * [[29374.txt|29374 - DC - Poesia de Anthero do Quental, recitada na noute de 13 de Maio de 1862, no Theatro Academico, por A. Fialho Machado.]]
+  * [[29375.txt|29375 - DC - A Gennard Perrelli: Ao artista e ao Patriota Italiano]]
+  * [[29376.txt|29376 - DC - Transcrição de sonetos de Luís de Camões]]
+  * [[29377.txt|29377 - DC - Dizei-me, se pode o grande rio, Existir, sem q. as fontes o abasteçam?]]
+  * [[98604.txt|98604 - DC - Discurso lido na sessão de 7 de março da Liga Patriotica do Norte pelo seu presidente Anthero de Quental]]

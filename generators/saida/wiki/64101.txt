@@ -1,0 +1,15 @@
+====== 64101 - DC - Rol dos confessados da freguesia de S. Tiago de Antas na satisfação aos preceitos da Desobriga na Quaresma do ano de 1876 ======
+
+**Parent**:: 64091
+**RootParent**:: 60536
+**UnitTitle**:: Rol dos confessados da freguesia de S. Tiago de Antas na satisfação aos preceitos da Desobriga na Quaresma do ano de 1876
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-04-21
+**UnitDateFinal**:: 1876-04-21
+**ScopeContent**:: Manuscrito, original, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 272 - cx. 14
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64101

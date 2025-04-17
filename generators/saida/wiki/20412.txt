@@ -1,0 +1,20 @@
+====== 20412 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Joane
+Filiação - Manuel Francisco e Joana Marques
+Naturalidade - Joane
+Data de nascimento - 1870-10-18
+Emprego - 
+Estado - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20412
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20412

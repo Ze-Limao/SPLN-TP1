@@ -1,0 +1,17 @@
+====== 56563 - DC - Defesa nacional e Democracia ======
+
+**Parent**:: 31328
+**RootParent**:: 31258
+**UnitTitle**:: Defesa nacional e Democracia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-03-21
+**UnitDateFinal**:: 1917-03-21
+**ScopeContent**:: Recorte de jornal A Monarquia. Documento junto com CP 12706 a CP 12710.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56563
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12707 - cx. 76
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56563

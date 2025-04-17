@@ -1,0 +1,19 @@
+====== 34421 - DC - Registo do recenseamento militar de Teotónio ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Teotónio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1852-11-18
+Filiação - Exposto
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34421
+**LangMaterial**:: Português
+**PhysLoc**:: 116v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34421

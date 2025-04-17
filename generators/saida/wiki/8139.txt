@@ -1,0 +1,18 @@
+====== 8139 - DC - Gertrudes Maria da Conceição Carvalho ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Gertrudes Maria da Conceição Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-28
+**UnitDateFinal**:: 1885-06-20
+**ScopeContent**:: Escola - Oliveira Santa Maria
+Cargo - Professora
+Vínculo - Temporário
+Naturalidade - Olivais
+Data de posse - 1885-01-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8139
+**LangMaterial**:: Português
+**PhysLoc**:: f. 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8139

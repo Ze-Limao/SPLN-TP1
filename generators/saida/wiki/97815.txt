@@ -1,0 +1,15 @@
+====== 97815 - UI - Processo nº 51 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 51
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1982-10-04
+**UnitDateFinal**:: 1984-05-18
+**ScopeContent**:: 2ª Secção. Junto com Autos de Execução de Custas nº 51-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 538 - cx. 32
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97815

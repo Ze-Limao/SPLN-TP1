@@ -1,0 +1,15 @@
+====== 28790 - UI - Jaime de Magalhães Lima ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Jaime de Magalhães Lima
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-12-31
+**UnitDateFinal**:: 1907-07-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28790
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28790
+
+===== Filhos =====
+  * [[28791.txt|28791 - DC - Postal ilustrado]]
+  * [[28792.txt|28792 - DC - Carta]]

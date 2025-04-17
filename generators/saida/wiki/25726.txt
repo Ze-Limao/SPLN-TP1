@@ -1,0 +1,16 @@
+====== 25726 - DC - Nota sobre a infanta D. Catarina ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Nota sobre a infanta D. Catarina
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1913
+**ScopeContent**:: Notas manuscritas em papel timbrado "Consulado Português em Génova".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25726
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 677 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25726

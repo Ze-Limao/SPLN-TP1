@@ -1,0 +1,15 @@
+====== 97496 - UI - Processo nº 1 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 1
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1965-02-09
+**UnitDateFinal**:: 1970-11-30
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 29/68-Comum.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 321 - cx. 17
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97496

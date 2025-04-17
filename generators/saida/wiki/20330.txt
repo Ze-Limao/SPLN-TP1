@@ -1,0 +1,14 @@
+====== 20330 - UI - Correspondência recebida ======
+
+**Parent**:: 20223
+**RootParent**:: 7651
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1952-01-07
+**UnitDateFinal**:: 1952-07-30
+**ScopeContent**:: Ofícios de entidades coletivas e particulares (janeiro 2 ofícios; março 2 ofícios; abril 77 ofícios; maio 34 ofícios, junho 116 ofícios; julho 96 ofícios).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20330
+**LangMaterial**:: Português
+**PhysLoc**:: 4083
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20330

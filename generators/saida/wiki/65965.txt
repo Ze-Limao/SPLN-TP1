@@ -1,0 +1,15 @@
+====== 65965 - DC - Emprazamento do campo do Lameiro, feito pelo Abade Jerónimo ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do campo do Lameiro, feito pelo Abade Jerónimo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1710
+**UnitDateFinal**:: 1723
+**ScopeContent**:: Manuscrito, original, sem selo. Foi restaurado e acondicionado em 2021. Documento ilegível.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 290 - Capa P4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65965

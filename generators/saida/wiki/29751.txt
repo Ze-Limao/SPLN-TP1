@@ -1,0 +1,17 @@
+====== 29751 - DC - Carta ======
+
+**Parent**:: 21283
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-05-31
+**UnitDateFinal**:: 1925-05-31
+**ScopeContent**:: A. Veloso de Araújo pede a JAM que responda à carta de Rocha Martins (1879-1952) com a sua opinião sobre o livro "A Paixão de Camilo: Ana Plácido" (publicada em 1925). Remete a JAM o estudo camiliano "Camilo em San Miguel de Seide" que trata três figuras - Camilo, Ana Plácido e Vieira de Castro e diz que brevemente irá ao Vinhal ouvir a sua crítica.
+Carta manuscrita assinada, da Quinta do Vilar.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29751
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1161 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29751

@@ -1,0 +1,21 @@
+====== 33929 - UI - Maria Rita Ferrão de Castelo Branco Mascarenhas ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Maria Rita Ferrão de Castelo Branco Mascarenhas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1909-04-28
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33929
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33929
+
+===== Filhos =====
+  * [[33930.txt|33930 - DC - Carta]]
+  * [[33931.txt|33931 - DC - Cartão]]
+  * [[33932.txt|33932 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[33933.txt|33933 - DC - Cartão de visita]]

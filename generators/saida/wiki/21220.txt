@@ -1,0 +1,19 @@
+====== 21220 - UI - Júlio de Vilhena ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Júlio de Vilhena
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-07-02
+**UnitDateFinal**:: 1898-07-02
+**ScopeContent**:: Júlio Marques de Vilhena nasceu em Ferreira do Alentejo a 28 de Julho de 1845 e morreu em Lisboa, 27 de Dezembro de 1928, mais conhecido por Júlio de Vilhena, foi um jurista, intelectual, magistrado e político português.Único filho de Francisco Marques de Barbuda e de sua mulher Maria José de Vilhena, neto paterno de António Pedro Marques de Barbuda e de sua mulher Teresa Aurélia de Carvalho e neto materno de João Rodrigues Nobre de Vilhena (Ferreira do Alentejo, Ferreira do Alentejo, 6 de Março de 1778 - ?) e de sua segunda mulher Luísa Teresa Figueira e primo em segundo grau do 1.º Visconde de Ferreira do Alentejo.
+Formou-se e doutorou-se em Direito pela Faculdade de Direito da Universidade de Coimbra no ano de 1871, apresentando como tese a obra intitulada A prova por documentos particulares segundo o Código Civil Português, publicada no ano seguinte. A 14 de Julho de 1872 doutorou-se com a dissertação intitulada Teses seletas de Direito.Tendo-se dedicado a estudos literários e históricos, escritor, publica em 1873 uma obra intitulada As Raças Históricas da Península Ibérica e sua influência no Direito Português, a qual lhe granjeou amplo reconhecimento no meio intelectual português. Entre outras funções, foi deputado, Ministro da Marinha e Ultramar e Ministro da Justiça e dos Negócios Eclesiásticos e 3.º governador do Banco de Portugal (1895-1907).Era membro do Partido Regenerador, de que foi líder e chefe. Foi ainda Conselheiro de Estado e Par do Reino por Carta Régia de D. Carlos I de Portugal de 27 de Fevereiro de 1890, Ministro de Estado Honorário, sócio e presidente da Academia Real das Ciências de Lisboa, diretor do Jornal Económico, d'O Universal e do Diário Popular, juiz conselheiro vogal e presidente do Supremo Tribunal Administrativo e presidente da Liga Naval. Foi, ainda, Grã-Cruz da Ordem Militar de Cristo e da Ordem de Nossa Senhora da Conceição de Vila Viçosa de Portugal, da Ordem de Carlos III e da Ordem do Mérito Naval de Espanha, da Ordem de Leopoldo I da Bélgica, da Ordem da Estrela Polar da Suécia, da Ordem de Santo Alexandre da Bulgária, da Ordem de Santa Catarina da Rússia, etc.
+Fonte: Wikipédia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21220
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 881
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21220
+
+===== Filhos =====
+  * [[26087.txt|26087 - DC - Carta]]

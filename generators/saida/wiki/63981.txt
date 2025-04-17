@@ -1,0 +1,15 @@
+====== 63981 - DC - Escritura de compra e venda do campo do Talho, vendem Francisco Teixeira de Mesquita e sua mulher Jerónima de Araújo, moradores na freguesia de S. Tiago de Castelões, que é pertença do casal da Ribeira, que possuem por título de prazo do abade da Igreja de S. Tiago de Antas, a Gonçalo da Silva, morador do lugar do Seixal da freguesia de S. Tiago de Castelões ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra e venda do campo do Talho, vendem Francisco Teixeira de Mesquita e sua mulher Jerónima de Araújo, moradores na freguesia de S. Tiago de Castelões, que é pertença do casal da Ribeira, que possuem por título de prazo do abade da Igreja de S. Tiago de Antas, a Gonçalo da Silva, morador do lugar do Seixal da freguesia de S. Tiago de Castelões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1663-04-12
+**UnitDateFinal**:: 1663-04-12
+**ScopeContent**:: Manuscrito, instrumento. A primeira folha impresso "Sello Terceiro de quarenta reis". Falta a parte esquerda superior.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 105 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63981

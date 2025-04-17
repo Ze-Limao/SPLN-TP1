@@ -1,0 +1,16 @@
+====== 21900 - DC - Registo do recenseamento eleitoral de Francisco António dos Reis ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco António dos Reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Calendário
+Profissão - Lavrador
+Morada - Poído
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21900
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21900

@@ -1,0 +1,19 @@
+====== 34695 - DC - Registo do recenseamento militar de Lino ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Lino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Cabeçudos
+Data de nascimento - 1862-03-24
+Filiação - António de Sousa e Angélica Gonçalves
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34695
+**LangMaterial**:: Português
+**PhysLoc**:: 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34695

@@ -1,0 +1,16 @@
+====== 26074 - DC - Carta ======
+
+**Parent**:: 21218
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-04-27
+**UnitDateFinal**:: 1921-04-27
+**ScopeContent**:: Júlio Dias Costa agradece o livro Camilo Homenageado. Carta manuscrita assinada. Papel carimbado "Relação de Lisboa. Escrivão Dias Costa. Morada R. de Heliodoro Salgado, 13,2º".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26074
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 868 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26074

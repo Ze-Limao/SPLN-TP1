@@ -1,0 +1,40 @@
+====== 79248 - DC - Notas sobre o Movimento de Senhoras do Minho para oferta de uma peça à Rainha Augusta Vitória, princesa de Hohenzollern-Sigmaringen, no seu casamento com D. Manuell II, a 4 de setembro 1913 ======
+
+**Parent**:: 54535
+**RootParent**:: 31258
+**UnitTitle**:: Notas sobre o Movimento de Senhoras do Minho para oferta de uma peça à Rainha Augusta Vitória, princesa de Hohenzollern-Sigmaringen, no seu casamento com D. Manuell II, a 4 de setembro 1913
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56644
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79248
+
+===== Filhos =====
+  * [[60393.txt|60393 - DC - Lista e ordem das assignaturas das senhoras]]
+  * [[60394.txt|60394 - DC - Desenho a lápis da jóia a oferecer a D. Manuel II e esposa]]
+  * [[79249.txt|79249 - DC - Minuta de carta]]
+  * [[79250.txt|79250 - DC - Minuta de carta]]
+  * [[79251.txt|79251 - DC - Minuta de carta]]
+  * [[79252.txt|79252 - DC - Minuta de carta]]
+  * [[79253.txt|79253 - DC - Minuta de carta]]
+  * [[79254.txt|79254 - DC - Minuta de carta]]
+  * [[79255.txt|79255 - DC - Nota]]
+  * [[79256.txt|79256 - DC - Minuta de carta]]
+  * [[79257.txt|79257 - DC - Minuta de carta]]
+  * [[79258.txt|79258 - DC - Minuta de carta]]
+  * [[79259.txt|79259 - DC - Minuta de carta]]
+  * [[79260.txt|79260 - DC - Minuta de carta]]
+  * [[79261.txt|79261 - DC - Minuta de carta]]
+  * [[79262.txt|79262 - DC - Minuta de carta]]
+  * [[79263.txt|79263 - DC - Minuta de carta]]
+  * [[79264.txt|79264 - DC - Minuta de carta]]
+  * [[79265.txt|79265 - DC - Minuta de carta]]
+  * [[79266.txt|79266 - DC - Minuta de carta]]
+  * [[79267.txt|79267 - DC - Envelope]]
+  * [[79268.txt|79268 - DC - Minuta de carta]]
+  * [[79271.txt|79271 - DC - Minuta do documento a enviar ao Rei D. Manuel II a oferecer a joía à Rainha Augusta Vitória]]
+  * [[79272.txt|79272 - DC - Cópia do documento a enviar ao Rei D. Manuel II a oferecer a joía à Rainha Augusta Vitória]]

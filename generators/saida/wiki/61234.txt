@@ -1,0 +1,16 @@
+====== 61234 - DC - Carta para Elzira Dantas ======
+
+**Parent**:: 61233
+**RootParent**:: 60550
+**UnitTitle**:: Carta para Elzira Dantas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1942
+**ScopeContent**:: Carta datilografada sem data, de Américo Castro, advogado para Elzira Dantas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 128 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61234

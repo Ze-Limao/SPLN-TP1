@@ -1,0 +1,17 @@
+====== 58370 - DC - Carta ======
+
+**Parent**:: 58454
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-07-05
+**UnitDateFinal**:: 1910-07-05
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Contém minutas de cartas CP 7947A e CP 7497B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58370
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7947 - cx. 50
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=58370

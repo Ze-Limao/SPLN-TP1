@@ -1,0 +1,16 @@
+====== 25368 - DC - Ofício nº9 de Manuel Carvalho, comandante do Corpo Activo da AHBVF, dirigido ao Presidente da Direcção ======
+
+**Parent**:: 25076
+**RootParent**:: 20342
+**UnitTitle**:: Ofício nº9 de Manuel Carvalho, comandante do Corpo Activo da AHBVF, dirigido ao Presidente da Direcção
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929-05-17
+**UnitDateFinal**:: 1929-05-17
+**ScopeContent**:: Ofício sobre o plano de novos uniformes da corporação. Carta manuscrita em papel timbrado da associação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25368
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 174 - cx. 42
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25368

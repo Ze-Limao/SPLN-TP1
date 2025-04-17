@@ -1,0 +1,16 @@
+====== 61345 - DC - Carta ======
+
+**Parent**:: 60925
+**RootParent**:: 60550
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1940-05-17
+**UnitDateFinal**:: 1940-05-17
+**ScopeContent**:: Carta datilografada de Biarritz, Hotel Emilia, Rue Gambetta, 26.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 88 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61345

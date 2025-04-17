@@ -1,0 +1,14 @@
+====== 29568 - UI - C. Boulanger ======
+
+**Parent**:: 28715
+**RootParent**:: 27963
+**UnitTitle**:: C. Boulanger
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-07-15
+**UnitDateFinal**:: 1908-07-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29568
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29568
+
+===== Filhos =====
+  * [[29119.txt|29119 - DC - Rascunho de bilhete]]

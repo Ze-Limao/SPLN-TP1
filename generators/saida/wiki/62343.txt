@@ -1,0 +1,19 @@
+====== 62343 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - José Ferreira de Abreu e Maria Joaquina Novais, na freguesia
+Naturalidade - Gondifelos
+Morada - Gondifelos
+Data de nascimento - 1857-01-17
+Emprego - Criado de servir
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62343

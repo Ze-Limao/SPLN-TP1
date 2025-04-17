@@ -1,0 +1,16 @@
+====== 66600 - DC - Tarjetas com nomes dos remetentes das cartas do arquivo JAM ======
+
+**Parent**:: 22757
+**RootParent**:: 20290
+**UnitTitle**:: Tarjetas com nomes dos remetentes das cartas do arquivo JAM
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1998
+**ScopeContent**:: Tarjetas manuscritas com informação sobre os remetentes do arquivo de JAM que envolviam as cartas de cada remetente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30360
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1556 - cx. 17
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66600

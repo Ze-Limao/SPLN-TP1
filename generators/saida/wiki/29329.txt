@@ -1,0 +1,19 @@
+====== 29329 - DC - Para uso externo ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: Para uso externo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Escrita por Alberto Sampaio. Apresenta as quantidades de cada ingrediente e a seguinte recomendação: «Pede-se o favor de embrulhar o frasco num papel escuro». Tem carimbo "Pharmacia Lobo sucessor de J. P. de Faria, Santo Thyrso".
+Composição da receita: resorcina, água destilada e glicerina.
+«A resorcina (resorcinol) é um fármaco empregado em preparações tópicas, apresentando propriedades anti-sépticas, antifúngicas, antipruriginosas, exfoliativas e queratolíticas. A resorcina apresenta-se como um pó cristalino ou cristais incolores de cor levemente rosácea, com odor característico. É solúvel em 0,9 partes de água, 0,2 partes de água a 80 ºC e em 1 parte de álcool. […] A resorcina é um composto fenólico, estando susceptível à oxidação e à degradação pela exposição à luz. É recomendável que a resorcina seja armazenada em recipiente hermeticamente fechados e protegidos da luz.» 
+Fonte: https://pt.wikipedia.org/wiki/Resorcina
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29329
+**LangMaterial**:: Português
+**PhysLoc**:: AS 224 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29329

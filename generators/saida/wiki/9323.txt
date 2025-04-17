@@ -1,0 +1,19 @@
+====== 9323 - DC - Registo do recenseamento militar de Miguel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Miguel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Manuel de Azevedo Carneiro e Silva e Rosa Maria da Costa
+Naturalidade - Ribeirão
+Data de nascimento - 1877-12-26
+Profissão - Artista
+Estado civil - Solteiro
+Residência - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9323
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9323

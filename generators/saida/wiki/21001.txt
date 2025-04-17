@@ -1,0 +1,15 @@
+====== 21001 - DC - Nº 21/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 21/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-12-21
+**UnitDateFinal**:: 1962-12-21
+**ScopeContent**:: Contrato de adjudicação da obra de beneficiação de três fontes de mergulho nas freguesias de Pousada de Saramagos, Ruivães e Cruz
+Outorgante - Alberto Pereira Martins
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21001
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 78
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21001

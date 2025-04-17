@@ -1,0 +1,15 @@
+====== 25000 - UI - Livro de Actas do Conselho Disciplinar ======
+
+**Parent**:: 20363
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Actas do Conselho Disciplinar
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893-01-01
+**UnitDateFinal**:: 1926-11-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25000
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 103
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25000

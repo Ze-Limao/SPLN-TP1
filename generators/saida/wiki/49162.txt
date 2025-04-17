@@ -1,0 +1,18 @@
+====== 49162 - DC - Registo do recenseamento eleitoral de Felisberto José de Faria ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Felisberto José de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Estado - Casado
+Morada - Bragadela
+Idade - 60
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49162
+**LangMaterial**:: Português
+**PhysLoc**:: 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49162

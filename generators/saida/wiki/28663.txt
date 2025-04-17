@@ -1,0 +1,16 @@
+====== 28663 - DC - Foz do Douro (S. João da Foz) Lordelo ======
+
+**Parent**:: 28662
+**RootParent**:: 27963
+**UnitTitle**:: Foz do Douro (S. João da Foz) Lordelo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Notas de investigação alusivas às inquirições de D. Afonso III (1258) na Foz do Douro, Lordelo e Nevogilde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28663
+**LangMaterial**:: Português
+**PhysLoc**:: AS 117 (1) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28663

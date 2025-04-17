@@ -1,0 +1,15 @@
+====== 8000 - DC - Termo de Manuel José da Costa Júnior ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel José da Costa Júnior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-27
+**UnitDateFinal**:: 1867-02-27
+**ScopeContent**:: Ampliação de uma mina de água
+Local - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8000
+**LangMaterial**:: Português
+**PhysLoc**:: f. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8000

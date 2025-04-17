@@ -1,0 +1,18 @@
+====== 8891 - DC - Termo do exame de José Carvalho Tinoco ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José Carvalho Tinoco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-18
+**UnitDateFinal**:: 1894-07-18
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - António Carvalho Tinoco
+Naturalidade - Gavião
+Classificação - Distinto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8891
+**LangMaterial**:: Português
+**PhysLoc**:: f. 58
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8891

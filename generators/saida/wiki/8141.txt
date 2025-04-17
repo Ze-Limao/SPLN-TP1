@@ -1,0 +1,18 @@
+====== 8141 - DC - Joaquim Carneiro de Azevedo Costa ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Carneiro de Azevedo Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-02-13
+**UnitDateFinal**:: 1892-05-11
+**ScopeContent**:: Escola - Vila Nova de Famalicão. Complementar masculina
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Fradelos
+Data de posse - 1886-02-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8141
+**LangMaterial**:: Português
+**PhysLoc**:: f. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8141

@@ -1,0 +1,15 @@
+====== 97822 - UI - Processo nº 44-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 44-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1983-04-08
+**UnitDateFinal**:: 1983-07-20
+**ScopeContent**:: Junto com Autos de Transgressão nº 44.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 546 - cx. 32
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97822

@@ -1,0 +1,16 @@
+====== 21919 - DC - Carta ======
+
+**Parent**:: 21197
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-09-01
+**UnitDateFinal**:: 1897-09-01
+**ScopeContent**:: José da Cunha Sampaio faz um pedido de proteção para o caso constante num requerimento dirigido à Câmara de vários habitantes da freguesia de Cabeçudos. Carta manuscrita assinada, Casa de Boamense.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21919
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 767 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21919

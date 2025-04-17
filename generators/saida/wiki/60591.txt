@@ -1,0 +1,14 @@
+====== 60591 - SR - Documentos ======
+
+**Parent**:: 31369
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1850
+**UnitDateFinal**:: 1858
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31370
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60591
+
+===== Filhos =====
+  * [[60592.txt|60592 - DC - Conde de Villa Real, Stº Antonio do Estoril Cascaes]]

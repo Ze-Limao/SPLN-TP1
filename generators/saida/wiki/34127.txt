@@ -1,0 +1,19 @@
+====== 34127 - DC - Registo do recenseamento militar de Manuel Marques ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Telhado
+Data de nascimento - 1853-01-19
+Filiação - Manuel Marques e Maria de Sousa
+Profissão - Criado de servir
+Estado - Solteiro
+Morada - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34127
+**LangMaterial**:: Português
+**PhysLoc**:: 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34127

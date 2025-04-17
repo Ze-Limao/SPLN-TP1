@@ -1,0 +1,16 @@
+====== 24290 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-08-18
+**UnitDateFinal**:: 1918-08-18
+**ScopeContent**:: António Cabral confirma que recebeu a carta que referia a chegada dos retratos e que é pena que já não hajam retratos inéditos de Camilo. Refere que só se interessa pela “república das letras” porque a outra não lhe interessa e combate-a, defendendo as doutrinas da Igreja. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24290
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 126 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24290

@@ -1,0 +1,16 @@
+====== 29188 - DC - Sementeira de pereiras ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Sementeira de pereiras
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-02-11
+**UnitDateFinal**:: 1907-02-11
+**ScopeContent**:: Identificação das variedades de pevides de peras semeadas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29188
+**LangMaterial**:: Português
+**PhysLoc**:: AS 303 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29188

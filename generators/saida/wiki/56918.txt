@@ -1,0 +1,14 @@
+====== 56918 - SSSC - Negócios ======
+
+**Parent**:: 31331
+**RootParent**:: 31258
+**UnitTitle**:: Negócios
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1933
+**UnitDateFinal**:: 1934-11-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56918
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56918
+
+===== Filhos =====
+  * [[56919.txt|56919 - SR - Documentos]]

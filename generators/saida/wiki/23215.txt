@@ -1,0 +1,16 @@
+====== 23215 - DC - Registo do recenseamento eleitoral de António Alves Pacheco de Abreu ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Alves Pacheco de Abreu
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Riba de Ave
+Profissão - Lavrador
+Morada - Sobreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23215
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23215

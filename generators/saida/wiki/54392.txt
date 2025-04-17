@@ -1,0 +1,18 @@
+====== 54392 - UI - António Vasco de Melo da Silva César e Meneses ======
+
+**Parent**:: 31319
+**RootParent**:: 31258
+**UnitTitle**:: António Vasco de Melo da Silva César e Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880
+**UnitDateFinal**:: 1880-02-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54392
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54392
+
+===== Filhos =====
+  * [[54393.txt|54393 - DC - Envelope]]
+  * [[54394.txt|54394 - DC - Carta]]
+  * [[54395.txt|54395 - DC - Carta]]
+  * [[54396.txt|54396 - DC - Carta]]
+  * [[54397.txt|54397 - DC - Carta]]

@@ -1,0 +1,17 @@
+====== 61547 - DC - Ano Rotário 92-93 ======
+
+**Parent**:: 61444
+**RootParent**:: 60551
+**UnitTitle**:: Ano Rotário 92-93
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1992
+**UnitDateFinal**:: 1993
+**ScopeContent**:: Contém quadro social, rotação de tarefas, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 259 (1) a (3) - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61547

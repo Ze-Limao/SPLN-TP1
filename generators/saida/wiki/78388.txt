@@ -1,0 +1,17 @@
+====== 78388 - DC - Paga que dá António Pereira e sua mulher Josefa Maria Portillo a Teodósio de Andrade Magalhães e ao padre Gregório Portillo de Magalhães da quantia de 400.000 reis com que os segundos dotaram a primeira outorgante ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Paga que dá António Pereira e sua mulher Josefa Maria Portillo a Teodósio de Andrade Magalhães e ao padre Gregório Portillo de Magalhães da quantia de 400.000 reis com que os segundos dotaram a primeira outorgante
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1722
+**UnitDateFinal**:: 1722
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5004 - cx. 36
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78388

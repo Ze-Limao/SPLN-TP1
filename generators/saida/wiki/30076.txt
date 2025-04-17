@@ -1,0 +1,14 @@
+====== 30076 - DC - Ary José Machado Sampaio ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Ary José Machado Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1969-10-03
+**UnitDateFinal**:: 1969-10-03
+**ScopeContent**:: Regedor efetivo da freguesia de Riba de Ave
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30076
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30076

@@ -1,0 +1,19 @@
+====== 21231 - UI - Manuel Guimarães Pestana e Silva ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Manuel Guimarães Pestana e Silva
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-02-01
+**UnitDateFinal**:: 1920-11-21
+**ScopeContent**:: Manuel Duarte Guimarães Pestana e Silva nasceu circa 1865. Foi casado com Maria do Carmo Forbes de Magalhães e teve um filho Antonio Maria Bartolomeu Guimarães Pestana de Magalhães .
+Fonte: Geni.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21231
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 949, 950
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21231
+
+===== Filhos =====
+  * [[26154.txt|26154 - DC - Carta]]
+  * [[26155.txt|26155 - DC - Carta]]

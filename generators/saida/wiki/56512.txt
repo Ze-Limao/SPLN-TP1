@@ -1,0 +1,17 @@
+====== 56512 - DC - Recibo ca Casa Alentejana Bernardo J. Naia ======
+
+**Parent**:: 54529
+**RootParent**:: 31258
+**UnitTitle**:: Recibo ca Casa Alentejana Bernardo J. Naia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1915
+**ScopeContent**:: Este recibo está no maço junto de CP 10714 a CP 10742, referente a despesas da estadia de João Afonso em Lisboa, de 1913 a 1919.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56512
+**LangMaterial**:: Português
+**PhysLoc**:: CP 10717 - cx. 62
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56512

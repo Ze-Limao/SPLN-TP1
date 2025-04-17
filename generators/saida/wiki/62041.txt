@@ -1,0 +1,20 @@
+====== 62041 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Clemente José dos Reis e Narcisa Rosa, na freguesia
+Naturalidade - Lousado
+Morada - 
+Data de nascimento - 1861-05-09
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62041

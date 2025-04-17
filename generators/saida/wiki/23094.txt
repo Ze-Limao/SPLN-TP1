@@ -1,0 +1,16 @@
+====== 23094 - DC - Carta ======
+
+**Parent**:: 20335
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928-05-01
+**UnitDateFinal**:: 1928-05-01
+**ScopeContent**:: Alberto de Gusmão Navarro refere o atraso da última carta que lhe foi enviada porque foi para o endereço da Livraria Férin, mas não impede a publicação do artigo no próximo número do Tombo. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23094
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 19  - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23094

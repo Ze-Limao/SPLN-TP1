@@ -1,0 +1,16 @@
+====== 30154 - DC - Carta ======
+
+**Parent**:: 21359
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1914
+**ScopeContent**:: Carta manuscrita assinada, sem menção a data. O autor fala da Bolsa Integralista e do reaparecimento em breve do jornal A Monarquia, e do futuro para o Centro Católico.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30154
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1292 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30154

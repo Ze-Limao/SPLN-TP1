@@ -1,0 +1,16 @@
+====== 24015 - DC - Carta ======
+
+**Parent**:: 21058
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-11-11
+**UnitDateFinal**:: 1898-11-11
+**ScopeContent**:: A. A. da Rocha Páris refere a venda de propriedades. Carta manuscrita assinada, Viana.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24015
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 99 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24015

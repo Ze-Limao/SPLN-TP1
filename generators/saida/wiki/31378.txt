@@ -1,0 +1,16 @@
+====== 31378 - SSC - Anselmo de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31371
+**RootParent**:: 31258
+**UnitTitle**:: Anselmo de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1923
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31378
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31378
+
+===== Filhos =====
+  * [[31379.txt|31379 - SR - Correspondência recebida]]
+  * [[60595.txt|60595 - SR - Documentos]]
+  * [[60620.txt|60620 - SR - Correspondência enviada]]

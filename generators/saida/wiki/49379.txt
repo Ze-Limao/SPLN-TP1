@@ -1,0 +1,18 @@
+====== 49379 - DC - Registo do recenseamento eleitoral de Francisco José do Rego ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco José do Rego
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vale S. Martinho
+Profissão - Lavrador
+Estado - Casado
+Morada - Paço
+Idade - 40
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49379
+**LangMaterial**:: Português
+**PhysLoc**:: 80v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49379

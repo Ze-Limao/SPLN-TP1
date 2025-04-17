@@ -1,0 +1,17 @@
+====== 55141 - DC - Carta ======
+
+**Parent**:: 55109
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-05-13
+**UnitDateFinal**:: 1907-05-13
+**ScopeContent**:: Carta manuscrita de Lisboa. Papel timbrado "Braganza Hotel. Lisbon".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55141
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13497 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55141

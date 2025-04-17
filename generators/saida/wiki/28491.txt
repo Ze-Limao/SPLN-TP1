@@ -1,0 +1,16 @@
+====== 28491 - DC - Valor do marco de ouro e de prata no tempo de D. Fernando, pg. 31 ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Valor do marco de ouro e de prata no tempo de D. Fernando, pg. 31
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Sobre o valor da moeda em circulação nos reinados de D. Sancho I e D. Sancho II ver nota 1 do estudo O Norte Marítimo (Estudos Históricos e Económicos, ed. 1923, p. 346). Alberto Sampaio suportou-se na obra do historiador António da Costa Lobo (1840-1913), História da Sociedade em Portugal no século XV.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28491
+**LangMaterial**:: Português
+**PhysLoc**:: AS 81 - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28491

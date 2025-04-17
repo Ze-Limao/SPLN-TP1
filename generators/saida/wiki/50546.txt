@@ -1,0 +1,18 @@
+====== 50546 - DC - Registo do recenseamento militar de Libório Luís ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Libório Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-09-21
+Filiação - Mariana de Oliveira
+Naturalidade - Vale S. Martinho
+Profissão - Criado de servir
+Residência - Requião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50546
+**LangMaterial**:: Português
+**PhysLoc**:: 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50546

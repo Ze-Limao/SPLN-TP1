@@ -1,0 +1,16 @@
+====== 28105 - DC - 1875 Ensaio sobre a densidade do mosto das uvas da vinha, feita com o gleuco-oenometro ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1875 Ensaio sobre a densidade do mosto das uvas da vinha, feita com o gleuco-oenometro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-09-04
+**UnitDateFinal**:: 1875-09-27
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Diversas informações sobre a vindima de 1875 e à produção do vinho. Indicação dos dias de vindima das várias castas, densidade dos respetivos mostos e temperatura a que foi feito o ensaio. Informação detalhada sobre as várias fases de produção do vinho, parte do qual se destinou a exportação para o mercado brasileiro: «Juntou-se ao bastardo um cesto de uvas = Fraga =, pisou-se durante 10 horas no dia 8 […]. No dia 10 de tarde com uma temperatura de 23 c., e quando o mosto marcava 2 ½ no glucoenometro foi o vinho decuvado; produziu 5 almudes, aos quais se adicionaram 3 litros de aguardente. […] No dia 17 de tarde marcava ½ no glucoenometro, apresentando o paladar de vinho adamado; dei-lhe uma trasfega sobre gás sulfuroso, e adicionei-lhe 1 litro de aguardente. A fermentação não cessou completamente (talvez a operação não fosse bem dirigida), mas nos dias 18 e 19 mal se pressentia, e no dia 22 tinha terminado completamente, apresentando o vinho ainda um paladar adamado. […]».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28105
+**LangMaterial**:: Português
+**PhysLoc**:: AS 378 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28105

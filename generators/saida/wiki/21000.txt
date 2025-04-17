@@ -1,0 +1,15 @@
+====== 21000 - DC - Nº  20/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº  20/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-12-20
+**UnitDateFinal**:: 1962-12-20
+**ScopeContent**:: Contrato de fornecimento de cinquenta contadores volumétricos para água
+Outorgante - Madureira & Soares, Lda.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21000
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21000

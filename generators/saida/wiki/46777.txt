@@ -1,0 +1,24 @@
+====== 46777 - UI - Isabel de Saldanha da Gama ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Isabel de Saldanha da Gama
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46777
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46777
+
+===== Filhos =====
+  * [[46778.txt|46778 - DC - Carta]]
+  * [[46779.txt|46779 - DC - Carta]]
+  * [[46780.txt|46780 - DC - Carta]]
+  * [[46781.txt|46781 - DC - Carta]]
+  * [[46782.txt|46782 - DC - Carta]]
+  * [[46783.txt|46783 - DC - Carta]]
+  * [[46784.txt|46784 - DC - Carta]]
+  * [[46785.txt|46785 - DC - Carta]]
+  * [[46786.txt|46786 - DC - Carta]]

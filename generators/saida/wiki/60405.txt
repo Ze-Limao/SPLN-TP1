@@ -1,0 +1,17 @@
+====== 60405 - DC - Recibo de L. Xavier Costa ======
+
+**Parent**:: 54567
+**RootParent**:: 31258
+**UnitTitle**:: Recibo de L. Xavier Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-03-31
+**UnitDateFinal**:: 1917-03-31
+**ScopeContent**:: Recibo de L. Xavier Costa oftalmologista, em papel timbrado selado e assinado, de Lisboa, em nome de a Condessa de Arnoso, referente à consulta de João Afonso Pinheiro de Melo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54568
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3844 - cx. 29
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60405

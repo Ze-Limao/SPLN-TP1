@@ -1,0 +1,18 @@
+====== 20126 - UI - Copiador da correspondência expedida ======
+
+**Parent**:: 20123
+**RootParent**:: 20048
+**UnitTitle**:: Copiador da correspondência expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-03-01
+**UnitDateFinal**:: 1921-10-13
+**ScopeContent**:: Não tem termo de abertura. Copiador de ofícios nº 364/1921 a nº 884/1921.
+Contém:
+Cópia Circular Secretaria da Administração do concelho dirigida ao Regedor da freguesia, 1927-07-08, 1 f. policopiada; papel.
+Requerimento ao Administrador do concelho de Famalicão, 1928-11-27, 1 f.; papel
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20126
+**LangMaterial**:: Português
+**PhysLoc**:: AC 62
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20126

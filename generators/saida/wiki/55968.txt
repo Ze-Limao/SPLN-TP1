@@ -1,0 +1,17 @@
+====== 55968 - DC - Capa Tratado do Comércio e vinhos. Instruções ao Conde de Tatenbach ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Capa Tratado do Comércio e vinhos. Instruções ao Conde de Tatenbach
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Capa "T. do Comercio e vinhos. Instrucções ao C. de Tatenbach".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55968
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14577 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55968

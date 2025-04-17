@@ -1,0 +1,18 @@
+====== 99336 - UI - António Magalhães ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: António Magalhães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-12-10
+**UnitDateFinal**:: 1916-02-16
+**ScopeContent**:: Químico consultor, do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99336
+
+===== Filhos =====
+  * [[99337.txt|99337 - DC - Carta]]
+  * [[99347.txt|99347 - DC - Carta]]
+  * [[99353.txt|99353 - DC - Carta]]
+  * [[99458.txt|99458 - DC - Carta]]

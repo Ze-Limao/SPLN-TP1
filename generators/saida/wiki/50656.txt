@@ -1,0 +1,18 @@
+====== 50656 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 1842-09-11
+Filiação - Maria Pereira
+Naturalidade - Cavalões
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50656
+**LangMaterial**:: Português
+**PhysLoc**:: 102v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50656

@@ -1,0 +1,18 @@
+====== 8678 - DC - Termo do exame de Lino Marques da Silva ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Lino Marques da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-19
+**UnitDateFinal**:: 1890-08-19
+**ScopeContent**:: Grau - Elementar
+Idade - 8
+Filiação -Joaquim Lourenço da Silva 
+Naturalidade - Esmeriz
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8678
+**LangMaterial**:: Português
+**PhysLoc**:: f. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8678

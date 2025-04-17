@@ -1,0 +1,15 @@
+====== 80562 - UI - Processo nº 119 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 119
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-02-16
+**UnitDateFinal**:: 1980-04-22
+**ScopeContent**:: Junto com Autos de Execução por Custas nº 142, Autos de Execução de Reclamação de Créditos nº 119/B, Embargos de Terceiro nº 119-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 206 - cx. 11
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80562

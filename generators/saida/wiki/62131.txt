@@ -1,0 +1,19 @@
+====== 62131 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Emília Correia, ignora-se
+Naturalidade - Lagoa
+Morada - Ignora-se
+Data de nascimento - 1861-07-10
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62131

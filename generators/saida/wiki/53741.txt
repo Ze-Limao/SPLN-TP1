@@ -1,0 +1,14 @@
+====== 53741 - SSC - Edifícios Municipais ======
+
+**Parent**:: 53740
+**RootParent**:: 7651
+**UnitTitle**:: Edifícios Municipais
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1882-11-20
+**UnitDateFinal**:: 2011-08-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53741
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53741
+
+===== Filhos =====
+  * [[78829.txt|78829 - SSSC - Edifícios Câmara Municipal de Vila Nova de Famalicão]]

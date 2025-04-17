@@ -1,0 +1,15 @@
+====== 99480 - UI - Alves de Magalhães ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Alves de Magalhães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916
+**UnitDateFinal**:: 1917
+**ScopeContent**:: Penafiel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99480
+
+===== Filhos =====
+  * [[99481.txt|99481 - DC - Carta]]

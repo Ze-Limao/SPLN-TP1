@@ -1,0 +1,17 @@
+====== 32404 - DC - Cartão de visita ======
+
+**Parent**:: 32403
+**RootParent**:: 31258
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Cartão de visita de luto manuscrito e impresso com os nomes do casal. Cartão de agradecimento. Cartão sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32404
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3094 - cx. 24
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32404

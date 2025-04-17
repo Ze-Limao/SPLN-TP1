@@ -1,0 +1,14 @@
+====== 9980 - DC - Registo do pagamento a António Rodrigues da Fonseca ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a António Rodrigues da Fonseca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-23
+**UnitDateFinal**:: 1882-03-23
+**ScopeContent**:: Aquisição de mobília para o novo edifício dos Paços do Concelho e repartições públicas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9980
+**LangMaterial**:: Português
+**PhysLoc**:: f. 5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9980

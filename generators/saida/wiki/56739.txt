@@ -1,0 +1,14 @@
+====== 56739 - UI - Maria Lívia Ferrari Schindler ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Maria Lívia Ferrari Schindler
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1929-09-08
+**UnitDateFinal**:: 1929-09-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56739
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56739
+
+===== Filhos =====
+  * [[56740.txt|56740 - DC - Carta]]

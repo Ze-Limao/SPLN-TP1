@@ -1,0 +1,19 @@
+====== 34235 - DC - Registo do recenseamento militar de Remígio Pereira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Remígio Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Cruz
+Data de nascimento - 1852-03-22
+Filiação - Manuel da Costa Pereira e Mariana de Oliveira
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34235
+**LangMaterial**:: Português
+**PhysLoc**:: 75v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34235

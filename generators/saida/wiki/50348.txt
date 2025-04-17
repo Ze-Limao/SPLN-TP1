@@ -1,0 +1,17 @@
+====== 50348 - UI - Joaquim Correia Lança ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Joaquim Correia Lança
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886
+**UnitDateFinal**:: 1892
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50348
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50348
+
+===== Filhos =====
+  * [[50349.txt|50349 - DC - Carta]]
+  * [[50350.txt|50350 - DC - Carta]]
+  * [[50351.txt|50351 - DC - Carta]]
+  * [[50352.txt|50352 - DC - Carta]]

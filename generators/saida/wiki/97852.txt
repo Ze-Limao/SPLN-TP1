@@ -1,0 +1,15 @@
+====== 97852 - UI - Processo nº 267 ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 267
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1965-09-28
+**UnitDateFinal**:: 1969-03-31
+**ScopeContent**:: Junto com Autos de Transgressão nº 380.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 571 - cx. 33
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97852

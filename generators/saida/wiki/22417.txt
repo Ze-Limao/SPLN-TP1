@@ -1,0 +1,16 @@
+====== 22417 - DC - Carta ======
+
+**Parent**:: 21199
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-06-10
+**UnitDateFinal**:: 1890-06-10
+**ScopeContent**:: Carta manuscrita assinada, de Guimarães. José de Freitas Costa refere que os jornais noticiam o aparecimento de uma senhora que diz ser filha de Camilo Castelo Branco. (Carta datada nove dias depois da morte de Camilo Castelo Branco). Essa filha é Bernardina Amélia, filha de Patrícia Emília de Barros e de Camilo Castelo Branco. Nuno Plácido Castelo Branco teimava em não reconhecer a paternidade de Camilo e escreveu o opúsculo "Protesto contra a suposta filha de Camilo Castelo Branco".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22417
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 775 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22417

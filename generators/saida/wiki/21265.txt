@@ -1,0 +1,20 @@
+====== 21265 - UI - Sebastião Pereira da Cunha ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Sebastião Pereira da Cunha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885
+**UnitDateFinal**:: 1896-04-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21265
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1030, 1031, 1032, 1033
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21265
+
+===== Filhos =====
+  * [[27937.txt|27937 - DC - Carta]]
+  * [[27938.txt|27938 - DC - Carta]]
+  * [[27939.txt|27939 - DC - Carta]]
+  * [[27940.txt|27940 - DC - Poema]]

@@ -1,0 +1,16 @@
+====== 30184 - DC - Carta ======
+
+**Parent**:: 21366
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-07-16
+**UnitDateFinal**:: 1907-07-16
+**ScopeContent**:: Carta manuscrita e assinada. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30184
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1317 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30184

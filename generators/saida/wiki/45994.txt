@@ -1,0 +1,18 @@
+====== 45994 - DC - Registo do recenseamento eleitoral de Lázaro António Pereira ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Lázaro António Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Esmeriz
+Profissão - Lavrador
+Estado - Casado
+Morada - Pereira
+Idade - 43
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45994
+**LangMaterial**:: Português
+**PhysLoc**:: 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45994

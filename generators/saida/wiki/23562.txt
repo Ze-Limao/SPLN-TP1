@@ -1,0 +1,16 @@
+====== 23562 - DC - Registo do recenseamento eleitoral de José António da Costa ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vale S. Cosme
+Profissão - Lavrador
+Morada - Lourido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23562
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 77v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23562

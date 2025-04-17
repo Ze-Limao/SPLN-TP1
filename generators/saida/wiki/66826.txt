@@ -1,0 +1,13 @@
+====== 66826 - UI - Luís Polo de Bernabé ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Luís Polo de Bernabé
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56771
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66826
+
+===== Filhos =====
+  * [[32410.txt|32410 - DC - Carta]]
+  * [[66828.txt|66828 - DC - Carta da mulher de Luís Polo de Bernabé]]

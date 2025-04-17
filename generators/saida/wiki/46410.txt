@@ -1,0 +1,18 @@
+====== 46410 - DC - Registo do recenseamento eleitoral de João Pereira Gomes Rosas ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Pereira Gomes Rosas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Louro
+Profissão - Eclesiástico
+Estado - Solteiro
+Morada - Residência
+Idade - 25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46410
+**LangMaterial**:: Português
+**PhysLoc**:: 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46410

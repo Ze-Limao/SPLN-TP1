@@ -1,0 +1,21 @@
+====== 54647 - UI - Pedro Lobo de Sousa Machado Cardoso de Meneses e e Maria Margarida de Melo Sampaio ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Pedro Lobo de Sousa Machado Cardoso de Meneses e e Maria Margarida de Melo Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1892-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54647
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54647
+
+===== Filhos =====
+  * [[54648.txt|54648 - DC - Carta para Viscondes de Pindela]]
+  * [[54698.txt|54698 - DC - Carta para Viscondes de Pindela]]
+  * [[54699.txt|54699 - DC - Carta]]
+  * [[54700.txt|54700 - DC - Carta para Viscondes de Pindela]]
+  * [[54701.txt|54701 - DC - Carta para Viscondes de Pindela]]
+  * [[54702.txt|54702 - DC - Carta para Viscondes de Pindela]]
+  * [[54703.txt|54703 - DC - Carta para Viscondes]]
+  * [[54704.txt|54704 - DC - Telegrama para Viscondes]]

@@ -1,0 +1,16 @@
+====== 29512 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881-12-15
+**UnitDateFinal**:: 1881-12-15
+**ScopeContent**:: Carta expedida de Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29512
+**LangMaterial**:: Português
+**PhysLoc**:: AS 753 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29512

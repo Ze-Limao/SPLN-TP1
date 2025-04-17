@@ -1,0 +1,15 @@
+====== 66531 - DC - Pedido de licença de matrimónio de Bento Rodrigues, da freguesia com Joaquina Maria, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de matrimónio de Bento Rodrigues, da freguesia com Joaquina Maria, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-01-05
+**UnitDateFinal**:: 1862-01-05
+**ScopeContent**:: Manuscrito, original, em papel azul “XL 40 reis”. Em baixo o deferimento do coadjutor Bernardo Dias Ribeiro, de S. Tiago de Antas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 552 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66531

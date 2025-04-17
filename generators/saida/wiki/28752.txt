@@ -1,0 +1,14 @@
+====== 28752 - UI - António de Azevedo Castelo Branco ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: António de Azevedo Castelo Branco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-11-10
+**UnitDateFinal**:: 1899-11-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28752
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28752
+
+===== Filhos =====
+  * [[28753.txt|28753 - DC - Carta]]

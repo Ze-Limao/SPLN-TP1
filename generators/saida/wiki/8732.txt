@@ -1,0 +1,18 @@
+====== 8732 - DC - Termo do exame de Adriano José de Sampaio ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Adriano José de Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-14
+**UnitDateFinal**:: 1891-07-14
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - Manuel Joaquim de Sampaio
+Naturalidade - Cabeçudos
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8732
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8732

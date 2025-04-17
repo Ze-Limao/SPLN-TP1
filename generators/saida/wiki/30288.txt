@@ -1,0 +1,16 @@
+====== 30288 - DC - Carta ======
+
+**Parent**:: 21451
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-05-20
+**UnitDateFinal**:: 1921-05-20
+**ScopeContent**:: Joaquim Pais de Vilas Boas agradece a oferta do livro Camilo Homenageado. Carta manuscrita e assinada, de Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30288
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1448 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30288

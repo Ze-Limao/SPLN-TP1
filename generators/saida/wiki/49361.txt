@@ -1,0 +1,18 @@
+====== 49361 - DC - Registo do recenseamento eleitoral de José Mendes da Silva ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Mendes da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Telhado
+Profissão - Lavrador
+Estado - Casado
+Morada - Souto
+Idade - 60
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49361
+**LangMaterial**:: Português
+**PhysLoc**:: 79v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49361

@@ -1,0 +1,16 @@
+====== 21715 - DC - Registo do recenseamento eleitoral de Manuel Ferreira de Mesquita ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Ferreira de Mesquita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Aves
+Profissão - Moleiro
+Morada - Romão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21715
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21715

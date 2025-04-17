@@ -1,0 +1,16 @@
+====== 7864 - UI - Livro de Actas da Câmara Municipal Nº 80 ======
+
+**Parent**:: 7654
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Actas da Câmara Municipal Nº 80
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1963-08-02
+**UnitDateFinal**:: 1964-02-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7864
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 451
+depósito 2, estante 18
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7864

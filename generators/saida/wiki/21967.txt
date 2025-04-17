@@ -1,0 +1,16 @@
+====== 21967 - DC - Carta ======
+
+**Parent**:: 21086
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-12-16
+**UnitDateFinal**:: 1924-12-16
+**ScopeContent**:: Refere que para organizar o número religioso do programa no Porto precisa de saber se Camilo foi assistido por algum padre nos últimos momentos e se teve enterro religioso. Solicita ainda que a narrativa seja assinada por três padres “seria ouro sobre azul”. Se isto acontecer seria um esplêndido número para o programa já que o Bispo tem vontade de ser agradável.  Carta datilografada, com carimbo de confidencial, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21967
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 321 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21967

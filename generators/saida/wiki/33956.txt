@@ -1,0 +1,19 @@
+====== 33956 - DC - António de Magalhães ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: António de Magalhães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Joane
+Data de nascimento - 1852-02-28
+Filiação - Inácio de Magalhães e Quitéria Cardoso
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33956
+**LangMaterial**:: Português
+**PhysLoc**:: 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33956

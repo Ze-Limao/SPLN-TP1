@@ -1,0 +1,14 @@
+====== 30018 - DC - António Máximo de Sá Costa Reis ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: António Máximo de Sá Costa Reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1955-09-21
+**UnitDateFinal**:: 1955-09-21
+**ScopeContent**:: Regedor efetivo da freguesia de Lousado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30018
+**LangMaterial**:: Português
+**PhysLoc**:: f. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30018

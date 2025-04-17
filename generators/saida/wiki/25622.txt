@@ -1,0 +1,16 @@
+====== 25622 - DC - Carta ======
+
+**Parent**:: 21178
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-06-20
+**UnitDateFinal**:: 1906-06-20
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25622
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 575 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25622

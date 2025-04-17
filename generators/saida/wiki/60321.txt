@@ -1,0 +1,14 @@
+====== 60321 - UI - António Vasco de Melo da Silva César e Meneses e Berta Munró dos Anjos ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: António Vasco de Melo da Silva César e Meneses e Berta Munró dos Anjos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-06-30
+**UnitDateFinal**:: 1913-06-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60321
+
+===== Filhos =====
+  * [[60326.txt|60326 - DC - Postal ilustrado]]

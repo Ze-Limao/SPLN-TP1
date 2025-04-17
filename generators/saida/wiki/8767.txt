@@ -1,0 +1,18 @@
+====== 8767 - DC - Termo do exame de Cacilda Carminda de Oliveira Santos ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Cacilda Carminda de Oliveira Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-18
+**UnitDateFinal**:: 1891-07-18
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Incógnita
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8767
+**LangMaterial**:: Português
+**PhysLoc**:: f. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8767

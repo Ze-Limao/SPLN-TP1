@@ -1,0 +1,19 @@
+====== 33924 - UI - Maria José Machado Castelo Branco ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria José Machado Castelo Branco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-07-11
+**UnitDateFinal**:: 1913-07-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33924
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33924
+
+===== Filhos =====
+  * [[33925.txt|33925 - DC - Carta]]
+  * [[33926.txt|33926 - DC - Carta]]

@@ -1,0 +1,19 @@
+====== 34338 - DC - Registo do recenseamento militar de José Dinis ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Dinis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Calendário
+Data de nascimento - 1852-03-18
+Filiação - Joaquim Dinis e Ana Luísa Pinheiro
+Profissão - 
+Estado - 
+Morada - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34338
+**LangMaterial**:: Português
+**PhysLoc**:: 101v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34338

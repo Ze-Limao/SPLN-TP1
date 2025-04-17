@@ -1,0 +1,24 @@
+====== 28524 - DC - Notas de investigação sobre povoações costeiras ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas de investigação sobre povoações costeiras
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28524
+**LangMaterial**:: Português
+**PhysLoc**:: AS 91 (1) a 91 (8)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28524
+
+===== Filhos =====
+  * [[28525.txt|28525 - DC - Manuel Pimentel]]
+  * [[28526.txt|28526 - DC - 1546 Pedro Galego]]
+  * [[28527.txt|28527 - DC - Em Pernambuco havia muita gente do Minho]]
+  * [[28528.txt|28528 - DC - Sobre a gente de Viana]]
+  * [[28529.txt|28529 - DC - Viana… seu porto]]
+  * [[28530.txt|28530 - DC - V. Fr. Luiz de Sousa]]
+  * [[28531.txt|28531 - DC - Fr. Luiz de Sousa: Vida de D. Fr. Bertolomeu dos Martyres]]
+  * [[28532.txt|28532 - DC - Carta de Luís de Figueiredo da Guerra a Alberto Sampaio]]

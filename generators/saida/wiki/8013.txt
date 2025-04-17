@@ -1,0 +1,15 @@
+====== 8013 - DC - Termo de José de Azevedo e Menezes Cardoso Barreto ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José de Azevedo e Menezes Cardoso Barreto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-10-22
+**UnitDateFinal**:: 1873-10-22
+**ScopeContent**:: Declaração de residência
+Local - Vila do Conde
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8013
+**LangMaterial**:: Português
+**PhysLoc**:: f. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8013

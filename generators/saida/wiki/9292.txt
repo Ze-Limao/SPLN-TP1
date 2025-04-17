@@ -1,0 +1,19 @@
+====== 9292 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Rodrigo Gonçalves Correia de Abreu e Amélia Rosa de Magalhães
+Naturalidade - Mogege
+Data de nascimento - 1877-08-23
+Profissão - Lavoura 
+Estado civil - Solteiro
+Residência - Mogege
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9292
+**LangMaterial**:: Português
+**PhysLoc**:: f. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9292

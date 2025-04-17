@@ -1,0 +1,19 @@
+====== 34270 - DC - Registo do recenseamento militar de Manuel Afonso ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Afonso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Gondifelos
+Data de nascimento - 1852-02-01
+Filiação - Francisco Bernardino Afonso e Ana Luísa
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Gondifelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34270
+**LangMaterial**:: Português
+**PhysLoc**:: 84v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34270

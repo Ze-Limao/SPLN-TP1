@@ -1,0 +1,18 @@
+====== 51121 - DC - Registo do recenseamento militar de Narciso ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Narciso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-04-12
+Filiação - João Pereira e Ana Martins Ribeiro
+Naturalidade - Aves
+Profissão - Caixeiro
+Residência - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51121
+**LangMaterial**:: Português
+**PhysLoc**:: 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51121

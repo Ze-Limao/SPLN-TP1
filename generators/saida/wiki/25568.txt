@@ -1,0 +1,16 @@
+====== 25568 - DC - Carta ======
+
+**Parent**:: 21147
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-10-19
+**UnitDateFinal**:: 1895-10-19
+**ScopeContent**:: Carta manuscrita assinada, da Quinta do  Paço de Ançariz - Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25568
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 521 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25568

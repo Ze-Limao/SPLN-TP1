@@ -1,0 +1,18 @@
+====== 47520 - DC - Registo do recenseamento eleitoral de João José Coelho Pereira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João José Coelho Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Aves
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Sobrado
+Idade - 46
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47520
+**LangMaterial**:: Português
+**PhysLoc**:: 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47520

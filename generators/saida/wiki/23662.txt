@@ -1,0 +1,16 @@
+====== 23662 - DC - Registo do recenseamento eleitoral de Joaquim Correia de Azevedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Correia de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vermoim
+Profissão - Lavrador
+Morada - Vinhó
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23662
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 81v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23662

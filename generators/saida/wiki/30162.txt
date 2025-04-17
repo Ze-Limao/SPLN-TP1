@@ -1,0 +1,16 @@
+====== 30162 - DC - Carta ======
+
+**Parent**:: 21409
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-10-26
+**UnitDateFinal**:: 1909-10-26
+**ScopeContent**:: Carta manuscrita e assinada. Papel timbrado "Germano da Silva. Rua da Padaria, 48 1º. Lisboa."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30162
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1382 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30162

@@ -1,0 +1,18 @@
+====== 8854 - DC - Termo do exame de Alfredo Gomes de Oliveira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Alfredo Gomes de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-03
+**UnitDateFinal**:: 1893-08-03
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Margarida Gomes de Oliveira
+Naturalidade - Nine
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8854
+**LangMaterial**:: Português
+**PhysLoc**:: F. 48
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8854

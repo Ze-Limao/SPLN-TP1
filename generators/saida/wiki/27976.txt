@@ -1,0 +1,15 @@
+====== 27976 - SSSC - Escrita de poesia ======
+
+**Parent**:: 27971
+**RootParent**:: 27963
+**UnitTitle**:: Escrita de poesia
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1864-01-12
+**UnitDateFinal**:: 1864-01-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27976
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27976
+
+===== Filhos =====
+  * [[28021.txt|28021 - DC - Maria]]
+  * [[29155.txt|29155 - DC - Janeiras]]

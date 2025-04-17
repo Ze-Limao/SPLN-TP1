@@ -1,0 +1,20 @@
+====== 20541 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Cruz
+Filiação - Joaquim da Costa e Felicidade Rosa
+Naturalidade - Cruz
+Data de nascimento - 1869-08-05
+Emprego - Estudante
+Estado - Solteiro
+Residência - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20541
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20541

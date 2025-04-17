@@ -1,0 +1,16 @@
+====== 61240 - DC - Daniel Rodrigues vestido com toga ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: Daniel Rodrigues vestido com toga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1912
+**ScopeContent**:: Reprodução de fotografia. Sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 189 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61240

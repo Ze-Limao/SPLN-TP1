@@ -1,0 +1,18 @@
+====== 8116 - DC - Maria das Dores da Costa e Sá ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Maria das Dores da Costa e Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-03-01
+**UnitDateFinal**:: 1884-12-24
+**ScopeContent**:: Escola - Vila Nova de Famalicão. Feminina
+Cargo - Professora
+Vínculo - Temporário
+Naturalidade - Vila Nova de Famalicão
+Data de posse - 1884-03-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8116
+**LangMaterial**:: Português
+**PhysLoc**:: f. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8116

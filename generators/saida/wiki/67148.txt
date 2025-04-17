@@ -1,0 +1,17 @@
+====== 67148 - DC - Folha datilografada pg. 21 ======
+
+**Parent**:: 56945
+**RootParent**:: 31258
+**UnitTitle**:: Folha datilografada pg. 21
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1930
+**UnitDateFinal**:: 1930
+**ScopeContent**:: Última folha datilografada de um documento. Sobre o preço de portagens, tráfego de produtos agrícolas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57008
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2727 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67148

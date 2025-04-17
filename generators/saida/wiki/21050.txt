@@ -1,0 +1,15 @@
+====== 21050 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7708
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1951-10-24
+**UnitDateFinal**:: 1951-10-24
+**ScopeContent**:: Empreitada da obra de adaptação do antigo edifício da cadeia comarcã a Albergue
+Outorgante - António Pinheiro da Silva
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21050
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 70
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21050

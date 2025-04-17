@@ -1,0 +1,16 @@
+====== 52410 - DC - Registo do recenseamento militar de Zeferino de Azevedo ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Zeferino de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1849-01-15
+Filiação - António José de Azevedo e Ana da Silva
+Naturalidade - Aves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52410
+**LangMaterial**:: Português
+**PhysLoc**:: 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52410

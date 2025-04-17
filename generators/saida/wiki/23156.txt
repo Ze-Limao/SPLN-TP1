@@ -1,0 +1,16 @@
+====== 23156 - DC - Carta ======
+
+**Parent**:: 21040
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-05-07
+**UnitDateFinal**:: 1918-05-07
+**ScopeContent**:: Alberto Pinheiro Torres pede para apoiar na regularização de uma letra que tem no Banco do Minho e que corresponde a uma dívida que contraiu no estrangeiro. Carta manuscrita assinada, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23156
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 45 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23156

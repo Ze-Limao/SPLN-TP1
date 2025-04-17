@@ -1,0 +1,14 @@
+====== 54590 - UI - Joaquim Tomás Lobo de Ávila ======
+
+**Parent**:: 31357
+**RootParent**:: 31258
+**UnitTitle**:: Joaquim Tomás Lobo de Ávila
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-07-22
+**UnitDateFinal**:: 1892-07-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54590
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54590
+
+===== Filhos =====
+  * [[54591.txt|54591 - DC - Telegrama]]

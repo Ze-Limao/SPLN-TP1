@@ -1,0 +1,13 @@
+====== 7733 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 9 ======
+
+**Parent**:: 7726
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Termos de Obrigação e Sujeição ao Município Nº 9
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1887-02-09
+**UnitDateFinal**:: 1889-08-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7733
+**LangMaterial**:: Português
+**PhysLoc**:: 1.76
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7733

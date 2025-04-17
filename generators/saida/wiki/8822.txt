@@ -1,0 +1,18 @@
+====== 8822 - DC - Termo do exame de Camilo de Sousa Cruz ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Camilo de Sousa Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-28
+**UnitDateFinal**:: 1893-07-28
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Manuel Joaquim de Sousa Cruz
+Naturalidade - Palmeira, Santo Tirso
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8822
+**LangMaterial**:: Português
+**PhysLoc**:: f. 40
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8822

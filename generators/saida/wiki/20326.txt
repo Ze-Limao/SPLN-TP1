@@ -1,0 +1,14 @@
+====== 20326 - UI - Registo de correspondência recebida nº11 ======
+
+**Parent**:: 20220
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº11
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1959-02-13
+**UnitDateFinal**:: 1959-09-25
+**ScopeContent**:: Termo de abertura impresso: “Neste livro, que contém duzentas folhas, todas elas numeradas e por mim rubricadas, se registará, exclusivamente, a correspondência recebida, nos precisos termos do nº9 do artº 137 do Código Administrativo e da Circ. da DGAPC nº L-4/11, Lv º 5-A, de 6-5-1951…”. Contém dados: nº de entrada, data de entrada e do documento, remetente ou signatário, assunto, expediente, observações. Inicia com o registo nº 312 até ao registo nº 1784.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20326
+**LangMaterial**:: Em regular estado de conservação. Encadernado a capas de cartão e lombada em couro.
+**PhysLoc**:: 560
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20326

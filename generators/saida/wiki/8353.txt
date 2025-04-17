@@ -1,0 +1,16 @@
+====== 8353 - UI - Carta ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Carta
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-08-03
+**UnitDateFinal**:: 1895-08-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8353
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.28
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8353
+
+===== Filhos =====
+  * [[8354.txt|8354 - DC - Carta]]

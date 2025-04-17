@@ -1,0 +1,18 @@
+====== 48207 - DC - Registo do recenseamento eleitoral de Domingos da Costa ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Lavrador
+Estado - Casado
+Morada - Vinha do Louro
+Idade - 34
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48207
+**LangMaterial**:: Português
+**PhysLoc**:: 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48207

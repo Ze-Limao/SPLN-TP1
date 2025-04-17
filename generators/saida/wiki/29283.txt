@@ -1,0 +1,16 @@
+====== 29283 - DC - Tinta de escrever ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Tinta de escrever
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Composição: noz de galha, vinho branco, goma-arábica, sulfato de ferro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29283
+**LangMaterial**:: Português
+**PhysLoc**:: AS 192 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29283

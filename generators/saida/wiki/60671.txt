@@ -1,0 +1,18 @@
+====== 60671 - F - Junta de Paróquia de Antas ======
+
+**Parent**:: 0
+**RootParent**:: 60671
+**UnitTitle**:: Junta de Paróquia de Antas
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1854-09-13
+**UnitDateFinal**:: 1876-10-08
+**ScopeContent**:: Faz parte deste fundo um livro de Recibos da Junta de Paróquia, do ano de 1878 a 1895, secção Serviços Financeiros, subsecção Contabilidade.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60671
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60671
+
+===== Filhos =====
+  * [[60672.txt|60672 - SC - Serviços Financeiros]]

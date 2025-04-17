@@ -1,0 +1,22 @@
+====== 20050 - SC - Serviço Militar ======
+
+**Parent**:: 20048
+**RootParent**:: 20048
+**UnitTitle**:: Serviço Militar
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1857-02-13
+**UnitDateFinal**:: 1918-12-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20050
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20050
+
+===== Filhos =====
+  * [[20152.txt|20152 - SR - Registo da expedição de guias para inspeção]]
+  * [[20154.txt|20154 - SR - Registo das guias conferidas para assentamento de praça]]
+  * [[20156.txt|20156 - SR - Mandados de pagamento para aboletamento de tropas]]
+  * [[20158.txt|20158 - SR - Caderneta militar]]
+  * [[20160.txt|20160 - SR - Pensões de guerra]]
+  * [[20162.txt|20162 - SR - Termos de fiança ao serviço militar]]
+  * [[20168.txt|20168 - SR - Recrutamento militar]]
+  * [[20185.txt|20185 - SR - Registo de soldados que passaram à reserva territorial]]

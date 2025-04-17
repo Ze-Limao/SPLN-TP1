@@ -1,0 +1,49 @@
+====== 29268 - SSSC - Preparação de aplicações diversas ======
+
+**Parent**:: 28063
+**RootParent**:: 27963
+**UnitTitle**:: Preparação de aplicações diversas
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29268
+**LangMaterial**:: Português, Inglês.
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29268
+
+===== Filhos =====
+  * [[29269.txt|29269 - DC - Betume para soldar tubos de barro: receita dos frades de Landim]]
+  * [[29270.txt|29270 - DC - Enceradura impermeavel para calçado]]
+  * [[29271.txt|29271 - DC - Un moyen simple pour rendre les chaussures imperméables]]
+  * [[29272.txt|29272 - DC - Untura para espingardas]]
+  * [[29273.txt|29273 - DC - Graisser les armes; Cirage imperméable pour la chassse au marais]]
+  * [[29274.txt|29274 - DC - Limpamento dos filtros de porcelana]]
+  * [[29275.txt|29275 - DC - Verniz de boneca que deixa a cor natural da madeira]]
+  * [[29276.txt|29276 - DC - Lacre]]
+  * [[29277.txt|29277 - DC - Crocus of iron]]
+  * [[29278.txt|29278 - DC - Bichromato de potassa]]
+  * [[29279.txt|29279 - DC - Cera para enxertos]]
+  * [[29282.txt|29282 - DC - Impermeabilidade dos tecidos]]
+  * [[29283.txt|29283 - DC - Tinta de escrever]]
+  * [[29284.txt|29284 - DC - Mr. Jean Sisley  - deu no ultimo numero de Revue Horticule a segte formula para o fabrico de tinta indelevel]]
+  * [[29285.txt|29285 - DC - Para tornar o couro impermeável]]
+  * [[29286.txt|29286 - DC - Cimento hydraulico]]
+  * [[29287.txt|29287 - DC - Para o preparado derrete-se o colophane]]
+  * [[29288.txt|29288 - DC - Glazing is a process of grinding]]
+  * [[29289.txt|29289 - DC - Diz-se que os percevejos têm horror ao petróleo]]
+  * [[29290.txt|29290 - DC - Para pintura d´interior]]
+  * [[29291.txt|29291 - DC - Pintura a cal no interior sobre as paredes com leite]]
+  * [[29292.txt|29292 - DC - Pintura de paredes ao ar livre (evita o musgo); Pintura a cola no interior (não despega tinta)]]
+  * [[29293.txt|29293 - DC - Pintura sobre madeira ao ar livre]]
+  * [[29296.txt|29296 - DC - Argamassa de poeira de tijolos, como sucedâneo de cimento hydraulico]]
+  * [[29297.txt|29297 - DC - Nous nous sommes très bien trouvé]]
+  * [[29298.txt|29298 - DC - Argamassa hydraulica:  para fundo de lagos, presas, etc]]
+  * [[29299.txt|29299 - DC - Argamassa para muros subterrâneos indicada por Cesário]]
+  * [[29300.txt|29300 - DC - Obtenção do microrganismo mycoderma aceti]]
+  * [[29301.txt|29301 - DC - Receitas Pisarro: Fazer o azeite branco à moda de Itália]]
+  * [[29302.txt|29302 - DC - Fórmulas de produção de cal utilizadas em vários países]]
+  * [[29303.txt|29303 - DC - Recorte de imprensa com vários preparados para aplicações diversas]]
+  * [[29304.txt|29304 - DC - Recortes de imprensa "Un conseil par jour" de Jean de Paris]]
+  * [[29315.txt|29315 - DC - Moss litter peat dust closets company]]
+  * [[29316.txt|29316 - DC - The stomach and its trials]]

@@ -1,0 +1,19 @@
+====== 9281 - DC - Registo do recenseamento militar de Manuel António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Ferreira de Faria e Anastácia Rosa Carneiro
+Naturalidade - Castelões
+Data de nascimento - 1877-03-03
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - Castelões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9281
+**LangMaterial**:: Português
+**PhysLoc**:: f. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9281

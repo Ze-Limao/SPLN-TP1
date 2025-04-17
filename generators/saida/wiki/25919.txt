@@ -1,0 +1,15 @@
+====== 25919 - DC - Formatura do Corpo Ativo no quartel nas comemorações dos 75 anos da Associação ======
+
+**Parent**:: 25318
+**RootParent**:: 20342
+**UnitTitle**:: Formatura do Corpo Ativo no quartel nas comemorações dos 75 anos da Associação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-10-16
+**UnitDateFinal**:: 1966-10-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25919
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 187 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25919

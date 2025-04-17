@@ -1,0 +1,16 @@
+====== 28190 - DC - Lata da Estrebaria ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Lata da Estrebaria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899
+**UnitDateFinal**:: 1899
+**ScopeContent**:: Indicação das castas plantadas na latada junto à estrebaria.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28190
+**LangMaterial**:: Português
+**PhysLoc**:: AS 462 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28190

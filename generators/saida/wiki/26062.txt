@@ -1,0 +1,16 @@
+====== 26062 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Júlio Brandão lamenta não ter estado no Museu Municipal do Porto quando JAM o visitou com o seu filho. Promete enviar o livro Fastigénia. Carta manuscrita assinada, do Porto. Carta de 12 outubro, sem menção ao ano. Papel timbrado "Museu Municipal do Porto. Gabinete do Director".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26062
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 856 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26062

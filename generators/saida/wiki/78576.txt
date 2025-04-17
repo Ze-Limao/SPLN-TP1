@@ -1,0 +1,17 @@
+====== 78576 - DC - Cópia do princípio da contrariedade e reconvenção ======
+
+**Parent**:: 54316
+**RootParent**:: 31258
+**UnitTitle**:: Cópia do princípio da contrariedade e reconvenção
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1812
+**UnitDateFinal**:: 1825
+**ScopeContent**:: Manuscrito. Junto com CP 5186. Esta carta pertence ao maço "Cartas de Leiria" que contém CP 5186 a CP 5211. Documento relacionado com CP 5205.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54332
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5187 - cx. 37
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78576

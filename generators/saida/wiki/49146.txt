@@ -1,0 +1,18 @@
+====== 49146 - DC - Registo do recenseamento eleitoral de Rodrigo José Pereira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Rodrigo José Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Riba de Ave
+Profissão - Tecelão
+Estado - Casado
+Morada - Tojão
+Idade - 75
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49146
+**LangMaterial**:: Português
+**PhysLoc**:: 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49146

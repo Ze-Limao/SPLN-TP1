@@ -1,0 +1,16 @@
+====== 29469 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-04-22
+**UnitDateFinal**:: 1875-04-22
+**ScopeContent**:: Carta expedida de Lisboa?. Junto a esta carta, os dois sonetos “Disputa em família” (AS 710 (2)) escritos por Antero de Quental em Junho de 1872 e dedicados a Camilo Castelo Branco. No meio da folha onde se encontram transcritos os sonetos, Alberto Sampaio colocou um pequeno papel com a seguinte indicação: «V. Epigrama transcendente Carta de 1875» (AS 710 (3)).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29469
+**LangMaterial**:: Português
+**PhysLoc**:: AS 710 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29469

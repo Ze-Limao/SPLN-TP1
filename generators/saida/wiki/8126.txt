@@ -1,0 +1,18 @@
+====== 8126 - DC - António José Gonçalves da Costa ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: António José Gonçalves da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1882-10-26
+**ScopeContent**:: Escola - Cabeçudos
+Cargo - Professor
+Vínculo - Temporário
+Naturalidade - Ponte de Lima
+Data de posse - 1880-06-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8126
+**LangMaterial**:: Português
+**PhysLoc**:: f. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8126

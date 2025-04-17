@@ -1,0 +1,20 @@
+====== 34522 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Telhado
+Data de nascimento - 1862-07-17
+Filiação - Teres Ferreira
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34522
+**LangMaterial**:: Português
+**PhysLoc**:: 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34522

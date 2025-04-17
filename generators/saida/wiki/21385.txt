@@ -1,0 +1,19 @@
+====== 21385 - UI - Ernesto Ferreira Condeixa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Ernesto Ferreira Condeixa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-01-30
+**UnitDateFinal**:: 1918-04-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21385
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1343, 1344, 1345, 1346
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21385
+
+===== Filhos =====
+  * [[30211.txt|30211 - DC - Carta]]
+  * [[30212.txt|30212 - DC - Carta]]
+  * [[30213.txt|30213 - DC - Carta]]
+  * [[30214.txt|30214 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 29181 - DC - Relação das fructeiras plantadas nos pomares e nos campos ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Relação das fructeiras plantadas nos pomares e nos campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-12
+**UnitDateFinal**:: 1889-01
+**ScopeContent**:: Identificação dos locais e variedades de fruteiras plantadas. Listagem das variedades de pereiras plantadas com indicação da qualidade do fruto e do mês de colheita. Cada variedade é identificada por um número que tem correspondência com o número do esquema da plantação desenhado AS 296 (2). À listagem original foram acrescentadas, em anos posteriores, várias anotações, como por exemplo, datas e variedades de outras plantações, substituição de pereiras por outras fruteiras, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29181
+**LangMaterial**:: Português
+**PhysLoc**:: AS 296 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29181

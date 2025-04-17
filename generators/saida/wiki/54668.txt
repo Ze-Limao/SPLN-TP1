@@ -1,0 +1,17 @@
+====== 54668 - DC - Cópia de carta enviada de Vicente ======
+
+**Parent**:: 54667
+**RootParent**:: 31258
+**UnitTitle**:: Cópia de carta enviada de Vicente
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-05
+**UnitDateFinal**:: 1890-08-05
+**ScopeContent**:: Cópia de carta manuscrita assinada Vicente. em papel timbrado com coroa. Fala do casamento do filho de Gaspar, Visconde do Paço de Nespereira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54668
+**LangMaterial**:: Português
+**PhysLoc**:: CP 266 - cx. 2
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54668

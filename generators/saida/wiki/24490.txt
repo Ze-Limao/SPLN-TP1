@@ -1,0 +1,16 @@
+====== 24490 - DC - Registo do recenseamento eleitoral de António da Costa Gomes ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António da Costa Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Lavrador
+Morada - Venda
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24490
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24490

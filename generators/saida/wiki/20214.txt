@@ -1,0 +1,15 @@
+====== 20214 - SR - Registo das tabernas e casas de venda de bebidas alcoólicas ======
+
+**Parent**:: 20054
+**RootParent**:: 20048
+**UnitTitle**:: Registo das tabernas e casas de venda de bebidas alcoólicas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1924-07-10
+**UnitDateFinal**:: 1935-07-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20214
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20214
+
+===== Filhos =====
+  * [[20215.txt|20215 - UI - Registo das tabernas e casas de venda de bebidas alcoólicas]]

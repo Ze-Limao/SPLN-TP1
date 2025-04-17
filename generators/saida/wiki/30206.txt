@@ -1,0 +1,16 @@
+====== 30206 - DC - Carta ======
+
+**Parent**:: 21380
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-09-22
+**UnitDateFinal**:: 1924-09-22
+**ScopeContent**:: Carta manuscrita e assinada, do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30206
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1338 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30206

@@ -1,0 +1,16 @@
+====== 28080 - DC - Ofício da Associação Comercial de Guimarães dirigido a António Vicente Leal Sampaio. ======
+
+**Parent**:: 29579
+**RootParent**:: 27963
+**UnitTitle**:: Ofício da Associação Comercial de Guimarães dirigido a António Vicente Leal Sampaio.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-12-04
+**UnitDateFinal**:: 1908-12-04
+**ScopeContent**:: Ofício dirigido a dirigido a António Vicente Leal Sampaio, sobrinho de Alberto Sampaio. O Presidente da Associação Comercial de Guimarães, João Loureiro, informa que na sessão realizada a 3 de Dezembro de 1908, foi «exarado um voto de profundo sentimento pela morte do seu ilustre sócio honorário Ex.mo Senhor Alberto da Cunha Sampaio».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28080
+**LangMaterial**:: Português
+**PhysLoc**:: AS 172- cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28080

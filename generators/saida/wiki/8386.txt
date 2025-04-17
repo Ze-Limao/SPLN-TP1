@@ -1,0 +1,18 @@
+====== 8386 - UI - Brás Leão Quartin ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Brás Leão Quartin
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-06-07
+**UnitDateFinal**:: 1895-07-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8386
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.39
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8386
+
+===== Filhos =====
+  * [[8387.txt|8387 - DC - Carta]]
+  * [[8388.txt|8388 - DC - Carta]]
+  * [[8389.txt|8389 - DC - Carta]]

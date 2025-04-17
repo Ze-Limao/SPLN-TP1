@@ -1,0 +1,15 @@
+====== 64044 - DC - Conta da despesa de Leonardo José Rodrigues de Carvalho ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Conta da despesa de Leonardo José Rodrigues de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870-04-11
+**UnitDateFinal**:: 1870-04-11
+**ScopeContent**:: Manuscrito. Recibo de taxas que foram para gasto da freguesia de S. Tiago de Antas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 363 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64044

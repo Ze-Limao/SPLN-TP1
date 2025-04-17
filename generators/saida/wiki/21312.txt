@@ -1,0 +1,16 @@
+====== 21312 - UI - António Dias ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Dias
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1928-01-30
+**UnitDateFinal**:: 1928-01-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21312
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1194
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21312
+
+===== Filhos =====
+  * [[29785.txt|29785 - DC - Carta]]

@@ -1,0 +1,22 @@
+====== 61450 - SR - Livros ======
+
+**Parent**:: 61191
+**RootParent**:: 60551
+**UnitTitle**:: Livros
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1980
+**UnitDateFinal**:: 2020
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61450
+
+===== Filhos =====
+  * [[61451.txt|61451 - DC - Cinquentenário do Rotary V. N. Famalicão 1970-2020]]
+  * [[61742.txt|61742 - DC - Rotary Clube de Famalicão: retrospectiva dos seus primeiros 10 anos]]
+  * [[61743.txt|61743 - DC - Rotary Clube de Famalicão: retrospectiva dos seus primeiros 10 anos]]
+  * [[61744.txt|61744 - DC - Rotary Clube de Famalicão: retrospectiva dos seus primeiros 10 anos]]
+  * [[61745.txt|61745 - DC - Versos Rosas d´Espinhos]]
+  * [[61746.txt|61746 - DC - Livro de Honra da Exposição Rotary 50 anos em Famalicão]]
+  * [[61747.txt|61747 - DC - 25 anos Engenho 1994-2019. Território. Gente. Comunidade]]
+  * [[61748.txt|61748 - DC - Vila Nova de Famalicão vista por dentro no final do segundo milénio de Álvaro Lopes]]
+  * [[61749.txt|61749 - DC - Marco rotário: apresentação de estudo - Rotary Club de Vila Nova de Famalicão]]

@@ -1,0 +1,19 @@
+====== 25003 - UI - Seguros dos empregados ======
+
+**Parent**:: 20363
+**RootParent**:: 20342
+**UnitTitle**:: Seguros dos empregados
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1943-08-26
+**UnitDateFinal**:: 1943-08-26
+**ScopeContent**:: Contém: apólices, correspondência a seguradoras, relação de bombeiros, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25003
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 106  - cx. 26
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25003
+
+===== Filhos =====
+  * [[25343.txt|25343 - DC - Seguro de acidentes pessoais aos componentes da AHBVF]]

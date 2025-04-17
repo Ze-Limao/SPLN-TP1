@@ -1,0 +1,16 @@
+====== 29166 - DC - Carta ======
+
+**Parent**:: 29165
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 187
+**UnitDateFinal**:: 187
+**ScopeContent**:: Carta de Antero de Quental a Stern.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29166
+**LangMaterial**:: Português
+**PhysLoc**:: AS 291 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29166

@@ -1,0 +1,16 @@
+====== 30939 - DC - Registo do recenseamento eleitoral de Joaquim Gomes Marinho ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Gomes Marinho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Jesufrei
+Profissão - Eclesiástico
+Morada - Paço
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30939
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30939

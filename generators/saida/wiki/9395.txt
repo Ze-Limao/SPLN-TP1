@@ -1,0 +1,19 @@
+====== 9395 - DC - Registo do recenseamento militar de Cândido ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Cândido
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Joaquim de Oliveira Campos e Emília Felgueiras Benevides
+Naturalidade - Nine
+Data de nascimento - 1877-04-16
+Profissão - Lavoura
+Estado civil - Casado
+Residência - Nine
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9395
+**LangMaterial**:: Português
+**PhysLoc**:: f. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9395

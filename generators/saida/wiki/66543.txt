@@ -1,0 +1,15 @@
+====== 66543 - DC - Pedido de licença de matrimónio de João António Portela, da freguesia de S. Martinho de Borela, diocese de S. Tiago da Galiza, residente na freguesia de S. Tiago de Antas com Josefa Maria, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de matrimónio de João António Portela, da freguesia de S. Martinho de Borela, diocese de S. Tiago da Galiza, residente na freguesia de S. Tiago de Antas com Josefa Maria, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-12-16
+**UnitDateFinal**:: 1867-12-16
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”. Licença concedida pelo desembargador Drº João Manuel da Cunha da Relação Eclesiástica e juiz dos matrimónios na corte do Arcebispado de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 563 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66543

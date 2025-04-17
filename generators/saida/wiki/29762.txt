@@ -1,0 +1,16 @@
+====== 29762 - DC - Carta ======
+
+**Parent**:: 21301
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-10-10
+**UnitDateFinal**:: 1901-10-10
+**ScopeContent**:: Carta manuscrita assinada, de Braga. O autor informa que haverá uma reunião em Braga com os representantes dos Centros e o Conde de Bertiandos para tratarem de assuntos relativos às eleições dos deputados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29762
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1171 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29762

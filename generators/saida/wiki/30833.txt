@@ -1,0 +1,16 @@
+====== 30833 - DC - Registo do recenseamento eleitoral de Feliciano Gomes Ferreira ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Feliciano Gomes Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Morada - Regato
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30833
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30833

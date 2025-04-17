@@ -1,0 +1,16 @@
+====== 28551 - DC - Armada que foi a Ceuta ======
+
+**Parent**:: 28546
+**RootParent**:: 27963
+**UnitTitle**:: Armada que foi a Ceuta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Na nota de investigação consta o número de embarcações (galés, naus, galeotas, etc.) que formaram a armada na expedição a Ceuta, segundo diversos autores (Inácio da Costa Quintela, Mateus Pizarro, D. Rodrigo da Cunha e Conde da Ericeira). Alberto Sampaio apenas indicou o título da obra de Inácio da Costa Quintela. Referência bibliográfica: Inácio da Costa Quintela - Annaes da Marinha Portugueza.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28551
+**LangMaterial**:: Português
+**PhysLoc**:: AS 97 (5) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28551

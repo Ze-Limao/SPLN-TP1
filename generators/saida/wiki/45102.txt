@@ -1,0 +1,29 @@
+====== 45102 - UI - Camilo Correia ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Camilo Correia
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-01-24
+**UnitDateFinal**:: 1921-08-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45102
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45102
+
+===== Filhos =====
+  * [[45103.txt|45103 - DC - Carta]]
+  * [[45104.txt|45104 - DC - Carta]]
+  * [[45105.txt|45105 - DC - Carta]]
+  * [[45106.txt|45106 - DC - Carta]]
+  * [[45107.txt|45107 - DC - Carta]]
+  * [[45108.txt|45108 - DC - Carta]]
+  * [[45109.txt|45109 - DC - Carta]]
+  * [[45110.txt|45110 - DC - Carta]]
+  * [[45111.txt|45111 - DC - Carta]]
+  * [[45112.txt|45112 - DC - Carta]]
+  * [[45113.txt|45113 - DC - Carta]]
+  * [[45114.txt|45114 - DC - Carta]]

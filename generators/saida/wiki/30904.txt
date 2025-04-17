@@ -1,0 +1,16 @@
+====== 30904 - DC - Registo do recenseamento eleitoral de João José da Cunha Cirne ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João José da Cunha Cirne
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Abade
+Morada - Residência
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30904
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30904

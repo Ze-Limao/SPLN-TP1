@@ -1,0 +1,16 @@
+====== 23862 - DC - Registo do recenseamento eleitoral de António Joaquim dos Santos ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Joaquim dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vilarinho das Cambas
+Profissão - Lavrador
+Morada - Igreja
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23862
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 88v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23862

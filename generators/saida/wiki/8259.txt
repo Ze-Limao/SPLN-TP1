@@ -1,0 +1,16 @@
+====== 8259 - UI - Manuel José da Silva Braga ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Manuel José da Silva Braga
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-07-29
+**UnitDateFinal**:: 1895-07-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8259
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8259
+
+===== Filhos =====
+  * [[8260.txt|8260 - DC - Carta]]

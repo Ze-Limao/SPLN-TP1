@@ -1,0 +1,14 @@
+====== 98015 - UI - Processo nº 38 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 38
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-01-24
+**UnitDateFinal**:: 1976-11-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 699 - cx. 38
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98015

@@ -1,0 +1,17 @@
+====== 54882 - DC - Cópia de uma petição de estudantes dirigida à Universidade de Coimbra ======
+
+**Parent**:: 54367
+**RootParent**:: 31258
+**UnitTitle**:: Cópia de uma petição de estudantes dirigida à Universidade de Coimbra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-04-28
+**UnitDateFinal**:: 1876-04-28
+**ScopeContent**:: Cópia da petição dos estudantes, assinada pelo Visconde de S. Sebastião, António Diogo Pinto Cardoso e António Maria José de Melo, e muitos outros, de Coimbra, para encerramento da Universidade de Coimbra quando da visita do Príncipe de Gales a Lisboa, no dia 1 de maio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54882
+**LangMaterial**:: Português
+**PhysLoc**:: CP 88 - cx. 1
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54882

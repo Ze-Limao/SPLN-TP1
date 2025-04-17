@@ -1,0 +1,16 @@
+====== 29206 - DC - Eucaliptos plantados na Bouça da Serra ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Eucaliptos plantados na Bouça da Serra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-04-05
+**UnitDateFinal**:: 1904-04-05
+**ScopeContent**:: Número de plantas, indicação dos dias e condições meteorológicas observadas nos dias de plantação de eucaliptos na bouça da Serra de Vila Verde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29206
+**LangMaterial**:: Português
+**PhysLoc**:: AS 321 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29206

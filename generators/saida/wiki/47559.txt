@@ -1,0 +1,18 @@
+====== 47559 - DC - Registo do recenseamento eleitoral de Manuel Marques de Araújo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Marques de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Bairro
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Casa Nova
+Idade - 71
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47559
+**LangMaterial**:: Português
+**PhysLoc**:: 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47559

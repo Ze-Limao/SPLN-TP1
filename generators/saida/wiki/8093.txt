@@ -1,0 +1,15 @@
+====== 8093 - DC - Termo de Joaquim Francisco dos Reis ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Joaquim Francisco dos Reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-06-04
+**UnitDateFinal**:: 1879-06-04
+**ScopeContent**:: Abertura de pedreira
+Local - Lousado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8093
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8093

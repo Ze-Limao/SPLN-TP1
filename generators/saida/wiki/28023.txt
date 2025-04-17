@@ -1,0 +1,15 @@
+====== 28023 - SR - Correspondência expedida ======
+
+**Parent**:: 27974
+**RootParent**:: 27963
+**UnitTitle**:: Correspondência expedida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1863
+**UnitDateFinal**:: 1867-07-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28023
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28023
+
+===== Filhos =====
+  * [[28033.txt|28033 - SSR - José da Cunha Sampaio]]
+  * [[29380.txt|29380 - SSR - José da Cunha Sampaio e amigos]]

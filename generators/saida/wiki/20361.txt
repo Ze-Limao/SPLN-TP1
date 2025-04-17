@@ -1,0 +1,18 @@
+====== 20361 - SR - Actas e relatórios ======
+
+**Parent**:: 20349
+**RootParent**:: 20342
+**UnitTitle**:: Actas e relatórios
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1890-04-20
+**UnitDateFinal**:: 1989-03-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20361
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20361
+
+===== Filhos =====
+  * [[20397.txt|20397 - SSR - Actas da Assembleia-Geral]]
+  * [[20398.txt|20398 - SSR - Actas da Direcção]]
+  * [[20399.txt|20399 - SSR - Relatórios]]

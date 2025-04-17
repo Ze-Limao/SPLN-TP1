@@ -1,0 +1,16 @@
+====== 61341 - DC - Bilhete-postal ======
+
+**Parent**:: 60925
+**RootParent**:: 60550
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1938-11-11
+**UnitDateFinal**:: 1938-11-15
+**ScopeContent**:: Bilhete-postal datilografado, de Paris, carimbado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 84 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61341

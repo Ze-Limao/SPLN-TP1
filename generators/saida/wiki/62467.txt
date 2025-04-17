@@ -1,0 +1,19 @@
+====== 62467 - DC - Registo do recenseamento militar de José Maria ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Maria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Manuel de Oliveira e Rosa Mendes do Rego, ignoram-se
+Naturalidade - Cruz
+Morada - Ignora-se
+Data de nascimento - 1856-03-05
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62467

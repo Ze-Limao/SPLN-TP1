@@ -1,0 +1,15 @@
+====== 61235 - UI - António Salgado ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: António Salgado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1935-05-31
+**UnitDateFinal**:: 1935-05-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61235
+
+===== Filhos =====
+  * [[61255.txt|61255 - DC - Bilhete-postal]]

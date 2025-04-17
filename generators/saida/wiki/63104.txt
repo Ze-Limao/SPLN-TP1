@@ -1,0 +1,19 @@
+====== 63104 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - David Ferreira Marques e Rosa Gomes, ele falecido e ela na freguesia
+Naturalidade - Telhado
+Morada - Vale S. Cosme
+Data de nascimento - 1864-07-10
+Emprego - Criado de servir
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63104

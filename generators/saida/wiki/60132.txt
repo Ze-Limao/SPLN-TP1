@@ -1,0 +1,26 @@
+====== 60132 - DC - Sindicalismo agrário ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Sindicalismo agrário
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1924-12-01
+**UnitDateFinal**:: 1925-02-01
+**ScopeContent**:: Recortes de imprensa de artigos assinados pelo 3º Visconde de Pindela no jornal “A Lavoura do Minho”. Contém CP 8532 a CP 8538.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**PhysLoc**:: CP  - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60132
+
+===== Filhos =====
+  * [[60134.txt|60134 - DC - Sindicalismo agrário I]]
+  * [[60135.txt|60135 - DC - Sindicalismo agrário II]]
+  * [[60136.txt|60136 - DC - Sindicalismo agrário II continuação do número anterior]]
+  * [[60137.txt|60137 - DC - Sindicalismo agrário III]]
+  * [[60138.txt|60138 - DC - Sindicalismo agrário IIIa]]
+  * [[60139.txt|60139 - DC - Sindicalismo agrário IIIb]]
+  * [[60140.txt|60140 - DC - Sindicalismo agrário IV]]

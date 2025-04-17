@@ -1,0 +1,16 @@
+====== 28729 - DC - Carta ======
+
+**Parent**:: 28728
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-10-06
+**UnitDateFinal**:: 1903-10-06
+**ScopeContent**:: Carta expedida de Lisboa. Nota a lápis "Rua Fernandes Thomaz, 3"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28729
+**LangMaterial**:: Português
+**PhysLoc**:: AS 587 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28729

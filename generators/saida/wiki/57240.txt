@@ -1,0 +1,17 @@
+====== 57240 - DC - Comissão de Viticultura e Federação de Sindicatos. Confidencial. Informações após à minha sahida… Madureira ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura e Federação de Sindicatos. Confidencial. Informações após à minha sahida… Madureira
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1933
+**UnitDateFinal**:: 1934-05-11
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes e Federação de Sindicatos. Contém 80 documentos: correspondência manuscrita e datilografada, ordens de serviço e notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57240
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9507 - cx. 58
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57240

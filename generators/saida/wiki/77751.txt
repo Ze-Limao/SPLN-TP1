@@ -1,0 +1,17 @@
+====== 77751 - DC - Prazo que faz João Machado de Melo Figueira de Guimarães a Manuel Joaquim da Costa e sua mulher, de S. Tiago da Cruz, da bouça da Boavista, na Cruz ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Prazo que faz João Machado de Melo Figueira de Guimarães a Manuel Joaquim da Costa e sua mulher, de S. Tiago da Cruz, da bouça da Boavista, na Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1809-09-04
+**UnitDateFinal**:: 1809-09-04
+**ScopeContent**:: Manuscrito com folhas cosidas. O título dado pelo Abade de Tagilde. Faz parte do documento composto CP 4043 com título "Pindela".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4043(2) - cx. 30
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77751

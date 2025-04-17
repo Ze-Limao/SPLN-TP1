@@ -1,0 +1,24 @@
+====== 25079 - UI - Documentos diversos ======
+
+**Parent**:: 20386
+**RootParent**:: 20342
+**UnitTitle**:: Documentos diversos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-05-01
+**UnitDateFinal**:: 1932
+**ScopeContent**:: Contém: Subscrição para o jazigo do Padre Bernardo da Costa Pinto (Presidente da Associação) 1932; 2 Livretos "Pela Verdade"; 1 Livreto "Relatório do Instituto Tuberculoso Silva Maia"; "Movimentos de despesas do Instituto Tuberculoso Silva Maia 1904"; Atestados de doença pulmonar; Recibos de empréstimo à Associação - Obrigações de 1901 a 1907.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25079
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 177 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25079
+
+===== Filhos =====
+  * [[25102.txt|25102 - DC - Subscrição para o jazigo do Padre Bernardo da Costa Pinto]]
+  * [[25460.txt|25460 - DC - Pela verdade: protesto e desafronta]]
+  * [[25461.txt|25461 - DC - Obrigações de empréstimo à Real Associação H. dos Bombeiros Voluntários de Villa Nova de Famalicão]]
+  * [[78891.txt|78891 - DC - Atestado do médico cirurgião municipal que Balbina de Araújo, da freguesia de Gavião, sofre de tuberculose]]
+  * [[78892.txt|78892 - DC - Atestado de pobreza de Balbina Araújo, do Regedor Manuel Joaquim Ferreira, da freguesia de Gavião]]
+  * [[78893.txt|78893 - DC - Ficha de subsídio de Balbina Araújo para Assistência aos Tuberculosos Pobres da Real Associação H. de Bombeiros Voluntários de V.N. de Famalicão]]

@@ -1,0 +1,16 @@
+====== 30124 - DC - Carta ======
+
+**Parent**:: 21348
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-01-25
+**UnitDateFinal**:: 1902-01-25
+**ScopeContent**:: Carta manuscrita assinada, de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30124
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1259 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30124

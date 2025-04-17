@@ -1,0 +1,15 @@
+====== 24921 - UI - Processo de contas Caixa 1961 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Processo de contas Caixa 1961
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1961-01-01
+**UnitDateFinal**:: 1961-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24921
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 41 - cx. 13
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24921

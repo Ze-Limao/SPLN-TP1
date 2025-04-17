@@ -1,0 +1,16 @@
+====== 22878 - DC - Registo do recenseamento eleitoral de João da Silva Araújo Vilas Boas ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João da Silva Araújo Vilas Boas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Nine
+Profissão - Lavrador
+Morada - Landeiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22878
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22878

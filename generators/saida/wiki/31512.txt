@@ -1,0 +1,17 @@
+====== 31512 - DC - Cartão de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 31697
+**RootParent**:: 31258
+**UnitTitle**:: Cartão de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-05
+**UnitDateFinal**:: 1898-05
+**ScopeContent**:: Cartão manuscrito com apontamentos sobre uma carta de Mouzinho de Albuquerque enviada a Bernardo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31512
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8184 - cx. 51
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31512

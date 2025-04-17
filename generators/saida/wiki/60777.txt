@@ -1,0 +1,17 @@
+====== 60777 - DC - Livro 2º Tombo dos Bens do Concelho de Landim ======
+
+**Parent**:: 60775
+**RootParent**:: 60537
+**UnitTitle**:: Livro 2º Tombo dos Bens do Concelho de Landim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1784
+**UnitDateFinal**:: 1809
+**ScopeContent**:: Livro manuscrito com capas de couro muito deterioradas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60776
+**LangMaterial**:: Português
+**PhysLoc**:: CCL 2 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60777

@@ -1,0 +1,16 @@
+====== 29247 - DC - Lista de variedades de plantas ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Lista de variedades de plantas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1903
+**ScopeContent**:: Na lista apresentada, Alberto Sampaio acrescenta, para cada uma das espécies, informação sobre as suas características e, num ou noutro caso, referência a catálogos de viveiristas. Da Andromeda diz ser «um bonito arbusto, flores com a forma de guizo em cachos pendentes», quanto às Achimenes refere que são «plantas de estufa-fria que vegetam aqui no Inverno debaixo dum simples abrigo» e remete para o catálogo Loureiro (Catálogo de José Marques Loureiro, um dos mais conceituados viveiristas do Porto na época).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29247
+**LangMaterial**:: Português
+**PhysLoc**:: AS 364 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29247

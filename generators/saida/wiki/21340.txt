@@ -1,0 +1,16 @@
+====== 21340 - UI - António da C. Vaz de Sampaio ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António da C. Vaz de Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-02-08
+**UnitDateFinal**:: 1906-02-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21340
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1237
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21340
+
+===== Filhos =====
+  * [[29828.txt|29828 - DC - Carta]]

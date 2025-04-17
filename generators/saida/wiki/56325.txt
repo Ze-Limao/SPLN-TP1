@@ -1,0 +1,17 @@
+====== 56325 - DC - Anno de 1901 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Anno de 1901
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1901-01-31
+**UnitDateFinal**:: 1901-12-31
+**ScopeContent**:: Maço com 24 documentos manuscritos num impresso com nomes dos trabalhadores, presenças e ordenados, sobre a construção das torres e anexos. Contém 11710 (1) a 11710 (24).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56325
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11710 (1) a 11710 (24) - cx. 66
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56325

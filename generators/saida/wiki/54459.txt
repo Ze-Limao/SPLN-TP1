@@ -1,0 +1,17 @@
+====== 54459 - DC - Minutas de cartas de Vicente Pinheiro para Alberto Eça de Queirós e Abel Andrade ======
+
+**Parent**:: 54457
+**RootParent**:: 31258
+**UnitTitle**:: Minutas de cartas de Vicente Pinheiro para Alberto Eça de Queirós e Abel Andrade
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-04-04
+**UnitDateFinal**:: 1884-05-04
+**ScopeContent**:: 2 Minutas de cartas manuscritas assinada. Assunto é a intriga contra o Conselheiro Francisco Joaquim Ferreira do Amaral, Governador Geral de Angola. Foi pedida cumplicidade a Vicente Pinheiro que negou. Junto com CP 1934 (carta). Esta carta está relacionada com o documento CP 1936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54459
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1935 - cx. 13
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54459

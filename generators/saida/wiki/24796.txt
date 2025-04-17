@@ -1,0 +1,16 @@
+====== 24796 - DC - Jornal Bombeiros de Portugal ======
+
+**Parent**:: 24774
+**RootParent**:: 20342
+**UnitTitle**:: Jornal Bombeiros de Portugal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1990-06
+**UnitDateFinal**:: 1990-06
+**ScopeContent**:: Jornal da Liga dos Bombeiros Portugueses. Ano IX, nº65.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24796
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 33 - cx. 7
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24796

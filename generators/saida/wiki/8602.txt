@@ -1,0 +1,18 @@
+====== 8602 - DC - Termo do exame de Alfredo de Magalhães Vasconcelos ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Alfredo de Magalhães Vasconcelos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-07-30
+**UnitDateFinal**:: 1889-07-30
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Manuel António de Vasconcelos
+Naturalidade - Delães
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8602
+**LangMaterial**:: Português
+**PhysLoc**:: f. 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8602

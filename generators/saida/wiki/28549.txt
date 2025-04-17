@@ -1,0 +1,17 @@
+====== 28549 - DC - D. João I, o qual sendo ainda defensor do Reino ======
+
+**Parent**:: 28546
+**RootParent**:: 27963
+**UnitTitle**:: D. João I, o qual sendo ainda defensor do Reino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Leia-se, a propósito da investigação sobre o assunto na obra de Severim Faria, o que Alberto Sampaio escreveu: «Já antes, no princípio do reinado de D. João I (1348),o Porto tinha dado uma prova decisiva da sua atividade, quando o Mestre de Aviz, chamado então Defensor do reino, lhe pediu socorro num momento desesperado. O rei de Castela, acampado no Lumiar, investira Lisboa por terra, esperando somente para completar o assédio a chegada dos navios de guerra. / O Mestre mandou aparelhar à pressa as poucas embarcações que apodreciam desmanteladas no Tejo […]. / Nos estaleiros do Douro trabalhou-se noite e dia a expensas dos burgueses, de tal modo se aprontaram mais 4 galés e armaram-se 10 naus, formando assim uma esquadrilha de 17 galés e 17 naus que partiu para Lisboa, onde exerceu grande influência no êxito da campanha.». Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, p. 397.
+Referência bibliográfica: Manuel Severim de Faria - Notícias de Portugal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28549
+**LangMaterial**:: Português
+**PhysLoc**:: AS 97 (3) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28549

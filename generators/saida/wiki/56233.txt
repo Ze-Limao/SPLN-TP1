@@ -1,0 +1,17 @@
+====== 56233 - DC - Carta de João Santiago ======
+
+**Parent**:: 56229
+**RootParent**:: 31258
+**UnitTitle**:: Carta de João Santiago
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903
+**UnitDateFinal**:: 1903
+**ScopeContent**:: Esta carta pertence ao envelope CP 13309, juntamente com CP 13310 a CP 13331. Este documento estava na “Caixa 18”, que contém CP 13256 a CP 13368.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56233
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13314 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56233

@@ -1,0 +1,17 @@
+====== 54106 - DC - Desenhos de caldeiras ======
+
+**Parent**:: 54091
+**RootParent**:: 25851
+**UnitTitle**:: Desenhos de caldeiras
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-04-25
+**UnitDateFinal**:: 1958-04-25
+**ScopeContent**:: Cópia de desenhos. Carimbo de João Félix da Silva Capucho, seladas e assinadas, com anotações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54106
+**LangMaterial**:: Português
+**PhysLoc**:: JG 169(11) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54106

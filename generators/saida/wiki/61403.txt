@@ -1,0 +1,16 @@
+====== 61403 - DC - Trocas a lápis – VII o sêlo das bebidas ======
+
+**Parent**:: 60930
+**RootParent**:: 60550
+**UnitTitle**:: Trocas a lápis – VII o sêlo das bebidas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924
+**UnitDateFinal**:: 1924
+**ScopeContent**:: Caricatura, desenho de Valença.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 187 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61403

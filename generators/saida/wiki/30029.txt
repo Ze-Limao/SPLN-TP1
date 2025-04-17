@@ -1,0 +1,14 @@
+====== 30029 - DC - Amadeu da Silva Martins ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Amadeu da Silva Martins
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-07-18
+**UnitDateFinal**:: 1958-07-18
+**ScopeContent**:: Regedor efetivo de Vilarinho das Cambas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30029
+**LangMaterial**:: Português
+**PhysLoc**:: f. 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30029

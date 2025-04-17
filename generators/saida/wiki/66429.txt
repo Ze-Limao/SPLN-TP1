@@ -1,0 +1,15 @@
+====== 66429 - DC - Respondendo sobre funções do Abade de S. Tiago de Antas de Manuel Mendes sobre procedimentos eclesiásticos ======
+
+**Parent**:: 63976
+**RootParent**:: 60536
+**UnitTitle**:: Respondendo sobre funções do Abade de S. Tiago de Antas de Manuel Mendes sobre procedimentos eclesiásticos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1613-09-26
+**UnitDateFinal**:: 1613-09-26
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 480 -  cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66429

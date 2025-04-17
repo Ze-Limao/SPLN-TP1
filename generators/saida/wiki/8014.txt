@@ -1,0 +1,15 @@
+====== 8014 - DC - Termo de Guilherme Gordon Norton ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Guilherme Gordon Norton
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1874-02-21
+**UnitDateFinal**:: 1874-02-21
+**ScopeContent**:: Declaração de residência
+Local - Bairro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8014
+**LangMaterial**:: Português
+**PhysLoc**:: f. 36
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8014

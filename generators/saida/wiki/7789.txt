@@ -1,0 +1,16 @@
+====== 7789 - SR - Livros de Registo de Mercês ======
+
+**Parent**:: 7725
+**RootParent**:: 7651
+**UnitTitle**:: Livros de Registo de Mercês
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1836
+**UnitDateFinal**:: 1893-12-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7789
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7789
+
+===== Filhos =====
+  * [[7790.txt|7790 - UI - Livro de Registo de Mercês]]
+  * [[7791.txt|7791 - UI - Livro de Registo de Mercês]]
+  * [[7792.txt|7792 - UI - Livro de Registo de Mercês]]

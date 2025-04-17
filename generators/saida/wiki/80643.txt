@@ -1,0 +1,15 @@
+====== 80643 - UI - Processo nº 289/80 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 289/80
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-05-17
+**UnitDateFinal**:: 1982-07-14
+**ScopeContent**:: 2ª Secção. Junto com Autos de Execução por Custas nº 288/80.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 271 - cx. 14
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80643

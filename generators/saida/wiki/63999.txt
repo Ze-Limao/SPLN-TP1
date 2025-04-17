@@ -1,0 +1,15 @@
+====== 63999 - DC - Procuração que fez Baltazar Álvares, raçoeiro da Igreja S. Tiago de Antas, a João Ribeiro, para renunciar ao benefício que possuía na Igreja S. Tiago de Antas ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Procuração que fez Baltazar Álvares, raçoeiro da Igreja S. Tiago de Antas, a João Ribeiro, para renunciar ao benefício que possuía na Igreja S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1559-06-06
+**UnitDateFinal**:: 1559-06-06
+**ScopeContent**:: Manuscrito, instrumento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 60 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63999

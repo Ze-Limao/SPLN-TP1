@@ -1,0 +1,15 @@
+====== 29066 - UI - Aniceto dos Reis Gonçalves ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Aniceto dos Reis Gonçalves
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-05-29
+**UnitDateFinal**:: 1906-07-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29066
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29066
+
+===== Filhos =====
+  * [[29067.txt|29067 - DC - Carta]]
+  * [[29068.txt|29068 - DC - Carta]]

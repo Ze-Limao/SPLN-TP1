@@ -1,0 +1,14 @@
+====== 60684 - SR - Atas ======
+
+**Parent**:: 60545
+**RootParent**:: 60545
+**UnitTitle**:: Atas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1915-04-11
+**UnitDateFinal**:: 1921-05-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60684
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60684
+
+===== Filhos =====
+  * [[60685.txt|60685 - DC - Livro de actas da Comissão Promotora da Homenagem posthuma ao grande escriptor Camilo Castelo Branco]]

@@ -1,0 +1,14 @@
+====== 31292 - SSC - Ana Maria Isabel de Melo Pereira de Sampaio ======
+
+**Parent**:: 31290
+**RootParent**:: 31258
+**UnitTitle**:: Ana Maria Isabel de Melo Pereira de Sampaio
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1744-02-07
+**UnitDateFinal**:: 1786-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31292
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31292
+
+===== Filhos =====
+  * [[54471.txt|54471 - SR - Documentos]]

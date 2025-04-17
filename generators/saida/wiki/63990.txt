@@ -1,0 +1,15 @@
+====== 63990 - DC - Escritura de compra do campo da Seara que fez Manuel Francisco da Silva, morador na freguesia de S. Julião de Calendário, foreiro da Igreja de S. Tiago de Antas, a Manuel de São Paio e sua mulher Joana Francisca da freguesia de Calendário, pela quantia de cem mil reis, para pagarem as dívidas. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra do campo da Seara que fez Manuel Francisco da Silva, morador na freguesia de S. Julião de Calendário, foreiro da Igreja de S. Tiago de Antas, a Manuel de São Paio e sua mulher Joana Francisca da freguesia de Calendário, pela quantia de cem mil reis, para pagarem as dívidas.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1784-01-05
+**UnitDateFinal**:: 1784-01-05
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas. No canto superior esquerdo "L. 54 af. 74".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 204 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63990

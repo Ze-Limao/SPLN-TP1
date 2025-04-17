@@ -1,0 +1,16 @@
+====== 30941 - DC - Registo do recenseamento eleitoral de José de Oliveira Bacelo ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José de Oliveira Bacelo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Jesufrei
+Profissão - Lavrador
+Morada - Paço
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30941
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30941

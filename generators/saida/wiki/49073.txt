@@ -1,0 +1,18 @@
+====== 49073 - DC - Registo do recenseamento eleitoral de António Francisco de Araújo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Francisco de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Requião
+Profissão - Lavrador
+Estado - Casado
+Morada - Quintão
+Idade - 49
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49073
+**LangMaterial**:: Português
+**PhysLoc**:: 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49073

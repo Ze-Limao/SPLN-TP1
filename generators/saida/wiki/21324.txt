@@ -1,0 +1,18 @@
+====== 21324 - UI - António Maria de Lemos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Maria de Lemos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21324
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1216, 1217, 1483
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21324
+
+===== Filhos =====
+  * [[24808.txt|24808 - DC - Carta]]
+  * [[29807.txt|29807 - DC - Carta]]
+  * [[29808.txt|29808 - DC - Carta]]

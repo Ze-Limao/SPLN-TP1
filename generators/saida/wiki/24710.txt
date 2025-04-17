@@ -1,0 +1,16 @@
+====== 24710 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-08-27
+**UnitDateFinal**:: 1911-08-27
+**ScopeContent**:: António Ferraz comenta sobre a impressão que lhe deixou a leitura do capítulo V do livro e envia dúvidas e notas sobre o mesmo. Carta manuscrita assinada, Apúlia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24710
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 211 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24710

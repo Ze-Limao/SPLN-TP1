@@ -1,0 +1,16 @@
+====== 23236 - DC - Registo do recenseamento eleitoral de João Manuel de Freitas ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Manuel de Freitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Riba de Ave
+Profissão - Lavrador
+Morada - Jardim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23236
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23236

@@ -1,0 +1,17 @@
+====== 56429 - DC - Memorandum da Fábrica de Laticínios Manoel dos Santos Carneiro Leão ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Memorandum da Fábrica de Laticínios Manoel dos Santos Carneiro Leão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-01-26
+**UnitDateFinal**:: 1916-01-26
+**ScopeContent**:: No papel timbrado da fábrica tem nota manuscrita assinada pelo Manoel dos Santos Carneiro Leão sobre uma encomenda de manteiga para o Visconde de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56429
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4777 - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56429

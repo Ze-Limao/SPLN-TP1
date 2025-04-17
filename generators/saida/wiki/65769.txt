@@ -1,0 +1,15 @@
+====== 65769 - DC - Sentença cível de emprazamento do casal de Ribeiro, situado na freguesia de Creixomil, concelho de Barcelos, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a António José Soares e a seu irmão Francisco Soares e a sua mulher Francisca Serra ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal de Ribeiro, situado na freguesia de Creixomil, concelho de Barcelos, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a António José Soares e a seu irmão Francisco Soares e a sua mulher Francisca Serra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1791-09-12
+**UnitDateFinal**:: 1791-10-01
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. A data de 1791-10-01 é a do registo geral da Corte do Livro de Prazos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 216 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65769

@@ -1,0 +1,16 @@
+====== 23096 - DC - Carta ======
+
+**Parent**:: 21034
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-08-13
+**UnitDateFinal**:: 1909-08-13
+**ScopeContent**:: Alberto Cardoso de Menezes (primo) agradece todas as provas de amizade em especial as palavras no funeral do pai e faz votos para que a geração dos filhos tenha melhores dias. Carta manuscrita assinada, Vigo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23096
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 21 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23096

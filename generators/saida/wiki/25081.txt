@@ -1,0 +1,22 @@
+====== 25081 - UI - Relatórios e contas de Gerência aprovados em Assembleia geral/AHBVF ======
+
+**Parent**:: 20386
+**RootParent**:: 20342
+**UnitTitle**:: Relatórios e contas de Gerência aprovados em Assembleia geral/AHBVF
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1929-12-31
+**UnitDateFinal**:: 1964-01-21
+**ScopeContent**:: Contém: Relatório e Contas apresentados à Assembleia Geral Ordinária de 1937 a 1976; Inventário e balanço apresentado à Comissão Administrativa dos B.V. de Famalicão quando do desastre na estrada de Moço Morto no dia 20 setembro de 1937; Contas apresentadas pels Direcção dos B. V. de V.N. de Famalicão correspondentes ao triénio de 1927 a 1929 inclusive.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25081
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 179 - cx. 45
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25081
+
+===== Filhos =====
+  * [[25448.txt|25448 - DC - Contas apresentadas pela Direcção dos Bombeiros Voluntários de V.N. de Famalicão correspondentes ao triénio de 1927 a 1929 inclusive]]
+  * [[25450.txt|25450 - DC - Relatório e contas apresentados em Ass. geral de 20 de Janeiro de 1944 e referentes aos anos de 1936, 37, 38, 39, 3 40 e 1941 e 1942 e 1943]]
+  * [[25845.txt|25845 - DC - Relatório e contas apresentados em Assembleia Geral Ordinaria de 21 Fevereiro de 1964 e referentes aos anos de 1960, 1961, 1962, 1963]]
+  * [[25846.txt|25846 - DC - Relatório e contas apresentados em Ass. Geral Ordinaria de 30 Janeiro de 1953 referentes aos anos de 19650, 1951, 1952]]

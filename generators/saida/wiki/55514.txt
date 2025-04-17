@@ -1,0 +1,17 @@
+====== 55514 - DC - F. Schneider & Co. ======
+
+**Parent**:: 56384
+**RootParent**:: 31258
+**UnitTitle**:: F. Schneider & Co.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-05-14
+**UnitDateFinal**:: 1904-05-14
+**ScopeContent**:: Fatura dirigida a Visconde de Pindela, livraria de Berlim. Junto com CP 2507 a CP 2525.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55514
+**LangMaterial**:: Alemão
+**PhysLoc**:: CP 2508 - cx. 19
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55514

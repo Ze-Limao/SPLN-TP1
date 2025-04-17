@@ -1,0 +1,16 @@
+====== 23900 - DC - Registo do recenseamento eleitoral de António José Ferreira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-03-04
+**UnitDateFinal**:: 1871-03-04
+**ScopeContent**:: Freguesia - Cabeçudos
+Profissão - Vendeiro
+Morada - Santa catarina
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23900
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 91v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23900

@@ -1,0 +1,18 @@
+====== 49328 - DC - Registo do recenseamento eleitoral de José Joaquim Teles ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Joaquim Teles
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Sezures
+Profissão - Lavrador
+Estado - Casado
+Morada - Novais
+Idade - 55
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49328
+**LangMaterial**:: Português
+**PhysLoc**:: 76v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49328

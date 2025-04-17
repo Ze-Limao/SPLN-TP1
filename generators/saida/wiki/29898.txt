@@ -1,0 +1,16 @@
+====== 29898 - DC - Sobre as viagens dos Cortes Reaes, v. M. da Lit. Tomo 8.º ======
+
+**Parent**:: 28588
+**RootParent**:: 27963
+**UnitTitle**:: Sobre as viagens dos Cortes Reaes, v. M. da Lit. Tomo 8.º
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Referência bibliográfica: Memórias de Literatura Portuguesa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29898
+**LangMaterial**:: Português
+**PhysLoc**:: AS 104 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29898

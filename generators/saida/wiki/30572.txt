@@ -1,0 +1,16 @@
+====== 30572 - DC - Registo do recenseamento eleitoral de João Batista ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Batista
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Brufe
+Profissão - Lavrador
+Morada - Outeirinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30572
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30572

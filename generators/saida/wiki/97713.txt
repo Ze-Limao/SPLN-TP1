@@ -1,0 +1,15 @@
+====== 97713 - UI - Processo nº 136 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 136
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-05-28
+**UnitDateFinal**:: 1969-11-29
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 136 -A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 454 - cx. 28
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97713

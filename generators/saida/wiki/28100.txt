@@ -1,0 +1,24 @@
+====== 28100 - DC - Exposição Agrícola de Lisboa em 1883 iniciada e subsidiada pela Junta Geral do Distrito inaugurar-se-ha no dia 20 de Maio ======
+
+**Parent**:: 28094
+**RootParent**:: 27963
+**UnitTitle**:: Exposição Agrícola de Lisboa em 1883 iniciada e subsidiada pela Junta Geral do Distrito inaugurar-se-ha no dia 20 de Maio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883
+**UnitDateFinal**:: 1883
+**ScopeContent**:: Cartaz impresso com as informações sobre Exposição Agrícola de Lisboa em 1883 / Iniciada e subsidiada pela Junta Geral do Distrito….”. Disposições gerais sobre aspetos de organização da exposição. A anteceder as disposições gerais uma nota introdutória resume o essencial da exposição: «A exposição, à qual se pretende dar um carácter de utilidade prática imediata, principalmente na fixação dos tipos autênticos dos vinhos destinados ao comércio externo, no exame do estado de desenvolvimento e aperfeiçoamento das espécies pecuárias, tendências da indústria da criação dos gados, e estudo das charruas vinhateiras, deverá ser uma revista geral dos produtos da atividade agrícola do distrito de Lisboa e dos distritos que quiserem associar-se-lhe nesta afirmação de vida, e aspiração de progresso, e admite todas as manifestações úteis do trabalho das indústrias filiais e auxiliares abrangidas na letra ou índole do seu programa. Também recebe produtos estrangeiros compreendidos nalgumas das suas classes, O programa, que se pode obter por pedido à comissão, divide a exposição nos seguintes grupos:
+I Vinho. Vinho e mais produtos fermentados. Derivados desses produtos.
+II Produtos alimentares, industriais e comerciais.
+III Animais domésticos.
+IV Motores e máquinas agrícolas. Acessórios.
+V Adubos.
+VI Construções rurais, ornamentais e hidráulicas.
+VII Cultura e exploração florestal.
+VIII Instrução agrícola.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28100
+**LangMaterial**:: Português
+**PhysLoc**:: AS 506 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28100

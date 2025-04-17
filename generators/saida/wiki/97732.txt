@@ -1,0 +1,14 @@
+====== 97732 - UI - Processo nº 275 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 275
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-03-25
+**UnitDateFinal**:: 1977-04-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 473 - cx. 29
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97732

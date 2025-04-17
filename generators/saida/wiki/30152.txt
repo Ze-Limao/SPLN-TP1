@@ -1,0 +1,16 @@
+====== 30152 - DC - Carta ======
+
+**Parent**:: 21358
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-01-01
+**UnitDateFinal**:: 1910-01-01
+**ScopeContent**:: Carta manuscrita assinada. Papel de carta de luto. O autor agradece a JAM as suas palavras consoladoras sobre o temporal de dezembro 1909 que assolou a zona do Douro e provocou cheias e causou muitos prejuízos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30152
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1290 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30152

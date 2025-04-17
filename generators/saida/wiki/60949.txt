@@ -1,0 +1,16 @@
+====== 60949 - DC - Certidão da conciliação ======
+
+**Parent**:: 60948
+**RootParent**:: 60947
+**UnitTitle**:: Certidão da conciliação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872-08-02
+**UnitDateFinal**:: 1872-08-02
+**ScopeContent**:: Manuscrito. Certidão pedida por José Alves da Fonseca da freguesia de S. Tiago de Antas feita neste juízo no mês de 8bro ou 9bro de 1838 ou 1839 entre o falecido Abd. Rodrigo Meneses e Custodio ? da freguesia de Calendario. Escrivão Francisco José Alves de Barbosa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60676
+**LangMaterial**:: Português
+**PhysLoc**:: JPSTA - cx. 6
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60949

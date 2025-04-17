@@ -1,0 +1,15 @@
+====== 65907 - DC - Apegação, medição e confrontação do casal do Ribeiro, situado na freguesia de S. Tiago de Creixomil, termo de Barcelos, pelo cura de S. Tiago de Antas, Damião de Figueiredo e padre Manuel Ferreira ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal do Ribeiro, situado na freguesia de S. Tiago de Creixomil, termo de Barcelos, pelo cura de S. Tiago de Antas, Damião de Figueiredo e padre Manuel Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1670-08-12
+**UnitDateFinal**:: 1670-08-12
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 643 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65907

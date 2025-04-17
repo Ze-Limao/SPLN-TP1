@@ -1,0 +1,20 @@
+====== 34071 - DC - Registo do recenseamento militar de António Joaquim ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Arnoso Santa Maria
+Data de nascimento - 1852-04-13
+Filiação - José António Gomes e Teresa Gomes
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34071
+**LangMaterial**:: Português
+**PhysLoc**:: 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34071

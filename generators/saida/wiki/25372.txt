@@ -1,0 +1,16 @@
+====== 25372 - DC - Carta ======
+
+**Parent**:: 21104
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-02-03
+**UnitDateFinal**:: 1925-02-03
+**ScopeContent**:: Custódio José Vieira agradece o artigo "As costelas do Sr. Visconde de Correia Botelho" que será publicado no volume da Comissão Executiva na homenagem do centenário de nascimento do escritor Camilo e justifica a não publicação de outro artigo de autor brasileiro.  Carta manuscrita assinada. Papel timbrado "Comissão Executiva do Centenário Camilo Castelo Branco. Sede Diario de Noticias, Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25372
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 352 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25372

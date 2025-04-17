@@ -1,0 +1,16 @@
+====== 21331 - UI - António Pais de Figueiredo Campos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Pais de Figueiredo Campos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-03-10
+**UnitDateFinal**:: 1890-03-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21331
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1225
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21331
+
+===== Filhos =====
+  * [[29816.txt|29816 - DC - Carta]]

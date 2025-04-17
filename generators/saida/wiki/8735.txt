@@ -1,0 +1,18 @@
+====== 8735 - DC - Termo do exame de Jaime Cardoso Pereira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Jaime Cardoso Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-14
+**UnitDateFinal**:: 1891-07-14
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Manuel Cardoso Pereira
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8735
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8735

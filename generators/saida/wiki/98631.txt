@@ -1,0 +1,16 @@
+====== 98631 - DC - A emphiteuse tem a sua origem no direito romano ======
+
+**Parent**:: 28292
+**RootParent**:: 27963
+**UnitTitle**:: A emphiteuse tem a sua origem no direito romano
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1855
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Manuscrito em papel liso beje. Notas retiradas de Ribeiro, João Pedro, 1758-1839. Dissertações chronologicas e criticas sobre a historia e jurisprudencia ecclesiastica e civil de Portugal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29170
+**LangMaterial**:: Português
+**PhysLoc**:: AS 895 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98631

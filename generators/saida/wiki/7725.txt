@@ -1,0 +1,17 @@
+====== 7725 - SSC - Expediente ======
+
+**Parent**:: 7691
+**RootParent**:: 7651
+**UnitTitle**:: Expediente
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1836
+**UnitDateFinal**:: 1975-04-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7725
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7725
+
+===== Filhos =====
+  * [[20216.txt|20216 - SR - Correspondência recebida]]
+  * [[7726.txt|7726 - SR - Livros de Termos de Obrigação e Sujeição ao Município]]
+  * [[7789.txt|7789 - SR - Livros de Registo de Mercês]]
+  * [[8674.txt|8674 - SR - Copiadores da Correspondência Expedida]]

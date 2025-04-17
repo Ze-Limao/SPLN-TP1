@@ -1,0 +1,18 @@
+====== 8548 - DC - Termo do exame de José Augusto de Azevedo ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José Augusto de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-07-17
+**UnitDateFinal**:: 1888-07-17
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Ana Maria Sampaio
+Naturalidade - Landim
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8548
+**LangMaterial**:: Português
+**PhysLoc**:: f. 51
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8548

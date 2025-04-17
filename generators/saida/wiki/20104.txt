@@ -1,0 +1,17 @@
+====== 20104 - UI - Registo da correspondência expedida pela 2ª repartição ======
+
+**Parent**:: 20095
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida pela 2ª repartição
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-01-02
+**UnitDateFinal**:: 1900-01-03
+**ScopeContent**:: Não tem termo de abertura. O conteúdo da correspondência está resumido.
+Contém: 
+Cópia ofício dirigido ao Juíz de Direito, 1899-07-14, 1 f.; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20104
+**LangMaterial**:: Português
+**PhysLoc**:: AC 113
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20104

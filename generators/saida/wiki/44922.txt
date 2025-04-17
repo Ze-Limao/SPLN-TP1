@@ -1,0 +1,14 @@
+====== 44922 - UI - António de Castilho ======
+
+**Parent**:: 31319
+**RootParent**:: 31258
+**UnitTitle**:: António de Castilho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1882-01-12
+**UnitDateFinal**:: 1882-01-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD44922
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=44922
+
+===== Filhos =====
+  * [[44921.txt|44921 - DC - Cartão de visita]]

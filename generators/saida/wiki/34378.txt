@@ -1,0 +1,19 @@
+====== 34378 - DC - Registo do recenseamento militar de Jacinto Rodrigues ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Jacinto Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Avidos
+Data de nascimento -1853-01-31 
+Filiação - José Rodrigues e Joana Rosa
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34378
+**LangMaterial**:: Português
+**PhysLoc**:: 110v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34378

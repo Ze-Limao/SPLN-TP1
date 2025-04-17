@@ -1,0 +1,13 @@
+====== 9636 - DC - Ofício nº 17 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 17
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-04-04
+**UnitDateFinal**:: 1887-04-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9636
+**LangMaterial**:: Português
+**PhysLoc**:: f. 30
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9636

@@ -1,0 +1,16 @@
+====== 21468 - UI - José Maria Brinche Carvalho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Maria Brinche Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-01-21
+**UnitDateFinal**:: 1906-01-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21468
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1479
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21468
+
+===== Filhos =====
+  * [[30314.txt|30314 - DC - Carta]]

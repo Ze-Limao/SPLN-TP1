@@ -1,0 +1,16 @@
+====== 30222 - DC - Carta ======
+
+**Parent**:: 21393
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-07-16
+**UnitDateFinal**:: 1924-07-16
+**ScopeContent**:: Francisco Oliveira Martins solicita cópia de cartas do seu tio escritor Oliveira Martins a Camilo Castelo Branco. Carta manuscrita e assinada, de R. da Infantaria 16 Letras M 1º andar Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30222
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1355 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30222

@@ -1,0 +1,24 @@
+====== 20116 - UI - Registo da correspondência expedida para os regedores ======
+
+**Parent**:: 20108
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida para os regedores
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-10-28
+**UnitDateFinal**:: 1920-11-27
+**ScopeContent**:: Termo de abertura: “Há-de servir este livro para copiar toda a correspondencia expedida pela terceira repartição …”.
+O conteúdo da correspondência está resumido. 
+Contém: 
+Cópia da Circular nº 5 do Administrador do Concelho de Vila Nova de Famalicão dirigido a todos os Regedores do concelho, 1919-01-11, 1 f., colada; papel.
+Edital do Administrador do Concelho de Vila Nova de Famalicão, 1919-10-04; 1 f. impressa, colada; papel.
+Cópia da Circular nº1 do Administrador do Concelho de Vila Nova de Famalicão dirigido ao Cidadão Regedor, 1920-01-02, 1 f. dactilografada, colada; papel.
+Cópia da Circular nº6 do Administrador do Concelho de Vila Nova de Famalicão dirigido ao Cidadão Regedor, 1920-01-12, 1 f. dactilografada, colada; papel.
+Cópia da Circular nº5 do Administrador do Concelho de Vila Nova de Famalicão dirigido ao Regedor de Landim, 1920-01-09, 1 f. colada; papel.
+Cópia da Circular nº16 do Administrador do Concelho de Vila Nova de Famalicão dirigido ao Cidadão Regedor de todo o concelho, 1920-02-04, 1 f. dactilografada, colada; papel.
+Cópia da Circular do Administrador do Concelho de Vila Nova de Famalicão dirigido ao Cidadão Regedor de todo o concelho, 1920-11-26, 1 f. dactilografada, colada; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20116
+**LangMaterial**:: Português
+**PhysLoc**:: AC 43
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20116

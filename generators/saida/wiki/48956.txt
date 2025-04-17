@@ -1,0 +1,18 @@
+====== 48956 - DC - Registo do recenseamento eleitoral de José Gomes Ferreira Teodósio ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Gomes Ferreira Teodósio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Nine
+Profissão - Lavrador
+Estado - Casado
+Morada - Quintão
+Idade - 50
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48956
+**LangMaterial**:: Português
+**PhysLoc**:: 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48956

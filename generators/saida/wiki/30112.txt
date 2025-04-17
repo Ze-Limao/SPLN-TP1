@@ -1,0 +1,14 @@
+====== 30112 - DC - Manuel Gomes Ferreira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Gomes Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-16
+**UnitDateFinal**:: 1974-10-16
+**ScopeContent**:: Regedor efetivo da freguesia de Nine
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30112
+**LangMaterial**:: Português
+**PhysLoc**:: f. 57
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30112

@@ -1,0 +1,18 @@
+====== 8140 - DC - Domingos Pereira Marques Viana ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Domingos Pereira Marques Viana
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-06-30
+**UnitDateFinal**:: 1889-10-10
+**ScopeContent**:: Escola - Oliveira Santa Maria
+Cargo - Professor
+Vínculo - Temporário
+Naturalidade - Vale S. Cosme
+Data de posse - 1885-06-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8140
+**LangMaterial**:: Português
+**PhysLoc**:: f. 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8140

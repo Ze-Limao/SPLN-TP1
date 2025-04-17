@@ -1,0 +1,19 @@
+====== 32445 - UI - Maria Amália de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31381
+**RootParent**:: 31258
+**UnitTitle**:: Maria Amália de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1873-09-04
+**UnitDateFinal**:: 1889
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32445
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4435
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32445
+
+===== Filhos =====
+  * [[32426.txt|32426 - DC - Carta]]
+  * [[60614.txt|60614 - DC - Carta]]

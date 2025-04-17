@@ -1,0 +1,16 @@
+====== 29936 - DC - Levantaram-se duvidas se Miragaia estava ou não compreendida no Couto ======
+
+**Parent**:: 28665
+**RootParent**:: 27963
+**UnitTitle**:: Levantaram-se duvidas se Miragaia estava ou não compreendida no Couto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: No verso e na margem esquerda, Alberto Sampaio anotou o seguinte: «Sancho II n. 1209 m. 1248».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29936
+**LangMaterial**:: Português
+**PhysLoc**:: AS 118 (15) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29936

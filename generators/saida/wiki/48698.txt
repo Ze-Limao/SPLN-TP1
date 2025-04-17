@@ -1,0 +1,19 @@
+====== 48698 - UI - Artur Alberto de Campos Henriques ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Artur Alberto de Campos Henriques
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1896-06-16
+**UnitDateFinal**:: 1909-04-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48698
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48698
+
+===== Filhos =====
+  * [[48699.txt|48699 - DC - Carta]]
+  * [[48700.txt|48700 - DC - Carta]]
+  * [[48701.txt|48701 - DC - Carta]]

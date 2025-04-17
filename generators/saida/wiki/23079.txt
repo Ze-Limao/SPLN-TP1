@@ -1,0 +1,16 @@
+====== 23079 - DC - Registo do recenseamento eleitoral de António Alves da Costa ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Alves da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Requião
+Profissão - Proprietário
+Morada - Lagoas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23079
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23079

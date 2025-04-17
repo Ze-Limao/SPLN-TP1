@@ -1,0 +1,16 @@
+====== 25688 - DC - Bilhete-postal ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-09-29
+**UnitDateFinal**:: 1900-10-04
+**ScopeContent**:: Bilhete-postal manuscrito assinado e carimbado, de Génova. Cartolina Postale Italiana. Joaquim de Araújo refere a carta de JAM impressa no Regenerador sobre o título "O último filho de Camilo Castelo Branco", escrita uma semana após a morte de Jorge Castelo Branco. JAM refere neste artigo a situação precária de Ana Plácido e filhos e pede uma intervenção do governo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25688
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 638 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25688

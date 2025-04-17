@@ -1,0 +1,18 @@
+====== 49501 - DC - Registo do recenseamento eleitoral de Domingos José Pereira Teso ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos José Pereira Teso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vilarinho das Cambas
+Profissão - Lavrador
+Estado - Casado
+Morada - Outeiro
+Idade - 46
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49501
+**LangMaterial**:: Português
+**PhysLoc**:: 86v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49501

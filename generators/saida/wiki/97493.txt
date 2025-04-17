@@ -1,0 +1,14 @@
+====== 97493 - UI - Processo nº 71 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 71
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1961-10-02
+**UnitDateFinal**:: 1970-07-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 318 - cx. 17
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97493

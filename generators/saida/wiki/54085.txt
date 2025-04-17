@@ -1,0 +1,23 @@
+====== 54085 - DC - C.M.F. Aquecimento ======
+
+**Parent**:: 54176
+**RootParent**:: 25851
+**UnitTitle**:: C.M.F. Aquecimento
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1958
+**UnitDateFinal**:: 1958-03-29
+**ScopeContent**:: Contém JG 168(1) a (4). Sobre o concurso, edital, etc. Pasta do arquiteto Januário Godinho com notas manuscritas e assinado por ele.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54085
+**LangMaterial**:: Português
+**PhysLoc**:: JG 168(1) - cx. 16, JG 168(2) a (4) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54085
+
+===== Filhos =====
+  * [[54086.txt|54086 - DC - Anulação do concurso- Câmara Municipal de Famalicão]]
+  * [[54087.txt|54087 - DC - Mapa de avaliação dos concorrentes da empreitada de instalação de aquecimento central…]]
+  * [[54088.txt|54088 - DC - Edital - Câmara Municipal de Famalicão]]
+  * [[54089.txt|54089 - DC - Instalação de aquecimento central do novo Edifício dos Paços do Concelho - Programa do concurso. Câmara Municipal de Famalicão]]

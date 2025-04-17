@@ -1,0 +1,20 @@
+====== 20688 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Antas
+Filiação - Joaquim Ferreira e Teresa Rosa
+Naturalidade - Antas
+Data de nascimento - 1870-10-15
+Emprego - Criado de servir
+Estado - Solteiro
+Residência - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20688
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20688

@@ -1,0 +1,16 @@
+====== 29338 - DC - N. 33469 Resorcina ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: N. 33469 Resorcina
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-07-21
+**UnitDateFinal**:: 1896-07-21
+**ScopeContent**:: Composição da receita: resorcina e água destilada. Local e data: Guimarães, 21 de Julho de 1896. Carimbo da Farmácia do Hospital da Misericórdia de Guimarães. Para além da preparação, consta também da mesma receita «1 pincel pequeno de [?]». Dos valores a pagar pelo que estava prescrito, 120 reis pela solução e 120 réis pelo pincel, foi adicionada a quantia de 40 réis por um frasco e 400 réis por um xarope. Anotação a lápis feita por Alberto Sampaio: «Não vai o frasco: há-de vir daí; queira metê-lo na conta.».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29338
+**LangMaterial**:: Português
+**PhysLoc**:: AS 233 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29338

@@ -1,0 +1,15 @@
+====== 97683 - UI - Processo nº 18 ======
+
+**Parent**:: 80072
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 18
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-03-27
+**UnitDateFinal**:: 1977-04-12
+**ScopeContent**:: Junto com Autos de Acção Emergente de Contrato Individual de Trabalho Ordinário nº 118.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 427 - cx. 26
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97683

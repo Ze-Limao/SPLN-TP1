@@ -1,0 +1,20 @@
+====== 20649 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Lagoa
+Filiação - António Machado e Maria da Silva
+Naturalidade - Lagoa
+Data de nascimento - 1870-10-15
+Emprego - Jornaleiro
+Estado - Solteiro
+Residência - Lagoa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20649
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20649

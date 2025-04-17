@@ -1,0 +1,15 @@
+====== 20186 - UI - Registo de soldados que passaram à reserva territorial ======
+
+**Parent**:: 20185
+**RootParent**:: 20048
+**UnitTitle**:: Registo de soldados que passaram à reserva territorial
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-04-17
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Contém dados: estado civil, sinais físicos característicos, estado militar, domicílio ou residência.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20186
+**LangMaterial**:: Português
+**PhysLoc**:: AC 97
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20186

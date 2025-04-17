@@ -1,0 +1,20 @@
+====== 60551 - F - Rotary Club de Vila Nova de Famalicão ======
+
+**Parent**:: 0
+**RootParent**:: 60551
+**UnitTitle**:: Rotary Club de Vila Nova de Famalicão
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1946
+**UnitDateFinal**:: 2023-07
+**ScopeContent**:: O plano de classificação tem várias secções: Secção A Rotary Club de Vila Nova de Famalicão (Série 001 Correspondência recebida, Série 002 Correspondência enviada, Série 003 Documentos, Série 004 Publicações periódicas, Série 005 Livros, Série 006 Documentos Gráficos, Série 007 Documentos tridimensionais, Série 008 Documentos multimédia, Série 009 Quadros, Série 010 Fotografias. Secção B Fundação Rotária Portuguesa. Série A Documentos, Série B Publicações periódicas, Série C Livros. Secção C Rotary International.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60551
+**LangMaterial**:: Português, Inglês e Francês.
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60551
+
+===== Filhos =====
+  * [[61191.txt|61191 - SC - Rotary Club de Vila Nova de Famalicão]]
+  * [[61460.txt|61460 - SC - Fundação Rotária Portuguesa]]
+  * [[61479.txt|61479 - SC - Rotary International]]

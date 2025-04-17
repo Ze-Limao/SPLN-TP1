@@ -1,0 +1,17 @@
+====== 21076 - UI - António de Vilhena ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António de Vilhena
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1923-06-02
+**UnitDateFinal**:: 1923-06-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21076
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 270
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21076
+
+===== Filhos =====
+  * [[24837.txt|24837 - DC - Carta]]

@@ -1,0 +1,19 @@
+====== 21246 - UI - Matos Graça ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Matos Graça
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Matos Graça foi médico.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21246
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 981, 982, 983
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21246
+
+===== Filhos =====
+  * [[26185.txt|26185 - DC - Carta]]
+  * [[26186.txt|26186 - DC - Carta]]
+  * [[26187.txt|26187 - DC - Carta]]

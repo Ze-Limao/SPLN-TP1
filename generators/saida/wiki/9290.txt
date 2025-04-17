@@ -1,0 +1,19 @@
+====== 9290 - DC - Registo do recenseamento militar de Anastácio ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Anastácio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - António Pereira Gomes e Ana da Silva Fernandes
+Naturalidade - Mogege
+Data de nascimento - 1877-11-11
+Profissão - Criado de servir
+Estado civil - Solteiro
+Residência - Silvares
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9290
+**LangMaterial**:: Português
+**PhysLoc**:: f. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9290

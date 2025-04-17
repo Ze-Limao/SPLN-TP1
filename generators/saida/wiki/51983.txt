@@ -1,0 +1,18 @@
+====== 51983 - DC - Registo do recenseamento militar de Teodoro ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Teodoro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-03-02
+Filiação - Emília Rosa
+Naturalidade - Negreiros
+Profissão - Criado de servir
+Residência - Cavalões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51983
+**LangMaterial**:: Português
+**PhysLoc**:: 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51983

@@ -1,0 +1,18 @@
+====== 46042 - DC - Registo do recenseamento eleitoral de José da Silva Carneiro ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José da Silva Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Estado - Casado
+Morada - Povoação
+Idade - 58
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46042
+**LangMaterial**:: Português
+**PhysLoc**:: 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46042

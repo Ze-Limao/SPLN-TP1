@@ -1,0 +1,19 @@
+====== 34531 - DC - Registo do recenseamento militar de Serafim ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Serafim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Arnoso Santa Eulália
+Data de nascimento - 1862-11-25
+Filiação - António Gomes Pereira e Teresa Maria da Fonseca
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34531
+**LangMaterial**:: Português
+**PhysLoc**:: 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34531

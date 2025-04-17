@@ -1,0 +1,18 @@
+====== 8499 - DC - Termo do exame de Manuel Varela dos Santos ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Varela dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-05-03
+**UnitDateFinal**:: 1886-05-03
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - José Brás Varela
+Naturalidade - Vila Nova de Famalicão
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8499
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8499

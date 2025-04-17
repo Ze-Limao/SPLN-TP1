@@ -1,0 +1,16 @@
+====== 29320 - DC - Recibo da Livraria Moré de Francisco da Silva Mengo ======
+
+**Parent**:: 29317
+**RootParent**:: 27963
+**UnitTitle**:: Recibo da Livraria Moré de Francisco da Silva Mengo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-10-06
+**UnitDateFinal**:: 1877-10-06
+**ScopeContent**:: Fornecedor da Casa de S. M. a Rainha e Comissario da Academia Real das Sciencias, de Lisboa. Recibo no valor de 3125 réis, resultante do pagamento dos dois (2) volumes da obra de Cournot Traité de l’enchainement des idées fondamentales, acrescido do porte de correio. Em nota consta a informação que o título Essais et les fondements de nos connaissances, do mesmo autor, se encontra esgotado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29320
+**LangMaterial**:: Português
+**PhysLoc**:: AS 216 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29320

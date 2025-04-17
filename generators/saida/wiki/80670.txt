@@ -1,0 +1,14 @@
+====== 80670 - UI - Processo nº 203 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 203
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1978-06-20
+**UnitDateFinal**:: 1981-06-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 294 - cx. 15
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80670

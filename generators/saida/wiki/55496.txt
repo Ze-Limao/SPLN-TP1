@@ -1,0 +1,17 @@
+====== 55496 - DC - Viagem de Pindella a Berlim pelo Porto 4 de Novembro 1903 ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Viagem de Pindella a Berlim pelo Porto 4 de Novembro 1903
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-11-04
+**UnitDateFinal**:: 1903-11
+**ScopeContent**:: Manuscrito com despesas de viagem de Pindela para Berlim, tem nome de Amália manuscrito em papel timbrado de Pindela. Este documento está dentro do envelope CP 2478, junto com CP 2480 a CP 2483.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55496
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2482 - cx. 19
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55496

@@ -1,0 +1,14 @@
+====== 29999 - DC - Francisco José da Costa ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Francisco José da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1952-07-30
+**UnitDateFinal**:: 1952-07-30
+**ScopeContent**:: Regedor efetivo da freguesia de Oliveira S. Mateus
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29999
+**LangMaterial**:: Português
+**PhysLoc**:: f. 1
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29999

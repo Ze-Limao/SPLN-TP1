@@ -1,0 +1,21 @@
+====== 100528 - UI - Negativos em película ======
+
+**Parent**:: 100544
+**RootParent**:: 60696
+**UnitTitle**:: Negativos em película
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1940
+**ScopeContent**:: Na caixa estão 2 documentos em papel (índice da digitalização dos negativos) que pode ser consultado para visualização; dois documentos (convite para exposição sobre a CHF em 1998; capilha de fotografias Carrasco).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99378
+**LangMaterial**:: Português
+**PhysLoc**:: CHF N1 a N61 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100528
+
+===== Filhos =====
+  * [[100918.txt|100918 - DC - Negativos em película 35 mm]]
+  * [[100919.txt|100919 - DC - Negativos em película 8 x 11 cm]]

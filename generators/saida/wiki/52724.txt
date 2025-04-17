@@ -1,0 +1,16 @@
+====== 52724 - DC - Registo do recenseamento militar de Custódio Rodrigues ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Custódio Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-12-22
+Filiação - Paulo Rodrigues e Teresa Maria
+Naturalidade - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52724
+**LangMaterial**:: Português
+**PhysLoc**:: 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52724

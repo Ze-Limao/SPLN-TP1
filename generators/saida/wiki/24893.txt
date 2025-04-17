@@ -1,0 +1,16 @@
+====== 24893 - DC - Carta ======
+
+**Parent**:: 21092
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-14
+**UnitDateFinal**:: 1893-07-14
+**ScopeContent**:: Carta manuscrita assinada, de Évora.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24893
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 328 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24893

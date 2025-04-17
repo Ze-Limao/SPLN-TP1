@@ -1,0 +1,15 @@
+====== 65696 - DC - Emprazamento de metade do casal do Paço, situado na freguesia de S. Julião Tiago do Bougado, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Pero Anes e sua mulher ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento de metade do casal do Paço, situado na freguesia de S. Julião Tiago do Bougado, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Pero Anes e sua mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1569-01-16
+**UnitDateFinal**:: 1569-01-16
+**ScopeContent**:: Manuscrito, original. No canto superior esquerdo "Nº11".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 65 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65696

@@ -1,0 +1,13 @@
+====== 7716 - UI - Livro de Notas Nº 32 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 32
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1965-09-06
+**UnitDateFinal**:: 1967-01-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7716
+**LangMaterial**:: Português
+**PhysLoc**:: 1.63
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7716

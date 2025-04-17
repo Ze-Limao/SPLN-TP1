@@ -1,0 +1,16 @@
+====== 98833 - DC - Dívida de azeite ======
+
+**Parent**:: 60673
+**RootParent**:: 60671
+**UnitTitle**:: Dívida de azeite
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870-04-08
+**UnitDateFinal**:: 1870-04-08
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60670
+**LangMaterial**:: Português
+**PhysLoc**:: JPA 4 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98833

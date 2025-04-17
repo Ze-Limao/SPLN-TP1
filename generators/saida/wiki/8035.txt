@@ -1,0 +1,16 @@
+====== 8035 - DC - Termo de Domingos António de Miranda ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Domingos António de Miranda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-07-14
+**UnitDateFinal**:: 1876-07-14
+**ScopeContent**:: Declaração para seus filhos Joaquim, José, José Luís e António serem considerados cidadãos espanhois
+Nacionalidade - Espanhola
+Morada - Gondifelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8035
+**LangMaterial**:: Português
+**PhysLoc**:: f. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8035

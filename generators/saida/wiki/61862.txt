@@ -1,0 +1,17 @@
+====== 61862 - DC - Ofício da Presidente da Fundação Rotária de Portugal dirigido a Júlio Sá, Rotary Club de Vila Nova de Famalicão, e convocatória para Assembleia de Representantes ======
+
+**Parent**:: 61461
+**RootParent**:: 60551
+**UnitTitle**:: Ofício da Presidente da Fundação Rotária de Portugal dirigido a Júlio Sá, Rotary Club de Vila Nova de Famalicão, e convocatória para Assembleia de Representantes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2016-01-16
+**UnitDateFinal**:: 2016-03-16
+**ScopeContent**:: Junto com ata nº65 da FRP.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 318 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61862

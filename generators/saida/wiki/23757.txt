@@ -1,0 +1,16 @@
+====== 23757 - DC - Registo do recenseamento eleitoral de Januário Joaquim da Rocha ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Januário Joaquim da Rocha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Negociante
+Morada - Rua Direita
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23757
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 84v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23757

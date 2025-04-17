@@ -1,0 +1,20 @@
+====== 20396 - DC - Registo do recenseamento militar de Aires ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Aires
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Arnoso Sannta Eulália
+Filiação - António José de Abreu e Maria Umbelina de Sá Felgueiras Benevides
+Naturalidade - Arnoso Santa Eulália
+Data de nascimento - 1870-08-15
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20396
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20396

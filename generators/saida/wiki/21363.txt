@@ -1,0 +1,18 @@
+====== 21363 - UI - Sebastião Eduardo Pereira da Silva de Sousa e Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Sebastião Eduardo Pereira da Silva de Sousa e Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1926-11-25
+**UnitDateFinal**:: 1927-06-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21363
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1301, 1304, 1305
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21363
+
+===== Filhos =====
+  * [[30156.txt|30156 - DC - Carta]]
+  * [[30157.txt|30157 - DC - Carta]]
+  * [[30158.txt|30158 - DC - Carta]]

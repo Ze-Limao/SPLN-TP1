@@ -1,0 +1,17 @@
+====== 100724 - DC - Recibos ======
+
+**Parent**:: 54366
+**RootParent**:: 31258
+**UnitTitle**:: Recibos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1867-12-31
+**UnitDateFinal**:: 1881-09-14
+**ScopeContent**:: 8 recibos impressos e manuscritos. Este documento estava na “Caixa 12”, que contém CP 13143 a CP 13169.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13165 a 13168 - cx. 87
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100724

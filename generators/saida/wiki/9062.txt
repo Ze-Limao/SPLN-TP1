@@ -1,0 +1,13 @@
+====== 9062 - DC - Ofício nº 1 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 1
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-01-05
+**UnitDateFinal**:: 1886-01-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9062
+**LangMaterial**:: Português
+**PhysLoc**:: f. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9062

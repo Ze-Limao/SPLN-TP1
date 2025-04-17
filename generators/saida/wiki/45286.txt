@@ -1,0 +1,20 @@
+====== 45286 - UI - António de Abreu de Lima Pereira Coutinho ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António de Abreu de Lima Pereira Coutinho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-08-23
+**UnitDateFinal**:: 1920-01-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45286
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45286
+
+===== Filhos =====
+  * [[45287.txt|45287 - DC - Carta]]
+  * [[45288.txt|45288 - DC - Telegrama]]
+  * [[45289.txt|45289 - DC - Cartão de visita]]

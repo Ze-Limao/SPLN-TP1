@@ -1,0 +1,16 @@
+====== 29539 - DC - Cartão de visita ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-04
+**UnitDateFinal**:: 1890-04
+**ScopeContent**:: Cartão imoresso "Anthero de Quental",  expedida de Vila do Conde?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29539
+**LangMaterial**:: Português
+**PhysLoc**:: AS 780 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29539

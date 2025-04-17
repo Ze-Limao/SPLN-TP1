@@ -1,0 +1,17 @@
+====== 21417 - UI - Inácio Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Inácio Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-04-29
+**UnitDateFinal**:: 1913-02-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21417
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1395, 1396
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21417
+
+===== Filhos =====
+  * [[30247.txt|30247 - DC - Carta]]
+  * [[30248.txt|30248 - DC - Carta]]

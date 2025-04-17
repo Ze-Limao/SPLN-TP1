@@ -1,0 +1,17 @@
+====== 21123 - UI - Frederico Casal Ribeiro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Frederico Casal Ribeiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-01-11
+**UnitDateFinal**:: 1892-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21123
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 452
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21123
+
+===== Filhos =====
+  * [[25495.txt|25495 - DC - Carta]]

@@ -1,0 +1,18 @@
+====== 50934 - DC - Registo do recenseamento militar de Rodrigo ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Rodrigo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-12-13
+Filiação - Manuel Ferreira e Custódia Sampaio
+Naturalidade - Carreira
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50934
+**LangMaterial**:: Português
+**PhysLoc**:: 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50934

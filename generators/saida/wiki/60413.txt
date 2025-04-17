@@ -1,0 +1,17 @@
+====== 60413 - DC - Recibo para Emília Freitas ======
+
+**Parent**:: 31395
+**RootParent**:: 31258
+**UnitTitle**:: Recibo para Emília Freitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1854-11-15
+**UnitDateFinal**:: 1854-11-15
+**ScopeContent**:: Manuscrito. Maria Emília de Freitas e Melo de Castro Rangel de Quadros foi mãe de Eulália Estelita Rangel de Quadros. Este recibo está no maço que contém CP 10675 a CP 10694.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54474
+**LangMaterial**:: Português
+**PhysLoc**:: CP 10675 - cx. 62
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60413

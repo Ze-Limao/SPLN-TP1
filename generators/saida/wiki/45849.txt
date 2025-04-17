@@ -1,0 +1,18 @@
+====== 45849 - UI - Maria José Lobo Ferrão ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria José Lobo Ferrão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-01
+**UnitDateFinal**:: 1910-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45849
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45849
+
+===== Filhos =====
+  * [[45850.txt|45850 - DC - Carta]]

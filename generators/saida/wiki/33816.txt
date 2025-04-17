@@ -1,0 +1,18 @@
+====== 33816 - UI - Albina Carvalho ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Albina Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-01-28
+**UnitDateFinal**:: 1920-01-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33816
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33816
+
+===== Filhos =====
+  * [[33817.txt|33817 - DC - Telegrama]]

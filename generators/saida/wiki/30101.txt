@@ -1,0 +1,14 @@
+====== 30101 - DC - Joaquim Braga Bastos ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Braga Bastos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-10
+**UnitDateFinal**:: 1974-10-10
+**ScopeContent**:: Regedor efetivo da freguesia de Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30101
+**LangMaterial**:: Português
+**PhysLoc**:: f. 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30101

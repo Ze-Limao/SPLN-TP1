@@ -1,0 +1,17 @@
+====== 101062 - DC - Nota sobre o prazo da casa Trás o Muro ======
+
+**Parent**:: 31302
+**RootParent**:: 31258
+**UnitTitle**:: Nota sobre o prazo da casa Trás o Muro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1843
+**UnitDateFinal**:: 1843
+**ScopeContent**:: Manuscrito. Este documento estava na “Caixa 11”, que contém CP 13211 a CP 13245.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13230 - cx. 90
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=101062

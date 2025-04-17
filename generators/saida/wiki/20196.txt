@@ -1,0 +1,15 @@
+====== 20196 - SR - Registo de licenças de caça ======
+
+**Parent**:: 20055
+**RootParent**:: 20048
+**UnitTitle**:: Registo de licenças de caça
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1925-08-29
+**UnitDateFinal**:: 1928-07-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20196
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20196
+
+===== Filhos =====
+  * [[20197.txt|20197 - UI - Registo de licenças de caça nº 1]]

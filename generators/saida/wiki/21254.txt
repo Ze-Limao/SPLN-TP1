@@ -1,0 +1,18 @@
+====== 21254 - UI - Manuel Pedro Guedes da Silva da Fonseca Meireles de Carvalho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Manuel Pedro Guedes da Silva da Fonseca Meireles de Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-12-17
+**UnitDateFinal**:: 1892-12-17
+**ScopeContent**:: Manuel Pedro Guedes da Silva da Fonseca Meireles de Carvalho nasceu a 27 Outubro 1837 em São Martinho, Penafiel e morreu a 25 Maio 1899. Filho de Manuel Guedes da Silva da Fonseca Meireles de Carvalho, 6.º Senhor do Morgado da Aveleda e Maria Leonor Teresa da Camara, 1.ª condessa de Pangim. Senhor da Casa da Aveleda. Moço Fidalgo da Casa Real. Representante do título de condessa de Pangim. Fidalgos da Casa Real.
+Fonte: Geni.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21254
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1000
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21254
+
+===== Filhos =====
+  * [[26204.txt|26204 - DC - Carta]]

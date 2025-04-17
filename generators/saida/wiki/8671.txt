@@ -1,0 +1,18 @@
+====== 8671 - DC - Termo do exame de António de Abreu Carneiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António de Abreu Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-19
+**UnitDateFinal**:: 1890-08-19
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - António José Alves Carneiro
+Naturalidade - Cabeçudos
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8671
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8671

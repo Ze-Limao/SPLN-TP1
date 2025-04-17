@@ -1,0 +1,20 @@
+====== 62929 - DC - Registo do recenseamento militar de Adriano ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Adriano
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Francisco Fernandes e Maria Clementina Alves de Sá, falecidos
+Naturalidade - Lagoa
+Morada - Ignora-se
+Data de nascimento - 1863-09-18
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62929

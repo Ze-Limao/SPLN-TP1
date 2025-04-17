@@ -1,0 +1,15 @@
+====== 24986 - UI - Livro de Presenças na Assembleia Geral ======
+
+**Parent**:: 20397
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Presenças na Assembleia Geral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1957-04-06
+**UnitDateFinal**:: 1977-08-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24986
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 90
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24986

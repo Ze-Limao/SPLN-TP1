@@ -1,0 +1,16 @@
+====== 28814 - DC - Carta ======
+
+**Parent**:: 28811
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-04
+**UnitDateFinal**:: 1885-05
+**ScopeContent**:: Carta expedida do Porto?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28814
+**LangMaterial**:: Português
+**PhysLoc**:: AS 794 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28814

@@ -1,0 +1,18 @@
+====== 21211 - UI - José Pereira Cirne ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Pereira Cirne
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-01-06
+**UnitDateFinal**:: 1920-02-29
+**ScopeContent**:: José Pereira Cirne era primo de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21211
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 821, 822
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21211
+
+===== Filhos =====
+  * [[26027.txt|26027 - DC - Carta]]
+  * [[26028.txt|26028 - DC - Carta]]

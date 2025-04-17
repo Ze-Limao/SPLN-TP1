@@ -1,0 +1,16 @@
+====== 29232 - DC - Talão de recibo de emissão de um vale ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Talão de recibo de emissão de um vale
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-10-20
+**UnitDateFinal**:: 1897-10-20
+**ScopeContent**:: Talão de recibo (n. 719), respeitante à emissão de um vale na estação de correio e telégrafo de Santo Tirso, no valor de 4290 reis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29232
+**LangMaterial**:: Português
+**PhysLoc**:: AS 349 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29232

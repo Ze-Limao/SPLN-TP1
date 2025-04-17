@@ -1,0 +1,16 @@
+====== 8339 - UI - Joaquim Ferreira Guimarães Júnior ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Joaquim Ferreira Guimarães Júnior
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-01-05
+**UnitDateFinal**:: 1895-01-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8339
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.24
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8339
+
+===== Filhos =====
+  * [[8340.txt|8340 - DC - Carta]]

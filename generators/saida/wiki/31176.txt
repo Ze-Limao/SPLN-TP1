@@ -1,0 +1,16 @@
+====== 31176 - DC - Registo do recenseamento eleitoral de João de Oliveira Claro ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João de Oliveira Claro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Louro
+Profissão - Lavrador
+Morada - Trescarreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31176
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31176

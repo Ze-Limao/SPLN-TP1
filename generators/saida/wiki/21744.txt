@@ -1,0 +1,16 @@
+====== 21744 - DC - Registo do recenseamento eleitoral de Francisco Cardoso de Araújo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Cardoso de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Avidos
+Profissão - Lavrador
+Morada - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21744
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21744

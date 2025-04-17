@@ -1,0 +1,16 @@
+====== 51999 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9168
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-02-01
+**UnitDateFinal**:: 1868-04-04
+**ScopeContent**:: Data de nascimento - 1847-11-20
+Filiação - António Luís e Quitéria de Oliveira
+Naturalidade - Aves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51999
+**LangMaterial**:: Português
+**PhysLoc**:: 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51999

@@ -1,0 +1,16 @@
+====== 30499 - DC - Registo do recenseamento eleitoral de Manuel Pereira Marques ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Pereira Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Avidos
+Profissão - Lavrador
+Morada - Moinhos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30499
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30499

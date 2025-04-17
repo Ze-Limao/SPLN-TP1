@@ -1,0 +1,19 @@
+====== 9569 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Francisco Rodrigues do Rego e Joaquina da Costa Vidal
+Naturalidade - Calendário
+Data de nascimento - 1877-02-26
+Profissão - Alfaiate
+Estado civil - Solteiro
+Residência - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9569
+**LangMaterial**:: Português
+**PhysLoc**:: f. 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9569

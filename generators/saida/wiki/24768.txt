@@ -1,0 +1,15 @@
+====== 24768 - UI - Correspondência recebida/expedida ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-07-05
+**UnitDateFinal**:: 1984-01-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24768
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 27 - cx. 7
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24768

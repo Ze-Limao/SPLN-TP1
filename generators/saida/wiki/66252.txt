@@ -1,0 +1,15 @@
+====== 66252 - DC - Diz o procurador e curador dos foreiros e fazenda da igreja de S. Tiago de Antas, enquanto está vaga por embargos a fim de se não cumprir a sentença da Relação do Porto, em que manda se não tiver de posse dos foreiros da dita igreja, João Pinto e F. Pinto ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Diz o procurador e curador dos foreiros e fazenda da igreja de S. Tiago de Antas, enquanto está vaga por embargos a fim de se não cumprir a sentença da Relação do Porto, em que manda se não tiver de posse dos foreiros da dita igreja, João Pinto e F. Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1590-08-30
+**UnitDateFinal**:: 1590-08-30
+**ScopeContent**:: Manuscrito, original, sem capa e folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 418 - cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66252

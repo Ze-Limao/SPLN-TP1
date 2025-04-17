@@ -1,0 +1,17 @@
+====== 32620 - DC - Carta ======
+
+**Parent**:: 32525
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-04-06
+**UnitDateFinal**:: 1917-04-06
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Grand Hotel Central Lisbonne". Carta sem menção ao dia. Esta carta pertence ao maço organizado por João Machado com a seguinte anotação: "Correspondência recebida pela Viscondessa D. Amália em 1917".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32620
+**LangMaterial**:: Português
+**PhysLoc**:: CP 930 - cx. 7
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32620

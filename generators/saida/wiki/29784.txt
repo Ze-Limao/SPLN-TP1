@@ -1,0 +1,16 @@
+====== 29784 - DC - Carta ======
+
+**Parent**:: 21311
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-02-19
+**UnitDateFinal**:: 1913-02-19
+**ScopeContent**:: Carta manuscrita assinada. Papel de carta de luto com brasão impresso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29784
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1193 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29784

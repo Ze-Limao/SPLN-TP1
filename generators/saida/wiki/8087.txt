@@ -1,0 +1,15 @@
+====== 8087 - DC - Termo de Domingos Ferreira de Andrade ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Domingos Ferreira de Andrade
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-04-16
+**UnitDateFinal**:: 1879-04-16
+**ScopeContent**:: Vedação de terreno
+Local - Nine
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8087
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8087

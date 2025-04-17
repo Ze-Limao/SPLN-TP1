@@ -1,0 +1,27 @@
+====== 48326 - UI - Ana Maria Isabel do Carmo Pinheiro de Melo ======
+
+**Parent**:: 31310
+**RootParent**:: 31258
+**UnitTitle**:: Ana Maria Isabel do Carmo Pinheiro de Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914
+**UnitDateFinal**:: 1916-05-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48326
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48326
+
+===== Filhos =====
+  * [[48327.txt|48327 - DC - Carta]]
+  * [[48328.txt|48328 - DC - Carta]]
+  * [[48329.txt|48329 - DC - Carta]]
+  * [[48330.txt|48330 - DC - Carta]]
+  * [[48331.txt|48331 - DC - Carta]]
+  * [[48332.txt|48332 - DC - Carta]]
+  * [[48333.txt|48333 - DC - Carta]]
+  * [[48334.txt|48334 - DC - Carta]]
+  * [[48335.txt|48335 - DC - Carta]]
+  * [[48336.txt|48336 - DC - Carta]]
+  * [[48337.txt|48337 - DC - Carta]]
+  * [[48338.txt|48338 - DC - Carta]]
+  * [[48339.txt|48339 - DC - Carta]]
+  * [[48340.txt|48340 - DC - Carta]]

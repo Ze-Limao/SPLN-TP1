@@ -1,0 +1,14 @@
+====== 30122 - DC - Adelino da Costa Santos ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Adelino da Costa Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-11-16
+**UnitDateFinal**:: 1974-11-16
+**ScopeContent**:: Regedor substituto da freguesia de Gondifelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30122
+**LangMaterial**:: Português
+**PhysLoc**:: f. 62
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30122

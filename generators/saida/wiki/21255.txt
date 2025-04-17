@@ -1,0 +1,19 @@
+====== 21255 - UI - Pedro Augusto Ferreira ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Pedro Augusto Ferreira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885-04-21
+**UnitDateFinal**:: 1885-05-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21255
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1001, 1002, 1003
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21255
+
+===== Filhos =====
+  * [[27907.txt|27907 - DC - Carta]]
+  * [[27908.txt|27908 - DC - Carta]]
+  * [[27909.txt|27909 - DC - Carta]]

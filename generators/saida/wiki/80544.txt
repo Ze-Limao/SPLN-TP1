@@ -1,0 +1,14 @@
+====== 80544 - UI - Processo nº 147 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 147
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-06-15
+**UnitDateFinal**:: 1973-03-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 189 - cx. 11
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80544

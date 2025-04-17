@@ -1,0 +1,14 @@
+====== 32961 - UI - Anselmo José Braamcamp ======
+
+**Parent**:: 31306
+**RootParent**:: 31258
+**UnitTitle**:: Anselmo José Braamcamp
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1885
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32961
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32961
+
+===== Filhos =====
+  * [[32962.txt|32962 - DC - Carta]]

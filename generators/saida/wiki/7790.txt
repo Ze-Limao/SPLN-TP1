@@ -1,0 +1,15 @@
+====== 7790 - UI - Livro de Registo de Mercês ======
+
+**Parent**:: 7789
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Registo de Mercês
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1836-04-20
+**UnitDateFinal**:: 1841-09-30
+**ScopeContent**:: Na capa "Livro 1º de Registo das mercês" e "Registo de Prazos nº27 1836". Encadernado a capas de couro com atilho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7790
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 1 - 
+Depósito 2, estante
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7790

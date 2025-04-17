@@ -1,0 +1,16 @@
+====== 23010 - DC - Registo do recenseamento eleitoral de Joaquim José de Oliveira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim José de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Pedome
+Profissão - Lavrador
+Morada - Eira de Cima
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23010
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23010

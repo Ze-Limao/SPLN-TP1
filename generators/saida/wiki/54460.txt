@@ -1,0 +1,16 @@
+====== 54460 - SR - Documentos ======
+
+**Parent**:: 31260
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1500-03-28
+**UnitDateFinal**:: 1724
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54460
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54460
+
+===== Filhos =====
+  * [[100765.txt|100765 - DC - Instituição do Morgado de Pindela por Luís de Carvalho e Beatriz de Almeida]]
+  * [[100908.txt|100908 - DC - Sentença sobre a Gonça de João da Silva contra Bartolomeu da Costa]]
+  * [[31261.txt|31261 - DC - Certidão do Testamento de Luís Carvalho de 1526]]

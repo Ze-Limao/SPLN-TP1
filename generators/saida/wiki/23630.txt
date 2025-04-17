@@ -1,0 +1,16 @@
+====== 23630 - DC - Registo do recenseamento eleitoral de Luís da Costa Machado ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Luís da Costa Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vale S. Martinho
+Profissão - Lavrador
+Morada - Agra de Além
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23630
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 80v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23630

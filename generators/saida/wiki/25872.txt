@@ -1,0 +1,16 @@
+====== 25872 - DC - Vida por vida ======
+
+**Parent**:: 25085
+**RootParent**:: 20342
+**UnitTitle**:: Vida por vida
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1955-06-24
+**UnitDateFinal**:: 1955-06-24
+**ScopeContent**:: Recorte de jornal Notícias de Famalicão. Na imagem publicada vê-se a direção e os bombeiros no batizado de Fernanda Angélica que nasceu na ambulância dos bombeiros. Apadrinharam Fernando Soares e Hilário Carvalho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25872
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 183 - cx. 47
+depósito 3, estante
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25872

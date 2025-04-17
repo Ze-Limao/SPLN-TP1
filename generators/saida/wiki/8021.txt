@@ -1,0 +1,15 @@
+====== 8021 - DC - Termo de João José da Costa e Sá ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de João José da Costa e Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-02-10
+**UnitDateFinal**:: 1875-02-10
+**ScopeContent**:: Construção de um aqueduto atravessando um caminho público
+Local - Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8021
+**LangMaterial**:: Português
+**PhysLoc**:: f. 42
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8021

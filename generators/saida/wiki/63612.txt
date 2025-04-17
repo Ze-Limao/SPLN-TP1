@@ -1,0 +1,19 @@
+====== 63612 - DC - Registo do recenseamento militar de Rodrigues ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - António Joaquim Leite e Maria da Costa
+Naturalidade - Ruivães
+Morada - Ignora-se
+Data de nascimento - 1866-09-01
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63612

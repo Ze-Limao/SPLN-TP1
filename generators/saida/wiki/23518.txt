@@ -1,0 +1,16 @@
+====== 23518 - DC - Registo do recenseamento eleitoral de Luís Ferreira Gonçalves ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Luís Ferreira Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Telhado
+Profissão - Lavrador
+Morada - Casaltainho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23518
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 75v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23518

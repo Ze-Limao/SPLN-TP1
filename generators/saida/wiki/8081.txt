@@ -1,0 +1,15 @@
+====== 8081 - DC - Termo de Joaquim Pereira ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Joaquim Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-02-28
+**UnitDateFinal**:: 1879-02-28
+**ScopeContent**:: Mudança de caminho público
+Local - Mogege
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8081
+**LangMaterial**:: Português
+**PhysLoc**:: f. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8081

@@ -1,0 +1,14 @@
+====== 30061 - DC - José Ferreira de Carvalho Barbosa ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: José Ferreira de Carvalho Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-06-02
+**UnitDateFinal**:: 1966-06-02
+**ScopeContent**:: Regedor substituto da freguesia de Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30061
+**LangMaterial**:: Português
+**PhysLoc**:: f. 31
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30061

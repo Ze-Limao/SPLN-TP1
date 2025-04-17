@@ -1,0 +1,16 @@
+====== 25902 - DC - Ambulância Volkswangen ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Ambulância Volkswangen
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954-09
+**UnitDateFinal**:: 1954-09
+**ScopeContent**:: A Ambulância Volkswangen foi a única ambulância da AHBVF até 1968.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25902
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25902

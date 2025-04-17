@@ -1,0 +1,15 @@
+====== 8033 - DC - Termo de Francisco Inácio de Aguiar Pimenta Carneiro e Maria da Glória Pereira de Magalhães ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Francisco Inácio de Aguiar Pimenta Carneiro e Maria da Glória Pereira de Magalhães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-06-12
+**UnitDateFinal**:: 1876-06-12
+**ScopeContent**:: Expropriação de terreno para a construção da estrada municipal de 1ª classe, nº 9
+Local - Vila Nova de Famalicão e Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8033
+**LangMaterial**:: Português
+**PhysLoc**:: f. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8033

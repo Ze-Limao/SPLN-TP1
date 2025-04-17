@@ -1,0 +1,15 @@
+====== 65746 - DC - Emprazamento do meio casal dos Pinchorros, situado na freguesia de Castelões, feita por Pedro de Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a António José de San Bueno Sousa da Costa, morador no Porto ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do meio casal dos Pinchorros, situado na freguesia de Castelões, feita por Pedro de Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a António José de San Bueno Sousa da Costa, morador no Porto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1747-02-03
+**UnitDateFinal**:: 1747-02-03
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 166 - cx. 8
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65746

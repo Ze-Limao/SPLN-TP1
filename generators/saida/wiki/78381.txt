@@ -1,0 +1,17 @@
+====== 78381 - DC - Paga que D. Bárbara Maria Pinheiro o reverendo Marcelino Pereira Cleto, abade de Entre-os-Rios dá quitado 15.000 reis do resto de dez medidas de trigo que pagava Diogo de Barros Alvim, da freguesia de Touvedo ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Paga que D. Bárbara Maria Pinheiro o reverendo Marcelino Pereira Cleto, abade de Entre-os-Rios dá quitado 15.000 reis do resto de dez medidas de trigo que pagava Diogo de Barros Alvim, da freguesia de Touvedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1783-12-14
+**UnitDateFinal**:: 1783-12-14
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4997 - cx. 36
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78381

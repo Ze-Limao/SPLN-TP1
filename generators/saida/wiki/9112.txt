@@ -1,0 +1,13 @@
+====== 9112 - DC - Ofício nº 14 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 14
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-04-06
+**UnitDateFinal**:: 1886-04-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9112
+**LangMaterial**:: Português
+**PhysLoc**:: f. 16
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9112

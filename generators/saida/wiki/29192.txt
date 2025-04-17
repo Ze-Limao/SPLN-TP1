@@ -1,0 +1,16 @@
+====== 29192 - DC - 1908 2 enxertos da ameixieira ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: 1908 2 enxertos da ameixieira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Identificação dos locais, variedades e números de enxertos de ameixieiras e macieiras.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29192
+**LangMaterial**:: Português
+**PhysLoc**:: AS 307 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29192

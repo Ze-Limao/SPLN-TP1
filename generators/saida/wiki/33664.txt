@@ -1,0 +1,21 @@
+====== 33664 - UI - Maria Margarida Braamcamp Sobral de Melo Breyner ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria Margarida Braamcamp Sobral de Melo Breyner
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-07-30
+**UnitDateFinal**:: 1916-03-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33664
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33664
+
+===== Filhos =====
+  * [[33665.txt|33665 - DC - Carta]]
+  * [[33666.txt|33666 - DC - Carta]]
+  * [[33667.txt|33667 - DC - Carta]]
+  * [[33668.txt|33668 - DC - Cartão]]

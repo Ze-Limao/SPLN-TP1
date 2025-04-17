@@ -1,0 +1,18 @@
+====== 21136 - UI - Henrique Coutinho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Henrique Coutinho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-09-06
+**UnitDateFinal**:: 1924-08-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21136
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 476, 477
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21136
+
+===== Filhos =====
+  * [[25522.txt|25522 - DC - Carta]]
+  * [[25523.txt|25523 - DC - Carta]]

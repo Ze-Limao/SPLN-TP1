@@ -1,0 +1,15 @@
+====== 53090 - UI - Alexandre de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31373
+**RootParent**:: 31258
+**UnitTitle**:: Alexandre de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1875
+**UnitDateFinal**:: 1888
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53090
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53090
+
+===== Filhos =====
+  * [[53091.txt|53091 - DC - Carta]]
+  * [[60572.txt|60572 - DC - Carta]]

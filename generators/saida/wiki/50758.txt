@@ -1,0 +1,18 @@
+====== 50758 - DC - Registo do recenseamento militar de José Joaquim ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-02-05
+Filiação - João do Rego e Ana Pinto
+Naturalidade - Arnoso Santa Maria
+Profissão - 
+Residência - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50758
+**LangMaterial**:: Português
+**PhysLoc**:: 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50758

@@ -1,0 +1,16 @@
+====== 61411 - DC - Posse novo governo ======
+
+**Parent**:: 60930
+**RootParent**:: 60550
+**UnitTitle**:: Posse novo governo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918
+**UnitDateFinal**:: 1918
+**ScopeContent**:: Posse do governo com o ministro das finanças Daniel Rodrigues.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 177 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61411

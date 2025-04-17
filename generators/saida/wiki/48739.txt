@@ -1,0 +1,16 @@
+====== 48739 - UI - Amadeu de Magalhães Coutinho Infante de La Cerda e Laura Pereira Palha ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Amadeu de Magalhães Coutinho Infante de La Cerda e Laura Pereira Palha
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48739
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48739
+
+===== Filhos =====
+  * [[48740.txt|48740 - DC - Carta]]

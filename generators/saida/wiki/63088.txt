@@ -1,0 +1,20 @@
+====== 63088 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Joaquim Alves Santos e Emília Rosa, ignoram-se
+Naturalidade - Delães
+Morada - 
+Data de nascimento - 1864-05-18
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63088

@@ -1,0 +1,17 @@
+====== 53808 - DC - Projecto da Câmara Municipal de Famalicão - Planta Geral 1E ======
+
+**Parent**:: 53746
+**RootParent**:: 25851
+**UnitTitle**:: Projecto da Câmara Municipal de Famalicão - Planta Geral 1E
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954-11
+**UnitDateFinal**:: 1956-04-09
+**ScopeContent**:: Cópia de planta. Planta de Implantação e Arranjos exteriores, esquema de estrutura e infraestrutura. Projeto de eletricidade. Escala: 1/200. Carimbo: Aprovado em Reunião de Câmara a 9 abril 1956 e assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53808
+**LangMaterial**:: Português
+**PhysLoc**:: JG 38 - cx. 1
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53808

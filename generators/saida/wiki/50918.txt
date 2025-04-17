@@ -1,0 +1,18 @@
+====== 50918 - DC - Registo do recenseamento militar de Jerónimo ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Jerónimo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-03-27
+Filiação - Miquelina Rosa da Silva
+Naturalidade - Ribeirão
+Profissão - Tamanqueiro
+Residência - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50918
+**LangMaterial**:: Português
+**PhysLoc**:: 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50918

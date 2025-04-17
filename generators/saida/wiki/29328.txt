@@ -1,0 +1,16 @@
+====== 29328 - DC - Acetato de chumbo liquido ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: Acetato de chumbo liquido
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1865-03-06
+**UnitDateFinal**:: 1865-03-06
+**ScopeContent**:: Composição da receita: acetato de chumbo líquido, água destilada de tanoagem, mucilagem de goma adragante, álcool canforado. Carimbo do farmacêutico António José Machado do Valle, com farmácia na Rua de Cirilo Machado, 18 na Vila de Santo Tirso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29328
+**LangMaterial**:: Português
+**PhysLoc**:: AS 223 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29328

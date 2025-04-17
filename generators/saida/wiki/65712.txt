@@ -1,0 +1,15 @@
+====== 65712 - DC - Emprazamento de metade do casal da Ponte, situado na freguesia de S. Tiago de Antas, e as herdades de Currais, da freguesia de Gavião, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Bento Gonçalves. A outra metade do casal da Ponte é emprazada a Gonçalo Dias e a sua mulher Catarina Gomes, em suas vidas. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento de metade do casal da Ponte, situado na freguesia de S. Tiago de Antas, e as herdades de Currais, da freguesia de Gavião, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Bento Gonçalves. A outra metade do casal da Ponte é emprazada a Gonçalo Dias e a sua mulher Catarina Gomes, em suas vidas.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1572-01-07
+**UnitDateFinal**:: 1572-01-07
+**ScopeContent**:: Manuscrito, original. No canto superior esquerdo "Nº6".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 68 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65712

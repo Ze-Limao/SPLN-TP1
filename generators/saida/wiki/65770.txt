@@ -1,0 +1,15 @@
+====== 65770 - DC - Sentença cível de emprazamento do casal do Outeiro, situado na freguesia de Santa Leocádia de Fradelos, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Manuel Luís de Azevedo e a sua mulher Ana Álvares ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal do Outeiro, situado na freguesia de Santa Leocádia de Fradelos, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Manuel Luís de Azevedo e a sua mulher Ana Álvares
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1793-06-15
+**UnitDateFinal**:: 1794
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 218 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65770

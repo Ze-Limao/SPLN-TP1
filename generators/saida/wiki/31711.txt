@@ -1,0 +1,22 @@
+====== 31711 - UI - Maria do Carmo Raposo de Sousa Alte ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria do Carmo Raposo de Sousa Alte
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878-10-07
+**UnitDateFinal**:: 1918-01-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31711
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31711
+
+===== Filhos =====
+  * [[31712.txt|31712 - DC - Carta]]
+  * [[31713.txt|31713 - DC - Carta]]
+  * [[31714.txt|31714 - DC - Carta]]
+  * [[31715.txt|31715 - DC - Carta]]
+  * [[31716.txt|31716 - DC - Cartão]]

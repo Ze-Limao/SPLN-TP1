@@ -1,0 +1,15 @@
+====== 66407 - DC - Procuração de Monsenhor António Ribeiro dos Santos Viegas, abade da freguesia de S. Tiago de Antas constitui seu procurador judicial Doutor Manuel da Silva Mendes e Lima da Silva Guimarães ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Procuração de Monsenhor António Ribeiro dos Santos Viegas, abade da freguesia de S. Tiago de Antas constitui seu procurador judicial Doutor Manuel da Silva Mendes e Lima da Silva Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-06-18
+**UnitDateFinal**:: 1890-06-18
+**ScopeContent**:: Manuscrito, original, sem capa, papel azul impresso selado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 469 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66407

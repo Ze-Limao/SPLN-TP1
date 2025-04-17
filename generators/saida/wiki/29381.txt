@@ -1,0 +1,15 @@
+====== 29381 - UI - António de Azevedo Castello-Branco ======
+
+**Parent**:: 28716
+**RootParent**:: 27963
+**UnitTitle**:: António de Azevedo Castello-Branco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 187
+**UnitDateFinal**:: 187
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29381
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29381
+
+===== Filhos =====
+  * [[29382.txt|29382 - DC - Envelope]]
+  * [[98618.txt|98618 - DC - Carta]]

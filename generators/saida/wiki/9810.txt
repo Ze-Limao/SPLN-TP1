@@ -1,0 +1,22 @@
+====== 9810 - SR - Centro de Novidades ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Centro de Novidades
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1934
+**UnitDateFinal**:: 1935-09-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9810
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9810
+
+===== Filhos =====
+  * [[60878.txt|60878 - DC - Famalicão - Paços do Concelho]]
+  * [[60879.txt|60879 - DC - Famalicão - Monumento a Camilo e Paços do Concelho]]
+  * [[9811.txt|9811 - DC - Famalicão - Monumento aos Mortos da Grande Guerra]]
+  * [[9812.txt|9812 - DC - Famalicão - Rua 5 de Outubro]]
+  * [[9813.txt|9813 - DC - Famalicão - Rua Adriano Pinto Basto]]
+  * [[9814.txt|9814 - DC - Famalicão - Campo Mouzinho de Albuquerque]]
+  * [[9815.txt|9815 - DC - Famalicão - Um aspecto da feira semanal]]
+  * [[9816.txt|9816 - DC - Famalicão - Vista Geral]]

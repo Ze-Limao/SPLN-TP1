@@ -1,0 +1,18 @@
+====== 8124 - DC - Manuel de Azevedo Monteiro ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Manuel de Azevedo Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-11-20
+**UnitDateFinal**:: 1883-05-17
+**ScopeContent**:: Escola - Vermoim
+Cargo - Professor
+Vínculo - Temporário
+Naturalidade - Vermoim
+Data de posse - 1882-11-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8124
+**LangMaterial**:: Português
+**PhysLoc**:: f. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8124

@@ -1,0 +1,18 @@
+====== 52432 - DC - Registo do recenseamento militar de Joaquim de Freitas ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim de Freitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-06-15
+Filiação - José de Freitas e Ana Joaquina Lopes
+Naturalidade - Joane
+Profissão - Alfaiate
+Residência - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52432
+**LangMaterial**:: Português
+**PhysLoc**:: 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52432

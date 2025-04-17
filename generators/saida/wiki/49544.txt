@@ -1,0 +1,18 @@
+====== 49544 - DC - Registo do recenseamento eleitoral de António de Oliveira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Almocreve
+Estado - Casado
+Morada - Rua Direita
+Idade - 50
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49544
+**LangMaterial**:: Português
+**PhysLoc**:: 89v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49544

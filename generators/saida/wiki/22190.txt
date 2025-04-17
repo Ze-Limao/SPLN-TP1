@@ -1,0 +1,16 @@
+====== 22190 - DC - Registo do recenseamento eleitoral de José Matias Lopes de Azevedo Carvalho ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Matias Lopes de Azevedo Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Proprietário
+Morada - Gavim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22190
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22190

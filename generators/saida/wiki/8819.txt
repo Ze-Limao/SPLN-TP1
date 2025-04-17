@@ -1,0 +1,18 @@
+====== 8819 - DC - Termo do exame de António da Silva Castro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António da Silva Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-08-22
+**UnitDateFinal**:: 1892-08-22
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Jerónimo Francisco de Castro
+Naturalidade - Novais
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8819
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8819

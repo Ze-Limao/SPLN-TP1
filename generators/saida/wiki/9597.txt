@@ -1,0 +1,19 @@
+====== 9597 - DC - Registo do recenseamento militar de Firmino ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Firmino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Daniel Monteiro da Silva e Sofia Rosa Dias
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1877-06-15
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9597
+**LangMaterial**:: Português
+**PhysLoc**:: f. 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9597

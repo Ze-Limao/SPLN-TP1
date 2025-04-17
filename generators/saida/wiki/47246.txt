@@ -1,0 +1,18 @@
+====== 47246 - DC - Registo do recenseamento eleitoral de António Augusto dos Santos ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Augusto dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Escrivão de Direito
+Estado - Casado
+Morada - Praça da Mota
+Idade - 56
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47246
+**LangMaterial**:: Português
+**PhysLoc**:: 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47246

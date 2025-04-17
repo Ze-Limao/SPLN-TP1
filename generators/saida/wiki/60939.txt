@@ -1,0 +1,16 @@
+====== 60939 - DC - Testemunho de solidariedade das Comissões do Partido Republicano Portugues de Lisboa… ao ilustre…Dr. Daniel Rodrigues ======
+
+**Parent**:: 60931
+**RootParent**:: 60550
+**UnitTitle**:: Testemunho de solidariedade das Comissões do Partido Republicano Portugues de Lisboa… ao ilustre…Dr. Daniel Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-08
+**UnitDateFinal**:: 1917-08
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 192 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60939

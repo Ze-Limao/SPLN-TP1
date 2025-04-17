@@ -1,0 +1,17 @@
+====== 56884 - DC - Comissão de Viticultura da Região dos Vinhos Verdes. Archivo especial: I. Minha sahida da Comissão Executiva II. Minha atitude posterior III. Apontamento e substituição da Comissão Executiva "Azevedo, Conto & Comp.ia" ======
+
+**Parent**:: 54532
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura da Região dos Vinhos Verdes. Archivo especial: I. Minha sahida da Comissão Executiva II. Minha atitude posterior III. Apontamento e substituição da Comissão Executiva "Azevedo, Conto & Comp.ia"
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1935-03-19
+**UnitDateFinal**:: 1935-06
+**ScopeContent**:: Capa manuscrita a cores. Contém Memorandum manuscrito de  junho 1935, cartas de Augusto Brito, ofício para Espregueira, telegrama, minutas de ofícios datilografas do Ministro de Agricultura, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56884
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2342 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56884

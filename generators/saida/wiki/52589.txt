@@ -1,0 +1,16 @@
+====== 52589 - DC - Registo do recenseamento militar de Manuel de Amorim ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel de Amorim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-05-08
+Filiação - Teodósio Pereira de Amorim e Maria Ferreira
+Naturalidade - Seide S. Miguel
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52589
+**LangMaterial**:: Português
+**PhysLoc**:: 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52589

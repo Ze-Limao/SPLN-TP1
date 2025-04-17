@@ -1,0 +1,16 @@
+====== 29900 - DC - Povoa de Varzim ======
+
+**Parent**:: 28619
+**RootParent**:: 27963
+**UnitTitle**:: Povoa de Varzim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Notas de investigação compiladas do Livro de Linhagens.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29900
+**LangMaterial**:: Português
+**PhysLoc**:: AS 113 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29900

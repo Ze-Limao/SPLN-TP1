@@ -1,0 +1,19 @@
+====== 20497 - DC - Registo do recenseamento militar de Semião ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Semião
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Bairro
+Filiação - José Correia Machado e Maria Joaquina Pereira
+Naturalidade - Bairro
+Data de nascimento - 1870-05-25
+Estado - Solteiro
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20497
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20497

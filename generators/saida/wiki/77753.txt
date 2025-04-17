@@ -1,0 +1,17 @@
+====== 77753 - DC - Prazo que fez João Machado de Melo Pinheiro Figueira a Francisco Gomes, viúvo, de Mouquim. ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Prazo que fez João Machado de Melo Pinheiro Figueira a Francisco Gomes, viúvo, de Mouquim.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1777-09-05
+**UnitDateFinal**:: 1777-09-05
+**ScopeContent**:: Manuscrito com folhas cosidas. O título dado pelo Abade de Tagilde e nota "foi reformado no livro nº 1 a folha 169. Prazo do casal do Muro, em Mouquim". Faz parte do documento composto CP 4043 com título "Pindela".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4043(3) - cx. 30
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77753

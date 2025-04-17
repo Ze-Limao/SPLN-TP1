@@ -1,0 +1,20 @@
+====== 20529 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Nine
+Filiação - António da Costa Araújo e Maria Joana de Oliveira
+Naturalidade - Nine
+Data de nascimento - 1870-04-05
+Emprego - Criado de servir
+Estado - Solteiro
+Residência - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20529
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20529

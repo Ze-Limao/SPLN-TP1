@@ -1,0 +1,16 @@
+====== 30539 - DC - Registo do recenseamento eleitoral de Domingos Rodrigues de Andrade ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos Rodrigues de Andrade
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Bairro
+Profissão - Lavrador
+Morada - Monte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30539
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30539

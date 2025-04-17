@@ -1,0 +1,15 @@
+====== 99444 - UI - M. A. de Seabra ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: M. A. de Seabra
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-11-15
+**UnitDateFinal**:: 1911-11-15
+**ScopeContent**:: Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99444
+
+===== Filhos =====
+  * [[99553.txt|99553 - DC - Carta]]

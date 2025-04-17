@@ -1,0 +1,19 @@
+====== 33735 - UI - António Borges Coutinho de Medeiros Sousa Dias da Câmara ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Borges Coutinho de Medeiros Sousa Dias da Câmara
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-06-03
+**UnitDateFinal**:: 1920-01-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33735
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33735
+
+===== Filhos =====
+  * [[33736.txt|33736 - DC - Telegrama]]
+  * [[33737.txt|33737 - DC - Carta]]

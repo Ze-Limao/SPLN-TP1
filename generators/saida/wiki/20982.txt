@@ -1,0 +1,15 @@
+====== 20982 - DC - Nº 3/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 3/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-02-12
+**UnitDateFinal**:: 1962-02-12
+**ScopeContent**:: Contrato de concessão da distribuição de energia elétrica nas freguesias de Arnoso Santa Eulália, Nine, Lemenhe, Jesufrei, Mouquim, Louro, Cavalões, Outiz e Gondifelos
+Outorgante - Cooperativa Elétrica do Vale d'Este
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20982
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20982

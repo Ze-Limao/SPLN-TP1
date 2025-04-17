@@ -1,0 +1,19 @@
+====== 21082 - UI - Paulo de Melo Sampaio Freitas do Amaral ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Paulo de Melo Sampaio Freitas do Amaral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-05-20
+**UnitDateFinal**:: 1908-04-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21082
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 313, 314, 315
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21082
+
+===== Filhos =====
+  * [[24880.txt|24880 - DC - Carta]]
+  * [[24881.txt|24881 - DC - Carta]]
+  * [[24882.txt|24882 - DC - Carta]]

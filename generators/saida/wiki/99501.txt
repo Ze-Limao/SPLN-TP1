@@ -1,0 +1,15 @@
+====== 99501 - UI - António Ferreira ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: António Ferreira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-09-09
+**UnitDateFinal**:: 1911-09-09
+**ScopeContent**:: Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99501
+
+===== Filhos =====
+  * [[99502.txt|99502 - DC - Carta]]

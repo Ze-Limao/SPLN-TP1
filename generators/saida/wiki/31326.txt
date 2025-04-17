@@ -1,0 +1,14 @@
+====== 31326 - SSSC - Administração da Casa de Pindela ======
+
+**Parent**:: 31313
+**RootParent**:: 31258
+**UnitTitle**:: Administração da Casa de Pindela
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1840
+**UnitDateFinal**:: 1924-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31326
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31326
+
+===== Filhos =====
+  * [[31327.txt|31327 - SR - Documentos]]

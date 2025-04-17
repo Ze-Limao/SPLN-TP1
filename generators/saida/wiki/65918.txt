@@ -1,0 +1,15 @@
+====== 65918 - DC - Emprazamento do casal do Outeiro, situado na freguesia de Fradelos, feito por Rodrigo de Mendonça Vasconcelos e Sousa, abade de S. Tiago de Antas, a Manuel Carneiro ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal do Outeiro, situado na freguesia de Fradelos, feito por Rodrigo de Mendonça Vasconcelos e Sousa, abade de S. Tiago de Antas, a Manuel Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1784
+**UnitDateFinal**:: 1784
+**ScopeContent**:: Manuscrito, original. Documento sem datação, incompleto , pode estar relacionado com CSTA 673.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 653 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65918

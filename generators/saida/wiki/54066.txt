@@ -1,0 +1,17 @@
+====== 54066 - DC - Processo de compra de mobiliário para sub-delegado de Saúde ======
+
+**Parent**:: 53751
+**RootParent**:: 25851
+**UnitTitle**:: Processo de compra de mobiliário para sub-delegado de Saúde
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1965-06-01
+**UnitDateFinal**:: 1965-06-29
+**ScopeContent**:: Contém Relação do material indispensável para sub-delegado de Saúde; propostas Papelaria e Livraria da Alta, e Metalúrgica da Longra. Panfletos publicitários.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54066
+**LangMaterial**:: Português
+**PhysLoc**:: JG 203 - cx. 15
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54066

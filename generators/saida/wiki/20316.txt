@@ -1,0 +1,14 @@
+====== 20316 - UI - Registo de entrada nº2 ======
+
+**Parent**:: 20220
+**RootParent**:: 7651
+**UnitTitle**:: Registo de entrada nº2
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1953-03-07
+**UnitDateFinal**:: 1953-09-11
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir este livro para nele se registar (manuscrito) correspondência recebida…”. Começa com o registo nº 485 até ao registo nº 1624.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20316
+**LangMaterial**:: Português
+**PhysLoc**:: 716
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20316

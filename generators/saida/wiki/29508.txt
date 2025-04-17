@@ -1,0 +1,15 @@
+====== 29508 - DC - Nota ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Nota
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881-09
+**UnitDateFinal**:: 1881-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29508
+**LangMaterial**:: Português
+**PhysLoc**:: AS 749 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29508

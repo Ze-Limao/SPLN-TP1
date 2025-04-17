@@ -1,0 +1,15 @@
+====== 66558 - DC - Obrigação de pensão que faz António José Soares da Gandra clérigo minoribus da freguesia da Graça do Couto do prazo de Creixomil ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Obrigação de pensão que faz António José Soares da Gandra clérigo minoribus da freguesia da Graça do Couto do prazo de Creixomil
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1752-12-24
+**UnitDateFinal**:: 1752-12-24
+**ScopeContent**:: Manuscrito, público instrumento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 578 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66558

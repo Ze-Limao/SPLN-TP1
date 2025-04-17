@@ -1,0 +1,16 @@
+====== 29212 - DC - Cabras ======
+
+**Parent**:: 29178
+**RootParent**:: 27963
+**UnitTitle**:: Cabras
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-07
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Notas respeitantes a cabras, transcritas da revista «The World’s Work» de Jul. e Out. 1903. Intercaladas com as notas, em inglês, aparecem algumas considerações feitas por Alberto Sampaio, tal como: «São afamadas as cabras irlandesas de Wicklow, o preço é menor para o das inglesas…»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29212
+**LangMaterial**:: Português
+**PhysLoc**:: AS 328 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29212

@@ -1,0 +1,18 @@
+====== 8863 - DC - Termo do exame de Joaquim Alves Carneiro Bezerra ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim Alves Carneiro Bezerra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-05
+**UnitDateFinal**:: 1893-08-05
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - António Alves Carneiro Bezerra 
+Naturalidade - Requião
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8863
+**LangMaterial**:: Português
+**PhysLoc**:: f. 51
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8863

@@ -1,0 +1,15 @@
+====== 97734 - UI - Processo nº 7 ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 7
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1981-06-01
+**UnitDateFinal**:: 1984-07-13
+**ScopeContent**:: Junto com Autos de Transgressão nº 623 e Autos de Execução de Custas nº 117.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 475 - cx. 29
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97734

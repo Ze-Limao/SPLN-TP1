@@ -1,0 +1,20 @@
+====== 63262 - DC - Registo do recenseamento militar de Henrique ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Henrique
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Bernardino da Costa Fernandes Machado e Ermelinda Augusta Ferreira Machado
+Naturalidade - Louro
+Morada - Ignora-se
+Data de nascimento - 1864-03-10
+Emprego - Estudante
+Estado - Solteiro
+Residência acidental - Coimbra
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63262

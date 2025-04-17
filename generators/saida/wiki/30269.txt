@@ -1,0 +1,16 @@
+====== 30269 - DC - Carta ======
+
+**Parent**:: 21433
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-11-13
+**UnitDateFinal**:: 1915-11-13
+**ScopeContent**:: Carta manuscrita e assinada, da Casa de Corugeiras.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30269
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1421 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30269

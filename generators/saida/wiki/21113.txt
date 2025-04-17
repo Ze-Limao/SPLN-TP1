@@ -1,0 +1,17 @@
+====== 21113 - UI - Filomena Gomes Loureiro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Filomena Gomes Loureiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1925-02-18
+**UnitDateFinal**:: 1925-02-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21113
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 419
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21113
+
+===== Filhos =====
+  * [[25463.txt|25463 - DC - Carta]]

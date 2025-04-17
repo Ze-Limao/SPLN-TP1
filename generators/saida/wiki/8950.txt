@@ -1,0 +1,18 @@
+====== 8950 - DC - Termo do exame de Amélia Rosa Leitão ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Amélia Rosa Leitão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-31
+**UnitDateFinal**:: 1894-07-31
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Manuel de Oliveira Leitão
+Naturalidade - Vila Nova de Famalicão
+Classificação - Distinta
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8950
+**LangMaterial**:: Português
+**PhysLoc**:: f. 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8950

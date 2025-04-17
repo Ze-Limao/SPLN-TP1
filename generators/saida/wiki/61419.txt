@@ -1,0 +1,16 @@
+====== 61419 - DC - Diploma de Funções Públicas … ao Bacharel Daniel José Rodrigues…para o lugar de Administrador Geral da Caixa Geral de Depósitos e Instituições de Presidência ======
+
+**Parent**:: 60928
+**RootParent**:: 60550
+**UnitTitle**:: Diploma de Funções Públicas … ao Bacharel Daniel José Rodrigues…para o lugar de Administrador Geral da Caixa Geral de Depósitos e Instituições de Presidência
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-10-15
+**UnitDateFinal**:: 1928-03-28
+**ScopeContent**:: Diploma assinado Sidónio Pais.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 204 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61419

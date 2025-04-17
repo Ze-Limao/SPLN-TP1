@@ -1,0 +1,16 @@
+====== 20188 - UI - Registo dos indigentes que deram entrada nas cadeias desta vila ======
+
+**Parent**:: 20187
+**RootParent**:: 20048
+**UnitTitle**:: Registo dos indigentes que deram entrada nas cadeias desta vila
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-01-18
+**UnitDateFinal**:: 1920-04
+**ScopeContent**:: Termo de abertura: “Tem de servir este livro para n´elle se registarem as folhas mensais constantes dos presos indigentes que deram entrada nas cadeias d´esta Villa, com descriminação dos que estão à ordem do Juiz de Direito e dos que estão à ordem do administrador d´este concelho…”.
+Contém dados: ano, mês, nº de presos à ordem do Juiz e do administrador e quantias correspondentes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20188
+**LangMaterial**:: Português
+**PhysLoc**:: AC 40
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20188

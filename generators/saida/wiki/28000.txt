@@ -1,0 +1,16 @@
+====== 28000 - DC - Lista de nomes de estudantes ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Lista de nomes de estudantes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1862
+**ScopeContent**:: Poderá tratar-se de uma lista de nomes a propor para a Sociedade do Raio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28000
+**LangMaterial**:: Português
+**PhysLoc**:: AS 267 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28000

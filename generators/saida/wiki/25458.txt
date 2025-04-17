@@ -1,0 +1,16 @@
+====== 25458 - DC - Merecidas distinções ======
+
+**Parent**:: 25080
+**RootParent**:: 20342
+**UnitTitle**:: Merecidas distinções
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966
+**UnitDateFinal**:: 1966
+**ScopeContent**:: Notícia de jornal "Vida por vida", do Peso da Régua, referindo as distinções com a Ordem da Benemerência ao Comandante dos Bombeiros Voluntários de Famalicão Fernando da Silva Soares e ao diretor tesoureiro Hilário Carvalho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25458
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 178 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25458

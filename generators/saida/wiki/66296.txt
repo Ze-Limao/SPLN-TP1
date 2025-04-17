@@ -1,0 +1,15 @@
+====== 66296 - DC - Carta de inquisição tirada no Couto de Landim em que o autor abade reverendo João Gomes de Brito de S. Tiago de Antas que seja entregue a Manuel … na cidade do Porto ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Carta de inquisição tirada no Couto de Landim em que o autor abade reverendo João Gomes de Brito de S. Tiago de Antas que seja entregue a Manuel … na cidade do Porto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1600-04
+**UnitDateFinal**:: 1600-04
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 435 - cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66296

@@ -1,0 +1,16 @@
+====== 31312 - SC - Vicente Pinheiro Lobo Machado de Melo e Almada e Maria Amália de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31258
+**RootParent**:: 31258
+**UnitTitle**:: Vicente Pinheiro Lobo Machado de Melo e Almada e Maria Amália de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1839
+**UnitDateFinal**:: 1980-05-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31312
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31312
+
+===== Filhos =====
+  * [[31313.txt|31313 - SSC - Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31314.txt|31314 - SSC - Maria Amália de Sousa Botelho Mourão e Vasconcelos]]
+  * [[79607.txt|79607 - SSC - Grácia da Assunção Pinheiro de Melo]]

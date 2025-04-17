@@ -1,0 +1,13 @@
+====== 9195 - UI - Recenseamento para o Recrutamento do Exército e Armada ======
+
+**Parent**:: 8968
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento para o Recrutamento do Exército e Armada
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-01-07
+**UnitDateFinal**:: 1898-02-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9195
+**LangMaterial**:: Português
+**PhysLoc**:: 5.5.35
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9195

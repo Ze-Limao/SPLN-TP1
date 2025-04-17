@@ -1,0 +1,18 @@
+====== 8112 - DC - Manuel Carneiro Alves ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Carneiro Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-10-13
+**UnitDateFinal**:: 1885-05-20
+**ScopeContent**:: Escola - Vila Nova de Famalicão. Masculina
+Cargo - Professor ajudante
+Vínculo - Temporário
+Naturalidade - Abade de Vermoim
+Data de posse - 1882-10-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8112
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8112

@@ -1,0 +1,16 @@
+====== 28072 - DC - Proposta ======
+
+**Parent**:: 29457
+**RootParent**:: 27963
+**UnitTitle**:: Proposta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-12-07
+**UnitDateFinal**:: 1883-05-10
+**ScopeContent**:: Proposta apresentada pelo acionista Abílio Torres na assembleia-geral dos acionistas da Companhia de Banhos de Vizela, realizada a 7 de Dezembro de 1882. Parecer do Conselho Fiscal sobre a proposta apresentada, com data de 10 de Maio de 1883.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28072
+**LangMaterial**:: Português
+**PhysLoc**:: AS 164 - cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28072

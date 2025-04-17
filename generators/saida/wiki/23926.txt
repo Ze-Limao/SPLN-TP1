@@ -1,0 +1,16 @@
+====== 23926 - DC - Carta ======
+
+**Parent**:: 21053
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-05-01
+**UnitDateFinal**:: 1925-05-01
+**ScopeContent**:: Álvaro María de las Casas envia o seu Ex-libris e solicita o de JAM. Carta manuscrita assinada, Estrella - 15, Madrid (12). Contém em folha separada o Ex-libris.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23926
+**LangMaterial**:: Castelhano
+**PhysLoc**:: JAM 80 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23926

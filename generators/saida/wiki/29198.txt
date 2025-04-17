@@ -1,0 +1,17 @@
+====== 29198 - DC - Ananases ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Ananases
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Substrato e método de plantação e amadurecimento de ananases. Sobre a cultura de ananases ver a carta de Vicente Machado Faria e Maia enviada a Alberto Sampaio em 1870.
+Fonte: Cartas a Alberto Sampaio. Organização, introdução e notas Emília Nóvoa Faria e António Martins. Porto: Campo das Letras, 2008, pp. 135-136.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29198
+**LangMaterial**:: Português
+**PhysLoc**:: AS 313 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29198

@@ -1,0 +1,16 @@
+====== 25023 - UI - Balancete Novembro/95; Prevenção de despesas 1996, Parecer do Conselho Fiscal 1995; Recortes de imprensa ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Balancete Novembro/95; Prevenção de despesas 1996, Parecer do Conselho Fiscal 1995; Recortes de imprensa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1995-02-03
+**UnitDateFinal**:: 1996-02-20
+**ScopeContent**:: Contém: 30 Recortes de imprensa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25023
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 126 - cx. 31
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25023

@@ -1,0 +1,21 @@
+====== 32233 - UI - Josefina Furtado de Antas ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Josefina Furtado de Antas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912-11-25
+**UnitDateFinal**:: 1913-07-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32233
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32233
+
+===== Filhos =====
+  * [[32234.txt|32234 - DC - Carta]]
+  * [[32235.txt|32235 - DC - Postal ilustrado]]
+  * [[32236.txt|32236 - DC - Carta]]
+  * [[32237.txt|32237 - DC - Carta]]

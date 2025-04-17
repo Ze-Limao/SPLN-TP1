@@ -1,0 +1,20 @@
+====== 20405 - DC - Registo do recenseamento militar de Álvaro ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Álvaro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Joane
+Filiação - António Machado e Maria Rosa Correia
+Naturalidade - Airão
+Data de nascimento - 1870-09-17
+Emprego - Criado de servir
+Estado - 
+Residência - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20405
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20405

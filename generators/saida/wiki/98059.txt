@@ -1,0 +1,15 @@
+====== 98059 - UI - Processo nº 291 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 291
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-05-05
+**UnitDateFinal**:: 1978-04-13
+**ScopeContent**:: Junto com Autos de Transgressão nº 292, 293, 294 e Auto de Execução por Custas nº 40.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 725 - cx. 39
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98059

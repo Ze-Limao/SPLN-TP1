@@ -1,0 +1,16 @@
+====== 28187 - DC - Vinha do meio ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vinha do meio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-02-09
+**UnitDateFinal**:: 1907-02-09
+**ScopeContent**:: Identificação das castas e do número de vides plantadas em oito cordões na vinha do meio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28187
+**LangMaterial**:: Português
+**PhysLoc**:: AS 459 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28187

@@ -1,0 +1,19 @@
+====== 29252 - SSSC - Gestão patrimonial ======
+
+**Parent**:: 28063
+**RootParent**:: 27963
+**UnitTitle**:: Gestão patrimonial
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1896
+**UnitDateFinal**:: 1901
+**ScopeContent**:: Gestão da Quinta da Capela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29252
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29252
+
+===== Filhos =====
+  * [[29254.txt|29254 - DC - Documentos de gestão da Quinta da Capela]]
+  * [[29260.txt|29260 - DC - 1899 Notas sobre o ensaio dos adubos chimicos na cultura do milho]]
+  * [[29261.txt|29261 - DC - 1899 Nota dos ensaios dos adubos chimicos na cultura do milho e apontamento bibliográfico]]

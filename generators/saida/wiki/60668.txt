@@ -1,0 +1,14 @@
+====== 60668 - SC - Serviços Financeiros ======
+
+**Parent**:: 60539
+**RootParent**:: 60539
+**UnitTitle**:: Serviços Financeiros
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1878-12-29
+**UnitDateFinal**:: 1896-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60668
+
+===== Filhos =====
+  * [[98846.txt|98846 - SSC - Serviços Financeiros]]

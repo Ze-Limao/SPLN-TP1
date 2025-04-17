@@ -1,0 +1,17 @@
+====== 9768 - DC - Estação do Caminho de Ferro do Minho ======
+
+**Parent**:: 9756
+**RootParent**:: 60698
+**UnitTitle**:: Estação do Caminho de Ferro do Minho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1912
+**ScopeContent**:: Fachada da estação de V.N. Famalicão para a rua, com caleche, telhados e outros tons de vermelho. Bilhete-postal impresso em tom de bege com legenda na frente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9768
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 23 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9768

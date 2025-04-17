@@ -1,0 +1,16 @@
+====== 29992 - DC - Carta ======
+
+**Parent**:: 21445
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-01-12
+**UnitDateFinal**:: 1906-01-12
+**ScopeContent**:: Carta manuscrita assinada, de Viana do Castelo. Papel timbrado "1ª Brigada de Infantaria. Gabinete do Commandante. Particular".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29992
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1438 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29992

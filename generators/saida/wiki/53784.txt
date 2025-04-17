@@ -1,0 +1,17 @@
+====== 53784 - DC - Projecto da Câmara Municipal de Famalicão - Planta Geral - 1 ======
+
+**Parent**:: 53746
+**RootParent**:: 25851
+**UnitTitle**:: Projecto da Câmara Municipal de Famalicão - Planta Geral - 1
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954-11
+**UnitDateFinal**:: 1954-11
+**ScopeContent**:: Cópia de planta. Planta de Implantação e arranjos exteriores, esquema de estrutura e infraestrutura  - Escala: 1/200. Desenho anotado, com atualização das alterações em obra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53784
+**LangMaterial**:: Português
+**PhysLoc**:: JG 16 - cx. 1
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53784

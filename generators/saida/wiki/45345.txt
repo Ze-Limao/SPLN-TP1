@@ -1,0 +1,17 @@
+====== 45345 - DC - Carta ======
+
+**Parent**:: 45344
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-07-15
+**UnitDateFinal**:: 1917-07-15
+**ScopeContent**:: Carta manuscrita em papel impresso "Casa Grande, Paredes de Coura".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45345
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3883 - cx. 29
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45345

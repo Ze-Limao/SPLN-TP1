@@ -1,0 +1,23 @@
+====== 56090 - DC - Demarcação das fronteiras alemãs e portuguesas (África Ocidental) Memória ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Demarcação das fronteiras alemãs e portuguesas (África Ocidental) Memória
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Envelope com título manuscrito que contém cópias de cartas de Vicente Almada e de outros, CP 14714 a CP 14718.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56090
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14714 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56090
+
+===== Filhos =====
+  * [[56091.txt|56091 - DC - Cópia de carta]]
+  * [[56092.txt|56092 - DC - Cópia de carta]]
+  * [[56093.txt|56093 - DC - Cópia de carta]]
+  * [[56095.txt|56095 - DC - Fichas de registo de correspondência]]

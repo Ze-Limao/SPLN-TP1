@@ -1,0 +1,15 @@
+====== 24773 - UI - Correspondência recebida/expedida ao Instituto Nacional de Estatística ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida ao Instituto Nacional de Estatística
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1981-09-26
+**UnitDateFinal**:: 1985-05-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24773
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 32 - cx. 7
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24773

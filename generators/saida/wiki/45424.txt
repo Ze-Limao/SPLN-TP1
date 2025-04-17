@@ -1,0 +1,18 @@
+====== 45424 - DC - Registo do recenseamento eleitoral de João José de Miranda ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João José de Miranda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Antas
+Profissão - Negociante
+Estado - Casado
+Morada - Montulo
+Idade - 30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45424
+**LangMaterial**:: Português
+**PhysLoc**:: 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45424

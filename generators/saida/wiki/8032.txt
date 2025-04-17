@@ -1,0 +1,16 @@
+====== 8032 - DC - Termo de Manuel de Carvalho Monteiro Guimarães ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel de Carvalho Monteiro Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-06-12
+**UnitDateFinal**:: 1876-06-12
+**ScopeContent**:: Condução de água junto de um caminho público
+Local - Aves
+Morada - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8032
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8032

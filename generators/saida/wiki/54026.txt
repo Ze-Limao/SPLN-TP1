@@ -1,0 +1,17 @@
+====== 54026 - DC - Ofício dirigida ao Gabinete do Ministro da Justiça do Presidente da Câmara Municipal de Famalicão sobre o Segundo Adicional à Empreitada Geral do Novo Edifício do Tribunal ======
+
+**Parent**:: 54025
+**RootParent**:: 25851
+**UnitTitle**:: Ofício dirigida ao Gabinete do Ministro da Justiça do Presidente da Câmara Municipal de Famalicão sobre o Segundo Adicional à Empreitada Geral do Novo Edifício do Tribunal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-06-06
+**UnitDateFinal**:: 1961-06-06
+**ScopeContent**:: Original. Assinado pelo Sr. Presidente da Câmara José Pinto de Oliveira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54026
+**LangMaterial**:: Português
+**PhysLoc**:: JG 154(2) - cx. 16
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54026

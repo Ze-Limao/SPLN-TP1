@@ -1,0 +1,16 @@
+====== 25485 - DC - Carta ======
+
+**Parent**:: 21122
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-12-12
+**UnitDateFinal**:: 1917-12-12
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado com brasão de "Frazão Vasconcellos". Junto com uma publicação impressa "Um Ex-Libris Inédito", publicado em Lisboa, 1918. A publicação tem dedicatória oferecida a JAM em 1918-11-27.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25485
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 442 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25485

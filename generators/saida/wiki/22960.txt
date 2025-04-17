@@ -1,0 +1,16 @@
+====== 22960 - DC - Registo do recenseamento eleitoral de José Ferreira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Oliveira Santa Maria
+Profissão - Carpinteiro
+Morada - Casa Nova
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22960
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22960

@@ -1,0 +1,15 @@
+====== 31296 - SSC - João Machado de Melo Pinheiro e Figueira e Maria Angélica Rita Pinto Pereira de Magalhães e Gouveia ======
+
+**Parent**:: 31295
+**RootParent**:: 31258
+**UnitTitle**:: João Machado de Melo Pinheiro e Figueira e Maria Angélica Rita Pinto Pereira de Magalhães e Gouveia
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1769-02-22
+**UnitDateFinal**:: 1890
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31296
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31296
+
+===== Filhos =====
+  * [[31297.txt|31297 - SR - Correspondência recebida]]
+  * [[54273.txt|54273 - SR - Documentos]]

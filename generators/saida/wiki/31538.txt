@@ -1,0 +1,19 @@
+====== 31538 - UI - Maria Teresa de Sousa Botelho de Albuquerque ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria Teresa de Sousa Botelho de Albuquerque
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914
+**UnitDateFinal**:: 1915
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31538
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31538
+
+===== Filhos =====
+  * [[31539.txt|31539 - DC - Postal ilustrado]]
+  * [[31540.txt|31540 - DC - Bilhete-postal]]

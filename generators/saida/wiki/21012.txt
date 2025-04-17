@@ -1,0 +1,14 @@
+====== 21012 - DC - Nº 9/963 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 9/963
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1963-04-22
+**UnitDateFinal**:: 1963-04-22
+**ScopeContent**:: Contrato de arrendamento da loja exterior número treze do Mercado Municipal
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21012
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 98
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21012

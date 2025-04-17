@@ -1,0 +1,18 @@
+====== 47164 - DC - Registo do recenseamento eleitoral de Manuel José de Araújo ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vilarinho das Cambas
+Profissão - Lavrador
+Estado - Casado
+Morada - Vessadinha
+Idade - 29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47164
+**LangMaterial**:: Português
+**PhysLoc**:: 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47164

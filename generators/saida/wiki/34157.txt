@@ -1,0 +1,19 @@
+====== 34157 - DC - Registo do recenseamento militar de Manuel de Sá ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Ribeirão
+Data de nascimento - 1852-12-28
+Filiação - António de Sá e Felicidade Rosa
+Profissão - 
+Estado - 
+Morada - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34157
+**LangMaterial**:: Português
+**PhysLoc**:: 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34157

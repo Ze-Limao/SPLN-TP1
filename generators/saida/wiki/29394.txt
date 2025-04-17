@@ -1,0 +1,16 @@
+====== 29394 - DC - Carta ======
+
+**Parent**:: 28762
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-12-14
+**UnitDateFinal**:: 1868-12-14
+**ScopeContent**:: Carta expedida do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29394
+**LangMaterial**:: Português
+**PhysLoc**:: AS 682 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29394

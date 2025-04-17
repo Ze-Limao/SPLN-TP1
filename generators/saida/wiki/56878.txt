@@ -1,0 +1,17 @@
+====== 56878 - DC - Avaliação 1908-1909, 3º período, do Real Colégio Militar de João Afonso Machado ======
+
+**Parent**:: 54529
+**RootParent**:: 31258
+**UnitTitle**:: Avaliação 1908-1909, 3º período, do Real Colégio Militar de João Afonso Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-05-06
+**UnitDateFinal**:: 1909-05-06
+**ScopeContent**:: Impresso do Real Collegio Militar. Tem manuscrito a avaliação.Junto com CP 6860 a CP 6863.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56878
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6861 - cx. 45
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56878

@@ -1,0 +1,19 @@
+====== 63038 - DC - Registo do recenseamento militar de Rosendo ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Rosendo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Firmino Ribeiro da Silva e Catarina Rosa, na freguesia
+Naturalidade - Calendário
+Morada - Calendário
+Data de nascimento - 1863-10-08
+Emprego - Alfaiate
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63038

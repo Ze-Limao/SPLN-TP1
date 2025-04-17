@@ -1,0 +1,16 @@
+====== 28217 - DC - Clarification des Vins Gélatine-Lainé ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Clarification des Vins Gélatine-Lainé
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Impresso publicitário com informação das propriedades da gelatina, modo de utilização e dosagem recomendada. Produto comercializado por A. Deni, sucesseur de Lainé. Rua Turenne, 64 - Paris. Impresso em J. Rigail de Cª, passe du Caire. No canto inferior esquerdo, Alberto Sampaio anotou a lápis: «Cada tablete pesa 33 gram.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28217
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 489 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28217

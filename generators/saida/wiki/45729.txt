@@ -1,0 +1,18 @@
+====== 45729 - DC - Registo do recenseamento eleitoral de José da Silva Torres ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José da Silva Torres
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Aves
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Freixieiro
+Idade - 64
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45729
+**LangMaterial**:: Português
+**PhysLoc**:: 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45729

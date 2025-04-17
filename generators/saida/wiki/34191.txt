@@ -1,0 +1,19 @@
+====== 34191 - DC - Registo do recenseamento militar de Domingos Fernandes ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos Fernandes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vale S.Cosme
+Data de nascimento - 1853-01-08
+Filiação - António Fernandes de Carvalho e Maria Rosa
+Profissão - Cesteiro
+Estado - Solteiro
+Morada - Vale S.Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34191
+**LangMaterial**:: Português
+**PhysLoc**:: 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34191

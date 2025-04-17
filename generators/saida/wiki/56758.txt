@@ -1,0 +1,14 @@
+====== 56758 - UI - José Joaquim da Costa Lima ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: José Joaquim da Costa Lima
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56758
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56758
+
+===== Filhos =====
+  * [[56759.txt|56759 - DC - Cartão de visita]]

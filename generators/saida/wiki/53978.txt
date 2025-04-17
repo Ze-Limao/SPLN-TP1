@@ -1,0 +1,23 @@
+====== 53978 - DC - Novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc. - Medições, orçamento e ofício ======
+
+**Parent**:: 53750
+**RootParent**:: 25851
+**UnitTitle**:: Novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc. - Medições, orçamento e ofício
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1959-04-18
+**UnitDateFinal**:: 1961-01-14
+**ScopeContent**:: Contém 158 (1) a (4).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53978
+**LangMaterial**:: Português
+**PhysLoc**:: JG 158(1-4) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53978
+
+===== Filhos =====
+  * [[53902.txt|53902 - DC - Ofício dirigido ao Presidente da Câmara Municipal de Famalicão do Arquiteto Januário Godinho sobre pormenores P83 e P84]]
+  * [[53979.txt|53979 - DC - Medição de obras a mais a executar como Primeiro Adicional à empreitada geral da construção do novo edifício dos Paços do Concelho de Vila Nova de Famalicão, Secção de Finanças e demais repartições]]
+  * [[53980.txt|53980 - DC - Medição de obras a menos a deduzir à empreitada geral de Construção do novo edifício dos Paços do Concelho de Vila Nova de Famalicão, Secção de Finanças e demais repartições]]
+  * [[53981.txt|53981 - DC - Orçamento das obras a mais a executar como Primeiro Adicional à empreitada geral de construção do novo edifício dos Paços do Concelho de Vila Nova de Famalicão, Secção de Finanças e demais repartições]]

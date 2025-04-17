@@ -1,0 +1,20 @@
+====== 33969 - DC - Registo do recenseamento militar de Joaquim Moreira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Joane
+Data de nascimento - 1852-03-11
+Filiação - Joaquim Moreira e Teresa Simões
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33969
+**LangMaterial**:: Português
+**PhysLoc**:: 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33969

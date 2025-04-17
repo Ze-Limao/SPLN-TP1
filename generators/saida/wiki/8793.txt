@@ -1,0 +1,18 @@
+====== 8793 - DC - Termo do exame de Guilherme Ferreira de Carvalho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Guilherme Ferreira de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-08-16
+**UnitDateFinal**:: 1892-08-16
+**ScopeContent**:: Grau - Elementar
+Idade - 16
+Filiação - Sebastião Manuel de Carvalho
+Naturalidade - Vila Nova de Famalicão
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8793
+**LangMaterial**:: Português
+**PhysLoc**:: f. 32
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8793

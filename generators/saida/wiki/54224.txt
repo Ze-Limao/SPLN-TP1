@@ -1,0 +1,20 @@
+====== 54224 - DC - Correspondência recebida e enviada sobre Processo de instalação de aquecimento central do Novo Edifício dos Paços do Concelho ======
+
+**Parent**:: 53753
+**RootParent**:: 25851
+**UnitTitle**:: Correspondência recebida e enviada sobre Processo de instalação de aquecimento central do Novo Edifício dos Paços do Concelho
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-03-30
+**UnitDateFinal**:: 1974-10-31
+**ScopeContent**:: Processo de instalação de aquecimento central do novo edifício dos Paços do Concelho (correspondência enviada e recebida, edital 1958.03.31); Programa de concurso para instalação de aquecimento central do novo edifício dos Paços do Concelho e serviços municipais, secção de Finanças e tesouraria da fazenda Pública e novo edifício destinado a Tribunal Judicial e mais serviços dependentes do Ministério da Justiça em Vila Nova de Famalicão (1958.03.27); Caderno de encargos; Auto de recepção de propostas do concurso público (1961.03.29); Adjudicação á empresa; faturas de empresa; Pagamentos à empresa; correspondência recebida e enviada sobre este assunto; Fornecimento de Thin-fuel para aquecimento e despesas de manutenção; 7 ofícios sobre armaduras para iluminação fluorescente (1961).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54224
+**LangMaterial**:: Português
+**PhysLoc**:: JG 178 - cx. 11
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54224
+
+===== Filhos =====
+  * [[54232.txt|54232 - DC - Auto de recepção de propostas do concurso público para fornecimento e assentamento de candeeiros....]]

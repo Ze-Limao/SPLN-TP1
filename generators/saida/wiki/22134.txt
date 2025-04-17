@@ -1,0 +1,16 @@
+====== 22134 - DC - Registo do recenseamento eleitoral de José António Ribeiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Cruz
+Profissão - Lavrador
+Morada - Rivela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22134
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22134

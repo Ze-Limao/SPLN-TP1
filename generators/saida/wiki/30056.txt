@@ -1,0 +1,14 @@
+====== 30056 - DC - Avelino Henriques Ferreira Martins ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Avelino Henriques Ferreira Martins
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1965-03-10
+**UnitDateFinal**:: 1965-03-10
+**ScopeContent**:: Regedor efetivo da freguesia de Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30056
+**LangMaterial**:: Português
+**PhysLoc**:: f. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30056

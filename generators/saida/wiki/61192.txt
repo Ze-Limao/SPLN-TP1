@@ -1,0 +1,17 @@
+====== 61192 - SR - Correspondência recebida ======
+
+**Parent**:: 61191
+**RootParent**:: 60551
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1980
+**UnitDateFinal**:: 2002
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 1 a 110 - cx. 1
+depósito 3, estante 5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61192
+
+===== Filhos =====
+  * [[61435.txt|61435 - DC - Ofício]]

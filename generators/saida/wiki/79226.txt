@@ -1,0 +1,14 @@
+====== 79226 - UI - Tia (Maria Inácia Sousa Botelho Mourõ e Vasconcelos?) ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Tia (Maria Inácia Sousa Botelho Mourõ e Vasconcelos?)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56771
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79226
+
+===== Filhos =====
+  * [[56733.txt|56733 - DC - Minuta de carta para tia]]

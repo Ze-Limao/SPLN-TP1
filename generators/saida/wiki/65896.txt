@@ -1,0 +1,15 @@
+====== 65896 - DC - Emprazamento do casal de S. Cláudio, situado na freguesia de S. Tiago de Antas, feito por Manuel Botelho Pereira, abade de S. Tiago de Antas, a João Francisco ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de S. Cláudio, situado na freguesia de S. Tiago de Antas, feito por Manuel Botelho Pereira, abade de S. Tiago de Antas, a João Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1669
+**UnitDateFinal**:: 1669
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 608 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65896

@@ -1,0 +1,14 @@
+====== 20276 - UI - Registo de correspondência recebida nº2 ======
+
+**Parent**:: 20219
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº2
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1937-04-27
+**UnitDateFinal**:: 1937-11-09
+**ScopeContent**:: Termo de abertura impresso: “Ha de servir êste livro, nos termos do nº9 do artigo 120 do Código Administrativo, se registar a correspondência recebida na Câmara Municipal…” e manuscrito (Serviços Administrativos). Contém dados: nº de entrada, número do ofício, data do ofício, data da receção, designação da entidade expedidora, extracto do conteúdo, observações. Inicia com nº 480 até ao registo nº 1247.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20276
+**LangMaterial**:: Português
+**PhysLoc**:: 691
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20276

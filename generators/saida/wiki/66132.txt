@@ -1,0 +1,15 @@
+====== 66132 - DC - Escritura de subemprazamento que fez Francisco Maximo de Vilasboas Palmeiro, viúvo, de Barcelinhos, a Manuel José Campinho e mulher Maria Joaquina, lavradores no lugar do Assento da freguesia de Chorente ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de subemprazamento que fez Francisco Maximo de Vilasboas Palmeiro, viúvo, de Barcelinhos, a Manuel José Campinho e mulher Maria Joaquina, lavradores no lugar do Assento da freguesia de Chorente
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-11-19
+**UnitDateFinal**:: 1860-11-19
+**ScopeContent**:: Manuscrito em papel azul timbrado “Tesouro Publico XL”, original, sem capa. No canto esquerdo superior “Nota nº31. Af. 10vº”. Os ascendentes de Manuel José Campinho tiveram por título de emprazamento do Abade de S. Tiago de Antas pelo foro anual … de 1749, e por autorização do atual abade fazem o subemprazamento a Francisco Maximo de Vilasboas Palmeiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 316 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66132

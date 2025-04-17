@@ -1,0 +1,16 @@
+====== 22624 - DC - Registo do recenseamento eleitoral de Manuel da Costa e Silva ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel da Costa e Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Lavrador
+Morada - Padroso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22624
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22624

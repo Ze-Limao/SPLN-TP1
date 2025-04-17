@@ -1,0 +1,16 @@
+====== 28198 - DC - 1908 (abril) ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1908 (abril)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-04
+**UnitDateFinal**:: 1908-04
+**ScopeContent**:: Indicação da localização de vides resultantes de enxertos das castas Moscatel de Nápoles e de Poeirinha.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28198
+**LangMaterial**:: Português
+**PhysLoc**:: AS 470 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28198

@@ -1,0 +1,13 @@
+====== 9921 - UI - Conta Corrente da Câmara com o Tesoureiro ======
+
+**Parent**:: 9917
+**RootParent**:: 7651
+**UnitTitle**:: Conta Corrente da Câmara com o Tesoureiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880-11-06
+**UnitDateFinal**:: 1881-04-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9921
+**LangMaterial**:: Português
+**PhysLoc**:: 6.1.4
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9921

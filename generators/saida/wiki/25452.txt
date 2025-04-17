@@ -1,0 +1,16 @@
+====== 25452 - DC - Comemorações das Bodas de Diamante dos Bombeiros Voluntários de Famalicão ======
+
+**Parent**:: 25080
+**RootParent**:: 20342
+**UnitTitle**:: Comemorações das Bodas de Diamante dos Bombeiros Voluntários de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-10-07
+**UnitDateFinal**:: 1966-10-07
+**ScopeContent**:: Cartão convite. No interior do cartão tem o convite e o programa para as comemorações do dia 16 de outubro de 1966.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25452
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 178 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25452

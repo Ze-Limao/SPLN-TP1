@@ -1,0 +1,16 @@
+====== 22857 - DC - Registo do recenseamento eleitoral de António Pinto de Araújo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Pinto de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Nine
+Profissão - Eclesiástico
+Morada - Vilar d'Este
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22857
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22857

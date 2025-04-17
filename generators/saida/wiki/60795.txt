@@ -1,0 +1,20 @@
+====== 60795 - SR - Casa S.ta Filomena ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Casa S.ta Filomena
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1970
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60795
+
+===== Filhos =====
+  * [[60796.txt|60796 - DC - A feira da louça]]
+  * [[60797.txt|60797 - DC - Monumento a Camilo Castelo Branco]]
+  * [[60798.txt|60798 - DC - Igreja de São Tiago de Antas]]
+  * [[60799.txt|60799 - DC - A Ponte da Lagoncinha (Monumento Nacional)]]
+  * [[60800.txt|60800 - DC - Cruzamento das Ruas de Santo António e de Adriano Pinto Basto]]
+  * [[60888.txt|60888 - DC - Vista parcial da feira de gado]]

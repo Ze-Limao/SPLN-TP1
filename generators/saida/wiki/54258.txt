@@ -1,0 +1,19 @@
+====== 54258 - DC - Treslado do Tombo do Morgadio de Pindela de 1792 ======
+
+**Parent**:: 54461
+**RootParent**:: 31258
+**UnitTitle**:: Treslado do Tombo do Morgadio de Pindela de 1792
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1795-08-28
+**UnitDateFinal**:: 1795-08-28
+**ScopeContent**:: Manuscrito com capa azul e título: Pasta nº 1 Appenso ao Casal nº1 C (segundo o dizêr do Mostrador). Treslado do Tombo do Morgado de Pindela de 1792-02-27, copiado em 1795-08-28. Este documento estava na caixa “Pasta nº1 Anno 1841”, que contém CP 13170 a CP 13193.
+
+"Tem primeiramente nas casas da quinta cabeça do dito morgado uma sala que é de comprido nove varas e de anxo quatro varas e duas terças com uma janela da parte norte sobre o cidral. Tem uma câmara que tem seis varas e meia de comprido e quatro varas e meia de largo com outra janela da mesma parte sobre o mesmo cidral. Tem uma adega de seis varas e duas terças e tem em largo três vars e uma terça. Tem a cozinha de través tem três varas e meia e de comprido cinco varas e uma terça. Tem um terreiro diante das ditas casas com suas latas nele de trinta varas de comprido e de largo vinte e uma com sua água que vem ter a qual junto da adega. Tem um palheiro e duas cortes todas juntas que são de comprido vinte e uma varas e cinco varas de largo. Tem um laranjal e um cidral diante da casa que levará de semeadura alqueire e meio e de todas as partes parte com herdades da dita quinta. Tem umas cortes da própria quinta de fora que elas eram de comprido onze varas e meia e de largo cinco varas que é do caseiro. Tem umas casas em que vive o mesmo caseiro que tem palheiro e corte que são todas de comprido onze varas e meia e de largo quatro e meia. Tem uma vinha que está defronte das casas do caseiro e a deveza e disseram os homens-bons que levará de semeadura quatro alqueires que de todas as confrontações parte com a dita quinta e por isso se não mediu. Tem uma eira com o campo que jaz com ela e disseram eles homens-bons que levaria de semeadura quatro alqueires...".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13170 - cx. 87
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54258

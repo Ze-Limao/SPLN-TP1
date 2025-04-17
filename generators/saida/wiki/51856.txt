@@ -1,0 +1,16 @@
+====== 51856 - DC - Registo do recenseamento militar de José Joaquim ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-12-20
+Filiação - José Ribeiro e Maria Ferreira de Melo
+Naturalidade - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51856
+**LangMaterial**:: Português
+**PhysLoc**:: 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51856

@@ -1,0 +1,16 @@
+====== 28206 - DC - Muro do lado do pinhal ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Muro do lado do pinhal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Despesas com a construção de muros junto à vinha do Salgueiral e à vinha dos cortiços.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28206
+**LangMaterial**:: Português
+**PhysLoc**:: AS 478 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28206

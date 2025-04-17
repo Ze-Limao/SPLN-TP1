@@ -1,0 +1,16 @@
+====== 28664 - DC - De Judicatu Bauzarum ======
+
+**Parent**:: 28662
+**RootParent**:: 27963
+**UnitTitle**:: De Judicatu Bauzarum
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Notas de investigação alusivas a inquirições na Foz do Douro e Lordelo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28664
+**LangMaterial**:: Português
+**PhysLoc**:: AS 117 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28664

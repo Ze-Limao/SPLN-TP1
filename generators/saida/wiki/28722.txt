@@ -1,0 +1,14 @@
+====== 28722 - UI - Caetano de Andrade Albuquerque ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Caetano de Andrade Albuquerque
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-09-24
+**UnitDateFinal**:: 1891-09-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28722
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28722
+
+===== Filhos =====
+  * [[28723.txt|28723 - DC - Ofício]]

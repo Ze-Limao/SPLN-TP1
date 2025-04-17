@@ -1,0 +1,15 @@
+====== 29400 - DC - Carta ======
+
+**Parent**:: 28762
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-01-11
+**UnitDateFinal**:: 1880-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29400
+**LangMaterial**:: Português
+**PhysLoc**:: AS 687 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29400

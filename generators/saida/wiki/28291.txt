@@ -1,0 +1,17 @@
+====== 28291 - SSSC - Notas de investigação ======
+
+**Parent**:: 28066
+**RootParent**:: 27963
+**UnitTitle**:: Notas de investigação
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1855
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28291
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28291
+
+===== Filhos =====
+  * [[28292.txt|28292 - SR - História]]
+  * [[28381.txt|28381 - SR - História agrícola]]
+  * [[28460.txt|28460 - SR - O Norte Marítimo]]
+  * [[28594.txt|28594 - SR - A Bajlya da Poboa Noua de Varazim]]

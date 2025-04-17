@@ -1,0 +1,18 @@
+====== 8868 - DC - Termo do exame de José Joaquim Ferreira Gomes ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José Joaquim Ferreira Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-07
+**UnitDateFinal**:: 1893-08-07
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Custódio Joaquim Ferreira Gomes
+Naturalidade - S. Vítor, Braga
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8868
+**LangMaterial**:: Português
+**PhysLoc**:: f. 52
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8868

@@ -1,0 +1,16 @@
+====== 23139 - DC - Carta ======
+
+**Parent**:: 21039
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-11-14
+**UnitDateFinal**:: 1898-11-14
+**ScopeContent**:: Alberto Pimentel pede informações sobre Ana Rosa Correia (1862-1956) mulher com que Nuno Castelo Branco se relacionou e teve sete filhos e que pertencia à casa da Passelada, Landim; pede ainda informação sobre Ana Plácido e sobre a "Marcada", alcunha de Maria da Conceição, uma mulher de Famalicão. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23139
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 28 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23139

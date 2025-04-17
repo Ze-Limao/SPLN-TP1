@@ -1,0 +1,16 @@
+====== 22172 - DC - Registo do recenseamento eleitoral de Francisco Martins ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Martins
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Moleiro
+Morada - Corredoura
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22172
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22172

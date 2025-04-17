@@ -1,0 +1,16 @@
+====== 26029 - DC - Carta ======
+
+**Parent**:: 21180
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-12-17
+**UnitDateFinal**:: 1900-12-17
+**ScopeContent**:: Carta manuscrita assinada, de Rua de S. Carlos, 134, 1º Lisboa. Papel timbrado "Câmara dos Deputados".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26029
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 823 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26029

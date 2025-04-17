@@ -1,0 +1,16 @@
+====== 25964 - DC - Carta ======
+
+**Parent**:: 21196
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-12-18
+**UnitDateFinal**:: 1914-12-18
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25964
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 763 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25964

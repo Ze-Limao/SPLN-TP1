@@ -1,0 +1,17 @@
+====== 56382 - DC - Cópia de carta de Conselheiro Beirão ======
+
+**Parent**:: 55427
+**RootParent**:: 31258
+**UnitTitle**:: Cópia de carta de Conselheiro Beirão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-09-02
+**UnitDateFinal**:: 1898-09-22
+**ScopeContent**:: Cópia de carta manuscrita, com nota de "Confidencial e reservado", assinada  pelo Ministro dos Negócios Estrangeiros. Está dentro de envelope CP 1435, junto com CP 1436 a CP 1448.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56382
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1437 - cx. 10
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56382

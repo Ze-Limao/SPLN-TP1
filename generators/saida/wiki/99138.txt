@@ -1,0 +1,17 @@
+====== 99138 - DC - Pero do Canto Pacheco pede a medição do Campo da Prova, junto à eira de pedra na freguesia de Creixomil ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Pero do Canto Pacheco pede a medição do Campo da Prova, junto à eira de pedra na freguesia de Creixomil
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1610-03-29
+**UnitDateFinal**:: 1610-03-29
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº 12 Cazal nº 119 A". Este documento estava na “Caixa 12”, que contém CP 13143 a CP 13169. Junto com CP 13147B a CP 13147F.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13147A - cx. 86
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99138

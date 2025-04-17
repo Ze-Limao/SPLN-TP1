@@ -1,0 +1,17 @@
+====== 20124 - UI - Copiador da correspondência expedida ======
+
+**Parent**:: 20123
+**RootParent**:: 20048
+**UnitTitle**:: Copiador da correspondência expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-02-16
+**UnitDateFinal**:: 1920-08-10
+**ScopeContent**:: Não tem termo de abertura. Copiador de ofícios nº 99/1920 a nº572/1920.
+Contém: 
+Telegrama do Comissário geral Ricardo Jorge, 1920-11-20, 1 f.; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20124
+**LangMaterial**:: Português
+**PhysLoc**:: AC 60
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20124

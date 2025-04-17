@@ -1,0 +1,17 @@
+====== 53953 - DC - Equipamento das oficinas de aferição. Serviço de Pesos e Medidas 5ª repartição ======
+
+**Parent**:: 53749
+**RootParent**:: 25851
+**UnitTitle**:: Equipamento das oficinas de aferição. Serviço de Pesos e Medidas 5ª repartição
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1961
+**ScopeContent**:: Desenho nº 78 e 79.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53953
+**LangMaterial**:: Português
+**PhysLoc**:: JG 191 - cx. 14
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53953

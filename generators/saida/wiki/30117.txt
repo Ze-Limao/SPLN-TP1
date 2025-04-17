@@ -1,0 +1,14 @@
+====== 30117 - DC - Gabriel de Sá ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Gabriel de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-17
+**UnitDateFinal**:: 1974-10-17
+**ScopeContent**:: Regedor efetivo da freguesia de Seide S. Paio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30117
+**LangMaterial**:: Português
+**PhysLoc**:: f. 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30117

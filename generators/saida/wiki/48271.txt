@@ -1,0 +1,17 @@
+====== 48271 - UI - Carolina Leite de Sousa Guedes ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Carolina Leite de Sousa Guedes
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48271
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48271
+
+===== Filhos =====
+  * [[48272.txt|48272 - DC - Carta]]
+  * [[48273.txt|48273 - DC - Carta]]

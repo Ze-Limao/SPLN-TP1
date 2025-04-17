@@ -1,0 +1,16 @@
+====== 51800 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1847-01-29
+Filiação - Ana de Araújo
+Naturalidade - Lemenhe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51800
+**LangMaterial**:: Português
+**PhysLoc**:: 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51800

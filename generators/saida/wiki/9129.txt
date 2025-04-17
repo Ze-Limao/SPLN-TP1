@@ -1,0 +1,13 @@
+====== 9129 - DC - Ofício nº 29 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 29
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-07-15
+**UnitDateFinal**:: 1886-07-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9129
+**LangMaterial**:: Papel
+**PhysLoc**:: f. 20
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9129

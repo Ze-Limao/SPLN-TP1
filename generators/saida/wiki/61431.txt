@@ -1,0 +1,16 @@
+====== 61431 - DC - Castelo de Arnoia ======
+
+**Parent**:: 60932
+**RootParent**:: 60550
+**UnitTitle**:: Castelo de Arnoia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1950
+**ScopeContent**:: Embrulhado em papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 217 - cx. 5
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61431

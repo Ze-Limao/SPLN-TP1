@@ -1,0 +1,16 @@
+====== 8264 - UI - António José de Faria Brandão ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: António José de Faria Brandão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-08
+**UnitDateFinal**:: 1895-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8264
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8264
+
+===== Filhos =====
+  * [[8265.txt|8265 - DC - Carta]]

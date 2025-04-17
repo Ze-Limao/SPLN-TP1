@@ -1,0 +1,17 @@
+====== 99722 - DC - Exposition Internationale Concours Culinaire d´Alimentation et d´Higiène ======
+
+**Parent**:: 99382
+**RootParent**:: 60695
+**UnitTitle**:: Exposition Internationale Concours Culinaire d´Alimentation et d´Higiène
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901
+**UnitDateFinal**:: 1901
+**ScopeContent**:: Folheto impresso em Paris.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99390
+**LangMaterial**:: Francês
+**PhysLoc**:: CSC 217 - cx. 6
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99722

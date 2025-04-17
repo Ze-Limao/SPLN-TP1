@@ -1,0 +1,16 @@
+====== 24261 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-04-16
+**UnitDateFinal**:: 1916-04-16
+**ScopeContent**:: António Cabral agradece a quantia angariada para a Comissão de Assistência e solicita que seja criada uma Comissão local em Famalicão. Confidencia que se pretende criar um partido monárquico e para isso é necessário criar comissões por todo o país para vigiarem o recenseamento político e disputarem eleições locais. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24261
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 118 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24261

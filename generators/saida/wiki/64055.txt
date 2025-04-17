@@ -1,0 +1,15 @@
+====== 64055 - DC - Recibo da Livraria José Ribeiro Novaes Júnior ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo da Livraria José Ribeiro Novaes Júnior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-11-28
+**UnitDateFinal**:: 1882-11-28
+**ScopeContent**:: Manuscrito em papel quadriculado com carimbo da empresa. Recibo de empresa do Porto referente a 4 livros impressos para registo paroquial.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 374 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64055

@@ -1,0 +1,15 @@
+====== 66514 - DC - Pedido para celebrar matrimónio sem missa de Maria Ernestina Ferreira de Macedo Costa, com dispensa de proclamação para se usarem em matrimónio ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido para celebrar matrimónio sem missa de Maria Ernestina Ferreira de Macedo Costa, com dispensa de proclamação para se usarem em matrimónio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-06-01
+**UnitDateFinal**:: 1889-06-01
+**ScopeContent**:: Manuscrito, original, em papel azul selado de 80 reis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 539 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66514

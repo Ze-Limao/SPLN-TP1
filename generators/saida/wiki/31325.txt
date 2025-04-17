@@ -1,0 +1,65 @@
+====== 31325 - SR - Correspondência recebida ======
+
+**Parent**:: 31324
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1886-01-11
+**UnitDateFinal**:: 1920-01-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31325
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31325
+
+===== Filhos =====
+  * [[31405.txt|31405 - UI - António José Teixeira de Abreu]]
+  * [[31457.txt|31457 - UI - Frederico Arouca]]
+  * [[31461.txt|31461 - UI - Carlos Lobo de Ávila]]
+  * [[31635.txt|31635 - UI - José Maria de Alpoim]]
+  * [[31697.txt|31697 - UI - Joaquim Augusto Mouzinho de Albuquerque]]
+  * [[31744.txt|31744 - UI - Abel de Andrade]]
+  * [[32379.txt|32379 - UI - Pedro José Agostinho de Mendoça Rolim de Moura Barreto]]
+  * [[32397.txt|32397 - UI - Francisco Veiga Beirão]]
+  * [[32792.txt|32792 - UI - José Nicolau Raposo Botelho]]
+  * [[33781.txt|33781 - UI - A. de Sousa Canavarro]]
+  * [[33831.txt|33831 - UI - Carlos I, Rei de Portugal]]
+  * [[33895.txt|33895 - UI - João Franco Pinto Castelo Branco]]
+  * [[33905.txt|33905 - UI - José de Azevedo Castelo Branco]]
+  * [[45348.txt|45348 - UI - Augusto José da Cunha]]
+  * [[45555.txt|45555 - UI - António Feijó]]
+  * [[48698.txt|48698 - UI - Artur Alberto de Campos Henriques]]
+  * [[48730.txt|48730 - UI - José Maria da Silva Paranhos Júnior]]
+  * [[48793.txt|48793 - UI - José Abrantes]]
+  * [[50353.txt|50353 - UI - Joaquim Correia Lança]]
+  * [[52494.txt|52494 - UI - Augusto Araújo]]
+  * [[53061.txt|53061 - UI - Carlos Roma du Bocage]]
+  * [[54452.txt|54452 - UI - José Maria Brinche Carvalho]]
+  * [[55107.txt|55107 - UI - Bernardino Machado]]
+  * [[55109.txt|55109 - UI - Luís Maria Pinto de Soveral]]
+  * [[55111.txt|55111 - UI - Ernesto Rodolfo Hintze Ribeiro]]
+  * [[55113.txt|55113 - UI - Henrique Barros Gomes]]
+  * [[55115.txt|55115 - UI - João Arroio e documentos do Processo Arroio e Amor de Perdição]]
+  * [[55117.txt|55117 - UI - Fernando Matoso dos Santos]]
+  * [[55119.txt|55119 - UI - Venceslau de Sousa Pereira de Lima]]
+  * [[55121.txt|55121 - UI - João Pedro Lima Calheiros]]
+  * [[55123.txt|55123 - UI - Eduardo Vilaça]]
+  * [[55125.txt|55125 - UI - Luís de Magalhães]]
+  * [[55127.txt|55127 - UI - Luciano Afonso da Silva Monteiro Aillaud]]
+  * [[55129.txt|55129 - UI - João de Alarcão Velasquez Sarmento Osório]]
+  * [[55130.txt|55130 - UI - António Teles Pereira de Vasconcelos Pimentel]]
+  * [[55131.txt|55131 - UI - António Maria Pereira Carrilho]]
+  * [[55626.txt|55626 - UI - José Maria de Almeida Correia de Sá]]
+  * [[55668.txt|55668 - UI - Eduardo Barreiros]]
+  * [[66893.txt|66893 - UI - David Cohen de Castro e Lara]]
+  * [[66966.txt|66966 - UI - Von Kemnitz]]
+  * [[66971.txt|66971 - UI - Heinrich Koehler]]
+  * [[66981.txt|66981 - UI - R. Leuker]]
+  * [[67007.txt|67007 - UI - Koelle]]
+  * [[67017.txt|67017 - UI - Ministério da Fazenda. Direcção Geral da Thesouraria. Repartição Central]]
+  * [[67025.txt|67025 - UI - W.]]
+  * [[67028.txt|67028 - UI - Fürstlich Hohenzollern Hofmarschallamt]]
+  * [[67036.txt|67036 - UI - Embassy of the United States of America Berlin]]
+  * [[67042.txt|67042 - UI - Christen Olsen (Plaine Saint-Denis Seine)]]
+  * [[67058.txt|67058 - UI - Gagneau]]
+  * [[67062.txt|67062 - UI - R. Eisenmann]]
+  * [[67357.txt|67357 - UI - Manuel II, Rei de Portugal]]
+  * [[97387.txt|97387 - UI - Bernardo Pinheiro Correia de Melo]]

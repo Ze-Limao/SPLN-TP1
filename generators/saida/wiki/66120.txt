@@ -1,0 +1,15 @@
+====== 66120 - DC - Escritura de arrendamento perpetuo de uma leira chamada Campo Valado (prazo ou parte de prazo) que foi José de Araújo e sua mulher Maria do lugar do Vilar, da freguesia de S. Julião, a Domingos José de Araújo e de sua mulher Josefa Maria, do lugar de Souto da Maceira da mesma freguesia ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de arrendamento perpetuo de uma leira chamada Campo Valado (prazo ou parte de prazo) que foi José de Araújo e sua mulher Maria do lugar do Vilar, da freguesia de S. Julião, a Domingos José de Araújo e de sua mulher Josefa Maria, do lugar de Souto da Maceira da mesma freguesia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1748-10-22
+**UnitDateFinal**:: 1748-12-09
+**ScopeContent**:: Manuscrito, original, folhas cosidas sem capa. Papel timbrado “Cauza publica. 10 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 306 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66120

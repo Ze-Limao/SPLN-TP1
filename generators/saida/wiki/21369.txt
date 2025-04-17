@@ -1,0 +1,16 @@
+====== 21369 - UI - Crispim Caetano Ferreira Tavares ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Crispim Caetano Ferreira Tavares
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21369
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1325
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21369
+
+===== Filhos =====
+  * [[30192.txt|30192 - DC - Carta]]

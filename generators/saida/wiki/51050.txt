@@ -1,0 +1,18 @@
+====== 51050 - DC - Registo do recenseamento militar de Paulino ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Paulino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 
+Filiação - 
+Naturalidade - 
+Profissão - Criado de servir
+Residência - Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51050
+**LangMaterial**:: Português
+**PhysLoc**:: 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51050

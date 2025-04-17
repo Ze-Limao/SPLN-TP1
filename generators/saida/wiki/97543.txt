@@ -1,0 +1,15 @@
+====== 97543 - UI - Processo nº 26 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 26
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-12-09
+**UnitDateFinal**:: 1971-09-30
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 26/70.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 365 - cx. 21
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97543

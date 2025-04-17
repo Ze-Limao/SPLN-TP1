@@ -1,0 +1,15 @@
+====== 21026 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7706
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1948-08-16
+**UnitDateFinal**:: 1948-08-16
+**ScopeContent**:: Construção de casas de renda económica
+Outorgante - Federação de Caixas de Previdência - Habitações Económicas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21026
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 40
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21026

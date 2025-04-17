@@ -1,0 +1,16 @@
+====== 30541 - DC - Registo do recenseamento eleitoral de Joaquim Alves Moreira ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Alves Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Bairro
+Profissão - Lavrador
+Morada - Pinheiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30541
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30541

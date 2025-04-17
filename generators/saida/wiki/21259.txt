@@ -1,0 +1,17 @@
+====== 21259 - UI - Ramiro Martins ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Ramiro Martins
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-11-02
+**UnitDateFinal**:: 1915-11-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21259
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1018
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21259
+
+===== Filhos =====
+  * [[27924.txt|27924 - DC - Carta]]

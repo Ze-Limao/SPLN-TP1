@@ -1,0 +1,15 @@
+====== 65771 - DC - Sentença cível de emprazamento do casal do Poído, situado na freguesia de S. Julião do Calendário, feita por Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas, a José Lourenço de Araújo ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal do Poído, situado na freguesia de S. Julião do Calendário, feita por Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas, a José Lourenço de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1801-05-08
+**UnitDateFinal**:: 1801-05-08
+**ScopeContent**:: Manuscrito, original. Papel azul timbrado. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 224 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65771

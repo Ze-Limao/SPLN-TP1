@@ -1,0 +1,15 @@
+====== 25056 - UI - Panfletos de material especializado para bombeiros (viaturas) ======
+
+**Parent**:: 20377
+**RootParent**:: 20342
+**UnitTitle**:: Panfletos de material especializado para bombeiros (viaturas)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1957
+**UnitDateFinal**:: 1957
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25056
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 155 - cx. 40
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25056

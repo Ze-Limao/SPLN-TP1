@@ -1,0 +1,29 @@
+====== 7955 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891
+**UnitDateFinal**:: 1891-04-13
+**ScopeContent**:: Contém dados sobre:
+1- Freguesia
+2- Nome
+3- Censo
+4- Emprego ou profissão
+5- Estado
+6- Morada
+7- Idade
+8- Elegíveis para deputados
+9- Elegíveis para cargos municipais, distritais e paroquiais
+10- Chefe de família
+11 - Ler e escrever
+12- Quarenta maiores contribuintes da contribuição predial
+13- Observações
+
+A assembleia eleitoral de Vila Nova de Famalicão era composta pelas freguesias de Brufe, Cavalões e anexa Gemunde, Gavião, Gondifelos, Outiz e Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7955
+**LangMaterial**:: Português
+**PhysLoc**:: 1.2.2.18
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7955

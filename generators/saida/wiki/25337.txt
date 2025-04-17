@@ -1,0 +1,16 @@
+====== 25337 - DC - Circular da Direcção e Comandante da AHBVF sobre a construção do novo quartel ======
+
+**Parent**:: 25019
+**RootParent**:: 20342
+**UnitTitle**:: Circular da Direcção e Comandante da AHBVF sobre a construção do novo quartel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-06
+**UnitDateFinal**:: 1961-06
+**ScopeContent**:: Circular que solicita donativos para a construção do novo quartel e o nome do doador será inscrito no Livro de Ouro da Associação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25337
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 122 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25337

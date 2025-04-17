@@ -1,0 +1,15 @@
+====== 60568 - UI - Anselmo de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31373
+**RootParent**:: 31258
+**UnitTitle**:: Anselmo de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1867-09-25
+**UnitDateFinal**:: 1867-09-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53090
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60568
+
+===== Filhos =====
+  * [[60569.txt|60569 - DC - Carta]]
+  * [[60590.txt|60590 - DC - Carta]]

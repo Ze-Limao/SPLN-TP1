@@ -1,0 +1,18 @@
+====== 49336 - DC - Registo do recenseamento eleitoral de Manuel Dinis Costa ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Dinis Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Sezures
+Profissão - Lavrador
+Estado - Casado
+Morada - Quintela
+Idade - 34
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49336
+**LangMaterial**:: Português
+**PhysLoc**:: 77v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49336

@@ -1,0 +1,17 @@
+====== 56906 - DC - Comissão de Viticultura. Serviço Central. Assumptos tratados. Postos de fiscalização fronteiriços. Nº 19 ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Assumptos tratados. Postos de fiscalização fronteiriços. Nº 19
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1933-01-10
+**UnitDateFinal**:: 1933-01-20
+**ScopeContent**:: Capa manuscrita com título a cores, nº 19. Contém: 2 cópias de ofício datilografado de António Guedes de Vasconcelos para Presidente da C.V.R.V.V. 1933-01-10; 1 mapa manuscrito a preto e vermelho da região dos vinhos verdes com os postos de fiscalização dos vinhos; 2 cópias de ofício datilografado de C.V.R.V.V. Visconde de Pindela para António Guedes de Vasconcelos de 1933-01-20.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56906
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2668 - cx. 21
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56906

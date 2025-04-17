@@ -1,0 +1,16 @@
+====== 24472 - DC - Registo do recenseamento eleitoral de Joaquim Carvalho de Sá ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Carvalho de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Esmeriz
+Profissão - Lavrador
+Morada - Bairros
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24472
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24472

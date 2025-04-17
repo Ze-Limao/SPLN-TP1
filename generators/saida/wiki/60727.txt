@@ -1,0 +1,15 @@
+====== 60727 - DC - Emprazamento de um campo do Vargo, situado na freguesia de Calendário, feita por Pedro Álvares, raçoeiro da Igreja de S. Tiago de Antas, a Martim Fernandes e a sua mulher ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento de um campo do Vargo, situado na freguesia de Calendário, feita por Pedro Álvares, raçoeiro da Igreja de S. Tiago de Antas, a Martim Fernandes e a sua mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1533-06-30
+**UnitDateFinal**:: 1533-06-30
+**ScopeContent**:: Manuscrito, original, com selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 28 - cx. P27
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60727

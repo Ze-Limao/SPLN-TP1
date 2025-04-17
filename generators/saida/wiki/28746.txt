@@ -1,0 +1,18 @@
+====== 28746 - UI - Bento Carqueja ======
+
+**Parent**:: 28716
+**RootParent**:: 27963
+**UnitTitle**:: Bento Carqueja
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907-01
+**UnitDateFinal**:: 1907-07-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28746
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28746
+
+===== Filhos =====
+  * [[28747.txt|28747 - DC - Rascunho de carta]]
+  * [[28748.txt|28748 - DC - Rascunho de carta]]
+  * [[29386.txt|29386 - DC - Rascunho de carta]]
+  * [[29388.txt|29388 - DC - Rascunho de carta]]
+  * [[29392.txt|29392 - DC - Rascunho de carta]]

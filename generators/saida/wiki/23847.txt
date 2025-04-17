@@ -1,0 +1,16 @@
+====== 23847 - DC - Registo do recenseamento eleitoral de Manuel da Silva Eiras ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel da Silva Eiras
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Negociante
+Morada - Praça da Mota
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23847
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 88v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23847

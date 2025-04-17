@@ -1,0 +1,15 @@
+====== 65917 - DC - Emprazamento das terras de Agra, na freguesia de S. André, feito por Luís de Moura e Mendonça, abade de S. Tiago de Antas, a António de Macedo Pereira de Vasconcelos da Cunha Basto, da casa e Quinta de L. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento das terras de Agra, na freguesia de S. André, feito por Luís de Moura e Mendonça, abade de S. Tiago de Antas, a António de Macedo Pereira de Vasconcelos da Cunha Basto, da casa e Quinta de L.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1817-02-26
+**UnitDateFinal**:: 1817-02-26
+**ScopeContent**:: Manuscrito e impresso, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 652 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65917

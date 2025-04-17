@@ -1,0 +1,18 @@
+====== 49600 - DC - Registo do recenseamento eleitoral de Joaquim José de Sampaio ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim José de Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Amanuense
+Estado - Solteiro
+Morada - Rua Direita
+Idade - 44
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49600
+**LangMaterial**:: Português
+**PhysLoc**:: 91v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49600

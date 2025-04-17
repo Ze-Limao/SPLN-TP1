@@ -1,0 +1,35 @@
+====== 32290 - UI - Francisco Manuel Cardoso de Meneses Pinheiro de Azevedo ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Francisco Manuel Cardoso de Meneses Pinheiro de Azevedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-03-22
+**UnitDateFinal**:: 1920-01-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32290
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32290
+
+===== Filhos =====
+  * [[32291.txt|32291 - DC - Carta]]
+  * [[32292.txt|32292 - DC - Carta]]
+  * [[32293.txt|32293 - DC - Carta]]
+  * [[32294.txt|32294 - DC - Carta]]
+  * [[32295.txt|32295 - DC - Carta]]
+  * [[32296.txt|32296 - DC - Carta]]
+  * [[32297.txt|32297 - DC - Carta]]
+  * [[32298.txt|32298 - DC - Carta]]
+  * [[32299.txt|32299 - DC - Telegrama]]
+  * [[32300.txt|32300 - DC - Carta]]
+  * [[32301.txt|32301 - DC - Carta]]
+  * [[32302.txt|32302 - DC - Carta]]
+  * [[32303.txt|32303 - DC - Carta]]
+  * [[32304.txt|32304 - DC - Carta]]
+  * [[32305.txt|32305 - DC - Carta]]
+  * [[32306.txt|32306 - DC - Carta]]
+  * [[32307.txt|32307 - DC - Carta]]
+  * [[32308.txt|32308 - DC - Carta]]

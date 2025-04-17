@@ -1,0 +1,15 @@
+====== 97418 - UI - Rosenthal ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Rosenthal
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1887-03-20
+**UnitDateFinal**:: 1887-03-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55151
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97418
+
+===== Filhos =====
+  * [[97419.txt|97419 - DC - Carta]]

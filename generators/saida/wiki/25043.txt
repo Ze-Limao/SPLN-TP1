@@ -1,0 +1,16 @@
+====== 25043 - UI - Mapas de serviço prestado pelo corpo de bombeiros com designação dos serviços ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Mapas de serviço prestado pelo corpo de bombeiros com designação dos serviços
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1954-01-01
+**UnitDateFinal**:: 1956-07-06
+**ScopeContent**:: Folhas de ordem de serviço.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25043
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 145 - cx. 37
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25043

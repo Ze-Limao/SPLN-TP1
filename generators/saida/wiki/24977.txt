@@ -1,0 +1,15 @@
+====== 24977 - UI - Livro nº1 de Orçamentos desde o ano de 1941 a 1953 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Livro nº1 de Orçamentos desde o ano de 1941 a 1953
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1941-10-15
+**UnitDateFinal**:: 1952-11-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24977
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 81
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24977

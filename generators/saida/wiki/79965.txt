@@ -1,0 +1,14 @@
+====== 79965 - UI - Processo nº 67 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 67
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1959-07-31
+**UnitDateFinal**:: 1959-09-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 1 - cx. 1
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79965

@@ -1,0 +1,16 @@
+====== 60346 - UI - Maria Rita de Castro Sampaio ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Maria Rita de Castro Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60346
+
+===== Filhos =====
+  * [[60347.txt|60347 - DC - Carta]]
+  * [[60348.txt|60348 - DC - Carta]]
+  * [[60349.txt|60349 - DC - Carta]]

@@ -1,0 +1,17 @@
+====== 55138 - DC - Telegrama ======
+
+**Parent**:: 55109
+**RootParent**:: 31258
+**UnitTitle**:: Telegrama
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-11
+**UnitDateFinal**:: 1895-11
+**ScopeContent**:: Telegrama cifrado de Lisboa para Berlim. Decifrado. O Ministro dos Negócios Estrangeiros felicita VP pela forma como correu a visita do Rei D. Carlos à Alemanha, viagem preparada por VP.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55138
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3754 - cx. 27
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55138

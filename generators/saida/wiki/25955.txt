@@ -1,0 +1,16 @@
+====== 25955 - DC - Cartão de visita ======
+
+**Parent**:: 21191
+**RootParent**:: 20290
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-08-08
+**UnitDateFinal**:: 1914-08-08
+**ScopeContent**:: Cartão manuscrito. Impresso o nome e "da Redacção do "Commercio do Porto". Cedofeita, 159, Porto".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25955
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 754 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25955

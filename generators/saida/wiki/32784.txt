@@ -1,0 +1,17 @@
+====== 32784 - DC - Carta ======
+
+**Parent**:: 32795
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-05-23
+**UnitDateFinal**:: 1911-05-23
+**ScopeContent**:: Carta manuscrita assinada, da Foz do Douro (Hotel da Bela Vista), no dia 23.  Carta sem menção do ano e mês. Esta carta pertence ao maço relativo a "Falecimento Conde de Arnoso".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32784
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12025 - cx. 69
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32784

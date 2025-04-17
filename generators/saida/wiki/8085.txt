@@ -1,0 +1,15 @@
+====== 8085 - DC - Termo de Francisco Correia de Azevedo ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Francisco Correia de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-04-09
+**UnitDateFinal**:: 1879-04-09
+**ScopeContent**:: Vedação de terreno
+Local - Requião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8085
+**LangMaterial**:: Português
+**PhysLoc**:: f. 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8085

@@ -1,0 +1,18 @@
+====== 52685 - DC - Registo do recenseamento militar de Luís da Silva ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-12-14
+Filiação - Joaquim José da Silva Leal e Teresa da Silva
+Naturalidade - Brufe
+Profissão - Criado de servir
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52685
+**LangMaterial**:: Português
+**PhysLoc**:: 49v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52685

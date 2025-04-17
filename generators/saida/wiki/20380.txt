@@ -1,0 +1,20 @@
+====== 20380 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Portela
+Filiação - Francisco Marques de Oliveira e Maria Simões
+Naturalidade - Portela
+Data de nascimento - 1870-01-06
+Emprego - Lavoura
+Estado - Solteiro
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20380
+**LangMaterial**:: Português
+**PhysLoc**:: f. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20380

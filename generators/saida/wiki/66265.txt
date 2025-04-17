@@ -1,0 +1,15 @@
+====== 66265 - DC - Apelação (?) de João Gomes de Brito, abade do mosteiro de S. Tiago de Antas, diz que Maria Antónia da Cortinha, Gaspar Luís de ... ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Apelação (?) de João Gomes de Brito, abade do mosteiro de S. Tiago de Antas, diz que Maria Antónia da Cortinha, Gaspar Luís de ...
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1654-03-17
+**UnitDateFinal**:: 1654-03-17
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 427 -  cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66265

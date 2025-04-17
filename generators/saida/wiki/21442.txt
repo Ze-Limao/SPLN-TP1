@@ -1,0 +1,17 @@
+====== 21442 - UI - J. C. Arriscado Malheiro P. Coelho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: J. C. Arriscado Malheiro P. Coelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-07-13
+**UnitDateFinal**:: 1917-07-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21442
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1430, 1431
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21442
+
+===== Filhos =====
+  * [[30277.txt|30277 - DC - Carta]]
+  * [[30280.txt|30280 - DC - Carta]]

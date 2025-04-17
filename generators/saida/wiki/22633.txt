@@ -1,0 +1,16 @@
+====== 22633 - DC - Registo do recenseamento eleitoral de António Alves de Oliveira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Alves de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Louro
+Profissão - Lavrador
+Morada - Monte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22633
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22633

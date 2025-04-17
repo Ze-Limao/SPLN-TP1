@@ -1,0 +1,15 @@
+====== 64171 - DC - Treslado de um documento passado a favor de António Fernandes, abade de S. Tiago de Antas (do ano 1615-10-12, Barcelos) pelo qual Pedro Dias e sua mulher, moradores na freguesia de Calendário, vendem a Manuel Garcia, morador em V.N. Famalicão, a devesa dos clérigos, em S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Treslado de um documento passado a favor de António Fernandes, abade de S. Tiago de Antas (do ano 1615-10-12, Barcelos) pelo qual Pedro Dias e sua mulher, moradores na freguesia de Calendário, vendem a Manuel Garcia, morador em V.N. Famalicão, a devesa dos clérigos, em S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1822-03-23
+**UnitDateFinal**:: 1822-03-23
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 238 - cx. 12
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64171

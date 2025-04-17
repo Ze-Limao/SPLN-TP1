@@ -1,0 +1,18 @@
+====== 8171 - DC - Camilo Pereira Sampaio ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Camilo Pereira Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-05-29
+**UnitDateFinal**:: 1883-05-29
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Manuel Pereira Sampaio
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8171
+**LangMaterial**:: Português
+**PhysLoc**:: f. 5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8171

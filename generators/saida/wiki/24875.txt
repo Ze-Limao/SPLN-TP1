@@ -1,0 +1,16 @@
+====== 24875 - DC - Carta ======
+
+**Parent**:: 21081
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-08-23
+**UnitDateFinal**:: 1878-08-23
+**ScopeContent**:: Carta manuscrita assinada, de Vila do Conde. Papel timbrada com monograma "B".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24875
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 308 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24875

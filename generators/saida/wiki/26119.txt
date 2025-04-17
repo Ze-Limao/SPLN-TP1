@@ -1,0 +1,16 @@
+====== 26119 - DC - Carta ======
+
+**Parent**:: 21226
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-04-01
+**UnitDateFinal**:: 1925-04-01
+**ScopeContent**:: Carta manuscrita assinada, de Moreira da Maia. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26119
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 914 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26119

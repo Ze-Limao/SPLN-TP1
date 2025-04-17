@@ -1,0 +1,18 @@
+====== 46803 - DC - Registo do recenseamento eleitoral de Remígio Carneiro de Araújo ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Remígio Carneiro de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Requião
+Profissão - Eclesiástico
+Estado - Solteiro
+Morada - Ninães
+Idade - 67
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46803
+**LangMaterial**:: Português
+**PhysLoc**:: 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46803

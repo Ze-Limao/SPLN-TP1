@@ -1,0 +1,17 @@
+====== 99837 - DC - Retrato de família Sousa Cristino ======
+
+**Parent**:: 99378
+**RootParent**:: 60695
+**UnitTitle**:: Retrato de família Sousa Cristino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Fotografia colada numa cartolina.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99409
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 240 - cx. 7
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99837

@@ -1,0 +1,17 @@
+====== 56317 - DC - Pindela anno de 1912 a 1913 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Pindela anno de 1912 a 1913
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1913
+**ScopeContent**:: Maço com 120 documentos manuscritos e impressos, contém CP 11702 (1) a 11702 (120)
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56317
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11702 (1) a 11702 (120) - cx. 65
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56317

@@ -1,0 +1,14 @@
+====== 46943 - UI - Maria Constança de Saldanha da Gama ======
+
+**Parent**:: 31447
+**RootParent**:: 31258
+**UnitTitle**:: Maria Constança de Saldanha da Gama
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885-09-03
+**UnitDateFinal**:: 1885-09-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46943
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46943
+
+===== Filhos =====
+  * [[46944.txt|46944 - DC - Bilhete-postal]]

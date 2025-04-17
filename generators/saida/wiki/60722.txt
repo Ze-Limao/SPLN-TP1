@@ -1,0 +1,15 @@
+====== 60722 - DC - Emprazamento do casal de Vilar, situado na freguesia de S. Tiago de Antas. feita por Pero Silva, abade da Igreja de S. Tiago de Antas, tesoureiro da Sé do Porto, a Gaspar Lopes e a sua mulher Isabel Pais ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Vilar, situado na freguesia de S. Tiago de Antas. feita por Pero Silva, abade da Igreja de S. Tiago de Antas, tesoureiro da Sé do Porto, a Gaspar Lopes e a sua mulher Isabel Pais
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1528-11-14
+**UnitDateFinal**:: 1528-11-14
+**ScopeContent**:: Manuscrito, original, com selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 23 - cx. P27
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60722

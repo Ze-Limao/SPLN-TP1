@@ -1,0 +1,15 @@
+====== 21118 - DC - Termo de Manuel Pereira Marques Júnior e Ana Maria Dias ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel Pereira Marques Júnior e Ana Maria Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-10-24
+**UnitDateFinal**:: 1879-10-24
+**ScopeContent**:: Restauro de muros
+Local - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21118
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 45
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21118

@@ -1,0 +1,18 @@
+====== 51184 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-06-22
+Filiação - José Ferreira e Luísa Martins
+Naturalidade - Nine
+Profissão - Jornaleiro
+Residência - Nine
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51184
+**LangMaterial**:: Português
+**PhysLoc**:: 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51184

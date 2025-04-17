@@ -1,0 +1,16 @@
+====== 29245 - DC - Lista de diversas plantas com flor ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Lista de diversas plantas com flor
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1903
+**ScopeContent**:: No verso uma anotação a tinta, feita por Alberto Sampaio: «Iberis umbullata». Da lista fazem parte o Lírio gigantesco que «chega a ter 2,70 m de alto e 32 flores», o Lírio das Bermudas (Lilium Harissi) «muito popular na Inglaterra», Narcissus poeticus, Muscari conosum; Anemona silvestris e Anemona etoilée, também conhecida por anémona brilhante.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29245
+**LangMaterial**:: Português
+**PhysLoc**:: AS 362 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29245

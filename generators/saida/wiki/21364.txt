@@ -1,0 +1,28 @@
+====== 21364 - UI - Gaspar Teixeira de Sousa da Silva Alcoforado ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Gaspar Teixeira de Sousa da Silva Alcoforado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1918-08-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21364
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 461, 462, 463, 464, 1306, 1307, 1489, 1490, 1491, 1492, 1493, 1494.
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21364
+
+===== Filhos =====
+  * [[30159.txt|30159 - DC - Carta]]
+  * [[30160.txt|30160 - DC - Cartão]]
+  * [[30165.txt|30165 - DC - Carta]]
+  * [[30166.txt|30166 - DC - Carta]]
+  * [[30167.txt|30167 - DC - Carta]]
+  * [[30168.txt|30168 - DC - Carta]]
+  * [[30169.txt|30169 - DC - Carta]]
+  * [[30170.txt|30170 - DC - Carta]]
+  * [[30171.txt|30171 - DC - Carta]]
+  * [[30172.txt|30172 - DC - Carta]]
+  * [[30173.txt|30173 - DC - Carta]]
+  * [[30174.txt|30174 - DC - Carta]]

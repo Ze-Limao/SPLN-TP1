@@ -1,0 +1,17 @@
+====== 56201 - DC - Transmissão de um foro arrematado em hasta pública a favor de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Transmissão de um foro arrematado em hasta pública a favor de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Declaração 1908. Carta Régia 1907. Folha manuscrita com apontamentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56201
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13645 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56201

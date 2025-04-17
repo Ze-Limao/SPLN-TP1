@@ -1,0 +1,15 @@
+====== 97875 - UI - Processo nº 104 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 104
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-02-09
+**UnitDateFinal**:: 1978-10-04
+**ScopeContent**:: Junto com Autos de Execução de Custas nº104-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 594 - cx. 34
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97875

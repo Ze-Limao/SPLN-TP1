@@ -1,0 +1,16 @@
+====== 30262 - DC - Carta ======
+
+**Parent**:: 21432
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-10-05
+**UnitDateFinal**:: 1904-10-05
+**ScopeContent**:: Carta manuscrita e assinada, de Casa de Cezim, Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30262
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1416 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30262

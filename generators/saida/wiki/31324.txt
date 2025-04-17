@@ -1,0 +1,16 @@
+====== 31324 - SSSC - Ministro plenipotenciário de Portugal na Legação de Berlim, Dresden e Saxe-Coburgo-Gotha (Alemanha) ======
+
+**Parent**:: 31313
+**RootParent**:: 31258
+**UnitTitle**:: Ministro plenipotenciário de Portugal na Legação de Berlim, Dresden e Saxe-Coburgo-Gotha (Alemanha)
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1886
+**UnitDateFinal**:: 1920-01-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31324
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31324
+
+===== Filhos =====
+  * [[31325.txt|31325 - SR - Correspondência recebida]]
+  * [[54481.txt|54481 - SR - Documentos]]
+  * [[66928.txt|66928 - SR - Correspondência enviada]]

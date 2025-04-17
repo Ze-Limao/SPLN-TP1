@@ -1,0 +1,15 @@
+====== 61227 - UI - Agatão Lança ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Agatão Lança
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1950-07-08
+**UnitDateFinal**:: 1950-07-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61227
+
+===== Filhos =====
+  * [[61228.txt|61228 - DC - Carta]]

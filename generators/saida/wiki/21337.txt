@@ -1,0 +1,18 @@
+====== 21337 - UI - António José Torres de Carvalho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António José Torres de Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-03-14
+**UnitDateFinal**:: 1913-03-14
+**ScopeContent**:: António José Torres de Carvalho, bibliotecário municipal de Elvas de 1913 a 1940 e erudito bibliógrafo, que em 1934 ofereceu à Câmara Municipal a sua esplêndida biblioteca de 12602 volumes, dos quais cerca de 6000 tinham pertencido ao. Dr. Francisco de Paula Santa Clara, seu tio. Teve uma notável obra editorial, foi diretor de Jornais "Correio Elvense" e outros.
+Fonte: "A Biblioteca Municipal de Elvas" de JTM Pereira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21337
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1234
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21337
+
+===== Filhos =====
+  * [[29825.txt|29825 - DC - Ofício]]

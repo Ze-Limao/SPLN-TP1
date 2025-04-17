@@ -1,0 +1,16 @@
+====== 30695 - DC - Registo do recenseamento eleitoral de Francisco Ferreira Leite ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Ferreira Leite
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia -Carreira
+Profissão - Lavrador
+Morada - Paredes
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30695
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30695

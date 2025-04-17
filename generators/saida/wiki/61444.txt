@@ -1,0 +1,25 @@
+====== 61444 - SSR - Documentos de divulgação ======
+
+**Parent**:: 61194
+**RootParent**:: 60551
+**UnitTitle**:: Documentos de divulgação
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1970-04-05
+**UnitDateFinal**:: 2013
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61195
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61444
+
+===== Filhos =====
+  * [[61445.txt|61445 - DC - Reunião conjunta 6º Encontro Rotary Club de V.N. Famalicão e Rotary Club de Évora]]
+  * [[61547.txt|61547 - DC - Ano Rotário 92-93]]
+  * [[61548.txt|61548 - DC - Ano Rotário 92-93]]
+  * [[61549.txt|61549 - DC - Outorga da Carta ao Rotary Clube de Famalicão]]
+  * [[61550.txt|61550 - DC - Outorga da Carta ao Rotary Clube de Famalicão]]
+  * [[61551.txt|61551 - DC - Há mais de 100 anos a servir]]
+  * [[61552.txt|61552 - DC - Assembleia do Distrito 197]]
+  * [[61553.txt|61553 - DC - Rotary Club V.N. Famalicão]]
+  * [[61554.txt|61554 - DC - Cartão do secretário Jorge Gonçalves]]
+  * [[61555.txt|61555 - DC - Cartão do Dia da Mãe 1989-90]]
+  * [[61556.txt|61556 - DC - Convite para jantar a favor Centro Social e Comunitário da Associação de Moradores das Lameiras]]
+  * [[61557.txt|61557 - DC - Programa da visita de rotarianos e familiares do Clube de Famalicão, Portugal]]

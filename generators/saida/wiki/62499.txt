@@ -1,0 +1,19 @@
+====== 62499 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - José de Araújo Campos e Luísa Coelho, na freguesia
+Naturalidade - Nine
+Morada - Nine
+Data de nascimento - 1856-09-26
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62499

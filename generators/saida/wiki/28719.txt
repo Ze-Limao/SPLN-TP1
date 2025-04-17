@@ -1,0 +1,17 @@
+====== 28719 - UI - António Arroio ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: António Arroio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-10-11
+**UnitDateFinal**:: 1899-10-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28719
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28719
+
+===== Filhos =====
+  * [[28720.txt|28720 - DC - Carta]]
+  * [[28721.txt|28721 - DC - Carta]]

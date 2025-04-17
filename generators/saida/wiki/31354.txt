@@ -1,0 +1,15 @@
+====== 31354 - SF - Condes de Arnoso ======
+
+**Parent**:: 31258
+**RootParent**:: 31258
+**UnitTitle**:: Condes de Arnoso
+**DescriptionLevel**:: SF
+**UnitDateInitial**:: 1870
+**UnitDateFinal**:: 1930
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31354
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31354
+
+===== Filhos =====
+  * [[31355.txt|31355 - SC - Bernardo Pinheiro Correia de Melo e Maria José de Melo Abreu Soares Vasconcelos Barbosa e Palha e Matilde Munró dos Anjos]]
+  * [[31362.txt|31362 - SC - Vicente Miguel de Paula Pinheiro de Melo e sua mulher Teresa Teles da Silva Caminha e Menezes e irmã Ana Maria Isabel do Carmo Pinheiro de Melo]]

@@ -1,0 +1,15 @@
+====== 65803 - DC - Testamento de Teresa Maria dos Santos ======
+
+**Parent**:: 63947
+**RootParent**:: 60536
+**UnitTitle**:: Testamento de Teresa Maria dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1801-06-06
+**UnitDateFinal**:: 1801-10-28
+**ScopeContent**:: Manuscrito, original, papel timbrado com selo fiscal de 40 reis. A última data é de aprovação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 637 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65803

@@ -1,0 +1,16 @@
+====== 30922 - DC - Registo do recenseamento eleitoral de Manuel da Costa Cardoso ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel da Costa Cardoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Lavrador
+Morada - Valdoi
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30922
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30922

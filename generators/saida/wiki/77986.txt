@@ -1,0 +1,17 @@
+====== 77986 - DC - Determinação dos louvados sobre a água no Mosteiro ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Determinação dos louvados sobre a água no Mosteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1782
+**UnitDateFinal**:: 1837
+**ScopeContent**:: Manuscrito numerado nº14, faz parte do maço CP 4560 intitulado "Casa de Pindela".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4560(13) - cx. 33
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77986

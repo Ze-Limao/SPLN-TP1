@@ -1,0 +1,16 @@
+====== 26151 - DC - Carta ======
+
+**Parent**:: 21230
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-05-03
+**UnitDateFinal**:: 1922-05-03
+**ScopeContent**:: Carta manuscrita assinada, da Tapada da Fonte, Famalicão. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26151
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 946 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26151

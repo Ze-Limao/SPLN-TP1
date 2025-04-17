@@ -1,0 +1,17 @@
+====== 61478 - DC - Direitos Humanos ======
+
+**Parent**:: 61477
+**RootParent**:: 60551
+**UnitTitle**:: Direitos Humanos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1970
+**UnitDateFinal**:: 2020
+**ScopeContent**:: Fotocópias das p. 163-174.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 381 - cx. 6
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61478

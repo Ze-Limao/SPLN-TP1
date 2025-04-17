@@ -1,0 +1,16 @@
+====== 21403 - UI - Frutuoso da Fonseca Preto Pacheco ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Frutuoso da Fonseca Preto Pacheco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1909-03-07
+**UnitDateFinal**:: 1909-03-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21403
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1371
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21403
+
+===== Filhos =====
+  * [[29983.txt|29983 - DC - Carta]]

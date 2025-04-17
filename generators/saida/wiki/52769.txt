@@ -1,0 +1,15 @@
+====== 52769 - DC - Registo do recenseamento militar de António Joaquim ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-08-19
+Naturalidade - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52769
+**LangMaterial**:: Português
+**PhysLoc**:: 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52769

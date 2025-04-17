@@ -1,0 +1,15 @@
+====== 61222 - UI - Academia de Estudos Livres ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Academia de Estudos Livres
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-07-18
+**UnitDateFinal**:: 1910-07-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61222
+
+===== Filhos =====
+  * [[61223.txt|61223 - DC - Cartão]]

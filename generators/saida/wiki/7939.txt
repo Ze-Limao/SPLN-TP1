@@ -1,0 +1,33 @@
+====== 7939 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1888-02-18
+**UnitDateFinal**:: 1888-03-22
+**ScopeContent**:: 'Tem de servir este livro para o recenseamento eleitoral das freguesias que compõem a assembleia com sede na igreja matriz desta vila de Famalicão, nas eleições de deputados da nação, em conformidade com o artigo 33 da lei eleitoral de 21 de maio de 1884'
+
+Contém dados sobre:
+1- Freguesia
+2- Nome
+3- Censo
+4- Emprego ou profissão
+5- Estado
+6- Morada
+7- Idade
+8- Elegíveis para deputados
+9- Elegíveis para cargos municipais e distritais
+10- Elegíveis para cargos paroquiais
+11- Chefe de família
+12 - Ler e escrever
+13- Quarenta maiores contribuintes da contribuição predial
+14- Quarenta maiores contribuintes da constribuição industrial, sumptuária e renda de casas
+15- Observações
+
+A assembleia eleitoral de Vila Nova de Famalicão era composta pelas freguesias de Brufe, Cavalões e anexa Gemunde, Gavião, Gondifelos, Outiz e Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7939
+**LangMaterial**:: Português
+**PhysLoc**:: 1.2.2.3
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7939

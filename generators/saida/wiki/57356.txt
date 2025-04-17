@@ -1,0 +1,14 @@
+====== 57356 - SSSC - Administração da Casa de Pindela ======
+
+**Parent**:: 31331
+**RootParent**:: 31258
+**UnitTitle**:: Administração da Casa de Pindela
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57356
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57356
+
+===== Filhos =====
+  * [[57357.txt|57357 - SR - Documentos]]

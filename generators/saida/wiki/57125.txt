@@ -1,0 +1,17 @@
+====== 57125 - DC - Projecto de alteração decreto nº19.253 de 17 de Dezembro de 1930. Sindicato Agricola de Santarém. ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Projecto de alteração decreto nº19.253 de 17 de Dezembro de 1930. Sindicato Agricola de Santarém.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1930-12-17
+**UnitDateFinal**:: 1930-12-17
+**ScopeContent**:: Documento impresso pela Sociedade nacional de Tipografia. - rua do Século, 49.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57125
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9485 - cx. 67
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57125

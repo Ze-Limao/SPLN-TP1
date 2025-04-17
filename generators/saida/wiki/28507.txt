@@ -1,0 +1,33 @@
+====== 28507 - DC - Pesquisas bibliográficas e notas de investigação sobre a história marítima anterior à 1.ª dinastia ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Pesquisas bibliográficas e notas de investigação sobre a história marítima anterior à 1.ª dinastia
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Conjunto de apontamentos capeados por uma tira de papel onde se lê “Antes e durante a 1.ª dinastia”. Manteve-se a ordem das anotações a qual deverá corresponder ainda à forma como Alberto Sampaio a organizou.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28507
+**LangMaterial**:: Português
+**PhysLoc**:: AS 90 (1) a 90 (16)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28507
+
+===== Filhos =====
+  * [[28508.txt|28508 - DC - Antes e durante a 1.ª dinastia]]
+  * [[28509.txt|28509 - DC - V. Fern. Lopes]]
+  * [[28510.txt|28510 - DC - Para a história geral da Naveg. Port.]]
+  * [[28511.txt|28511 - DC - V. a Memoria de J. Henriques Ferreira]]
+  * [[28512.txt|28512 - DC - D. Fernando]]
+  * [[28513.txt|28513 - DC - D. Dinis]]
+  * [[28514.txt|28514 - DC - Segundo S. Luís]]
+  * [[28515.txt|28515 - DC - D. Dinis não mandou contratar Génova]]
+  * [[28516.txt|28516 - DC - De pannus et de quibuscunque]]
+  * [[28517.txt|28517 - DC - Como prova do augmento]]
+  * [[28518.txt|28518 - DC - A predilecção que mostrou (Af. III)]]
+  * [[28519.txt|28519 - DC - No reinado d’ Afonso III]]
+  * [[28520.txt|28520 - DC - Pelo doc. publ. por J. P. Ribeiro]]
+  * [[28521.txt|28521 - DC - V. Esp. Sagr. Tom]]
+  * [[28522.txt|28522 - DC - Lei de 1211 sobre os salvados]]
+  * [[28523.txt|28523 - DC - Em ou depois de 1179]]

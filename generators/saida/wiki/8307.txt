@@ -1,0 +1,16 @@
+====== 8307 - UI - António Cândido da Silva Dias ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: António Cândido da Silva Dias
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-10-27
+**UnitDateFinal**:: 1895-10-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8307
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.18
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8307
+
+===== Filhos =====
+  * [[8308.txt|8308 - DC - Carta]]

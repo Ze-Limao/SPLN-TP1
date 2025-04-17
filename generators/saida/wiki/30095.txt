@@ -1,0 +1,14 @@
+====== 30095 - DC - Artur Ferreira de Carvalho ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Artur Ferreira de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1973-12-05
+**UnitDateFinal**:: 1973-12-05
+**ScopeContent**:: Regedor substituto da freguesia de Telhado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30095
+**LangMaterial**:: Português
+**PhysLoc**:: f. 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30095

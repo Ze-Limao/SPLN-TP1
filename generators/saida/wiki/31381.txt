@@ -1,0 +1,15 @@
+====== 31381 - SR - Correspondência recebida ======
+
+**Parent**:: 31380
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1871-03-23
+**UnitDateFinal**:: 1889
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31381
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31381
+
+===== Filhos =====
+  * [[32445.txt|32445 - UI - Maria Amália de Sousa Botelho Mourão e Vasconcelos]]
+  * [[60615.txt|60615 - UI - Anselmo de Sousa Botelho Mourão e Vasconcelos]]

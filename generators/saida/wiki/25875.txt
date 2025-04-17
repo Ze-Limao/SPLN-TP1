@@ -1,0 +1,16 @@
+====== 25875 - DC - Folha de recolha nº 604 de cotizações de 1$00 por cada subscritor para aquisição de material para a corporação ======
+
+**Parent**:: 25085
+**RootParent**:: 20342
+**UnitTitle**:: Folha de recolha nº 604 de cotizações de 1$00 por cada subscritor para aquisição de material para a corporação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1930
+**UnitDateFinal**:: 1930
+**ScopeContent**:: A segunda folha assinada por elementos da direção e carimbada. Atividade da responsabilidade do Grupo dos 13.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25875
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 183 - cx. 47
+depósito 3, estante
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25875

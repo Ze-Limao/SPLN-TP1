@@ -1,0 +1,17 @@
+====== 67165 - DC - 24 d´Agosto 94 ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: 24 d´Agosto 94
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-08-24
+**UnitDateFinal**:: 1894-08-24
+**ScopeContent**:: Envelope com título manuscrito, contém CP 3494 a CP 3512.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58466
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3493 - cx. 26
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67165

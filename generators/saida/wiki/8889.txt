@@ -1,0 +1,18 @@
+====== 8889 - DC - Termo do exame de Eduardo António de Araújo Veiga ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Eduardo António de Araújo Veiga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-18
+**UnitDateFinal**:: 1894-07-18
+**ScopeContent**:: Grau - Elementar
+Idade - 15
+Filiação - Maria Rosa de Araújo Veiga
+Naturalidade - Porto
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8889
+**LangMaterial**:: Português
+**PhysLoc**:: f. 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8889

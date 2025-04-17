@@ -1,0 +1,15 @@
+====== 60708 - DC - Emprazamento da quebrada da Mamoela, situada na freguesia de S.Miguel de Gemunde, e o casal de Cerita, situado na freguesia de S.Martinho de Brufe, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas e João Alvares, raçoeiro da dita Igreja, a João Gonçalves e a sua mulher Maria Anes ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento da quebrada da Mamoela, situada na freguesia de S.Miguel de Gemunde, e o casal de Cerita, situado na freguesia de S.Martinho de Brufe, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas e João Alvares, raçoeiro da dita Igreja, a João Gonçalves e a sua mulher Maria Anes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1495-11-13
+**UnitDateFinal**:: 1495-11-13
+**ScopeContent**:: Manuscrito, original, sem selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 9 - cx. P8
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60708

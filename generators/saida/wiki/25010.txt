@@ -1,0 +1,16 @@
+====== 25010 - UI - Livro de Registo e regulamento das Condecorações concedidas pela Associação ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Registo e regulamento das Condecorações concedidas pela Associação
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1900
+**ScopeContent**:: Livro assinado pela direção. Não tem registo de nenhuma condecoração.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25010
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 113
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25010

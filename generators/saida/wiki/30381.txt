@@ -1,0 +1,16 @@
+====== 30381 - DC - Registo do recenseamento eleitoral de João António Marques ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João António Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Antas
+Profissão - Lavrador
+Morada - Currais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30381
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30381

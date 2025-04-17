@@ -1,0 +1,18 @@
+====== 8579 - DC - Termo do exame de António Ferreira da Silva ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António Ferreira da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-07-21
+**UnitDateFinal**:: 1888-07-21
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - Bernardina Rosa Monteiro
+Naturalidade - Vermoim
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8579
+**LangMaterial**:: Português
+**PhysLoc**:: f. 60
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8579

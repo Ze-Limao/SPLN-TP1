@@ -1,0 +1,29 @@
+====== 33879 - DC - Carta ======
+
+**Parent**:: 33878
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872-10-28
+**UnitDateFinal**:: 1872-10-28
+**ScopeContent**:: Carta manuscrita assinada, de Seide. Esta carta está dentro envelope CP 2252 juntamente com outras 12 cartas de Camilo Castelo Branco.
+Transcrição da carta:
+
+"Meu caro Vicente
+O resultado das conferencias entre as árbitros da tal honra ofendida por adjectivos fortes apareceu n´um aranzel q. V. Exª terá visto no 1º de Janeiro de 6ª feira.
+Tudo incruentíssimo e imaculado por boas laminas de Toledo.
+Abraça-se com o seu excelente coração o de V. Ex.ª
+amº grato
+C. Castello Brº
+Seide 28/10/79"
+
+Esta carta espelha a quezília mantida com Cipriano Jardim, militar, escritor e jornalista que acusou Camilo de plágio, que se pode ler nos jornais da época, tendo surgido a possibilidade de duelo não concretizado.
+Fonte: Machado, João Afonso (2017). Memórias redivivas. Linda-a-Velha: DG Edições.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33879
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2260 - cx. 16
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33879

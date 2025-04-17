@@ -1,0 +1,16 @@
+====== 28234 - DC - Bandeira de mão ======
+
+**Parent**:: 28230
+**RootParent**:: 27963
+**UnitTitle**:: Bandeira de mão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885
+**UnitDateFinal**:: 1885
+**ScopeContent**:: Bandeira dividida em duas partes coloridas verticais: azul, junto ao estandarte, e branca na restante parte da bandeira. Um pequeno pau de madeira serve de estandarte. Na parte superior da bandeira, ao centro, um conjunto de elementos figurativos. Na restante parte da bandeira estão impressos versos. Apresenta os seguintes elementos figurativos: duas imagens (um demónio e um esqueleto) ladeiam um escudo, o qual é suportado pela cabeça de uma outra imagem (demónio) na posição de joelhos. O demónio e o esqueleto seguram partes de faixas flamejantes. Na faixa do lado do demónio lê-se «A Vergara.» e, na do lado do esqueleto, «El Brujo». O escudo divide-se em cinco partes, apresentando cada uma, ao centro, um elemento figurativo, sendo apenas possível identificar o que está representado em duas delas, uma cartola e três círculos. Na parte central do escudo, figura a representação do que parece ser uma Nossa Senhora (da Oliveira?). Versos: “É Guimarães uma cidade altiva / Cheia de brio, orgulho e pundonor!... / Receba pois como lembrança viva / Embora sem valor / Uma adhesão sincera e affectiva: / Um Viva Guimarães cidade altiva / Cheia de brio, orgulho e pundonor!...»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28234
+**LangMaterial**:: Português
+**PhysLoc**:: AS 177 - cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28234

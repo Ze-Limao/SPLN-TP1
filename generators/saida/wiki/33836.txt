@@ -1,0 +1,18 @@
+====== 33836 - UI - Francisco de Campos Carvalho ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Francisco de Campos Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-01-29
+**UnitDateFinal**:: 1921-01-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33836
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33836
+
+===== Filhos =====
+  * [[33837.txt|33837 - DC - Carta]]

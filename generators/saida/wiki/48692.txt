@@ -1,0 +1,16 @@
+====== 48692 - UI - Manuel Inácio de Castro Guimarães ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Manuel Inácio de Castro Guimarães
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48692
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48692
+
+===== Filhos =====
+  * [[48693.txt|48693 - DC - Carta]]

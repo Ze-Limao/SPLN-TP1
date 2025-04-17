@@ -1,0 +1,16 @@
+====== 23530 - DC - Registo do recenseamento eleitoral de António Borges de Abreu ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Borges de Abreu
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vale S. Cosme
+Profissão - Lavrador
+Morada - Ribeira de Cima
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23530
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 76v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23530

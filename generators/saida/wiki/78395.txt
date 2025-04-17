@@ -1,0 +1,17 @@
+====== 78395 - DC - Obrigação de dinheiro que fez Manuel Pinto de Magalhães da quantia de 480.000 reis que pediu a Manuel de Oliveira Basto ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Obrigação de dinheiro que fez Manuel Pinto de Magalhães da quantia de 480.000 reis que pediu a Manuel de Oliveira Basto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1723-12-21
+**UnitDateFinal**:: 1723-12-21
+**ScopeContent**:: Manuscrito com folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5010 - cx. 36
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78395

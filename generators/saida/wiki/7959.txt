@@ -1,0 +1,14 @@
+====== 7959 - DC - Termo de João Ferreira de Carvalho, António Joaquim Fernandes e Leonardo José Rodrigues de Carvalho ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de João Ferreira de Carvalho, António Joaquim Fernandes e Leonardo José Rodrigues de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1859-06-30
+**UnitDateFinal**:: 1859-06-30
+**ScopeContent**:: Arrematação dos impostos municipais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7959
+**LangMaterial**:: Português
+**PhysLoc**:: f. 4
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7959

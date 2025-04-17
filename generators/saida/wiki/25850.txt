@@ -1,0 +1,16 @@
+====== 25850 - DC - Ante-projecto do novo quartel da Associação dos Bombeiros Voluntários de v. n. Famalicão: Memória descritiva e justificativa, assinada pelo arquitecto Alfredo Casais Rodrigues (2.º Projecto) ======
+
+**Parent**:: 25032
+**RootParent**:: 20342
+**UnitTitle**:: Ante-projecto do novo quartel da Associação dos Bombeiros Voluntários de v. n. Famalicão: Memória descritiva e justificativa, assinada pelo arquitecto Alfredo Casais Rodrigues (2.º Projecto)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-09-04
+**UnitDateFinal**:: 1959-09-04
+**ScopeContent**:: Como os primeiros anteprojetos apresentados pelos arquitetos Casais Rodrigues e Francisco Augusto Braga não mereceram a aprovação da Associação Humanitária de Bombeiros Voluntários, Hilário Carvalho solicitou o estudo do projeto a um homem da vila, o Eng.º Pinheiro Braga. Em Setembro de 1959 o Ministro das Obras Públicas, Eng.º Arantes de Oliveira recebeu em mão o anteprojeto, durante uma visita oficial que realizou a Famalicão. A sua não aprovação em Lisboa conduziu a um novo anteprojeto, igualmente reprovado pelos serviços centrais «por ninharias que nada valiam». Serão ainda necessárias mais duas tentativas até à aprovação do projeto da autoria do Eng.º Pinheiro Braga, por despacho de 30 de junho de 1960.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25850
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 134 - cx. 33
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25850

@@ -1,0 +1,17 @@
+====== 64125 - DC - Caixa com 3 bolas de golfe Rotary V.N. Famalicão ======
+
+**Parent**:: 61783
+**RootParent**:: 60551
+**UnitTitle**:: Caixa com 3 bolas de golfe Rotary V.N. Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2023
+**UnitDateFinal**:: 2023
+**ScopeContent**:: Marca Srixon soft feel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 536 - cx. 18
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64125

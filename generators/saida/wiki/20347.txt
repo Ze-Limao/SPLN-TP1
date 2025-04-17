@@ -1,0 +1,28 @@
+====== 20347 - SC - Associação ======
+
+**Parent**:: 20342
+**RootParent**:: 20342
+**UnitTitle**:: Associação
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 2004
+**ScopeContent**:: Esta Secção é composta por:
+Subsecção A Serviços Administrativos (Série 001 Expediente; Série 002 Contabilidade; Série 003 Atas e Relatórios; Série 004 Empregados; Série 005 Registo de sócios) - 113 u.i. (46 livros, 4 cadernos, 63 maços); 
+Subsecção B Atividades diversas - 17 u.i. (6 livros, 1 livreto, 8 maços, 1 folha, 1 cartão);
+Subsecção C Bens Imóveis e móveis - 3 u.i. (1 livro, 1 maço, 1 caderno);
+Subsecção D Quartel 1966 - 7 u.i. (2 livros, 5 maços);
+Subsecção E Julgamento Malha Branca - 1 u.i. (1 maço);
+Subsecção F Assistência - 1 u.i. (1 livro).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20347
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20347
+
+===== Filhos =====
+  * [[20349.txt|20349 - SSC - Serviços Administrativos]]
+  * [[20365.txt|20365 - SSC - Atividades diversas]]
+  * [[20367.txt|20367 - SSC - Bens imóveis e móveis]]
+  * [[20371.txt|20371 - SSC - Quartel 1966]]
+  * [[20372.txt|20372 - SSC - Julgamento Malha Branca]]
+  * [[20373.txt|20373 - SSC - Assistência]]

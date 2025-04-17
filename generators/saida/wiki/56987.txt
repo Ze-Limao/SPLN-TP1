@@ -1,0 +1,17 @@
+====== 56987 - DC - Carta para 3º Visconde de Pindela de A. Pinto Machado ======
+
+**Parent**:: 56945
+**RootParent**:: 31258
+**UnitTitle**:: Carta para 3º Visconde de Pindela de A. Pinto Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934
+**UnitDateFinal**:: 1934
+**ScopeContent**:: Carta manuscrita, com nota manuscrita do 3º Visconde de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56987
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2751 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56987

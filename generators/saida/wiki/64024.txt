@@ -1,0 +1,15 @@
+====== 64024 - DC - Recibo de Leonardo José Rodrigues de Carvalho ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de Leonardo José Rodrigues de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-10-05
+**UnitDateFinal**:: 1871-10-05
+**ScopeContent**:: Manuscrito. Recibo de V.N. de Famalicão de velas passado a S.Tiago de Antas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 344 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64024

@@ -1,0 +1,16 @@
+====== 28747 - DC - Rascunho de carta ======
+
+**Parent**:: 28746
+**RootParent**:: 27963
+**UnitTitle**:: Rascunho de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-01
+**UnitDateFinal**:: 1907-01
+**ScopeContent**:: Rascunho escrito em Boamense, Cabeçudos, V. Nova de Famalicão. Junto da carta AS 591.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28747
+**LangMaterial**:: Português
+**PhysLoc**:: AS 592 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28747

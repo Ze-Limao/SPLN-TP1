@@ -1,0 +1,16 @@
+====== 31379 - SR - Correspondência recebida ======
+
+**Parent**:: 31378
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1872-05-29
+**UnitDateFinal**:: 1892
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31379
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31379
+
+===== Filhos =====
+  * [[32462.txt|32462 - UI - Maria Amália de Sousa Botelho Mourão e Vasconcelos, 2ª Viscondessa de Pindela]]
+  * [[32464.txt|32464 - UI - Vicente Pinheiro Lobo Machado de Melo e Almada, 2º Visconde de Pindela]]
+  * [[60604.txt|60604 - UI - José de Morais]]

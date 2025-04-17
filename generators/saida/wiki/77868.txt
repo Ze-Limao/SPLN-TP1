@@ -1,0 +1,17 @@
+====== 77868 - DC - Cópia do formulário de como fazer os prazos novos ======
+
+**Parent**:: 54471
+**RootParent**:: 31258
+**UnitTitle**:: Cópia do formulário de como fazer os prazos novos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1777-05-22
+**UnitDateFinal**:: 1777-05-22
+**ScopeContent**:: Manuscrito intitulado por Abade de Tagilde, numerado nº9, faz parte do maço CP 4560 intitulado "Casa de Pindela". No início do documento "Prazo que fez João Machado de Melo Pinheiro e Figueira com licença de sua mãe como sua tutora Ana Maria Isabel de Melo Pereira e Sampaio e seu curador ... o Agostinho Leite..."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4560(9) - cx. 33
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77868

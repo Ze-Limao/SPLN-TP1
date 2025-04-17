@@ -1,0 +1,17 @@
+====== 21406 - UI - Gaspar Falcão ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Gaspar Falcão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1870
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21406
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1375, 1376
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21406
+
+===== Filhos =====
+  * [[30240.txt|30240 - DC - Carta]]
+  * [[30241.txt|30241 - DC - Carta]]

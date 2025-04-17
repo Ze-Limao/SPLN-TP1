@@ -1,0 +1,13 @@
+====== 7723 - UI - Livro de Notas Nº 39 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 39
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1980-04-02
+**UnitDateFinal**:: 1980-10-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7723
+**LangMaterial**:: Português
+**PhysLoc**:: 1.68
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7723

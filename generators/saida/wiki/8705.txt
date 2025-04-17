@@ -1,0 +1,18 @@
+====== 8705 - DC - Francisco Forte de Faria Torrinha ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Francisco Forte de Faria Torrinha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-20
+**UnitDateFinal**:: 1890-08-20
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - José Forte de Faria Alves Monteiro
+Naturalidade - Joane
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8705
+**LangMaterial**:: Português
+**PhysLoc**:: 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8705

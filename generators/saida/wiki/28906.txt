@@ -1,0 +1,14 @@
+====== 28906 - UI - Emília Ermelinda Sequeira Leal Sampaio da Nóvoa ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Emília Ermelinda Sequeira Leal Sampaio da Nóvoa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-06-18
+**UnitDateFinal**:: 1903-06-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28906
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28906
+
+===== Filhos =====
+  * [[28907.txt|28907 - DC - Carta]]

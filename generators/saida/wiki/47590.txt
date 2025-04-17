@@ -1,0 +1,18 @@
+====== 47590 - DC - Registo do recenseamento eleitoral de Manuel José Moreira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Brufe
+Profissão - Lavrador
+Estado - Casado
+Morada - Eido
+Idade - 41
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47590
+**LangMaterial**:: Português
+**PhysLoc**:: 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47590

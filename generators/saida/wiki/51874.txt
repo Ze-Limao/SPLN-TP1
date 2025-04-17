@@ -1,0 +1,18 @@
+====== 51874 - DC - Registo do recenseamento militar de Manuel Joaquim ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-09-07
+Filiação - José da Costa Machado e Joaquina da Costa Ferreira
+Naturalidade - Vale S. Martinho
+Profissão - Carpinteiro
+Residência - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51874
+**LangMaterial**:: Português
+**PhysLoc**:: 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51874

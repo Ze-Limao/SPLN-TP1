@@ -1,0 +1,15 @@
+====== 51968 - DC - Registo do recenseamento militar de José Pedro ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Pedro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-05-25
+Naturalidade - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51968
+**LangMaterial**:: Português
+**PhysLoc**:: 66v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51968

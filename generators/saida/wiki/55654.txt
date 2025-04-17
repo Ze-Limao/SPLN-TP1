@@ -1,0 +1,17 @@
+====== 55654 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 31461
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-10-14
+**UnitDateFinal**:: 1894-10-24
+**ScopeContent**:: Minuta de carta manuscrita assinada em papel timbrado "Legação de Portugal em Berlim". Petição dirigida a Carlos Lobo de Ávila relativa ao padrão que os descobridores portugueses do século XV levantaram no Cabo Grosso (Costa Ocidental de África) e que foi levado para os Camarões (um deles tem o desenho do padrão e um documento em alemão com a reprodução da inscrição do padrão, em latim e a tradução para português).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55654
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13606 - cx.
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55654

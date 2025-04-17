@@ -1,0 +1,17 @@
+====== 45223 - DC - Carta ======
+
+**Parent**:: 45187
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-10-20
+**UnitDateFinal**:: 1910-10-20
+**ScopeContent**:: Carta manuscrita assinada, de Cascais.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45223
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1818 - cx. 12
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45223

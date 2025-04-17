@@ -1,0 +1,16 @@
+====== 24709 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-08-11
+**UnitDateFinal**:: 1911-08-11
+**ScopeContent**:: António Ferraz dá conta de uma visita ao Porto e por isso não estava quando a visita de JAM. Faz comentários em relação à situação política. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24709
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 210 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24709

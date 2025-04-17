@@ -1,0 +1,16 @@
+====== 28088 - DC - 1872 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1872
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872
+**UnitDateFinal**:: 1872
+**ScopeContent**:: Colheita de 1872. Indicação das castas vindimadas, estado das uvas e densidade do mosto de cada casta.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28088
+**LangMaterial**:: Português
+**PhysLoc**:: AS 374 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28088

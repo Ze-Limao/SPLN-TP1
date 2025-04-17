@@ -1,0 +1,20 @@
+====== 21191 - UI - Joaquim António da Fonseca de Vasconcelos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim António da Fonseca de Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-09
+**UnitDateFinal**:: 1914-08-08
+**ScopeContent**:: Joaquim António da Fonseca de Vasconcelos (Porto, 1849-1936) foi um historiador e crítico de arte português. Foi, no dizer de José Augusto França, o real fundador da História da Arte em Portugal, entendida como ciência, com objeto e método próprios.Realizou os seus estudos secundários em Hamburgo. Regressado a Portugal, foi professor de línguas no Liceu Central do Porto (1883-1924). Simultaneamente Joaquim de Vasconcelos desenvolveu outras atividades, onde se destacam as de secretário-geral da Sociedade de Instrução do Porto, de conservador e diretor do Museu Industrial e Comercial do Porto, de promotor, com outras figuras de destaque, do Centro Artístico Portuense tendo colaborado na revista editada pelo mesmo A Arte Portuguesa (1882-1884) e de inspetor do ensino industrial na circunscrição do Norte.
+Fonte: Wikipédia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21191
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 753, 754
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21191
+
+===== Filhos =====
+  * [[25954.txt|25954 - DC - Carta]]
+  * [[25955.txt|25955 - DC - Cartão de visita]]

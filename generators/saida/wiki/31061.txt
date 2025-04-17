@@ -1,0 +1,16 @@
+====== 31061 - DC - Registo do recenseamento eleitoral de José Gonçalves da Cruz ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Gonçalves da Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Landim
+Profissão - Vendeiro
+Morada - Travassos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31061
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31061

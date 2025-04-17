@@ -1,0 +1,14 @@
+====== 30008 - DC - José Maria de Oliveira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: José Maria de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954-11-03
+**UnitDateFinal**:: 1954-11-03
+**ScopeContent**:: Regedor efetivo da freguesia de Castelões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30008
+**LangMaterial**:: Português
+**PhysLoc**:: f. 4
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30008

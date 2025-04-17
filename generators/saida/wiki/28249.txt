@@ -1,0 +1,16 @@
+====== 28249 - DC - Capítulo V: O comércio marítimo. ======
+
+**Parent**:: 28243
+**RootParent**:: 27963
+**UnitTitle**:: Capítulo V: O comércio marítimo.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Cópia manuscrita revista do capítulo V: O comércio marítimo da obra As Póvoas Marítimas do Norte de Portugal. Algumas folhas com colagens. Várias emendas. Anotações a lápis. No canto superior direito da f. 1 a seguinte nota: “Lelo, 31 agosto 8 h. noute”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28249
+**LangMaterial**:: Português
+**PhysLoc**:: AS 9 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28249

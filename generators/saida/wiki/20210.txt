@@ -1,0 +1,19 @@
+====== 20210 - UI - Autos de arrematação da sopa económica ======
+
+**Parent**:: 20209
+**RootParent**:: 20048
+**UnitTitle**:: Autos de arrematação da sopa económica
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912-06-19
+**UnitDateFinal**:: 1917-05-04
+**ScopeContent**:: Termo de abertura: “Tem de servir este livro para nélle se lavrarem os autos de arrematação ao sustento alimentício aos pobres presos indigentes nas cadeias civis d´este concelho…”.
+Contém: 
+Condições e clausulas do concurso para arrematação do sustento para os presos pobres das cadeias da comarca de Vila Nova de Famalicão, para o ano económico de 1918-1919, elaboradas conforme o artº 145 do Regulamento de 21 de Setembro de 1901, 1918-03-26, 4 f.; papel.
+Ofício nº 32 do Procurador da República dirigido ao delegado da Comarca de Vila Nova de Famalicão, 1916-03-30; 1 f.; papel.
+Condições de contrato de sustento dos presos indigentes da comarca de Vila Nova de Famalicão, para o anno de 1916-1917, 1916-03-25, 5 f., papel. Carimbado 1916-03-27.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20210
+**LangMaterial**:: Português
+**PhysLoc**:: AC 49
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20210

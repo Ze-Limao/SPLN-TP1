@@ -1,0 +1,75 @@
+====== 21270 - UI - José Augusto Carneiro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Augusto Carneiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-11-26
+**UnitDateFinal**:: 1913-03-23
+**ScopeContent**:: José Augusto Carneiro foi genealogista. Fez anotações à "Memoria Historica, Genealogica e Biographica da Excellentissima Casa de Abrantes"; Apreciações de Varios Escriptores Feitas à "Memoria Historica, Genealogica e Biographica da Excellentissima Casa de Abrantes"[...]; Brazões de Armas das Principais Familias Antigas, Titulares, em Portugal; Memoria Genealogica e Biographica sobre Marinhos Falcões; Memoria Genealogica sobre Mênas e suas Allianças; Memoria Historica, Genealogica e Biographica da Excellentissima Casa de Abrantes; Notícia Historica e Genealogica dos Abreus de Regalados,Apresentada à Academia Real das Seieneias de Lisboa; Resenha Genealogica da Origem e Familia dos Sás (Abrantes); Resenha Historica e Archeologica do Mosteiro de Lessa do Bailio - Com Notas Biographicas e Genealogicas A.
+Fonte: Biblioteca Genealógica de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21270
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1056 a 1114
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21270
+
+===== Filhos =====
+  * [[29647.txt|29647 - DC - Carta]]
+  * [[29648.txt|29648 - DC - Carta]]
+  * [[29649.txt|29649 - DC - Carta]]
+  * [[29650.txt|29650 - DC - Carta]]
+  * [[29651.txt|29651 - DC - Carta]]
+  * [[29652.txt|29652 - DC - Carta]]
+  * [[29653.txt|29653 - DC - Carta]]
+  * [[29654.txt|29654 - DC - Carta]]
+  * [[29655.txt|29655 - DC - Carta]]
+  * [[29656.txt|29656 - DC - Carta]]
+  * [[29657.txt|29657 - DC - Carta]]
+  * [[29658.txt|29658 - DC - Carta]]
+  * [[29659.txt|29659 - DC - Carta]]
+  * [[29660.txt|29660 - DC - Carta]]
+  * [[29661.txt|29661 - DC - Carta]]
+  * [[29662.txt|29662 - DC - Carta]]
+  * [[29663.txt|29663 - DC - Carta]]
+  * [[29665.txt|29665 - DC - Carta]]
+  * [[29666.txt|29666 - DC - Carta]]
+  * [[29667.txt|29667 - DC - Carta]]
+  * [[29668.txt|29668 - DC - Carta]]
+  * [[29669.txt|29669 - DC - Carta]]
+  * [[29670.txt|29670 - DC - Carta]]
+  * [[29671.txt|29671 - DC - Carta]]
+  * [[29672.txt|29672 - DC - Carta]]
+  * [[29673.txt|29673 - DC - Carta]]
+  * [[29674.txt|29674 - DC - Carta]]
+  * [[29675.txt|29675 - DC - Carta]]
+  * [[29676.txt|29676 - DC - Carta]]
+  * [[29677.txt|29677 - DC - Carta]]
+  * [[29678.txt|29678 - DC - Carta]]
+  * [[29679.txt|29679 - DC - Carta]]
+  * [[29680.txt|29680 - DC - Carta]]
+  * [[29681.txt|29681 - DC - Carta]]
+  * [[29682.txt|29682 - DC - Carta]]
+  * [[29683.txt|29683 - DC - Carta]]
+  * [[29684.txt|29684 - DC - Carta]]
+  * [[29685.txt|29685 - DC - Carta]]
+  * [[29686.txt|29686 - DC - Carta]]
+  * [[29687.txt|29687 - DC - Carta]]
+  * [[29688.txt|29688 - DC - Carta]]
+  * [[29689.txt|29689 - DC - Carta]]
+  * [[29690.txt|29690 - DC - Carta]]
+  * [[29691.txt|29691 - DC - Carta]]
+  * [[29692.txt|29692 - DC - Carta]]
+  * [[29693.txt|29693 - DC - Carta]]
+  * [[29694.txt|29694 - DC - Carta]]
+  * [[29695.txt|29695 - DC - Carta]]
+  * [[29696.txt|29696 - DC - Carta]]
+  * [[29697.txt|29697 - DC - Carta]]
+  * [[29698.txt|29698 - DC - Carta]]
+  * [[29699.txt|29699 - DC - Carta]]
+  * [[29700.txt|29700 - DC - Carta]]
+  * [[29701.txt|29701 - DC - Carta]]
+  * [[29702.txt|29702 - DC - Carta]]
+  * [[29703.txt|29703 - DC - Carta]]
+  * [[29704.txt|29704 - DC - Carta]]
+  * [[29705.txt|29705 - DC - Carta]]

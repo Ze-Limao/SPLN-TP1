@@ -1,0 +1,18 @@
+====== 8929 - DC - Termo do exame de António Macedo de Araújo ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António Macedo de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-26
+**UnitDateFinal**:: 1894-07-26
+**ScopeContent**:: Grau - Elementar
+Idade - 16
+Filiação - José Manuel de Araújo
+Naturalidade - Cavalões
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8929
+**LangMaterial**:: Português
+**PhysLoc**:: f. 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8929

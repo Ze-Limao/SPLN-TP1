@@ -1,0 +1,16 @@
+====== 25931 - DC - Formatura do Corpo Ativo e Ministro do Interior Santos Júnior na inauguração do novo quartel ======
+
+**Parent**:: 25319
+**RootParent**:: 20342
+**UnitTitle**:: Formatura do Corpo Ativo e Ministro do Interior Santos Júnior na inauguração do novo quartel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-09-28
+**UnitDateFinal**:: 1966-09-28
+**ScopeContent**:: Formatura do Corpo Ativo na rua junto da Pensão do Parque.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25931
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 188 - cx. 52
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25931

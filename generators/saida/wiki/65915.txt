@@ -1,0 +1,15 @@
+====== 65915 - DC - Carta de vedoria de Vila Nova, foreiro da de S. Tiago de Antas, a favor de Padre Manuel de António Correia ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Carta de vedoria de Vila Nova, foreiro da de S. Tiago de Antas, a favor de Padre Manuel de António Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1781-01-29
+**UnitDateFinal**:: 1781-01-29
+**ScopeContent**:: Manuscrito e impresso, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 650 - cx. 47B
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65915

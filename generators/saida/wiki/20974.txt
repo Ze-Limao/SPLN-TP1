@@ -1,0 +1,15 @@
+====== 20974 - DC - Nº 21/961 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 21/961
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-10-31
+**UnitDateFinal**:: 1961-10-31
+**ScopeContent**:: Contrato de adjudicação da empreitada da 'Estrada Municipal desde a EN310 (Riba de Ave)'. Reparação dos lanços entre Oliveira Santa Maria e Santana e entre a Ponte de Serves e a igreja de Pevidém. Terceira fase.
+Outorgante - Gabriel Alves Sampaio Couto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20974
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20974

@@ -1,0 +1,16 @@
+====== 28244 - DC - As Póvoas Marítimas do Norte de Portugal: Capítulo I ======
+
+**Parent**:: 28243
+**RootParent**:: 27963
+**UnitTitle**:: As Póvoas Marítimas do Norte de Portugal: Capítulo I
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Cópia manuscrita do Prólogo e Capítulo I: Desde os tempos proto-históricos até aos novigodos. As três primeiras folhas encontram-se numeradas com numeração romana (em falta a primeira folha). Notas do texto escritas em folhas separadas, coladas posteriormente às folhas do texto. No verso da última folha a seguinte anotação a lápis: “(Publicado) / (Conservo o mss. Para fazer o índice)”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28244
+**LangMaterial**:: Português
+**PhysLoc**:: AS 4 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28244

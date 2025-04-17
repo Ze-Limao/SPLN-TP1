@@ -1,0 +1,15 @@
+====== 80420 - UI - Processo nº 111 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 111
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-04-24
+**UnitDateFinal**:: 1970-11-30
+**ScopeContent**:: Autos de Execução por Quantia Certa. Junto com Autos de Reclamação de Créditos nº 111-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 146 - cx. 8
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80420

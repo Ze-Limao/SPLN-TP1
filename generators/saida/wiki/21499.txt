@@ -1,0 +1,16 @@
+====== 21499 - DC - Registo do recenseamento eleitoral de Eduardo José de Carvalho ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Eduardo José de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Antas
+Profissão - Vendeiro
+Morada - Feira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21499
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21499

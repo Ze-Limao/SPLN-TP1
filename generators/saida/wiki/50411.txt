@@ -1,0 +1,18 @@
+====== 50411 - DC - Registo do recenseamento militar de Camilo ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Camilo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-12-08
+Filiação - Vicente Ribeiro de Faria e Josefa Simões
+Naturalidade - Telhado
+Profissão - Alfaiate
+Residência - Telhado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50411
+**LangMaterial**:: Português
+**PhysLoc**:: 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50411

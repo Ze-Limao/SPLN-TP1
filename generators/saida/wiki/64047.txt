@@ -1,0 +1,15 @@
+====== 64047 - DC - Fatura de cera de Leonardo José Rodrigues de Carvalho ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Fatura de cera de Leonardo José Rodrigues de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-12-21
+**UnitDateFinal**:: 1876-12-21
+**ScopeContent**:: Manuscrito, de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 366 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64047

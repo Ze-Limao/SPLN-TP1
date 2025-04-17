@@ -1,0 +1,17 @@
+====== 32934 - DC - Carta ======
+
+**Parent**:: 32802
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-04-07
+**UnitDateFinal**:: 1917-04-07
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Esta carta pertence ao maço organizado por João Machado com a seguinte anotação: "Correspondência recebida pela Viscondessa D. Amália em 1917".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32934
+**LangMaterial**:: Português
+**PhysLoc**:: CP 982 - cx. 7
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32934

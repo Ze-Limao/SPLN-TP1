@@ -1,0 +1,17 @@
+====== 25980 - DC - Carta ======
+
+**Parent**:: 21199
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-01
+**UnitDateFinal**:: 1887-02
+**ScopeContent**:: José de Freitas Costa discute pesquisas de genealogia de Camilo Castelo Branco e outras.
+Carta manuscrita assinada. Carta sem menção a data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25980
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 773 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25980

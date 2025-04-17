@@ -1,0 +1,14 @@
+====== 9983 - DC - Registo do pagamento a Augusto Teixeira Folhadela ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a Augusto Teixeira Folhadela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-31
+**UnitDateFinal**:: 1882-03-31
+**ScopeContent**:: Gratificação aos indivíduos que trabalham com a bomba de incêndios
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9983
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9983

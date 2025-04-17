@@ -1,0 +1,15 @@
+====== 65710 - DC - Diz Manuel João, do lugar de Areal freguesia de S. Julião de Calendário desta comarca e arcebispado, que foi legado além da sua propriedade ... instituída contra António Dias... ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Diz Manuel João, do lugar de Areal freguesia de S. Julião de Calendário desta comarca e arcebispado, que foi legado além da sua propriedade ... instituída contra António Dias...
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1755-02-24
+**UnitDateFinal**:: 1755-02-24
+**ScopeContent**:: Manuscrito, original, folhas cosidas, falta 1 folha.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 295 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65710

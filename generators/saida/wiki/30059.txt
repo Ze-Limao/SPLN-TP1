@@ -1,0 +1,14 @@
+====== 30059 - DC - Armindo Marques Ferreira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Armindo Marques Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1965-05-05
+**UnitDateFinal**:: 1965-05-05
+**ScopeContent**:: Regedor efetivo da freguesia de Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30059
+**LangMaterial**:: Português
+**PhysLoc**:: f. 30
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30059

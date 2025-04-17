@@ -1,0 +1,18 @@
+====== 50543 - DC - Registo do recenseamento militar de Firmino ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Firmino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-10-28
+Filiação - Manuel Ferreira e Rosa Maria da Costa
+Naturalidade - Vale S. Martinho
+Profissão - Carpinteiro
+Residência - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50543
+**LangMaterial**:: Português
+**PhysLoc**:: 63v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50543

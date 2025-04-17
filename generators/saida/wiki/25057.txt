@@ -1,0 +1,16 @@
+====== 25057 - UI - Documentos diversos sobre viaturas e material para incêndios ======
+
+**Parent**:: 20377
+**RootParent**:: 20342
+**UnitTitle**:: Documentos diversos sobre viaturas e material para incêndios
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1960
+**UnitDateFinal**:: 1961
+**ScopeContent**:: Contém: informações, panfletos, correspondência.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25057
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 156 - cx. 40
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25057

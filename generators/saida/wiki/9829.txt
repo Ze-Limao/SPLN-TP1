@@ -1,0 +1,17 @@
+====== 9829 - DC - Famalicão - Feira Semanal ======
+
+**Parent**:: 9828
+**RootParent**:: 60698
+**UnitTitle**:: Famalicão - Feira Semanal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1940
+**UnitDateFinal**:: 1948-08-02
+**ScopeContent**:: Postal impresso em papel de fotografia, com legenda na frente e no verso carimbo "Foto-Correia Famalicão". No verso carimbado e selado, dirigido a José de Abreu Loureiro, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9829
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 86 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9829

@@ -1,0 +1,15 @@
+====== 55117 - UI - Fernando Matoso dos Santos ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Fernando Matoso dos Santos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902
+**UnitDateFinal**:: 1902-01-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55117
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55117
+
+===== Filhos =====
+  * [[55118.txt|55118 - DC - Telegrama]]
+  * [[55297.txt|55297 - DC - Telegrama]]

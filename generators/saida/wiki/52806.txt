@@ -1,0 +1,16 @@
+====== 52806 - DC - Registo do recenseamento militar de José Machado ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-02-06
+Filiação - Joaquim José da Silva Machado e Ana Maria
+Naturalidade - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52806
+**LangMaterial**:: Português
+**PhysLoc**:: 71v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52806

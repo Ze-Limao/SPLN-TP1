@@ -1,0 +1,16 @@
+====== 27974 - SSSC - Correspondência ======
+
+**Parent**:: 27971
+**RootParent**:: 27963
+**UnitTitle**:: Correspondência
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1863
+**UnitDateFinal**:: 1867-07-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27974
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27974
+
+===== Filhos =====
+  * [[28022.txt|28022 - SR - Correspondência recebida]]
+  * [[28023.txt|28023 - SR - Correspondência expedida]]
+  * [[29144.txt|29144 - SR - Correspondência de terceiros]]

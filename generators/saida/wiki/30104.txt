@@ -1,0 +1,14 @@
+====== 30104 - DC - Mário Pinto Machado ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Mário Pinto Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-11
+**UnitDateFinal**:: 1974-10-11
+**ScopeContent**:: Regedor efetivo da freguesia de Riba de Ave
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30104
+**LangMaterial**:: Português
+**PhysLoc**:: f. 53
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30104

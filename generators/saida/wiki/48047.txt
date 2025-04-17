@@ -1,0 +1,18 @@
+====== 48047 - DC - Registo do recenseamento eleitoral de Manuel Lourenço de Sousa Barbosa ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Lourenço de Sousa Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Jesufrei
+Profissão - Cirurgião
+Estado - Casado
+Morada - Igreja
+Idade - 44
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48047
+**LangMaterial**:: Português
+**PhysLoc**:: 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48047

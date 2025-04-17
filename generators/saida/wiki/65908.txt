@@ -1,0 +1,15 @@
+====== 65908 - DC - Apegação, medição e confrontação do casal da Bouça, situado na freguesia de Vilarinho das Cambas, pelo padres de S. Tiago de Antas, Damião de Figueiredo e Gaspar Francisco, com homens bons João António e Jorge da Costa ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal da Bouça, situado na freguesia de Vilarinho das Cambas, pelo padres de S. Tiago de Antas, Damião de Figueiredo e Gaspar Francisco, com homens bons João António e Jorge da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1682-11-03
+**UnitDateFinal**:: 1682-11-03
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 644 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65908

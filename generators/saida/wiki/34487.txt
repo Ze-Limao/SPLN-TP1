@@ -1,0 +1,19 @@
+====== 34487 - DC - Registo do recenseamento militar de Custódio ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Custódio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Ruivães
+Data de nascimento - 1862-09-21
+Filiação - Teotónio Pereira  e Aurélia Rosa da Rocha
+Profissão - Tecelão
+Estado - Solteiro
+Morada - Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34487
+**LangMaterial**:: Português
+**PhysLoc**:: 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34487

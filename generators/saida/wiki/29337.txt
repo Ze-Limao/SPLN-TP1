@@ -1,0 +1,16 @@
+====== 29337 - DC - N. 32546 benzoato de lítio ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: N. 32546 benzoato de lítio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-05-23
+**UnitDateFinal**:: 1896-05-23
+**ScopeContent**:: Composição da receita: benzoato de lítio, bicarbonato de soda, xarope de farmácia. Local e data: Guimarães, 23 de Maio de 1896. Carimbo da Farmácia do Hospital da Misericórdia de Guimarães. No canto superior esquerdo lê-se: Ex.mo S. D. Alberto Sampaio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29337
+**LangMaterial**:: Português
+**PhysLoc**:: AS 232 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29337

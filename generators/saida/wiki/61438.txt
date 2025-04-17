@@ -1,0 +1,21 @@
+====== 61438 - SSR - Documentos sobre sócios ======
+
+**Parent**:: 61194
+**RootParent**:: 60551
+**UnitTitle**:: Documentos sobre sócios
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1970
+**UnitDateFinal**:: 2006-03-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61195
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61438
+
+===== Filhos =====
+  * [[61439.txt|61439 - DC - Sócios atuais, sócios honorários, ex-sócios, subscritores de mérito, Paul Harris fellows, bolseiros atuais, ex-bolseiros]]
+  * [[61532.txt|61532 - DC - Admissão de sócios]]
+  * [[61533.txt|61533 - DC - Lista de sócios e contactos]]
+  * [[61534.txt|61534 - DC - Lista de sócios e contactos]]
+  * [[61535.txt|61535 - DC - Ano Rotário 92-93 com quadro social do Clube]]
+  * [[61536.txt|61536 - DC - Mapas de frequência de sócios]]
+  * [[61537.txt|61537 - DC - Pedido de Admissão ao Rotary International]]
+  * [[61538.txt|61538 - DC - Pedido de admissão como sócios fundadores do Club de V.N. Famalicão]]

@@ -1,0 +1,16 @@
+====== 24712 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-09-15
+**UnitDateFinal**:: 1911-09-15
+**ScopeContent**:: António Ferraz deseja saber quando é a viagem de Vila do Campo para Famalicão. Faz uma observação em relação a Aquis Celaenis, itinerários romanos no Norte. Carta manuscrita assinada, Apúlia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24712
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 213 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24712

@@ -1,0 +1,14 @@
+====== 60693 - SR - Receitas e Despesas ======
+
+**Parent**:: 60692
+**RootParent**:: 60548
+**UnitTitle**:: Receitas e Despesas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1881
+**UnitDateFinal**:: 1894
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60687
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60693
+
+===== Filhos =====
+  * [[60694.txt|60694 - DC - Livro de receita e despesa da Confraria do Santíssimo Sacramento]]

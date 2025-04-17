@@ -1,0 +1,16 @@
+====== 29466 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872-08
+**UnitDateFinal**:: 1872-08
+**ScopeContent**:: Carta expedida do Porto?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29466
+**LangMaterial**:: Português
+**PhysLoc**:: AS 707 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29466

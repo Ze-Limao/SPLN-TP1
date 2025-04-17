@@ -1,0 +1,14 @@
+====== 54438 - UI - António José de Freitas Honorato ======
+
+**Parent**:: 31323
+**RootParent**:: 31258
+**UnitTitle**:: António José de Freitas Honorato
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886-06-06
+**UnitDateFinal**:: 1886-06-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54438
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54438
+
+===== Filhos =====
+  * [[54439.txt|54439 - DC - Carta]]

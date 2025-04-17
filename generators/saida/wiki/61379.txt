@@ -1,0 +1,16 @@
+====== 61379 - DC - Poeira duma marcha militar ======
+
+**Parent**:: 60931
+**RootParent**:: 60550
+**UnitTitle**:: Poeira duma marcha militar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1938-05-29
+**UnitDateFinal**:: 1938-05-29
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 161 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61379

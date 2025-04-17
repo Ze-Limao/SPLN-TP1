@@ -1,0 +1,16 @@
+====== 29097 - DC - Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio ======
+
+**Parent**:: 29094
+**RootParent**:: 27963
+**UnitTitle**:: Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-12-17
+**UnitDateFinal**:: 1907-12-17
+**ScopeContent**:: Carta expedida do Porto, Rua da Alegria, 200.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29097
+**LangMaterial**:: Português
+**PhysLoc**:: AS 522 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29097

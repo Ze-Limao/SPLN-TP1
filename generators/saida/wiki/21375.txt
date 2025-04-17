@@ -1,0 +1,16 @@
+====== 21375 - UI - Diogo Pacheco de Amorim ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Diogo Pacheco de Amorim
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-07-20
+**UnitDateFinal**:: 1915-07-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21375
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1331
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21375
+
+===== Filhos =====
+  * [[30199.txt|30199 - DC - Carta]]

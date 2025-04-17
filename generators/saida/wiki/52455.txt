@@ -1,0 +1,17 @@
+====== 52455 - DC - Registo do recenseamento militar de Francisco Machado ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-07-24
+Filiação - Bernardino José Machado e Ana Coelho de Faria
+Naturalidade - Bairro
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52455
+**LangMaterial**:: Português
+**PhysLoc**:: 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52455

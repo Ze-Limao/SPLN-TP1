@@ -1,0 +1,17 @@
+====== 31371 - SC - Isabel Maria de Sousa Botelho Mourão e Vasconcelos e Anselmo de Sousa Botelho Mourão e Vasconcelos e Alexandre de Sousa Botelho Mourão e Vasconcelos e Maria Inácia de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31367
+**RootParent**:: 31258
+**UnitTitle**:: Isabel Maria de Sousa Botelho Mourão e Vasconcelos e Anselmo de Sousa Botelho Mourão e Vasconcelos e Alexandre de Sousa Botelho Mourão e Vasconcelos e Maria Inácia de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1936
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31371
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31371
+
+===== Filhos =====
+  * [[31376.txt|31376 - SSC - Isabel Maria de Sousa Botelho Mourão e Vasconcelos Noronha]]
+  * [[31378.txt|31378 - SSC - Anselmo de Sousa Botelho Mourão e Vasconcelos]]
+  * [[31380.txt|31380 - SSC - Alexandre de Sousa Botelho Mourão e Vasconcelos]]
+  * [[31446.txt|31446 - SSC - Maria Inácia de Sousa Botelho Mourão e Vasconcelos]]

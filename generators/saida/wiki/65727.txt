@@ -1,0 +1,15 @@
+====== 65727 - DC - Emprazamento de parte do casal da Lamela, situado na freguesia de S. Tiago de Outiz, feita por João Soares de Brito, abade da Igreja de S. Tiago de Antas, a Domingos António da Barroca e sua mulher Maria Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento de parte do casal da Lamela, situado na freguesia de S. Tiago de Outiz, feita por João Soares de Brito, abade da Igreja de S. Tiago de Antas, a Domingos António da Barroca e sua mulher Maria Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1653-03-26
+**UnitDateFinal**:: 1653-03-26
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 99 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65727

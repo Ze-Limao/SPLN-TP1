@@ -1,0 +1,16 @@
+====== 23916 - DC - Registo do recenseamento eleitoral de Luís da Silva ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Luís da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-03-04
+**UnitDateFinal**:: 1871-03-04
+**ScopeContent**:: Freguesia - Pedome
+Profissão - Lavrador
+Morada - Ferreiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23916
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 92v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23916

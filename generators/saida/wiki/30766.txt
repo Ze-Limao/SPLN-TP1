@@ -1,0 +1,16 @@
+====== 30766 - DC - Registo do recenseamento eleitoral de José Joaquim Barbosa ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Joaquim Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Cruz
+Profissão - Lavrador
+Morada - Grilo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30766
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30766

@@ -1,0 +1,16 @@
+====== 22755 - DC - Cópia de um documento sobre a Comissão para dar parecer ao Plano de Melhoramento ======
+
+**Parent**:: 22754
+**RootParent**:: 20290
+**UnitTitle**:: Cópia de um documento sobre a Comissão para dar parecer ao Plano de Melhoramento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-08-05
+**UnitDateFinal**:: 1897
+**ScopeContent**:: Apontamento manuscrito de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22755
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1520 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22755

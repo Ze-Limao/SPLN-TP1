@@ -1,0 +1,16 @@
+====== 24658 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-06-17
+**UnitDateFinal**:: 1902-06-17
+**ScopeContent**:: António Ferraz informa que estão resolvidas as dificuldades sobre a ascendência e a descendência do camareiro Antão de Faria. Informa sobre outros elementos relacionados com os artigos do Jornal do Comércio e artigos do Silex (B. Freire). Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24658
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 159 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24658

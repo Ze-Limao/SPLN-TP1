@@ -1,0 +1,16 @@
+====== 26033 - DC - Carta ======
+
+**Parent**:: 21180
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-06-18
+**UnitDateFinal**:: 1921-06-18
+**ScopeContent**:: José Pessanha agradece a oferta do Livro Camilo Homenageado. Carta manuscrita assinada, de Marmelos (Mirandela).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26033
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 827 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26033

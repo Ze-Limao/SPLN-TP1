@@ -1,0 +1,16 @@
+====== 31116 - DC - Registo do recenseamento eleitoral de Manuel Soares de Araújo Monteiro ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Soares de Araújo Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Reitor
+Morada - Residência
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31116
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31116

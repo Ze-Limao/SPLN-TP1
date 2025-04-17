@@ -1,0 +1,16 @@
+====== 28513 - DC - D. Dinis ======
+
+**Parent**:: 28507
+**RootParent**:: 27963
+**UnitTitle**:: D. Dinis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: «[…]  o sucessor daquele [Afonso III] - D. Dinis, recorreu aos Genoveses, como Gelmires dois séculos antes. Tendo falecido o almirante Nuno Fernandes Cogominho, em 1 de fevereiro de 1317 contratou o rei com Micer Manuel Peçanha (de Génova) o comando geral das suas frotas. Por esse contrato o estrangeiro confessou-se vassalo de D. Dinis, cedendo-lhe este o cargo de almirantado para si e seus sucessores varões, com certas terras e rendas.». Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, p. 389).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28513
+**LangMaterial**:: Português
+**PhysLoc**:: AS 90 (6) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28513

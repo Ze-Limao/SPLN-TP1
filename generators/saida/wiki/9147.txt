@@ -1,0 +1,13 @@
+====== 9147 - DC - Ofício nº 45 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 45
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-11-20
+**UnitDateFinal**:: 1886-11-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9147
+**LangMaterial**:: Português
+**PhysLoc**:: f. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9147

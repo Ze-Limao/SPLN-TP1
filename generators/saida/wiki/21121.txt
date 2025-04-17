@@ -1,0 +1,19 @@
+====== 21121 - UI - Francisco Veloso ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco Veloso
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-02-15
+**UnitDateFinal**:: 1922-11-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21121
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 435, 436, 437
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21121
+
+===== Filhos =====
+  * [[21969.txt|21969 - DC - Carta]]
+  * [[25479.txt|25479 - DC - Carta]]
+  * [[25480.txt|25480 - DC - Carta]]

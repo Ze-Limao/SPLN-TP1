@@ -1,0 +1,19 @@
+====== 9259 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Francisco Forte de Faria e Clementina Alves Monteiro
+Naturalidade - Joane
+Data de nascimento - 1877-01-13
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9259
+**LangMaterial**:: Português
+**PhysLoc**:: f. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9259

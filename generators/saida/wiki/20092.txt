@@ -1,0 +1,16 @@
+====== 20092 - UI - Registo da correspondência expedida pela 1ª repartição ======
+
+**Parent**:: 20088
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida pela 1ª repartição
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-01-10
+**UnitDateFinal**:: 1920-03-02
+**ScopeContent**:: Termo de abertura: "Este livro tem de servir para nele ser copiada  a correspondência dirigida pela repartição ao Excelentissimo Governador Civil do Districto …”.
+O conteúdo da correspondência está resumido.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20092
+**LangMaterial**:: Português
+**PhysLoc**:: AC 8
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20092

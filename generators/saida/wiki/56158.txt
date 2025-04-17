@@ -1,0 +1,17 @@
+====== 56158 - DC - Administração da Casa de Pindela. Recibos do ano a contas ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Administração da Casa de Pindela. Recibos do ano a contas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1893-09-29
+**UnitDateFinal**:: 1894-09-24
+**ScopeContent**:: Maço com documentos e correspondência da administração da Casa de Pindela. Este maço estava na “Caixa 1”, que contém CP 13800 a CP 13812.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56158
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13812 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56158

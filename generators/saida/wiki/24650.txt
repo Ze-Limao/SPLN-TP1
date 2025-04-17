@@ -1,0 +1,16 @@
+====== 24650 - DC - Carta ======
+
+**Parent**:: 21065
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-07-13
+**UnitDateFinal**:: 1920-07-13
+**ScopeContent**:: António Azevedo agradece o envio do livro "Ninharias".  Carta manuscrita assinada, Aveiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24650
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 151 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24650

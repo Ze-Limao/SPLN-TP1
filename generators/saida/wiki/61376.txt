@@ -1,0 +1,16 @@
+====== 61376 - DC - Auto de busca e apreensão à residência de Daniel Rodrigues Salgado ======
+
+**Parent**:: 60926
+**RootParent**:: 60550
+**UnitTitle**:: Auto de busca e apreensão à residência de Daniel Rodrigues Salgado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-07-12
+**UnitDateFinal**:: 1950-07-12
+**ScopeContent**:: Manuscrito em papel azul impresso de Polícia Internacional e de defesa do Estado. Auto de busca e apreensão à residência de Daniel Rodrigues Salgado, casa da Agra…em busca dos livros com o título “Velha Lucerna”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 153 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61376

@@ -1,0 +1,16 @@
+====== 26077 - DC - Carta ======
+
+**Parent**:: 21218
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-07-06
+**UnitDateFinal**:: 1924-07-06
+**ScopeContent**:: Júlio Dias Costa solicita cópias do Relatório para amigos. Carta manuscrita assinada. Papel carimbado "Relação de Lisboa. Escrivão Dias Costa. Morada R. de Heliodoro Salgado, 13, 2º".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26077
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 871 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26077

@@ -1,0 +1,18 @@
+====== 52443 - DC - Registo do recenseamento militar de Domingos António da Cunha ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos António da Cunha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-11-24
+Filiação - João da Cunha e Maria Josefa
+Naturalidade - Arnoso Santa Maria
+Profissão - Criado de servir
+Residência - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52443
+**LangMaterial**:: Português
+**PhysLoc**:: 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52443

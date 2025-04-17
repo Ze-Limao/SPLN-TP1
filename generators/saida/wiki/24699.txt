@@ -1,0 +1,16 @@
+====== 24699 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-09-15
+**UnitDateFinal**:: 1907-09-15
+**ScopeContent**:: António Ferraz envia notas sobre os Beças de Barcelos. Carta manuscrita assinada, Apúlia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24699
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 201 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24699

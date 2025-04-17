@@ -1,0 +1,17 @@
+====== 57690 - DC - Aos Snrs. vesitantes da Quinta da Lameira em Villar do Pinheiro ======
+
+**Parent**:: 57680
+**RootParent**:: 31258
+**UnitTitle**:: Aos Snrs. vesitantes da Quinta da Lameira em Villar do Pinheiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928-07
+**UnitDateFinal**:: 1928-07
+**ScopeContent**:: Documento datilografado do Engenheiro Director da Exploração sobre a visita de demonstração das vantagens de máquinas agrícolas na Quinta da Lameira, Vilar do Pinheiro, com notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57690
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2880 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57690

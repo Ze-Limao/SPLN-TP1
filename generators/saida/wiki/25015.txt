@@ -1,0 +1,15 @@
+====== 25015 - UI - Livro de Sessões de Homenagens - Festas Solenes (1903, 1906, 1909, 1918, 1920, 1924) ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Sessões de Homenagens - Festas Solenes (1903, 1906, 1909, 1918, 1920, 1924)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-11-15
+**UnitDateFinal**:: 1924-05-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25015
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 118
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25015

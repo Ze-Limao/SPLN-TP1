@@ -1,0 +1,17 @@
+====== 56260 - DC - Documento de dívida do empreiteiro de estradas Quintas ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Documento de dívida do empreiteiro de estradas Quintas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1922
+**ScopeContent**:: Manuscrito em papel azul sem datação, de dívida a João de Araújo de S. Tiago da Cruz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56260
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1249 - cx. 8
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56260

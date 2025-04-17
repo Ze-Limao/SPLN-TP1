@@ -1,0 +1,16 @@
+====== 29339 - DC - N. 33916 Precititado branco ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: N. 33916 Precititado branco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Composição da receita: precipitado branco, substrato de bismuto, vaselina.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29339
+**LangMaterial**:: Português
+**PhysLoc**:: AS 234 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29339

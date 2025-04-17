@@ -1,0 +1,16 @@
+====== 24708 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-07-24
+**UnitDateFinal**:: 1910-07-24
+**ScopeContent**:: António Ferraz informa sobre vias romanas do Norte e a passagem por Barcelos. Faz referência à construção da ponte de Fão. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24708
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 209 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24708

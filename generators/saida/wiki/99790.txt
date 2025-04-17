@@ -1,0 +1,14 @@
+====== 99790 - SSC - Comissão Municipal de Arte e Arqueologia ======
+
+**Parent**:: 98672
+**RootParent**:: 7651
+**UnitTitle**:: Comissão Municipal de Arte e Arqueologia
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1968
+**UnitDateFinal**:: 1977
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8106
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99790
+
+===== Filhos =====
+  * [[99793.txt|99793 - SR - Livro de Atas]]

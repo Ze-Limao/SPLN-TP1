@@ -1,0 +1,12 @@
+====== 99793 - SR - Livro de Atas ======
+
+**Parent**:: 99790
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Atas
+**DescriptionLevel**:: SR
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98787
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99793
+
+===== Filhos =====
+  * [[99796.txt|99796 - DC - Livro de Actas da Comissão Municipal de Arte e Arqueologia]]

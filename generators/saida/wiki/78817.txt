@@ -1,0 +1,16 @@
+====== 78817 - DC - Planta do Campo da Feira de Vila Nova de Famalicão ======
+
+**Parent**:: 9915
+**RootParent**:: 7651
+**UnitTitle**:: Planta do Campo da Feira de Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1850
+**UnitDateFinal**:: 1850
+**ScopeContent**:: Publicada no livro: Vasconcelos, Álvaro Rocha. (2009). A Rua Direita. Editorial Novembro. p. 42. Existe fotocópia da planta.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9916
+**LangMaterial**:: Português
+**PhysLoc**:: PL 2 -
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78817

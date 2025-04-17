@@ -1,0 +1,16 @@
+====== 30141 - DC - Carta ======
+
+**Parent**:: 21357
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-01-25
+**UnitDateFinal**:: 1913-01-25
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30141
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1279 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30141

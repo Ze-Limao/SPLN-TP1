@@ -1,0 +1,19 @@
+====== 62174 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Manuel José da Costa e Clementina da Anunciação, ignoram-se
+Naturalidade - Gavião
+Morada - Mouquim
+Data de nascimento - 1861-01-31
+Emprego - Ignora-se
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62174

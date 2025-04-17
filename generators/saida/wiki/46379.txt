@@ -1,0 +1,18 @@
+====== 46379 - DC - Registo do recenseamento eleitoral de Manuel de Sá Pereira ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel de Sá Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Lousado
+Profissão - Lavrador
+Estado - Casado
+Morada - Garrida
+Idade - 39
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46379
+**LangMaterial**:: Português
+**PhysLoc**:: 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46379

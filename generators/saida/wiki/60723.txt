@@ -1,0 +1,15 @@
+====== 60723 - DC - Emprazamento do casal de Dante Portas, situado na freguesia de S. Martinho de Dume (concelho de Braga), feita por Pedro Álvares, raçoeiro da Igreja de S. Tiago de Antas, a Simão Pires e a sua mulher Águeda Coelho ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Dante Portas, situado na freguesia de S. Martinho de Dume (concelho de Braga), feita por Pedro Álvares, raçoeiro da Igreja de S. Tiago de Antas, a Simão Pires e a sua mulher Águeda Coelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1530-03-28
+**UnitDateFinal**:: 1530-03-28
+**ScopeContent**:: Manuscrito, original, com selo. Certidão deste documento de 1798 com a cota CSTA 223.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 24 - cx. P27
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60723

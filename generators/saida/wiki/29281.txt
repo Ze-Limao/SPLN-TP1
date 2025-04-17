@@ -1,0 +1,15 @@
+====== 29281 - DC - La benzine et le sulfure ======
+
+**Parent**:: 29279
+**RootParent**:: 27963
+**UnitTitle**:: La benzine et le sulfure
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872
+**UnitDateFinal**:: 1872
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29281
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 190 (2) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29281

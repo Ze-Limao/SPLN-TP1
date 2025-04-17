@@ -1,0 +1,24 @@
+====== 45041 - UI - Domingos Pinto Coelho ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Domingos Pinto Coelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912-03-15
+**UnitDateFinal**:: 1918-04-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45041
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45041
+
+===== Filhos =====
+  * [[45042.txt|45042 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45043.txt|45043 - DC - Carta]]
+  * [[45044.txt|45044 - DC - Carta]]
+  * [[45045.txt|45045 - DC - Carta]]
+  * [[45046.txt|45046 - DC - Carta]]
+  * [[45047.txt|45047 - DC - Carta]]
+  * [[45048.txt|45048 - DC - Carta]]

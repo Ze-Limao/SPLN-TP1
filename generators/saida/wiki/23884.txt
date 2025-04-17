@@ -1,0 +1,16 @@
+====== 23884 - DC - Registo do recenseamento eleitoral de Manuel de Sousa Reis ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel de Sousa Reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vilarinho das Cambas
+Profissão - Moleiro
+Morada - Igreja
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23884
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 89v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23884

@@ -1,0 +1,18 @@
+====== 49238 - DC - Registo do recenseamento eleitoral de Albino de Sá Carneiro ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Albino de Sá Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Lavrador
+Estado - Casado
+Morada - Ruivães
+Idade - 27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49238
+**LangMaterial**:: Português
+**PhysLoc**:: 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49238

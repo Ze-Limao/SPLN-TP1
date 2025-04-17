@@ -1,0 +1,18 @@
+====== 45423 - DC - Registo do recenseamento eleitoral de José Cardoso ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Cardoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Antas
+Profissão - Ferrador
+Estado - Casado
+Morada - Feira
+Idade - 57
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45423
+**LangMaterial**:: Português
+**PhysLoc**:: 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45423

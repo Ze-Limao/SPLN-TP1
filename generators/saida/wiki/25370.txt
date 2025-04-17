@@ -1,0 +1,16 @@
+====== 25370 - DC - Carta ======
+
+**Parent**:: 21103
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-05-08
+**UnitDateFinal**:: 1904-05-08
+**ScopeContent**:: Carta manuscrita assinada, de Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25370
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 350 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25370

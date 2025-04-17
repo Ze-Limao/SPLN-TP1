@@ -1,0 +1,13 @@
+====== 9154 - DC - Ofício nº 49 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 49
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-12-22
+**UnitDateFinal**:: 1886-12-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9154
+**LangMaterial**:: Português
+**PhysLoc**:: f. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9154

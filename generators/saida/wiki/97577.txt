@@ -1,0 +1,15 @@
+====== 97577 - UI - Processo nº 122 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 122
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-10-25
+**UnitDateFinal**:: 1980-03-31
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 219.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 393 - cx. 23
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97577

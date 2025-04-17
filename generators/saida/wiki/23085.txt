@@ -1,0 +1,16 @@
+====== 23085 - DC - Carta ======
+
+**Parent**:: 20334
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Afonso de Azevedo Nunes Branco informa que desconhece o doador do subsídio de 20$00 de dezembro de 1919. Esclarece sobre os subsídios que o governo concede. Carta manuscrita assinada. Papel timbrado "Ministério das Finanças. Conselho Fiscalizador do Comércio Geral e Cambios".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23085
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 10 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23085

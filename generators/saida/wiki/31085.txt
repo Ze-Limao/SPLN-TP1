@@ -1,0 +1,16 @@
+====== 31085 - DC - Registo do recenseamento eleitoral de Bento de Passos ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Bento de Passos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Pedreiro
+Morada - Padroso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31085
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 41v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31085

@@ -1,0 +1,17 @@
+====== 52602 - DC - Registo do recenseamento militar de António Marques ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-09-07
+Filiação - Joaquim Marques e Joana Pereira
+Naturalidade - Lagoa
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52602
+**LangMaterial**:: Português
+**PhysLoc**:: 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52602

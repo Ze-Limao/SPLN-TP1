@@ -1,0 +1,17 @@
+====== 61841 - DC - Rotary International Distrito Rotárico 197 ano 1990-1991 ======
+
+**Parent**:: 61458
+**RootParent**:: 60551
+**UnitTitle**:: Rotary International Distrito Rotárico 197 ano 1990-1991
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1991
+**UnitDateFinal**:: 1991
+**ScopeContent**:: Certificado emoldurado, com duas fotografias.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 513 - cx. 15
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61841

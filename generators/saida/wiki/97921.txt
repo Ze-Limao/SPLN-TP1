@@ -1,0 +1,15 @@
+====== 97921 - UI - Processo nº 291-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 291-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-07-18
+**UnitDateFinal**:: 1973-03-31
+**ScopeContent**:: Junto com Autos de Transgressão nº 291.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 641 - cx. 36
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97921

@@ -1,0 +1,17 @@
+====== 61742 - DC - Rotary Clube de Famalicão: retrospectiva dos seus primeiros 10 anos ======
+
+**Parent**:: 61450
+**RootParent**:: 60551
+**UnitTitle**:: Rotary Clube de Famalicão: retrospectiva dos seus primeiros 10 anos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1980
+**UnitDateFinal**:: 1980
+**ScopeContent**:: Autor José Casimiro da Silva. Livro publicado em Vila Nova de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 374 - cx. 5
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61742

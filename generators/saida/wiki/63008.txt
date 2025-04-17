@@ -1,0 +1,19 @@
+====== 63008 - DC - Registo do recenseamento militar de Anacleto ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Anacleto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Teresa Maria, na freguesia
+Naturalidade - Gavião
+Morada - Ignora-se
+Data de nascimento - 1863-07-12
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 63v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63008

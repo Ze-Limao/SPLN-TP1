@@ -1,0 +1,16 @@
+====== 8096 - DC - Termo de Paulino Manuel José de Faria e Maria Rosa ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Paulino Manuel José de Faria e Maria Rosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-06-28
+**UnitDateFinal**:: 1879-06-28
+**ScopeContent**:: Construção de habitação na 'avenida que vai da estrada municipal nº 9 para a estação do caminho-de-ferro do Minho'
+Toponimia - Rua Joaquim de Azúaga
+Local - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8096
+**LangMaterial**:: Português
+**PhysLoc**:: f. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8096

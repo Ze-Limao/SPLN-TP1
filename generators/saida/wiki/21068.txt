@@ -1,0 +1,36 @@
+====== 21068 - UI - António Maria de Freitas ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Maria de Freitas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1913-05-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21068
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 224 a 243
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21068
+
+===== Filhos =====
+  * [[24723.txt|24723 - DC - Carta]]
+  * [[24724.txt|24724 - DC - Carta]]
+  * [[24725.txt|24725 - DC - Carta]]
+  * [[24726.txt|24726 - DC - Carta]]
+  * [[24727.txt|24727 - DC - Carta]]
+  * [[24728.txt|24728 - DC - Carta]]
+  * [[24729.txt|24729 - DC - Carta]]
+  * [[24730.txt|24730 - DC - Carta]]
+  * [[24731.txt|24731 - DC - Carta]]
+  * [[24732.txt|24732 - DC - Carta]]
+  * [[24733.txt|24733 - DC - Carta]]
+  * [[24734.txt|24734 - DC - Carta]]
+  * [[24735.txt|24735 - DC - Carta]]
+  * [[24736.txt|24736 - DC - Carta]]
+  * [[24737.txt|24737 - DC - Carta]]
+  * [[24738.txt|24738 - DC - Carta]]
+  * [[24739.txt|24739 - DC - Carta]]
+  * [[24740.txt|24740 - DC - Carta]]
+  * [[24741.txt|24741 - DC - Carta]]
+  * [[24742.txt|24742 - DC - Apontamentos]]

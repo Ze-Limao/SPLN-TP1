@@ -1,0 +1,17 @@
+====== 98866 - DC - Venda de António de Oliveira para António Ferreira ======
+
+**Parent**:: 54366
+**RootParent**:: 31258
+**UnitTitle**:: Venda de António de Oliveira para António Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-07-26
+**UnitDateFinal**:: 1879-07-26
+**ScopeContent**:: Manuscrito em papel azul de 60 reis. Falta a primeira folha. Este documento estava na “Caixa 5”, que contém CP 13017 a CP 13107.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13029 - cx. 84
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98866

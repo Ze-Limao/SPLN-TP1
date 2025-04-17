@@ -1,0 +1,15 @@
+====== 63982 - DC - Arrendamento dos frutos da Igreja S. Tiago de Antas, que fez o abade Pedro Mendonça Barata de Moura, a Bento Soares, da mesma freguesia. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Arrendamento dos frutos da Igreja S. Tiago de Antas, que fez o abade Pedro Mendonça Barata de Moura, a Bento Soares, da mesma freguesia.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1732-07-12
+**UnitDateFinal**:: 1732-07-12
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 151 - cx. 7
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63982

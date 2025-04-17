@@ -1,0 +1,18 @@
+====== 8627 - DC - Termo do exame de José Duarte de Miranda ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José Duarte de Miranda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-08-01
+**UnitDateFinal**:: 1889-08-01
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - António da Silva Duarte
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8627
+**LangMaterial**:: Português
+**PhysLoc**:: f. 71
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8627

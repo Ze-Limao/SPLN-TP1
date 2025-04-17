@@ -1,0 +1,18 @@
+====== 44985 - UI - Maria das Dores Lobo de Almeida de Melo e Castro ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Maria das Dores Lobo de Almeida de Melo e Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD44985
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4020
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=44985
+
+===== Filhos =====
+  * [[44986.txt|44986 - DC - Cartão de visita]]

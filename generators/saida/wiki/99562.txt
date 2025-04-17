@@ -1,0 +1,17 @@
+====== 99562 - UI - Eduardo Cristino ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Eduardo Cristino
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1894
+**ScopeContent**:: Irmão de António Cristino.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99562
+
+===== Filhos =====
+  * [[99563.txt|99563 - DC - Carta]]
+  * [[99564.txt|99564 - DC - Carta]]
+  * [[99565.txt|99565 - DC - Carta]]

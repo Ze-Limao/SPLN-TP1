@@ -1,0 +1,18 @@
+====== 8934 - DC - Termo do exame de António de Oliveira Neves ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António de Oliveira Neves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-27
+**UnitDateFinal**:: 1894-07-27
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Francisco das Neves
+Naturalidade - Vila do Conde
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8934
+**LangMaterial**:: Português
+**PhysLoc**:: f. 69v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8934

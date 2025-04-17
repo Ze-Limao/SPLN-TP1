@@ -1,0 +1,17 @@
+====== 32408 - DC - Carta ======
+
+**Parent**:: 32405
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-01-05
+**UnitDateFinal**:: 1914-01-05
+**ScopeContent**:: Carta manuscrita assinada, em papel timbrado "Embaixada de Espana Berlin". Carta dentro do envelope (CP 447) com nomes de Legações europeias e americanas, conforme lista manuscrita na frente do envelope.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32408
+**LangMaterial**:: Espanhol
+**PhysLoc**:: CP 482 - cx. 4
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32408

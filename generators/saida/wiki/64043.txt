@@ -1,0 +1,15 @@
+====== 64043 - DC - Relação do que tenho gasto e recebido em virtude da autorização que não foi dada pela Junta da Paróquia nesta freguesia de S. Tiago de Antas, na sessão de 3 de Agosto de 1868, do Abade José Alves Pereira da Fonseca ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Relação do que tenho gasto e recebido em virtude da autorização que não foi dada pela Junta da Paróquia nesta freguesia de S. Tiago de Antas, na sessão de 3 de Agosto de 1868, do Abade José Alves Pereira da Fonseca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-01-19
+**UnitDateFinal**:: 1869-01-19
+**ScopeContent**:: Manuscrito em papel azul.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 362 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64043

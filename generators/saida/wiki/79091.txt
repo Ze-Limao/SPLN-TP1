@@ -1,0 +1,47 @@
+====== 79091 - UI - Ministério da Agricultura – Direcção Geral dos Serviços Florestais e Aquícolas ======
+
+**Parent**:: 79084
+**RootParent**:: 31258
+**UnitTitle**:: Ministério da Agricultura – Direcção Geral dos Serviços Florestais e Aquícolas
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79085
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79091
+
+===== Filhos =====
+  * [[59546.txt|59546 - DC - Cartão do Director Geral da Direcção dos Serviços Florestais e Aquícolas]]
+  * [[59547.txt|59547 - DC - Ofíco do Director Geral da Direcção dos Serviços Florestais e Aquícolas]]
+  * [[59548.txt|59548 - DC - Ofíco do Director Geral da Direcção dos Serviços Florestais e Aquícolas]]
+  * [[59552.txt|59552 - DC - Ofício do Ministério da Agricultura]]
+  * [[79090.txt|79090 - DC - Carta]]
+  * [[79092.txt|79092 - DC - Carta]]
+  * [[79093.txt|79093 - DC - Cartão]]
+  * [[79094.txt|79094 - DC - Carta]]
+  * [[79095.txt|79095 - DC - Carta]]
+  * [[79100.txt|79100 - DC - Ofício nº21]]
+  * [[79102.txt|79102 - DC - Ofício enviado]]
+  * [[79104.txt|79104 - DC - Carta]]
+  * [[79105.txt|79105 - DC - Carta]]
+  * [[79106.txt|79106 - DC - Carta]]
+  * [[79107.txt|79107 - DC - Carta]]
+  * [[79108.txt|79108 - DC - Cartão]]
+  * [[79109.txt|79109 - DC - Cartão]]
+  * [[79110.txt|79110 - DC - Cartão]]
+  * [[79111.txt|79111 - DC - Cartão]]
+  * [[79112.txt|79112 - DC - Cartão]]
+  * [[79113.txt|79113 - DC - Cartão]]
+  * [[79114.txt|79114 - DC - Cartão]]
+  * [[79115.txt|79115 - DC - Cartão]]
+  * [[79116.txt|79116 - DC - Cartão]]
+  * [[79117.txt|79117 - DC - Cartão]]
+  * [[79118.txt|79118 - DC - Cartão]]
+  * [[79119.txt|79119 - DC - Cartão]]
+  * [[79120.txt|79120 - DC - Cartão]]
+  * [[79132.txt|79132 - DC - Ofício nº4]]
+  * [[79133.txt|79133 - DC - Cópia ofício enviado ao Regente Florestal da 5ª Administração Florestal]]
+  * [[79135.txt|79135 - DC - Cartão e notas]]
+  * [[79137.txt|79137 - DC - Ofício para Engenheiro Silvicultor Chefe 1ª Circunscrição Florestal]]
+  * [[79142.txt|79142 - DC - Carta]]
+  * [[79143.txt|79143 - DC - Cartão]]
+  * [[79144.txt|79144 - DC - Carta]]
+  * [[79145.txt|79145 - DC - Carta]]

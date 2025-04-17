@@ -1,0 +1,16 @@
+====== 27969 - SF - Emília Ermelinda Cardoso Teixeira da Cunha Sampaio (1813-1876) ======
+
+**Parent**:: 27963
+**RootParent**:: 27963
+**UnitTitle**:: Emília Ermelinda Cardoso Teixeira da Cunha Sampaio (1813-1876)
+**DescriptionLevel**:: SF
+**UnitDateInitial**:: 1852-01
+**UnitDateFinal**:: 1865-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27969
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27969
+
+===== Filhos =====
+  * [[28305.txt|28305 - SC - Adulta (1842-1876)]]

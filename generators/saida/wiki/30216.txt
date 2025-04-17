@@ -1,0 +1,17 @@
+====== 30216 - DC - Carta ======
+
+**Parent**:: 21386
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928-04-17
+**UnitDateFinal**:: 1928-04-17
+**ScopeContent**:: Ernesto Velho enaltece elogios aos livros Camilo Homenageado e Ninharias.
+Carta manuscrita e assinada, da Granja.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30216
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1348 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30216

@@ -1,0 +1,14 @@
+====== 29127 - UI - José Leite de Vasconcelos ======
+
+**Parent**:: 28716
+**RootParent**:: 27963
+**UnitTitle**:: José Leite de Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-06-05
+**UnitDateFinal**:: 1906-06-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29127
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29127
+
+===== Filhos =====
+  * [[29128.txt|29128 - DC - Rascunho de carta]]

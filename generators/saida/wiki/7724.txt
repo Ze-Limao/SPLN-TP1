@@ -1,0 +1,13 @@
+====== 7724 - UI - Livro de Notas Nº 40 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 40
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1980-10-27
+**UnitDateFinal**:: 1982-05-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7724
+**LangMaterial**:: Português
+**PhysLoc**:: 1.69
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7724

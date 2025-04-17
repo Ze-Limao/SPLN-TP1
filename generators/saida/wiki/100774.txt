@@ -1,0 +1,17 @@
+====== 100774 - DC - Venda da quinta da Silva, freguesia da Gonça, Guimarães, comprador o Bispo de Cabo Verde D. Manuel Afonso da Guerra ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Venda da quinta da Silva, freguesia da Gonça, Guimarães, comprador o Bispo de Cabo Verde D. Manuel Afonso da Guerra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1621-04-15
+**UnitDateFinal**:: 1621-04-15
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº 14 Cazal nº 124 C". Este documento estava na “Caixa 14”, que contém CP 13194 a CP 13210. JUnto com CP 13201A e CP 13201C.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13198 - cx. 88
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100774

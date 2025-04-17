@@ -1,0 +1,16 @@
+====== 30157 - DC - Carta ======
+
+**Parent**:: 21363
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927-05-24
+**UnitDateFinal**:: 1927-05-24
+**ScopeContent**:: Carta manuscrita e assinada, de R. Rosa Araujo 24-26, Lisboa. Papel de carta de luto. Folhas anexas com informações em relação ao pedido de concessão de título de Conde de Subserra. A f. 2 assinada por Ernesto Velho, Porto 4/6/927.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30157
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1304 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30157

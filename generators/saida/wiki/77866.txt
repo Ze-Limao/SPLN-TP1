@@ -1,0 +1,17 @@
+====== 77866 - DC - Escritura de venda do prazo de Balazar que estava obrigado ao dote de Mariana Josefa de Castro ======
+
+**Parent**:: 54470
+**RootParent**:: 31258
+**UnitTitle**:: Escritura de venda do prazo de Balazar que estava obrigado ao dote de Mariana Josefa de Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1759-04-30
+**UnitDateFinal**:: 1759-04-30
+**ScopeContent**:: Manuscrito com folhas cosidas, numerado nº7 faz parte do maço CP 4560 intitulado "Casa de Pindela".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54262
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4560(7) - cx. 33
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77866

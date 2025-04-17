@@ -1,0 +1,17 @@
+====== 44970 - DC - Carta ======
+
+**Parent**:: 44968
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Carta manuscrita assinada, com timbre real,  do Serviço S.M. A Rainha
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD44970
+**LangMaterial**:: Português
+**PhysLoc**:: CP 73 - cx. 1
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=44970

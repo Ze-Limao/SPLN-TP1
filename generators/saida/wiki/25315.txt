@@ -1,0 +1,16 @@
+====== 25315 - UI - Estudo para o monumento do Bombeiro Voluntário do escultor Augusto Costa ======
+
+**Parent**:: 20387
+**RootParent**:: 20342
+**UnitTitle**:: Estudo para o monumento do Bombeiro Voluntário do escultor Augusto Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1982-07-26
+**UnitDateFinal**:: 1982-07-26
+**ScopeContent**:: Contém: Proposta orçamental e memória descritiva do monumento ao Bombeiro Voluntário do escultor Augusto Costa; Planta com a implantação em Famalicão do monumento ao Bombeiro Voluntário - Planta com o arranjo paisagístico dos terrenos camarários à margem da variante da Bandeirinha. Escala 1/500.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25315
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 184 - cx. 48
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25315

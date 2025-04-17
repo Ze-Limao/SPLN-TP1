@@ -1,0 +1,24 @@
+====== 33888 - DC - Carta ======
+
+**Parent**:: 33878
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888
+**UnitDateFinal**:: 1888
+**ScopeContent**:: Carta manuscrita assinada, sem data.
+Transcrição da carta:
+"Meu presado e Exmo Amigo
+Parece-me q. não se engana q.to à sentença shakespereana. Não posso de prompto dizer-lhe onde está; mas parece-me ser no Timon of Athenas. Vou esgravatar, e participarei. Há pouco tempo que li a m.ma sentença n'um livro de Schopenhauer; mas já encaixotei a obra que no próximo janr. vai ser leiloada com toda a mª livraria em Lisboa. Depois de 40 anos de serviços, vendo os livros pª pagar as dívidas. Ainda bem que os credores m'os deixaram estar até eu não precisar deles. Isto acabou. Envio os papeis de Pindella. Não sei por que V. Exª não escreve uma monographia genealógica do morgadio de Pindella? Ponha de parte a questão da impessoal.de e o temor da critica populaciosa e escreva. Mas sobre tudo lembra-se de V. Exª mtº grato amº Camillo, e das pessoas desta casa que m.to lhe querem 
+C. Cast.Br."
+
+No ano de 1888 o rei D. Luís traduziu o Otelo de Shakespeare, a que a carte alude. Neste ano, Camilo põe à venda a sua biblioteca, e devolve os apontamentos sobre Pindela recusando romancear Pindela.
+Fonte: Machado, João Afonso (2017). Memórias redivivas. Linda-a-Velha: DG Edições.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33888
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2248 - cx. 16
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33888

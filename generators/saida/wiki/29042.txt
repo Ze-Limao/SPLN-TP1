@@ -1,0 +1,16 @@
+====== 29042 - DC - Carta ======
+
+**Parent**:: 29041
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-02-11
+**UnitDateFinal**:: 1898-02-11
+**ScopeContent**:: Carta expedida de Vizela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29042
+**LangMaterial**:: Português
+**PhysLoc**:: AS 652 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29042

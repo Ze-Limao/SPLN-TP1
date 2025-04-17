@@ -1,0 +1,15 @@
+====== 97889 - UI - Processo nº 121 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 121
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-02-15
+**UnitDateFinal**:: 1971-12-31
+**ScopeContent**:: Junto com Autos de Reclamação de Créditos nº 121-B e Autos de Execução de Custas nº 121-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 606 - cx. 34
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97889

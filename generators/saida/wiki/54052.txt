@@ -1,0 +1,19 @@
+====== 54052 - DC - Ofício dirigido ao Presidente da Câmara Municipal de Famalicão do Arquiteto Januário Godinho os azulejos na galeria dos Passos Perdidos da Câmara ======
+
+**Parent**:: 54055
+**RootParent**:: 25851
+**UnitTitle**:: Ofício dirigido ao Presidente da Câmara Municipal de Famalicão do Arquiteto Januário Godinho os azulejos na galeria dos Passos Perdidos da Câmara
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1960-04-05
+**UnitDateFinal**:: 1960-04-25
+**ScopeContent**:: Original. Assinado pelo arquiteto Januário Godinho. Em papel timbrado do arquiteto. Carimbo de entrada na Câmara 1960-04-08. Carimbo com deliberação da Reunião de Câmara 1960-04-25 e deliberação manuscrita.
+Transcrição:
+"Para os devidos efeitos tenho a honra de informar V.ª Ex.ª, que entre as obras de arte previstas para os novos Paços do Concelho está incluído um painel alegórico em azulejo policromado para a parede de fundo da galeria dos passos perdidos, porém não fazendo parte da empreitada. Este painel seria pintado expressamente para a obra, porém, considero dispensável esse painel cujo preço andaria à roda de 200 contos. Em sua substituição proponho que a galeria dos passos perdidos seja revestida apenas com um lambril de azulejo igual ao modelo aplicado no átrio do Tribunal, cujo preço é, evidentemente inferior. No entanto, será necessário prever uma verba aproximada de 87.200$00 para aplicar este azulejo de série, que eu considero suficiente para se obter enriquecimento condizente com a escadaria nobre. Como alternativa, pode fazer-se apenas paredes rebocadas e pintadas com tinta de água."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54052
+**LangMaterial**:: Português
+**PhysLoc**:: JG 161 - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54052

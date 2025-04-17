@@ -1,0 +1,15 @@
+====== 54864 - UI - António do Nascimento Pereira de Sampaio ======
+
+**Parent**:: 31319
+**RootParent**:: 31258
+**UnitTitle**:: António do Nascimento Pereira de Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1881
+**UnitDateFinal**:: 1881-10-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54864
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54864
+
+===== Filhos =====
+  * [[54865.txt|54865 - DC - Carta]]
+  * [[54866.txt|54866 - DC - Carta]]

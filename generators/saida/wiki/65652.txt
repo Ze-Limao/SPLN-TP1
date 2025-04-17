@@ -1,0 +1,15 @@
+====== 65652 - DC - Autos cíveis de separação de executivo a favor de Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas contra o réu Tomé Ferreira de Carvalho, morador na freguesia de S. Julião de Calendário que devia ao autor certas pensões ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Autos cíveis de separação de executivo a favor de Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas contra o réu Tomé Ferreira de Carvalho, morador na freguesia de S. Julião de Calendário que devia ao autor certas pensões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1820-02-10
+**UnitDateFinal**:: 1820-02-10
+**ScopeContent**:: Manuscrito, original, com capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 237 - cx. 12
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65652

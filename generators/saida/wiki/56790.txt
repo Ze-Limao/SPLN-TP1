@@ -1,0 +1,17 @@
+====== 56790 - DC - Fotografia de primo ======
+
+**Parent**:: 54529
+**RootParent**:: 31258
+**UnitTitle**:: Fotografia de primo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-11-23
+**UnitDateFinal**:: 1914-11-23
+**ScopeContent**:: Fotografia a preto e branco circular, com busto de homem, colada em cartão bege, da casa fotográfica Kavlar Madrid. Tem dedicatória manuscrita com assinatura (Pedro Lobo de Sousa Machado Cardoso de Menezes?)
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56790
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2365 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56790

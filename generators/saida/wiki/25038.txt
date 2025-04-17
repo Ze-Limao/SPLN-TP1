@@ -1,0 +1,15 @@
+====== 25038 - UI - Assistência aos tuberculosos pobres: Registo de doentes ======
+
+**Parent**:: 20373
+**RootParent**:: 20342
+**UnitTitle**:: Assistência aos tuberculosos pobres: Registo de doentes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-01-11
+**UnitDateFinal**:: 1911-04-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25038
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 140
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25038

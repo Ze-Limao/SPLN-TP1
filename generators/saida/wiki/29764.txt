@@ -1,0 +1,16 @@
+====== 29764 - DC - Carta ======
+
+**Parent**:: 21301
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-05-08
+**UnitDateFinal**:: 1903-05-08
+**ScopeContent**:: Carta manuscrita assinada, de Braga. o autor informa da conferência em Braga, pelo Jacinto Cândido, sobre o Nacionalismo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29764
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1173 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29764

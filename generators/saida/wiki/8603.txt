@@ -1,0 +1,18 @@
+====== 8603 - DC - Termo do exame de Francisco António de Carvalho ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Francisco António de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-07-30
+**UnitDateFinal**:: 1889-07-30
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - José António de Carvalho
+Naturalidade - Oliveira Santa Maria
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8603
+**LangMaterial**:: Português
+**PhysLoc**:: f. 65
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8603

@@ -1,0 +1,18 @@
+====== 8943 - DC - Termo do exame de Augusto de Sá Barbosa ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Augusto de Sá Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-30
+**UnitDateFinal**:: 1894-07-30
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - João José Barbosa
+Naturalidade - Calendário
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8943
+**LangMaterial**:: Português
+**PhysLoc**:: f. 72
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8943

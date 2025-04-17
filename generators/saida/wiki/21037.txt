@@ -1,0 +1,15 @@
+====== 21037 - DC - Contrato de compra e venda ======
+
+**Parent**:: 7708
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de compra e venda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-07-06
+**UnitDateFinal**:: 1950-07-06
+**ScopeContent**:: Compra de um terreno no Campo Mouzinho de Albuquerque, freguesia de Antas, para a construção do Mercado Municipal
+Outorgantes - Manuel Gonçalves e Zulmira Norte Gonçalves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21037
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21037

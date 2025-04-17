@@ -1,0 +1,16 @@
+====== 60946 - DC - Livro de Conciliaçoens para a Freguezia de S.ta Maria de Oliveira para o Anno 1834 e de 1835 ======
+
+**Parent**:: 60677
+**RootParent**:: 60542
+**UnitTitle**:: Livro de Conciliaçoens para a Freguezia de S.ta Maria de Oliveira para o Anno 1834 e de 1835
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1835-12-15
+**UnitDateFinal**:: 1837-11-01
+**ScopeContent**:: Manuscrito. Livro encadernado a capas de cartão forradas a papel de fantasia, etiqueta com o título. No início: "Servirá este livro para o registo das Conciliaçoens, e mais termos necessarios no Juizo de Conciliação da Freguezia Santa Maria de Oliveira, Commarca de Barcellos, e vai por mim numerado e rubricado com o cognome de que uzo. Freguezia de Santa Maria de Oliveira 15 de Dezembro de oitocentos e trinta e quattro. Manuel José Marques de Abreu Juiz de Paz".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60676
+**LangMaterial**:: Português
+**PhysLoc**:: JPSMO - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60946

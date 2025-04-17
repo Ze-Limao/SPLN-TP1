@@ -1,0 +1,15 @@
+====== 65701 - DC - Certidão do Emprazamento do casal Dante Portas, situado na freguesia S. Martinho do Dume, feita por Pero Álvares, abade da Igreja de S. Tiago de Antas, Simão Pires e sua mulher Águeda Coelho, datado de 1530-03-28, Braga. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Certidão do Emprazamento do casal Dante Portas, situado na freguesia S. Martinho do Dume, feita por Pero Álvares, abade da Igreja de S. Tiago de Antas, Simão Pires e sua mulher Águeda Coelho, datado de 1530-03-28, Braga.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1798-12-07
+**UnitDateFinal**:: 1798-12-07
+**ScopeContent**:: Manuscrito em papel fiscal de 5 reis, certidão. Folhas cosidas. O documento original é um pergaminho CSTA 24.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 223 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65701

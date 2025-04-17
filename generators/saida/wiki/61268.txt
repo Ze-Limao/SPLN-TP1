@@ -1,0 +1,16 @@
+====== 61268 - DC - Cartão de visita ======
+
+**Parent**:: 61224
+**RootParent**:: 60550
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1955-10-15
+**UnitDateFinal**:: 1955-10-15
+**ScopeContent**:: Cartão de visita de Miguel Machado, com nome rasurado Maria Isabel Machado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 9 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61268

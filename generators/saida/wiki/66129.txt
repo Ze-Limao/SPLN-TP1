@@ -1,0 +1,15 @@
+====== 66129 - DC - Declaração de compra que fez José Gonçalves Domingues, de Fradelos, a Manuel Costa Santos e mulher da mesma freguesia, na nota do tab. Pinheiro, da leira, chamada no lugar da Agra da Aldeia, da mesma freguesia, de natureza de Prazo foreira da Igreja de S. Tiago de Antas, cuja compra foi feita pela quantia de 96$00, e pagou de siza 8$265 reis ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Declaração de compra que fez José Gonçalves Domingues, de Fradelos, a Manuel Costa Santos e mulher da mesma freguesia, na nota do tab. Pinheiro, da leira, chamada no lugar da Agra da Aldeia, da mesma freguesia, de natureza de Prazo foreira da Igreja de S. Tiago de Antas, cuja compra foi feita pela quantia de 96$00, e pagou de siza 8$265 reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-01-28
+**UnitDateFinal**:: 1869-01-28
+**ScopeContent**:: Manuscrito em papel azul, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 320 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66129

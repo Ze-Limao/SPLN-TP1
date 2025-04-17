@@ -1,0 +1,16 @@
+====== 30626 - DC - Registo do recenseamento eleitoral de João José Tinoco ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João José Tinoco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Cabeçudos
+Profissão - Lavrador
+Morada - Palhares
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30626
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30626

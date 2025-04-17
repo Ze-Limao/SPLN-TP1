@@ -1,0 +1,19 @@
+====== 21065 - UI - António Emílio de Almeida Azevedo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Emílio de Almeida Azevedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-06-23
+**UnitDateFinal**:: 1923-10-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21065
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 150, 151, 152
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21065
+
+===== Filhos =====
+  * [[24649.txt|24649 - DC - Carta]]
+  * [[24650.txt|24650 - DC - Carta]]
+  * [[24651.txt|24651 - DC - Carta]]

@@ -1,0 +1,18 @@
+====== 52518 - DC - Registo do recenseamento militar de Manuel Pimenta ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Pimenta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1849-01-11
+Filiação - Bernardino Alves Dias Pimenta e Maria José
+Naturalidade - Ruivães
+Profissão - Lavrador
+Residência - Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52518
+**LangMaterial**:: Português
+**PhysLoc**:: 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52518

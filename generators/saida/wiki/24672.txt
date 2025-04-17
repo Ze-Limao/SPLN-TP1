@@ -1,0 +1,16 @@
+====== 24672 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-05-11
+**UnitDateFinal**:: 1903-05-11
+**ScopeContent**:: António Ferraz apresenta a sua biografia a pedido de JAM. Estas notas biográficas são para Esteves Pereira redigir um artigo "Ferraz" para a obra em 7 volumes "Portugal: dicionários histórico, etc." de Esteves Pereira e Guilherme Rodrigues. Dá algumas notas sobre os Farias. O recorte de jornal "Os paços do conde de Barcellos - Audiencia regia", 1903-02-10, dá notícia da audiência do Rei à Câmara de Barcelos que lhe foi mostrar o projeto de reconstrução do Palácio dos Duques da autoria do arquiteto Korrodi. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24672
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 174 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24672

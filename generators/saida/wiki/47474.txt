@@ -1,0 +1,18 @@
+====== 47474 - DC - Registo do recenseamento eleitoral de António José Barbosa ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Eclesiástico
+Estado - Solteiro
+Morada - Residência
+Idade - 40
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47474
+**LangMaterial**:: Português
+**PhysLoc**:: 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47474

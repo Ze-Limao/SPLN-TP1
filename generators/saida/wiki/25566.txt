@@ -1,0 +1,16 @@
+====== 25566 - DC - Carta ======
+
+**Parent**:: 21147
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-08-05
+**UnitDateFinal**:: 1882-08-05
+**ScopeContent**:: Carta manuscrita assinada, de Âncora. Papel timbrado "Governo Civil de Braga".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25566
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 519 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25566

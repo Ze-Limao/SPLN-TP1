@@ -1,0 +1,13 @@
+====== 9711 - DC - Ofício nº 58 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 58
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-10-08
+**UnitDateFinal**:: 1887-10-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9711
+**LangMaterial**:: Português
+**PhysLoc**:: f. 38
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9711

@@ -1,0 +1,31 @@
+====== 20218 - SSR - Registo de entradas ======
+
+**Parent**:: 20216
+**RootParent**:: 7651
+**UnitTitle**:: Registo de entradas
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1947-07-10
+**UnitDateFinal**:: 1975-04-30
+**ScopeContent**:: Registos de entradas - registo de correspondência recebida na Câmara Municipal de Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20218
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20218
+
+===== Filhos =====
+  * [[20260.txt|20260 - UI - Registo de correspondência recebida nº34]]
+  * [[20261.txt|20261 - UI - Registo de correspondência recebida nº35]]
+  * [[20262.txt|20262 - UI - Registo de correspondência recebida nº36]]
+  * [[20263.txt|20263 - UI - Registo de correspondência recebida nº37]]
+  * [[20264.txt|20264 - UI - Registo de correspondência recebida nº38]]
+  * [[20265.txt|20265 - UI - Registo de correspondência recebida nº39]]
+  * [[20266.txt|20266 - UI - Registo de correspondência recebida nº40]]
+  * [[20267.txt|20267 - UI - Registo de correspondência recebida nº41]]
+  * [[20268.txt|20268 - UI - Registo de correspondência recebida nº42]]
+  * [[20269.txt|20269 - UI - Registo de correspondência recebida nº43]]
+  * [[20270.txt|20270 - UI - Registo de correspondência recebida nº44]]
+  * [[20271.txt|20271 - UI - Registo de correspondência recebida nº45]]
+  * [[20272.txt|20272 - UI - Registo de correspondência recebida nº46]]
+  * [[20273.txt|20273 - UI - Registo de correspondência recebida nº47]]
+  * [[20274.txt|20274 - UI - Registo de correspondência recebida nº48]]
+  * [[20275.txt|20275 - UI - Registo de correspondência recebida nº49]]

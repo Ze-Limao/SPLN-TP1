@@ -1,0 +1,16 @@
+====== 25444 - DC - Minuta do ofício da AHBVF dirigido ao Governador Civil do Districto de Braga ======
+
+**Parent**:: 25082
+**RootParent**:: 20342
+**UnitTitle**:: Minuta do ofício da AHBVF dirigido ao Governador Civil do Districto de Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-11
+**UnitDateFinal**:: 1943-11
+**ScopeContent**:: Minuta do ofício agradecendo a presença nas comemorações das Bodas de Ouro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25444
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 180 - cx. 45
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25444

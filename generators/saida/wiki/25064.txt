@@ -1,0 +1,15 @@
+====== 25064 - UI - Registo de incêndios nº6 ======
+
+**Parent**:: 20381
+**RootParent**:: 20342
+**UnitTitle**:: Registo de incêndios nº6
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1962-08-26
+**UnitDateFinal**:: 1970-10-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25064
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 163
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25064

@@ -1,0 +1,14 @@
+====== 79982 - SR - Autos de Incompetência Territorial ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Incompetência Territorial
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1968-07-26
+**UnitDateFinal**:: 1969-03-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79982
+
+===== Filhos =====
+  * [[79984.txt|79984 - UI - Processo nº 75A]]

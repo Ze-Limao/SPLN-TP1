@@ -1,0 +1,18 @@
+====== 54665 - UI - Luís Maria Pinto de Soveral ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Luís Maria Pinto de Soveral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-03-27
+**UnitDateFinal**:: 1892-02-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54665
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54665
+
+===== Filhos =====
+  * [[54666.txt|54666 - DC - Telegrama]]
+  * [[54785.txt|54785 - DC - Telegrama]]
+  * [[54786.txt|54786 - DC - Telegrama]]
+  * [[55146.txt|55146 - DC - Carta]]
+  * [[55147.txt|55147 - DC - Carta]]

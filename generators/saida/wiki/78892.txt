@@ -1,0 +1,16 @@
+====== 78892 - DC - Atestado de pobreza de Balbina Araújo, do Regedor Manuel Joaquim Ferreira, da freguesia de Gavião ======
+
+**Parent**:: 25079
+**RootParent**:: 20342
+**UnitTitle**:: Atestado de pobreza de Balbina Araújo, do Regedor Manuel Joaquim Ferreira, da freguesia de Gavião
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-02-30
+**UnitDateFinal**:: 1906-02-30
+**ScopeContent**:: Manuscrito em papel azul.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25460
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 177 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78892

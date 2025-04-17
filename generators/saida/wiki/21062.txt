@@ -1,0 +1,54 @@
+====== 21062 - UI - António Cabral ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Cabral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-06-07
+**UnitDateFinal**:: 1927-11-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21062
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 105, 106, 107, 108, 109, 110, 11, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21062
+
+===== Filhos =====
+  * [[21503.txt|21503 - DC - Carta]]
+  * [[21508.txt|21508 - DC - Carta]]
+  * [[21511.txt|21511 - DC - Circular]]
+  * [[21512.txt|21512 - DC - Carta]]
+  * [[21513.txt|21513 - DC - Carta]]
+  * [[21514.txt|21514 - DC - Carta]]
+  * [[24213.txt|24213 - DC - Carta]]
+  * [[24235.txt|24235 - DC - Carta]]
+  * [[24236.txt|24236 - DC - Carta]]
+  * [[24237.txt|24237 - DC - Carta]]
+  * [[24238.txt|24238 - DC - Carta]]
+  * [[24241.txt|24241 - DC - Carta]]
+  * [[24260.txt|24260 - DC - Carta]]
+  * [[24261.txt|24261 - DC - Carta]]
+  * [[24283.txt|24283 - DC - Carta]]
+  * [[24284.txt|24284 - DC - Carta]]
+  * [[24285.txt|24285 - DC - Carta]]
+  * [[24286.txt|24286 - DC - Carta]]
+  * [[24287.txt|24287 - DC - Carta]]
+  * [[24288.txt|24288 - DC - Carta]]
+  * [[24289.txt|24289 - DC - Carta]]
+  * [[24290.txt|24290 - DC - Carta]]
+  * [[24291.txt|24291 - DC - Carta]]
+  * [[24292.txt|24292 - DC - Carta]]
+  * [[24293.txt|24293 - DC - Carta]]
+  * [[24294.txt|24294 - DC - Carta]]
+  * [[24295.txt|24295 - DC - Carta]]
+  * [[24296.txt|24296 - DC - Carta]]
+  * [[24297.txt|24297 - DC - Carta]]
+  * [[24298.txt|24298 - DC - Carta]]
+  * [[24299.txt|24299 - DC - Carta]]
+  * [[24300.txt|24300 - DC - Bilhete-postal]]
+  * [[24301.txt|24301 - DC - Carta]]
+  * [[24302.txt|24302 - DC - Carta]]
+  * [[24303.txt|24303 - DC - Carta]]
+  * [[24304.txt|24304 - DC - Carta]]
+  * [[24305.txt|24305 - DC - Carta]]
+  * [[24306.txt|24306 - DC - Carta]]

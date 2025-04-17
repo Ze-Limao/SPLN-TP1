@@ -1,0 +1,16 @@
+====== 21722 - DC - Registo do recenseamento eleitoral de Manuel José Ribeiro Guimarães ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José Ribeiro Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Aves
+Profissão - Tecelão 
+Morada - Bom Nome
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21722
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21722

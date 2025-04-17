@@ -1,0 +1,15 @@
+====== 80561 - UI - Processo nº 23-A ======
+
+**Parent**:: 80074
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 23-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-01-31
+**UnitDateFinal**:: 1975-10-14
+**ScopeContent**:: Junto com Auto de Execução Sumária nº 23.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 205 - cx. 11
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80561

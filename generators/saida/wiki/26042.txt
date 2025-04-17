@@ -1,0 +1,16 @@
+====== 26042 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-10-24
+**UnitDateFinal**:: 1922-10-24
+**ScopeContent**:: Júlio Brandão tomou conhecimento pelos jornais da abertura do Museu de Seide e aguarda a abertura solene. Carta manuscrita assinada. Carta do dia 24 outubro, sem menção ao ano. Papel timbrado "Museu Municipal do Porto. Gabinete do Director".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26042
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 836 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26042

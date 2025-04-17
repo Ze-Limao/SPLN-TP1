@@ -1,0 +1,18 @@
+====== 20757 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Filiação - Manuel Martins e Agostinha da Costa
+Naturalidade - Tebosa
+Data de nascimento - 1870-11-10
+Residência - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20757
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20757

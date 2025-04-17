@@ -1,0 +1,17 @@
+====== 56904 - DC - Comissão de Viticultura. Serviço Central. Assumptos tratados. Exposição contra a salsada das leis Vitivinicolas. Nº 21 ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Assumptos tratados. Exposição contra a salsada das leis Vitivinicolas. Nº 21
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1932-03-05
+**UnitDateFinal**:: 1932-03-07
+**ScopeContent**:: Capa manuscrita com título a cores e data 1933, nº21. Contém documentos de março de 1932: 2 p. datilografadas, cópia de ofício da C.V.R.V.V. para António Pinto mesquita (advogado da Comissão) assinado manuscrito Visconde de Pindela; 2 p. datilografadas minuta de ofício para Ministro da Agricultura.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56904
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2670 - cx. 21
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56904

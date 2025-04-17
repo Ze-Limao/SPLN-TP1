@@ -1,0 +1,16 @@
+====== 29303 - DC - Recorte de imprensa com vários preparados para aplicações diversas ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Recorte de imprensa com vários preparados para aplicações diversas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Recorte impresso. Sem indicação da publicação de onde foi recortado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29303
+**LangMaterial**:: Português
+**PhysLoc**:: AS 210 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29303

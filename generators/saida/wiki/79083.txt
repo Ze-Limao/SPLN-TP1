@@ -1,0 +1,12 @@
+====== 79083 - SR - Correspondência ======
+
+**Parent**:: 31345
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência
+**DescriptionLevel**:: SR
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31346
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79083
+
+===== Filhos =====
+  * [[57324.txt|57324 - DC - Comp. dos Cºs de Ferro do Norte. Correspondência]]

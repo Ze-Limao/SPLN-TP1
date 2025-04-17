@@ -1,0 +1,15 @@
+====== 99573 - UI - Fernando Carneiro Sousa Cristino ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Fernando Carneiro Sousa Cristino
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Quinta do Reguengo, Cabeçudos, Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99573
+
+===== Filhos =====
+  * [[99574.txt|99574 - DC - Cartão de visita]]

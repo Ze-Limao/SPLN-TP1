@@ -1,0 +1,13 @@
+====== 9063 - DC - Ofício nº 2 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 2
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-01-16
+**UnitDateFinal**:: 1886-01-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9063
+**LangMaterial**:: Português
+**PhysLoc**:: f. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9063

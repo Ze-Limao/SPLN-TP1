@@ -1,0 +1,16 @@
+====== 61372 - DC - Daniel Rodrigues e esposa ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: Daniel Rodrigues e esposa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1980
+**UnitDateFinal**:: 1990
+**ScopeContent**:: Reprodução do séc. XX de fotografia de Daniel Rodrigues e esposa. Photographia Guedes Porto. Dois positivos da mesma fotografia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 130 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61372

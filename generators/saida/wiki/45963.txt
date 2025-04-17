@@ -1,0 +1,18 @@
+====== 45963 - DC - Registo do recenseamento eleitoral de José Correia de Abreu ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Correia de Abreu
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Lavrador
+Estado - Casado
+Morada - S. Mateus
+Idade - 41
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45963
+**LangMaterial**:: Português
+**PhysLoc**:: 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45963

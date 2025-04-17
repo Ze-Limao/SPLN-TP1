@@ -1,0 +1,16 @@
+====== 30354 - DC - Desenho do rio Cávado desde a ponte do Prado até Fão com a designação de pontes, açudes e nascentes de águas minerais existentes nas margens ======
+
+**Parent**:: 20336
+**RootParent**:: 20290
+**UnitTitle**:: Desenho do rio Cávado desde a ponte do Prado até Fão com a designação de pontes, açudes e nascentes de águas minerais existentes nas margens
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Desenho e apontamentos manuscritos da investigação de António Ferraz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30354
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1551 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30354

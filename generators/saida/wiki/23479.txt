@@ -1,0 +1,16 @@
+====== 23479 - DC - Registo do recenseamento eleitoral de Manuel António de Araújo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel António de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Sezures
+Profissão - Lavrador
+Morada - Real
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23479
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23479

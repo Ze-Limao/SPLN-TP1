@@ -1,0 +1,15 @@
+====== 98089 - UI - Processo nº 144 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 144
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1978-08-23
+**UnitDateFinal**:: 1979-12-31
+**ScopeContent**:: Junto com Autos de Transgressão nº 125.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 755 - cx. 41
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98089

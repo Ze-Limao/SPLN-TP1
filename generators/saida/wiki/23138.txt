@@ -1,0 +1,16 @@
+====== 23138 - DC - Carta ======
+
+**Parent**:: 21039
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-10-04
+**UnitDateFinal**:: 1898-10-04
+**ScopeContent**:: Alberto Pimentel agradece o juízo sobre o livro “Amores de Camilo” que JAM terá feito e publicado no artigo "As Costelas do Sr. Visconde de Correia Botelho" publicado em Alvorada em 1885. Esclarece sobre a genealogia de Camilo publicada no livro "Romance do romancista" e informa que foi feita pelo próprio Camilo e havendo autenticações sobre a origem nobre do escritor avalizadas pelo Jerónimo Pimentel (1842-1898). Refere que nunca leu o artigo de JAM e solicita o envio do mesmo. Carta manuscrita assinada, Lisboa, Rua de S. Roque, 81 3º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23138
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 27 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23138

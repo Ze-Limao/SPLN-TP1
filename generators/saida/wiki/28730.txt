@@ -1,0 +1,16 @@
+====== 28730 - DC - Carta ======
+
+**Parent**:: 28728
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-11-14
+**UnitDateFinal**:: 1903-11-14
+**ScopeContent**:: Carta expedida de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28730
+**LangMaterial**:: Português
+**PhysLoc**:: AS 588 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28730

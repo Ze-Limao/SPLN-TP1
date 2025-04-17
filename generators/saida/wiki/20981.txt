@@ -1,0 +1,15 @@
+====== 20981 - DC - Nº 2/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 2/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-02-09
+**UnitDateFinal**:: 1962-02-09
+**ScopeContent**:: Contrato de adjudicação da empreitada de pavimentação do caminho de Bairro
+Outorgante - José da Silva Campos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20981
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20981

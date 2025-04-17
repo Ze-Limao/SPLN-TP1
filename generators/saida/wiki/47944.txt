@@ -1,0 +1,18 @@
+====== 47944 - DC - Registo do recenseamento eleitoral de José Joaquim de Azevedo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Joaquim de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Pedras Ruivas
+Idade - 58
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47944
+**LangMaterial**:: Português
+**PhysLoc**:: 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47944

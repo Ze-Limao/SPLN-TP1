@@ -1,0 +1,15 @@
+====== 20142 - UI - Registo da correspondência recebida ======
+
+**Parent**:: 20133
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-11-07
+**UnitDateFinal**:: 1919-01-31
+**ScopeContent**:: Não tem termo de abertura. Do ofício nº 1019/1917 ao nº55/1919. Contém dados: nº ordem ofício, data do ofício, data de entrada, designação da autoridade, extracto do seu conteúdo, expediente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20142
+**LangMaterial**:: Português
+**PhysLoc**:: AC 11
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20142

@@ -1,0 +1,16 @@
+====== 21855 - DC - Registo do recenseamento eleitoral de João Batista ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Batista
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Brufe
+Profissão - Lavrador
+Morada - Outeirinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21855
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21855

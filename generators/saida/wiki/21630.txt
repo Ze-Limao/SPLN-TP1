@@ -1,0 +1,16 @@
+====== 21630 - DC - Registo do recenseamento eleitoral de João Teixeira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Teixeira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - João Teixeira
+Profissão - Cesteiro
+Morada - Outeiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21630
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21630

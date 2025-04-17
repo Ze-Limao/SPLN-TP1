@@ -1,0 +1,16 @@
+====== 60940 - DC - O Mundo. Nº7, 188, ano XXI ======
+
+**Parent**:: 60930
+**RootParent**:: 60550
+**UnitTitle**:: O Mundo. Nº7, 188, ano XXI
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-09-08
+**UnitDateFinal**:: 1921-09-08
+**ScopeContent**:: Notícia “Figuras de Bronze & Figurões de gesso: Drº Daniel Rodrigues”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 199 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60940

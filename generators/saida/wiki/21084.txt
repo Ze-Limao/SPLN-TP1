@@ -1,0 +1,17 @@
+====== 21084 - UI - Bento Amaral ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Bento Amaral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1883-04
+**UnitDateFinal**:: 1883-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21084
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 317
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21084
+
+===== Filhos =====
+  * [[24884.txt|24884 - DC - Carta]]

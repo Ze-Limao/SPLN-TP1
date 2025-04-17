@@ -1,0 +1,17 @@
+====== 8036 - DC - Termo de Adriano Carneiro de Sampaio ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Adriano Carneiro de Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-07-21
+**UnitDateFinal**:: 1876-07-21
+**ScopeContent**:: Construção de uma mina de água atravessando um caminho público
+Local - Nine
+Profissão - Juiz de Direito
+Morada - Vila do Conde
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8036
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8036

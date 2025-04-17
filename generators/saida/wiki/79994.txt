@@ -1,0 +1,29 @@
+====== 79994 - SR - Autos de Execução de Sentença ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Execução de Sentença
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1967-05-31
+**UnitDateFinal**:: 1984-12-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79994
+
+===== Filhos =====
+  * [[79993.txt|79993 - UI - Processo nº 122]]
+  * [[80057.txt|80057 - UI - Processo nº 68-A]]
+  * [[80061.txt|80061 - UI - Processo nº 69-B]]
+  * [[80187.txt|80187 - UI - Processo nº 144-A]]
+  * [[80190.txt|80190 - UI - Processo nº 131-A]]
+  * [[80236.txt|80236 - UI - Processo nº 128/73/A]]
+  * [[80569.txt|80569 - UI - Processo nº 27-A]]
+  * [[80609.txt|80609 - UI - Processo nº 135-A]]
+  * [[80632.txt|80632 - UI - Processo nº 319/1980]]
+  * [[80695.txt|80695 - UI - Processo nº 1]]
+  * [[97500.txt|97500 - UI - Processo nº 211]]
+  * [[97523.txt|97523 - UI - Processo nº 21-C]]
+  * [[97527.txt|97527 - UI - Processo nº 214-C]]
+  * [[97534.txt|97534 - UI - Processo nº 10-A]]
+  * [[97557.txt|97557 - UI - Processo nº 7-A]]
+  * [[97582.txt|97582 - UI - Processo nº 17-A]]

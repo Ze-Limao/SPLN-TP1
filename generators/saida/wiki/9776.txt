@@ -1,0 +1,36 @@
+====== 9776 - SR - Francisco Correia de Mesquita Guimarães ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Francisco Correia de Mesquita Guimarães
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1916-04-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9776
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9776
+
+===== Filhos =====
+  * [[60871.txt|60871 - DC - Famalicão - Fonte de Moledo]]
+  * [[60872.txt|60872 - DC - Famalicão - Feira do Gado]]
+  * [[60873.txt|60873 - DC - Famalicão - Antas - Ponte Velha]]
+  * [[60874.txt|60874 - DC - Famalicão - Capella de Santo Antonio]]
+  * [[60875.txt|60875 - DC - Famalicão - Feira da louça]]
+  * [[60876.txt|60876 - DC - Famalicão - Camara Municipal]]
+  * [[60877.txt|60877 - DC - Famalicão - Campo da Feira]]
+  * [[9777.txt|9777 - DC - Famalicão - Camara Municipal]]
+  * [[9778.txt|9778 - DC - Famalicão - Estação do Caminho de Ferro]]
+  * [[9779.txt|9779 - DC - Famalicão - Feira da louça]]
+  * [[9780.txt|9780 - DC - Famalicão - Campo da Feira]]
+  * [[9781.txt|9781 - DC - Famalicão - Capella de Santo Antonio]]
+  * [[9782.txt|9782 - DC - Famalicão - Feira do Gado]]
+  * [[9783.txt|9783 - DC - Famalicão - Feira do Pão]]
+  * [[9784.txt|9784 - DC - Famalicão - Utensilios agricolas]]
+  * [[9785.txt|9785 - DC - Famalicão - Antas - Ponte Velha]]
+  * [[9786.txt|9786 - DC - Famalicão - Antas- Senhor d´Agonia]]
+  * [[9787.txt|9787 - DC - Famalicão - Igreja de S.Thiago d´Antas]]
+  * [[9788.txt|9788 - DC - Famalicão - Aldeia de Moledo]]
+  * [[9789.txt|9789 - DC - Famalicão - Fonte de Moledo]]
+  * [[9790.txt|9790 - DC - Famalicão - Mosteiro de Arnozo - Ultima oração]]
+  * [[9791.txt|9791 - DC - Famalicão - Cuidados da Velha]]

@@ -1,0 +1,16 @@
+====== 24755 - UI - Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros/empreiteiro Raimundo da Silva Magalhães; Documentos diversos ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros/empreiteiro Raimundo da Silva Magalhães; Documentos diversos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1961-04-23
+**UnitDateFinal**:: 1967-08-02
+**ScopeContent**:: Os documentos diversos dizem respeito à conta corrente com o empreiteiro, duplicados de recibos, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24755
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 14 - cx. 4
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24755

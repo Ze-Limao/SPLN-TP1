@@ -1,0 +1,16 @@
+====== 29991 - DC - Bilhete-postal ======
+
+**Parent**:: 21443
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-08-26
+**UnitDateFinal**:: 1924-08-26
+**ScopeContent**:: Bilhete-postal manuscrito assinado, selado e carimbado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29991
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1436 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29991

@@ -1,0 +1,13 @@
+====== 7699 - UI - Livros de Notas Nº 10 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livros de Notas Nº 10
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1929-09-17
+**UnitDateFinal**:: 1931-02-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7699
+**LangMaterial**:: Português
+**PhysLoc**:: 1.45
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7699

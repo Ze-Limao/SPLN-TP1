@@ -1,0 +1,19 @@
+====== 34839 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Campo S. Martinho
+Data de nascimento - 1862-05-27
+Filiação - Joaquim Martins Machado e Rosa da Silva
+Profissão - Negociante
+Estado - Solteiro
+Morada - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34839
+**LangMaterial**:: Português
+**PhysLoc**:: 71v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34839

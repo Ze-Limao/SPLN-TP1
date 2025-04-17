@@ -1,0 +1,14 @@
+====== 60675 - SR - Registo das conciliações ======
+
+**Parent**:: 60541
+**RootParent**:: 60541
+**UnitTitle**:: Registo das conciliações
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1835
+**UnitDateFinal**:: 1835
+**Repository**:: Município de Vila Nova Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60675
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60675
+
+===== Filhos =====
+  * [[60945.txt|60945 - DC - Livro para o Registo das Concialiações desta freguezia de Fradellos de Vermoim]]

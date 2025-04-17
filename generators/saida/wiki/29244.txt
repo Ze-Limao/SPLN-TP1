@@ -1,0 +1,16 @@
+====== 29244 - DC - Bilhete-postal ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-09-12
+**UnitDateFinal**:: 1901-09-13
+**ScopeContent**:: Bilhete-postal da Real Companhia Horticolo-Agrícola Portuense, com sede na Rua dos Fogueteiros, 5 - Porto. Informa que a flor da planta enviada por Alberto Sampaio é a amaryllis purpurea, a qual corresponde ao n. 18 do catálogo da Real Companhia Horticolo-Agrícola.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29244
+**LangMaterial**:: Português
+**PhysLoc**:: AS 361 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29244

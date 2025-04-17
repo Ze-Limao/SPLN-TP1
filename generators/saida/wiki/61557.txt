@@ -1,0 +1,17 @@
+====== 61557 - DC - Programa da visita de rotarianos e familiares do Clube de Famalicão, Portugal ======
+
+**Parent**:: 61444
+**RootParent**:: 60551
+**UnitTitle**:: Programa da visita de rotarianos e familiares do Clube de Famalicão, Portugal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2004-08
+**UnitDateFinal**:: 2004-08
+**ScopeContent**:: Visita com Rotary Club de Chimoio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 271 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61557

@@ -1,0 +1,16 @@
+====== 22109 - DC - Registo do recenseamento eleitoral de António Carvalho Tinoco ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Carvalho Tinoco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Cruz
+Profissão - Lavrador
+Morada - Moldes
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22109
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22109

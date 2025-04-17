@@ -1,0 +1,15 @@
+====== 20167 - UI - Termos de fiança ao serviço militar ======
+
+**Parent**:: 20162
+**RootParent**:: 20048
+**UnitTitle**:: Termos de fiança ao serviço militar
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907-04-22
+**UnitDateFinal**:: 1908-08-27
+**ScopeContent**:: Termo de abertura: “Este livro tem de servir para se lavrarem os termos de fiança ao serviço militar pelos praças…”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20167
+**LangMaterial**:: Português
+**PhysLoc**:: AC 29
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20167

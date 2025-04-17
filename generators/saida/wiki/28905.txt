@@ -1,0 +1,16 @@
+====== 28905 - DC - Postal ilustrado ======
+
+**Parent**:: 28904
+**RootParent**:: 27963
+**UnitTitle**:: Postal ilustrado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-07-06
+**UnitDateFinal**:: 1892-07-06
+**ScopeContent**:: Postal expedido de Lisboa. Posterior à morte de Antero Quental 1891. Postal ilustrado com o título "Anthero do Quental Great Portuguese poet of universal fame", com fotografia do poeta, data e morte, poema Zara em 4 línguas. Postal selado dentro de um envelope transparente carimbado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28905
+**LangMaterial**:: Português
+**PhysLoc**:: AS 628 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28905

@@ -1,0 +1,16 @@
+====== 23936 - DC - Carta ======
+
+**Parent**:: 21057
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-09-14
+**UnitDateFinal**:: 1914-09-14
+**ScopeContent**:: Antero de Figueiredo solicita informações sobre D.Lourenço da Cunha, marido de D.Leonor. Carta manuscrita assinada, Cadouços, Foz do Douro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23936
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 90 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23936

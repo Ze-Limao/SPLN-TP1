@@ -1,0 +1,15 @@
+====== 66504 - DC - Pedido de licença de batismo por Olinda Filomena de Freitas moradora por acidente na freguesia de S. Tiago de Antas para seu filho ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de batismo por Olinda Filomena de Freitas moradora por acidente na freguesia de S. Tiago de Antas para seu filho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1833-08-17
+**UnitDateFinal**:: 1833-08-17
+**ScopeContent**:: Manuscrito, original. em papel azul “100 reis”. Em cima o deferimento do Arcebispo Primaz, com carimbo dos Escritórios Eclesiásticos Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 530 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66504

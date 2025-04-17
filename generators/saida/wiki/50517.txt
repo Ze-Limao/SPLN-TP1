@@ -1,0 +1,18 @@
+====== 50517 - DC - Registo do recenseamento militar de André ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de André
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-03-16
+Filiação - Josefa
+Naturalidade - Ribeirão
+Profissão - Jornaleiro
+Residência - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50517
+**LangMaterial**:: Português
+**PhysLoc**:: 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50517

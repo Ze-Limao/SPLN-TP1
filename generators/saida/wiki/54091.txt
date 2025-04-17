@@ -1,0 +1,30 @@
+====== 54091 - DC - Proposta de Casa Capucho Lisboa-Porto para a empreitada do aquecimento central - processo ======
+
+**Parent**:: 54176
+**RootParent**:: 25851
+**UnitTitle**:: Proposta de Casa Capucho Lisboa-Porto para a empreitada do aquecimento central - processo
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1954
+**UnitDateFinal**:: 1961
+**ScopeContent**:: Originais. Contém JG 169(2) a (11). Capa com lacre com a proposta vencedora do concurso composta por: guia, requerimentos, certidão, declarações, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54091
+**LangMaterial**:: Português
+**PhysLoc**:: JG 169(1) a (11) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54091
+
+===== Filhos =====
+  * [[54092.txt|54092 - DC - Guia, certidões e Pública forma para empreitada Instalação de aquecimento central no novo edifício destinado aos Paços do Concelho…]]
+  * [[54096.txt|54096 - DC - Ofício dirigido ao Presidente da Câmara Municipal e Memória Justificativa e explicativa da empresa  João Félix da Silva Capucho]]
+  * [[54097.txt|54097 - DC - Ofício dirigido ao Presidente da Câmara Municipal e Memória Justificativa e explicativa da empresa  João Félix da Silva Capucho]]
+  * [[54098.txt|54098 - DC - Projecto da Câmara Municipal de Famalicão - Fachada Corte do Tribunal - 10]]
+  * [[54099.txt|54099 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 2º Piso - 3]]
+  * [[54100.txt|54100 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas - 4]]
+  * [[54101.txt|54101 - DC - Projecto da Câmara Municipal de Famalicão - Corte Longitudinal A-B - 11]]
+  * [[54102.txt|54102 - DC - Esquema da instalação da caldeira e Esquema do abastecimento de oleo ao queimador e seu aquecimento - Capucho]]
+  * [[54104.txt|54104 - DC - Panfletos publicitários]]
+  * [[54105.txt|54105 - DC - Convectores, caixas e nichos de convectores, elementos de quecimento por água e baixa pressão para conectores.]]
+  * [[54106.txt|54106 - DC - Desenhos de caldeiras]]

@@ -1,0 +1,16 @@
+====== 8410 - UI - António de Freitas Pimentel Soromenho ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: António de Freitas Pimentel Soromenho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1895
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8410
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.49
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8410
+
+===== Filhos =====
+  * [[8411.txt|8411 - DC - Carta]]

@@ -1,0 +1,18 @@
+====== 50940 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-02-10
+Filiação - José António Gonçalves e Josefa da Silva
+Naturalidade - Louro
+Profissão - Carpinteiro
+Residência - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50940
+**LangMaterial**:: Português
+**PhysLoc**:: 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50940

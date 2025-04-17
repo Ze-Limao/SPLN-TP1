@@ -1,0 +1,16 @@
+====== 21374 - UI - Décio Carneiro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Décio Carneiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21374
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1330
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21374
+
+===== Filhos =====
+  * [[30198.txt|30198 - DC - Carta]]

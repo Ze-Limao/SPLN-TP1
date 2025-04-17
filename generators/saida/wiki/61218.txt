@@ -1,0 +1,15 @@
+====== 61218 - UI - Tomás de Fonseca ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Tomás de Fonseca
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1950-07-19
+**UnitDateFinal**:: 1950-07-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61218
+
+===== Filhos =====
+  * [[61219.txt|61219 - DC - Carta]]

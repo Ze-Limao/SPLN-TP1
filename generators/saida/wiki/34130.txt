@@ -1,0 +1,19 @@
+====== 34130 - DC - Registo do recenseamento militar de Francisco da Silva ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Jesufrei
+Data de nascimento - 1852-08-24
+Filiação - José da Silva e Custódia Duarte
+Profissão - Criado de servir
+Estado - Solteiro
+Morada - Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34130
+**LangMaterial**:: Português
+**PhysLoc**:: 49v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34130

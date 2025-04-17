@@ -1,0 +1,27 @@
+====== 53750 - SR - Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Adicionais ======
+
+**Parent**:: 25851
+**RootParent**:: 25851
+**UnitTitle**:: Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Adicionais
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1959-04-18
+**UnitDateFinal**:: 1961-06-06
+**ScopeContent**:: Série constituída por pastas com peças escritas em A4 e peças desenhadas em folhas de grandes formatos. Nesta série encontram-se um conjunto de ofícios, Mapas de Medições e Orçamentos relativos aos Adicionais de Obra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53750
+**LangMaterial**:: Português
+**PhysLoc**:: JG
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53750
+
+===== Filhos =====
+  * [[53954.txt|53954 - DC - Novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc. - Primeiro Adicional. Câmara Municipal de Famalicão]]
+  * [[53978.txt|53978 - DC - Novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc. - Medições, orçamento e ofício]]
+  * [[53982.txt|53982 - DC - Novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc. – segundo adicional à empreitada, etc.]]
+  * [[53995.txt|53995 - DC - Novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc. – segundo adicional à empreitada, etc.]]
+  * [[54005.txt|54005 - DC - Projecto do novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc.- Segundo Adicional da construção civil e Primeiro Adicional da urbanização 1961. Câmara Municipal de Famalicão]]
+  * [[54015.txt|54015 - DC - Medição de obras a empreitada geral da urbanização da praça do novo edifício do Tribunal]]
+  * [[54025.txt|54025 - DC - Projeto do novo edifício do Tribunal Judicial, conservatórias, notariado, etc.]]
+  * [[54035.txt|54035 - DC - Projeto do novo edifício do Tribunal Judicial, conservatórias, notariado, etc.]]
+  * [[54045.txt|54045 - DC - Medição de obras a mais a executar à Empreitada Geral do Novo Edifício Tribunal Judicial de Famalicão…]]

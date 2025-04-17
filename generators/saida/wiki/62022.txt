@@ -1,0 +1,19 @@
+====== 62022 - DC - Registo do recenseamento militar de Rodrigo ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Rodrigo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Semião José da Silva e Gertrudes Pinto, na freguesia 
+Naturalidade - Seide S. Miguel
+Morada - Ignora-se
+Data de nascimento - 1861-09-11
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62022

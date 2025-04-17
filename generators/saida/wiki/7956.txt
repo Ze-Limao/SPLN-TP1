@@ -1,0 +1,32 @@
+====== 7956 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-06-16
+**UnitDateFinal**:: 1898-07-27
+**ScopeContent**:: 'Há de servir para nele se lançar o recenseamento eleitoral (...) organizado de conformidade com o disposto na lei eleitoral de 21 de maio de 1896 (...)'
+
+Contém dados sobre:
+1- Freguesia
+2- Nome
+3- Estado
+4- Profissão
+5- Morada
+6- Fundamento da inscrição
+6.1- Coletas de contribuição
+6.2- Ler e escrever
+7- Elegíveis para os cargos administrativos
+
+As freguesias estão agrupadas do seguinte modo:
+1ª assembleia - Gondifelos, Louro, Cavalões, Mouquim, Outiz, Gavião, Brufe e Vila Nova de Famalicão
+2ª assembleia - Landim, Seide S. Paio, Cabeçudos, Avidos, Esmeriz, Lagoa, Abade de Vermoim, Calendário e Antas
+3ª assembleia - Vale S. Martinho, Vale S. Cosme, Telhado, Sezures, Portela, Nine, Lemenhe, Jesufrei, Arnoso Santa Maria, Arnoso Santa Eulália, Arnoso Mosteiro e Cruz
+4ª assembleia - Riba de Ave, Oliveira S. Mateus, Bente, Carreira, Novais, Delães, Joane, Requião, Seide S. Miguel, Bairro, Pousada de Saramagos, Pedome, Oliveira Santa Maria, Mogege, Ruivães, Vermoim e Castelões
+5ª assembleia - Fradelos, Lousado, Vilarinho das Cambas e Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7956
+**LangMaterial**:: Português
+**PhysLoc**:: 1.2.3.5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7956

@@ -1,0 +1,17 @@
+====== 79812 - DC - Vista geral do Mosteiro de Landim ======
+
+**Parent**:: 79807
+**RootParent**:: 60698
+**UnitTitle**:: Vista geral do Mosteiro de Landim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1980
+**UnitDateFinal**:: 2000
+**ScopeContent**:: Bilhete-postal impresso. No verso a legenda.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9798
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 176 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79812

@@ -1,0 +1,16 @@
+====== 30254 - DC - Carta ======
+
+**Parent**:: 21425
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-10-30
+**UnitDateFinal**:: 1914-10-30
+**ScopeContent**:: J.M. Veiga informa sobre o passado familiar de Camilo Castelo Branco. Carta manuscrita assinada, de Vila Real.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30254
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1405 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30254

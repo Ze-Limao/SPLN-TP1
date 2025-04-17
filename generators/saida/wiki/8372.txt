@@ -1,0 +1,16 @@
+====== 8372 - UI - Aníbal Passos ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Aníbal Passos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-11-17
+**UnitDateFinal**:: 1895-11-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8372
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.32
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8372
+
+===== Filhos =====
+  * [[8373.txt|8373 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 21006 - DC - Nº 3 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 3
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1963-02-13
+**UnitDateFinal**:: 1963-02-13
+**ScopeContent**:: Contrato de compra e venda de um prédio urbano situado na Rua Direita, para alargamento da Viela dos Eixidos
+Outorgantes - António Martins de Araújo e Antónia de Faria Martins
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21006
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 87
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21006

@@ -1,0 +1,16 @@
+====== 22919 - DC - Registo do recenseamento eleitoral de Anastácio Pereira da Silva ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Anastácio Pereira da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Oliveira Santa Maria
+Profissão - Lavrador
+Morada - Pego
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22919
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22919

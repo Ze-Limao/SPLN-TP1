@@ -1,0 +1,16 @@
+====== 23145 - DC - Carta ======
+
+**Parent**:: 21039
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-05-27
+**UnitDateFinal**:: 1921-05-27
+**ScopeContent**:: Alberto Pimentel saúda JAM e seus colaboradores pelo livro sobre a reavaliação histórica da Casa de Seide e pelo livro de cartas. Solicita esclarecimento sobre os direitos de autor do livro "Amor de Perdição", as contendas dos netos de Camilo no tribunal. Carta manuscrita assinada, Trafaria (Almada).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23145
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 34 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23145

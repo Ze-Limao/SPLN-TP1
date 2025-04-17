@@ -1,0 +1,17 @@
+====== 57453 - DC - Cartas e cópia de ofícios para 3º Visconde de Pindela e para Engenheiro Diretor da Exploração da CCFNP ======
+
+**Parent**:: 57397
+**RootParent**:: 31258
+**UnitTitle**:: Cartas e cópia de ofícios para 3º Visconde de Pindela e para Engenheiro Diretor da Exploração da CCFNP
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928-08
+**UnitDateFinal**:: 1929-10-28
+**ScopeContent**:: Carta manuscrito em papel de luto de Costa Pinto, Quinta da Folgosa do Douro (1 f.) para 3º Visconde, 1929-10-28. Carta de João Mota Prego, de Guimarães, para 3º Visconde de Pindela, 1929-10-13. Cópia de ofício datilografado do 3º Visconde para o Engenheiro Diretor da Exploração da Companhia e Caminhos de Ferro do Norte de Portugal 1929-08-23 (4 f.). Documento datilografado (53 f.) de Vicente Pindela, 1929-08, com índice,  títulos: "Meios d´acção empregados pelas companhias ferroviárias para o fomento e propaganda agrícola e florestal I"; "Acção de fomento e propaganda agrícola e florestal exercida pelas companhias de caminho de Ferro francesas II"; "Organização dos serviços de fomento e propaganda agrícola e florestal exercida pelas companhias ferroviárias de caminho de Ferro em França III"; "Acção exercida por parte dos serviços de exploração das companhias de caminho de ferro francesas para o desenvolvimento da produção agrícola e florestal nos anos seguintes à Grande guerra" (igual CP 2864).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57453
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2863 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57453

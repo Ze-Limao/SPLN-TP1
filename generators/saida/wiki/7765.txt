@@ -1,0 +1,14 @@
+====== 7765 - SSC - Administração dos Bens ======
+
+**Parent**:: 7697
+**RootParent**:: 7651
+**UnitTitle**:: Administração dos Bens
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1685-09-13
+**UnitDateFinal**:: 1830-05-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7765
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7765
+
+===== Filhos =====
+  * [[7766.txt|7766 - SR - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos]]

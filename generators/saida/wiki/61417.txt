@@ -1,0 +1,16 @@
+====== 61417 - DC - Carta de nomeação de D. Carlos para Daniel Rodrigues ======
+
+**Parent**:: 60928
+**RootParent**:: 60550
+**UnitTitle**:: Carta de nomeação de D. Carlos para Daniel Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-09-09
+**UnitDateFinal**:: 1904-09-09
+**ScopeContent**:: Carta de nomeação com selo real: "D. Carlos…faço saber aos que virem esta minha Carta…nomeio o bacharel Daniel José Rodrigues para o lugar de Delegado do Procurador Real na Comarca da Ilha das Flores…"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 206 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61417

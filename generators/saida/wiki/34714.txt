@@ -1,0 +1,19 @@
+====== 34714 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Vilarinho das Cambas
+Data de nascimento - 1862-06-13
+Filiação - José Alves de Azevedo e Maria Josefa da Silva
+Profissão - Criado de servir
+Estado - Solteiro
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34714
+**LangMaterial**:: Português
+**PhysLoc**:: 49v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34714

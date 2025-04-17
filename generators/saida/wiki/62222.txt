@@ -1,0 +1,20 @@
+====== 62222 - DC - Registo do recenseamento militar de Jerónimo ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Jerónimo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Manuel Pereira Cardoso e Maria Joaquina de Jesus, na vila
+Naturalidade - Vila Nova de Famalicão
+Morada - Ignora-se
+Data de nascimento - 1861-09-30
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62222

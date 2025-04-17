@@ -1,0 +1,19 @@
+====== 34777 - DC - Registo do recenseamento militar de Domingos ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Requião
+Data de nascimento - 1862-08-30
+Filiação - Luís Correia Ribeiro e Carolina Pinto
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Requião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34777
+**LangMaterial**:: Português
+**PhysLoc**:: 60v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34777

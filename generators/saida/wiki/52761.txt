@@ -1,0 +1,18 @@
+====== 52761 - DC - Registo do recenseamento militar de José Alves ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-12-04
+Filiação - António Alves e Luísa da Costa
+Naturalidade - Vale S. Cosme
+Profissão - Lavrador-caseiro
+Residência - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52761
+**LangMaterial**:: Português
+**PhysLoc**:: 63v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52761

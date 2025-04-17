@@ -1,0 +1,15 @@
+====== 56768 - UI - José Vasco Fonseca ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: José Vasco Fonseca
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1937-07-08
+**UnitDateFinal**:: 1937-08-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56768
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56768
+
+===== Filhos =====
+  * [[56769.txt|56769 - DC - Carta]]
+  * [[56770.txt|56770 - DC - Carta]]

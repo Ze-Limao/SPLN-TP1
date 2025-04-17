@@ -1,0 +1,18 @@
+====== 50892 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-08-19
+Filiação - João Luís Machado e Maria Josefa Barbosa
+Naturalidade - Vale S. Cosme
+Profissão - 
+Residência - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50892
+**LangMaterial**:: Português
+**PhysLoc**:: 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50892

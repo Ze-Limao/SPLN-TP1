@@ -1,0 +1,18 @@
+====== 8743 - DC - Termo do exame de Manuel Pereira da Costa e Sá ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Pereira da Costa e Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-15
+**UnitDateFinal**:: 1891-07-15
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - João Pereira da Costa e Sá
+Naturalidade - Oliveira Santa Maria
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8743
+**LangMaterial**:: Português
+**PhysLoc**:: f. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8743

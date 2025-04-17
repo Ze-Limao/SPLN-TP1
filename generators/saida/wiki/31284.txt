@@ -1,0 +1,14 @@
+====== 31284 - SC - Veríssimo Pinheiro Lobo ======
+
+**Parent**:: 31258
+**RootParent**:: 31258
+**UnitTitle**:: Veríssimo Pinheiro Lobo
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1701-02-27
+**UnitDateFinal**:: 1701-02-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31284
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31284
+
+===== Filhos =====
+  * [[31285.txt|31285 - SSC - Veríssimo Pinheiro Lobo]]

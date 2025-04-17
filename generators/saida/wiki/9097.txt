@@ -1,0 +1,13 @@
+====== 9097 - DC - Ofício nº 12 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 12
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-03-31
+**UnitDateFinal**:: 1886-03-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9097
+**LangMaterial**:: Português
+**PhysLoc**:: f. 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9097

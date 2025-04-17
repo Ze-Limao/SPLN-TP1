@@ -1,0 +1,12 @@
+====== 79098 - UI - Polícia de Vigilância e Defesa do Estado ======
+
+**Parent**:: 79084
+**RootParent**:: 31258
+**UnitTitle**:: Polícia de Vigilância e Defesa do Estado
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79085
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79098
+
+===== Filhos =====
+  * [[79099.txt|79099 - DC - Ofício nº1800/037-1]]

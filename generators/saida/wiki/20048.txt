@@ -1,0 +1,29 @@
+====== 20048 - F - Administração do Concelho de Vila Nova de Famalicão ======
+
+**Parent**:: 0
+**RootParent**:: 20048
+**UnitTitle**:: Administração do Concelho de Vila Nova de Famalicão
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1851-08-20
+**UnitDateFinal**:: 1935-07-10
+**ScopeContent**:: Fundo composto pelas secções:
+A Serviços Administrativos; 235 u.i. (78 livros, 157 folhas);
+B Serviço Militar; 60 u.i. (27 livros, 33 f.);
+C Segurança Pública; 12 u.i. (10 livros, 2 f.);
+D Fiscalização de Corporações Religiosas; 2 u.i. (2 livros);
+E Assistência Social; 12 u.i. (2 livros, 10 f.);
+F Controlo de Atividades Económicas; 2 u.i. (2 livros).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20048
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20048
+
+===== Filhos =====
+  * [[20049.txt|20049 - SC - Serviços Administrativos]]
+  * [[20050.txt|20050 - SC - Serviço Militar]]
+  * [[20051.txt|20051 - SC - Segurança Pública]]
+  * [[20052.txt|20052 - SC - Fiscalização de Corporações Religiosas]]
+  * [[20053.txt|20053 - SC - Assistência social]]
+  * [[20054.txt|20054 - SC - Controlo de atividades económicas]]

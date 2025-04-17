@@ -1,0 +1,15 @@
+====== 63989 - DC - Escritura de arrendamento perpétuo de uma leira de mato, no monte do Padrão e Velha do Prazo do Fontelo, que faz Manuel José de Araújo e sua mulher Josefa Maria de Sá, do lugar de Fontela de Baixo, foreiro da da Igreja de S. Tiago de Antas, a José Pereira da Costa e sua mulher Custódia Maria Soares, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de arrendamento perpétuo de uma leira de mato, no monte do Padrão e Velha do Prazo do Fontelo, que faz Manuel José de Araújo e sua mulher Josefa Maria de Sá, do lugar de Fontela de Baixo, foreiro da da Igreja de S. Tiago de Antas, a José Pereira da Costa e sua mulher Custódia Maria Soares, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1776-07-11
+**UnitDateFinal**:: 1776-07-11
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas. No canto superior esquerdo "L. 23 af. 12 vº".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 184 - cx. 9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63989

@@ -1,0 +1,16 @@
+====== 25576 - DC - Ofício ======
+
+**Parent**:: 21151
+**RootParent**:: 20290
+**UnitTitle**:: Ofício
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-05-24
+**UnitDateFinal**:: 1921-05-24
+**ScopeContent**:: João Caetano Silva Campos agradece o livro Camilo Homenageado e refere que fará uma resenha no jornal "Aurora do Lima". Carta manuscrita assinada, de Viana do Castelo. Papel timbrado "Academia de Sciencias de Portugal. Instituto Histórico do Minho."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25576
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 529 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25576

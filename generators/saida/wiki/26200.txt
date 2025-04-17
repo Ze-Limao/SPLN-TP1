@@ -1,0 +1,16 @@
+====== 26200 - DC - Carta ======
+
+**Parent**:: 21252
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-09-11
+**UnitDateFinal**:: 1886-09-11
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26200
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 996 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26200

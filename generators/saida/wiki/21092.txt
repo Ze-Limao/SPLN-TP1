@@ -1,0 +1,21 @@
+====== 21092 - UI - Caetano Xavier Pinheiro de Almeida da Câmara Manoel ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Caetano Xavier Pinheiro de Almeida da Câmara Manoel
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893-06-28
+**UnitDateFinal**:: 1896-01-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21092
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 328, 329, 330, 331, 332
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21092
+
+===== Filhos =====
+  * [[24893.txt|24893 - DC - Carta]]
+  * [[24894.txt|24894 - DC - Carta]]
+  * [[24895.txt|24895 - DC - Carta]]
+  * [[24896.txt|24896 - DC - Carta]]
+  * [[24897.txt|24897 - DC - Carta]]

@@ -1,0 +1,14 @@
+====== 54655 - UI - Delfim de Almeida ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Delfim de Almeida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-05-12
+**UnitDateFinal**:: 1891-05-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54655
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54655
+
+===== Filhos =====
+  * [[31580.txt|31580 - DC - Carta]]

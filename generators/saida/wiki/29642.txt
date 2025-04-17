@@ -1,0 +1,15 @@
+====== 29642 - DC - Nota - deve ser aplicado com a mão ======
+
+**Parent**:: 29270
+**RootParent**:: 27963
+**UnitTitle**:: Nota - deve ser aplicado com a mão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29642
+**LangMaterial**:: Português
+**PhysLoc**:: AS 181 (2) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29642

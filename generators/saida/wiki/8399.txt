@@ -1,0 +1,16 @@
+====== 8399 - UI - Manuel Correia Sampaio ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Manuel Correia Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-09-19
+**UnitDateFinal**:: 1895-09-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8399
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.44
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8399
+
+===== Filhos =====
+  * [[8400.txt|8400 - DC - Carta]]

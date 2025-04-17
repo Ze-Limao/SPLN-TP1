@@ -1,0 +1,19 @@
+====== 62887 - DC - Registo do recenseamento militar de Amaro ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Amaro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Martinho José da Costa e Quitéria Rosa, ele falecido e ela na freguesia
+Naturalidade - Seide S. Miguel
+Morada - Seide S. Miguel
+Data de nascimento - 1863-03-30
+Emprego - Pedreiro
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62887

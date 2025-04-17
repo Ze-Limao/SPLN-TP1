@@ -1,0 +1,15 @@
+====== 24984 - UI - Actas da Assembleia Geral da Associação Humanitária de Bombeiros Voluntários de Villa Nova de Famalicão ======
+
+**Parent**:: 20397
+**RootParent**:: 20342
+**UnitTitle**:: Actas da Assembleia Geral da Associação Humanitária de Bombeiros Voluntários de Villa Nova de Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-02-04
+**UnitDateFinal**:: 1989-03-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24984
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 88
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24984

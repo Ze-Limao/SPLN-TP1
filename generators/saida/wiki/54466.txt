@@ -1,0 +1,18 @@
+====== 54466 - SR - Documentos ======
+
+**Parent**:: 31279
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1667-07-09
+**UnitDateFinal**:: 1667-07-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54466
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54466
+
+===== Filhos =====
+  * [[54259.txt|54259 - DC - Sentença do Juiz de Fora de Maria Fagundes Portocarreiro e seu filho José Pinheiro Lobo contra João Fernandes da freguesia de Serreleis de Viana, sobre um cortelho]]
+  * [[78185.txt|78185 - DC - Notícia do campo do Mouro ou Muro, em Monte Alvão e Cachadas, freguesia de Mouquim que hoje possui a viúva de Manuel da Costa, da freguesia de S. Lucrécia, Louro]]
+  * [[78189.txt|78189 - DC - Lista de foros do casal de Montalvão de Manuel Costa]]
+  * [[98852.txt|98852 - DC - Sentença de José Pinho Lobo contra Manuel da Costa, de Mouquim, sobre o Campo de Grandal, na freguesia de Mouquim]]
+  * [[98885.txt|98885 - DC - Sentença de José Pinheiro Lobo contra João Fernandes, de S. Tiago da Cruz, sobre roçar mato em terras de Pindela]]

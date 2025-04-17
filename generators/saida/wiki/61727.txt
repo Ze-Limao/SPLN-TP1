@@ -1,0 +1,20 @@
+====== 61727 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - António de Azevedo Campos e Joaquina Rosa de Paiva, ele no Brasil e ela falecida
+Naturalidade - Ruivães
+Morada - Ignora-se
+Data de nascimento - 1861-09-12
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61727

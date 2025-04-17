@@ -1,0 +1,18 @@
+====== 48849 - DC - Registo do recenseamento eleitoral de Manuel Alves ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Louro
+Profissão - Lavrador
+Estado - Casado
+Morada - Outeirinho de Baixo
+Idade - 53
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48849
+**LangMaterial**:: Português
+**PhysLoc**:: 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48849

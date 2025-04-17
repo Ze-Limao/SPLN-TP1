@@ -1,0 +1,61 @@
+====== 97487 - SR - Autos de Acção com Processo Comum - Ordinário ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Acção com Processo Comum - Ordinário
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1950-09-09
+**UnitDateFinal**:: 1982-02-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97487
+
+===== Filhos =====
+  * [[80069.txt|80069 - UI - Processo nº 34]]
+  * [[97488.txt|97488 - UI - Processo nº 13]]
+  * [[97491.txt|97491 - UI - Processo nº 23]]
+  * [[97493.txt|97493 - UI - Processo nº 71]]
+  * [[97494.txt|97494 - UI - Processo nº 7]]
+  * [[97496.txt|97496 - UI - Processo nº 1]]
+  * [[97498.txt|97498 - UI - Processo nº 6]]
+  * [[97501.txt|97501 - UI - Processo nº 65]]
+  * [[97503.txt|97503 - UI - Processo nº 28]]
+  * [[97506.txt|97506 - UI - Processo nº 11]]
+  * [[97509.txt|97509 - UI - Processo nº 22]]
+  * [[97514.txt|97514 - UI - Processo nº 7]]
+  * [[97515.txt|97515 - UI - Processo nº 24]]
+  * [[97525.txt|97525 - UI - Processo nº 16]]
+  * [[97531.txt|97531 - UI - Processo nº 12]]
+  * [[97532.txt|97532 - UI - Processo nº 10]]
+  * [[97535.txt|97535 - UI - Processo nº 1]]
+  * [[97537.txt|97537 - UI - Processo nº 17]]
+  * [[97539.txt|97539 - UI - Processo nº 21]]
+  * [[97541.txt|97541 - UI - Processo nº 22]]
+  * [[97543.txt|97543 - UI - Processo nº 26]]
+  * [[97545.txt|97545 - UI - Processo nº 13]]
+  * [[97546.txt|97546 - UI - Processo nº 29]]
+  * [[97547.txt|97547 - UI - Processo nº 3]]
+  * [[97549.txt|97549 - UI - Processo nº 4]]
+  * [[97550.txt|97550 - UI - Processo nº 59]]
+  * [[97552.txt|97552 - UI - Processo nº 28]]
+  * [[97554.txt|97554 - UI - Processo nº 7]]
+  * [[97558.txt|97558 - UI - Processo nº 2]]
+  * [[97560.txt|97560 - UI - Processo nº 41]]
+  * [[97569.txt|97569 - UI - Processo nº 57]]
+  * [[97577.txt|97577 - UI - Processo nº 122]]
+  * [[97581.txt|97581 - UI - Processo nº 17]]
+  * [[97646.txt|97646 - UI - Processo nº 3]]
+  * [[97649.txt|97649 - UI - Processo nº 14]]
+  * [[97652.txt|97652 - UI - Processo nº 76]]
+  * [[97656.txt|97656 - UI - Processo nº 71]]
+  * [[97660.txt|97660 - UI - Processo nº 30]]
+  * [[97661.txt|97661 - UI - Processo nº 26]]
+  * [[97666.txt|97666 - UI - Processo nº 16]]
+  * [[97667.txt|97667 - UI - Processo nº 182]]
+  * [[97671.txt|97671 - UI - Processo nº 71]]
+  * [[97672.txt|97672 - UI - Processo nº 124]]
+  * [[97674.txt|97674 - UI - Processo nº 188]]
+  * [[97675.txt|97675 - UI - Processo nº 187]]
+  * [[97678.txt|97678 - UI - Processo nº 194]]
+  * [[97684.txt|97684 - UI - Processo nº 129]]
+  * [[97688.txt|97688 - UI - Processo nº 144]]

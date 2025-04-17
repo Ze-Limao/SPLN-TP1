@@ -1,0 +1,18 @@
+====== 29284 - DC - Mr. Jean Sisley  - deu no ultimo numero de Revue Horticule a segte formula para o fabrico de tinta indelevel ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Mr. Jean Sisley  - deu no ultimo numero de Revue Horticule a segte formula para o fabrico de tinta indelevel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1891
+**ScopeContent**:: Tinta indelével para etiquetas de zinco usadas em horticultura. Composição: tinta comum, sulfato de cobre.
+Jean Sisley (1804-1891) «French horticulture has lost one of its oldest and most intelligent adepts in the person of Jean Sisley, who died last January 12, 1891, at Montplaisir-Lyon, at the age of 87. Born at Flessingue, Holland, in 1804, Jean Sisley later became a naturalized Frenchman; he was the nephew of the famous painter Jean Van Duel. Mons Sisley was one of the creators of the Lyon Horticultural Circle, of which he was General Secretary, and which has since become the Lyon Horticultural Association.»
+Fonte: <www.helpmefind.com <http://www.helpmefind.com>
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29284
+**LangMaterial**:: Português
+**PhysLoc**:: AS 193 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29284

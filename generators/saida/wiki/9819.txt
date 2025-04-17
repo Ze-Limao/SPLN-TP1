@@ -1,0 +1,22 @@
+====== 9819 - SR - Tipografia Minerva 1930-1950 ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Tipografia Minerva 1930-1950
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1930
+**UnitDateFinal**:: 1950
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9819
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9819
+
+===== Filhos =====
+  * [[9820.txt|9820 - DC - V. N. de Famalicão - Praça da República]]
+  * [[9821.txt|9821 - DC - V. N. de Famalicão - Um aspecto da Praça 9 de Abril]]
+  * [[9822.txt|9822 - DC - Vila Nova de Famalicão - Praça da República]]
+  * [[9823.txt|9823 - DC - Vila Nova de Famalicão - Rua Adriano Pinto Basto]]
+  * [[9824.txt|9824 - DC - Vila Nova de Famalicão - Um aspecto da Feira de Setembro]]
+  * [[9825.txt|9825 - DC - Vila Nova de Famalicão - Um aspecto da Feira da Louça]]
+  * [[9826.txt|9826 - DC - Vila Nova de Famalicão - Um aspecto da Feira de Gado Bobino]]
+  * [[9827.txt|9827 - DC - Vila Nova de Famalicão. Igreja de Antas (Pórtico e Rosácea Mouriscas)]]

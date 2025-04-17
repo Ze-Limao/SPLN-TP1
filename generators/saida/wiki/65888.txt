@@ -1,0 +1,15 @@
+====== 65888 - DC - Escritura de nomeação que fazemos António Pedrosa procurador de sua mulher Joana Baptista de Matos, moradores em Vila do Conde e a seu filho Joaquim Crisóstomo ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de nomeação que fazemos António Pedrosa procurador de sua mulher Joana Baptista de Matos, moradores em Vila do Conde e a seu filho Joaquim Crisóstomo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1742-07-06
+**UnitDateFinal**:: 1742-07-06
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 601 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65888

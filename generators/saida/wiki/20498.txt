@@ -1,0 +1,20 @@
+====== 20498 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Bente
+Filiação - Manuel José de Araújo e Joana Ribeiro
+Naturalidade - Bente
+Data de nascimento - 1870-10-24
+Emprego - Estudante
+Estado - Solteiro
+Residência - Bente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20498
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20498

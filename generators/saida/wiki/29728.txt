@@ -1,0 +1,16 @@
+====== 29728 - DC - Carta ======
+
+**Parent**:: 21286
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-10-22
+**UnitDateFinal**:: 1915-10-22
+**ScopeContent**:: Carta manuscrita assinada, de R. Imprensa Nacional 73, 3º Lisboa. O autor agradece a visita ao Vinhal e ao Luso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29728
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1137 -  cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29728

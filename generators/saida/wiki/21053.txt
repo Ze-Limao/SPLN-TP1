@@ -1,0 +1,17 @@
+====== 21053 - UI - Álvaro María de las Casas ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Álvaro María de las Casas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1925-05-01
+**UnitDateFinal**:: 1925-05-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21053
+**LangMaterial**:: Castelhano
+**PhysLoc**:: JAM 80
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21053
+
+===== Filhos =====
+  * [[23926.txt|23926 - DC - Carta]]

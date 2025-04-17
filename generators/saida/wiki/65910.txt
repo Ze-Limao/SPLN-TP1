@@ -1,0 +1,15 @@
+====== 65910 - DC - Emprazamento do Casal da Cortinha, situado na freguesia de Avidos, feito pelo João Soares de Brito, abade de S. Tiago de Antas, a Maria Antónia, a filha e marido ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do Casal da Cortinha, situado na freguesia de Avidos, feito pelo João Soares de Brito, abade de S. Tiago de Antas, a Maria Antónia, a filha e marido
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1671-02-06
+**UnitDateFinal**:: 1671-02-06
+**ScopeContent**:: Manuscrito, original. Para carta de vedoria.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 646 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65910

@@ -1,0 +1,21 @@
+====== 28382 - DC - Conjunto de notas “Artigo Apropriação da terra e classes" ======
+
+**Parent**:: 28381
+**RootParent**:: 27963
+**UnitTitle**:: Conjunto de notas “Artigo Apropriação da terra e classes"
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28382
+**LangMaterial**:: Português
+**PhysLoc**:: AS 57 (1) a 57 (5)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28382
+
+===== Filhos =====
+  * [[28383.txt|28383 - DC - Artigo Apropriação da terra e classes]]
+  * [[29841.txt|29841 - DC - V. sobre uma forma especial de propriedade]]
+  * [[29842.txt|29842 - DC - Rev. pág. 32 O absentismo]]
+  * [[29843.txt|29843 - DC - A propósito do “morcellement"]]
+  * [[29844.txt|29844 - DC - Veja-se a este respeito “L’ organization du travail"]]

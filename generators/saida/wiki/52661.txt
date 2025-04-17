@@ -1,0 +1,18 @@
+====== 52661 - DC - Registo do recenseamento militar de José Joaquim Fortunato ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Joaquim Fortunato
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-06-18
+Filiação - Firmino de Alpoim Fortunato e Augusta Angélica Teixeira
+Naturalidade - Vale S. Martinho
+Profissão - Lavrador
+Residência - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52661
+**LangMaterial**:: Português
+**PhysLoc**:: 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52661

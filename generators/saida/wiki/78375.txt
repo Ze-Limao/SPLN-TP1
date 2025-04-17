@@ -1,0 +1,17 @@
+====== 78375 - DC - Declaração de Clara de Gouveia sobre um recebimento em dinheiro de Luís Pinto de Magalhães ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Declaração de Clara de Gouveia sobre um recebimento em dinheiro de Luís Pinto de Magalhães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1702-11-25
+**UnitDateFinal**:: 1702-11-25
+**ScopeContent**:: Manuscrito em papel timbrado 10 reis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4991 - cx. 36
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78375

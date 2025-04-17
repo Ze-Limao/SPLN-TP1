@@ -1,0 +1,17 @@
+====== 54104 - DC - Panfletos publicitários ======
+
+**Parent**:: 54091
+**RootParent**:: 25851
+**UnitTitle**:: Panfletos publicitários
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954
+**UnitDateFinal**:: 1961
+**ScopeContent**:: Carimbo de João Félix da Silva Capucho, selada e assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54104
+**LangMaterial**:: Português, Inglês
+**PhysLoc**:: JG 169(9) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54104

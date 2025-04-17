@@ -1,0 +1,16 @@
+====== 60630 - SSC - Expediente ======
+
+**Parent**:: 60626
+**RootParent**:: 60540
+**UnitTitle**:: Expediente
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1835
+**UnitDateFinal**:: 1884
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20060
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60630
+
+===== Filhos =====
+  * [[60660.txt|60660 - SR - Registo de escrituras]]
+  * [[60662.txt|60662 - SR - Correspondência expedida]]

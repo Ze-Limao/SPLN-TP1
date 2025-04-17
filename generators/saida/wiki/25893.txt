@@ -1,0 +1,16 @@
+====== 25893 - DC - Retrato de conjunto da Direção da Associação Humanitária dos Bombeiros Voluntários de Vila Nova de Famalicão ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Retrato de conjunto da Direção da Associação Humanitária dos Bombeiros Voluntários de Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926
+**UnitDateFinal**:: 1926
+**ScopeContent**:: Fotografia de conjunto legendada. Foi tirada no exterior nas traseiras do quartel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25893
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25893

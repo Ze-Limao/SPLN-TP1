@@ -1,0 +1,16 @@
+====== 22414 - DC - Registo do recenseamento eleitoral de Francisco José Rodrigues ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco José Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Joane
+Profissão - Tamanqueiro
+Morada - Montilhão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22414
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22414

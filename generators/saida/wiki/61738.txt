@@ -1,0 +1,16 @@
+====== 61738 - DC - Estrela da Manhã, Cidade Hoje, Notícias de Famalicão ======
+
+**Parent**:: 61448
+**RootParent**:: 60551
+**UnitTitle**:: Estrela da Manhã, Cidade Hoje, Notícias de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1978-03-08
+**UnitDateFinal**:: 2014-05-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 399 - cx. 7
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61738

@@ -1,0 +1,26 @@
+====== 29884 - DC - Extractos de vários autores ======
+
+**Parent**:: 28381
+**RootParent**:: 27963
+**UnitTitle**:: Extractos de vários autores
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29884
+**LangMaterial**:: Português
+**PhysLoc**:: AS 62 (1) a 62 (10)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29884
+
+===== Filhos =====
+  * [[29885.txt|29885 - DC - Extractos de vários autores]]
+  * [[29886.txt|29886 - DC - V. Dumoulin]]
+  * [[29887.txt|29887 - DC - Inquérito sobre habitações pelas classes operárias]]
+  * [[29888.txt|29888 - DC - Sobre as Caixas de Depósito pelo Estado]]
+  * [[29889.txt|29889 - DC - Notas geológicas - G. agr. Eug. Risler]]
+  * [[29890.txt|29890 - DC - Regime das águas nos terr. gran. - Risler]]
+  * [[29891.txt|29891 - DC - Gados Risler]]
+  * [[29892.txt|29892 - DC - Extracts of Mr. Henry George’s Social Problems]]
+  * [[29893.txt|29893 - DC - Speeches of the right hon. Joseph Chamberlain]]
+  * [[29894.txt|29894 - DC - John Boyd Kinner Principles of property in land (Extracts)]]

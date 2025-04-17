@@ -1,0 +1,42 @@
+====== 7693 - SR - Livros de Notas ======
+
+**Parent**:: 7692
+**RootParent**:: 7651
+**UnitTitle**:: Livros de Notas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1881-04-30
+**UnitDateFinal**:: 1982-05-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7693
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7693
+
+===== Filhos =====
+  * [[7694.txt|7694 - UI - Livro de Notas Nº 1]]
+  * [[7695.txt|7695 - UI - Livro de Notas Nº 8]]
+  * [[7696.txt|7696 - UI - Livro de Notas Nº 9]]
+  * [[7699.txt|7699 - UI - Livros de Notas Nº 10]]
+  * [[7700.txt|7700 - UI - Livro de Notas Nº 11]]
+  * [[7701.txt|7701 - UI - Livro de Notas Nº 12]]
+  * [[7702.txt|7702 - UI - Livro de Notas Nº 15]]
+  * [[7703.txt|7703 - UI - Livro de Notas Nº 16]]
+  * [[7704.txt|7704 - UI - Livro de Notas Nº 17]]
+  * [[7705.txt|7705 - UI - Livro de Notas Nº 18]]
+  * [[7706.txt|7706 - UI - Livro de Notas Nº 19]]
+  * [[7707.txt|7707 - UI - Livro de Notas Nº 20]]
+  * [[7708.txt|7708 - UI - Livro de Notas Nº 22]]
+  * [[7709.txt|7709 - UI - Livro de Notas Nº 23]]
+  * [[7710.txt|7710 - UI - Livro de Notas Nº 25]]
+  * [[7711.txt|7711 - UI - Livro de Notas Nº 26]]
+  * [[7712.txt|7712 - UI - Livro de Notas Nº 27]]
+  * [[7713.txt|7713 - UI - Livro de Notas Nº 29]]
+  * [[7714.txt|7714 - UI - Livro de Notas Nº 30]]
+  * [[7715.txt|7715 - UI - Livro de Notas Nº 31]]
+  * [[7716.txt|7716 - UI - Livro de Notas Nº 32]]
+  * [[7717.txt|7717 - UI - Livro de Notas Nº 33]]
+  * [[7718.txt|7718 - UI - Livro de Notas Nº 34]]
+  * [[7719.txt|7719 - UI - Livro de Notas Nº 35]]
+  * [[7720.txt|7720 - UI - Livro de Notas Nº 36]]
+  * [[7721.txt|7721 - UI - Livro de Notas Nº 37]]
+  * [[7722.txt|7722 - UI - Livro de Notas Nº 38]]
+  * [[7723.txt|7723 - UI - Livro de Notas Nº 39]]
+  * [[7724.txt|7724 - UI - Livro de Notas Nº 40]]

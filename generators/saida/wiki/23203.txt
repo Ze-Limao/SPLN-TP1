@@ -1,0 +1,16 @@
+====== 23203 - DC - Registo do recenseamento eleitoral de Manuel Pinto Borges Carneiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Pinto Borges Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Requião
+Profissão - Lavrador
+Morada - Valbom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23203
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 63v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23203

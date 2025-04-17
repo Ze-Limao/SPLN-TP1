@@ -1,0 +1,18 @@
+====== 8958 - DC - Termo do exame de Maria da Silva Monteiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Maria da Silva Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-08-01
+**UnitDateFinal**:: 1894-08-01
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - José Alves da Silva Monteiro
+Naturalidade - Cedofeita, Porto
+Classificação - Distinta
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8958
+**LangMaterial**:: Português
+**PhysLoc**:: f. 75v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8958

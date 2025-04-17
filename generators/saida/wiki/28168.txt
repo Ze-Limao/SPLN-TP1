@@ -1,0 +1,16 @@
+====== 28168 - DC - Uvas de mesa ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Uvas de mesa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-02
+**UnitDateFinal**:: 1900
+**ScopeContent**:: É uma capa e só tem escrito o título.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28168
+**LangMaterial**:: Português
+**PhysLoc**:: AS 440 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28168

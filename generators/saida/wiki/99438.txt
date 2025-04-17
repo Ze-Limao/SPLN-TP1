@@ -1,0 +1,14 @@
+====== 99438 - UI - Bernardo João Moreira ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Bernardo João Moreira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-08-11
+**UnitDateFinal**:: 1916-08-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99438
+
+===== Filhos =====
+  * [[99440.txt|99440 - DC - Carta]]

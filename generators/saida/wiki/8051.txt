@@ -1,0 +1,15 @@
+====== 8051 - DC - Termo de Joaquim Alves de Sousa ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Joaquim Alves de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-04-08
+**UnitDateFinal**:: 1878-04-08
+**ScopeContent**:: Contrução de habitação
+Local - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8051
+**LangMaterial**:: Português
+**PhysLoc**:: f. 22
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8051

@@ -1,0 +1,16 @@
+====== 29779 - DC - Carta ======
+
+**Parent**:: 21306
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-11-28
+**UnitDateFinal**:: 1884-11-28
+**ScopeContent**:: Carta manuscrita assinada, de Braga. Vem convidar JAM para falar na Academia - Direção da Associação Católica.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29779
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1188 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29779

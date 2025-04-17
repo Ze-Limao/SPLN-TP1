@@ -1,0 +1,24 @@
+====== 20381 - SSC - Registo de incêndios ======
+
+**Parent**:: 20375
+**RootParent**:: 20342
+**UnitTitle**:: Registo de incêndios
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1890-06-22
+**UnitDateFinal**:: 1986-07-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20381
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20381
+
+===== Filhos =====
+  * [[25059.txt|25059 - UI - Livro de Registo de incêndios nº1]]
+  * [[25060.txt|25060 - UI - Registo de incêndios nº2]]
+  * [[25061.txt|25061 - UI - Livro de registo de incêndios nº3]]
+  * [[25062.txt|25062 - UI - Registo de incêndios nº4]]
+  * [[25063.txt|25063 - UI - Registos de incêndios nº5]]
+  * [[25064.txt|25064 - UI - Registo de incêndios nº6]]
+  * [[25065.txt|25065 - UI - Registo de incêndios]]
+  * [[25066.txt|25066 - UI - Registo de incêndios]]
+  * [[25067.txt|25067 - UI - Registo de incêndios]]

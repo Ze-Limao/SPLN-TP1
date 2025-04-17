@@ -1,0 +1,15 @@
+====== 31316 - SSSC - Estudante em Coimbra ======
+
+**Parent**:: 31313
+**RootParent**:: 31258
+**UnitTitle**:: Estudante em Coimbra
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1879
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31316
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31316
+
+===== Filhos =====
+  * [[31317.txt|31317 - SR - Correspondência recebida]]
+  * [[54367.txt|54367 - SR - Documentos]]

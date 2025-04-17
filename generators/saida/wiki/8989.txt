@@ -1,0 +1,13 @@
+====== 8989 - DC - Ofício nº 13 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 13
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-04-16
+**UnitDateFinal**:: 1885-04-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8989
+**LangMaterial**:: Português
+**PhysLoc**:: f. 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8989

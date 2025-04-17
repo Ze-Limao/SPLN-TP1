@@ -1,0 +1,16 @@
+====== 25025 - UI - Circulares; Folhas soltas; Jornal Estrela da Manhã ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Circulares; Folhas soltas; Jornal Estrela da Manhã
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1967-04-01
+**UnitDateFinal**:: 1981-03-25
+**ScopeContent**:: Contém: Circulares 1 abril 1967 a informar do envio do cartão do sorteio com informações; Folhas soltas; 1 Jornal Estrela da Manhã 25 março 1981
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25025
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 128 - cx. 32
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25025

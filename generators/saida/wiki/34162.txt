@@ -1,0 +1,19 @@
+====== 34162 - DC - Registo do recenseamento militar de Bernardino Ferreira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Louro
+Data de nascimento 1852-04-26- 
+Filiação - Manuel José Ferreira e Joana Maria
+Profissão - Pedreiro
+Estado - 
+Morada - Minhotães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34162
+**LangMaterial**:: Português
+**PhysLoc**:: 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34162

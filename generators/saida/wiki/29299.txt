@@ -1,0 +1,16 @@
+====== 29299 - DC - Argamassa para muros subterrâneos indicada por Cesário ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Argamassa para muros subterrâneos indicada por Cesário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Composição: cal hidráulica, cal magra ou cal de Ovar e areia. Quintal é uma medida antiga de peso equivalente a 4 arrobas, tal como a braça, também uma medida antiga mas de comprimento equivalente a 2,2 metros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29299
+**LangMaterial**:: Português
+**PhysLoc**:: AS 206 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29299

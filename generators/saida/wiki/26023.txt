@@ -1,0 +1,16 @@
+====== 26023 - DC - Carta ======
+
+**Parent**:: 21208
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-07-03
+**UnitDateFinal**:: 1905-07-03
+**ScopeContent**:: Carta manuscrita assinada, da Rua Entreparedes, 43 Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26023
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 817- cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26023

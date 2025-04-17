@@ -1,0 +1,16 @@
+====== 61393 - DC - Confraternidade ======
+
+**Parent**:: 60929
+**RootParent**:: 60550
+**UnitTitle**:: Confraternidade
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1910-09-23
+**ScopeContent**:: Livro impresso em Famalicão: Tipografia Minerva. Tem colado uma carta de José Pereira de Sampaio, 1910-09-23.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 171 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61393

@@ -1,0 +1,15 @@
+====== 8005 - DC - Termo de José da Cunha Sampaio ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José da Cunha Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-09-23
+**UnitDateFinal**:: 1868-09-23
+**ScopeContent**:: Ampliação de uma mina de água
+Local - Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8005
+**LangMaterial**:: Português
+**PhysLoc**:: f. 29
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8005

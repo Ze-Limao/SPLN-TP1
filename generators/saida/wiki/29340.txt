@@ -1,0 +1,16 @@
+====== 29340 - DC - Para pustulas (Formula antiga do Hospital da Misericordia de Guimaraens) ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: Para pustulas (Formula antiga do Hospital da Misericordia de Guimaraens)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Escrita por Alberto Sampaio. Composição da receita: alvaiade, pós de Joane, azeite. Trata-se de uma mistura de carbonato básico de chumbo, conhecido pelo termo alvaiade, com “pós de Joane” e azeite, o necessário para fazer um linimento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29340
+**LangMaterial**:: Português
+**PhysLoc**:: AS 235 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29340

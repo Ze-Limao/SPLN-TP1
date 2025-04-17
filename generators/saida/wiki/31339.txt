@@ -1,0 +1,24 @@
+====== 31339 - SR - Vida de estudante no liceu e no Real Colégio Militar ======
+
+**Parent**:: 31336
+**RootParent**:: 31258
+**UnitTitle**:: Vida de estudante no liceu e no Real Colégio Militar
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1904-06-01
+**UnitDateFinal**:: 1912
+**ScopeContent**:: Documentos relacionados com a vida de estudante no Liceu Nacional e Central de Braga. Documentos de estudo do Real Colégio Militar.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31339
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31339
+
+===== Filhos =====
+  * [[54485.txt|54485 - DC - Caderno de Chimica]]
+  * [[54495.txt|54495 - DC - Caderno de Chimica]]
+  * [[54496.txt|54496 - DC - Invertebrados]]
+  * [[54497.txt|54497 - DC - Geometria 3º ano]]
+  * [[56774.txt|56774 - DC - Caderno de apontamentos de Matemática]]
+  * [[56775.txt|56775 - DC - Potencias]]
+  * [[56776.txt|56776 - DC - Capa de caderno]]
+  * [[56777.txt|56777 - DC - Apontamentos de Algebra]]
+  * [[60210.txt|60210 - DC - Documentos da vida estudantil no Liceu Nacional e Central de Braga enquanto estudante monárquico]]
+  * [[60237.txt|60237 - DC - Caderno diário]]

@@ -1,0 +1,17 @@
+====== 53848 - DC - C.M.F. - P 28 A - Pormenores da Pala de Ferro do Átrio da Entrada de 2C10 ======
+
+**Parent**:: 53747
+**RootParent**:: 25851
+**UnitTitle**:: C.M.F. - P 28 A - Pormenores da Pala de Ferro do Átrio da Entrada de 2C10
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1961
+**ScopeContent**:: Cópia de planta. Pormenores - Escalas: 1/5 e Tamanho Natural.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53848
+**LangMaterial**:: Português
+**PhysLoc**:: JG 69 - cx. 3
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53848

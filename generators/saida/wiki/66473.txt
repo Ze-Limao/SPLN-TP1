@@ -1,0 +1,15 @@
+====== 66473 - DC - Pedido de batismo por Miguel Rodrigues Pereira, da freguesia de S. Tiago de Antas, para sua filha, logo que os padrinhos venham do Porto ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de batismo por Miguel Rodrigues Pereira, da freguesia de S. Tiago de Antas, para sua filha, logo que os padrinhos venham do Porto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-05-09
+**UnitDateFinal**:: 1867-05-09
+**ScopeContent**:: Manuscrito, original, com selo fiscal de 40 reis. Em cima, o deferimento de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 502 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66473

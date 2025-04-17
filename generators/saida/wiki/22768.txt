@@ -1,0 +1,16 @@
+====== 22768 - DC - Registo do recenseamento eleitoral de João de Azevedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Mogege
+Profissão - Lavrador
+Morada - Mourisco
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22768
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 49v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22768

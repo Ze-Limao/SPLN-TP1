@@ -1,0 +1,16 @@
+====== 23335 - DC - Registo do recenseamento eleitoral de Manuel Joaquim de Azevedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Joaquim de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Carpinteiro
+Morada - Bragadela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23335
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23335

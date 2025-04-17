@@ -1,0 +1,20 @@
+====== 63355 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - José Alves de Azevedo e Maria Josefa Gomes, falecidos
+Naturalidade - Vilarinho das Cambas
+Morada - Ignora-se
+Data de nascimento - 1864-04-02
+Emprego - Criado de servir
+Estado - Solteiro
+Residência acidental - Maia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63355

@@ -1,0 +1,19 @@
+====== 9499 - DC - Registo do recenseamento militar de José Maria ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Maria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Miranda e Maria Rodrigues
+Naturalidade - Airão
+Data de nascimento - 1877-04-27
+Profissão - 
+Estado civil - 
+Residência - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9499
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9499

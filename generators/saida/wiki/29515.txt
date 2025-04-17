@@ -1,0 +1,16 @@
+====== 29515 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02
+**UnitDateFinal**:: 1882-02
+**ScopeContent**:: Carta expedida numa 2ª feira, de Vila do Conde?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29515
+**LangMaterial**:: Português
+**PhysLoc**:: AS 756 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29515

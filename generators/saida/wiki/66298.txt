@@ -1,0 +1,15 @@
+====== 66298 - DC - Doutor Paulo de Mesquita foi juiz desembargador na causa de suplicações... ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Doutor Paulo de Mesquita foi juiz desembargador na causa de suplicações...
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1799-07-19
+**UnitDateFinal**:: 1799-07-19
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 436 - cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66298

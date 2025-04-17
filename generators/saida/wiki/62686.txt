@@ -1,0 +1,19 @@
+====== 62686 - DC - Registo do recenseamento militar de Camilo ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Camilo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - José António dos Santos e Ana Gonçalves, ele falecido e ela na freguesia
+Naturalidade - Ribeirão
+Morada - Ribeirão
+Data de nascimento - 1863-05-13
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62686

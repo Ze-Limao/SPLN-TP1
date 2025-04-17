@@ -1,0 +1,17 @@
+====== 55238 - DC - Carta ======
+
+**Parent**:: 55115
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-01-06
+**UnitDateFinal**:: 1910-01-06
+**ScopeContent**:: Carta manuscrita assinada, em papel timbrado "Palat Hotel Hamburg". Esta carta pertence ao maço "Processo Arroyo e Amor de Perdição".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55238
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2294 - cx. 16
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55238

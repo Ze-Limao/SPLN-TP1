@@ -1,0 +1,15 @@
+====== 64096 - DC - Rol dos confessados e confessadas da Igreja de S. Tiago de Antas na Quaresma do ano de 1870 ======
+
+**Parent**:: 64091
+**RootParent**:: 60536
+**UnitTitle**:: Rol dos confessados e confessadas da Igreja de S. Tiago de Antas na Quaresma do ano de 1870
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870-04-22
+**UnitDateFinal**:: 1870-04-22
+**ScopeContent**:: Manuscrito, original, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 266 - cx. 14
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64096

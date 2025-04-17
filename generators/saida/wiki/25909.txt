@@ -1,0 +1,16 @@
+====== 25909 - DC - Imagens do exercício final com máscaras antigás realizado na casa-escola da Corporação ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Imagens do exercício final com máscaras antigás realizado na casa-escola da Corporação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1935-07
+**UnitDateFinal**:: 1935-07
+**ScopeContent**:: Sequência de imagens do exercício sob direção Comandante Tenente António Armando Lopes e António Folhadela Melo, com legenda anexa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25909
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25909

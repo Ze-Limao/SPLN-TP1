@@ -1,0 +1,19 @@
+====== 9557 - DC - Registo do recenseamento militar de Abílio ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Abílio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José da Costa Rodrigues de Carvalho e Joana de Sá
+Naturalidade - Calendário
+Data de nascimento - 1875-06-02
+Profissão - Lavrador
+Estado civil - Solteiro
+Residência - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9557
+**LangMaterial**:: Português
+**PhysLoc**:: f. 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9557

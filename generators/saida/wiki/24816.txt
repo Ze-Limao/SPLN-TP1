@@ -1,0 +1,16 @@
+====== 24816 - DC - Carta ======
+
+**Parent**:: 21071
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-07-29
+**UnitDateFinal**:: 1919-07-29
+**ScopeContent**:: Carta manuscrita assinada, de Casa de Samaiões, Chaves.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24816
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 252 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24816

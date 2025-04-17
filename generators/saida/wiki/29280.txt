@@ -1,0 +1,16 @@
+====== 29280 - DC - Cera para enxerto ======
+
+**Parent**:: 29279
+**RootParent**:: 27963
+**UnitTitle**:: Cera para enxerto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872
+**UnitDateFinal**:: 1872
+**ScopeContent**:: Composição: cera amarela, terebintina, resina e sebo. Este preparado, de acordo com a anotação abreviada que aparece a seguir às quantidades dos ingredientes, foi transcrito a partir do Journal d’ horticulture pratique, n. 11, 1871. Numa nota final, Alberto Sampaio questiona se se pode empregar a cera fria, acrescentando a seguir: «Convém experimentar».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29280
+**LangMaterial**:: Português
+**PhysLoc**:: AS 190 (1) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29280

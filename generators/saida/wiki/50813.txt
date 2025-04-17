@@ -1,0 +1,18 @@
+====== 50813 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-02-07
+Filiação - António José de Faria e Bernardina Xavier Forte
+Naturalidade - Joane
+Profissão - Lavrador
+Residência - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50813
+**LangMaterial**:: Português
+**PhysLoc**:: 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50813

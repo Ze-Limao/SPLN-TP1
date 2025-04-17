@@ -1,0 +1,14 @@
+====== 56743 - UI - José de Brito ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: José de Brito
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56743
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56743
+
+===== Filhos =====
+  * [[56744.txt|56744 - DC - Cartão de visita]]

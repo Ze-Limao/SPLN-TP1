@@ -1,0 +1,17 @@
+====== 58131 - DC - Licença especial de caça grossa e Regulamento para caça grossa na Serra do Gerês ======
+
+**Parent**:: 31341
+**RootParent**:: 31258
+**UnitTitle**:: Licença especial de caça grossa e Regulamento para caça grossa na Serra do Gerês
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 193
+**UnitDateFinal**:: 193
+**ScopeContent**:: Impressos em papel timbrado do "Serviços Florestais - Serra do Gerez" para preencher. A licença de caça e talão refere-se à caça do corço e javali. Regulamento de 3 de Março 1896 para a caça grossa na serra do Gerês, regulamento especial para caça do cabrito montês e do corço.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58131
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2427 - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=58131

@@ -1,0 +1,18 @@
+====== 46986 - DC - Registo do recenseamento eleitoral de João Barbosa ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Sezures
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Igreja
+Idade - 74
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46986
+**LangMaterial**:: Português
+**PhysLoc**:: 62v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46986

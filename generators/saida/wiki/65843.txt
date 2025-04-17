@@ -1,0 +1,15 @@
+====== 65843 - DC - Emprazamento do casal Alvarelho, situado na freguesia S. Cristovão do Muro, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Ana Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal Alvarelho, situado na freguesia S. Cristovão do Muro, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Ana Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1554-04-13
+**UnitDateFinal**:: 1554-04-13
+**ScopeContent**:: Manuscrito, original, com selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 279 - cx. P28
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65843

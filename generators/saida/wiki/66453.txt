@@ -1,0 +1,15 @@
+====== 66453 - DC - Pedido para contrair matrimónio José da Costa, filho legítimo de Domingos José da Costa e sua mulher Mafalda Rodrigues, moradores em S. Tiago de Antas, com Cristina, filha ilegítima de Ana Rita e de Manuel José Dias, legitimada por este, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido para contrair matrimónio José da Costa, filho legítimo de Domingos José da Costa e sua mulher Mafalda Rodrigues, moradores em S. Tiago de Antas, com Cristina, filha ilegítima de Ana Rita e de Manuel José Dias, legitimada por este, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1867
+**ScopeContent**:: Manuscrito, original, sem datação. Documento parcialmente igual ao CSTA 457.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 491 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66453

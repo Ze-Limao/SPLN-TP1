@@ -1,0 +1,16 @@
+====== 30289 - DC - Carta ======
+
+**Parent**:: 21447
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-07-28
+**UnitDateFinal**:: 1915-07-28
+**ScopeContent**:: Carta manuscrita e assinada. Carta de papel de luto. Papel timbrado "Joaquim leitão. R. Duque de Palmela, 21...Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30289
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1441 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30289

@@ -1,0 +1,16 @@
+====== 27927 - DC - Carta ======
+
+**Parent**:: 21260
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-12-23
+**UnitDateFinal**:: 1914-12-23
+**ScopeContent**:: Carta manuscrita assinada, da Quinta do Alto da Nespereira, Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27927
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1021 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27927

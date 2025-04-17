@@ -1,0 +1,16 @@
+====== 28076 - DC - Convocatória de acionistas, apresentação de propostas e parecer do Conselho Fiscal. ======
+
+**Parent**:: 29457
+**RootParent**:: 27963
+**UnitTitle**:: Convocatória de acionistas, apresentação de propostas e parecer do Conselho Fiscal.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-06-13
+**UnitDateFinal**:: 1889-06-14
+**ScopeContent**:: Impresso com convocatória aos accionistas, assinada pelo secretário Domingos José Ribeiro Guimarães, para a constituição de uma assembleia-geral extraordinária no escritório da Companhia, situado na Rua Paio Galvão, seguida na mesma página, da apresentação de duas propostas. Na segunda folha é apresentado o parecer do Conselho Fiscal, constituído por João Evangelista Machado da Cunha Faria e Almeida e Joaquim Bernardino Guimarães, com data de 13 de Junho de 1889.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28076
+**LangMaterial**:: Português
+**PhysLoc**:: AS 168- cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28076

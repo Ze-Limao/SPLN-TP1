@@ -1,0 +1,14 @@
+====== 63956 - SR - Obrigações ======
+
+**Parent**:: 60536
+**RootParent**:: 60536
+**UnitTitle**:: Obrigações
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1707-11-07
+**UnitDateFinal**:: 1707-11-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60704
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63956
+
+===== Filhos =====
+  * [[63957.txt|63957 - UI - Livro das obrigações paroquiais, bens e costumes da Igreja de S. Tiago de Antas]]

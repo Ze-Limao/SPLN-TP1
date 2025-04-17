@@ -1,0 +1,18 @@
+====== 21242 - UI - Maria Leonor Archer Guedes da Silva da Fonseca ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Maria Leonor Archer Guedes da Silva da Fonseca
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1925-05-25
+**UnitDateFinal**:: 1925-05-25
+**ScopeContent**:: Maria Leonor Archer Guedes da Silva da Fonseca nasceu a 13 Julho 1903 em Miragaia, Porto e morreu a 7 Dezembro 1999. Filha de Manuel Guedes da Silva da Fonseca e Maria Leonor da Silva Archer. Casou com Fernando Hércules Moreira de Almeida. Era prima de JAM.
+Fonte Geni.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21242
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 967
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21242
+
+===== Filhos =====
+  * [[26171.txt|26171 - DC - Carta]]

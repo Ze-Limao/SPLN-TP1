@@ -1,0 +1,15 @@
+====== 21030 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7707
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1948-12-17
+**UnitDateFinal**:: 1948-12-17
+**ScopeContent**:: Empreitada de construção da estrada municipal de Joane (EN206) a Pedome. Lanço de Mogege a Pedome. Primeira fase
+Outorgante - Joaquim Tinoco Osório
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21030
+**LangMaterial**:: Papel
+**PhysLoc**:: fl. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21030

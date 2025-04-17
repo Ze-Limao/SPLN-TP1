@@ -1,0 +1,17 @@
+====== 60228 - DC - Comissão de Viticultura. Serviço Central. Assumptos tratados. Regulamentação da região de Lafões. Bebida refrigerante de uvas ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Assumptos tratados. Regulamentação da região de Lafões. Bebida refrigerante de uvas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1930
+**UnitDateFinal**:: 1930
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes  documentos datilografados: ofícios; Bebida Refrigerante de uvas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57243
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9546 - cx. 60
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60228

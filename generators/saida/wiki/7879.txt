@@ -1,0 +1,29 @@
+====== 7879 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1855-01-18
+**UnitDateFinal**:: 1855-02-03
+**ScopeContent**:: 'Recenseamento dos eleitores e elegíveis (...) segundo o disposto no decreto de 30 de setembro de 1852 (...)'
+
+Contém dados sobre:
+1 - Freguesia
+2 - Nome
+3 - Décima e contribuições
+4 - Renda provada
+5 - Qualificação literária
+6 - Emprego ou profissão
+7 - Estado
+8 - Morada
+9 - Idade
+10 - Eleitores e elegíveis
+11 - Observações
+
+Além das atuais freguesias (excepto Gondifelos) e Aves surge a freguesia de Balazar, tendo deixado de fazer parte do concelho Ferreiró e Serzedelo. Arnoso Mosteiro continua como freguesia autónoma, permanecendo as anexações de Gemunde a Brufe, Oliveira S. Mateus a Delães e Novais a Ruivães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7879
+**LangMaterial**:: Português
+**PhysLoc**:: 1.1.1.5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7879

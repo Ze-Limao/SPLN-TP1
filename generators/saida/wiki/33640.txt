@@ -1,0 +1,36 @@
+====== 33640 - UI - Ana Rufina de Melo Breyner ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Ana Rufina de Melo Breyner
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1866
+**UnitDateFinal**:: 1900-05-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33640
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33640
+
+===== Filhos =====
+  * [[33641.txt|33641 - DC - Carta]]
+  * [[33642.txt|33642 - DC - Carta]]
+  * [[33643.txt|33643 - DC - Carta]]
+  * [[33644.txt|33644 - DC - Carta]]
+  * [[33645.txt|33645 - DC - Carta]]
+  * [[33646.txt|33646 - DC - Carta]]
+  * [[33647.txt|33647 - DC - Cartão]]
+  * [[33648.txt|33648 - DC - Carta]]
+  * [[33649.txt|33649 - DC - Carta]]
+  * [[33650.txt|33650 - DC - Bilhete-postal]]
+  * [[33651.txt|33651 - DC - Carta]]
+  * [[33652.txt|33652 - DC - Telegrama para Viscondes de Pindela]]
+  * [[33653.txt|33653 - DC - Carta]]
+  * [[33654.txt|33654 - DC - Carta]]
+  * [[33655.txt|33655 - DC - Carta]]
+  * [[33656.txt|33656 - DC - Carta]]
+  * [[33657.txt|33657 - DC - Carta]]
+  * [[33658.txt|33658 - DC - Carta]]
+  * [[33659.txt|33659 - DC - Carta]]

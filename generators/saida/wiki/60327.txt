@@ -1,0 +1,14 @@
+====== 60327 - UI - Georges ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Georges
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-09-29
+**UnitDateFinal**:: 1911-09-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60327
+
+===== Filhos =====
+  * [[60328.txt|60328 - DC - Carta]]

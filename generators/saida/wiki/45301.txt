@@ -1,0 +1,17 @@
+====== 45301 - DC - Cartão de visita ======
+
+**Parent**:: 45300
+**RootParent**:: 31258
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Cartão de visita com nome e local impresso, do Paço de Vitorino, Ponte de Lima.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45301
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5248 - cx. 38
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45301

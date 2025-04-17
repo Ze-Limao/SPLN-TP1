@@ -1,0 +1,16 @@
+====== 25810 - DC - Pela verdade: Protesto e desaffronta ======
+
+**Parent**:: 25084
+**RootParent**:: 20342
+**UnitTitle**:: Pela verdade: Protesto e desaffronta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Livreto da Real Associação Humanitária dos Bombeiros Voluntários de Famalicão. Impresso em Famalicão pela Typographia Minerva.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25810
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 182 - cx. 46
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25810

@@ -1,0 +1,15 @@
+====== 31377 - SR - Correspondência recebida e enviada ======
+
+**Parent**:: 31376
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida e enviada
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1872-11-09
+**UnitDateFinal**:: 1936
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31377
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31377
+
+===== Filhos =====
+  * [[60611.txt|60611 - UI - Anselmo de Sousa Botelho Mourão e Vasconcelos]]
+  * [[60618.txt|60618 - UI - Irmã não identificada]]

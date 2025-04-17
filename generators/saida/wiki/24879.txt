@@ -1,0 +1,16 @@
+====== 24879 - DC - Carta ======
+
+**Parent**:: 21081
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1874
+**UnitDateFinal**:: 1878
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Redacção- Portugal Antigo e Moderno".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24879
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 312 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24879

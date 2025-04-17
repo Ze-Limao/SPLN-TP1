@@ -1,0 +1,17 @@
+====== 60593 - DC - Pulaski´s Banner ======
+
+**Parent**:: 60595
+**RootParent**:: 31258
+**UnitTitle**:: Pulaski´s Banner
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-09
+**UnitDateFinal**:: 1867-09
+**ScopeContent**:: Folha manuscrita por Anselmo durante o internato no de St. Marys College, Oscott (Inglaterra). Folha provavelmente junta com as cartas CP 4316, CP 4317. Faz parte do conjunto CP 4318 a CP 4320.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53091
+**LangMaterial**:: Inglês
+**PhysLoc**:: CP 4318 - cx. 32
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60593

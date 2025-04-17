@@ -1,0 +1,15 @@
+====== 80021 - UI - Processo nº 15 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 15
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-05-09
+**UnitDateFinal**:: 1969-12-31
+**ScopeContent**:: Junto com Processo Autos de Execução de Custas nº 197 e 315/69.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 34 - cx. 3
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80021

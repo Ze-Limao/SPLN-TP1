@@ -1,0 +1,16 @@
+====== 25501 - DC - Carta ======
+
+**Parent**:: 21129
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-03-03
+**UnitDateFinal**:: 1898-03-03
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado do "Governo Civil de Braga. Gabinete do Secretário Geral". Gaspar Malheiro Pereira Ferraz Peixoto informa que vai a Vila Nova de Famalicão pessoalmente para resolver a questão da construção do cemitério (a construir no lugar de Moço Morte, Gavião).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25501
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 458 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25501

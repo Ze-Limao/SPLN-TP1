@@ -1,0 +1,15 @@
+====== 24762 - UI - Correspondência recebida/expedida ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-02-13
+**UnitDateFinal**:: 1970-06-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24762
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 21 - cx. 5
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24762

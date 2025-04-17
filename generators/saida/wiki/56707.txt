@@ -1,0 +1,17 @@
+====== 56707 - DC - Desenho de tecido com medidas ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Desenho de tecido com medidas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889
+**UnitDateFinal**:: 1918
+**ScopeContent**:: Manuscrito. Junto com Contém CP 7810 e CP 7811.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56707
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7809 - cx. 49
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56707

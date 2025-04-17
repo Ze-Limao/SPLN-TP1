@@ -1,0 +1,17 @@
+====== 33613 - DC - Carta ======
+
+**Parent**:: 33521
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-10-01
+**UnitDateFinal**:: 1910-10-19
+**ScopeContent**:: Carta manuscrita assinada, do Japão. Papel timbrado "Hotel The Fujiya. Miyanoshita, Japan". Envelope carimbado e selado, tem manuscrito "Via Siberia". Enviado do Japão no dia 1 de outubro e carimbo de Famalicão de 19 outubro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33613
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6017 - cx. 43
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33613

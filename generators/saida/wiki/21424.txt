@@ -1,0 +1,16 @@
+====== 21424 - UI - Dias Freitas ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Dias Freitas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1889-06-30
+**UnitDateFinal**:: 1889-06-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21424
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1403
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21424
+
+===== Filhos =====
+  * [[30257.txt|30257 - DC - Carta]]

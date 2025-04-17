@@ -1,0 +1,13 @@
+====== 9155 - DC - Ofício nº 50 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 50
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-12-24
+**UnitDateFinal**:: 1886-12-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9155
+**LangMaterial**:: Português
+**PhysLoc**:: f. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9155

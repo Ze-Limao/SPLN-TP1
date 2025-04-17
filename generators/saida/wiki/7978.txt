@@ -1,0 +1,14 @@
+====== 7978 - DC - Termo de José Martins e António da Costa ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José Martins e António da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-06-27
+**UnitDateFinal**:: 1860-06-27
+**ScopeContent**:: Fixação dos preços de venda ao público de carne de vaca
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7978
+**LangMaterial**:: Português
+**PhysLoc**:: f. 11
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7978

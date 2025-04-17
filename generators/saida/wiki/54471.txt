@@ -1,0 +1,48 @@
+====== 54471 - SR - Documentos ======
+
+**Parent**:: 31292
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1744-02-07
+**UnitDateFinal**:: 1786-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54471
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54471
+
+===== Filhos =====
+  * [[100735.txt|100735 - DC - Emprazamento da Agra da Bouça e terras em Cruz por Ana Maria Isabel Pereira de Melo, viúva]]
+  * [[100758.txt|100758 - DC - Prazo da Castanheira, em Mouquim, provisão sobre Ana Isabel Maria Melo Sampaio na menoridade do filho João Machado.]]
+  * [[100778.txt|100778 - DC - Instrumento de desistência em demanda de D. Ana Maria Isabel de Melo a Custódio Sª, relativa ao Morgado da Gonça]]
+  * [[100804.txt|100804 - DC - Prazo que faz D. Ana Mª Isabel de Melo a António da Costa e mulher Maria Fernandes das terras da G?]]
+  * [[100910.txt|100910 - DC - Carta de arrematação das medidas do campo da Estivada que fez D. Ana Maria Isabel de Melo]]
+  * [[101076.txt|101076 - DC - Demanda com desistência de João Faria de Gouveia sobre as casas da Rua dos Mercadores, Guimarães]]
+  * [[54271.txt|54271 - DC - Provisão sobre os casais de Monte Alvão, Pego e Mamoa em Mouquim e o casal de Pousada, em Jesufrei e terras em Mariz]]
+  * [[65657.txt|65657 - DC - Sentença para arrecadação da tença do hábito de Cristo de Vicente Pinheiro da Figueira Lobo da Guerra pedida por Ana Isabel Maria de Melo Pereira Sampaio]]
+  * [[65667.txt|65667 - DC - Sentença contra Manuel José de Macedo e sua mulher, do lugar da Igreja, freguesia de Mouquim, autora Ana Maria Isabel de Melo Pereira de Sampaio]]
+  * [[65672.txt|65672 - DC - Termo de simples colónia de uma fazenda de Jesufrei, autora Ana Maria Isabel, da vila de Guimarães contra réu António da Costa Pinto, da freguesia de Sezures]]
+  * [[77868.txt|77868 - DC - Cópia do formulário de como fazer os prazos novos]]
+  * [[78165.txt|78165 - DC - Documento judicial referente a um prazo em Beiral do Lima numa demanda de Manuel José de Macedo contra Ana Maria Isabel de Melo]]
+  * [[78168.txt|78168 - DC - Documento judicial replicando a ação referente a benfeitorias na leira do Campo do Moinho, no cortelho do Linhar e em Tarrio, com Ana Maria Isabel de Melo Pereira de Sampaio]]
+  * [[78216.txt|78216 - DC - Acórdão da Relação relativo a bens em Beiral do Lima sendo partes Ana Maria Isabel de Melo e Manuel José de Macedo]]
+  * [[78243.txt|78243 - DC - Vedoria que se fez a Manuel Fernandes Costa e sua mulher Maria Luísa da freguesia de Mouquim do casal de Montalvão]]
+  * [[78357.txt|78357 - DC - Sentença cível referente a vários terrenos]]
+  * [[78358.txt|78358 - DC - Escrito de compra de 15 uveiras a Manuel Ferreira da freguesia de S. Miguel da Gonça por Ana Isabel de Melo]]
+  * [[78360.txt|78360 - DC - Escrito de venda de 4 uveiras no campo da Estivada sito na freguesia de S. Lourenço de Goães, de Custódio de Freitas para Ana Maria Isabel de Melo]]
+  * [[78361.txt|78361 - DC - Acordo entre Manuel Francisco e sua mulher Custódia Machado, da freguesia de S. Salvador da Gandarela, Guimarães, e Ana Maria Isabel de Melo sobre um casal em Gandarela]]
+  * [[78408.txt|78408 - DC - Carta de Sentença Apostólica e Título do Resignação de um canonicato e prebenda na Santa sé de Braga a favor do Reverendo José Maria de Melo e Sampaio Abade que foi da Igreja de Santa Cristina de Figueiró]]
+  * [[78518.txt|78518 - DC - Prazo em Jesufrei, Ana Maria de Melo Pereira de Sampaio, viúva como tutora de seu filho João Machado de Melo Pinheiro e Figueira]]
+  * [[78526.txt|78526 - DC - Escritura de dote a Ana Maria Isabel de Melo Pereira Sampaio de duas partes do rendimento do prazo da quinta do Mosteiro de Arnoso]]
+  * [[78532.txt|78532 - DC - Documento de demanda judicial da viúva de Vicente Pinheiro com Manuel José de Macedo, Guimarães e Beiral do Lima]]
+  * [[78543.txt|78543 - DC - Apontamento sobre o prazo do Casal do Outeiro em Arnoso Santa Eulália, feito pela viúva de Vicente Pinheiro Lobo da Guerra]]
+  * [[78648.txt|78648 - DC - Inventário dos bens herdados por Simão Pereira e mulher de seus pais e sogros]]
+  * [[98232.txt|98232 - DC - Prazo da Agra da Bouça que fez Ana Isabel de melo Pereira como tutora e administradora de João Machado Pereira Figueira, a João Gomes da freguesia da de S. Tiago Cruz.]]
+  * [[98275.txt|98275 - DC - Sentença cível de composição que fizeram Ana Maria de Melo, viúva de Vicente Pinheiro Lobo com Manuel Fernandes, de Mouquim]]
+  * [[98355.txt|98355 - DC - Prazo primordial que fez D. Anna Mª Izabel de Mello Pereira como tutora e administradora de João Machado Pra. Figueira na quinta de Pindela a José Gomes da freguesia de S.Tiago da Cruz]]
+  * [[98456.txt|98456 - DC - Prazo do Campo da Castanheira e leira]]
+  * [[98458.txt|98458 - DC - Prazo que fez Ana Maria Isabel de Melo, como tutora do seu filho João Machado, dos campos da Junqueira a António Pinheiro da Castanheira]]
+  * [[98466.txt|98466 - DC - Sentença cível do libelo de Ana Maria Isabel de Melo, como tutora do seu filho João Machado, dos casais do Pego e Montalvão que possui Manuel Fernandes Costa e sua mulher Maria Luiza]]
+  * [[98467.txt|98467 - DC - Sentença cível do libelo de Ana Maria Isabel de Melo, como tutora do seu filho João Machado, do Casal do Fundo que possui António Costa, da Gandra]]
+  * [[98469.txt|98469 - DC - Sentença cível do libelo de Ana Maria Isabel de Melo, como tutora do seu filho João Machado, contra Francisco e seu genro Manuel da Costa dos casais de Montalvão e Mamoa, freguesia de Mouquim]]
+  * [[98886.txt|98886 - DC - Licença que deu Ana Maria Isabel de Melo a Domingos da Costa, de Mouquim, para fazer um campo de lameiro]]
+  * [[99076.txt|99076 - DC - Testamento de Ana Maria Isabel de Melo]]

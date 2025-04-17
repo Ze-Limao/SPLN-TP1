@@ -1,0 +1,57 @@
+====== 57840 - DC - Correspondência ======
+
+**Parent**:: 31341
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1913-12-13
+**UnitDateFinal**:: 1937-12-16
+**ScopeContent**:: Contém CP 2378 a CP 2415.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57840
+**LangMaterial**:: Português
+**PhysLoc**:: CP - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57840
+
+===== Filhos =====
+  * [[57841.txt|57841 - DC - Informação de Tude de Sousa]]
+  * [[57842.txt|57842 - DC - Cartão]]
+  * [[57843.txt|57843 - DC - Ofício para Adolfo do Martins]]
+  * [[57844.txt|57844 - DC - Ofício para 3º Visconde, de João Ferreira]]
+  * [[57845.txt|57845 - DC - Informações sobre cedros atlântica]]
+  * [[57851.txt|57851 - DC - Notas]]
+  * [[57852.txt|57852 - DC - Ofício para 3º Visconde, de João Martins?]]
+  * [[57853.txt|57853 - DC - Ofício para 3º Visconde de João Martins?]]
+  * [[57854.txt|57854 - DC - Minuta do Engº Chefe da 1ª Circunscrição Florestal do Porto]]
+  * [[57855.txt|57855 - DC - Ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[57856.txt|57856 - DC - Ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[57857.txt|57857 - DC - Minuta de ofício para Oliveira Santos, do Engº Chefe da 1ª Circunscrição Florestal do Porto]]
+  * [[57858.txt|57858 - DC - Cartão para Engº Chefe da 1ª Circunscrição Florestal do Porto]]
+  * [[57859.txt|57859 - DC - Notas]]
+  * [[57860.txt|57860 - DC - Minuta de ofício para Gabriel Santos, do Engº Chefe da 1ª Circunscrição Florestal do Porto]]
+  * [[57861.txt|57861 - DC - Cópia exacta e fiel de um papel de carta para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos e ofício para Gabriel Santos do Engº Chefe da 1ª Circunscrição Florestal do Porto]]
+  * [[57862.txt|57862 - DC - Ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos e ofício para Gabriel Santos do Engº Chefe da 1ª Circunscrição Florestal do Porto]]
+  * [[57863.txt|57863 - DC - Ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[57864.txt|57864 - DC - Ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos e cópia de ofício para Gabriel Santos]]
+  * [[57865.txt|57865 - DC - Declaração desleal e infame feita no livro de ponto]]
+  * [[57866.txt|57866 - DC - Ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[57867.txt|57867 - DC - Ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[57868.txt|57868 - DC - Ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[57874.txt|57874 - DC - Ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos e requisição de material]]
+  * [[57875.txt|57875 - DC - Ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos e requisição de material]]
+  * [[57887.txt|57887 - DC - Ofícios para Gabriel Santos, de J.A. Machado e cópia de circular]]
+  * [[58024.txt|58024 - DC - Cópia de ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[58027.txt|58027 - DC - Ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[58028.txt|58028 - DC - Ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[58029.txt|58029 - DC - Ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[58030.txt|58030 - DC - Ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[58031.txt|58031 - DC - Ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[58032.txt|58032 - DC - Ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[58033.txt|58033 - DC - Cópias de ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[58034.txt|58034 - DC - Ofício para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[58035.txt|58035 - DC - Ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos]]
+  * [[58036.txt|58036 - DC - Minuta de ofício para Gabriel Santos, do Engº Chefe da 1ª Circunscrição Florestal do Porto]]
+  * [[58037.txt|58037 - DC - Minuta de ofício para Gabriel Santos, do Engº Chefe da 1ª Circunscrição Florestal do Porto]]

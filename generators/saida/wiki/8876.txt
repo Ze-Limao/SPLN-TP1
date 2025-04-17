@@ -1,0 +1,18 @@
+====== 8876 - DC - Termo do exame de Idalina Amélia de Meneses Guimarães ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Idalina Amélia de Meneses Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-08
+**UnitDateFinal**:: 1893-08-08
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Agostinho Correia de Meneses
+Naturalidade - Cedofeita, Porto
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8876
+**LangMaterial**:: Português
+**PhysLoc**:: f. 54
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8876

@@ -1,0 +1,19 @@
+====== 34032 - DC - Registo do recenseamento militar de Manuel Pinto Carneiro ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Pinto Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Delães e Oliveira S. Mateus
+Data de nascimento - 1852-10-30
+Filiação - Rodrigo da Silva Pinto Carneiro e Narcisa Rodrigues
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Delães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34032
+**LangMaterial**:: Português
+**PhysLoc**:: 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34032

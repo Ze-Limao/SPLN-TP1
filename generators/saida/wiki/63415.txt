@@ -1,0 +1,19 @@
+====== 63415 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - José Gomes da Silva e Maria Josefa, na freguesia
+Naturalidade - Fradelos
+Morada - Fradelos
+Data de nascimento - 1864-10-28
+Emprego - Lavoura
+Estado - Casado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63415

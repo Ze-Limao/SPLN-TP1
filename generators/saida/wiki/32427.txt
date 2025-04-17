@@ -1,0 +1,33 @@
+====== 32427 - UI - Alexandre de Sousa Botelho ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Alexandre de Sousa Botelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886-02-16
+**UnitDateFinal**:: 1909-12-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32427
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32427
+
+===== Filhos =====
+  * [[32428.txt|32428 - DC - Carta]]
+  * [[32429.txt|32429 - DC - Carta]]
+  * [[32430.txt|32430 - DC - Carta]]
+  * [[32431.txt|32431 - DC - Carta]]
+  * [[32432.txt|32432 - DC - Carta]]
+  * [[32433.txt|32433 - DC - Carta]]
+  * [[32434.txt|32434 - DC - Carta]]
+  * [[32435.txt|32435 - DC - Carta]]
+  * [[32436.txt|32436 - DC - Carta]]
+  * [[32437.txt|32437 - DC - Carta]]
+  * [[32438.txt|32438 - DC - Carta]]
+  * [[32439.txt|32439 - DC - Carta]]
+  * [[32440.txt|32440 - DC - Carta]]
+  * [[32441.txt|32441 - DC - Carta]]
+  * [[32442.txt|32442 - DC - Carta]]
+  * [[32443.txt|32443 - DC - Carta]]

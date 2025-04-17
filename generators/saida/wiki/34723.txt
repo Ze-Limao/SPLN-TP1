@@ -1,0 +1,19 @@
+====== 34723 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Mouquim
+Data de nascimento - 1862-05-31
+Filiação - António Martins de Araújo e Ana da Costa
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34723
+**LangMaterial**:: Português
+**PhysLoc**:: 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34723

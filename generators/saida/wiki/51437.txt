@@ -1,0 +1,17 @@
+====== 51437 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-06-30
+Filiação - Manuel José de Araújo e Justa Maria de Araújo
+Naturalidade - Vilarinho das Cambas
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51437
+**LangMaterial**:: Português
+**PhysLoc**:: 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51437

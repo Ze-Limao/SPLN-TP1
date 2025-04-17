@@ -1,0 +1,16 @@
+====== 24689 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-03-27
+**UnitDateFinal**:: 1906-03-27
+**ScopeContent**:: António Ferraz informa que na impossibilidade de comprar a obra sobre os "Brasões da Sala de Sintra" de Anselmo Braamcamp Freire, pede a JAM que lhe empreste a que tem por empréstimo do Visconde de Pindela. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24689
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 191 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24689

@@ -1,0 +1,13 @@
+====== 7735 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 11 ======
+
+**Parent**:: 7726
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Termos de Obrigação e Sujeição ao Município Nº 11
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-04-27
+**UnitDateFinal**:: 1894-03-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7735
+**LangMaterial**:: Português
+**PhysLoc**:: 1.78
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7735

@@ -1,0 +1,19 @@
+====== 33945 - DC - Registo do recenseamento militar de Francisco da Cunha ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco da Cunha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Aves
+Data de nascimento - 1852-11-03
+Filiação - Bernardo da Cunha e Florinda de Oliveira
+Profissão - Caixeiro
+Estado - Solteiro
+Morada - Aves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33945
+**LangMaterial**:: Português
+**PhysLoc**:: 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33945

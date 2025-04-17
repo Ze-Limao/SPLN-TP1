@@ -1,0 +1,16 @@
+====== 30449 - DC - Registo do recenseamento eleitoral de José Gomes de Faria ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Gomes de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Lavrador
+Morada - Vendas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30449
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30449

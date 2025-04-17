@@ -1,0 +1,17 @@
+====== 99734 - DC - Groceries list da British Co-operative Stores ======
+
+**Parent**:: 99382
+**RootParent**:: 60695
+**UnitTitle**:: Groceries list da British Co-operative Stores
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1909
+**ScopeContent**:: Catálogo impresso Typ. Azevedo, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99390
+**LangMaterial**:: Português, Inglês
+**PhysLoc**:: CSC 224 - cx. 6
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99734

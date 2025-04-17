@@ -1,0 +1,18 @@
+====== 8117 - DC - Josefina Augusta de Oliveira Botelho ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Josefina Augusta de Oliveira Botelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-08
+**UnitDateFinal**:: 1886-11-27
+**ScopeContent**:: Escola - Vila Nova de Famalicão. Feminina
+Cargo - Professora
+Vínculo - Temporário
+Naturalidade - Ribeira de Pena
+Data de posse - 1885-01-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8117
+**LangMaterial**:: Português
+**PhysLoc**:: f. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8117

@@ -1,0 +1,16 @@
+====== 23807 - DC - Registo do recenseamento eleitoral de José Maria Fernandes ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Maria Fernandes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Sapateiro
+Morada - Feira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23807
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 86v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23807

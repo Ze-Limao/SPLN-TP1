@@ -1,0 +1,16 @@
+====== 30255 - DC - Carta ======
+
+**Parent**:: 21425
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-11-18
+**UnitDateFinal**:: 1914-11-18
+**ScopeContent**:: J.M. Veiga informa sobre a casa que fala Camilo Castelo Branco no "Amor de Perdição" e a família que lá habitou. Carta manuscrita assinada, de Vila Real.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30255
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1406 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30255

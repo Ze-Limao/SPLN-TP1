@@ -1,0 +1,15 @@
+====== 21008 - DC - Nº 5/963 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 5/963
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1963-02-21
+**UnitDateFinal**:: 1963-02-21
+**ScopeContent**:: Contrato de adjudicação da construção do cemitério de Landim
+Outorgante - José da Silva Campos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21008
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 90
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21008

@@ -1,0 +1,16 @@
+====== 29848 - DC - A propósito da oliveira ======
+
+**Parent**:: 28388
+**RootParent**:: 27963
+**UnitTitle**:: A propósito da oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Referência a dois episódios ocorridos na antiguidade, envolvendo ambos a oliveira. No primeiro, relatado pelo geógrafo e historiador grego Herodoto, uma oliveira que tinha sido queimada durante a ocupação de Atenas pelo rei persa Xerxes conseguiu sobreviver e, no segundo, uma vara da mesma árvore num campo lavrado em frente à Igreja de Santa Maria, em Guimarães, lançou rebentos e Wanba, rei dos Visigodos é «eleito rei da península».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29848
+**LangMaterial**:: Português
+**PhysLoc**:: AS 58 (5) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29848

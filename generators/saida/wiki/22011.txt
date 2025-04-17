@@ -1,0 +1,16 @@
+====== 22011 - DC - Registo do recenseamento eleitoral de João José Pereira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João José Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Carreira
+Profissão - Lavrador
+Morada - Outeiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22011
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22011

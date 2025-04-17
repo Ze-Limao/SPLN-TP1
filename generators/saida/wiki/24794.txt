@@ -1,0 +1,16 @@
+====== 24794 - DC - Convite I Centenário e inauguração do novo quartel ======
+
+**Parent**:: 24776
+**RootParent**:: 20342
+**UnitTitle**:: Convite I Centenário e inauguração do novo quartel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1990-05-06
+**UnitDateFinal**:: 1990-05-06
+**ScopeContent**:: No interior do convite tem o programa para o dia 6 de maio de 1990.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24794
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 35 - cx. 9
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24794

@@ -1,0 +1,12 @@
+====== 58451 - UI - José de Azevedo Castelo Branco ======
+
+**Parent**:: 31357
+**RootParent**:: 31258
+**UnitTitle**:: José de Azevedo Castelo Branco
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58451
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=58451
+
+===== Filhos =====
+  * [[58452.txt|58452 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 80499 - UI - Processo nº 276 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 276
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-11-10
+**UnitDateFinal**:: 1973-02-28
+**ScopeContent**:: Junto com Autos de Embargos nº 85-A e Autos de Execução nº 85.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 184 - cx. 10
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80499

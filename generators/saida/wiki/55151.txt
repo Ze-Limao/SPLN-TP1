@@ -1,0 +1,18 @@
+====== 55151 - UI - Bernardino Machado ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Bernardino Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-09-12
+**UnitDateFinal**:: 1892-07-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55151
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55151
+
+===== Filhos =====
+  * [[55108.txt|55108 - DC - Telegrama]]
+  * [[55152.txt|55152 - DC - Carta]]
+  * [[55153.txt|55153 - DC - Telegrama]]
+  * [[55161.txt|55161 - DC - Carta]]
+  * [[55162.txt|55162 - DC - Carta]]

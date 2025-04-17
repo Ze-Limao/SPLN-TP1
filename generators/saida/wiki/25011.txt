@@ -1,0 +1,15 @@
+====== 25011 - UI - Livro de visitantes da Associação Humanitária de Bombeiros Voluntários de V.N. Famalicão ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Livro de visitantes da Associação Humanitária de Bombeiros Voluntários de V.N. Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-05
+**UnitDateFinal**:: 1932-07-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25011
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 114
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25011

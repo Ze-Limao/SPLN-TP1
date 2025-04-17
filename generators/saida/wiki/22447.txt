@@ -1,0 +1,16 @@
+====== 22447 - DC - Carta ======
+
+**Parent**:: 21240
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-04-09
+**UnitDateFinal**:: 1871-04-09
+**ScopeContent**:: Carata manuscrita assinada. Maria José do Livramento Velho Barbosa da Fonseca Pinheiro de Azevedo agradece e retribui as boas festas, espera que a Júlia esteja melhor e aguarda-os para a festa do Espírito Santo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22447
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 965 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22447

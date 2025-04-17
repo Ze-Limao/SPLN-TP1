@@ -1,0 +1,15 @@
+====== 97503 - UI - Processo nº 28 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 28
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1960-12-14
+**UnitDateFinal**:: 1970-07-31
+**ScopeContent**:: Junto com Autos de Habilitação de Herdeiros nº 102/68-B e nº 102/68-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 328 - cx. 18
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97503

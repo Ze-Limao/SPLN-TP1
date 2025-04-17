@@ -1,0 +1,16 @@
+====== 26040 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-07-06
+**UnitDateFinal**:: 1920-07-06
+**ScopeContent**:: Júlio Brandão informa que não pode comparecer em Seide porque está doente. Carta manuscrita assinada, do Porto. Carta do dia 6 de julho, sem menção ao ano.  Papel timbrado "Museu Municipal do Porto. Gabinete do Director".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26040
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 834 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26040

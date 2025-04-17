@@ -1,0 +1,17 @@
+====== 8270 - UI - Joaquim Ferreira de Carvalho ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Joaquim Ferreira de Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-02-19
+**UnitDateFinal**:: 1895-02-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8270
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8270
+
+===== Filhos =====
+  * [[8271.txt|8271 - DC - Carta]]
+  * [[8272.txt|8272 - DC - Carta]]

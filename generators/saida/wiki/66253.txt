@@ -1,0 +1,15 @@
+====== 66253 - DC - Agravo do bispo Francisco Martins, morador em Bucellas termo da cidade de Lisboa, do doutor Francisco de Freitas, chantre na sé desta cidade, juiz delegado executor das Bulas passadas em favor do doutor Miguel Soares Pereira da capelania da dita igreja de S. Tiago de Antas, Arcebispado de Braga ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Agravo do bispo Francisco Martins, morador em Bucellas termo da cidade de Lisboa, do doutor Francisco de Freitas, chantre na sé desta cidade, juiz delegado executor das Bulas passadas em favor do doutor Miguel Soares Pereira da capelania da dita igreja de S. Tiago de Antas, Arcebispado de Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1624-08-02
+**UnitDateFinal**:: 1624-08-02
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 419 - cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66253

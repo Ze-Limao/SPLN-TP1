@@ -1,0 +1,18 @@
+====== 51545 - DC - Registo do recenseamento militar de Firmino ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Firmino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-04-10
+Filiação - António Joaquim de Andrade e Rosa Ferreira
+Naturalidade - Antas
+Profissão - Sapateiro
+Residência - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51545
+**LangMaterial**:: Português
+**PhysLoc**:: 62v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51545

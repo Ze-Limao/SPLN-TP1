@@ -1,0 +1,16 @@
+====== 26163 - DC - Carta ======
+
+**Parent**:: 21237
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-01-17
+**UnitDateFinal**:: 1920-01-17
+**ScopeContent**:: Carta manuscrita assinada, de Vale de Lagar.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26163
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 958- cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26163

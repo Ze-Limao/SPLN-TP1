@@ -1,0 +1,20 @@
+====== 20745 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Filiação - José Joaquim Correia e Rita Rosa da Costa
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1869-02-15
+Emprego - Trolha
+Estado - Solteiro
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20745
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20745

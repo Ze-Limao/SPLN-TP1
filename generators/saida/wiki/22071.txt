@@ -1,0 +1,16 @@
+====== 22071 - DC - Registo do recenseamento eleitoral de António Ferreira Pacheco ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Ferreira Pacheco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Cavalões
+Profissão - Eclesiástico
+Morada - Cavalões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22071
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22071

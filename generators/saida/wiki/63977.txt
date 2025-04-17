@@ -1,0 +1,15 @@
+====== 63977 - UI - Livro de assento dos capítulos da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 63976
+**RootParent**:: 60536
+**UnitTitle**:: Livro de assento dos capítulos da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1827-12-17
+**UnitDateFinal**:: 1873-02-06
+**ScopeContent**:: Manuscrito, original, encadernado a pele com atilhos. Na capa título a lápis "Cópias de circulares e postarias eclesiasticas 1827-1873". Título a tinta "Capitulos". Tem 35 f. escritas, as restantes em branco. Refere-se aos anos 1830-01-13 a 1873.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 245 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63977

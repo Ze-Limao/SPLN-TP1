@@ -1,0 +1,19 @@
+====== 34683 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Cavalões
+Data de nascimento - 1862-04-26
+Filiação - José Joaquim Domingues e Bernardina Rosa
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34683
+**LangMaterial**:: Português
+**PhysLoc**:: 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34683

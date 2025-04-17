@@ -1,0 +1,16 @@
+====== 24286 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-07-29
+**UnitDateFinal**:: 1918-07-29
+**ScopeContent**:: António Cabral solicita retratos inéditos de Camilo Castelo Branco para colocar na capa do livro e para  intercalar com o texto. Pede para serem enviados para o Hotel Borges - Rua Garrett onde almoça e janta todos os dias. Informa que o seu novo livro “Camilo desconhecido” dá a público coisas e documentos interessantes sobre o escritor. Refere que quando abrir o Museu de Seide irá lá em romagem e espera encontrar JAM. Carta manuscrita assinada, Lisboa, r. de S. Vicente à Guia - 45-2º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24286
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 122 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24286

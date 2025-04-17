@@ -1,0 +1,16 @@
+====== 30440 - DC - Registo do recenseamento eleitoral de Domingos Gomes ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Lavrador
+Morada - Ferrão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30440
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30440

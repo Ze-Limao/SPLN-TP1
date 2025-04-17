@@ -1,0 +1,17 @@
+====== 56149 - DC - Documentos relacionados com o Casal da Costa ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Documentos relacionados com o Casal da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886
+**UnitDateFinal**:: 1886
+**ScopeContent**:: Manuscrito. Paga que dá Emília Pereira da Silva ao 2º Visconde de Pindela. Este documento estava na “Caixa 21”, que contém CP 13813 a CP 13824.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56149
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13820 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56149

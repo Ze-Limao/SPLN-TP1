@@ -1,0 +1,18 @@
+====== 47345 - DC - Registo do recenseamento eleitoral de António José de Carvalho ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Funileiro
+Estado - Casado
+Morada - Feira
+Idade - 25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47345
+**LangMaterial**:: Português
+**PhysLoc**:: 77v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47345

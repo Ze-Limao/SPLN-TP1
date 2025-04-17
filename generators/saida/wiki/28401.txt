@@ -1,0 +1,22 @@
+====== 28401 - DC - Conjunto de notas sobre mato - sivicultura ======
+
+**Parent**:: 28381
+**RootParent**:: 27963
+**UnitTitle**:: Conjunto de notas sobre mato - sivicultura
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28401
+**LangMaterial**:: Português
+**PhysLoc**:: AS 59 (1) a 59 (6)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28401
+
+===== Filhos =====
+  * [[28402.txt|28402 - DC - Mato e silvicultura]]
+  * [[29856.txt|29856 - DC - Sobre a palavra “Bouça]]
+  * [[29857.txt|29857 - DC - Bautista Mapa de Portugal]]
+  * [[29858.txt|29858 - DC - Relatório da Sociedade Agrícola do distrito do Porto]]
+  * [[29859.txt|29859 - DC - Relatório acerca da arborização geral do país]]
+  * [[29860.txt|29860 - DC - 1.ª alçada das Inquir. entre Cávado e Minho]]

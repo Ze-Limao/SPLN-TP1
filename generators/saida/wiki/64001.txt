@@ -1,0 +1,15 @@
+====== 64001 - DC - Bula para provimento do raçoeiro reverendo João Teixeira de Távora, num benefício simples da Igreja S. Tiago de Antas ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Bula para provimento do raçoeiro reverendo João Teixeira de Távora, num benefício simples da Igreja S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1754-01-31
+**UnitDateFinal**:: 1760-12-16
+**ScopeContent**:: Manuscrito, original, folhas cosidas. Bula de Provisão de Benefício simples.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português e Latim
+**PhysLoc**:: CSTA 171 - cx. 8
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64001

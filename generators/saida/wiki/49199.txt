@@ -1,0 +1,14 @@
+====== 49199 - UI - Manuel de Freitas Aguiar ======
+
+**Parent**:: 31310
+**RootParent**:: 31258
+**UnitTitle**:: Manuel de Freitas Aguiar
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-02-01
+**UnitDateFinal**:: 1898-02-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49199
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49199
+
+===== Filhos =====
+  * [[49200.txt|49200 - DC - Carta]]

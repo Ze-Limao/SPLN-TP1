@@ -1,0 +1,15 @@
+====== 80467 - UI - Processo nº 43/A ======
+
+**Parent**:: 80074
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 43/A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-03-30
+**UnitDateFinal**:: 1970-06-30
+**ScopeContent**:: Junto com Auto de Execução Sumária por Quantia Certa com Processo nº 43.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 161 - cx. 8
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80467

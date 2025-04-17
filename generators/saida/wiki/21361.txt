@@ -1,0 +1,18 @@
+====== 21361 - UI - António Vasco de Melo da Silva César e Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Vasco de Melo da Silva César e Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-18
+**UnitDateFinal**:: 1918-08-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21361
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1294, 1295
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21361
+
+===== Filhos =====
+  * [[22583.txt|22583 - DC - Carta]]
+  * [[22607.txt|22607 - DC - Cartão]]

@@ -1,0 +1,17 @@
+====== 60864 - DC - Famalicão - Monumento a Camilo ======
+
+**Parent**:: 60861
+**RootParent**:: 60698
+**UnitTitle**:: Famalicão - Monumento a Camilo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1960
+**ScopeContent**:: Bilhete-postal impresso em papel de fotografia. No verso "Editor A. Sousa Lopes. Fotografia de Foto Adriano" e legenda.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9798
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 91 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60864

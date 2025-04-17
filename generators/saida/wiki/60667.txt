@@ -1,0 +1,15 @@
+====== 60667 - DC - Livro de registo de escrituras, dívidas ======
+
+**Parent**:: 60660
+**RootParent**:: 60540
+**UnitTitle**:: Livro de registo de escrituras, dívidas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1835
+**UnitDateFinal**:: 1836
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60666
+**LangMaterial**:: Português
+**PhysLoc**:: JEVNF - cx. 2
+depósito 3, estante
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60667

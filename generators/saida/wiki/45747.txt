@@ -1,0 +1,18 @@
+====== 45747 - DC - Registo do recenseamento eleitoral de José de Sousa Monteiro ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José de Sousa Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Bairro
+Profissão - Lavrador
+Estado - Casado
+Morada - Monte
+Idade - 66
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45747
+**LangMaterial**:: Português
+**PhysLoc**:: 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45747

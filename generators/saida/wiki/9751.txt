@@ -1,0 +1,17 @@
+====== 9751 - DC - V. N. de Famalicão - Quinta de Pousada ======
+
+**Parent**:: 9750
+**RootParent**:: 60698
+**UnitTitle**:: V. N. de Famalicão - Quinta de Pousada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Fachada de quinta, junto do portão estão 4 homens. Legenda na frente do bilhete-postal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9751
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 9 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9751

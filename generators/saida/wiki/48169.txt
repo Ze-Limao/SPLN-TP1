@@ -1,0 +1,16 @@
+====== 48169 - UI - Teresa de Saldanha da Gama ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Teresa de Saldanha da Gama
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48169
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48169
+
+===== Filhos =====
+  * [[48170.txt|48170 - DC - Carta]]

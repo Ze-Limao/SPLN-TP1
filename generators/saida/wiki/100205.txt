@@ -1,0 +1,34 @@
+====== 100205 - UI - Fotografias positivos em papel e de Casas Fotográficas ======
+
+**Parent**:: 100192
+**RootParent**:: 60695
+**UnitTitle**:: Fotografias positivos em papel e de Casas Fotográficas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Fotografias de Casas Fotográficas.
+Portugal:
+A. Solas, Lisboa;
+Alvão, Porto;
+Antonio Christino -Photographo amador;
+Avelino Barros, Póvoa de Varzim;
+Célestin Bénard, Porto;
+Foto Elétrica, Porto;
+Fotografia Bolhão, Porto;
+J. Netel?, Póvoa de Varzim
+Photo Guedes, Porto;
+Photo Luso Brasileira, Porto;
+Foto-Universal, Porto;
+
+Brasil:
+Artur Barreto, Recife;
+Guimarães & Cª, Rio de Janeiro;
+A? Eurico Sousa Sause?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99378
+**LangMaterial**:: Português
+**PhysLoc**:: CSC F300 a F430 - cx. 13
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100205

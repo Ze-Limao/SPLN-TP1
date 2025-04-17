@@ -1,0 +1,15 @@
+====== 25448 - DC - Contas apresentadas pela Direcção dos Bombeiros Voluntários de V.N. de Famalicão correspondentes ao triénio de 1927 a 1929 inclusive ======
+
+**Parent**:: 25081
+**RootParent**:: 20342
+**UnitTitle**:: Contas apresentadas pela Direcção dos Bombeiros Voluntários de V.N. de Famalicão correspondentes ao triénio de 1927 a 1929 inclusive
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929-12-31
+**UnitDateFinal**:: 1929-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25448
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 179 - cx. 45
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25448

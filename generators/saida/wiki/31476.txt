@@ -1,0 +1,17 @@
+====== 31476 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 48471
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-08-05
+**UnitDateFinal**:: 1891-08-05
+**ScopeContent**:: Minuta de carta manuscrita assinada, em papel de luto, de Haia. Sobre o mesmo assunto da cartas de Carlos Lobo de Ávila, sobre o caso da Administração da Casa de Bragança.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31476
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8329 - cx.
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31476

@@ -1,0 +1,15 @@
+====== 24962 - UI - Requisições de transporte do Hospital Distrital de Vila Nova de Famalicão e correspondência de cobranças ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Requisições de transporte do Hospital Distrital de Vila Nova de Famalicão e correspondência de cobranças
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-12-20
+**UnitDateFinal**:: 1976-06-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24962
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 66 - cx. 24
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24962

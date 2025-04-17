@@ -1,0 +1,16 @@
+====== 61401 - DC - Velha Lucerna: um livro de versos de Daniel Salgado ======
+
+**Parent**:: 60930
+**RootParent**:: 60550
+**UnitTitle**:: Velha Lucerna: um livro de versos de Daniel Salgado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-10-07
+**UnitDateFinal**:: 1950-10-07
+**ScopeContent**:: Notícia do jornal Republica
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 175 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61401

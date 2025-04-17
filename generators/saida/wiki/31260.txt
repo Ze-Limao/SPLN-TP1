@@ -1,0 +1,14 @@
+====== 31260 - SSC - Luís de Carvalho e Beatriz Almeida ======
+
+**Parent**:: 31259
+**RootParent**:: 31258
+**UnitTitle**:: Luís de Carvalho e Beatriz Almeida
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1724
+**UnitDateFinal**:: 1724
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31260
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31260
+
+===== Filhos =====
+  * [[54460.txt|54460 - SR - Documentos]]

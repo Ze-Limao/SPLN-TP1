@@ -1,0 +1,15 @@
+====== 20187 - SR - Registo dos indigentes que deram entrada nas cadeias desta vila ======
+
+**Parent**:: 20055
+**RootParent**:: 20048
+**UnitTitle**:: Registo dos indigentes que deram entrada nas cadeias desta vila
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1911-01-18
+**UnitDateFinal**:: 1920-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20187
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20187
+
+===== Filhos =====
+  * [[20188.txt|20188 - UI - Registo dos indigentes que deram entrada nas cadeias desta vila]]

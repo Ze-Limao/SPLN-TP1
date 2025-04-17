@@ -1,0 +1,16 @@
+====== 25951 - DC - Carta ======
+
+**Parent**:: 21189
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-07-14
+**UnitDateFinal**:: 1921-07-14
+**ScopeContent**:: Joaquim Pedro Martins agradece a oferta do livro Camilo Homenageado e o convite para visitar a Casa de Camilo. Carta manuscrita assinada, de Roma. Papel timbrado "Légation de Portugal. Près Le Saint Siège."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25951
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 750 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25951

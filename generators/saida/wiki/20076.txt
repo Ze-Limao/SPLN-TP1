@@ -1,0 +1,15 @@
+====== 20076 - UI - Hipotecas ======
+
+**Parent**:: 20075
+**RootParent**:: 20048
+**UnitTitle**:: Hipotecas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1858-01-30
+**UnitDateFinal**:: 1860-05-12
+**ScopeContent**:: Termo de abertura: "Este livro ha de servir para nelle se registarem as Hipothecas na Administração deste concelho".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20076
+**LangMaterial**:: Português
+**PhysLoc**:: AC 116
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20076

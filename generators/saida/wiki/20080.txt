@@ -1,0 +1,15 @@
+====== 20080 - UI - Autos de posse e juramento dos funcionários ======
+
+**Parent**:: 20078
+**RootParent**:: 20048
+**UnitTitle**:: Autos de posse e juramento dos funcionários
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-06-01
+**UnitDateFinal**:: 1915-02-17
+**ScopeContent**:: Termo de abertura: ”Este livro tem de servir para nelle se lavrarem os autos de juramento e posse dos differentes funcionários…”. O primeiro auto é de 1901-03-16.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20080
+**LangMaterial**:: Português
+**PhysLoc**:: AC 72
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20080

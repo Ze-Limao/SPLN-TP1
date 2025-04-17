@@ -1,0 +1,17 @@
+====== 56387 - DC - O Jantar do Américo: Comédia em 3 Actos por Almada da Guerra ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: O Jantar do Américo: Comédia em 3 Actos por Almada da Guerra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Peça de teatro em papel pautado manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56387
+**LangMaterial**:: Português
+**PhysLoc**:: CP 270 - cx. 3
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56387

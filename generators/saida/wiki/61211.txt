@@ -1,0 +1,16 @@
+====== 61211 - DC - Carta ======
+
+**Parent**:: 61210
+**RootParent**:: 60550
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-07-15
+**UnitDateFinal**:: 1950-07-15
+**ScopeContent**:: Carta manuscrita em papel timbrado do consultório em Lisboa, com envelope carimbado e selado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 111 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61211

@@ -1,0 +1,17 @@
+====== 54142 - DC - Folhetos de publicidade a materiais de aquecimento central ======
+
+**Parent**:: 54176
+**RootParent**:: 25851
+**UnitTitle**:: Folhetos de publicidade a materiais de aquecimento central
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1958
+**UnitDateFinal**:: 1958
+**ScopeContent**:: Panfletos com carimbos de "Joaquim de Sousa…". Processo continua 173(13).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54142
+**LangMaterial**:: Português
+**PhysLoc**:: JG 173(12) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54142

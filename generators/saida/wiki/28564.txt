@@ -1,0 +1,15 @@
+====== 28564 - DC - D. Manuel 1495-1521 ======
+
+**Parent**:: 28563
+**RootParent**:: 27963
+**UnitTitle**:: D. Manuel 1495-1521
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28564
+**LangMaterial**:: Português
+**PhysLoc**:: AS 99 (1) frente - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28564

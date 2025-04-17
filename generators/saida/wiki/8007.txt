@@ -1,0 +1,14 @@
+====== 8007 - DC - Termo de Manuel Rodrigues de Freitas e Joaquim Fernandes ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel Rodrigues de Freitas e Joaquim Fernandes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870-05-01
+**UnitDateFinal**:: 1870-05-01
+**ScopeContent**:: Arrematação de alguns impostos indiretos municipais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8007
+**LangMaterial**:: Português
+**PhysLoc**:: f. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8007

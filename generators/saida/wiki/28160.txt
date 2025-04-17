@@ -1,0 +1,16 @@
+====== 28160 - DC - Vindima de 1907 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vindima de 1907
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-09-21
+**UnitDateFinal**:: 1907-10-26
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Informações meteorológicas de finais de Setembro e de quase todo o mês de Outubro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28160
+**LangMaterial**:: Português
+**PhysLoc**:: AS 433 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28160

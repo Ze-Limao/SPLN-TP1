@@ -1,0 +1,16 @@
+====== 30457 - DC - Registo do recenseamento eleitoral de Manuel José Fernandes ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José Fernandes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Lavrador
+Morada - Bom Nome
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30457
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30457

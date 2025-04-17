@@ -1,0 +1,18 @@
+====== 8148 - DC - Joana Henriqueta do Nascimento Brito ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Joana Henriqueta do Nascimento Brito
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-02-15
+**UnitDateFinal**:: 1890-02-15
+**ScopeContent**:: Escola - Ruivães. Feminina
+Cargo - Professora
+Vínculo - Temporário
+Naturalidade - Valpaços
+Data de posse - 1890-02-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8148
+**LangMaterial**:: Português
+**PhysLoc**:: f. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8148

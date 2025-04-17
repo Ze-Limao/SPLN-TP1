@@ -1,0 +1,15 @@
+====== 8072 - DC - Termo de Manuel da Silva Monteiro ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel da Silva Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-10-30
+**UnitDateFinal**:: 1878-10-30
+**ScopeContent**:: Vedação de terreno
+Local - Vermoim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8072
+**LangMaterial**:: Português
+**PhysLoc**:: f. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8072

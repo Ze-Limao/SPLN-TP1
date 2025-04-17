@@ -1,0 +1,17 @@
+====== 66611 - DC - Carta para Vicente de José Cunha Sampaio ======
+
+**Parent**:: 66609
+**RootParent**:: 31258
+**UnitTitle**:: Carta para Vicente de José Cunha Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-01-12
+**UnitDateFinal**:: 1893-01-12
+**ScopeContent**:: Carta manuscrita assinada, de Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63962
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13762 - cx.
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66611

@@ -1,0 +1,14 @@
+====== 80687 - UI - Processo nº 151 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 151
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1979-05-03
+**UnitDateFinal**:: 1982-03-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 302 - cx. 16
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80687

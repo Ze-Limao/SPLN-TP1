@@ -1,0 +1,24 @@
+====== 64091 - SR - Desobriga ======
+
+**Parent**:: 60536
+**RootParent**:: 60536
+**UnitTitle**:: Desobriga
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1866-04-19
+**UnitDateFinal**:: 1892-04-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60704
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64091
+
+===== Filhos =====
+  * [[64092.txt|64092 - DC - Rol dos confessados e confessadas da Igreja de S. Tiago de Antas na Quaresma do ano de 1866]]
+  * [[64093.txt|64093 - DC - Rol dos confessados e confessadas da Igreja de S. Tiago de Antas na Quaresma do ano de 1867]]
+  * [[64094.txt|64094 - DC - Rol dos confessados e confessadas da Igreja de S. Tiago de Antas na Quaresma do ano de 1868]]
+  * [[64095.txt|64095 - DC - Rol dos confessados e confessadas da Igreja de S. Tiago de Antas na Quaresma do ano de 1869]]
+  * [[64096.txt|64096 - DC - Rol dos confessados e confessadas da Igreja de S. Tiago de Antas na Quaresma do ano de 1870]]
+  * [[64097.txt|64097 - DC - Rol da desobriga de ambos os sexos desta freguesia de S. Tiago de Antas na Quaresma do ano de 1871]]
+  * [[64098.txt|64098 - DC - Rol da desobriga de todas as pessoas de ambos os sexos desta freguesia de S. Tiago de Antas na Quaresma do ano de 1872]]
+  * [[64099.txt|64099 - DC - Rol da desobriga da freguesia de S. Tiago de Antas do ano de 1873]]
+  * [[64100.txt|64100 - DC - Rol da desobriga da freguesia de S. Tiago de Antas do ano de 1874]]
+  * [[64101.txt|64101 - DC - Rol dos confessados da freguesia de S. Tiago de Antas na satisfação aos preceitos da Desobriga na Quaresma do ano de 1876]]
+  * [[64104.txt|64104 - DC - Rol da desobriga da  freguesia de S. Tiago de Antas]]

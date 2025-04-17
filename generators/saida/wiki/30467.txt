@@ -1,0 +1,16 @@
+====== 30467 - DC - Registo do recenseamento eleitoral de João da Costa Pinto ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João da Costa Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Arnoso Mosteiro
+Profissão - Lavrador
+Morada - Além do Rio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30467
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30467

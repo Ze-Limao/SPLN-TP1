@@ -1,0 +1,16 @@
+====== 61365 - DC - Daniel Rodrigues no jardim em Agra ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: Daniel Rodrigues no jardim em Agra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1942-08-08
+**UnitDateFinal**:: 1942-08-08
+**ScopeContent**:: Fotografia p&b. Fotografia Cruzarte Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 134 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61365

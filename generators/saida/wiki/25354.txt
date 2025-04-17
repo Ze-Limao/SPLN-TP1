@@ -1,0 +1,15 @@
+====== 25354 - DC - Hino da AHBVF: partituras com partes de instrumentos ======
+
+**Parent**:: 25040
+**RootParent**:: 20342
+**UnitTitle**:: Hino da AHBVF: partituras com partes de instrumentos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-11-26
+**UnitDateFinal**:: 1922-11-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25354
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 142 - cx. 35
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25354

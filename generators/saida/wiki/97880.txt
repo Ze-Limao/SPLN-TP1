@@ -1,0 +1,15 @@
+====== 97880 - UI - Processo nº 15-B ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 15-B
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-04-02
+**UnitDateFinal**:: 1971-06-18
+**ScopeContent**:: Junto com Autos de Transgressão nº 15 Autos de Execução de Custas nº 15-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 599 - cx. 34
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97880

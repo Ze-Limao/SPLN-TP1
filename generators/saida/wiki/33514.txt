@@ -1,0 +1,21 @@
+====== 33514 - UI - Pedro Barbosa Falcão de Azevedo e Bourbon ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Pedro Barbosa Falcão de Azevedo e Bourbon
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-04-20
+**UnitDateFinal**:: 1920-11-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33514
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33514
+
+===== Filhos =====
+  * [[33515.txt|33515 - DC - Carta]]
+  * [[54248.txt|54248 - DC - Carta]]
+  * [[54249.txt|54249 - DC - Carta]]
+  * [[54250.txt|54250 - DC - Carta]]

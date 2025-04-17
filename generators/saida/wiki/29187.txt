@@ -1,0 +1,16 @@
+====== 29187 - DC - Sementeira de damasqueiros ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Sementeira de damasqueiros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-02-07
+**UnitDateFinal**:: 1907-02-07
+**ScopeContent**:: Identificação dos locais de semeadura de caroços de damasco.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29187
+**LangMaterial**:: Português
+**PhysLoc**:: AS 302 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29187

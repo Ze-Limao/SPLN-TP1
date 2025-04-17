@@ -1,0 +1,15 @@
+====== 65827 - DC - Apegação, medição e confrontação do casal de S. Cláudio, situado na freguesia de S. Tiago de Antas, por Rodrigo Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, que empraza a Manuel Rodrigues da Fonseca e a sua mulher Isabel Francisca ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal de S. Cláudio, situado na freguesia de S. Tiago de Antas, por Rodrigo Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, que empraza a Manuel Rodrigues da Fonseca e a sua mulher Isabel Francisca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1783-02-12
+**UnitDateFinal**:: 1783-02-12
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 202 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65827

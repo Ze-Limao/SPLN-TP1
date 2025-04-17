@@ -1,0 +1,17 @@
+====== 56728 - DC - Convocatória para organizar o Centro Monárquico e Eleitoral do concelho de V.N.Famalicão ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Convocatória para organizar o Centro Monárquico e Eleitoral do concelho de V.N.Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-04-21
+**UnitDateFinal**:: 1915-04-21
+**ScopeContent**:: Convocatória impressa que pede comparência no dia 28 de abril no Salão Olímpia, Campo da Feira (Famalicão) para organizar o Centro Monárquico e Eleitoral do concelho de V.N.Famalicão. Assinado por João Visconde de Pindela. Este documento está dentro do envelope selado e carimbado, enviado para Visconde de Pindela. Tem nota manuscrita "Respondido Drº Alberto Pinheiro Torres".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56728
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14043 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56728

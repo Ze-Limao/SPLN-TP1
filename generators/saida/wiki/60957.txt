@@ -1,0 +1,16 @@
+====== 60957 - UI - António Emílio Almeida Azevedo ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: António Emílio Almeida Azevedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-06-09
+**UnitDateFinal**:: 1906-06-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28731
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60957
+
+===== Filhos =====
+  * [[60958.txt|60958 - DC - Carta]]

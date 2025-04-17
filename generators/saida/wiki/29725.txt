@@ -1,0 +1,16 @@
+====== 29725 - DC - Carta ======
+
+**Parent**:: 21284
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-02-14
+**UnitDateFinal**:: 1913-02-14
+**ScopeContent**:: Carta manuscrita assinada, de Barcelos. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29725
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1134 -  cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29725

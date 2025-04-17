@@ -1,0 +1,16 @@
+====== 98620 - DC - Conta das Separatas de "As Vilas do Norte de Portugal"  do Dor. Alberto Sampaio ======
+
+**Parent**:: 28240
+**RootParent**:: 27963
+**UnitTitle**:: Conta das Separatas de "As Vilas do Norte de Portugal"  do Dor. Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-03-23
+**UnitDateFinal**:: 1905-03-23
+**ScopeContent**:: Manuscrito em papel timbrado "Portugalia. Direcção Rua do Conde, 21 -Porto".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28241
+**LangMaterial**:: Português
+**PhysLoc**:: AS 894 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98620

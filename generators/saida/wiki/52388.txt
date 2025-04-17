@@ -1,0 +1,17 @@
+====== 52388 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9168
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-04-11
+**UnitDateFinal**:: 1868-04-11
+**ScopeContent**:: Data de nascimento - 1847-07-21
+Filiação - João Carvalho e Maria Joaquina
+Naturalidade - Junqueira S. Simão
+Residência - Cavalões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52388
+**LangMaterial**:: Português
+**PhysLoc**:: 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52388

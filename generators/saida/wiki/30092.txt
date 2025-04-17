@@ -1,0 +1,14 @@
+====== 30092 - DC - Sebastião da Costa e Sousa ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Sebastião da Costa e Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1973-10-03
+**UnitDateFinal**:: 1973-10-03
+**ScopeContent**:: Regedor substituto da freguesia de Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30092
+**LangMaterial**:: Português
+**PhysLoc**:: f. 47
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30092

@@ -1,0 +1,14 @@
+====== 99560 - UI - António Cristino ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: António Cristino
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916
+**UnitDateFinal**:: 1917
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99560
+
+===== Filhos =====
+  * [[99561.txt|99561 - DC - Cartão de visita para Alfredo]]

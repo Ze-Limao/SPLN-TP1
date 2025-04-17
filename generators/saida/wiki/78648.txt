@@ -1,0 +1,17 @@
+====== 78648 - DC - Inventário dos bens herdados por Simão Pereira e mulher de seus pais e sogros ======
+
+**Parent**:: 54471
+**RootParent**:: 31258
+**UnitTitle**:: Inventário dos bens herdados por Simão Pereira e mulher de seus pais e sogros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1769-09-09
+**UnitDateFinal**:: 1770-08-03
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6039 - cx. 42
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78648

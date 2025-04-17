@@ -1,0 +1,15 @@
+====== 25004 - UI - Actas dos resultados dos exames de Bombeiros, desde 1952 e à face do Regulamento ======
+
+**Parent**:: 20363
+**RootParent**:: 20342
+**UnitTitle**:: Actas dos resultados dos exames de Bombeiros, desde 1952 e à face do Regulamento
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1952-05-05
+**UnitDateFinal**:: 1973-08-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25004
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 107
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25004

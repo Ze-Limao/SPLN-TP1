@@ -1,0 +1,14 @@
+====== 7984 - DC - Termo de Luís Francisco Gomes da Costa ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Luís Francisco Gomes da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-19
+**UnitDateFinal**:: 1863-04-19
+**ScopeContent**:: Arrematação dos impostos indiretos municipais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7984
+**LangMaterial**:: Português
+**PhysLoc**:: f. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7984

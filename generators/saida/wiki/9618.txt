@@ -1,0 +1,19 @@
+====== 9618 - DC - Registo do recenseamento militar de João Lourenço ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João Lourenço
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Vitorina
+Naturalidade - Caminha
+Data de nascimento - 1877-10-10
+Profissão - 
+Estado civil - Casado
+Residência - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9618
+**LangMaterial**:: Português
+**PhysLoc**:: f. 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9618

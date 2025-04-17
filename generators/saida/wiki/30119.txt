@@ -1,0 +1,14 @@
+====== 30119 - DC - José Fernandes Forte ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: José Fernandes Forte
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-11-14
+**UnitDateFinal**:: 1974-11-14
+**ScopeContent**:: Regedor efetivo da freguesia de Mouquim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30119
+**LangMaterial**:: Português
+**PhysLoc**:: f. 60v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30119

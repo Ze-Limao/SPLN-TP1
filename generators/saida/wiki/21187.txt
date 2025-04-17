@@ -1,0 +1,21 @@
+====== 21187 - UI - Joaquim Gualberto de Sá Carneiro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Gualberto de Sá Carneiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-08-19
+**UnitDateFinal**:: 1922-04-28
+**ScopeContent**:: Joaquim Gualberto de Sá Carneiro nasceu em Vila Nova de Famalicão, Ruivães, 21.06.1861. Faleceu em Barcelos, Barcelinhos, 30.12.1946. Os seus pais são Albino de Sá Carneiro (01.07.1835) e Antónia Maria Monteiro (21.10.1832) Casamento a 22.06.1883 com Ana Rita Emília Chaves Marques  (04.11.1868). Filhos: Gaspar Maria Chaves Marques de Sá Carneiro; Joaquim Francisco Maria Chaves Marques de Sá Carneiro * 20.11.1899; Ana da Conceição Chaves Marques de Sá Carneiro; José Mariano de Azevedo de Figueiredo; Maria do Sacramento Chaves Marques de Sá Carneiro * 18.07.1889; Alexandre Luis de Castro Ferreira Braga; José Gualberto Chaves Marques de Sá Carneiro * 31.08.1897; Maria Francisca Judite Pinto da Costa Leite. Bacharel formado em Direito pela Universidade de Coimbra. Foi conselheiro e advogado.
+Fonte:  Anuário da Nobreza de Portugal - 1950 - pg. 651
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21187
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 746, 747, 748
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21187
+
+===== Filhos =====
+  * [[25839.txt|25839 - DC - Carta]]
+  * [[25840.txt|25840 - DC - Carta]]
+  * [[25841.txt|25841 - DC - Carta]]

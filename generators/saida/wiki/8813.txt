@@ -1,0 +1,18 @@
+====== 8813 - DC - Termo do exame de António Ferreira da Silva ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António Ferreira da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-08-20
+**UnitDateFinal**:: 1892-08-20
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Severino Ferreira da Silva
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8813
+**LangMaterial**:: Português
+**PhysLoc**:: f. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8813

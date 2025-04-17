@@ -1,0 +1,16 @@
+====== 28159 - DC - Vindima de 1906 Observações ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vindima de 1906 Observações
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-09-18
+**UnitDateFinal**:: 1906-10-08
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Diversas informações sobre a vindima de 1906.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28159
+**LangMaterial**:: Português
+**PhysLoc**:: AS 432 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28159

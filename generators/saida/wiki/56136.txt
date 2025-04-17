@@ -1,0 +1,17 @@
+====== 56136 - DC - Recibo da 2ª Repartição da Direcção Geral das Contribuições Directas ======
+
+**Parent**:: 56135
+**RootParent**:: 31258
+**UnitTitle**:: Recibo da 2ª Repartição da Direcção Geral das Contribuições Directas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-04-30
+**UnitDateFinal**:: 1891-07-13
+**ScopeContent**:: Recibo de pagamento de 4 prestações de direitos de mercê da Comenda da Conceição, pagos pelo Visconde de Pindela. Este recibo está no envelope CP 14240, juntamente com CP 14242 a CP 14250.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56136
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14241 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56136

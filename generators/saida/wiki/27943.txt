@@ -1,0 +1,16 @@
+====== 27943 - DC - Carta ======
+
+**Parent**:: 21266
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-03-17
+**UnitDateFinal**:: 1916-03-17
+**ScopeContent**:: Sousa Fernandes afirma que entregou a planta da escola de Seide no Ministério da Instrução e que haverá um subsídio de 2000 a 2500 escudos. Carta manuscrita assinada, de Lisboa. Papel timbrado "Republica Portuguesa. Senado".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27943
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1036 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27943

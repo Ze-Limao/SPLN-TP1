@@ -1,0 +1,15 @@
+====== 20971 - DC - Nº 18/61 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 18/61
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-06-09
+**UnitDateFinal**:: 1961-06-09
+**ScopeContent**:: Segundo contrato adicional da empreitada de construção dos Paços do Concelho e Tribunal
+Outorgante - Joaquim de Sousa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20971
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20971

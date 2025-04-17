@@ -1,0 +1,16 @@
+====== 29282 - DC - Impermeabilidade dos tecidos ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Impermeabilidade dos tecidos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-02-27
+**UnitDateFinal**:: 1897-02-27
+**ScopeContent**:: Composição: caoutchouc ou goma do Pará, benzina, parafina.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29282
+**LangMaterial**:: Português
+**PhysLoc**:: AS 191 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29282

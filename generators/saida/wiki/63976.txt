@@ -1,0 +1,25 @@
+====== 63976 - SR - Documentos eclesiásticos ======
+
+**Parent**:: 60536
+**RootParent**:: 60536
+**UnitTitle**:: Documentos eclesiásticos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1613-09-26
+**UnitDateFinal**:: 1873-02-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60704
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63976
+
+===== Filhos =====
+  * [[63977.txt|63977 - UI - Livro de assento dos capítulos da Igreja de S. Tiago de Antas]]
+  * [[64005.txt|64005 - DC - Registo de Mandado de Capienda possessione da Paroquial Igreja de S. Tiago de Antas em que o reverendo Pedro de Mendonça Barata de Moura, Abade da Igreja de S. Tiago de Antas, resigna a favor do Reverendo Rodrigo de Mendonça de Vasconcelos e Sousa, do Bispado da Guarda]]
+  * [[64167.txt|64167 - DC - Sentença apostólica pela qual se dá licença para dizer missa votiva de Nossa Senhora, nos dias santos e de defuntos, nos dias feriados, por espaço de três anos, dada a favor de Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas]]
+  * [[65959.txt|65959 - DC - Carta de confirmação e instituição de benefícios simples ao Reverendo  Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas]]
+  * [[65960.txt|65960 - DC - Título paroquial da Igreja S. Tiago de Antas e a sua anexa S. Miguel de Gemunde a favor do Reverendo  Rodrigo de Mendonça de Vasconcelos e Sousa]]
+  * [[66166.txt|66166 - DC - Carta de sentença apostólica de Bula de confirmação da Igreja de S. Tiago de Antas a favor do Reverendo Luís de Moura e Mendonça]]
+  * [[66170.txt|66170 - DC - Instrumento de poder e procuração de resignação do reverendo Pedro de Mendonça Barata de Moura, abade da paróquia da Igreja de S. Tiago de Antas, a favor de Rodrigo de Mendonça de Vasconcelos e Sousa]]
+  * [[66171.txt|66171 - DC - Carta de examinação de Rodrigo Mendonça]]
+  * [[66258.txt|66258 - DC - Documentos sobre a instituição de premissas das bulas concedidas a favor do Doutor João Soares de Brito da freguesia de S. Tiago de Antas]]
+  * [[66346.txt|66346 - DC - Afonso Torcato de Mendonça Deão de na cidade de Lisboa e juiz de comissário apóstolo do negócio]]
+  * [[66429.txt|66429 - DC - Respondendo sobre funções do Abade de S. Tiago de Antas de Manuel Mendes sobre procedimentos eclesiásticos]]
+  * [[78854.txt|78854 - DC - Título de um dos benefícios rações estabelecidos na Igreja do Mosteiro de S. Tiago de Antas a favor do reverendo Luís Pedro de Brito Caldeira, prelado da Igreja Patriarcal de Lisboa]]

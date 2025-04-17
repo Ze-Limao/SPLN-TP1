@@ -1,0 +1,18 @@
+====== 50975 - DC - Registo do recenseamento militar de Sebastião ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Sebastião
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1844-01-20
+Filiação - António Ferreira Gomes e Rosa Maria da Conceição
+Naturalidade - Requião
+Profissão - Caixeiro
+Residência - Requião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50975
+**LangMaterial**:: Português
+**PhysLoc**:: 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50975

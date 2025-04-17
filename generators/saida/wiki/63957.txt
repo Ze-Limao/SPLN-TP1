@@ -1,0 +1,15 @@
+====== 63957 - UI - Livro das obrigações paroquiais, bens e costumes da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 63956
+**RootParent**:: 60536
+**UnitTitle**:: Livro das obrigações paroquiais, bens e costumes da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1707-11-07
+**UnitDateFinal**:: 1707-11-07
+**ScopeContent**:: Manuscrito, original, encadernado a pele com atilhos. Na capa título a lápis "Livro das Obrigações parochiais, bens e costumes 1701". Título a tinta "Livro dos mandados da pastoral ..dos costumes desta fregª". Tem 7 f. escritas, as restantes em branco. Termina em 1804-04-28.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 139 - cx. 6
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63957

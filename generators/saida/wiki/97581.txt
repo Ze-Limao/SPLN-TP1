@@ -1,0 +1,15 @@
+====== 97581 - UI - Processo nº 17 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 17
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-05-08
+**UnitDateFinal**:: 1982-02-04
+**ScopeContent**:: Junto com Autos de Execução Sentença nº 17-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 396 - cx. 23
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97581

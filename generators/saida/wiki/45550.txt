@@ -1,0 +1,18 @@
+====== 45550 - UI - António Feijó ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: António Feijó
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-10-31
+**UnitDateFinal**:: 1893-12-19
+**ScopeContent**:: 1 documento relativo a correspondência enviada (minuta de carta) e 3 documentos de correspondência recebida.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45550
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45550
+
+===== Filhos =====
+  * [[45551.txt|45551 - DC - Carta]]
+  * [[45552.txt|45552 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45553.txt|45553 - DC - Carta]]
+  * [[45554.txt|45554 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

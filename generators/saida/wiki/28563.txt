@@ -1,0 +1,23 @@
+====== 28563 - DC - Notas sobre o reinado D. Manuel 1495-1521 ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre o reinado D. Manuel 1495-1521
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28563
+**LangMaterial**:: Português
+**PhysLoc**:: AS 99 (1) a 99 (6)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28563
+
+===== Filhos =====
+  * [[28564.txt|28564 - DC - D. Manuel 1495-1521]]
+  * [[28565.txt|28565 - DC - Alv. para o Almoxarife ou Recebedor do Almoxarifado d’Aveiro]]
+  * [[28566.txt|28566 - DC - Os navios de Guerra eram construídos n’esta Capital]]
+  * [[28567.txt|28567 - DC - Porto Seguro actual]]
+  * [[28568.txt|28568 - DC - Depois em 1502 fez o mesmo Rei (D. Manuel)]]
+  * [[28569.txt|28569 - DC - Resposta da Rainha à Câmara de Viana do Minho]]
+  * [[29896.txt|29896 - DC - Couto, Memórias Militares]]

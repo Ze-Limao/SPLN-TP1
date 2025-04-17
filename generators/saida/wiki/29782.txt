@@ -1,0 +1,16 @@
+====== 29782 - DC - Carta ======
+
+**Parent**:: 21310
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-10-26
+**UnitDateFinal**:: 1901-10-26
+**ScopeContent**:: Carta manuscrita assinada, de Paçô (Santa Maria da Feira). Pede notícias sobre as eleições para a Câmara Municipal de 1901 e sobre os nacionalistas e informa o que se está a passar em termos de eleições em Santa Maria da Feira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29782
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1191 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29782

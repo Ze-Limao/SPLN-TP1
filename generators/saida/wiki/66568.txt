@@ -1,0 +1,15 @@
+====== 66568 - DC - Escritura de distrate e pagamento e quitação que dá o reverendo João de Sousa Negreiros ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de distrate e pagamento e quitação que dá o reverendo João de Sousa Negreiros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1771-12-23
+**UnitDateFinal**:: 1771-12-23
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 586 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66568

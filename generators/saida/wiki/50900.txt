@@ -1,0 +1,18 @@
+====== 50900 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-04-25
+Filiação - Custódio José Luís e Ana Joaquina da Silva
+Naturalidade - Fradelos
+Profissão - Criado de servir
+Residência - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50900
+**LangMaterial**:: Português
+**PhysLoc**:: 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50900

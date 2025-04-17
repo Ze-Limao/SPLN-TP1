@@ -1,0 +1,18 @@
+====== 47147 - DC - Registo do recenseamento eleitoral de Manuel Alves Luís ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Alves Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vale S. Cosme
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Torre
+Idade - 55
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47147
+**LangMaterial**:: Português
+**PhysLoc**:: 69v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47147

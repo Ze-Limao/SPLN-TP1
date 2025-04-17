@@ -1,0 +1,17 @@
+====== 56996 - DC - Minuta de ofício para Louis Bergé de António da Penha e Costa ======
+
+**Parent**:: 56945
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de ofício para Louis Bergé de António da Penha e Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-04-03
+**UnitDateFinal**:: 1934-04-03
+**ScopeContent**:: Ofício datilografado para Louis Bergé (administrador delegado dos Etlablissements de Travaux Publics et de Cosntruction, La Fayette, Paris.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56996
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 2760 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56996

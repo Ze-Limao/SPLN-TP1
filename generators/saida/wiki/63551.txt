@@ -1,0 +1,19 @@
+====== 63551 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Joaquim António da Costa e Ana Joaquina
+Naturalidade - Cruz
+Morada - Ignora-se
+Data de nascimento - 1866-04-06
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63551

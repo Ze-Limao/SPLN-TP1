@@ -1,0 +1,16 @@
+====== 24877 - DC - Carta ======
+
+**Parent**:: 21081
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-09-01
+**UnitDateFinal**:: 1878-09-01
+**ScopeContent**:: Carta manuscrita assinada, de Vila do Conde. Papel timbrado "Redacção - Portugal Antigo e Moderno". Augusto Pinho Leal solicita informação sobre o Paço de Ninães na freguesia de Requião e se é este que Camilo Castelo Branco fala na obra "O Senhor do Paço de Ninães".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24877
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 310 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24877

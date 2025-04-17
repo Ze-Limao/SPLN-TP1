@@ -1,0 +1,17 @@
+====== 21370 - UI - Artur Ernesto de Santa Cruz Magalhães ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Artur Ernesto de Santa Cruz Magalhães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-12-13
+**UnitDateFinal**:: 1915-06-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21370
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1326, 1502
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21370
+
+===== Filhos =====
+  * [[30193.txt|30193 - DC - Carta]]
+  * [[30194.txt|30194 - DC - Carta]]

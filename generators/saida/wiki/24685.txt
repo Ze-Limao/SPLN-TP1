@@ -1,0 +1,16 @@
+====== 24685 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-12-10
+**UnitDateFinal**:: 1905-12-10
+**ScopeContent**:: António Ferraz agradece o apoio e devolve a carta do Esteves Pereira que dá notícias sobre a sua pretensão.  Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24685
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 187 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24685

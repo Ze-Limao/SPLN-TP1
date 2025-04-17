@@ -1,0 +1,16 @@
+====== 8034 - DC - Termo de António Grenha ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António Grenha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-07-14
+**UnitDateFinal**:: 1876-07-14
+**ScopeContent**:: Declaração para seus filhos Bernardo, José e António serem considerados cidadãos espanhois
+Nacionalidade - Espanhola
+Morada - Seide S. Miguel
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8034
+**LangMaterial**:: Português
+**PhysLoc**:: f. 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8034

@@ -1,0 +1,17 @@
+====== 51890 - DC - Registo do recenseamento militar de José Bernardino ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Bernardino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-03-09
+Filiação - Joaquim da Silva e Justina Rosa 
+Naturalidade - Cabeçudos
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51890
+**LangMaterial**:: Português
+**PhysLoc**:: 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51890

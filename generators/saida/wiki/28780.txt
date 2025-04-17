@@ -1,0 +1,14 @@
+====== 28780 - UI - José Falcão ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: José Falcão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-12-02
+**UnitDateFinal**:: 1892-12-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28780
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28780
+
+===== Filhos =====
+  * [[28781.txt|28781 - DC - Carta]]

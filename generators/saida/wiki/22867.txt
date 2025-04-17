@@ -1,0 +1,16 @@
+====== 22867 - DC - Registo do recenseamento eleitoral de Francisco de Araújo Teixeira de Novais ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco de Araújo Teixeira de Novais
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Nine
+Profissão - Lavrador
+Morada - Landeiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22867
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22867

@@ -1,0 +1,32 @@
+====== 54316 - UI - Frei António de Santa Isabel Sepúlveda ======
+
+**Parent**:: 31297
+**RootParent**:: 31258
+**UnitTitle**:: Frei António de Santa Isabel Sepúlveda
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1822-09-26
+**UnitDateFinal**:: 1833-03-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54316
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54316
+
+===== Filhos =====
+  * [[54272.txt|54272 - DC - Carta]]
+  * [[54317.txt|54317 - DC - Carta]]
+  * [[54318.txt|54318 - DC - Carta]]
+  * [[54319.txt|54319 - DC - Carta]]
+  * [[54320.txt|54320 - DC - Carta]]
+  * [[54321.txt|54321 - DC - Carta]]
+  * [[54322.txt|54322 - DC - Carta]]
+  * [[54323.txt|54323 - DC - Carta]]
+  * [[54324.txt|54324 - DC - Carta]]
+  * [[54325.txt|54325 - DC - Carta]]
+  * [[54326.txt|54326 - DC - Carta]]
+  * [[54327.txt|54327 - DC - Carta]]
+  * [[54328.txt|54328 - DC - Carta]]
+  * [[54329.txt|54329 - DC - Carta]]
+  * [[54330.txt|54330 - DC - Carta]]
+  * [[54332.txt|54332 - DC - Carta]]
+  * [[78575.txt|78575 - DC - Carta]]
+  * [[78576.txt|78576 - DC - Cópia do princípio da contrariedade e reconvenção]]

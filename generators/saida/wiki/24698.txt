@@ -1,0 +1,16 @@
+====== 24698 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-08-27
+**UnitDateFinal**:: 1907-08-27
+**ScopeContent**:: António Ferraz demonstra preocupações com doenças de familiares. Lamenta não estar presente na visita de JAM a Barcelos, acompanhando os Pindelas. Analisa o brasão supostamente dos Machados Azevedos. Relata uma visita da família real a Barcelos (D.Maria II e D.Fernando e os filhos D.Pedro e D.Luiz) e do incêndio na casa de José de Magalhães onde se hospedavam. Carta manuscrita assinada, Apúlia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24698
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 200 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24698

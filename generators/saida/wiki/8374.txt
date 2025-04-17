@@ -1,0 +1,16 @@
+====== 8374 - UI - 'A Pátria' ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: 'A Pátria'
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-07-17
+**UnitDateFinal**:: 1895-07-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8374
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.33
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8374
+
+===== Filhos =====
+  * [[8375.txt|8375 - DC - Ofício]]

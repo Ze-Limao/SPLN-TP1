@@ -1,0 +1,16 @@
+====== 23008 - DC - Registo do recenseamento eleitoral de Joaquim Alves Salazar ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Alves Salazar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Pedome
+Profissão - Tecelão
+Morada - Alegria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23008
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23008

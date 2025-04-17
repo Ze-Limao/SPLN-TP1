@@ -1,0 +1,15 @@
+====== 27981 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de António José Ferreira Pinto da Cunha ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Manuscrito com juramento de admissão à Sociedade do Raio de António José Ferreira Pinto da Cunha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1862
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27981
+**LangMaterial**:: Português
+**PhysLoc**:: AS 248 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27981

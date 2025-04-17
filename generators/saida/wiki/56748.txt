@@ -1,0 +1,15 @@
+====== 56748 - UI - João Afonso Simão Pinheiro Lobo de Figueira Machado ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: João Afonso Simão Pinheiro Lobo de Figueira Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56748
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56748
+
+===== Filhos =====
+  * [[56749.txt|56749 - DC - Minuta de carta]]
+  * [[56751.txt|56751 - DC - Cartão de visita]]

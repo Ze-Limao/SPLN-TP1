@@ -1,0 +1,16 @@
+====== 25401 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-05-05
+**UnitDateFinal**:: 1914-05-05
+**ScopeContent**:: Eugénio de Castro relembra o passeio com JAM a Seide e a necessidade de reconstrução da casa de Camilo e transformação em museu. Carta manuscrita assinada, de Coimbra. 35, rua do Norte. Tem o brasão timbrado a vermelho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25401
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 380 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25401

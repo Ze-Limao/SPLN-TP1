@@ -1,0 +1,14 @@
+====== 80671 - UI - Processo nº 301 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 301
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1978-10-24
+**UnitDateFinal**:: 1982-03-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 295 - cx. 15
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80671

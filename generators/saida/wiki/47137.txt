@@ -1,0 +1,18 @@
+====== 47137 - DC - Registo do recenseamento eleitoral de Manuel António Ferreira ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel António Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vale S. Cosme
+Profissão - Lavrador
+Estado - Casado
+Morada - Lourido
+Idade - 75
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47137
+**LangMaterial**:: Português
+**PhysLoc**:: 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47137

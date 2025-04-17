@@ -1,0 +1,16 @@
+====== 30358 - DC - Listagem de documentos de investigação genealógica de António Ferraz ======
+
+**Parent**:: 22757
+**RootParent**:: 20290
+**UnitTitle**:: Listagem de documentos de investigação genealógica de António Ferraz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1998
+**UnitDateFinal**:: 1998
+**ScopeContent**:: Folhas impressas com informação sobre os documentos com cota DG29.1 a DG29.25.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30358
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1547 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30358

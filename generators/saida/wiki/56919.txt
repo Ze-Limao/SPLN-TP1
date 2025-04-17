@@ -1,0 +1,16 @@
+====== 56919 - SR - Documentos ======
+
+**Parent**:: 56918
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1933
+**UnitDateFinal**:: 1934-11-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56919
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56919
+
+===== Filhos =====
+  * [[56921.txt|56921 - DC - Negócios frustrados Dorville e outros. Dezembro 1933-Novembro de 1934]]
+  * [[56945.txt|56945 - DC - Negócios Dorville. Cartas Dorville. Dezembro 1933-Novembro de 1934]]
+  * [[57009.txt|57009 - DC - Negócios Dorville, etc. Cartas Penha e Costa e Acciauoli]]

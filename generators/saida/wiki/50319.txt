@@ -1,0 +1,19 @@
+====== 50319 - UI - António Augusto Moniz Arriscado de Lacerda ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: António Augusto Moniz Arriscado de Lacerda
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-02-13
+**UnitDateFinal**:: 1918-02-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50319
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50319
+
+===== Filhos =====
+  * [[50160.txt|50160 - DC - Carta]]
+  * [[50320.txt|50320 - DC - Carta]]

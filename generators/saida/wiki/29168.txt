@@ -1,0 +1,16 @@
+====== 29168 - DC - Morte de Anthero ======
+
+**Parent**:: 29153
+**RootParent**:: 27963
+**UnitTitle**:: Morte de Anthero
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891
+**UnitDateFinal**:: 1891
+**ScopeContent**:: Livreto impresso de autoria de Joaquim de Araújo, impresso na Typ. - Rua do Bonjardim, Porto, 1891. Dedicatória na folha que antecede a folha de rosto: «Ao seu querido amigo e ilustre escritor Alberto Sampaio / Com um abraço do / Joaquim de Araújo».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29168
+**LangMaterial**:: Português
+**PhysLoc**:: AS 293 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29168

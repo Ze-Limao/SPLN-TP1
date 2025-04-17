@@ -1,0 +1,18 @@
+====== 49300 - DC - Registo do recenseamento eleitoral de Joaquim da Silva ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Seide S. Paio
+Profissão - Lavrador
+Estado - Casado
+Morada - Caride
+Idade - 49
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49300
+**LangMaterial**:: Português
+**PhysLoc**:: 75v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49300

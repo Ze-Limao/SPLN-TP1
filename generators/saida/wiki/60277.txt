@@ -1,0 +1,15 @@
+====== 60277 - UI - Maria Carolina de Magalhães ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Maria Carolina de Magalhães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60277
+
+===== Filhos =====
+  * [[60278.txt|60278 - DC - Carta]]
+  * [[60279.txt|60279 - DC - Cartão]]

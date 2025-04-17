@@ -1,0 +1,18 @@
+====== 8937 - DC - Termo do exame de Joaquim da Costa Carneiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim da Costa Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-28
+**UnitDateFinal**:: 1894-07-28
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - José Domingues Carneiro
+Naturalidade - Fradelos
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8937
+**LangMaterial**:: Português
+**PhysLoc**:: f. 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8937

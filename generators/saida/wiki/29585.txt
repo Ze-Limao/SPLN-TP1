@@ -1,0 +1,11 @@
+====== 29585 - SR - 2006 ======
+
+**Parent**:: 29620
+**RootParent**:: 29618
+**UnitTitle**:: 2006
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 2006-01-01
+**UnitDateFinal**:: 2006-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29585
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29585

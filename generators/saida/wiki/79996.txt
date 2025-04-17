@@ -1,0 +1,15 @@
+====== 79996 - UI - Processo nº 133 ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 133
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-03-14
+**UnitDateFinal**:: 1970-03-31
+**ScopeContent**:: Junto com Processo de Autos de Processo Comum nº 3, Execução por Custas nº 39, 133 e Execução de Sentença nº 122.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 17 - cx. 2
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79996

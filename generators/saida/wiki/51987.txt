@@ -1,0 +1,17 @@
+====== 51987 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9168
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-02-01
+**UnitDateFinal**:: 1868-04-04
+**ScopeContent**:: Data de nascimento - 1847-10-11
+Filiação - Joaquim Machado de Oliveira e Rita Maria Dias
+Naturalidade - Aves
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51987
+**LangMaterial**:: Português
+**PhysLoc**:: 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51987

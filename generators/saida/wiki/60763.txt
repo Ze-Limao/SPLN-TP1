@@ -1,0 +1,15 @@
+====== 60763 - DC - Emprazamento do casal de Vilar d'Além da Fonte, situado na freguesia de S. Tiago de Antas, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Gonçalo Dias e a sua mulher Catarina Anes ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Vilar d'Além da Fonte, situado na freguesia de S. Tiago de Antas, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Gonçalo Dias e a sua mulher Catarina Anes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1542-01-21
+**UnitDateFinal**:: 1542-01-21
+**ScopeContent**:: Manuscrito, original, com selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 33 - cx. P28
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60763

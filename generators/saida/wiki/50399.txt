@@ -1,0 +1,18 @@
+====== 50399 - DC - Registo do recenseamento militar de Manuel José ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-11-20
+Filiação - António do Amaral e Domingas Duarte
+Naturalidade - Arnoso Santa Maria
+Profissão - Cesteiro
+Residência - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50399
+**LangMaterial**:: Português
+**PhysLoc**:: 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50399

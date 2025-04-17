@@ -1,0 +1,20 @@
+====== 20557 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Avidos
+Filiação - João Correia e Joaquina Rita
+Naturalidade - Avidos
+Data de nascimento - 1870-09-15
+Emprego - Criado de servir
+Estado - Solteiro
+Residência - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20557
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20557

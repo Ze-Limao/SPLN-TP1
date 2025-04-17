@@ -1,0 +1,18 @@
+====== 54465 - SR - Documentos ======
+
+**Parent**:: 31276
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54465
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54465
+
+===== Filhos =====
+  * [[54255.txt|54255 - DC - Escritura de posse de Soutelo de Baltasar Pinheiro Lobo]]
+  * [[54256.txt|54256 - DC - Escritura de compra da Quinta da Costa, permuta com o campo do Valaído e suas águas e moendas do Godinho entre Baltasar Pinheiro Lobo e Maria Portocarreiro e o primo Francisco Pinheiro Lobo]]
+  * [[78300.txt|78300 - DC - Compra do casal do Bairro, em Jesufrei, que dele fez Baltasar Pinheiro Lobo]]
+  * [[78658.txt|78658 - DC - Sentença contra Francisco Gonçalves, de Pousada, Jesufrei e sua mulher Inês Gomes de Baltasar Pinheiro Lobo e sua mulher Maria Fagundes Portocarreiro]]
+  * [[98256.txt|98256 - DC - Composição amigável sobre demandas de Frei Inácio de Belém e Baltasar Pinheiro Lobo, Paulo Cunha Soutomaior, morador em Barcelos, sobre casal da Ribela]]
+  * [[99080.txt|99080 - DC - Procuração de Baltasar Pinheiro Lobo e mulher Maria Fagundes Portocarreiro, moradores na cidade de Braga, para administração do campo do Gordigo, em Sezures]]
+  * [[99081.txt|99081 - DC - Petição para proibir o uso do Monte de Pindela aos residentes]]

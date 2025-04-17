@@ -1,0 +1,16 @@
+====== 25953 - DC - Carta ======
+
+**Parent**:: 21451
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-08-08
+**UnitDateFinal**:: 1914-08-08
+**ScopeContent**:: Carta manuscrita assinada, de Velasquez, 67 Madrid.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25953
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 752 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25953

@@ -1,0 +1,16 @@
+====== 29975 - DC - Carta ======
+
+**Parent**:: 21410
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-11-03
+**UnitDateFinal**:: 1903-11-03
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Papel timbrado "Correio Nacional. Praça do Município 32, 2º Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29975
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1385 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29975

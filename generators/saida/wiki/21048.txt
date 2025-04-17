@@ -1,0 +1,15 @@
+====== 21048 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7708
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1951-06-16
+**UnitDateFinal**:: 1951-06-16
+**ScopeContent**:: Empreitada da obra de abastecimento de água à Escola Primária de Mogege, construída pelo Plano dos Centenários
+Outorgante - Gabriel Alves Sampaio Couto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21048
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 62
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21048

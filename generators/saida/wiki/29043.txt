@@ -1,0 +1,16 @@
+====== 29043 - DC - Carta ======
+
+**Parent**:: 29041
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-02-10
+**UnitDateFinal**:: 1898-02-10
+**ScopeContent**:: Carta expedida de Vizela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29043
+**LangMaterial**:: Português
+**PhysLoc**:: AS 653 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29043

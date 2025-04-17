@@ -1,0 +1,16 @@
+====== 21398 - UI - Francisco Cabral de Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco Cabral de Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1860
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21398
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1365
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21398
+
+===== Filhos =====
+  * [[30232.txt|30232 - DC - Carta]]

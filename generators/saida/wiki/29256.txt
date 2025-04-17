@@ -1,0 +1,16 @@
+====== 29256 - DC - Enxertos de vides (vinhão) em Março de 1899 ======
+
+**Parent**:: 29254
+**RootParent**:: 27963
+**UnitTitle**:: Enxertos de vides (vinhão) em Março de 1899
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-03
+**UnitDateFinal**:: 1899-03
+**ScopeContent**:: Na nota a lápis lê-se o seguinte: «Despesa - 1 homem, 2 dias, 800 rs.».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29256
+**LangMaterial**:: Português
+**PhysLoc**:: AS 369 (3) - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29256

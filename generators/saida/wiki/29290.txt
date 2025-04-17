@@ -1,0 +1,17 @@
+====== 29290 - DC - Para pintura d´interior ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Para pintura d´interior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Composição: cola, terra de Siena queimada, terra de Siena crua, sombra. As cores presentes na luz branca são obtidas, pelo pintor, graças a pigmentos naturais ou sintéticos, passíveis de maior ou menor solubilidade. Esses pigmentos são terras naturais (terra-de-siena), terras calcinadas (ocre vermelho, terra-de-siena queimada), minerais em pó (cinábrio), substâncias de origem vegetal (garança) ou animal (cochonilha); todavia, os corantes mais comuns são à base de sais minerais obtidos através de reações químicas. Portanto, a cor Terra de Siena é obtida através da própria natureza, ou seja, de pigmentos de terras naturais.
+Fonte: <br.answers.yahoo.com>
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29290
+**LangMaterial**:: Português
+**PhysLoc**:: AS 199 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29290

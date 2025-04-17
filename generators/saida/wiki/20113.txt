@@ -1,0 +1,31 @@
+====== 20113 - UI - Registo da correspondência expedida para os Regedores ======
+
+**Parent**:: 20108
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida para os Regedores
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1926-01-15
+**UnitDateFinal**:: 1926-12-28
+**ScopeContent**:: Não tem termo de abertura. O conteúdo da correspondência está resumido. 
+Contém:
+Apontamento, sem data, 1 f.; papel.
+Circular nº 145 do Administrador do Concelho de Vila Nova de Famalicão dirigida aos Cidadãos Regedores das freguesias do Concelho, 1926-05-29, 1 f. impressa; papel.
+Circular nº 259 do Administrador do Concelho de Vila Nova de Famalicão dirigida aos Regedores de todo o concelho, 1926-07-01, 1 f. colada; papel.
+Circular nº 264 do Administrador do Concelho de Vila Nova de Famalicão dirigida aos Regedores de todo o concelho, 1926-07-03, 1 f. colada; papel.
+Cópia de Circular nº 295 do Administrador do Concelho de Vila Nova de Famalicão dirigida aos Cidadãos Regedores das freguesias do Concelho de Famalicão, 1926-07-16, 1 f. policopiada, colada; papel.
+Cópia da Circular nº 339 do Administrador do Concelho de Vila Nova de Famalicão dirigida aos Cidadãos Regedores das freguesias do Concelho, 1926-07-27, 1 f. colada; papel.
+Cópia da Circular nº 355 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Regedor da freguesia de, 1926-08-01, 1 f. colada; papel.
+Cópia de Circular nº 380 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Regedor da freguesia do Concelho de Famalicão, 1926-08-12, 1 f. colada; papel.
+Cópia de Circular do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Presidente da Comissão Administrativa da Junta de freguesia de, 1926-09-06, 1 f. colada; papel.
+Cópia de Circular do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Regedor da freguesia deste concelho, 1926-10-01, 1 f. colada; papel.
+Edital Manifesto da produção de milho de sequeiro, arroz, feijão, batata de regadio e vinho, da Administração do concelho, 1926-10-30, 1 f. impressa colada; papel.
+Cópia de Circular nº 497 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Regedor da freguesia, 1926-11-06, 1 f. colada; papel.
+Cópia de Circular do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Regedor da freguesia, 1926-11-13, 1 f. colada; papel.
+Cópia de Circular nº 506 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Regedor da freguesia, 1926-11-13, 1 f. colada; papel.
+Cópia de Circular nº 597 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Regedor da freguesia, 1926-12-22, 1 f. policopiada, colada; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20113
+**LangMaterial**:: Português
+**PhysLoc**:: AC 45
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20113

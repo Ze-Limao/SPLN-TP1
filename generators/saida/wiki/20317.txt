@@ -1,0 +1,14 @@
+====== 20317 - UI - Registo de entrada nº3 ======
+
+**Parent**:: 20220
+**RootParent**:: 7651
+**UnitTitle**:: Registo de entrada nº3
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1953-09-11
+**UnitDateFinal**:: 1954-04-13
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir este livro para nele se registar (manuscrito) correspondência entrada …”. Começa com o registo nº 1630 até ao nº 2377. No ano 1954 tem 633 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20317
+**LangMaterial**:: Português
+**PhysLoc**:: 717
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20317

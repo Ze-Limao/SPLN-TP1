@@ -1,0 +1,15 @@
+====== 61206 - UI - Norton de Matos ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Norton de Matos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1950-07-17
+**UnitDateFinal**:: 1950-07-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61206
+
+===== Filhos =====
+  * [[61207.txt|61207 - DC - Carta]]

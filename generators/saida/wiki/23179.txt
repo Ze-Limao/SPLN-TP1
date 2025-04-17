@@ -1,0 +1,16 @@
+====== 23179 - DC - Carta ======
+
+**Parent**:: 21052
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-03-01
+**UnitDateFinal**:: 1910-03-01
+**ScopeContent**:: Alfredo Pons agradece a gratificação e informa sobre as datas e a genealogia de Francisco de Couto. Informa sobre pesquisas e estudos efetuados na Torre do Tombo. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23179
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 68 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23179

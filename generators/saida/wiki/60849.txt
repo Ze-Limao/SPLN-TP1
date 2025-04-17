@@ -1,0 +1,21 @@
+====== 60849 - SR - A. Sousa Lopes. Foto Humberto ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: A. Sousa Lopes. Foto Humberto
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1960
+**ScopeContent**:: Editor A. Sousa Lopes. Fotografia de Foto Humberto (Famalicão).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60849
+
+===== Filhos =====
+  * [[60857.txt|60857 - DC - Praça 9 de Abril]]
+  * [[60858.txt|60858 - DC - Campo Mouzinho - V. N. de Famalicão]]
+  * [[60860.txt|60860 - DC - Vista parcial de V. N. de Famalicão]]
+  * [[60880.txt|60880 - DC - Edifício dos Paços do concelho e Palácio da Justiça - V. N. de Famalicão]]
+  * [[60881.txt|60881 - DC - Edifício dos Paços do concelho e Palácio da Justiça - V. N. de Famalicão]]
+  * [[60882.txt|60882 - DC - Caixa Geral dos Depósitos e Hotel Garantia]]

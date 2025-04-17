@@ -1,0 +1,16 @@
+====== 21248 - UI - Miguel Dantas Gonçalves Pereira ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Miguel Dantas Gonçalves Pereira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880-12-04
+**UnitDateFinal**:: 1880-12-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21248
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 987
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21248
+
+===== Filhos =====
+  * [[26191.txt|26191 - DC - Carta]]

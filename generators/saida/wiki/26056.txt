@@ -1,0 +1,16 @@
+====== 26056 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Júlio Brandão agradece uma oferta e diz que foi ao Vinhal mas não estava ninguém. Carta manuscrita assinada, de Famalicão. Carta de 18 setembro, sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26056
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 850- cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26056

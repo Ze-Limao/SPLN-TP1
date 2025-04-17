@@ -1,0 +1,15 @@
+====== 65711 - DC - Feito contra Aires Dias, morador em Vilar, freguesia de S. Tiago de Antas, que o Abade Pero Jorge da Silva, acusava de impedir os moradores de casais de Vilar d´Além e de Vilar d´Aquém, de irem buscar água a duas fontes existentes no casal do réu, também foreiro da Igreja de Antas e que sempre tinham estado em posse e direito de o fazer ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Feito contra Aires Dias, morador em Vilar, freguesia de S. Tiago de Antas, que o Abade Pero Jorge da Silva, acusava de impedir os moradores de casais de Vilar d´Além e de Vilar d´Aquém, de irem buscar água a duas fontes existentes no casal do réu, também foreiro da Igreja de Antas e que sempre tinham estado em posse e direito de o fazer
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1553-06-05
+**UnitDateFinal**:: 1553-06-05
+**ScopeContent**:: Manuscrito, original, folhas cosidas. No canto superior esquerdo "Nº16"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 54 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65711

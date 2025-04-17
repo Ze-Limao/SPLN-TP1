@@ -1,0 +1,33 @@
+====== 60536 - F - Colegiada de São Tiago de Antas ======
+
+**Parent**:: 0
+**RootParent**:: 60536
+**UnitTitle**:: Colegiada de São Tiago de Antas
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1400
+**UnitDateFinal**:: 1909-04-18
+**ScopeContent**:: Conjunto de documentos dos quais mais de 50% são cartas de emprazamento (património fundiário da Igreja de S. Tiago de Antas).
+Fonte: Silva, António Joaquim (set. 1983). O Cartório da Igreja de S. Tiago de Antas. Boletim Cultural da Câmara Municipal de Vila Nova de Famalicão, nº 4, p. 37-45.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60536
+**LangMaterial**:: Português e Latim
+**AccessRestrict**:: Comunicável, sem restrições legais. As condições de acesso aos documentos estão sujeitas ao estado físico de cada um dos documentos.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60536
+
+===== Filhos =====
+  * [[60704.txt|60704 - SR - Arrendamentos. Permutas. Doações. Vendas]]
+  * [[60730.txt|60730 - SR - Tombos]]
+  * [[60766.txt|60766 - SR - Documentos Judiciais]]
+  * [[60773.txt|60773 - SR - Rações]]
+  * [[63945.txt|63945 - SR - Bens]]
+  * [[63947.txt|63947 - SR - Testamentos]]
+  * [[63949.txt|63949 - SR - Confraria de S. Tiago de Antas]]
+  * [[63952.txt|63952 - SR - Foros. Foral da igreja]]
+  * [[63954.txt|63954 - SR - Capelas. Ermidas. Sepulturas]]
+  * [[63956.txt|63956 - SR - Obrigações]]
+  * [[63971.txt|63971 - SR - Visitações Pastorais]]
+  * [[63976.txt|63976 - SR - Documentos eclesiásticos]]
+  * [[64006.txt|64006 - SR - Receita e despesa]]
+  * [[64091.txt|64091 - SR - Desobriga]]
+  * [[66106.txt|66106 - SR - Licenças de Batismo. Festividades. Matrimónios e Procissões]]

@@ -1,0 +1,16 @@
+====== 24302 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-11-21
+**UnitDateFinal**:: 1924-11-21
+**ScopeContent**:: António Cabral envia o livro “Camilo e Eça de Queirós”. Solicita que JAM acuse a receção do livro “Alexandre Cabral”. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24302
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 138 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24302

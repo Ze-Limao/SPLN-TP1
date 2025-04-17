@@ -1,0 +1,18 @@
+====== 45480 - DC - Registo do recenseamento eleitoral de Manuel Joaquim Tovar Meneses ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Joaquim Tovar Meneses
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Abade
+Estado - Solteiro
+Morada - residência
+Idade - 67
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45480
+**LangMaterial**:: Português
+**PhysLoc**:: 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45480

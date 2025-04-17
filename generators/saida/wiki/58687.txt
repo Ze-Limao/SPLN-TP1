@@ -1,0 +1,17 @@
+====== 58687 - DC - Carta ======
+
+**Parent**:: 54571
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-08-22
+**UnitDateFinal**:: 1904-09
+**ScopeContent**:: Carta manuscrita assinada. Carta para Ana junto de carta de António Augusto Ferreira de Sousa Fontes, de 1904-8-22. Estas cartas estão no maço "Setembro 1904".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58687
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9565 - cx. 61
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=58687

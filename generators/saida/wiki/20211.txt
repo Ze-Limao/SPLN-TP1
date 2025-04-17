@@ -1,0 +1,15 @@
+====== 20211 - UI - Auto de entrega dos bens do albergue ======
+
+**Parent**:: 20209
+**RootParent**:: 20048
+**UnitTitle**:: Auto de entrega dos bens do albergue
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1874-02-05
+**UnitDateFinal**:: 1874-09-03
+**ScopeContent**:: Termo de abertura: “Este livro tem de servir para n´elle se lavrarem os termos d´entrega dos bens do Albergue d´esta Villa e outros termos de posse…”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20211
+**LangMaterial**:: Português
+**PhysLoc**:: AC 92
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20211

@@ -1,0 +1,16 @@
+====== 22596 - DC - Registo do recenseamento eleitoral de Francisco José Alves ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco José Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Lavrador
+Morada - Vilar
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22596
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22596

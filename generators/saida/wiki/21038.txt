@@ -1,0 +1,15 @@
+====== 21038 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7708
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-07-15
+**UnitDateFinal**:: 1950-07-15
+**ScopeContent**:: Empreitada de construção do Mercado Municipal
+Outorgante - Joaquim Tinoco Osório
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21038
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21038

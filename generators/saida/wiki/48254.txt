@@ -1,0 +1,31 @@
+====== 48254 - UI - Aline Greindl ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Aline Greindl
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48254
+**LangMaterial**:: Francês
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48254
+
+===== Filhos =====
+  * [[48255.txt|48255 - DC - Carta]]
+  * [[48256.txt|48256 - DC - Carta]]
+  * [[48257.txt|48257 - DC - Carta]]
+  * [[48258.txt|48258 - DC - Carta]]
+  * [[48259.txt|48259 - DC - Carta]]
+  * [[48260.txt|48260 - DC - Carta]]
+  * [[48261.txt|48261 - DC - Carta]]
+  * [[48262.txt|48262 - DC - Carta]]
+  * [[48263.txt|48263 - DC - Carta]]
+  * [[48264.txt|48264 - DC - Carta]]
+  * [[48265.txt|48265 - DC - Carta]]
+  * [[48266.txt|48266 - DC - Carta]]
+  * [[48267.txt|48267 - DC - Carta]]
+  * [[48268.txt|48268 - DC - Carta]]
+  * [[48269.txt|48269 - DC - Carta]]
+  * [[48270.txt|48270 - DC - Carta]]

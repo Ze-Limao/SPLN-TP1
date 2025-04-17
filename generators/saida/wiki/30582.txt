@@ -1,0 +1,16 @@
+====== 30582 - DC - Registo do recenseamento eleitoral de José Joaquim de Araújo ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Joaquim de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Brufe
+Profissão - Carpinteiro
+Morada - Ribeira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30582
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30582

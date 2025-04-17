@@ -1,0 +1,30 @@
+====== 21347 - UI - Bernardo Pinheiro Correia de Melo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Bernardo Pinheiro Correia de Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880
+**UnitDateFinal**:: 1910-07-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21347
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1244 a 1258
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21347
+
+===== Filhos =====
+  * [[29946.txt|29946 - DC - Carta]]
+  * [[29947.txt|29947 - DC - Carta]]
+  * [[29948.txt|29948 - DC - Carta]]
+  * [[29949.txt|29949 - DC - Carta]]
+  * [[29950.txt|29950 - DC - Carta]]
+  * [[29951.txt|29951 - DC - Carta]]
+  * [[29952.txt|29952 - DC - Carta]]
+  * [[29953.txt|29953 - DC - Carta]]
+  * [[29954.txt|29954 - DC - Carta]]
+  * [[29955.txt|29955 - DC - Carta]]
+  * [[29956.txt|29956 - DC - Carta]]
+  * [[29957.txt|29957 - DC - Carta]]
+  * [[29958.txt|29958 - DC - Carta]]
+  * [[29959.txt|29959 - DC - Carta]]
+  * [[29960.txt|29960 - DC - Cartão]]

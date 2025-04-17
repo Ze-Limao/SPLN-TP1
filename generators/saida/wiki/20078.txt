@@ -1,0 +1,19 @@
+====== 20078 - SR - Autos de posse e juramento dos funcionários ======
+
+**Parent**:: 20059
+**RootParent**:: 20048
+**UnitTitle**:: Autos de posse e juramento dos funcionários
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1873-10-20
+**UnitDateFinal**:: 1926-07-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20078
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20078
+
+===== Filhos =====
+  * [[20079.txt|20079 - UI - Autos de posse e juramento dos funcionários]]
+  * [[20080.txt|20080 - UI - Autos de posse e juramento dos funcionários]]
+  * [[20081.txt|20081 - UI - Autos de posse e juramento dos funcionários]]
+  * [[20082.txt|20082 - UI - Autos de posse e juramento dos funcionários]]
+  * [[20083.txt|20083 - UI - Autos de posse e juramento dos funcionários]]

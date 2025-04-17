@@ -1,0 +1,16 @@
+====== 23858 - DC - Registo do recenseamento eleitoral de António Carneiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vilarinho das Cambas
+Profissão - Lavrador
+Morada - Monte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23858
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 88v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23858

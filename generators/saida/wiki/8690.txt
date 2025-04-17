@@ -1,0 +1,18 @@
+====== 8690 - DC - Termo do exame de José de Sousa Maia ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José de Sousa Maia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-20
+**UnitDateFinal**:: 1890-08-20
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Manuel António de Sousa Maia
+Naturalidade - Delães
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8690
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8690

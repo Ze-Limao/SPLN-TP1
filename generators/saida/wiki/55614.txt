@@ -1,0 +1,17 @@
+====== 55614 - DC - Status-quo no Atlantico Accordos feitos entre a França, Hespanha e Inglaterra 1907 ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Status-quo no Atlantico Accordos feitos entre a França, Hespanha e Inglaterra 1907
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-06-28
+**UnitDateFinal**:: 1907-07-18
+**ScopeContent**:: Documentos manuscritos. Contém cópia da "Memória a pedido do presidente do Conselho João Franco escrevi para base de um despacho ao Marquês de Soveral na Conferência da Paz em Haia" em 1907-06-28 (CP 12678(1); cópia de telegrama a João Franco, de Haia, assinado por Soveral, CP 12678(2) e minuta de carta a João Franco, da Casa de Pindela, 1907-07-18, assinado Vicente, CP 12678(3). No envelope CP 12663, junto com CP 12664 a CP 12684.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55614
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12678 - cx. 75
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55614

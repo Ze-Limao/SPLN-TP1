@@ -1,0 +1,16 @@
+====== 29250 - DC - Agaveamericana ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Agaveamericana
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1903
+**ScopeContent**:: Anotação sobre uma planta denominada agaveamericana.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29250
+**LangMaterial**:: Português
+**PhysLoc**:: AS 367 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29250

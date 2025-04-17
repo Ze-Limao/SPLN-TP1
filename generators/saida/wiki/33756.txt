@@ -1,0 +1,35 @@
+====== 33756 - UI - Teresa da Câmara ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Teresa da Câmara
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1888-04-23
+**UnitDateFinal**:: 1917-12-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33756
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33756
+
+===== Filhos =====
+  * [[33757.txt|33757 - DC - Cartão de visita]]
+  * [[33758.txt|33758 - DC - Carta]]
+  * [[33759.txt|33759 - DC - Carta]]
+  * [[33760.txt|33760 - DC - Carta]]
+  * [[33761.txt|33761 - DC - Carta]]
+  * [[33762.txt|33762 - DC - Cartão de visita]]
+  * [[33763.txt|33763 - DC - Carta]]
+  * [[33764.txt|33764 - DC - Carta]]
+  * [[33765.txt|33765 - DC - Carta]]
+  * [[33766.txt|33766 - DC - Carta]]
+  * [[33767.txt|33767 - DC - Carta]]
+  * [[33768.txt|33768 - DC - Carta]]
+  * [[33769.txt|33769 - DC - Carta]]
+  * [[33770.txt|33770 - DC - Carta]]
+  * [[33771.txt|33771 - DC - Carta]]
+  * [[33772.txt|33772 - DC - Carta]]
+  * [[33773.txt|33773 - DC - Cartão]]
+  * [[33774.txt|33774 - DC - Carta]]

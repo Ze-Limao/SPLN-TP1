@@ -1,0 +1,20 @@
+====== 25075 - UI - Correspondência recebida pela AHBVF de personalidades nacionais ======
+
+**Parent**:: 20386
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida pela AHBVF de personalidades nacionais
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-07-17
+**UnitDateFinal**:: 1936-11-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25075
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 173 - cx. 41
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25075
+
+===== Filhos =====
+  * [[25363.txt|25363 - DC - Ofício do Cardeal Patriarca dirigida ao Presidente da Direcção da  AHBVF]]
+  * [[25364.txt|25364 - DC - Carta de Ana Rosa Correia dirigida ao Comandante dos Bombeiros Voluntários de V.N. de Famalicão]]
+  * [[25365.txt|25365 - DC - Ofício da 2ª Repartição, nº53, assinado pelo Presidente da Câmara Municipal do concelho Famelicão José Rodrigues de Sá e Abreu dirigido a Francisco Maria de Oliveira e Silva]]

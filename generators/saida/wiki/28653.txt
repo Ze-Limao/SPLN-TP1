@@ -1,0 +1,19 @@
+====== 28653 - DC - Notas sobre a Foz do Leça, Matosinhos, Guifões e Moroza. ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre a Foz do Leça, Matosinhos, Guifões e Moroza.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Consultar capítulo III “O mar livre” do estudo As Povoas Marítimas do Norte de Portugal in Estudos Históricos e Económicos, ed. 1923, pp. 334.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28653
+**LangMaterial**:: Português
+**PhysLoc**:: AS 116 (1) a 116 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28653
+
+===== Filhos =====
+  * [[28654.txt|28654 - DC - Foz do Leça Matosinhos]]
+  * [[28655.txt|28655 - DC - D. Mafalda no seu testamento]]

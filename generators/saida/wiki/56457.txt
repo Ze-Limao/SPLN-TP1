@@ -1,0 +1,17 @@
+====== 56457 - DC - Antigo estabelecimento de chá, café e diversos generos de José Monteiro Guimarães ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Antigo estabelecimento de chá, café e diversos generos de José Monteiro Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-03-05
+**UnitDateFinal**:: 1918-01-09
+**ScopeContent**:: Duas faturas recibo para Viscondessa de Pindela, de cá preto e chá verde. Uma delas assinada e selada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56457
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4779 - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56457

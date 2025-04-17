@@ -1,0 +1,17 @@
+====== 56259 - DC - Mapas entregues pelo Feitor dos anos agrícolas de 1910, 1916, 1917, 1918, 1919, 1920 e 1921 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Mapas entregues pelo Feitor dos anos agrícolas de 1910, 1916, 1917, 1918, 1919, 1920 e 1921
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1924-02
+**ScopeContent**:: Maço "Archivo 1 Casa de Pindela Mappas entregues pelo feitor dos anos agrícolas de 1910 e de 1916, 1917, 1918, 1919, 1920 e 1921. Duplicado do Livro dos Mappas 1910 a 1921. (Fevereiro 1924)". Este documento estava na “Caixa 15”, que contém CP 13246 a CP 13255.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56259
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13249 - cx. 91
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56259

@@ -1,0 +1,23 @@
+====== 32467 - UI - Anselmo de Sousa Botelho ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Anselmo de Sousa Botelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-08-27
+**UnitDateFinal**:: 1892-02-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32467
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32467
+
+===== Filhos =====
+  * [[32468.txt|32468 - DC - Carta]]
+  * [[32469.txt|32469 - DC - Carta]]
+  * [[32470.txt|32470 - DC - Cartão]]
+  * [[32471.txt|32471 - DC - Cartão]]
+  * [[32472.txt|32472 - DC - Carta]]
+  * [[53089.txt|53089 - DC - Nota]]

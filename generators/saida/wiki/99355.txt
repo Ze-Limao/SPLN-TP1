@@ -1,0 +1,14 @@
+====== 99355 - UI - Padaria Portella, Lda. ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Padaria Portella, Lda.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-09-08
+**UnitDateFinal**:: 1915-09-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99355
+
+===== Filhos =====
+  * [[99356.txt|99356 - DC - Ofício]]

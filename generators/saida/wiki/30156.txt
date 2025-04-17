@@ -1,0 +1,16 @@
+====== 30156 - DC - Carta ======
+
+**Parent**:: 21363
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926-11-25
+**UnitDateFinal**:: 1926-11-25
+**ScopeContent**:: Carta manuscrita e assinada, de R. Rosa Araujo 24-26 Lisboa. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30156
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1303 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30156

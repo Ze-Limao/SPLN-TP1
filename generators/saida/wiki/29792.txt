@@ -1,0 +1,16 @@
+====== 29792 - DC - Carta ======
+
+**Parent**:: 21316
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929-02-26
+**UnitDateFinal**:: 1929-02-26
+**ScopeContent**:: Carta manuscrita assinada, da Régua?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29792
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1201 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29792

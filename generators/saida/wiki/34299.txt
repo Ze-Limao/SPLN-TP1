@@ -1,0 +1,19 @@
+====== 34299 - DC - Registo do recenseamento militar de Francisco de Freitas ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco de Freitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Lagoa
+Data de nascimento - 1852-02-24
+Filiação - António de Freitas e Maria da Silva
+Profissão - Caiador 
+Estado - Solteiro
+Morada - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34299
+**LangMaterial**:: Português
+**PhysLoc**:: 91v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34299

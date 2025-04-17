@@ -1,0 +1,15 @@
+====== 65820 - DC - Apegação, medição e confrontação do casal da Lamela, agora chamado da Barroca, situado na freguesia de S. Tiago de Outiz, por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, que empraza a Estevão Francisco e a sua mulher Águeda Ferreira ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal da Lamela, agora chamado da Barroca, situado na freguesia de S. Tiago de Outiz, por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, que empraza a Estevão Francisco e a sua mulher Águeda Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1746-02-17
+**UnitDateFinal**:: 1746-02-17
+**ScopeContent**:: Manuscrito, impresso. original. Folhas cosidas. Carta de Vedoria impressa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 164 - cx. 8
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65820

@@ -1,0 +1,16 @@
+====== 29743 - DC - Carta ======
+
+**Parent**:: 21292
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883
+**UnitDateFinal**:: 1883
+**ScopeContent**:: Carta manuscrita assinada. Carta do dia 20 sem menção ao mês.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29743
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1154 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29743

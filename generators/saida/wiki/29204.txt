@@ -1,0 +1,16 @@
+====== 29204 - DC - Nota ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Nota
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-10
+**UnitDateFinal**:: 1903-10
+**ScopeContent**:: Parte de um bilhete-postal de Jaime de Magalhães Lima a Alberto Sampaio sobre eucaliptos. Anotação a lápis: «Remetido em Out.º 1903 e plantado então».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29204
+**LangMaterial**:: Português
+**PhysLoc**:: AS 319 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29204

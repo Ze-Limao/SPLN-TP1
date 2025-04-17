@@ -1,0 +1,17 @@
+====== 54064 - DC - Documentos sobre a requisição do Projeto Januário Godinho - Câmara Municipal de V.N. de Famalicão ======
+
+**Parent**:: 53751
+**RootParent**:: 25851
+**UnitTitle**:: Documentos sobre a requisição do Projeto Januário Godinho - Câmara Municipal de V.N. de Famalicão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 2001-05-11
+**UnitDateFinal**:: 2011-08-02
+**ScopeContent**:: Ofício do Instituto Português do Património Arquitectónico; 2 requisições internas de documentos da Câmara M.V.N.F.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54064
+**LangMaterial**:: Português
+**PhysLoc**:: JG 188 - cx. 14
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54064

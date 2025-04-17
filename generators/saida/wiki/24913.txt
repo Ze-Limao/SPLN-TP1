@@ -1,0 +1,15 @@
+====== 24913 - UI - Processo de contas Caixa 1957 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Processo de contas Caixa 1957
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1957-01-01
+**UnitDateFinal**:: 1957-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24913
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 37 - cx. 10
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24913

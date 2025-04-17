@@ -1,0 +1,17 @@
+====== 54209 - DC - Concurso para o fornecimento do mobiliário de madeira para o novo edifício dos Paços de concelho - 1961. Câmara Municipal de Vila Nova de Famalicão ======
+
+**Parent**:: 54200
+**RootParent**:: 25851
+**UnitTitle**:: Concurso para o fornecimento do mobiliário de madeira para o novo edifício dos Paços de concelho - 1961. Câmara Municipal de Vila Nova de Famalicão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-01
+**UnitDateFinal**:: 1961-03
+**ScopeContent**:: Contém programa de concurso, caderno de encargos, relação geral mobiliário, 4 plantas: Projecto de Mobiliário M1 (JG1 194(4), M2 (JG 194(5), M3 (JG 194(6), M4 (JG 194(7), 11 cópias de desenhos de mobiliário JG(8) a (20).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54209
+**LangMaterial**:: Português
+**PhysLoc**:: JG 194 - cx. 15
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54209

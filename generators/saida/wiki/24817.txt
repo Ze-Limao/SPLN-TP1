@@ -1,0 +1,16 @@
+====== 24817 - DC - Carta ======
+
+**Parent**:: 21072
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-08-06
+**UnitDateFinal**:: 1911-08-06
+**ScopeContent**:: Carta manuscrita assinada, do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24817
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 253 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24817

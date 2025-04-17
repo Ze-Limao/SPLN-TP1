@@ -1,0 +1,19 @@
+====== 34842 - DC - Registo do recenseamento militar de Joaquim Vicente ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Vicente
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Lisboa
+Data de nascimento - 
+Filiação - Barão e Baronesa de Trovisqueira
+Profissão - Comércio
+Estado - Solteiro
+Morada - Lisboa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34842
+**LangMaterial**:: Português
+**PhysLoc**:: 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34842

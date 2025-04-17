@@ -1,0 +1,15 @@
+====== 65805 - DC - Regimento (certidão) do Doutor Físico-Mor do Reino passada a requerimento do Dr. Joaquim de Sequeira, médico em Vila Nova de Famalicão ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Regimento (certidão) do Doutor Físico-Mor do Reino passada a requerimento do Dr. Joaquim de Sequeira, médico em Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1770-08-06
+**UnitDateFinal**:: 1770-08-06
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 635 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65805

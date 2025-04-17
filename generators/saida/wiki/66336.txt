@@ -1,0 +1,15 @@
+====== 66336 - DC - Esclarecimentos para a questão da António da Silva Duarte e prazo e paga de foros ======
+
+**Parent**:: 63952
+**RootParent**:: 60536
+**UnitTitle**:: Esclarecimentos para a questão da António da Silva Duarte e prazo e paga de foros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-01-10
+**UnitDateFinal**:: 1891-01-10
+**ScopeContent**:: Manuscrito, original, sem capa, papel pautado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 458 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66336

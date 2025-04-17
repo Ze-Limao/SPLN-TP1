@@ -1,0 +1,16 @@
+====== 28009 - DC - Adeus! ======
+
+**Parent**:: 27975
+**RootParent**:: 27963
+**UnitTitle**:: Adeus!
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1861
+**UnitDateFinal**:: 1861
+**ScopeContent**:: Poema de João de Deus copiado por Antero Quental, que deu origem ao poema "A João de Deus", Coimbra 1861, publicado no livro "Raios de extinta luz".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28009
+**LangMaterial**:: Português
+**PhysLoc**:: AS 277 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28009

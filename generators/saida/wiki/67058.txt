@@ -1,0 +1,15 @@
+====== 67058 - UI - Gagneau ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Gagneau
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1897-02-17
+**UnitDateFinal**:: 1897-02-17
+**ScopeContent**:: Da empresa "Lampes & Bronzes Appareils a gaz et a l´electricité"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67058
+
+===== Filhos =====
+  * [[67061.txt|67061 - DC - Carta]]

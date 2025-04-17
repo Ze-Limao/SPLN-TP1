@@ -1,0 +1,18 @@
+====== 8776 - DC - Termo do exame de Joaquim da Costa Fontes ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim da Costa Fontes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-08-12
+**UnitDateFinal**:: 1892-08-12
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Manuel José da Costa
+Naturalidade - Lousado
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8776
+**LangMaterial**:: Português
+**PhysLoc**:: f. 28
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8776

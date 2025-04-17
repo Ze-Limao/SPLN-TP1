@@ -1,0 +1,30 @@
+====== 29354 - DC - Apontamentos com desenhos, esquemas e plantas ======
+
+**Parent**:: 29153
+**RootParent**:: 27963
+**UnitTitle**:: Apontamentos com desenhos, esquemas e plantas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1908
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29354
+**LangMaterial**:: Português
+**PhysLoc**:: AS 157 (1) a 157 (13) - cx. 3
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29354
+
+===== Filhos =====
+  * [[29355.txt|29355 - DC - Apontamento com desenho]]
+  * [[29445.txt|29445 - DC - Apontamento com desenho]]
+  * [[29446.txt|29446 - DC - Apontamento com desenho]]
+  * [[29447.txt|29447 - DC - Apontamento com desenho]]
+  * [[29448.txt|29448 - DC - Apontamento com desenho]]
+  * [[29449.txt|29449 - DC - Apontamento com desenho]]
+  * [[29450.txt|29450 - DC - Apontamento com desenho]]
+  * [[29451.txt|29451 - DC - Apontamento com desenho]]
+  * [[29452.txt|29452 - DC - Apontamento com desenho]]
+  * [[29453.txt|29453 - DC - Apontamento com fórmula matemática]]
+  * [[29454.txt|29454 - DC - Apontamento com fórmula matemática]]
+  * [[29455.txt|29455 - DC - Apontamento com fórmula matemática]]
+  * [[29456.txt|29456 - DC - Apontamento com desenho geométrico]]

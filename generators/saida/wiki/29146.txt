@@ -1,0 +1,17 @@
+====== 29146 - DC - Carta ======
+
+**Parent**:: 29145
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 186
+**UnitDateFinal**:: 186
+**ScopeContent**:: Carta dirigida a Agostinho José da Serra Chuquerre.
+Pelo teor da carta trata-se de uma carta trocada entre dois antigos estudantes da Universidade de Coimbra. Na Relação e Índice Alfabético dos Estudantes matriculados na Universidade de Coimbra no ano letivo de 1836 para 1837, encontram-se os nomes de Agostinho José da Serra Chuquerre, aluno do 4.º ano da Faculdade de Cânones, filho de João da Serra Chuquerre, natural de Pessegueiro, distrito de Aveiro, e de Albano Caldeira Pinto de Albuquerque, aluno no 3.º ano da Faculdade de leis. Tudo aponta, pois, para que a carta tenha sido endereçada a Agostinho José da Serra Chuquerre por Albano Caldeira Pinto de Albuquerque. Quanto à recomendação a J. Dias que é mencionada na carta, tratar-se-á, provavelmente, de José Dias Ferreira, professor da cadeira de economia política, estatística e legislação da Fazenda do 2.º ano da Faculdade de Leis, no ano letivo de 1861-1862. Curiosamente da lista de estudantes que, nesse ano letivo, frequentaram o 2.º ano, consta o nome de Tomé de Brito Pinto e Albuquerque, filho de Wenceslau Pinto, natural de Alpedrinha, distrito de Castelo Branco.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29146
+**LangMaterial**:: Português
+**PhysLoc**:: AS 276 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29146

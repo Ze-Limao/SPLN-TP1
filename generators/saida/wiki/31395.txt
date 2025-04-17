@@ -1,0 +1,71 @@
+====== 31395 - SR - Documentos ======
+
+**Parent**:: 31393
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1819
+**UnitDateFinal**:: 1921
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31395
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31395
+
+===== Filhos =====
+  * [[54474.txt|54474 - DC - Prazo factuizim perpetuo que faz Manuel Moreira Lopes, solteiro, a António José Antunes Teixeira e sua mulher, ourives desta vª de G.es]]
+  * [[60411.txt|60411 - DC - Venda de Margarida Carolina de Castro Sousa e Meneses a Manuel Moreira Lopes]]
+  * [[60413.txt|60413 - DC - Recibo para Emília Freitas]]
+  * [[60414.txt|60414 - DC - Recibo para Emília Freitas]]
+  * [[60415.txt|60415 - DC - Recibo para Emília Freitas]]
+  * [[60416.txt|60416 - DC - Recibo para Emília Freitas]]
+  * [[60417.txt|60417 - DC - Recibo para Emília Freitas]]
+  * [[60418.txt|60418 - DC - Recibo para Emília Freitas]]
+  * [[60419.txt|60419 - DC - Recibo para Emília Freitas]]
+  * [[60420.txt|60420 - DC - Recibo para Emília Freitas]]
+  * [[60421.txt|60421 - DC - Recibo para Emília Freitas]]
+  * [[60422.txt|60422 - DC - Recibo para Emília Freitas]]
+  * [[60423.txt|60423 - DC - Recibo para Emília Freitas]]
+  * [[60424.txt|60424 - DC - Recibo para Emília Freitas]]
+  * [[60425.txt|60425 - DC - Recibo para Emília Freitas]]
+  * [[60426.txt|60426 - DC - Recibo para Emília Freitas]]
+  * [[60427.txt|60427 - DC - Recibo para Emília Freitas]]
+  * [[60428.txt|60428 - DC - Recibo para Emília Freitas]]
+  * [[60429.txt|60429 - DC - Recibo para Emília Freitas]]
+  * [[60430.txt|60430 - DC - Recibo para Emília Freitas]]
+  * [[60431.txt|60431 - DC - Recibo para Emília Freitas]]
+  * [[60432.txt|60432 - DC - Recibo para Emília Freitas]]
+  * [[60433.txt|60433 - DC - Testamento de Manuel Moreira Lopes]]
+  * [[60434.txt|60434 - DC - Documentos da herança da Tia Anica Julho de 1912]]
+  * [[60435.txt|60435 - DC - Testamento de Diogo de Freitas Mello e Castro]]
+  * [[60436.txt|60436 - DC - Caderno de pagamentos de rendas de Ana Elvira de Freitas]]
+  * [[60437.txt|60437 - DC - Testamento de Ana Elvira de Freitas]]
+  * [[60438.txt|60438 - DC - Recibos de contribuição e registo por título gratuito, que a Exma D. Ana de Freitas teve que pagar pela pela herança que obteve do Exmo Diogo de Freitas de Melo e Castro]]
+  * [[60439.txt|60439 - DC - Atestado do capelão de Pindela sobre o cumprimento de uma disposição testamentária de Ana Elvira de Freitas]]
+  * [[60440.txt|60440 - DC - Herança da tia Anica. Quinta da Calçada Documentos de Archivo. Quinta de Brazins]]
+  * [[60441.txt|60441 - DC - Documentos e cartas]]
+  * [[60447.txt|60447 - DC - Conta de todas as despesas feitas com o funeral da Exma Sra D. Anna Elvira de Freitas]]
+  * [[60448.txt|60448 - DC - Documento]]
+  * [[60449.txt|60449 - DC - Documento]]
+  * [[60450.txt|60450 - DC - Documento]]
+  * [[60451.txt|60451 - DC - Documento]]
+  * [[60452.txt|60452 - DC - Documento]]
+  * [[60453.txt|60453 - DC - Documento]]
+  * [[60454.txt|60454 - DC - Documento]]
+  * [[60455.txt|60455 - DC - Documento]]
+  * [[60456.txt|60456 - DC - Documento]]
+  * [[60457.txt|60457 - DC - Documento]]
+  * [[60458.txt|60458 - DC - Documento]]
+  * [[79613.txt|79613 - DC - Recibo de Seguro contra fogo da Companhia Garantia para Ana Elvira de Freitas]]
+  * [[79615.txt|79615 - DC - Recibo de Seguro contra fogo da Companhia Garantia para Ana Elvira de Freitas]]
+  * [[79616.txt|79616 - DC - REndimento de Brito]]
+  * [[79618.txt|79618 - DC - Recibo de foro para Ana Elvira de Freitas]]
+  * [[79619.txt|79619 - DC - Recibo de derrama de Ana Elvira de Freitas]]
+  * [[79620.txt|79620 - DC - Recibo de Contribuição municipal directa de Diogo de Freitas Melo e Castro]]
+  * [[79621.txt|79621 - DC - Recibo de Contribuição municipal directa de Emília de Freitas]]
+  * [[79622.txt|79622 - DC - Recibo de Contribuição predial de Emília de Freitas]]
+  * [[79623.txt|79623 - DC - Recibo de Contribuição predial de Ana de Freitas]]
+  * [[79624.txt|79624 - DC - Recibo de Contribuição municipal directa de Emília de Freitas]]
+  * [[79625.txt|79625 - DC - Recibo de Contribuição municipal directa de Ana de Freitas]]
+  * [[79626.txt|79626 - DC - Recibo de conhecimento de foros de Emília de Freitas Rangel]]
+  * [[79627.txt|79627 - DC - Recibo de conhecimento de foros de Ana Elvira de Freitas]]
+  * [[79628.txt|79628 - DC - Recibo de conhecimento de foros de Ana Elvira de Freitas]]
+  * [[79629.txt|79629 - DC - Recibo de conhecimento de foros de Maria Emília de Freitas]]

@@ -1,0 +1,17 @@
+====== 60220 - DC - Federação. Arquivo Especial.Tentativa de Gaspar Couto de pôr a Federação a negociar por seu intermedio e ação ainda antes da minha sahida ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Federação. Arquivo Especial.Tentativa de Gaspar Couto de pôr a Federação a negociar por seu intermedio e ação ainda antes da minha sahida
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1933-01
+**UnitDateFinal**:: 1933-01
+**ScopeContent**:: Capa com 4 documentos: notas manuscritas; ofícios datilografados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9538 - cx. 60
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60220

@@ -1,0 +1,15 @@
+====== 7997 - DC - Termo de Francisco José Pinto Monteiro ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Francisco José Pinto Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1865-10-25
+**UnitDateFinal**:: 1865-10-25
+**ScopeContent**:: Abertura de uma mina de água
+Local - Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7997
+**LangMaterial**:: Português
+**PhysLoc**:: f. 24
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7997

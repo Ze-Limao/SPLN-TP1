@@ -1,0 +1,15 @@
+====== 97741 - UI - Processo nº 386 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 386
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-03-15
+**UnitDateFinal**:: 1977-04-12
+**ScopeContent**:: Junto com Autos de Transgressão nº 464.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 481 - cx. 29
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97741

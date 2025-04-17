@@ -1,0 +1,15 @@
+====== 21028 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7707
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1948-11-29
+**UnitDateFinal**:: 1948-11-29
+**ScopeContent**:: Empreitada de pavimentação da Rua Camilo Castelo Branco
+Outorgante - Joaquim Tinoco Osório
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21028
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 13
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21028

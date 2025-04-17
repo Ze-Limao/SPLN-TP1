@@ -1,0 +1,18 @@
+====== 21036 - UI - Alberto Osório de Castro ======
+
+**Parent**:: 53968
+**RootParent**:: 20290
+**UnitTitle**:: Alberto Osório de Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1919-04-07
+**UnitDateFinal**:: 1919-04-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21036
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 23, 24
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21036
+
+===== Filhos =====
+  * [[23097.txt|23097 - DC - Carta para Luís de Gonzaga Cardoso de Menezes Pinheiro de Azevedo]]
+  * [[23098.txt|23098 - DC - Carta para Luís de Gonzaga Cardoso de Menezes Pinheiro de Azevedo]]

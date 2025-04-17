@@ -1,0 +1,20 @@
+====== 61691 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Domingos Rodrigues e Maria Rodrigues Monteiro Salazar, na freguesia
+Naturalidade - Joane
+Morada - Ignora-se
+Data de nascimento - 1861-10-27
+Emprego - Estudante
+Estado - Solteiro
+Residência acidental - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61691

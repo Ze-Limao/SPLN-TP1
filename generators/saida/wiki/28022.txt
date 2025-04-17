@@ -1,0 +1,14 @@
+====== 28022 - SR - Correspondência recebida ======
+
+**Parent**:: 27974
+**RootParent**:: 27963
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1863-07
+**UnitDateFinal**:: 1867
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28022
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28022
+
+===== Filhos =====
+  * [[28024.txt|28024 - SSR - Antero de Quental]]

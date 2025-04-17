@@ -1,0 +1,16 @@
+====== 22418 - DC - Carta ======
+
+**Parent**:: 21206
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-05-25
+**UnitDateFinal**:: 1915-05-25
+**ScopeContent**:: Carta manuscrita assinada. José Maria de Alpoim agradece a preocupação manifestada pela sua segurança. Escreve a JAM da casa de Bernardino Machado onde se refugiou quando na madrugada de sábado anterior a sua vida correu risco. Comenta o procedimento de alguns políticos revolucionários que contribuem para a indisciplina que reina. Referência a Machado dos Santos e ao "sanguissedento" Leote Rego que de franquista exaltado passou a jacobino.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22418
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 813 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22418

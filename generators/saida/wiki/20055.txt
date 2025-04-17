@@ -1,0 +1,18 @@
+====== 20055 - SSC - Polícia em geral ======
+
+**Parent**:: 20051
+**RootParent**:: 20048
+**UnitTitle**:: Polícia em geral
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1882-07-08
+**UnitDateFinal**:: 1928-07-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20055
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20055
+
+===== Filhos =====
+  * [[20187.txt|20187 - SR - Registo dos indigentes que deram entrada nas cadeias desta vila]]
+  * [[20189.txt|20189 - SR - Registos de termos de fiança para uso de armas de caça]]
+  * [[20193.txt|20193 - SR - Registo das licenças para uso e porte d´armas]]
+  * [[20196.txt|20196 - SR - Registo de licenças de caça]]

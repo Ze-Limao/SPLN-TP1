@@ -1,0 +1,14 @@
+====== 8677 - DC - Ofício nº 120 ======
+
+**Parent**:: 8675
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 120
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1837-10-14
+**UnitDateFinal**:: 1837-10-14
+**ScopeContent**:: Eleições em Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8677
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8677

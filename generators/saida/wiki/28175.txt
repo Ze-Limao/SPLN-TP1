@@ -1,0 +1,16 @@
+====== 28175 - DC - Disposição da vinha dos cortiços - contando de cima ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Disposição da vinha dos cortiços - contando de cima
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Identificação da variedade de castas e número de vides, por casta, provenientes do viveiro para plantação. Para além da listagem das variedades das castas existentes na vinha denominada «dos cortiços», neste documento são apresentados os números de «vides que saíram do viveiro» (1365), o que nos dá uma ideia da extensão de vinha agricultada em Boamense. As castas com número de vides superior à centena são Gouveio (103), Bastardo (109), Touriga (221) e Alvarelhão (232). Na nota que se segue à tabela, Alberto Sampaio escreveu o seguinte: «As cifras à esquerda indicam o número de vides que saíram do viveiro − mas como no acto da plantação se rejeitaram bastantes, o seu número ficou reduzido na totalidade a 1.198 − que são as que se acham na vinha».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28175
+**LangMaterial**:: Português
+**PhysLoc**:: AS 447 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28175

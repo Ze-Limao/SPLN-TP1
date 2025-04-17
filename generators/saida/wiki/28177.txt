@@ -1,0 +1,16 @@
+====== 28177 - DC - 1895 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1895
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1897
+**ScopeContent**:: Indicação das castas italianas, número de vides e locais de plantação. Parece tratar-se do primeiro apontamento, de uma série de três, produzidos por Alberto Sampaio acerca de castas italianas plantadas em Boamense. As duas anotações a tinta, numa das quais é dito que as vides foram enviadas pelo engenheiro e enólogo José Taveira de Carvalho Pinto de Menezes, são posteriores a 1895, como se depreende pela leitura de uma das notas: «Estas foram plantadas na vinha do meio em Nov. de 1897, seg.do consta das respectivas notas.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28177
+**LangMaterial**:: Português
+**PhysLoc**:: AS 449 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28177

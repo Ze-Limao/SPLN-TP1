@@ -1,0 +1,17 @@
+====== 98166 - DC - Declaração e obrigação do secretário do Senhor dos Aflitos respeitante a uma barraca que fez em terreno desta Quinta de Pindela ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Declaração e obrigação do secretário do Senhor dos Aflitos respeitante a uma barraca que fez em terreno desta Quinta de Pindela
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1830-03-06
+**UnitDateFinal**:: 1833-07-02
+**ScopeContent**:: Manuscrito com folhas cosidas em papel timbrado "Causa Publica 40 reis", numa "Pasta nº 2 Cazal Nº 1 P". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 12875 a CP 12958.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12876(4) - cx. 79
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98166

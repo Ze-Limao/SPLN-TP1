@@ -1,0 +1,16 @@
+====== 27934 - DC - Carta ======
+
+**Parent**:: 21263
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-03-22
+**UnitDateFinal**:: 1913-03-22
+**ScopeContent**:: Carta manuscrita assinada, da Quinta de S. Gens - Senhora da Hora. Agradece o envio do telegrama do Conde de Almendra. Envia elementos que retirou de documentos que existiam na Casa da Pena do seu avô Damião Pereira da Silva Sousa e Menezes, Senhor da Quinta e Prazo da Pena (São Paio de Pousada, Braga).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27934
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1482 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27934

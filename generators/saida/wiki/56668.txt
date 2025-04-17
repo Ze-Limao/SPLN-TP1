@@ -1,0 +1,17 @@
+====== 56668 - DC - Novembro 1892. Anselmo ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Novembro 1892. Anselmo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-11
+**UnitDateFinal**:: 1892-11
+**ScopeContent**:: Papel do maço com título manuscrito. Contém CP 7399 a CP 7404.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56668
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7399 - cx. 48
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56668

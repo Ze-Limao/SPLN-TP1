@@ -1,0 +1,17 @@
+====== 77863 - DC - Quitação da legítima do Reverendo Padre Frei Manuel da Cruz ======
+
+**Parent**:: 54464
+**RootParent**:: 31258
+**UnitTitle**:: Quitação da legítima do Reverendo Padre Frei Manuel da Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1603-11-11
+**UnitDateFinal**:: 1603-11-11
+**ScopeContent**:: Manuscrito com folhas cosidas. Este documento numerado nº4 faz parte do maço CP 4560 intitulado "Casa de Pindela".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54256
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4560(4) - cx. 33
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77863

@@ -1,0 +1,17 @@
+====== 67167 - DC - Rivoire Père & Fils ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Rivoire Père & Fils
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912-05-17
+**UnitDateFinal**:: 1912-05-17
+**ScopeContent**:: Fatura dentro deu envelope "Contas estrangeiras 1912 a 1913". Contém notas manuscritas. Empresa de Graines et Plantes. Junto com CP 3416.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58466
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 3415 - cx. 26
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67167

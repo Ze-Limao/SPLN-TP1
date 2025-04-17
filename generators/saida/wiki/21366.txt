@@ -1,0 +1,23 @@
+====== 21366 - UI - Brízida Varela Falcão Pinto Guedes Sotomaior ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Brízida Varela Falcão Pinto Guedes Sotomaior
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1905
+**UnitDateFinal**:: 1918-09-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21366
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1315, 1316, 1317, 1318, 1319, 1320, 1321, 1322.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21366
+
+===== Filhos =====
+  * [[30182.txt|30182 - DC - Carta]]
+  * [[30183.txt|30183 - DC - Carta]]
+  * [[30184.txt|30184 - DC - Carta]]
+  * [[30185.txt|30185 - DC - Carta]]
+  * [[30186.txt|30186 - DC - Carta]]
+  * [[30187.txt|30187 - DC - Carta]]
+  * [[30188.txt|30188 - DC - Cartão]]
+  * [[30189.txt|30189 - DC - Carta]]

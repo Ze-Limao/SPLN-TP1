@@ -1,0 +1,26 @@
+====== 45029 - UI - António Claro ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Claro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912-09-14
+**UnitDateFinal**:: 1919-01-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45029
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45029
+
+===== Filhos =====
+  * [[45030.txt|45030 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45031.txt|45031 - DC - Carta]]
+  * [[45032.txt|45032 - DC - Telegrama]]
+  * [[45033.txt|45033 - DC - Carta]]
+  * [[45034.txt|45034 - DC - Carta]]
+  * [[45035.txt|45035 - DC - Carta]]
+  * [[45036.txt|45036 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[45037.txt|45037 - DC - Carta]]
+  * [[45038.txt|45038 - DC - Carta]]

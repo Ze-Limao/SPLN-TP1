@@ -1,0 +1,15 @@
+====== 28359 - DC - A respeito dos francos ======
+
+**Parent**:: 28357
+**RootParent**:: 27963
+**UnitTitle**:: A respeito dos francos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28359
+**LangMaterial**:: Português
+**PhysLoc**:: AS 46 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28359

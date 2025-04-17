@@ -1,0 +1,16 @@
+====== 29821 - DC - Carta ======
+
+**Parent**:: 21334
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-05-17
+**UnitDateFinal**:: 1909-05-17
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa, Rua da Conceição 45, 2º dt.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29821
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1230 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29821

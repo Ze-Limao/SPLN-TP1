@@ -1,0 +1,16 @@
+====== 29296 - DC - Argamassa de poeira de tijolos, como sucedâneo de cimento hydraulico ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Argamassa de poeira de tijolos, como sucedâneo de cimento hydraulico
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-08-25
+**UnitDateFinal**:: 1895-08-25
+**ScopeContent**:: Numa nota à margem Alberto Sampaio acrescentou: «Tão bom ou melhor q. o cimento».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29296
+**LangMaterial**:: Português
+**PhysLoc**:: AS 203 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29296

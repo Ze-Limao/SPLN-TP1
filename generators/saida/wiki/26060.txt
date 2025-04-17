@@ -1,0 +1,16 @@
+====== 26060 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-05-28
+**UnitDateFinal**:: 1916-05-28
+**ScopeContent**:: Júlio Brandão informa que foi aprovado na Câmara do Porto o orçamento para Seide. Carta manuscrita assinada, do Porto Rua Costa Cabral, 290. Carta de 28 maio, sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26060
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 854 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26060

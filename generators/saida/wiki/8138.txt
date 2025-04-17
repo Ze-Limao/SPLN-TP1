@@ -1,0 +1,18 @@
+====== 8138 - DC - Manuel de Araújo Carvalho ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Manuel de Araújo Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-10-01
+**UnitDateFinal**:: 1889-03-28
+**ScopeContent**:: Escola - Nine
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Louro
+Data de posse - 1883-10-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8138
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8138

@@ -1,0 +1,18 @@
+====== 51125 - DC - Registo do recenseamento militar de Manuel Joaquim ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-04-04
+Filiação - João Gomes e Rosa Gomes
+Naturalidade - Portela
+Profissão - Carpinteiro
+Residência - Portela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51125
+**LangMaterial**:: Português
+**PhysLoc**:: 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51125

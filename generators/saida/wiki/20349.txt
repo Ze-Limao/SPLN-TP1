@@ -1,0 +1,20 @@
+====== 20349 - SSC - Serviços Administrativos ======
+
+**Parent**:: 20347
+**RootParent**:: 20342
+**UnitTitle**:: Serviços Administrativos
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1991-01-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20349
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20349
+
+===== Filhos =====
+  * [[20350.txt|20350 - SR - Contabilidade]]
+  * [[20351.txt|20351 - SR - Expediente]]
+  * [[20361.txt|20361 - SR - Actas e relatórios]]
+  * [[20363.txt|20363 - SR - Empregados]]
+  * [[20364.txt|20364 - SR - Registo de sócios]]

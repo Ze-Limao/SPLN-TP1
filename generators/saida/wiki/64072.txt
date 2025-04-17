@@ -1,0 +1,15 @@
+====== 64072 - DC - Recibo de Manuel Martins de Aguiar ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de Manuel Martins de Aguiar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-01-07
+**UnitDateFinal**:: 1886-01-07
+**ScopeContent**:: Manuscrito. Recibo de Braga, de dinheiro para a festa da consagração ao Coração de Jesus, proveniente da Paróquia de S. Tiago de Antas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 390 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64072

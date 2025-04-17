@@ -1,0 +1,32 @@
+====== 54341 - UI - António Gonçalves de Carvalho ======
+
+**Parent**:: 31297
+**RootParent**:: 31258
+**UnitTitle**:: António Gonçalves de Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1812
+**UnitDateFinal**:: 1816-06-27
+**ScopeContent**:: Correspondência enviada e recebida de várias pessoas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54341
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54341
+
+===== Filhos =====
+  * [[54342.txt|54342 - DC - Carta]]
+  * [[54343.txt|54343 - DC - Carta]]
+  * [[54344.txt|54344 - DC - Carta]]
+  * [[54345.txt|54345 - DC - Carta]]
+  * [[54346.txt|54346 - DC - Carta]]
+  * [[54348.txt|54348 - DC - Carta]]
+  * [[54349.txt|54349 - DC - Carta]]
+  * [[54350.txt|54350 - DC - Carta]]
+  * [[54351.txt|54351 - DC - Carta para José Martins Gonçalves]]
+  * [[54352.txt|54352 - DC - Carta para José Martins Gonçalves]]
+  * [[54353.txt|54353 - DC - Carta para José Martins Gonçalves]]
+  * [[54354.txt|54354 - DC - Carta para José Martins Gonçalves]]
+  * [[54362.txt|54362 - DC - Carta]]
+  * [[78409.txt|78409 - DC - Carta para José Martins Gonçalves]]
+  * [[78577.txt|78577 - DC - Cartas a hua conta do Proc. de Leiria  António Gonçalves de Carvalho]]
+  * [[78578.txt|78578 - DC - Carta de João Machado para António Gonçalves?]]
+  * [[78579.txt|78579 - DC - Cópia do terceiro artigo do Libelo do autor]]

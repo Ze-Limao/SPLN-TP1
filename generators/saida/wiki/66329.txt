@@ -1,0 +1,15 @@
+====== 66329 - DC - Certidão ..do requerimento e despachos que alcançou o Reverendo António Costa para levantar do depósito geral certa quantia que dizia lá  parava  do rendimento de um Beneficiário, na freguesia de S. Tiago de Antas ======
+
+**Parent**:: 63945
+**RootParent**:: 60536
+**UnitTitle**:: Certidão ..do requerimento e despachos que alcançou o Reverendo António Costa para levantar do depósito geral certa quantia que dizia lá  parava  do rendimento de um Beneficiário, na freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1775-08-01
+**UnitDateFinal**:: 1775-08-01
+**ScopeContent**:: Manuscrito, certidão em papel azul timbrado e selado, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 452 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66329

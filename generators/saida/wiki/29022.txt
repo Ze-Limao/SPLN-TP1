@@ -1,0 +1,15 @@
+====== 29022 - UI - Francisco Martins Sarmento ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Francisco Martins Sarmento
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1899
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29022
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29022
+
+===== Filhos =====
+  * [[29023.txt|29023 - DC - Carta]]
+  * [[60954.txt|60954 - DC - Carta]]

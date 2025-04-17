@@ -1,0 +1,16 @@
+====== 30391 - DC - Registo do recenseamento eleitoral de José de Sousa Carvalho Brandão ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José de Sousa Carvalho Brandão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Antas
+Profissão - Lavrador
+Morada - Maia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30391
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30391

@@ -1,0 +1,16 @@
+====== 27971 - SSC - Atividade pessoal ======
+
+**Parent**:: 27964
+**RootParent**:: 27963
+**UnitTitle**:: Atividade pessoal
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1861
+**UnitDateFinal**:: 1867-07-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27971
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27971
+
+===== Filhos =====
+  * [[27974.txt|27974 - SSSC - Correspondência]]
+  * [[27975.txt|27975 - SSSC - Amizade com Antero de Quental]]
+  * [[27976.txt|27976 - SSSC - Escrita de poesia]]

@@ -1,0 +1,25 @@
+====== 25040 - UI - Partituras musicais da AHBVF ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Partituras musicais da AHBVF
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1930
+**ScopeContent**:: Contém: Hino da banda (1922); Ordenança (1930), O Trevo (cancão); Aldegalega.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25040
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 142 - cx. 35
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25040
+
+===== Filhos =====
+  * [[25350.txt|25350 - DC - Hino da Associação dos Bombeiros Voluntários de Famalicão por Joaquim Jacinto Figueiras: partitura de banda]]
+  * [[25351.txt|25351 - DC - Ordenança - Bombeiros Voluntários de Famalicão]]
+  * [[25352.txt|25352 - DC - Hino da Associação dos Bombeiros Voluntários de Famalicão por Joaq. Jacinto Figueiras]]
+  * [[25353.txt|25353 - DC - Hino da AHBVF: parituras com partes de instrumentos]]
+  * [[25354.txt|25354 - DC - Hino da AHBVF: partituras com partes de instrumentos]]
+  * [[25355.txt|25355 - DC - O Trevo (canção) arranjo para banda por José Gomes Figueiredo]]
+  * [[25356.txt|25356 - DC - Aldegalega]]

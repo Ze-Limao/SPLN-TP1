@@ -1,0 +1,16 @@
+====== 31306 - SR - Correspondência recebida ======
+
+**Parent**:: 31304
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1891
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31306
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31306
+
+===== Filhos =====
+  * [[32961.txt|32961 - UI - Anselmo José Braamcamp]]
+  * [[46648.txt|46648 - UI - José Joaquim Rodrigues de Freitas]]
+  * [[60476.txt|60476 - UI - António Frutuoso Aires de Gouveia Osório]]

@@ -1,0 +1,18 @@
+====== 21054 - UI - Álvaro Neves ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Álvaro Neves
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1923-02-12
+**UnitDateFinal**:: 1924-09-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21054
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 81, 82
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21054
+
+===== Filhos =====
+  * [[23927.txt|23927 - DC - Carta]]
+  * [[23928.txt|23928 - DC - Carta]]

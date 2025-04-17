@@ -1,0 +1,17 @@
+====== 56899 - DC - Fornecimento de impressos ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Fornecimento de impressos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1929-04-27
+**UnitDateFinal**:: 1933
+**ScopeContent**:: Este documento contém 2 p. manuscritas "Notas"; 1 f. datilografada e carimbada "Fornecimento de impressos e artigos de secretaria"; 2 p. datilografadas "Relação de Modelos. Serviço de Fornecimento de impressos".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56899
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2353 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56899

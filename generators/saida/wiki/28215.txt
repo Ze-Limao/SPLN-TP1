@@ -1,0 +1,15 @@
+====== 28215 - DC - Cálculos para determinação da quantidade de aguardente a adicionar ao vinho para elevação do seu grau alcoólico ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Cálculos para determinação da quantidade de aguardente a adicionar ao vinho para elevação do seu grau alcoólico
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28215
+**LangMaterial**:: Português
+**PhysLoc**:: AS 487 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28215

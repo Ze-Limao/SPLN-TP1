@@ -1,0 +1,18 @@
+====== 54876 - UI - José Maria de Figueiredo Cabral da Câmara ======
+
+**Parent**:: 31317
+**RootParent**:: 31258
+**UnitTitle**:: José Maria de Figueiredo Cabral da Câmara
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1869
+**ScopeContent**:: Nasceu a 20 Julho 1848 em Lisboa e faleceu a 02 Março 1930 na Ota, Alenquer. Filho de Vasco António de Figueiredo Cabral da Câmara, 3° conde de Belmonte e Maria do Carmo de Mendoça Rolim de Moura Barreto. Marido de Maria das Necessidades de Siqueira Freire. Pai de Maria da Graça de Figueiredo Cabral da Câmara; Margarida Maria de Figueiredo Cabral da Câmara; Maria José de Figueiredo Cabral da Câmara; Maria do Carmo de Figueiredo Cabral da Câmara; Vasco Maria de Figueiredo Cabral da Câmara e 1 outro. Irmão de Nuno Maria de Figueiredo Cabral da Câmara; Carlota Isabel de Figueiredo Cabral da Câmara; Vasco Maria de Figueiredo Cabral da Câmara; Ana de Jesus Maria de Figueiredo Cabral da Câmara; Maria Domingas de Figueiredo Cabral da Câmara e 1 outro.
+Fonte: Geni.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54876
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54876
+
+===== Filhos =====
+  * [[54877.txt|54877 - DC - Carta]]

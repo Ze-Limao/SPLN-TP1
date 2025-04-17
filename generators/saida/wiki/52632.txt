@@ -1,0 +1,16 @@
+====== 52632 - DC - Registo do recenseamento militar de António Pereira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1849-01-29
+Filiação - José Joaquim Pereira e Joana Rosa
+Naturalidade - Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52632
+**LangMaterial**:: Português
+**PhysLoc**:: 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52632

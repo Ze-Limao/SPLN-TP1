@@ -1,0 +1,16 @@
+====== 31161 - DC - Registo do recenseamento eleitoral de Bernardino da Costa Fernandes Machado ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Bernardino da Costa Fernandes Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Louro
+Profissão - Proprietário
+Morada - Ponte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31161
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31161

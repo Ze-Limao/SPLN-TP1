@@ -1,0 +1,16 @@
+====== 25078 - UI - Documentos diversos ======
+
+**Parent**:: 20386
+**RootParent**:: 20342
+**UnitTitle**:: Documentos diversos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1943-03-30
+**UnitDateFinal**:: 1961-10-02
+**ScopeContent**:: Contém: Processo de aprovação de contas enviados para a Junta Distrital de Braga de 1943 a 1960.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25078
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 176 - cx. 43
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25078

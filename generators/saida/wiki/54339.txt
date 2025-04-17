@@ -1,0 +1,17 @@
+====== 54339 - UI - Manuel Pereira ======
+
+**Parent**:: 31297
+**RootParent**:: 31258
+**UnitTitle**:: Manuel Pereira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1817-05-28
+**UnitDateFinal**:: 1828-04-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54339
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54339
+
+===== Filhos =====
+  * [[54340.txt|54340 - DC - Carta]]
+  * [[54356.txt|54356 - DC - Carta]]
+  * [[54357.txt|54357 - DC - Carta]]

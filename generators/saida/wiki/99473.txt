@@ -1,0 +1,15 @@
+====== 99473 - UI - Manuel Rodrigues de Oliveira ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Manuel Rodrigues de Oliveira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917
+**UnitDateFinal**:: 1917
+**ScopeContent**:: Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99473
+
+===== Filhos =====
+  * [[99474.txt|99474 - DC - Carta]]

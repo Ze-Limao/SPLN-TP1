@@ -1,0 +1,15 @@
+====== 20987 - DC - Nº 8/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 8/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-04-07
+**UnitDateFinal**:: 1962-04-07
+**ScopeContent**:: Contrato para a elaboração do Ante-Plano de Urbanização de Vila Nova de Famalicão (Revisão)
+Outorgante - Eng. Miguel de Resende
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20987
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 47
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20987

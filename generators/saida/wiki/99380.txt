@@ -1,0 +1,21 @@
+====== 99380 - SR - Etiquetas para vinhos e cartão de castas vinícolas ======
+
+**Parent**:: 60695
+**RootParent**:: 60695
+**UnitTitle**:: Etiquetas para vinhos e cartão de castas vinícolas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1920
+**ScopeContent**:: CSC 203 a 208 - cx. 5
+depósito 3, estante 5
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99060
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99380
+
+===== Filhos =====
+  * [[99575.txt|99575 - DC - Branco do Reguengo. Antonio Cristino proprietario viticultor, V.N. Famalicão]]
+  * [[99576.txt|99576 - DC - Vinho leve. Antonio Cristino proprietario viticultor, V.N. Famalicão]]
+  * [[99577.txt|99577 - DC - Clarete do Reguengo. Antonio Cristino proprietario viticultor, V.N. Famalicão]]
+  * [[99609.txt|99609 - DC - Vinho Clarete do Reguengo. Antonio Cristino proprietario viticultor, V.N. Famalicão]]
+  * [[99610.txt|99610 - DC - Vinho Verde de lote, typo exportação. Antonio Cristino proprietario viticultor, V.N. Famalicão]]
+  * [[99611.txt|99611 - DC - Plantas Americanas. Catalogo para 1907 a 1908 dos viveiros de Antonio Christino propretario-viticultor]]

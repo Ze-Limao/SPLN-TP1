@@ -1,0 +1,15 @@
+====== 21041 - DC - Contrato complementar ao contrato de adjudicação ======
+
+**Parent**:: 7708
+**RootParent**:: 7651
+**UnitTitle**:: Contrato complementar ao contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-07-18
+**UnitDateFinal**:: 1950-07-18
+**ScopeContent**:: Empreitada de construção de um grupo de casas de renda económica
+Outorgante - Federação de Caixas de Previdência - Habitações Económicas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21041
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 25
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21041

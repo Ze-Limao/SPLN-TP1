@@ -1,0 +1,19 @@
+====== 9333 - DC - Registo do recenseamento militar de Lino ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Lino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Luís Leite e Maria Rosa de Sá
+Naturalidade - Lousado
+Data de nascimento - 1877-02-12
+Profissão - 
+Estado civil - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9333
+**LangMaterial**:: Português
+**PhysLoc**:: f. 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9333

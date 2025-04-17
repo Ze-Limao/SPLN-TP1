@@ -1,0 +1,21 @@
+====== 20398 - SSR - Actas da Direcção ======
+
+**Parent**:: 20361
+**RootParent**:: 20342
+**UnitTitle**:: Actas da Direcção
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1890-06-22
+**UnitDateFinal**:: 1961-05-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20398
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20398
+
+===== Filhos =====
+  * [[24990.txt|24990 - UI - Livro de Actas da Direcção nº1]]
+  * [[24991.txt|24991 - UI - Livro nº2 Actas da Direcção]]
+  * [[24992.txt|24992 - UI - Actas da Direcção nº3]]
+  * [[24993.txt|24993 - UI - Livro de Actas da Direcção / Livro nº4]]
+  * [[24994.txt|24994 - UI - Actas da Direcção / Livro nº5]]
+  * [[24995.txt|24995 - UI - Actas da Direcção / Livro nº6]]

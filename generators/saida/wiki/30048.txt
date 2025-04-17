@@ -1,0 +1,14 @@
+====== 30048 - DC - António Gomes Guimarães de Araújo ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: António Gomes Guimarães de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-07-12
+**UnitDateFinal**:: 1961-07-12
+**ScopeContent**:: Regedor efetivo da freguesia de Telhado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30048
+**LangMaterial**:: Português
+**PhysLoc**:: f. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30048

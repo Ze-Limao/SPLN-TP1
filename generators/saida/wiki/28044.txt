@@ -1,0 +1,16 @@
+====== 28044 - DC - Carta de Alberto Sampaio ======
+
+**Parent**:: 28033
+**RootParent**:: 27963
+**UnitTitle**:: Carta de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1865-06
+**UnitDateFinal**:: 1865-06
+**ScopeContent**:: Carta expedida de Lisboa? para Rua dos Trigais, Guimarães. Carta endereçado a José da Cunha Sampaio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28044
+**LangMaterial**:: Português
+**PhysLoc**:: AS 554 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28044

@@ -1,0 +1,19 @@
+====== 62436 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - António Martins e Cândida de Paiva, na freguesia
+Naturalidade - Ruivães
+Morada - Ruivães
+Data de nascimento - 1856-07-28
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62436

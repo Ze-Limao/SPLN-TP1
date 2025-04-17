@@ -1,0 +1,15 @@
+====== 66133 - DC - Escritura de venda e consentimento que faz Francisco Martins e sua mulher Engrácia Martins, moradores no lugar de Vilar, freguesia de S. Cosme de Gondomar, a António Alves da Silva e Carvalho, morador na freguesia de S. Julião de Calendário, julgado de Vermoim, de bens uma casa, junto com campos de terra lavradia chamados da Porta, Moinho, Cortilhal de baixo, campos e casa de Agra, tudo na freguesia de Calendário ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de venda e consentimento que faz Francisco Martins e sua mulher Engrácia Martins, moradores no lugar de Vilar, freguesia de S. Cosme de Gondomar, a António Alves da Silva e Carvalho, morador na freguesia de S. Julião de Calendário, julgado de Vermoim, de bens uma casa, junto com campos de terra lavradia chamados da Porta, Moinho, Cortilhal de baixo, campos e casa de Agra, tudo na freguesia de Calendário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1835-11-02
+**UnitDateFinal**:: 1847-09-02
+**ScopeContent**:: Manuscrito em papel azul timbrado “Tesouro Publico 40 reis”, publica forma, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 317 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66133

@@ -1,0 +1,14 @@
+====== 60959 - UI - Alfredo Moreira da Silva ======
+
+**Parent**:: 28714
+**RootParent**:: 27963
+**UnitTitle**:: Alfredo Moreira da Silva
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-04-19
+**UnitDateFinal**:: 1908-04-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28724
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60959
+
+===== Filhos =====
+  * [[60960.txt|60960 - DC - Postal]]

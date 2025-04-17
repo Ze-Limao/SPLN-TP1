@@ -1,0 +1,17 @@
+====== 56483 - DC - Recorte de jornal sobre o casamento de Maria Rita e Luís Ferraz ======
+
+**Parent**:: 56482
+**RootParent**:: 31258
+**UnitTitle**:: Recorte de jornal sobre o casamento de Maria Rita e Luís Ferraz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-08
+**UnitDateFinal**:: 1913-08
+**ScopeContent**:: Notícia sobre o casamento no Vinhal a que foram os Viscondes de Pindela e Eulália Estelista, casamento de Maria Rita e Luís Ferraz. Notas manuscritas a lápis. No envelope CP 2134.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56483
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2135 - cx. 15
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56483

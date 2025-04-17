@@ -1,0 +1,16 @@
+====== 26118 - DC - Carta ======
+
+**Parent**:: 21226
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-12-27
+**UnitDateFinal**:: 1924-12-27
+**ScopeContent**:: Carta manuscrita assinada, de Moreira da Maia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26118
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 913 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26118

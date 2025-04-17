@@ -1,0 +1,14 @@
+====== 80214 - UI - Processo nº 169 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 169
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-09-28
+**UnitDateFinal**:: 1976-09-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 103 - cx. 7
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80214

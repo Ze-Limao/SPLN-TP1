@@ -1,0 +1,19 @@
+====== 9595 - DC - Registo do recenseamento militar de Ernesto ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Ernesto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-24
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Manuel da Rocha Novo e Teresa de Jesus
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1877-02-13
+Profissão - Trolha
+Estado civil - Solteiro
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9595
+**LangMaterial**:: Português
+**PhysLoc**:: f. 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9595

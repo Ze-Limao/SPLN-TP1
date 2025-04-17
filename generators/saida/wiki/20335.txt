@@ -1,0 +1,23 @@
+====== 20335 - UI - Alberto de Gusmão Navarro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alberto de Gusmão Navarro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1956
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20335
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 13, 14, 15, 16, 17, 18, 19
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20335
+
+===== Filhos =====
+  * [[23088.txt|23088 - DC - Carta]]
+  * [[23089.txt|23089 - DC - Carta]]
+  * [[23090.txt|23090 - DC - Carta]]
+  * [[23091.txt|23091 - DC - Carta]]
+  * [[23092.txt|23092 - DC - Carta]]
+  * [[23093.txt|23093 - DC - Carta]]
+  * [[23094.txt|23094 - DC - Carta]]

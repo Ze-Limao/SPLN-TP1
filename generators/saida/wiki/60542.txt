@@ -1,0 +1,18 @@
+====== 60542 - F - Juízo de Paz da freguesia de Santa Maria de Oliveira ======
+
+**Parent**:: 0
+**RootParent**:: 60542
+**UnitTitle**:: Juízo de Paz da freguesia de Santa Maria de Oliveira
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1834
+**UnitDateFinal**:: 1836
+**ScopeContent**:: Este fundo é constituído pelo Livro das Conciliações de 1834 a 1835 e pelo Registo das Conciliações datado de 1845 a 1836.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60542
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60542
+
+===== Filhos =====
+  * [[60677.txt|60677 - SR - Registo das Conciliações]]

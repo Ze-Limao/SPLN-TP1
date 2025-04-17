@@ -1,0 +1,18 @@
+====== 48023 - DC - Registo do recenseamento eleitoral de Vicente Correia Barreto ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Vicente Correia Barreto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Lavrador
+Estado - Casado
+Morada - Mões
+Idade - 68
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48023
+**LangMaterial**:: Português
+**PhysLoc**:: 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48023

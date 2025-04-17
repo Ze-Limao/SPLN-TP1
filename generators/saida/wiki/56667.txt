@@ -1,0 +1,17 @@
+====== 56667 - DC - Lista de quadros e preços ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Lista de quadros e preços
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856
+**UnitDateFinal**:: 1918
+**ScopeContent**:: Manuscrito, em cada folha o título "Alexandre de Souza Botelho", "Anselmo de Souza Botelho", "Amália de Souza Botelho" seguido da lista de quadros e verbas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56667
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7394 - cx. 48
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56667

@@ -1,0 +1,22 @@
+====== 60781 - SR - Câmara Municipal V.N. Famalicão. Foto Beleza ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Câmara Municipal V.N. Famalicão. Foto Beleza
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1952
+**UnitDateFinal**:: 1952
+**ScopeContent**:: Edição da Câmara Municipal de V.N. Famalicão, na presidência de Álvaro Folhadela Marques, mandou fazer 12.000 postais coloridos e brilhantes, numa coleção de 12 postais. Casa fotográfica Beleza, da Rua S. Teresa, do Porto. Impressos em Turim, Itália.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60781
+
+===== Filhos =====
+  * [[60782.txt|60782 - DC - Vila Nova de Famalicão - Avenida Dr. Oliveira Salazar]]
+  * [[60784.txt|60784 - DC - Vila Nova de Famalicão - Matris de Antas]]
+  * [[60785.txt|60785 - DC - Vila Nova de Famalicão - Mosteiro de Arnoso (Santa Eulália - Monumento Nacional)]]
+  * [[60786.txt|60786 - DC - Vila Nova de Famalicão - Mosteiro de Landim]]
+  * [[60787.txt|60787 - DC - Vila Nova de Famalicão - Praça 9 de Abril e Monumento aos Mortos da Grande Guerra]]
+  * [[60788.txt|60788 - DC - Vila Nova de Famalicão - Praça da República e Paços do Concelho]]
+  * [[60790.txt|60790 - DC - Vila Nova de Famalicão - Vista geral sobre o nascente]]

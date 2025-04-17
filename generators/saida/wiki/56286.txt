@@ -1,0 +1,17 @@
+====== 56286 - DC - Casa de Pindela S. Miguel de 1903. Recibos da Administração desta Casa até 30 de Setembro de 1904 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Pindela S. Miguel de 1903. Recibos da Administração desta Casa até 30 de Setembro de 1904
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1903-09-29
+**UnitDateFinal**:: 1904-09-30
+**ScopeContent**:: Maço que contém 54 documentos manuscritos e impressos, CP 11391 a CP 11445.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56286
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11390 a 11445 - cx. 64
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56286

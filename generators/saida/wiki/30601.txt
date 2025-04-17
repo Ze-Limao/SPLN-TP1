@@ -1,0 +1,16 @@
+====== 30601 - DC - Registo do recenseamento eleitoral de Francisco Correia ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Cavalões
+Profissão - Lavrador
+Morada - Fornelo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30601
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30601

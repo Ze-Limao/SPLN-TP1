@@ -1,0 +1,17 @@
+====== 61840 - DC - Nosso lema é servir ======
+
+**Parent**:: 61456
+**RootParent**:: 60551
+**UnitTitle**:: Nosso lema é servir
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1981
+**UnitDateFinal**:: 1981
+**ScopeContent**:: Comp. Vitorini de Sousa e Resende Dias. Coro e orquestra alunos do Centro Arte e Cultura Popular de Bairro – V.N. Famalicão. Rotary Club Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 511 - cx. 13
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61840

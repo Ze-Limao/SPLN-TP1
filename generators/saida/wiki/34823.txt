@@ -1,0 +1,19 @@
+====== 34823 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1862-04-13
+Filiação - Luís José dos Santos Terroso e Maria Benedita Cândida de Barbosa
+Profissão - Escrevente
+Estado - Solteiro
+Morada - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34823
+**LangMaterial**:: Português
+**PhysLoc**:: 68v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34823

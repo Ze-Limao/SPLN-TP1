@@ -1,0 +1,17 @@
+====== 56789 - DC - Organização Corporativa pelo Drº Pedro Teotónio Pereira ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Organização Corporativa pelo Drº Pedro Teotónio Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1935
+**UnitDateFinal**:: 1935
+**ScopeContent**:: Livro impresso Edições SPN Lisboa. Notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56789
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2361 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56789

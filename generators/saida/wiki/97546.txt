@@ -1,0 +1,14 @@
+====== 97546 - UI - Processo nº 29 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 29
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-08-05
+**UnitDateFinal**:: 1977-04-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 368 - cx. 22
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97546

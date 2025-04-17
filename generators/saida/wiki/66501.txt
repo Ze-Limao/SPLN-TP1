@@ -1,0 +1,15 @@
+====== 66501 - DC - Licença para celebração de matrimónio de Luís José Ribeiro com Carolina Cardoso ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Licença para celebração de matrimónio de Luís José Ribeiro com Carolina Cardoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-09-30
+**UnitDateFinal**:: 1864-09-30
+**ScopeContent**:: Manuscrito, original, em papel azul “XL 40 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 527 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66501

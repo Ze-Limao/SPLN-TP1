@@ -1,0 +1,15 @@
+====== 66435 - DC - Procuração de Josefa Maria da Costa e Sá a Joaquim Ribeiro ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Procuração de Josefa Maria da Costa e Sá a Joaquim Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1865-10-23
+**UnitDateFinal**:: 1865-10-23
+**ScopeContent**:: Manuscrito, original, sem capa. Papel azul impresso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 486 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66435

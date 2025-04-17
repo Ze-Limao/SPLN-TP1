@@ -1,0 +1,19 @@
+====== 9424 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Francisco de Araújo Couto e Felicidade Rosa
+Naturalidade - Seide S. Paio
+Data de nascimento - 1876-04-05
+Profissão - Estudante
+Estado civil - Solteiro
+Residência - Seide S. Paio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9424
+**LangMaterial**:: Português
+**PhysLoc**:: f. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9424

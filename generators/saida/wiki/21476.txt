@@ -1,0 +1,16 @@
+====== 21476 - DC - Registo do recenseamento eleitoral de José da Fonseca ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José da Fonseca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Abade de Vermoim
+Profissão - Lavrador
+Morada - Pena
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21476
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21476

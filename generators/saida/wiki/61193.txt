@@ -1,0 +1,18 @@
+====== 61193 - SR - Correspondência enviada ======
+
+**Parent**:: 61191
+**RootParent**:: 60551
+**UnitTitle**:: Correspondência enviada
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1989-06-02
+**UnitDateFinal**:: 2004-07-12
+**ScopeContent**:: Minutas de ofícios enviados pelo Rotary Club de V. N. Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**LangMaterial**:: Português e Inglês
+**PhysLoc**:: RCF 111 a 170 - cx. 1
+depósito 3, estante 5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61193
+
+===== Filhos =====
+  * [[61436.txt|61436 - DC - Minuta de ofício]]

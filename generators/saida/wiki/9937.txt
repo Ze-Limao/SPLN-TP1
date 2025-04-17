@@ -1,0 +1,14 @@
+====== 9937 - DC - Registo do pagamento a Estulano José Galvão de Lacerda ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a Estulano José Galvão de Lacerda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-01-04
+**UnitDateFinal**:: 1882-01-04
+**ScopeContent**:: Assinatura do 'Diário do Governo' pelo ano de 1882
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9937
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9937

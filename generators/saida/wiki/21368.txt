@@ -1,0 +1,16 @@
+====== 21368 - UI - Correia Pinto ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Correia Pinto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1931-03-10
+**UnitDateFinal**:: 1931-03-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21368
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1324
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21368
+
+===== Filhos =====
+  * [[30191.txt|30191 - DC - Carta]]

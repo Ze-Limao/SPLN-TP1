@@ -1,0 +1,15 @@
+====== 98113 - UI - Processo nº 960-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 960-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1978-05-22
+**UnitDateFinal**:: 1987-10-05
+**ScopeContent**:: 2.ª Secção. Junto com Autos de Transgressão nº 278/80.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 775 - cx. 42
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98113

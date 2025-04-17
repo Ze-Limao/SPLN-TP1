@@ -1,0 +1,18 @@
+====== 8120 - DC - José Francisco Correia ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: José Francisco Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1883-08-01
+**ScopeContent**:: Escola - Jesufrei
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Braga
+Data de posse - 1880-01-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8120
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8120

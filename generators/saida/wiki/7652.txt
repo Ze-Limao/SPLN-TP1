@@ -1,0 +1,15 @@
+====== 7652 - SC - Órgãos do Município ======
+
+**Parent**:: 7651
+**RootParent**:: 7651
+**UnitTitle**:: Órgãos do Município
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1837-11-08
+**UnitDateFinal**:: 2017-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7652
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7652
+
+===== Filhos =====
+  * [[7653.txt|7653 - SSC - Câmara Municipal]]
+  * [[7883.txt|7883 - SSC - Presidente da Câmara Municipal]]

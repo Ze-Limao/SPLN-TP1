@@ -1,0 +1,15 @@
+====== 97488 - UI - Processo nº 13 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 13
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-12-07
+**UnitDateFinal**:: 1971-05-31
+**ScopeContent**:: Junto com Autos de Prestação e Caucão nº 13/68.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 314 - cx. 17
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97488

@@ -1,0 +1,15 @@
+====== 21045 - DC - Contrato de compra e venda ======
+
+**Parent**:: 7708
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de compra e venda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-12-15
+**UnitDateFinal**:: 1950-12-15
+**ScopeContent**:: Compra de terrenos para a construção do Estádio Municipal e abertura da rua de acesso
+Outorgantes - Alice Lopes da Rocha Alves da Costa, Maria Inês de Carvalho Matos Magalhães, António Ferreira de Magalhães, Maria Laura de Carvalho Matos Costa e João Gonçalves da Costa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21045
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21045

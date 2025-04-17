@@ -1,0 +1,15 @@
+====== 99321 - UI - Hutcheson & Co. ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Hutcheson & Co.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-05-30
+**UnitDateFinal**:: 1916-05-30
+**ScopeContent**:: Vila Nova de Gaia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99321
+
+===== Filhos =====
+  * [[99322.txt|99322 - DC - Memorandum]]

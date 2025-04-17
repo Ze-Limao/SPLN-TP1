@@ -1,0 +1,14 @@
+====== 21017 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7705
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1946-12-24
+**UnitDateFinal**:: 1946-12-24
+**ScopeContent**:: Construção de passeios na Rua Adriano Pinto Basto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21017
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 28
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21017

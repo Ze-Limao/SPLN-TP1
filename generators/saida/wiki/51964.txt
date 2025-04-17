@@ -1,0 +1,18 @@
+====== 51964 - DC - Registo do recenseamento militar de Daniel ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Daniel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-07-05
+Filiação - António Augusto dos Santos e Aurélia Ferreira
+Naturalidade - Vila Nova de Famalicão
+Profissão - Regente de Cartório
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51964
+**LangMaterial**:: Português
+**PhysLoc**:: 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51964

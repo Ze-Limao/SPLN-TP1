@@ -1,0 +1,20 @@
+====== 32379 - UI - Pedro José Agostinho de Mendoça Rolim de Moura Barreto ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Pedro José Agostinho de Mendoça Rolim de Moura Barreto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-03-07
+**UnitDateFinal**:: 1906-03-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32379
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32379
+
+===== Filhos =====
+  * [[32380.txt|32380 - DC - Carta]]
+  * [[32381.txt|32381 - DC - Carta]]
+  * [[32382.txt|32382 - DC - Carta]]
+  * [[32383.txt|32383 - DC - Carta]]

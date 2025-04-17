@@ -1,0 +1,16 @@
+====== 29189 - DC - Plantação de 3 castanheiros no Campo grande ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Plantação de 3 castanheiros no Campo grande
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-03-30
+**UnitDateFinal**:: 1907-03-30
+**ScopeContent**:: Identificação do local, número e variedades de castanheiros plantados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29189
+**LangMaterial**:: Português
+**PhysLoc**:: AS 304 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29189

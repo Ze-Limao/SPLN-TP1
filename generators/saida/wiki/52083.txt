@@ -1,0 +1,18 @@
+====== 52083 - DC - Registo do recenseamento militar de José António ======
+
+**Parent**:: 9168
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-02-01
+**UnitDateFinal**:: 1868-04-04
+**ScopeContent**:: Data de nascimento - 1847-04-16
+Filiação - José Bernardo da Costa e Maria Rosa
+Naturalidade - Arnoso Santa Maria
+Profissão - Lavrador
+Residência - Cambeses
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52083
+**LangMaterial**:: Português
+**PhysLoc**:: 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52083

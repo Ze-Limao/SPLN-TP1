@@ -1,0 +1,25 @@
+====== 20363 - SR - Empregados ======
+
+**Parent**:: 20349
+**RootParent**:: 20342
+**UnitTitle**:: Empregados
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1890-06-19
+**UnitDateFinal**:: 1973-08-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20363
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20363
+
+===== Filhos =====
+  * [[24997.txt|24997 - UI - Livro Negro]]
+  * [[24998.txt|24998 - UI - Conselhos Disciplinares 1891 a 1934]]
+  * [[24999.txt|24999 - UI - Folhas de matrícula de Bombeiros]]
+  * [[25000.txt|25000 - UI - Livro de Actas do Conselho Disciplinar]]
+  * [[25001.txt|25001 - UI - Livro de Corpo de Matrícula do Corpo Activo]]
+  * [[25002.txt|25002 - UI - Registo de castigos e actas]]
+  * [[25003.txt|25003 - UI - Seguros dos empregados]]
+  * [[25004.txt|25004 - UI - Actas dos resultados dos exames de Bombeiros, desde 1952 e à face do Regulamento]]
+  * [[25005.txt|25005 - UI - Processos do Fundo de Desemprego]]
+  * [[25006.txt|25006 - UI - Processos da Caixa de Previdência dos Empregados de Assistência]]

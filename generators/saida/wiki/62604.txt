@@ -1,0 +1,19 @@
+====== 62604 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Manuel Joaquim de Oliveira e Luísa Fernandes, na freguesia
+Naturalidade - Arnoso Santa Maria
+Morada - Arnoso Santa Maria
+Data de nascimento - 
+Emprego - Cesteiro
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 63v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62604

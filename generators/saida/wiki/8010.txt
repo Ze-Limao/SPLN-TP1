@@ -1,0 +1,15 @@
+====== 8010 - DC - Termo de Joaquim da Costa Araújo ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Joaquim da Costa Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872-05-31
+**UnitDateFinal**:: 1872-05-31
+**ScopeContent**:: Declaração para seu filho Henrique Machado de Araújo ser considerado cidadão brasileiro
+Morada - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8010
+**LangMaterial**:: Português
+**PhysLoc**:: f. 33
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8010

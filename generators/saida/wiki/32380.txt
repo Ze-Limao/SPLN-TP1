@@ -1,0 +1,17 @@
+====== 32380 - DC - Carta ======
+
+**Parent**:: 32379
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-03-07
+**UnitDateFinal**:: 1895-03-07
+**ScopeContent**:: Carta manuscrita assinada, de Belém (Lisboa).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32380
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1433 - cx. 10
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32380

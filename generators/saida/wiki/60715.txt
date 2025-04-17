@@ -1,0 +1,15 @@
+====== 60715 - DC - Emprazamento do casal de Codeceira, situado na dita freguesia de S.Tiago de Antas, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, a Afonso Anes e a sua mulher ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Codeceira, situado na dita freguesia de S.Tiago de Antas, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, a Afonso Anes e a sua mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1504-01-19
+**UnitDateFinal**:: 1504-01-19
+**ScopeContent**:: Manuscrito, original, sem selo, com orifícios.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 16 - cx. P14
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60715

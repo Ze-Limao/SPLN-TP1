@@ -1,0 +1,16 @@
+====== 26088 - DC - Carta ======
+
+**Parent**:: 21221
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-12-01
+**UnitDateFinal**:: 1916-12-01
+**ScopeContent**:: Carta manuscrita assinada, do Paço de Lanheses.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26088
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 882 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26088

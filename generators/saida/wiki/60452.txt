@@ -1,0 +1,17 @@
+====== 60452 - DC - Documento ======
+
+**Parent**:: 31395
+**RootParent**:: 31258
+**UnitTitle**:: Documento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921
+**UnitDateFinal**:: 1921
+**ScopeContent**:: Este documento está no envelope “Herança da tia Anica. Quinta da Calçada Documentos de Archivo. Quinta de Brazins” que contém CP 13769 a CP 13781. Pertence ao maço “Documentos da herança da Tia Anica Julho de 1912…” que contém CP 13765 a CP 13799.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54474
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13779 -  cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60452

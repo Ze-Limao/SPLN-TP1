@@ -1,0 +1,41 @@
+====== 55896 - DC - Maço Sanatórios. Apêndice ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço Sanatórios. Apêndice
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Maço com minutas de cartas, cartas e telegramas. Contém CP 14504 a CP 14526.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55896
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14503 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55896
+
+===== Filhos =====
+  * [[55897.txt|55897 - DC - Ofício da Madeira Actien Gesellschaft para Cônsul Geral Felix Eisenmann]]
+  * [[55898.txt|55898 - DC - Cópia de ofício de Adolf Woermann para Erwin Hauers]]
+  * [[55899.txt|55899 - DC - Minuta de carta]]
+  * [[55900.txt|55900 - DC - Minuta de carta]]
+  * [[55901.txt|55901 - DC - Minuta de carta]]
+  * [[55902.txt|55902 - DC - Minuta de carta]]
+  * [[55903.txt|55903 - DC - Minuta de carta]]
+  * [[55904.txt|55904 - DC - Minuta de carta]]
+  * [[55905.txt|55905 - DC - Minuta de carta]]
+  * [[55906.txt|55906 - DC - Telegrama de Luciano Monteiro]]
+  * [[55907.txt|55907 - DC - Telegrama de João Freire]]
+  * [[55908.txt|55908 - DC - Minuta carta de Luciano Monteiro ao Ministro Plenipotenciário de Portugal em Londres]]
+  * [[55909.txt|55909 - DC - Minuta carta de Luciano Monteiro ao Ministro Plenipotenciário de Portugal em Berlim]]
+  * [[55910.txt|55910 - DC - Carta de Luís Maria Pinto de Soveral]]
+  * [[55911.txt|55911 - DC - Carta de Luís Maria Pinto de Soveral]]
+  * [[55912.txt|55912 - DC - Carta de Luís Maria Pinto de Soveral]]
+  * [[55913.txt|55913 - DC - Telegrama de Luciano Monteiro]]
+  * [[55914.txt|55914 - DC - Telegrama de João Franco]]
+  * [[55915.txt|55915 - DC - Telegrama de João Franco]]
+  * [[55916.txt|55916 - DC - Carta do Gabinete do Ministro]]
+  * [[55917.txt|55917 - DC - Carta de Felix Eisenmann]]
+  * [[55918.txt|55918 - DC - Carta de Felix Eisenmann]]

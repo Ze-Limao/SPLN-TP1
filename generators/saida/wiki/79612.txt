@@ -1,0 +1,22 @@
+====== 79612 - SR - Documentos ======
+
+**Parent**:: 31364
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1908
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31366
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79612
+
+===== Filhos =====
+  * [[56266.txt|56266 - DC - Recibo de Afonso Sousa a José Arruela]]
+  * [[56267.txt|56267 - DC - Recibo de Afonso Sousa a José Arruela]]
+  * [[56268.txt|56268 - DC - Recibo de Afonso Sousa a José Arruela]]
+  * [[56269.txt|56269 - DC - Recibo de Afonso Sousa a José Arruela]]
+  * [[56270.txt|56270 - DC - Recibo de Afonso Sousa a José Arruela]]
+  * [[56271.txt|56271 - DC - Recibo de Agence Générale d´Automobiles Albert Beauvalet Cta. para José Arruela]]
+  * [[56272.txt|56272 - DC - Licença para automóvel para José Arruela]]
+  * [[56273.txt|56273 - DC - Autorização do Governo Civil de Lisboa de circulação do automóvel de José Arruela]]
+  * [[56274.txt|56274 - DC - Carta de Maria Cândida]]

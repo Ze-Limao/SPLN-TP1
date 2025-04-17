@@ -1,0 +1,15 @@
+====== 80003 - UI - Processo nº 339A ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 339A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1963-02-20
+**UnitDateFinal**:: 1970-03-31
+**ScopeContent**:: Junto com Autos de Acção de Processo Comum nº 41 e Autos de Execução de Custas nº 48-B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 23 - cx. 2
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80003

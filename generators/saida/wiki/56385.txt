@@ -1,0 +1,86 @@
+====== 56385 - DC - Minutas de cartas e telegramas codificados ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Minutas de cartas e telegramas codificados
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1909
+**ScopeContent**:: Este maço contém minutas de cartas, CP 14495 a CP 14473.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56385
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56385
+
+===== Filhos =====
+  * [[55797.txt|55797 - DC - Minuta de carta]]
+  * [[55798.txt|55798 - DC - Minuta de carta]]
+  * [[55799.txt|55799 - DC - Minuta de carta]]
+  * [[55800.txt|55800 - DC - Minuta de carta]]
+  * [[55801.txt|55801 - DC - Minuta de carta]]
+  * [[55802.txt|55802 - DC - Minuta de carta]]
+  * [[55803.txt|55803 - DC - Minuta de carta]]
+  * [[55804.txt|55804 - DC - Minuta de carta]]
+  * [[55805.txt|55805 - DC - Minuta de carta]]
+  * [[55806.txt|55806 - DC - Minuta de carta]]
+  * [[55807.txt|55807 - DC - Minuta de carta]]
+  * [[55808.txt|55808 - DC - Minuta de carta]]
+  * [[55809.txt|55809 - DC - Minuta de carta]]
+  * [[55810.txt|55810 - DC - Minuta de carta]]
+  * [[55811.txt|55811 - DC - Minuta de carta]]
+  * [[55812.txt|55812 - DC - Minuta de carta]]
+  * [[55813.txt|55813 - DC - Minuta de carta]]
+  * [[55814.txt|55814 - DC - Minuta de carta]]
+  * [[55815.txt|55815 - DC - Minuta de carta]]
+  * [[55816.txt|55816 - DC - Minuta de carta]]
+  * [[55817.txt|55817 - DC - Minuta de carta]]
+  * [[55818.txt|55818 - DC - Minuta de carta]]
+  * [[55819.txt|55819 - DC - Minuta de carta]]
+  * [[55820.txt|55820 - DC - Minuta de carta]]
+  * [[55821.txt|55821 - DC - Minuta de carta]]
+  * [[55822.txt|55822 - DC - Minuta de carta]]
+  * [[55823.txt|55823 - DC - Minuta de carta]]
+  * [[55824.txt|55824 - DC - Minuta de carta]]
+  * [[55825.txt|55825 - DC - Minuta de carta]]
+  * [[55826.txt|55826 - DC - Minuta de carta]]
+  * [[55827.txt|55827 - DC - Minuta de carta]]
+  * [[55828.txt|55828 - DC - Minuta de carta]]
+  * [[55829.txt|55829 - DC - Minuta de carta]]
+  * [[55830.txt|55830 - DC - Minuta de carta]]
+  * [[55831.txt|55831 - DC - Minuta de carta]]
+  * [[55832.txt|55832 - DC - Minuta de carta]]
+  * [[55833.txt|55833 - DC - Minuta de carta]]
+  * [[55834.txt|55834 - DC - Minuta de carta]]
+  * [[55835.txt|55835 - DC - Minuta de carta]]
+  * [[55836.txt|55836 - DC - Minuta de carta]]
+  * [[55837.txt|55837 - DC - Minuta de carta]]
+  * [[55838.txt|55838 - DC - Minuta de carta]]
+  * [[55839.txt|55839 - DC - Minuta de carta]]
+  * [[55840.txt|55840 - DC - Minuta de carta]]
+  * [[55841.txt|55841 - DC - Minuta de carta]]
+  * [[55842.txt|55842 - DC - Minuta de carta]]
+  * [[55843.txt|55843 - DC - Minuta de carta]]
+  * [[55844.txt|55844 - DC - Minuta de carta]]
+  * [[55845.txt|55845 - DC - Minuta de carta]]
+  * [[55846.txt|55846 - DC - Minuta de carta]]
+  * [[55847.txt|55847 - DC - Minuta de carta]]
+  * [[55848.txt|55848 - DC - Minuta de carta]]
+  * [[55849.txt|55849 - DC - Minuta de carta]]
+  * [[55850.txt|55850 - DC - Minuta de carta]]
+  * [[55851.txt|55851 - DC - Minuta de carta]]
+  * [[55852.txt|55852 - DC - Minuta de carta]]
+  * [[55853.txt|55853 - DC - Minuta de carta]]
+  * [[55854.txt|55854 - DC - Minuta de carta]]
+  * [[55855.txt|55855 - DC - Minuta de carta]]
+  * [[55856.txt|55856 - DC - Minuta de carta]]
+  * [[55857.txt|55857 - DC - Minuta de carta]]
+  * [[55858.txt|55858 - DC - Minuta de carta]]
+  * [[55859.txt|55859 - DC - Minuta de carta]]
+  * [[55860.txt|55860 - DC - Minuta de carta]]
+  * [[55861.txt|55861 - DC - Minuta de carta]]
+  * [[55862.txt|55862 - DC - Minuta de carta]]
+  * [[55863.txt|55863 - DC - Minuta de carta]]
+  * [[55864.txt|55864 - DC - Minuta de carta]]
+  * [[55865.txt|55865 - DC - Minuta de carta]]

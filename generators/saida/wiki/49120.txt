@@ -1,0 +1,18 @@
+====== 49120 - DC - Registo do recenseamento eleitoral de Manuel Pinto Borges Carneiro ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Pinto Borges Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Requião
+Profissão - Lavrador
+Estado - Casado
+Morada - Valbom
+Idade - 45
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49120
+**LangMaterial**:: Português
+**PhysLoc**:: 66v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49120

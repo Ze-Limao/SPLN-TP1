@@ -1,0 +1,15 @@
+====== 98116 - UI - Processo nº 90/80 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 90/80
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1977-03-29
+**UnitDateFinal**:: 1985-03-06
+**ScopeContent**:: 2ª Secção. Junto de Autos de Execução por Custas nº 175/80.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 778 - cx. 42
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98116

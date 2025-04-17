@@ -1,0 +1,15 @@
+====== 28522 - DC - Lei de 1211 sobre os salvados ======
+
+**Parent**:: 28507
+**RootParent**:: 27963
+**UnitTitle**:: Lei de 1211 sobre os salvados
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28522
+**LangMaterial**:: Português
+**PhysLoc**:: AS 90 (15) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28522

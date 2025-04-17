@@ -1,0 +1,16 @@
+====== 29242 - DC - Lista de variedades de roseiras ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Lista de variedades de roseiras
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1903
+**ScopeContent**:: À denominação da variedade da roseira, Alberto Sampaio acrescenta uma ou outra particularidade: Madame de Walteville (linda); Marechal Niel (rosa chá / bonita); William Alen Richardson (laranja, formosa), etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29242
+**LangMaterial**:: Português
+**PhysLoc**:: AS 359 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29242

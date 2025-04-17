@@ -1,0 +1,20 @@
+====== 20768 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-05-16
+**UnitDateFinal**:: 1890-05-16
+**ScopeContent**:: Freguesia - Jesufrei
+Filiação - José Maria Simões da Costa e Joaquina Rosa Marinho
+Naturalidade - Jesufrei
+Data de nascimento - 1869-02-28
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20768
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20768

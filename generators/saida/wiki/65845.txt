@@ -1,0 +1,15 @@
+====== 65845 - DC - Carta de permutação de duas igrejas de que eram abades Pero Jorge da Silva e Diogo Anes ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Carta de permutação de duas igrejas de que eram abades Pero Jorge da Silva e Diogo Anes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1559-06-06
+**UnitDateFinal**:: 1559-06-06
+**ScopeContent**:: Manuscrito, original, sem selo. Foi capa de livro, no verso "Livro de recebimento dos foros das igrejas de S. Tiago de Antas de 1648".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 280 - cx. P4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65845

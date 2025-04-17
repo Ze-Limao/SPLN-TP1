@@ -1,0 +1,17 @@
+====== 60883 - SR - Casa Voga. Foto Humberto ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Casa Voga. Foto Humberto
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1961
+**UnitDateFinal**:: 1961
+**ScopeContent**:: Editor Casa Voga. Fotografia de Foto Humberto (Famalicão).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60883
+
+===== Filhos =====
+  * [[60886.txt|60886 - DC - Monumento aos Mortos da Grande Guerra na Praça 9 de Abril.]]
+  * [[60887.txt|60887 - DC - Monumento aos Mortos da Grande Guerra na Praça 9 de Abril.]]

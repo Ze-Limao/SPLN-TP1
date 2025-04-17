@@ -1,0 +1,16 @@
+====== 28103 - DC - Exposição Universal d´Antuerpia em 1894... Circular da Commissão Executiva aos Productores ======
+
+**Parent**:: 28094
+**RootParent**:: 27963
+**UnitTitle**:: Exposição Universal d´Antuerpia em 1894... Circular da Commissão Executiva aos Productores
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1893
+**ScopeContent**:: Circular da Comissão Executiva aos Produtores endereçada a José da Cunha Sampaio, dobrada com carimbo e selada. Impresso em Antuerpia CI Thibaut.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28103
+**LangMaterial**:: Português
+**PhysLoc**:: AS 509 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28103

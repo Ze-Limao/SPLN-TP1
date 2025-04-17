@@ -1,0 +1,17 @@
+====== 27964 - SC - Jovem (1858-01-01 a 1867-11-29) ======
+
+**Parent**:: 27968
+**RootParent**:: 27963
+**UnitTitle**:: Jovem (1858-01-01 a 1867-11-29)
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1860-03-20
+**UnitDateFinal**:: 1867-07-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27964
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27964
+
+===== Filhos =====
+  * [[27967.txt|27967 - SSC - Formação académica]]
+  * [[27971.txt|27971 - SSC - Atividade pessoal]]

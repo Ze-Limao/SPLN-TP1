@@ -1,0 +1,16 @@
+====== 25463 - DC - Carta ======
+
+**Parent**:: 21113
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-02-18
+**UnitDateFinal**:: 1925-02-18
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25463
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 419 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25463

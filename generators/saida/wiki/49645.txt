@@ -1,0 +1,18 @@
+====== 49645 - DC - Registo do recenseamento eleitoral de Valentim Brandão Moreira de Sá Sottomaior ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Valentim Brandão Moreira de Sá Sottomaior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Escrivão de Direito
+Estado - Viúvo
+Morada - Rua Direita
+Idade - 57
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49645
+**LangMaterial**:: Português
+**PhysLoc**:: 93v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49645

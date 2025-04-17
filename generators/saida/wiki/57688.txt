@@ -1,0 +1,17 @@
+====== 57688 - DC - A 1ª visita de propaganda agrícola na linha da Povoa ======
+
+**Parent**:: 57680
+**RootParent**:: 31258
+**UnitTitle**:: A 1ª visita de propaganda agrícola na linha da Povoa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928-06-20
+**UnitDateFinal**:: 1928-06-20
+**ScopeContent**:: Cartaz editado pela Companhia de Caminhos de Ferro do Norte de Portugal. Visita de demonstração das vantagens de máquinas agrícolas na Quinta da Lameira, Vilar do Pinheiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57688
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2878 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57688

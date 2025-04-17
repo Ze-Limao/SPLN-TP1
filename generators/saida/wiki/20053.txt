@@ -1,0 +1,15 @@
+====== 20053 - SC - Assistência social ======
+
+**Parent**:: 20048
+**RootParent**:: 20048
+**UnitTitle**:: Assistência social
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1874-02-05
+**UnitDateFinal**:: 1917-05-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20053
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20053
+
+===== Filhos =====
+  * [[20209.txt|20209 - SR - Autos de arrematação da sopa económica]]

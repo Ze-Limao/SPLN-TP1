@@ -1,0 +1,17 @@
+====== 78357 - DC - Sentença cível referente a vários terrenos ======
+
+**Parent**:: 54471
+**RootParent**:: 31258
+**UnitTitle**:: Sentença cível referente a vários terrenos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1774
+**UnitDateFinal**:: 1774
+**ScopeContent**:: Manuscrito com folhas cosidas, numerado Nº 14.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4974 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78357

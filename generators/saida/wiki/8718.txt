@@ -1,0 +1,18 @@
+====== 8718 - DC - Termo do exame de Maria Pedrosa Machado ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Maria Pedrosa Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-21
+**UnitDateFinal**:: 1890-08-21
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - Anastácio Ribeiro Barbosa
+Naturalidade - Ronfe, Guimarães
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8718
+**LangMaterial**:: Português
+**PhysLoc**:: f. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8718

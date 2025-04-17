@@ -1,0 +1,17 @@
+====== 56684 - DC - Humbolt Apotheke Max Deutsch ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Humbolt Apotheke Max Deutsch
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Envelope impresso com o título, Berlim. Junto com CP 7414, CP 7415, CP 7416.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56684
+**LangMaterial**:: Alemão
+**PhysLoc**:: CP 7416A - cx. 48
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56684

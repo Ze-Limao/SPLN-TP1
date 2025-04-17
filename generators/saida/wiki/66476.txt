@@ -1,0 +1,15 @@
+====== 66476 - DC - Pedido de licença para os Festeiros da festa do mártir S. Sebastião, na freguesia de S. Tiago de Antas, para missa solene, exposição e procissão ao cruzeiro ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença para os Festeiros da festa do mártir S. Sebastião, na freguesia de S. Tiago de Antas, para missa solene, exposição e procissão ao cruzeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-09-22
+**UnitDateFinal**:: 1892-09-22
+**ScopeContent**:: Manuscrito, original, em papel azul timbrado “80 reis” com selo colado. Em baixo o deferimento do Arcipreste Mesquita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 505 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66476

@@ -1,0 +1,16 @@
+====== 24519 - DC - Registo do recenseamento eleitoral de Manuel Teodósio Dias ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Teodósio Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Lavrador
+Morada - Valdoi
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24519
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24519

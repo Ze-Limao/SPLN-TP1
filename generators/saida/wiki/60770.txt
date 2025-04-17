@@ -1,0 +1,15 @@
+====== 60770 - DC - Emprazamento da quebrada de Boelhe, situada na freguesia de Couto de Cambeses (concelho de Barcelos), feita por Sebastião Gonçalves, raçoeiro da Igreja de 5. Tiago de Antas, a Artur de Castro, clérigo de missa ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento da quebrada de Boelhe, situada na freguesia de Couto de Cambeses (concelho de Barcelos), feita por Sebastião Gonçalves, raçoeiro da Igreja de 5. Tiago de Antas, a Artur de Castro, clérigo de missa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1543-11-14
+**UnitDateFinal**:: 1543-11-14
+**ScopeContent**:: Manuscrito, original, com selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 39 - cx. P27
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60770

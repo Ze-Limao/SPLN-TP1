@@ -1,0 +1,16 @@
+====== 29243 - DC - Sementeira de Amaryllis ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Sementeira de Amaryllis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901
+**UnitDateFinal**:: 1901
+**ScopeContent**:: Amarillys, planta bolbosa, é uma variedade de junquilho, sendo esta a flor predilecta de Alberto Sampaio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29243
+**LangMaterial**:: Português
+**PhysLoc**:: AS 360 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29243

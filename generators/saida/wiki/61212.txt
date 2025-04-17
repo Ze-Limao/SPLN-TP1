@@ -1,0 +1,15 @@
+====== 61212 - UI - Hélder Rui ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Hélder Rui
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1950-07-17
+**UnitDateFinal**:: 1950-07-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61212
+
+===== Filhos =====
+  * [[61213.txt|61213 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 80577 - UI - Processo nº 263-A/75 ======
+
+**Parent**:: 80074
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 263-A/75
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-02-03
+**UnitDateFinal**:: 1980-06-09
+**ScopeContent**:: Junto com Auto de Execução Sumária nº 263.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 221- cx. 12
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80577

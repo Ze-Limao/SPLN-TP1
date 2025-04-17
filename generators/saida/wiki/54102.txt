@@ -1,0 +1,17 @@
+====== 54102 - DC - Esquema da instalação da caldeira e Esquema do abastecimento de oleo ao queimador e seu aquecimento - Capucho ======
+
+**Parent**:: 54091
+**RootParent**:: 25851
+**UnitTitle**:: Esquema da instalação da caldeira e Esquema do abastecimento de oleo ao queimador e seu aquecimento - Capucho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954
+**UnitDateFinal**:: 1954
+**ScopeContent**:: Cópia de desenho. Carimbo de João Félix da Silva Capucho, selada e assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54102
+**LangMaterial**:: Português
+**PhysLoc**:: JG 169(8) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54102

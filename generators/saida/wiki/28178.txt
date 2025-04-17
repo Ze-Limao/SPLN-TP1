@@ -1,0 +1,16 @@
+====== 28178 - DC - As primeiras castas italianas que vieram em 1895 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: As primeiras castas italianas que vieram em 1895
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-02
+**UnitDateFinal**:: 1901-09
+**ScopeContent**:: Informações sobre a plantação das castas de origem italiana, suas características (folhas e bagos) e produção. Plantação de castas italianas em Boamense, nomeadamente: Monica Nera, Chasselas precoce, Malvazia Zante, Forcese di Fermo, Bonarda à grandes grappes e Aliatico Sciolto. Para cada uma delas, marcadas em Setembro de 1901 com etiquetas de zinco, Alberto Sampaio indica o local da plantação e descreve as características da folha (lisa, rugosa, verde claro, verde escuro…) e do bago (pequeno, redondo, doce…). Por exemplo, da primeira, Monica Nera, à qual corresponde a «Marca A», é dito que produziu um «gaipo» em 1901, sendo o bago «tinto, levemente oval», apresentando uma folha rugosa e verde escura.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28178
+**LangMaterial**:: Português
+**PhysLoc**:: AS 450 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28178

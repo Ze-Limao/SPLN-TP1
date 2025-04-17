@@ -1,0 +1,18 @@
+====== 46161 - DC - Registo do recenseamento eleitoral de Teodósio Francisco de Azevedo ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Teodósio Francisco de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Eclesiástico
+Estado - Solteiro
+Morada - Souto de Fora
+Idade - 47
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46161
+**LangMaterial**:: Português
+**PhysLoc**:: 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46161

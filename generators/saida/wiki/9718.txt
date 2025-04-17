@@ -1,0 +1,13 @@
+====== 9718 - DC - Edital ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Edital
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-11-02
+**UnitDateFinal**:: 1887-11-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9718
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9718

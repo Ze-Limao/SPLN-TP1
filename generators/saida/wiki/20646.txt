@@ -1,0 +1,20 @@
+====== 20646 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Vale S. Martinho
+Filiação - José de Sousa e Maria Alves
+Naturalidade - Vale S. Martinho
+Data de nascimento - 1870-05-04
+Emprego - Carpinteiro
+Estado - Solteiro
+Residência - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20646
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20646

@@ -1,0 +1,17 @@
+====== 55670 - DC - Minuta de carta ======
+
+**Parent**:: 55668
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-06-27
+**UnitDateFinal**:: 1902-06-27
+**ScopeContent**:: Minuta de carta manuscrita assinada, de Berlim, em papel timbrado "Légation Royale de Portugal en Allemagne".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55670
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13856 - cx.
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55670

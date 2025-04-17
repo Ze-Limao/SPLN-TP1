@@ -1,0 +1,15 @@
+====== 80192 - UI - Processo nº 116-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 116-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-03-20
+**UnitDateFinal**:: 1980-05-31
+**ScopeContent**:: Junto com Autos de Acção de Processo Comum nº 116.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 89 - cx. 6
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80192

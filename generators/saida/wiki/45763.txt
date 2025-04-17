@@ -1,0 +1,18 @@
+====== 45763 - DC - Registo do recenseamento eleitoral de António da Costa Ortiga ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António da Costa Ortiga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Brufe
+Profissão - Lavrador
+Estado - Casado
+Morada - Carvalho
+Idade - 61
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45763
+**LangMaterial**:: Português
+**PhysLoc**:: 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45763

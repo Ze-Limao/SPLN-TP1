@@ -1,0 +1,16 @@
+====== 29297 - DC - Nous nous sommes très bien trouvé ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Nous nous sommes très bien trouvé
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-08-24
+**UnitDateFinal**:: 1895-08-24
+**ScopeContent**:: Reboco de uma casa exposta à humidade. Composição: água, cal apagada e oxalato de alumínio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29297
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 204 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29297

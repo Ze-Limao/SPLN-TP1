@@ -1,0 +1,19 @@
+====== 34035 - DC - Registo do recenseamento militar de André de Carvalho ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de André de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Sezures
+Data de nascimento - 1852-11-01
+Filiação - Domingos Gomes de Carvalho e Francisca Gomes
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Sezures
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34035
+**LangMaterial**:: Português
+**PhysLoc**:: 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34035

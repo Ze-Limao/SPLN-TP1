@@ -1,0 +1,13 @@
+====== 9835 - DC - Ofício nº 2 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 2
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-01-31
+**UnitDateFinal**:: 1888-01-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9835
+**LangMaterial**:: Português
+**PhysLoc**:: f. 41
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9835

@@ -1,0 +1,18 @@
+====== 8759 - DC - Termo do exame de Augusto Dias ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Augusto Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-17
+**UnitDateFinal**:: 1891-07-17
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - José Dias
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8759
+**LangMaterial**:: Português
+**PhysLoc**:: f. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8759

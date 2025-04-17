@@ -1,0 +1,17 @@
+====== 55472 - DC - Convite ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Convite
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-03
+**UnitDateFinal**:: 1905-03
+**ScopeContent**:: Documento junto com convites e programa relativos ao concerto de Guilhermina Suggia na Legação Portuguesa em Berlim, 1905-03-10. Junto com CP 5908 a 5015.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55472
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 5913 - cx. 41
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55472

@@ -1,0 +1,16 @@
+====== 21392 - UI - Francisco Alves Mendes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco Alves Mendes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-06-12
+**UnitDateFinal**:: 1913-06-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21392
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1354
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21392
+
+===== Filhos =====
+  * [[30221.txt|30221 - DC - Carta]]

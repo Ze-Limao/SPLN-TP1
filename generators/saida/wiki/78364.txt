@@ -1,0 +1,17 @@
+====== 78364 - DC - Carta de arrematação das casas da Rua dos Gatos em Guimarães por António Jorge da Guerra ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Carta de arrematação das casas da Rua dos Gatos em Guimarães por António Jorge da Guerra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1628
+**UnitDateFinal**:: 1628
+**ScopeContent**:: Manuscrito com folhas cosidas, numerado nº 5.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54363
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4980 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78364

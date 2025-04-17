@@ -1,0 +1,14 @@
+====== 97716 - UI - Processo nº 65 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 65
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-04-15
+**UnitDateFinal**:: 1972-01-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 457 - cx. 28
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97716

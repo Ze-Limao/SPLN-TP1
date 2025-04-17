@@ -1,0 +1,13 @@
+====== 9842 - DC - Ofício nº 9 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 9
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-03-09
+**UnitDateFinal**:: 1888-03-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9842
+**LangMaterial**:: Português
+**PhysLoc**:: f. 43
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9842

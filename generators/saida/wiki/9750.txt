@@ -1,0 +1,15 @@
+====== 9750 - SR - António da Silva Pimenta ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: António da Silva Pimenta
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1910
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9750
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9750
+
+===== Filhos =====
+  * [[9751.txt|9751 - DC - V. N. de Famalicão - Quinta de Pousada]]

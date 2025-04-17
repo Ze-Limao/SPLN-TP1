@@ -1,0 +1,26 @@
+====== 7708 - UI - Livro de Notas Nº 22 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 22
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1950-07-06
+**UnitDateFinal**:: 1951-10-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7708
+**LangMaterial**:: Português
+**PhysLoc**:: 1.57
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7708
+
+===== Filhos =====
+  * [[21037.txt|21037 - DC - Contrato de compra e venda]]
+  * [[21038.txt|21038 - DC - Contrato de adjudicação]]
+  * [[21041.txt|21041 - DC - Contrato complementar ao contrato de adjudicação]]
+  * [[21042.txt|21042 - DC - Contrato de compra e venda]]
+  * [[21043.txt|21043 - DC - Contrato de adjudicação]]
+  * [[21045.txt|21045 - DC - Contrato de compra e venda]]
+  * [[21046.txt|21046 - DC - Contrato de adjudicação]]
+  * [[21047.txt|21047 - DC - Contrato de adjudicação]]
+  * [[21048.txt|21048 - DC - Contrato de adjudicação]]
+  * [[21049.txt|21049 - DC - Contrato de adjudicação]]
+  * [[21050.txt|21050 - DC - Contrato de adjudicação]]

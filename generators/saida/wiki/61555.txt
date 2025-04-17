@@ -1,0 +1,17 @@
+====== 61555 - DC - Cartão do Dia da Mãe 1989-90 ======
+
+**Parent**:: 61444
+**RootParent**:: 60551
+**UnitTitle**:: Cartão do Dia da Mãe 1989-90
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1990-05-06
+**UnitDateFinal**:: 1990-05-06
+**ScopeContent**:: Cartão do Rotary Club Famalicão com homenagem à Mãe.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 266 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61555

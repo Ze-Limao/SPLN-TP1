@@ -1,0 +1,17 @@
+====== 8304 - UI - Domingos Joaquim Ferreira da Cruz ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Domingos Joaquim Ferreira da Cruz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-11-22
+**UnitDateFinal**:: 1895-11-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8304
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.17
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8304
+
+===== Filhos =====
+  * [[8305.txt|8305 - DC - Carta]]
+  * [[8306.txt|8306 - DC - Carta]]

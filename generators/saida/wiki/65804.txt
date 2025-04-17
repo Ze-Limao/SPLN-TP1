@@ -1,0 +1,15 @@
+====== 65804 - DC - Emprazamento do Couto de Sande, situado em Riba de Ave, a Sebastião F. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do Couto de Sande, situado em Riba de Ave, a Sebastião F.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1666-02-07
+**UnitDateFinal**:: 1666-02-07
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 636 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65804

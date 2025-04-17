@@ -1,0 +1,16 @@
+====== 21434 - UI - José Pinto Ferrão de Tavares e Távora ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Pinto Ferrão de Tavares e Távora
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-05-22
+**UnitDateFinal**:: 1900-05-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21434
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1422
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21434
+
+===== Filhos =====
+  * [[30270.txt|30270 - DC - Carta]]

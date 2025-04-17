@@ -1,0 +1,16 @@
+====== 30266 - DC - Carta ======
+
+**Parent**:: 21433
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-08-16
+**UnitDateFinal**:: 1915-08-16
+**ScopeContent**:: Carta manuscrita e assinada, de Casa Travassos 31 Janeiro, Vila Real.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30266
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1418 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30266

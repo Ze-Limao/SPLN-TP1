@@ -1,0 +1,19 @@
+====== 9346 - DC - Registo do recenseamento militar de Rudesindo dos Passos ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Rudesindo dos Passos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Incógnita
+Naturalidade - Vale S. Cosme
+Data de nascimento - 1877-03-01
+Profissão - 
+Estado civil - 
+Residência - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9346
+**LangMaterial**:: Português
+**PhysLoc**:: f. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9346

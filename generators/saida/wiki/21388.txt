@@ -1,0 +1,16 @@
+====== 21388 - UI - Fernando Martins ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Fernando Martins
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885-06-04
+**UnitDateFinal**:: 1885-06-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21388
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1350
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21388
+
+===== Filhos =====
+  * [[30218.txt|30218 - DC - Carta]]

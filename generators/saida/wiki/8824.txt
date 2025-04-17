@@ -1,0 +1,18 @@
+====== 8824 - DC - Termo do exame de Alcino José Correia ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Alcino José Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-23
+**UnitDateFinal**:: 1893-07-23
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - Manuel José Correia Marinho
+Naturalidade - Torre, Valença
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8824
+**LangMaterial**:: Português
+**PhysLoc**:: f. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8824

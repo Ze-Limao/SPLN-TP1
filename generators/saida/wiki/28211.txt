@@ -1,0 +1,16 @@
+====== 28211 - DC - Sulfato para ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Sulfato para
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1907-05
+**ScopeContent**:: Quantidades de sulfato e de cal a adicionar na preparação da calda destinada a tratamento das videiras. Numa nota, no verso da folha, Alberto Sampaio escreveu: «É esta a fórmula que actualmente se emprega - Maio de 1907.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28211
+**LangMaterial**:: Português
+**PhysLoc**:: AS 483 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28211

@@ -1,0 +1,16 @@
+====== 28037 - DC - Carta de Alberto Sampaio ======
+
+**Parent**:: 28033
+**RootParent**:: 27963
+**UnitTitle**:: Carta de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-05-04
+**UnitDateFinal**:: 1864-05-04
+**ScopeContent**:: Carta endereçada a José da Cunha Sampaio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28037
+**LangMaterial**:: Português
+**PhysLoc**:: AS 546 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28037

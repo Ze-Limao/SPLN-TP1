@@ -1,0 +1,15 @@
+====== 25946 - DC - Benção da ambulância PSL-5 pelo Monsenhor ======
+
+**Parent**:: 25323
+**RootParent**:: 20342
+**UnitTitle**:: Benção da ambulância PSL-5 pelo Monsenhor
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1992
+**UnitDateFinal**:: 1992
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25946
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 192 - cx. 54
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25946

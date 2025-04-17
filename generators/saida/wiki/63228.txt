@@ -1,0 +1,19 @@
+====== 63228 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Bernardino Machado e Inácia Maria, na freguesia
+Naturalidade - Landim
+Morada - Ignora-se
+Data de nascimento - 1864-03-02
+Emprego - Criado de servir
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63228

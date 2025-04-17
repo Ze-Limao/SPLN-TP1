@@ -1,0 +1,23 @@
+====== 20120 - UI - Registo da correspondência expedida para os regedores ======
+
+**Parent**:: 20108
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida para os regedores
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1928-01-10
+**UnitDateFinal**:: 1928-10-23
+**ScopeContent**:: Termo de abertura: “Tem de servir o presente livro para nele ser copiando toda a correspondencia dirigida aos regedores das freguesias deste concelho…”.
+O conteúdo da correspondência está resumido. 
+Contém:
+Cópia da Circular do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Regedor da freguesia, 1928-02-28, 1 f. policopiada, colada; papel.
+Cópia da Circular nº 147 do Administrador do Concelho dirigida ao Abade da freguesia, 1928-04-27, 1 f. dactilografada, colada; papel.
+Cópia da Circular nº 191 do Administrador do Concelho de Vila Nova de Famalicão dirigida a todos os Regedores, 1928-05-14, 1 f. policopiada, colada; papel.
+Cópia da Circular nº 192 do Administrador do Concelho de Vila Nova de Famalicão dirigida a todos os Regedores - Edital, 1928-05-15, 1 f. dactilogafada, colada; papel.
+Cópia da Circular nº 193 do Administrador do Concelho de Vila Nova de Famalicão dirigida a todos os Regedores - Edital, 1928-05-15, 1 f. policopiada, colada; papel.
+Cópia da Circular nº 296 do Administrador do Concelho de Vila Nova de Famalicão dirigida a todos os Regedores, 1928-08-06, 1 f. policopiada, colada; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20120
+**LangMaterial**:: Português
+**PhysLoc**:: AC 54
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20120

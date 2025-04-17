@@ -1,0 +1,28 @@
+====== 28388 - DC - Conjunto "Notas sobre várias plantas” ======
+
+**Parent**:: 28381
+**RootParent**:: 27963
+**UnitTitle**:: Conjunto "Notas sobre várias plantas”
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28388
+**LangMaterial**:: Português
+**PhysLoc**:: AS 58 (1) a 58 (12)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28388
+
+===== Filhos =====
+  * [[28389.txt|28389 - DC - Notas sobre várias plantas]]
+  * [[29845.txt|29845 - DC - Pastorais de Longus ou Daphnis e Chloe]]
+  * [[29846.txt|29846 - DC - Algumas forragens com os nomes vulgares]]
+  * [[29847.txt|29847 - DC - Sobre a oliveira]]
+  * [[29848.txt|29848 - DC - A propósito da oliveira]]
+  * [[29849.txt|29849 - DC - Sobre a cultura da oliveira]]
+  * [[29850.txt|29850 - DC - Sobre a cultura da oliveira no Minho]]
+  * [[29851.txt|29851 - DC - Tojo]]
+  * [[29852.txt|29852 - DC - Tojo arnal]]
+  * [[29853.txt|29853 - DC - Sobre a sementeira do linho]]
+  * [[29854.txt|29854 - DC - O foral dado ao Porto pelo bispo Hugo]]
+  * [[29855.txt|29855 - DC - Pastorais de Longus ou Daphnis e Chloe]]

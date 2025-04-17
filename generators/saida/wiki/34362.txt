@@ -1,0 +1,19 @@
+====== 34362 - DC - Registo do recenseamento militar de João da Silva Ferreira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João da Silva Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Antas
+Data de nascimento - 1852-02-27
+Filiação - José da Silva Ferreira e Ana Correia
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34362
+**LangMaterial**:: Português
+**PhysLoc**:: 107v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34362

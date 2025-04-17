@@ -1,0 +1,23 @@
+====== 32405 - UI - Luís Polo de Bernabé ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Luís Polo de Bernabé
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-09-21
+**UnitDateFinal**:: 1918-05-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32405
+**LangMaterial**:: Espanhol
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32405
+
+===== Filhos =====
+  * [[32402.txt|32402 - DC - Carta]]
+  * [[32406.txt|32406 - DC - Carta]]
+  * [[32407.txt|32407 - DC - Carta]]
+  * [[32408.txt|32408 - DC - Carta]]
+  * [[32409.txt|32409 - DC - Carta]]
+  * [[32411.txt|32411 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 30347 - DC - Apontamentos sobre os Farias ======
+
+**Parent**:: 20336
+**RootParent**:: 20290
+**UnitTitle**:: Apontamentos sobre os Farias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Apontamentos manuscritos da investigação efetuada por António Ferraz. Sobre a existência do Castelo de Faria, provas que D. Afonso Henriques esteve neste castelo em 1127, com dúvidas pois em 1125 este mantinha-se fiel D. Teresa. O brasão dos Farias tinha 5 flores de lis em campo vermelho, depois do episódio do Alcaide adotaram o castelo com as cinco flores de lis. Em 1470 o castelo foi adquirido por D. Gonçalo Teles de Menezes, Conde de Neiva- Chancelaria de D. Fernando.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30347
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1541 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30347

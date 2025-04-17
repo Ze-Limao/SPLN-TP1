@@ -1,0 +1,16 @@
+====== 28164 - DC - Relação entre a época da poda e a arrebentação da vide ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Relação entre a época da poda e a arrebentação da vide
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-10
+**UnitDateFinal**:: 1894-03-25
+**ScopeContent**:: Apontamentos da influência da época e do tipo de poda (mais ou menos curta ou, simplesmente, nenhuma) no tempo de rebentação da vinha.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28164
+**LangMaterial**:: Português
+**PhysLoc**:: AS 437 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28164

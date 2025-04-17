@@ -1,0 +1,16 @@
+====== 29151 - DC - Ofício da Comissão Executiva da Exposição Industrial de Guimarães ======
+
+**Parent**:: 29147
+**RootParent**:: 27963
+**UnitTitle**:: Ofício da Comissão Executiva da Exposição Industrial de Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-03-10
+**UnitDateFinal**:: 1884-03-10
+**ScopeContent**:: Ofício impresso com as condições regulamentares da Exposição Industrial de Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29151
+**LangMaterial**:: Português
+**PhysLoc**:: AS 160 - cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29151

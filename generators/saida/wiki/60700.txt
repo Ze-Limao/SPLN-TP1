@@ -1,0 +1,15 @@
+====== 60700 - DC - Emprazamento de um casal, situado na freguesia de S. Tiago de Rebordões (concelho de Santo Tirso), feito por Antoninho Doniz, abade da Igreja de S.Tiago de Antas, a Afonso Lourenço, ferreiro, e a sua mulher Joana Doniz ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento de um casal, situado na freguesia de S. Tiago de Rebordões (concelho de Santo Tirso), feito por Antoninho Doniz, abade da Igreja de S.Tiago de Antas, a Afonso Lourenço, ferreiro, e a sua mulher Joana Doniz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1440-04-15
+**UnitDateFinal**:: 1440-04-15
+**ScopeContent**:: Manuscrito, original, com selo. A transcrição deste pergaminho CSTA 348 e 347.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 2 - cx. P22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60700

@@ -1,0 +1,18 @@
+====== 47643 - DC - Registo do recenseamento eleitoral de António Francisco de Azevedo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Francisco de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Calendário
+Profissão - Lavrador
+Estado - Casado
+Morada - Paços
+Idade - 50
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47643
+**LangMaterial**:: Português
+**PhysLoc**:: 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47643

@@ -1,0 +1,16 @@
+====== 30191 - DC - Carta ======
+
+**Parent**:: 21368
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1931-03-10
+**UnitDateFinal**:: 1931-03-10
+**ScopeContent**:: Carta manuscrita e assinada, do Porto. Carta incompleta, falta a primeira parte.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30191
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1324 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30191

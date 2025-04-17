@@ -1,0 +1,18 @@
+====== 24764 - UI - Correspondência recebida/expedida ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-06-29
+**UnitDateFinal**:: 1972-06-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24764
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 23 - cx. 6
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24764
+
+===== Filhos =====
+  * [[25835.txt|25835 - DC - Ofício do Presidente da Liga dos Bombeiros Portugueses, António de Moura e Silva, dirigida ao Presidente da Associação Humanitária dos Bombeiros Voluntários de Vila Nova de Famalicão]]

@@ -1,0 +1,16 @@
+====== 22176 - DC - Registo do recenseamento eleitoral de João de Sousa Batista ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João de Sousa Batista
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Lavrador
+Morada - Reguengo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22176
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22176

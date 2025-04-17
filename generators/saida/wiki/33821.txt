@@ -1,0 +1,17 @@
+====== 33821 - DC - Telegrama ======
+
+**Parent**:: 33820
+**RootParent**:: 31258
+**UnitTitle**:: Telegrama
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-01-22
+**UnitDateFinal**:: 1920-01-22
+**ScopeContent**:: Nota manuscrita por João Afonso "Alguns telegramas que meu qdo. Pae recebeu pela morte da Avó." Este telegrama pertence ao maço “Telegramas por morte da Viscondessa Eulália”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33821
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5153 - cx. 37
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33821

@@ -1,0 +1,17 @@
+====== 32368 - DC - Carta ======
+
+**Parent**:: 32361
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Carta manuscrita assinada de Âncora do dia 8 de agosto, sem menção ao ano, com envelope dirigido para Alemanha. Esta carta pertence ao maço relativo "Cartas diversas recebidas durante a estada em Berlim".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32368
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12216 - cx. 70
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32368

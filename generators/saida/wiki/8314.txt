@@ -1,0 +1,16 @@
+====== 8314 - UI - Luís Maria da Costa de Almeida Ferraz ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Luís Maria da Costa de Almeida Ferraz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-07-22
+**UnitDateFinal**:: 1895-07-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8314
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.20
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8314
+
+===== Filhos =====
+  * [[8315.txt|8315 - DC - Carta]]

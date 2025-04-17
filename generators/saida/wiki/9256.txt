@@ -1,0 +1,19 @@
+====== 9256 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Joaquim Teixeira e Felicidade Lopes
+Naturalidade - Joane
+Data de nascimento - 1877-08-05
+Profissão - Lavoura 
+Estado civil - Solteiro
+Residência - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9256
+**LangMaterial**:: Português
+**PhysLoc**:: f. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9256

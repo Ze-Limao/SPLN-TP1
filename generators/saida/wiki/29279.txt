@@ -1,0 +1,18 @@
+====== 29279 - DC - Cera para enxertos ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Cera para enxertos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1872
+**UnitDateFinal**:: 1872
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29279
+**LangMaterial**:: Português
+**PhysLoc**:: AS 190 (1) a 190 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29279
+
+===== Filhos =====
+  * [[29280.txt|29280 - DC - Cera para enxerto]]
+  * [[29281.txt|29281 - DC - La benzine et le sulfure]]

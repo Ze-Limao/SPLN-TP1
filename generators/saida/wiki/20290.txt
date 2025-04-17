@@ -1,0 +1,23 @@
+====== 20290 - F - José de Azevedo e Menezes ======
+
+**Parent**:: 0
+**RootParent**:: 20290
+**UnitTitle**:: José de Azevedo e Menezes
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1818-03-09
+**UnitDateFinal**:: 1998
+**ScopeContent**:: O arquivo apresentava uma estrutura original própria que se manteve. O plano de classificação estabelecido abrange: Série A Correspondência recebida 394 u.i. (391 remetentes). Série B Documentos de investigação histórica 37 u.i. Série C Documentos Camilianos 2 u.i. Série D Documentos sobre política 2 u.i. Série E Documentos sobre o arquivo de JAM 5 u.i.  Série F Documentos pessoais de JAM 5 u.i. Série G Correspondência para outros familiares de JAM 2 u.i.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20290
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20290
+
+===== Filhos =====
+  * [[20291.txt|20291 - SR - Correspondência recebida por José de Azevedo e Menezes]]
+  * [[20336.txt|20336 - SR - Documentos de investigação histórica]]
+  * [[22663.txt|22663 - SR - Documentos camilianos]]
+  * [[22754.txt|22754 - SR - Documentos sobre política]]
+  * [[22757.txt|22757 - SR - Documentos sobre o arquivo de José de Azevedo e Menezes]]
+  * [[22760.txt|22760 - SR - Documentos pessoais de José de Azevedo e Menezes]]
+  * [[53968.txt|53968 - SR - Correspondência para outros familiares de JAM]]

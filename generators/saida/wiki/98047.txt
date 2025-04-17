@@ -1,0 +1,15 @@
+====== 98047 - UI - Processo nº 556 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 556
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-11-11
+**UnitDateFinal**:: 1983-10-03
+**ScopeContent**:: Junto com Autos de Reclamação de Créditos nº 15-A e Auto de Execução por Custas nº 15.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 713 - cx. 39
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98047

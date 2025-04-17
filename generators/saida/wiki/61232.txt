@@ -1,0 +1,16 @@
+====== 61232 - DC - Carta ======
+
+**Parent**:: 61231
+**RootParent**:: 60550
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-09-13
+**UnitDateFinal**:: 1950-09-13
+**ScopeContent**:: Carta manuscrita de Avenida 5 de Outubro, 26, 3ºe., Lisboa, com envelope carimbado e selado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 115 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61232

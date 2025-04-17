@@ -1,0 +1,20 @@
+====== 32256 - UI - Amélia de Azevedo ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Amélia de Azevedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-01-19
+**UnitDateFinal**:: 1900-06-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32256
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32256
+
+===== Filhos =====
+  * [[32285.txt|32285 - DC - Carta]]
+  * [[32286.txt|32286 - DC - Cartão]]
+  * [[32287.txt|32287 - DC - Postal ilustrado]]

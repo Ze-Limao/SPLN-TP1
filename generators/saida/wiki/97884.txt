@@ -1,0 +1,15 @@
+====== 97884 - UI - Processo nº 547 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 547
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-11-09
+**UnitDateFinal**:: 1989-12-04
+**ScopeContent**:: Junto com Autos de Reclamação de Créditos nº 547-B/71 e Autos de Execução de Custas nº 547-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 603 - cx. 34
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97884

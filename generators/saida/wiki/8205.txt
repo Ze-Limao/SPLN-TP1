@@ -1,0 +1,18 @@
+====== 8205 - DC - Termo do exame de Porfírio da Silva ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Porfírio da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-05-20
+**UnitDateFinal**:: 1884-05-20
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Teresa da Silva
+Naturalidade - Vila Nova de Famalicão
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8205
+**LangMaterial**:: Português
+**PhysLoc**:: f. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8205

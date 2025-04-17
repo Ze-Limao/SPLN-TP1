@@ -1,0 +1,19 @@
+====== 34201 - DC - Registo do recenseamento militar de José Marques ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Seide S. Paio
+Data de nascimento - 1852-10-01
+Filiação - José Marques e Narcisa Dias
+Profissão - Criado de servir
+Estado - Solteiro
+Morada - Seide S. Miguel
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34201
+**LangMaterial**:: Português
+**PhysLoc**:: 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34201

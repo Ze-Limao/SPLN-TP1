@@ -1,0 +1,15 @@
+====== 27966 - SC - Velhice (1907-11-30 a 1908-12-01) ======
+
+**Parent**:: 27968
+**RootParent**:: 27963
+**UnitTitle**:: Velhice (1907-11-30 a 1908-12-01)
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1941
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27966
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27966
+
+===== Filhos =====
+  * [[28711.txt|28711 - SSC - Atividade pessoal]]
+  * [[29579.txt|29579 - SSC - Documentos posteriores à morte de Alberto Sampaio]]

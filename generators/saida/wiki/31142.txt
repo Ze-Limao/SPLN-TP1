@@ -1,0 +1,16 @@
+====== 31142 - DC - Registo do recenseamento eleitoral de Aires Rodrigues de Azevedo ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Aires Rodrigues de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Louro
+Profissão - Lavrador
+Morada - Travassos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31142
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31142

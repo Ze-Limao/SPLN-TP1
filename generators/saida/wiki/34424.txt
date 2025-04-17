@@ -1,0 +1,20 @@
+====== 34424 - DC - Registo do recenseamento militar de Henrique ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Henrique
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Santo Tirso
+Data de nascimento - 1851-08-16
+Filiação - Teresa da Silva
+Profissão - 
+Estado - 
+Morada - Pedome
+Observações - Dado em relação pela Câmara Municipal de Santo Tirso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34424
+**LangMaterial**:: Português
+**PhysLoc**:: 116v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34424

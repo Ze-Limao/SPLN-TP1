@@ -1,0 +1,29 @@
+====== 21157 - UI - João Gomes de Oliveira Guimarães ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Gomes de Oliveira Guimarães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893-07-21
+**UnitDateFinal**:: 1911-09-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21157
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21157
+
+===== Filhos =====
+  * [[25595.txt|25595 - DC - Carta]]
+  * [[25596.txt|25596 - DC - Carta]]
+  * [[25597.txt|25597 - DC - Carta]]
+  * [[25598.txt|25598 - DC - Carta]]
+  * [[25599.txt|25599 - DC - Carta]]
+  * [[25600.txt|25600 - DC - Carta]]
+  * [[25601.txt|25601 - DC - Carta]]
+  * [[25602.txt|25602 - DC - Carta]]
+  * [[25603.txt|25603 - DC - Carta]]
+  * [[25604.txt|25604 - DC - Carta]]
+  * [[25605.txt|25605 - DC - Carta]]
+  * [[25606.txt|25606 - DC - Carta]]
+  * [[25607.txt|25607 - DC - Carta]]

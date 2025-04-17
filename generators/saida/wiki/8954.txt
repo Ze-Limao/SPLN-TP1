@@ -1,0 +1,18 @@
+====== 8954 - DC - Termo do exame de Laura da Soledade Mendes ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Laura da Soledade Mendes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-08-01
+**UnitDateFinal**:: 1894-08-01
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - Manuel Mendes
+Naturalidade - Vilarelho, Caminha
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8954
+**LangMaterial**:: Português
+**PhysLoc**:: f. 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8954

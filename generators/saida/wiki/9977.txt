@@ -1,0 +1,14 @@
+====== 9977 - DC - Registo do pagamento a António Ferreira Guimarães ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a António Ferreira Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-02
+**UnitDateFinal**:: 1882-03-02
+**ScopeContent**:: Aquisição de parte da mobília para o novo edifício dos Paços do Concelho e repartições públicas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9977
+**LangMaterial**:: Português
+**PhysLoc**:: f. 5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9977

@@ -1,0 +1,19 @@
+====== 34042 - DC - Registo do recenseamento militar de António Antunes ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Antunes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Oliveira Santa Maria
+Data de nascimento - 1852-12-11
+Filiação - João Antunes e Teresa Maria
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Oliveira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34042
+**LangMaterial**:: Português
+**PhysLoc**:: 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34042

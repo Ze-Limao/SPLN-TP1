@@ -1,0 +1,35 @@
+====== 7875 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1842-07-15
+**UnitDateFinal**:: 1842-08-31
+**ScopeContent**:: 'Recenseamento dos cidadãos elegíveis deste concelho, segundo a disposição dos artigos 15 e 27 do Código Administrativo de 18 de março do corrente ano de 1842'.
+
+Contém dados sobre:
+1 - Freguesia
+2- Nome
+3 - Lugar do nascimento
+4 - Data da naturalização
+5 - Idade
+6 - Estado
+7 - Profissão ou emprego
+8 - Décima
+9 - Observações
+
+Além das atuais freguesias (excepto Gondifelos), Aves e Serzedelo, mantem como autónomas as seguintes freguesias:
+1 - Arnoso Mosteiro
+2 - Ferreiró
+3 - Gemunde
+4 - Landim Santa marinha
+5 - Romão
+6 - Sanfins
+7 - Sobrado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7875
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 465
+depósito 2, estante
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7875

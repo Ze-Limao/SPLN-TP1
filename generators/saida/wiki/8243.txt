@@ -1,0 +1,65 @@
+====== 8243 - SSR - Correspondência de 1895 ======
+
+**Parent**:: 8242
+**RootParent**:: 8241
+**UnitTitle**:: Correspondência de 1895
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1895-01-01
+**UnitDateFinal**:: 1895-12-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8243
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8243
+
+===== Filhos =====
+  * [[8244.txt|8244 - UI - Joaquim de Araújo]]
+  * [[8246.txt|8246 - UI - Gracinda de Azevedo]]
+  * [[8248.txt|8248 - UI - Aires José Barbosa]]
+  * [[8250.txt|8250 - UI - Gaspar António de Oliveira Basto]]
+  * [[8259.txt|8259 - UI - Manuel José da Silva Braga]]
+  * [[8261.txt|8261 - UI - Ulisses Braga]]
+  * [[8264.txt|8264 - UI - António José de Faria Brandão]]
+  * [[8266.txt|8266 - UI - Artur Campos]]
+  * [[8268.txt|8268 - UI - Cândida]]
+  * [[8270.txt|8270 - UI - Joaquim Ferreira de Carvalho]]
+  * [[8273.txt|8273 - UI - Sebastião Ferreira de Carvalho]]
+  * [[8284.txt|8284 - UI - Joaquim Mário de Castro]]
+  * [[8286.txt|8286 - UI - José da Silva e Castro]]
+  * [[8288.txt|8288 - UI - Comissão Executiva de Braga do Partido Republicano Português]]
+  * [[8290.txt|8290 - UI - António de Araújo Costa]]
+  * [[8300.txt|8300 - UI - João Nunes da Costa Júnior]]
+  * [[8304.txt|8304 - UI - Domingos Joaquim Ferreira da Cruz]]
+  * [[8307.txt|8307 - UI - António Cândido da Silva Dias]]
+  * [[8309.txt|8309 - UI - Aires Joaquim de Sousa Fernandes]]
+  * [[8314.txt|8314 - UI - Luís Maria da Costa de Almeida Ferraz]]
+  * [[8316.txt|8316 - UI - Câmara Municipal de Vila Nova de Famalicão]]
+  * [[8318.txt|8318 - UI - José da Silva Ferro]]
+  * [[8325.txt|8325 - UI - Custódio de Castro Guimarães]]
+  * [[8339.txt|8339 - UI - Joaquim Ferreira Guimarães Júnior]]
+  * [[8341.txt|8341 - UI - Silvério Joaquim da Silva Guimarães]]
+  * [[8343.txt|8343 - UI - Júlio César de Castro Pereira Lopes]]
+  * [[8345.txt|8345 - UI - Henrique Ferreira Machado]]
+  * [[8353.txt|8353 - UI - Carta]]
+  * [[8355.txt|8355 - UI - Matos & Serpa Pinto]]
+  * [[8361.txt|8361 - UI - Alexandre de Sousa e Melo]]
+  * [[8364.txt|8364 - UI - Joaquim Pacheco]]
+  * [[8372.txt|8372 - UI - Aníbal Passos]]
+  * [[8374.txt|8374 - UI - 'A Pátria']]
+  * [[8376.txt|8376 - UI - José Pinheiro]]
+  * [[8378.txt|8378 - UI - José Marques Pinheiro]]
+  * [[8380.txt|8380 - UI - Augusto Moreira Pinto]]
+  * [[8382.txt|8382 - UI - Eduardo Moreira Pinto]]
+  * [[8384.txt|8384 - UI - Pinto da Fonseca & Irmão]]
+  * [[8386.txt|8386 - UI - Brás Leão Quartin]]
+  * [[8390.txt|8390 - UI - António Luís do Rego]]
+  * [[8392.txt|8392 - UI - Gaspar Queirós Ribeiro]]
+  * [[8394.txt|8394 - UI - Constantino Nunes de Sá]]
+  * [[8397.txt|8397 - UI - Leopoldina Cândida Sampaio]]
+  * [[8399.txt|8399 - UI - Manuel Correia Sampaio]]
+  * [[8401.txt|8401 - UI - António Gonçalves Santos]]
+  * [[8403.txt|8403 - UI - Daniel Augusto dos Santos]]
+  * [[8405.txt|8405 - UI - José G. Santos]]
+  * [[8407.txt|8407 - UI - Francisco Maria de Oliveira e Silva]]
+  * [[8410.txt|8410 - UI - António de Freitas Pimentel Soromenho]]
+  * [[8412.txt|8412 - UI - José de Araújo Sousa]]
+  * [[8414.txt|8414 - UI - Francisco Manuel Monteiro Torres Júnior]]
+  * [[8416.txt|8416 - UI - Astier de Villate]]

@@ -1,0 +1,17 @@
+====== 60225 - DC - Serviço Central…questões e diversos assumptos tratados 1928-1929-1930-1931 ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Serviço Central…questões e diversos assumptos tratados 1928-1929-1930-1931
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1931
+**UnitDateFinal**:: 1931
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57243
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9543 - cx. 60
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60225

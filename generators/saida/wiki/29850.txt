@@ -1,0 +1,15 @@
+====== 29850 - DC - Sobre a cultura da oliveira no Minho ======
+
+**Parent**:: 28388
+**RootParent**:: 27963
+**UnitTitle**:: Sobre a cultura da oliveira no Minho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29850
+**LangMaterial**:: Português
+**PhysLoc**:: AS 58 (7) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29850

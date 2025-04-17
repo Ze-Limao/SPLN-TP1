@@ -1,0 +1,16 @@
+====== 52708 - DC - Registo do recenseamento militar de José dos Santos ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-10-31
+Filiação - Joaquim José dos Santos e Maria Joana
+Naturalidade - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52708
+**LangMaterial**:: Português
+**PhysLoc**:: 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52708

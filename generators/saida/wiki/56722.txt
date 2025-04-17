@@ -1,0 +1,17 @@
+====== 56722 - DC - Certificat d´origine. Déclaration de l´expéditeur Camille Lanson de plantes vivantes ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Certificat d´origine. Déclaration de l´expéditeur Camille Lanson de plantes vivantes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912-10-31
+**UnitDateFinal**:: 1912-10-31
+**ScopeContent**:: Documento impresso - Certificat d´origine e déclaration de l´expéditeur Camille Lanson... de plantes vivantes.... Attestation de l´Autorité compétente Le Maire de la ville de Montesson. Documento assinado e carimbado. Documento no envelope CP 1241, junto com CP 1239.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56722
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 1240 - cx. 8
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56722

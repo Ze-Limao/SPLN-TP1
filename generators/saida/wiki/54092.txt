@@ -1,0 +1,17 @@
+====== 54092 - DC - Guia, certidões e Pública forma para empreitada Instalação de aquecimento central no novo edifício destinado aos Paços do Concelho… ======
+
+**Parent**:: 54091
+**RootParent**:: 25851
+**UnitTitle**:: Guia, certidões e Pública forma para empreitada Instalação de aquecimento central no novo edifício destinado aos Paços do Concelho…
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-03-25
+**UnitDateFinal**:: 1958-04-25
+**ScopeContent**:: Duplicados e originais em papel azul, carimbados e assinados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54092
+**LangMaterial**:: Português
+**PhysLoc**:: JG 169(2) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54092

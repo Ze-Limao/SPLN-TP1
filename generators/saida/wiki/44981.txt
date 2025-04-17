@@ -1,0 +1,18 @@
+====== 44981 - UI - Maria Ana Lobo de Almeida de Melo e Castro ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria Ana Lobo de Almeida de Melo e Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1871-01-27
+**UnitDateFinal**:: 1871-01-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD44981
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=44981
+
+===== Filhos =====
+  * [[44982.txt|44982 - DC - Carta]]

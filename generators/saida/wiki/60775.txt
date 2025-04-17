@@ -1,0 +1,18 @@
+====== 60775 - SC - Património ======
+
+**Parent**:: 60537
+**RootParent**:: 60537
+**UnitTitle**:: Património
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1775
+**UnitDateFinal**:: 1836-12-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60775
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60775
+
+===== Filhos =====
+  * [[60776.txt|60776 - DC - Prazos do Couto de Landim]]
+  * [[60777.txt|60777 - DC - Livro 2º Tombo dos Bens do Concelho de Landim]]
+  * [[60778.txt|60778 - DC - Livro 1º Tombo do Concelho de Landim]]
+  * [[60779.txt|60779 - DC - Livro 2º Tombo dos Bens do Concelho de Landim]]
+  * [[60780.txt|60780 - DC - Livro 3º Tombo dos Bens do Concelho de Landim]]

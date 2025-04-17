@@ -1,0 +1,15 @@
+====== 66170 - DC - Instrumento de poder e procuração de resignação do reverendo Pedro de Mendonça Barata de Moura, abade da paróquia da Igreja de S. Tiago de Antas, a favor de Rodrigo de Mendonça de Vasconcelos e Sousa ======
+
+**Parent**:: 63976
+**RootParent**:: 60536
+**UnitTitle**:: Instrumento de poder e procuração de resignação do reverendo Pedro de Mendonça Barata de Moura, abade da paróquia da Igreja de S. Tiago de Antas, a favor de Rodrigo de Mendonça de Vasconcelos e Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1757-06-15
+**UnitDateFinal**:: 1757-06-15
+**ScopeContent**:: Manuscrito, original, sem capa, com carimbo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 328 -  cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66170

@@ -1,0 +1,16 @@
+====== 22838 - DC - Registo do recenseamento eleitoral de Manuel de Oliveira Monteiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel de Oliveira Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Mouquim
+Profissão - Lavrador
+Morada - Igreja
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22838
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22838

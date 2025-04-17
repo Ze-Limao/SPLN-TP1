@@ -1,0 +1,16 @@
+====== 61371 - DC - Posse de Daniel Rodrigues, novo governador civil de Lisboa ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: Posse de Daniel Rodrigues, novo governador civil de Lisboa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914
+**UnitDateFinal**:: 1914
+**ScopeContent**:: Fotografia p&b. Nota manuscrita no verso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 132 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61371

@@ -1,0 +1,16 @@
+====== 28194 - DC - No quintal, no tabuleiro da preza ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: No quintal, no tabuleiro da preza
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Indicação das videiras dispostas em cordão, plantadas no quintal «no tabuleiro da preza».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28194
+**LangMaterial**:: Português
+**PhysLoc**:: AS 466 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28194

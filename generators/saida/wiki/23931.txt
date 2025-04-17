@@ -1,0 +1,16 @@
+====== 23931 - DC - Carta ======
+
+**Parent**:: 21055
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-09-21
+**UnitDateFinal**:: 1923-09-21
+**ScopeContent**:: Ana Menezes participa o casamento do sobrinho e afilhado Nuno Borges com a prima Anna Valladares d´Abreu e Souza. Carta manuscrita assinada, Casa das Enfias, Braga. Na parte superior nota manuscrita ”Agradeci em 24-IX-1923 assinado”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23931
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 85 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23931

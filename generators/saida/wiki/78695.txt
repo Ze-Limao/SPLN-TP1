@@ -1,0 +1,17 @@
+====== 78695 - DC - 24 d´Agosto de 1903 ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: 24 d´Agosto de 1903
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-08-24
+**UnitDateFinal**:: 1903-08-24
+**ScopeContent**:: Papel do maço com título manuscrito. Contém CP 6824 a CP 6832.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58466
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6823 - cx. 45
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78695

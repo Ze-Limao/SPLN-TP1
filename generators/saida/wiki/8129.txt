@@ -1,0 +1,18 @@
+====== 8129 - DC - Domingos da Rocha Pinheiro ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Domingos da Rocha Pinheiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-03
+**UnitDateFinal**:: 1892-02-10
+**ScopeContent**:: Escola - Cabeçudos
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Lagoa
+Data de posse - 1885-01-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8129
+**LangMaterial**:: Português
+**PhysLoc**:: f. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8129

@@ -1,0 +1,20 @@
+====== 33832 - UI - Fernando Luís Raio de Carvalho ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Fernando Luís Raio de Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-10-22
+**UnitDateFinal**:: 1922-02-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33832
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33832
+
+===== Filhos =====
+  * [[33833.txt|33833 - DC - Telegrama]]
+  * [[33834.txt|33834 - DC - Carta]]
+  * [[33835.txt|33835 - DC - Carta]]

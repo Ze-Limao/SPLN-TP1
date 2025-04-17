@@ -1,0 +1,19 @@
+====== 34273 - DC - Registo do recenseamento militar de João Torres ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João Torres
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Gondifelos
+Data de nascimento - 1852-05-28
+Filiação - Manuel Gomes Torres e Maria Joaquina
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34273
+**LangMaterial**:: Português
+**PhysLoc**:: 85v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34273

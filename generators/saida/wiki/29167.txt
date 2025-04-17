@@ -1,0 +1,17 @@
+====== 29167 - DC - Cópia da acta da sessão da Comissão Municipal de Ponta-delgada de 14 de Settembro de 1891. ======
+
+**Parent**:: 29153
+**RootParent**:: 27963
+**UnitTitle**:: Cópia da acta da sessão da Comissão Municipal de Ponta-delgada de 14 de Settembro de 1891.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-09-18
+**UnitDateFinal**:: 1891-09-18
+**ScopeContent**:: Documento assinado por João Luís de Morais Pereira, secretário da Câmara.
+«[…] Por disposição testamentária legou o Doutor Antero de Quental à biblioteca pública desta cidade a sua valiosa livraria, vinculando por esta forma a nossa gratidão à memória do seu nome, que tem lugar de honra entre os dos grandes cultores da ciência. / Resolveu esta Comissão consignar nesta acta um voto de sentimento pelo falecimento do Doutor Antero de Quental, devendo-se comunica-lo a todos os seus parentes, herdeiros e amigos a quem legou o encargo da execução do seu testamento. […]».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29167
+**LangMaterial**:: Português
+**PhysLoc**:: AS 292 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29167

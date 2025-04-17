@@ -1,0 +1,18 @@
+====== 46844 - DC - Registo do recenseamento eleitoral de Joaquim Dias Moreira ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Dias Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Estado - Casado
+Morada - Ferreiros
+Idade - 37
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46844
+**LangMaterial**:: Português
+**PhysLoc**:: 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46844

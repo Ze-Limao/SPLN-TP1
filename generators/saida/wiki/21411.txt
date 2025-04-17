@@ -1,0 +1,17 @@
+====== 21411 - UI - Gonçalo Xavier de Almeida Garrett ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Gonçalo Xavier de Almeida Garrett
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-05-15
+**UnitDateFinal**:: 1900-06-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21411
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1388, 1389
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21411
+
+===== Filhos =====
+  * [[29973.txt|29973 - DC - Carta]]
+  * [[29974.txt|29974 - DC - Carta]]

@@ -1,0 +1,17 @@
+====== 56679 - DC - Erlauterungen fur den Gebrauch von Rein-Alluminium-Geschirren ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Erlauterungen fur den Gebrauch von Rein-Alluminium-Geschirren
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889
+**UnitDateFinal**:: 1918
+**ScopeContent**:: Panfleto impresso, junto com CP 7407 a CP 7412.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56679
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7411 - cx. 48
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56679

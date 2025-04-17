@@ -1,0 +1,19 @@
+====== 62208 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Joaquim José de Carvalho e Maria Rodrigues de Azevedo Gomes, na vila
+Naturalidade - Vila Nova de Famalicão
+Morada - Vila Nova de Famalicão
+Data de nascimento - 1861-03-29
+Emprego - Estudante
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 63v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62208

@@ -1,0 +1,14 @@
+====== 30000 - DC - Joaquim Dias da Silva ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Dias da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1952-10-29
+**UnitDateFinal**:: 1952-10-29
+**ScopeContent**:: Regedor efetivo da freguesia da Carreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30000
+**LangMaterial**:: Português
+**PhysLoc**:: f. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30000

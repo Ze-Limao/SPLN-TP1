@@ -1,0 +1,16 @@
+====== 8104 - DC - Termo de José Peliteiro ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José Peliteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-08-16
+**UnitDateFinal**:: 1879-08-16
+**ScopeContent**:: Declaração para seu filho José ser considerado cidadão espanhol
+Nacionalidade - Espanhola
+Morada - Cruz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8104
+**LangMaterial**:: Português
+**PhysLoc**:: f. 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8104

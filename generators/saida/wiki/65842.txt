@@ -1,0 +1,15 @@
+====== 65842 - DC - Emprazamento do casal dos Patos, situado na freguesia de Vilarinho das Cambas, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Sebastião Gonçalves e a sua mulher Isabel Gomes ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal dos Patos, situado na freguesia de Vilarinho das Cambas, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Sebastião Gonçalves e a sua mulher Isabel Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1553-11-18
+**UnitDateFinal**:: 1553-11-18
+**ScopeContent**:: Manuscrito, original, com selo. Foi restaurado e acondicionado em 2021.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 278 - Capa P1
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65842

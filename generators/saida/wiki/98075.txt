@@ -1,0 +1,15 @@
+====== 98075 - UI - Processo nº 47 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 47
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1977-03-11
+**UnitDateFinal**:: 1980-04-08
+**ScopeContent**:: Junto com Autos de Transgressão nº 407, 406, 466, 577, 511, 317, 529, 544, 48, 62, 86, 33 e 118.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 741 - cx. 40
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98075

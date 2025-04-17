@@ -1,0 +1,18 @@
+====== 45972 - DC - Registo do recenseamento eleitoral de Manuel Joaquim da Mota ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Joaquim da Mota
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Abade
+Estado - Solteiro
+Morada - Residência
+Idade - 41
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45972
+**LangMaterial**:: Português
+**PhysLoc**:: 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45972

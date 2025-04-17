@@ -1,0 +1,16 @@
+====== 30133 - DC - Carta ======
+
+**Parent**:: 21408
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-12-09
+**UnitDateFinal**:: 1915-12-09
+**ScopeContent**:: O autor agradece o envio do livro Ninharias e informa que vai pedir às câmaras de Valença e Melgaço e outras um donativo para a Comissão. Carta manuscrita e assinada, de Passeio Alegre, 175 Foz do Douro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30133
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1378 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30133

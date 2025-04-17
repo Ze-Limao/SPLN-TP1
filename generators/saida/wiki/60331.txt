@@ -1,0 +1,15 @@
+====== 60331 - UI - Maria da Glória de Abreu ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Maria da Glória de Abreu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913-05-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60331
+
+===== Filhos =====
+  * [[60332.txt|60332 - DC - Carta]]
+  * [[79243.txt|79243 - DC - Carta para Vicente]]

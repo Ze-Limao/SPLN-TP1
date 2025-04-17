@@ -1,0 +1,17 @@
+====== 56725 - DC - Nº1245 Chambre des Députés, huitième législature session extraordinaire de 1903. Rapport fait ...par M. Louis Henrique-Duluc ======
+
+**Parent**:: 56724
+**RootParent**:: 31258
+**UnitTitle**:: Nº1245 Chambre des Députés, huitième législature session extraordinaire de 1903. Rapport fait ...par M. Louis Henrique-Duluc
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-05-13
+**UnitDateFinal**:: 1903-10-27
+**ScopeContent**:: Documento impresso em Paris. Petição de cidadãos franceses sobre diferendo com Governo Português (D. Miguel II). Dentro do envelope CP 13936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56725
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13937 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56725

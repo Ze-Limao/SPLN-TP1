@@ -1,0 +1,19 @@
+====== 34123 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Telhado
+Data de nascimento - 1852-03-10
+Filiação - Exposto
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34123
+**LangMaterial**:: Português
+**PhysLoc**:: 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34123

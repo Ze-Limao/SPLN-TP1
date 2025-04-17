@@ -1,0 +1,15 @@
+====== 24772 - UI - Correspondência recebida/expedida a fornecedores de acessórios industriais ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida a fornecedores de acessórios industriais
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1977-03-27
+**UnitDateFinal**:: 1989-09-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24772
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 31 - cx. 7
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24772

@@ -1,0 +1,22 @@
+====== 61442 - SSR - Documentos sobre serviços à comunidade ======
+
+**Parent**:: 61194
+**RootParent**:: 60551
+**UnitTitle**:: Documentos sobre serviços à comunidade
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1974-06-26
+**UnitDateFinal**:: 2019-11-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61195
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61442
+
+===== Filhos =====
+  * [[61443.txt|61443 - DC - Centro Social Paroquial de Avidos agradece ao Rotary Club de Famalicão]]
+  * [[61539.txt|61539 - DC - Coro e Orquestra do Agrupamento de Escolas Camilo Castelo Branco a favor da AFPAD]]
+  * [[61540.txt|61540 - DC - Coro e Orquestra do Agrupamento de Escolas Camilo Castelo Branco a favor da AFPAD]]
+  * [[61541.txt|61541 - DC - Recortes de imprensa sobre atividades do Rotary Club de Famalicão]]
+  * [[61542.txt|61542 - DC - Emblema e foto]]
+  * [[61543.txt|61543 - DC - Recortes de imprensa]]
+  * [[61544.txt|61544 - DC - Protocolo no âmbito do programa DAE Desfibrilador externo automático - Rotary Club de Guimarães e Famalicão e Arriva]]
+  * [[61545.txt|61545 - DC - Homenagem ao Bombeiro Voluntário]]
+  * [[61546.txt|61546 - DC - Parque infantil de Gavião]]

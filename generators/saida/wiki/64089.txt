@@ -1,0 +1,15 @@
+====== 64089 - DC - Recibo de António Rodrigues da Fonseca ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de António Rodrigues da Fonseca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-10-07
+**UnitDateFinal**:: 1868-10-07
+**ScopeContent**:: Manuscrito. Recibo de limpeza de paramentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 406 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64089

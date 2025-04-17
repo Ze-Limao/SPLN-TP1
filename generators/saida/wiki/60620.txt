@@ -1,0 +1,14 @@
+====== 60620 - SR - Correspondência enviada ======
+
+**Parent**:: 31378
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência enviada
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1872
+**UnitDateFinal**:: 1923
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31379
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60620
+
+===== Filhos =====
+  * [[60621.txt|60621 - UI - Júlia Maria das Neves Braamcamp de Almeida Castelo-Branco ?]]

@@ -1,0 +1,16 @@
+====== 28078 - DC - Ofício da Companhia do Caminho de Ferro de Guimarães. ======
+
+**Parent**:: 29458
+**RootParent**:: 27963
+**UnitTitle**:: Ofício da Companhia do Caminho de Ferro de Guimarães.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 188
+**UnitDateFinal**:: 188
+**ScopeContent**:: Ofício impresso e assinado por António de Moura Soares Veloso, gerente da Companhia do Caminho-de-Ferro de Guimarães. Informa o pedido feito pela Companhia do Caminho-de-ferro de Guimarães ao Governo para a construção do prolongamento da linha de Guimarães até Cavez ou Chaves, transcrevendo o respetivo requerimento. Numa das páginas do ofício está impresso um mapa com vários traçados do caminho-de-ferro, incluindo o projetado, e uma tabela onde se apresentam as distâncias, em quilómetros, dos diversos troços.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28078
+**LangMaterial**:: Português
+**PhysLoc**:: AS 170- cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28078

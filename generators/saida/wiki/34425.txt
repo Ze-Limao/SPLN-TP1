@@ -1,0 +1,20 @@
+====== 34425 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Balazar
+Data de nascimento - 1852-06-03
+Filiação - José da Costa dos Santos e Agostinha Rosa
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Gondifelos
+Observações - Dado em relação pela Câmara Municipal da Póvoa de Varzim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34425
+**LangMaterial**:: Português
+**PhysLoc**:: 117v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34425

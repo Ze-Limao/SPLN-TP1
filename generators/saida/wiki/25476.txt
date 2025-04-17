@@ -1,0 +1,16 @@
+====== 25476 - DC - Carta ======
+
+**Parent**:: 21120
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-02-01
+**UnitDateFinal**:: 1902-02-01
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Centro Nacional de Lisboa. Praça do Município, 32."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25476
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 432 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25476

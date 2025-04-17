@@ -1,0 +1,16 @@
+====== 29182 - DC - Macieiras plantadas em 4 de Janeiro de 1889 ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Macieiras plantadas em 4 de Janeiro de 1889
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-01-04
+**UnitDateFinal**:: 1889-01-04
+**ScopeContent**:: Listagem de variedades de macieiras plantadas em diversos locais da Quinta de Boamense, como por exemplo, na horta dos bens de fora, no pomar das macieiras, no campo da cortinha, no combro da hortinha, etc. À designação de cada uma das variedades segue-se um número entre parêntesis que provavelmente deverá remeter para o número de identificação da variedade de um qualquer catálogo de viveirista. O manuscrito apresenta dois tipos de letras distintos, um dos quais é de Alberto Sampaio. O primeiro tipo de letra, correspondente aos locais de plantação, poderá ser de quem plantou as macieiras, provavelmente o feitor da Quinta de Boamense. O segundo, respeitante à indicação da variedade de macieira, seguida de número entre parêntesis corresponde a Alberto Sampaio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29182
+**LangMaterial**:: Português
+**PhysLoc**:: AS 297 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29182

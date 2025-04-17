@@ -1,0 +1,19 @@
+====== 9495 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - António Joaquim Rodrigues de Miranda e Maria Rodrigues de Carvalho
+Naturalidade - Vilarinho das Cambas
+Data de nascimento - 1877-01-18
+Profissão - Agrícola
+Estado civil - Solteiro
+Residência - Vilarinho das Cambas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9495
+**LangMaterial**:: Português
+**PhysLoc**:: f. 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9495

@@ -1,0 +1,21 @@
+====== 60218 - DC - Em legítima defeza ======
+
+**Parent**:: 54529
+**RootParent**:: 31258
+**UnitTitle**:: Em legítima defeza
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-07
+**UnitDateFinal**:: 1924-07
+**ScopeContent**:: Impresso em que Alfredo da Silva responde ao jornal A Pátria, dirigido por Nuno Simões.
+SILVA (Alfredo da).- Em legitima defeza. Imp. Libanio da Silva. Junho de 1924. In-4.° gr. págs. inums. B. de XLVIII
+Transcrição do documento:
+O sr. Alfredo da Silva responde com DOCUMENTOS EXACTOS á CAMPANHA DIFFAMATORIA com que o jornal A PATRIA. de que é Director o sr. Nuno Simões, Ministro do Commercio, o ataca com a publicação de afirmações já desmentidas de calumniadores de baixa especie, unica forma - ao que parece - da pretensa defeza aos actos do Ministro da Agricultura sr. Joaquim Antonio de Mello e Castro Ribeiro." 
+Com a transcrição de artigos de jornais, correspondência trocada entre a Companhia União Fabril. dos Negócios Estrangeiros e Consulado de Inglaterra, extractos do Diário do Senado, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56881
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9500 - cx. 58
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60218

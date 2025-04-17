@@ -1,0 +1,16 @@
+====== 30800 - DC - Registo do recenseamento eleitoral de Narciso Ferreira ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Narciso Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Lavrador
+Morada - Penas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30800
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30800

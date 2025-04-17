@@ -1,0 +1,15 @@
+====== 60537 - F - Câmara do Couto de Landim ======
+
+**Parent**:: 0
+**RootParent**:: 60537
+**UnitTitle**:: Câmara do Couto de Landim
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1775
+**UnitDateFinal**:: 1836-12-23
+**ScopeContent**:: Documentação produzida entre 1775 e 1836, no âmbito das atividades exercidas pela Câmara do Couto de Landim. Inclui documentação relativa aos tombos de bens e prazos do Couto de Landim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60537
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60537
+
+===== Filhos =====
+  * [[60775.txt|60775 - SC - Património]]

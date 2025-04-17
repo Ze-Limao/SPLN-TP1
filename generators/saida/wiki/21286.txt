@@ -1,0 +1,18 @@
+====== 21286 - UI - Alfeu Policarpo Ferreira e Cruz ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alfeu Policarpo Ferreira e Cruz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-10-14
+**UnitDateFinal**:: 1916-08-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21286
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1136, 1137 e 1138
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21286
+
+===== Filhos =====
+  * [[29727.txt|29727 - DC - Carta]]
+  * [[29728.txt|29728 - DC - Carta]]
+  * [[29729.txt|29729 - DC - Carta]]

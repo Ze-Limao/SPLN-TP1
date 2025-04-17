@@ -1,0 +1,16 @@
+====== 26009 - DC - Carta ======
+
+**Parent**:: 21203
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-02-08
+**UnitDateFinal**:: 1923-02-08
+**ScopeContent**:: José de Mancelos Sampaio pede informações sobre o nobiliário em dez tomos que Camilo Castelo Branco possuía e depois terá sido vendido aquando da venda da livraria de Camilo (1883). Carta manuscrita assinada, de Barcelos, quinta-feira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26009
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 802 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26009

@@ -1,0 +1,16 @@
+====== 25868 - DC - Feira do Automóvel ======
+
+**Parent**:: 25085
+**RootParent**:: 20342
+**UnitTitle**:: Feira do Automóvel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927-05-08
+**UnitDateFinal**:: 1927-05-08
+**ScopeContent**:: A Feira do Automóvel foi realizada pela Eléctrica com entrada a favor da AHBVF.  A Associação concedeu 4 praças para policiar o local. Entradas pagas a favor do Hospital e para associação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25868
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 183 - cx. 47
+depósito 3, estante
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25868

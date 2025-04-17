@@ -1,0 +1,16 @@
+====== 28214 - DC - Lotação dos 2 tonéis chamados das 4 Pipas ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Lotação dos 2 tonéis chamados das 4 Pipas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-05-20
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Lotação dos 2 tonéis chamados das 4 Pipas / Quando se fez a medição do vinho em 20 de Maio de 1902 ambos deram 8 Pipas e 9 almudes (Pipas de 21 almudes). / Tonel da entrada do Jardim [?] 88 alm., 8 p. de 21 e 4 al.» A segunda f. AS 496 (2) é um pequeno papel preso por um alfinete onde se lê: «Casco novo / 28 alm., 3 ½ canadas / (o casco curto)».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28214
+**LangMaterial**:: Português
+**PhysLoc**:: AS 486 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28214

@@ -1,0 +1,18 @@
+====== 50924 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-11-30
+Filiação - Maria Moreira
+Naturalidade - Ribeirão
+Profissão - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50924
+**LangMaterial**:: Português
+**PhysLoc**:: 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50924

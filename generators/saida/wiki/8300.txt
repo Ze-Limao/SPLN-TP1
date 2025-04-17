@@ -1,0 +1,18 @@
+====== 8300 - UI - João Nunes da Costa Júnior ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: João Nunes da Costa Júnior
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-04-18
+**UnitDateFinal**:: 1895-11-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8300
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.16
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8300
+
+===== Filhos =====
+  * [[8301.txt|8301 - DC - Carta]]
+  * [[8302.txt|8302 - DC - Carta]]
+  * [[8303.txt|8303 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 98674 - SR - Vídeos VHS ======
+
+**Parent**:: 98673
+**RootParent**:: 7651
+**UnitTitle**:: Vídeos VHS
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1996
+**UnitDateFinal**:: 1999
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8156
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98674
+
+===== Filhos =====
+  * [[98784.txt|98784 - DC - Famalicão Terra de Amigos]]
+  * [[98800.txt|98800 - DC - Famalicão A Land of Friends]]
+  * [[98801.txt|98801 - DC - A Casa de Camilo]]

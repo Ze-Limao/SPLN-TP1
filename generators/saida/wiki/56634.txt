@@ -1,0 +1,17 @@
+====== 56634 - DC - Visão ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Visão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-06-14
+**UnitDateFinal**:: 1913-06-14
+**ScopeContent**:: Manuscrito de Maria Folque, em papel timbrado da pensão "Villa Bertrand", em Biarritz. Este documento está junto com a carta CP 3534 e um desenho CP 3536. Este documento pertence ao maço "Cartas 1913".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56634
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3535 - cx. 26
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56634

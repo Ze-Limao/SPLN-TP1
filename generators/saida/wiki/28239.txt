@@ -1,0 +1,16 @@
+====== 28239 - DC - Alberto Sampaio e a sua obra (prefácio de Luís de Magalhães aos Estudos Históricos e Económicos, 1.ª edição, 1923) ======
+
+**Parent**:: 28238
+**RootParent**:: 27963
+**UnitTitle**:: Alberto Sampaio e a sua obra (prefácio de Luís de Magalhães aos Estudos Históricos e Económicos, 1.ª edição, 1923)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923
+**UnitDateFinal**:: 1923
+**ScopeContent**:: Prefácio de Luís de Magalhães aos Estudos Históricos e Económicos, 1.ª edição, 1923. Informação complementar: Os vários estudos de Alberto Sampaio, publicados em diversas revistas literárias e científicas, foram reunidos em dois volumes 15 anos depois da sua morte. Luís de Magalhães, o amigo mais próximo do historiador a seguir a Antero de Quental, ficou responsável pelo projeto editorial, embora contando com o apoio incondicional de António Vicente Leal Sampaio, sobrinho de Alberto Sampaio. No prefácio que escreveu refere a dado passo: «Reunidos aqui os seus escritos pelo piedoso e zeloso afeto do representante do seu nome, o D.or António Vicente Leal Sampaio, seu sobrinho, que, nesta família de homens de lei, tem mantido, como magistrado distintíssimo que foi, e como advogado não menos distinto, que presentemente é, a tradição de saber e de retidão, que é o seu timbre − coube-me a mim, num encargo de amizade, que muito grato me foi, informar e esclarecer os leitores sobre a individualidade do autor ilustre, cuja obra é oferecida ao seu interesse e estudo, e sobre as origens, os objetivos e o método e processos dela.» (Alberto Sampaio - Estudos Históricos e Económicos. Porto: Livraria Chardron; Paris: Aillaud; Lisboa: Bertrand, 1923, p. XXVIII).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28239
+**LangMaterial**:: Português
+**PhysLoc**:: AS 1 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28239

@@ -1,0 +1,19 @@
+====== 21237 - UI - Maria Augusta Reimão de Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Maria Augusta Reimão de Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-01-04
+**UnitDateFinal**:: 1920-01-17
+**ScopeContent**:: Maria Augusta Reimão de Menezes era prima de JAM. Provavelmente seria do Solar Reimão de Menezes em Lodões, Vila Flor). Solar setecentista localizado na aldeia de Lodões. Destaque para o portal de entrada encimado por uma cruz e duas pirâmides. Integrou no passado capela particular. O brasão tem as armas dos Reimão de Menezes e Mello.
+Fonte: Sítio Web do Município de Vila Flor.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21237
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 958, 959
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21237
+
+===== Filhos =====
+  * [[26163.txt|26163 - DC - Carta]]
+  * [[26164.txt|26164 - DC - Carta]]

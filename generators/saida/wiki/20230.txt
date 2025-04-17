@@ -1,0 +1,14 @@
+====== 20230 - UI - Registo de correspondência recebida ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1927-01-04
+**UnitDateFinal**:: 1937-04-26
+**ScopeContent**:: Termo de abertura: “ Tem de servir este livro para nele ser registada toda a correspondência que der entrada nesta secretaria…”. Contém dados: número de ordem, data de entrada, qualidade, data da correspondência, por quem expedido, assunto, destino dado à correspondência recebida.Tem 479 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20230
+**LangMaterial**:: Português
+**PhysLoc**:: 698
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20230

@@ -1,0 +1,19 @@
+====== 62666 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - António Ribeiro e Teresa Dias Sampaio
+Naturalidade - Pedome
+Morada - Pedome
+Data de nascimento - 1863-07-20
+Emprego - Fabricante
+Estado - Casado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62666

@@ -1,0 +1,28 @@
+====== 54535 - SR - Documentos ======
+
+**Parent**:: 31332
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1947
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54535
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54535
+
+===== Filhos =====
+  * [[56643.txt|56643 - DC - Caderneta de saúde de Júlia Leonor Pinheiro Machado de Melo]]
+  * [[56644.txt|56644 - DC - Caderno]]
+  * [[56778.txt|56778 - DC - António de Moura]]
+  * [[60395.txt|60395 - DC - Anleitung zur Benutzung der Entwicklungs und Druck-Ausrustung / Kodak]]
+  * [[79248.txt|79248 - DC - Notas sobre o Movimento de Senhoras do Minho para oferta de uma peça à Rainha Augusta Vitória, princesa de Hohenzollern-Sigmaringen, no seu casamento com D. Manuell II, a 4 de setembro 1913]]
+  * [[79273.txt|79273 - DC - 1905 Cartas da minha santa Avó jan. a Fev. e Março]]
+  * [[79274.txt|79274 - DC - Cartas da minha santa Avó de 1905]]
+  * [[79275.txt|79275 - DC - 1905 Cartas da minha santa Avó de Abril a Maio]]
+  * [[79276.txt|79276 - DC - Cartas da minha santa Avó Maio 1905]]
+  * [[79277.txt|79277 - DC - Junho 1905]]
+  * [[79278.txt|79278 - DC - Setembro, Out. e Novembro]]
+  * [[79279.txt|79279 - DC - Dez. 1905]]
+  * [[79280.txt|79280 - DC - Cartas da minha querida e santa Avósinha]]
+  * [[79281.txt|79281 - DC - Cartas da minha santa Avó em 1910 e 1911]]
+  * [[79282.txt|79282 - DC - Fev. 1904]]

@@ -1,0 +1,18 @@
+====== 46797 - DC - Registo do recenseamento eleitoral de Manuel de Araújo Gomes ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel de Araújo Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Requião
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Quintão
+Idade - 59
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46797
+**LangMaterial**:: Português
+**PhysLoc**:: 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46797

@@ -1,0 +1,19 @@
+====== 62882 - DC - Registo do recenseamento militar de Luís ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - António Luís de Vilas Boas e Joaquina Maria Ferreira, na freguesia
+Naturalidade - Louro
+Morada - Louredo, Amarante
+Data de nascimento - 1863-10-13
+Emprego - Estudante
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62882

@@ -1,0 +1,16 @@
+====== 21384 - UI - Emílio Augusto Esperança Machado ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Emílio Augusto Esperança Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1925-12-18
+**UnitDateFinal**:: 1925-12-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21384
+**LangMaterial**:: Português
+**PhysLoc**:: JAM  1342
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21384
+
+===== Filhos =====
+  * [[30210.txt|30210 - DC - Carta]]

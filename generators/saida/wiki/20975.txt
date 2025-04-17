@@ -1,0 +1,15 @@
+====== 20975 - DC - Nº 22/1961 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 22/1961
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-10-30
+**UnitDateFinal**:: 1961-10-30
+**ScopeContent**:: Contrato de adjudicação da empreitada de 'Construção de arruamentos em Vila Nova de Famalicão, em torno da nova Escola Técnica'
+Outorgante - Gabriel Alves Sampaio Couto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20975
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20975

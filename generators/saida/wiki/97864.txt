@@ -1,0 +1,15 @@
+====== 97864 - UI - Processo nº 249 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 249
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1965-04-22
+**UnitDateFinal**:: 1969-03-31
+**ScopeContent**:: Junto com Autos de Transgressão nº 337, 338, 308.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 583 - cx. 33
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97864

@@ -1,0 +1,16 @@
+====== 30311 - DC - Carta ======
+
+**Parent**:: 21461
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-01-29
+**UnitDateFinal**:: 1918-01-29
+**ScopeContent**:: Carta manuscrita e assinada, do Porto. Papel timbrado "J. Duarte. Curador dos Orphãos. Porto".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30311
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1470 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30311

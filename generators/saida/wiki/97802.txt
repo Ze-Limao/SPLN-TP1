@@ -1,0 +1,15 @@
+====== 97802 - UI - Processo nº 163-A/79 ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 163-A/79
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1980-12-16
+**UnitDateFinal**:: 1986-06-21
+**ScopeContent**:: Junto com Autos de Transgressão nº 163.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 529 - cx. 31
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97802

@@ -1,0 +1,16 @@
+====== 21387 - UI - Fernanda Cardoso ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Fernanda Cardoso
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1932-01-02
+**UnitDateFinal**:: 1932-01-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21387
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1349
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21387
+
+===== Filhos =====
+  * [[30217.txt|30217 - DC - Carta]]

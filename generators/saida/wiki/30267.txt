@@ -1,0 +1,16 @@
+====== 30267 - DC - Carta ======
+
+**Parent**:: 21433
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-10-26
+**UnitDateFinal**:: 1915-10-26
+**ScopeContent**:: Carta manuscrita e assinada, de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30267
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1419 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30267

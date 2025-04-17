@@ -1,0 +1,15 @@
+====== 24792 - DC - Bilhete-postal com maqueta do novo Quartel dos B. V. de Famalicão ======
+
+**Parent**:: 24776
+**RootParent**:: 20342
+**UnitTitle**:: Bilhete-postal com maqueta do novo Quartel dos B. V. de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1990
+**UnitDateFinal**:: 1990
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24792
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 35 - cx. 9
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24792

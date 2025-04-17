@@ -1,0 +1,14 @@
+====== 20235 - UI - Registo de correspondência recebida nº7 ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº7
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1953-09-10
+**UnitDateFinal**:: 1954-11-26
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir este livro para se registarem (manuscrito) a correspondência recebida nesta Secretaria Municipal…”. Contém dados: nº, data de entrada e do documento, remetente ou signatário, natureza do documento e respectivo assunto, resolução, destino e observações. Inicia com o registo nº 1039 até ao registo nº 1791. O ano 1954 tem 1253 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20235
+**LangMaterial**:: Português
+**PhysLoc**:: 718
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20235

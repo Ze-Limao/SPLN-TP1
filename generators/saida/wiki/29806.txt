@@ -1,0 +1,16 @@
+====== 29806 - DC - Carta ======
+
+**Parent**:: 21323
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-12-19
+**UnitDateFinal**:: 1908-12-19
+**ScopeContent**:: Carta manuscrita assinada, do Porto. Papel timbrado "Recreatório do Carmo. Porto".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29806
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1215 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29806

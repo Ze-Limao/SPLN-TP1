@@ -1,0 +1,16 @@
+====== 29907 - DC - Do Archivo da Sé de Braga, Liber Fidei ======
+
+**Parent**:: 28627
+**RootParent**:: 27963
+**UnitTitle**:: Do Archivo da Sé de Braga, Liber Fidei
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Transcrição do documento n. 155, do Liber fidei, do Arquivo da Sé de Braga, respeitante à doação de umas salinas a Flâmula feita pelo presbítero Radulfus. Alberto Sampaio refere-se a este documento numa nota do cap. III “O mar livre”, das Povoas Marítimas: «O título foi-nos comunicado pelo nosso erudito amigo, o sr. Oliveira Guimarães, Rev. Abade de Tagilde […]. É uma cópia, segundo nos diz, do século XIII ou princípio do XIV, e assaz incorrecta. Como a Inquirição, adiante citada, de Vila do Conde, de Afonso III, não alude a esta propriedade da sé de Braga, é lícito duvidar se nesse tempo a não julgaram válida, ou já então teria passado para o mosteiro de Guimarães ou para a coroa.» (As Povoas Marítimas do Norte de Portugal in Estudos Históricos e Económicos, ed. 1923, nota 2, p. 327). A comparação da caligrafia do documento com as cartas enviadas a Alberto Sampaio, permite concluir que a transcrição foi feita pelo Abade de Tagilde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29907
+**LangMaterial**:: Português
+**PhysLoc**:: AS 114 (4) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29907

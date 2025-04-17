@@ -1,0 +1,18 @@
+====== 52100 - DC - Registo do recenseamento militar de José Maria ======
+
+**Parent**:: 9168
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Maria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-02-01
+**UnitDateFinal**:: 1868-04-04
+**ScopeContent**:: Data de nascimento - 1847-05-16
+Filiação - José Dias da Costa e Felícia Dias da Costa
+Naturalidade - Sezures
+Profissão - Estudante
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52100
+**LangMaterial**:: Português
+**PhysLoc**:: 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52100

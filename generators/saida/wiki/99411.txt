@@ -1,0 +1,15 @@
+====== 99411 - SSR - Álbuns de Fotografia ======
+
+**Parent**:: 99257
+**RootParent**:: 60695
+**UnitTitle**:: Álbuns de Fotografia
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1876
+**UnitDateFinal**:: 1914
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99407
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99411
+
+===== Filhos =====
+  * [[100146.txt|100146 - UI - Álbum de Fotografias]]
+  * [[99376.txt|99376 - UI - Álbum de Fotografias]]

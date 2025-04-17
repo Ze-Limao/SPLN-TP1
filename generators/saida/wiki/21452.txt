@@ -1,0 +1,18 @@
+====== 21452 - UI - Joaquina Veloso ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquina Veloso
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1883
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21452
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1449, 1450, 1451
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21452
+
+===== Filhos =====
+  * [[30290.txt|30290 - DC - Carta]]
+  * [[30291.txt|30291 - DC - Carta]]
+  * [[30292.txt|30292 - DC - Carta]]

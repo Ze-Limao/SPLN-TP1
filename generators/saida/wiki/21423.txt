@@ -1,0 +1,16 @@
+====== 21423 - UI - J. Ferreira ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: J. Ferreira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-01-03
+**UnitDateFinal**:: 1910-01-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21423
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1402
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21423
+
+===== Filhos =====
+  * [[30256.txt|30256 - DC - Carta]]

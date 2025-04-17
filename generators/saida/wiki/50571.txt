@@ -1,0 +1,18 @@
+====== 50571 - DC - Registo do recenseamento militar de Gabriel ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Gabriel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-04-11
+Filiação - Francisco de Azevedo e Bernardina Rosa
+Naturalidade - Seide S. Miguel
+Profissão - 
+Residência - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50571
+**LangMaterial**:: Português
+**PhysLoc**:: 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50571

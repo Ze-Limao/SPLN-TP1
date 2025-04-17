@@ -1,0 +1,16 @@
+====== 30619 - DC - Registo do recenseamento eleitoral de Manuel José Alves Pereira ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José Alves Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Cavalões
+Profissão - Abade
+Morada - Residência
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30619
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30619

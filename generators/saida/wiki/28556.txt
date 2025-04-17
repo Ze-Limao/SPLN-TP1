@@ -1,0 +1,15 @@
+====== 28556 - DC - D. João II 1481-1495 ======
+
+**Parent**:: 28555
+**RootParent**:: 27963
+**UnitTitle**:: D. João II 1481-1495
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28556
+**LangMaterial**:: Português
+**PhysLoc**:: AS 98 (1) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28556

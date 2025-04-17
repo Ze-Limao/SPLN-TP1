@@ -1,0 +1,18 @@
+====== 8771 - DC - Termo do exame de Eugénia Rosa da Silva Braga ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Eugénia Rosa da Silva Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-18
+**UnitDateFinal**:: 1891-07-18
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Narciso da Silva Braga
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8771
+**LangMaterial**:: Português
+**PhysLoc**:: f. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8771

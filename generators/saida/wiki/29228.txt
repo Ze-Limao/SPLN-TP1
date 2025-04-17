@@ -1,0 +1,16 @@
+====== 29228 - DC - Talão de recibo de emissão de um vale ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Talão de recibo de emissão de um vale
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-10-07
+**UnitDateFinal**:: 1897-10-07
+**ScopeContent**:: Talão de recibo (n. 762), respeitante à emissão de um vale na estação de correios de Famalicão, no valor de 1240 reis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29228
+**LangMaterial**:: Português
+**PhysLoc**:: AS 345 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29228

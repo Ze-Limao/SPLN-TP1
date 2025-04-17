@@ -1,0 +1,20 @@
+====== 20763 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-05-02
+**UnitDateFinal**:: 1890-05-02
+**ScopeContent**:: Freguesia - Fradelos
+Filiação - José da Silva Maia e Josefa Rosa
+Naturalidade - Vilarinho das Cambas
+Data de nascimento - 1869-04-08
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Vilarinho das Cambas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20763
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20763

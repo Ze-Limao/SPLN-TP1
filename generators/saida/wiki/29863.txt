@@ -1,0 +1,16 @@
+====== 29863 - DC - Sobre a acção que a polícia deve ter ======
+
+**Parent**:: 28414
+**RootParent**:: 27963
+**UnitTitle**:: Sobre a acção que a polícia deve ter
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Rascunho, a lápis, das notas que constam no documento na f. 1. Uma delas, a primeira que aparece transcrita sobre aos “postos de cobrição”, encontra-se riscada com quatro traços a tinta, sinal de já ter sido passada para um outro papel. Há apenas duas novas notas que remetem para a referência bibliográfica: Félix Villeroy - Le Manuel de l’ Eleveur de Chevaux. Paris: Librarie Agricole de la Maison Rustique. - 2 vols.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29863
+**LangMaterial**:: Português
+**PhysLoc**:: AS 60 (4) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29863

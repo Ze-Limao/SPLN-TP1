@@ -1,0 +1,14 @@
+====== 31281 - SC - Baltasar Pinheiro Lobo ======
+
+**Parent**:: 31258
+**RootParent**:: 31258
+**UnitTitle**:: Baltasar Pinheiro Lobo
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1638
+**UnitDateFinal**:: 1678-12-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31281
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31281
+
+===== Filhos =====
+  * [[31282.txt|31282 - SSC - Baltasar Pinheiro Lobo]]

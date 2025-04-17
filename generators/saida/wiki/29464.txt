@@ -1,0 +1,16 @@
+====== 29464 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870-03-22
+**UnitDateFinal**:: 1870-03-22
+**ScopeContent**:: Carta expedida de Lisboa? O papel de carta faz de envelope. Carta selada e carimbada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29464
+**LangMaterial**:: Português
+**PhysLoc**:: AS 705 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29464

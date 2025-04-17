@@ -1,0 +1,15 @@
+====== 29453 - DC - Apontamento com fórmula matemática ======
+
+**Parent**:: 29354
+**RootParent**:: 27963
+**UnitTitle**:: Apontamento com fórmula matemática
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1908
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29453
+**LangMaterial**:: Português
+**PhysLoc**:: AS 157 (10) - cx. 3
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29453

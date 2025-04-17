@@ -1,0 +1,17 @@
+====== 79187 - CL - Coleção de Fotografias da Exposição Humberto Fonseca ======
+
+**Parent**:: 0
+**RootParent**:: 79187
+**UnitTitle**:: Coleção de Fotografias da Exposição Humberto Fonseca
+**DescriptionLevel**:: CL
+**UnitDateInitial**:: 1998
+**UnitDateFinal**:: 1998
+**ScopeContent**:: Reproduções das fotografias originais de Humberto Fonseca com a dimensão 24 x 30 cm, coladas em cartão Kapa line branco com a dimensão 40 x 30 cm.
+**Repository**:: Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79187
+**AccessRestrict**:: Condições de acesso: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79187
+
+===== Filhos =====
+  * [[79188.txt|79188 - SR - Coleção de Fotografias da Exposição Humberto Fonseca]]

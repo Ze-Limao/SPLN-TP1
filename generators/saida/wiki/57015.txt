@@ -1,0 +1,17 @@
+====== 57015 - DC - Ofício para Administrateur - Delegué des Établissements des Travaux Publics et des Constructions  Bartissol de António da Penha e Costa ======
+
+**Parent**:: 57009
+**RootParent**:: 31258
+**UnitTitle**:: Ofício para Administrateur - Delegué des Établissements des Travaux Publics et des Constructions  Bartissol de António da Penha e Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-11-07
+**UnitDateFinal**:: 1934-11-07
+**ScopeContent**:: Ofício datilografado, falta a 2º folha.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57015
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 2779 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57015

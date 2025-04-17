@@ -1,0 +1,17 @@
+====== 55754 - DC - Maço Sanatórios da Madeira ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço Sanatórios da Madeira
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1905-03-09
+**UnitDateFinal**:: 1906-07-26
+**ScopeContent**:: Maço de documentos pro-memorias trocadas entre o Conselheiro Luiz de Magalhães e Conde Tattenbach. Contém cópias de cartas e telegramas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55754
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14361 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55754

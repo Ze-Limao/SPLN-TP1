@@ -1,0 +1,16 @@
+====== 28077 - DC - Ofício da Companhia do Caminho de Ferro de Guimarães. ======
+
+**Parent**:: 29458
+**RootParent**:: 27963
+**UnitTitle**:: Ofício da Companhia do Caminho de Ferro de Guimarães.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-02-18
+**UnitDateFinal**:: 1886-02-18
+**ScopeContent**:: Ofício impresso enviado de Lisboa? por António de Moura Soares Veloso, gerente da Companhia do Caminho-de-Ferro de Guimarães. Impresso, com assinatura autógrafa de António de Moura Soares Veloso. Solicita o empenhamento de todos quantos tenham contactos com pessoas influentes no meio político de Lisboa para «auxiliarem a iniciativa do pedido feito pela Companhia do Caminho de ferro de Guimarães», no sentido de se conseguir avançar com a construção do troço de Guimarães a Chaves.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28077
+**LangMaterial**:: Português
+**PhysLoc**:: AS 169- cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28077

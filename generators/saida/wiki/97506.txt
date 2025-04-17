@@ -1,0 +1,14 @@
+====== 97506 - UI - Processo nº 11 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 11
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1950-09-09
+**UnitDateFinal**:: 1960-10-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 331 - cx. 18
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97506

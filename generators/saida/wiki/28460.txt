@@ -1,0 +1,65 @@
+====== 28460 - SR - O Norte Marítimo ======
+
+**Parent**:: 28291
+**RootParent**:: 27963
+**UnitTitle**:: O Norte Marítimo
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28460
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28460
+
+===== Filhos =====
+  * [[28461.txt|28461 - DC - Notas sobre a lenda de Santiago]]
+  * [[28467.txt|28467 - DC - A imagem de Cristo, venerada]]
+  * [[28468.txt|28468 - DC - Notas sobre a conquista do Algarve no reinado de D. Sancho I]]
+  * [[28471.txt|28471 - DC - Diogo Cão da Nóbrega]]
+  * [[28472.txt|28472 - DC - Passa igualmente por ser desta naturalidade o patriarca de Alexandria]]
+  * [[28473.txt|28473 - DC - Hist. Comp. Cap.]]
+  * [[28474.txt|28474 - DC - Notas de investigação sobre as incursões dos mouros na costa portuguesa no norte do país, a partir de Coimbra]]
+  * [[28478.txt|28478 - DC - Lista de navegadores estrangeiros nas esquadras navais portuguesas]]
+  * [[28481.txt|28481 - DC - Vocabulario]]
+  * [[28482.txt|28482 - DC - Notas de investigação sobre Aveiro]]
+  * [[28487.txt|28487 - DC - À conquista de Silves]]
+  * [[28488.txt|28488 - DC - Não he menos importante o lavor do linho canamo]]
+  * [[28489.txt|28489 - DC - Nos Annaes do Município d’ Esposende]]
+  * [[28490.txt|28490 - DC - O piloto do navio de Gonçalo Pacheco]]
+  * [[28491.txt|28491 - DC - Valor do marco de ouro e de prata no tempo de D. Fernando, pg. 31]]
+  * [[28492.txt|28492 - DC - No tempo de D. Sancho II]]
+  * [[28493.txt|28493 - DC - Donatários do Brasil, por D. João III]]
+  * [[28494.txt|28494 - DC - Taforeas (navios)]]
+  * [[28495.txt|28495 - DC - Princípio do reinado d’Afonso III depois de 852]]
+  * [[28496.txt|28496 - DC - Mem de Sá o povoador do Rio de Janeiro]]
+  * [[28497.txt|28497 - DC - A conquista definitiva de Alcácer]]
+  * [[28499.txt|28499 - DC - Notas sobre a conquista de Arzila e Tânger por D. Afonso V]]
+  * [[28504.txt|28504 - DC - Pesquisas bibliográficas sobre matérias da história marítima na 1.ª dinastia]]
+  * [[28507.txt|28507 - DC - Pesquisas bibliográficas e notas de investigação sobre a história marítima anterior à 1.ª dinastia]]
+  * [[28524.txt|28524 - DC - Notas de investigação sobre povoações costeiras]]
+  * [[28541.txt|28541 - DC - Padre Gabriel de Magalhães]]
+  * [[28542.txt|28542 - DC - Cap. do Corpo Santo]]
+  * [[28543.txt|28543 - DC - Lembrança]]
+  * [[28544.txt|28544 - DC - Cousas maritimas]]
+  * [[28545.txt|28545 - DC - Vasco de Lobeira, nobre pelas armas]]
+  * [[28546.txt|28546 - DC - Notas de investigação sobre reinado D. João I (1385-1433)]]
+  * [[28555.txt|28555 - DC - Notas sobre o reinado D. João II (1481-1495)]]
+  * [[28563.txt|28563 - DC - Notas sobre o reinado D. Manuel 1495-1521]]
+  * [[28571.txt|28571 - DC - Notas sobre o reinado D. João III (1521-1557)]]
+  * [[28578.txt|28578 - DC - Manuel Gonçalves, o Regefeiro de Leça]]
+  * [[28579.txt|28579 - DC - ElRei Dom Pedro (de Castela) fez logo fazer todollos]]
+  * [[28580.txt|28580 - DC - Notas sobre a malatosta]]
+  * [[28595.txt|28595 - DC - Notas sobre Caminha e Cerveira]]
+  * [[28598.txt|28598 - DC - Notas sobre Viana]]
+  * [[28603.txt|28603 - DC - Meadela (Ameadela)]]
+  * [[28604.txt|28604 - DC - Notas sobre Castelo de Neiva]]
+  * [[28609.txt|28609 - DC - Nota sobre as inquirições de D. Afonso III (1258) em Esposende.]]
+  * [[28617.txt|28617 - DC - Apulia]]
+  * [[28618.txt|28618 - DC - Amorim (Santiago)]]
+  * [[28619.txt|28619 - DC - Notas sobre a Póvoa de Varziim]]
+  * [[28627.txt|28627 - DC - Notas sobre Vila do Conde]]
+  * [[28640.txt|28640 - DC - Notas sobre Azurara]]
+  * [[28653.txt|28653 - DC - Notas sobre a Foz do Leça, Matosinhos, Guifões e Moroza.]]
+  * [[28662.txt|28662 - DC - Notas de investigação alusivas às inquirições de D. Afonso III (1258) na Foz do Douro, Lordelo e Nevogilde]]
+  * [[28665.txt|28665 - DC - Notas sobre as inquirições na Foz do Douro e Lordelo]]
+  * [[28683.txt|28683 - DC - Mineum - Hist. Compostelana]]
+  * [[28684.txt|28684 - DC - Notas sobre a lenda do Rei Ramiro]]

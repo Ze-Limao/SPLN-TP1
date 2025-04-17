@@ -1,0 +1,16 @@
+====== 61244 - DC - Mulher e criança ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: Mulher e criança
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Fotografia p&b colada em cartão. Fotografia Brasil Lisboa. Poderá ser a mulher de Daniel Rodrigues, Maria de Faria Gonçalves, e o seu filho Rui.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 149 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61244

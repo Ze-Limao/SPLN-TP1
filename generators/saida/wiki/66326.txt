@@ -1,0 +1,15 @@
+====== 66326 - DC - Sentença de agravo Crisóstomo Fernandes da freguesia de Vila Nova de Famalicão ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença de agravo Crisóstomo Fernandes da freguesia de Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1736-11-01
+**UnitDateFinal**:: 1736-11-01
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 450 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66326

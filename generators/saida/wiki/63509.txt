@@ -1,0 +1,19 @@
+====== 63509 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Domingos Barbosa e Joaquina de Oliveira
+Naturalidade - Arnoso Santa Maria
+Morada - Ignora-se
+Data de nascimento - 1866-10-13
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63509

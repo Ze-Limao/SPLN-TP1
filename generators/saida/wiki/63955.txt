@@ -1,0 +1,15 @@
+====== 63955 - UI - Livro das sepulturas, capelas e ermidas da igreja de S. Tiago de Antas ======
+
+**Parent**:: 63954
+**RootParent**:: 60536
+**UnitTitle**:: Livro das sepulturas, capelas e ermidas da igreja de S. Tiago de Antas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1707-11-07
+**UnitDateFinal**:: 1707-11-07
+**ScopeContent**:: Manuscrito, original, encadernado a pele com atilhos. Na capa título a lápis "2º Livro das Seputuras, Capellas e Ermidas". Título a tinta "Livro segundo dos mandados na pastoral que serve de assento das Sepulturas, Capelas e Ermidas que ha nesta Fregª dos residentes nesta Igreja". Tem 9 f. escritas, as restantes em branco.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 140 - cx. 6
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63955

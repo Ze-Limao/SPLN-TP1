@@ -1,0 +1,15 @@
+====== 98054 - UI - Processo nº 89 ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 89
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-06-04
+**UnitDateFinal**:: 1984-11-08
+**ScopeContent**:: Junto com Autos de Transgressão nº 496, 407, Autos de Reclamação de Créditos nº 89-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 720 - cx. 39
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98054

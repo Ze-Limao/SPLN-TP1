@@ -1,0 +1,13 @@
+====== 9137 - DC - Ofício nº 37 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 37
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-08-06
+**UnitDateFinal**:: 1886-08-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9137
+**LangMaterial**:: Português
+**PhysLoc**:: f. 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9137

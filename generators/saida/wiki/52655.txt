@@ -1,0 +1,16 @@
+====== 52655 - DC - Registo do recenseamento militar de José da Silva ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1849-01-09
+Filiação - Baltasar José da Silva e Margarida Rosa da Silva
+Naturalidade - Vilarinho das Cambas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52655
+**LangMaterial**:: Português
+**PhysLoc**:: 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52655

@@ -1,0 +1,15 @@
+====== 20170 - UI - Recrutamento militar ======
+
+**Parent**:: 20168
+**RootParent**:: 20048
+**UnitTitle**:: Recrutamento militar
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1888-09-05
+**UnitDateFinal**:: 1889-09-24
+**ScopeContent**:: Não tem termo de abertura. Livro organizado por ordem alfabética de freguesias. Contém dados: nome, filiação, data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20170
+**LangMaterial**:: Português
+**PhysLoc**:: AC 88
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20170

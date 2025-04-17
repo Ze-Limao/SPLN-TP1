@@ -1,0 +1,18 @@
+====== 51038 - DC - Registo do recenseamento militar de Damião ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Damião
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-04-10
+Filiação - Maria de Carvalho
+Naturalidade - Brufe
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51038
+**LangMaterial**:: Português
+**PhysLoc**:: 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51038

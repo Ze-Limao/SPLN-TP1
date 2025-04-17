@@ -1,0 +1,15 @@
+====== 25054 - DC - Programa de Homenagem ao Comandante Fernando Soares ======
+
+**Parent**:: 25050
+**RootParent**:: 20342
+**UnitTitle**:: Programa de Homenagem ao Comandante Fernando Soares
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1990-01-10
+**UnitDateFinal**:: 1990-01-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25054
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 152 - cx. 39
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25054

@@ -1,0 +1,16 @@
+====== 23472 - DC - Registo do recenseamento eleitoral de José Dias da Costa ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Dias da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Sezures
+Profissão - Lavrador
+Morada - Rio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23472
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23472

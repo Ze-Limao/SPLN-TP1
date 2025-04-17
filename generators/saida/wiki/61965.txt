@@ -1,0 +1,19 @@
+====== 61965 - SR - Material gráfico ======
+
+**Parent**:: 61460
+**RootParent**:: 60551
+**UnitTitle**:: Material gráfico
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1970
+**UnitDateFinal**:: 2020
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**LangMaterial**:: Português, Inglês
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61965
+
+===== Filhos =====
+  * [[61966.txt|61966 - DC - Estampa com retrato desenhado de Paul Harris]]
+  * [[61967.txt|61967 - DC - Países e cidades]]
+  * [[61968.txt|61968 - DC - Fundação Rotária Portuguesa]]

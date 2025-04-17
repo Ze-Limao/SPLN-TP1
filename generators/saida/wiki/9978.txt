@@ -1,0 +1,14 @@
+====== 9978 - DC - Registo do pagamento a António Máximo Salgado Carneiro ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a António Máximo Salgado Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-09
+**UnitDateFinal**:: 1882-03-09
+**ScopeContent**:: Despesa feita com a revisão do recenseamento eleitoral
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9978
+**LangMaterial**:: Português
+**PhysLoc**:: f. 5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9978

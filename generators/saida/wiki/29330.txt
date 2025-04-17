@@ -1,0 +1,17 @@
+====== 29330 - DC - Acetato de chumbo líquido ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: Acetato de chumbo líquido
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1874-07-13
+**UnitDateFinal**:: 1874-07-13
+**ScopeContent**:: Escrita por Alberto Sampaio. Provavelmente o farmacêutico que aviou a receita, escreveu na parte superior da folha: «Ex.mo Sr. D.r S. Paio (S.ta Luzia), anotou a preparação de 3 doses «Foi 3 doses» e o preço a pagar incluindo uma garrafa. 
+Receita igual à passada em 6 de Março de 1865. Composição da receita: acetato de chumbo líquido, água destilada de tanoagem (?), mucilagem de goma adragante, álcool canforado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29330
+**LangMaterial**:: Português
+**PhysLoc**:: AS 225 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29330

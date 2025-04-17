@@ -1,0 +1,16 @@
+====== 31207 - DC - Registo do recenseamento eleitoral de Manuel José de Faria Júnior ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José de Faria Júnior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Louro
+Profissão - Vendeiro
+Morada - Santo António
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31207
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31207

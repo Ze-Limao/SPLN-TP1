@@ -1,0 +1,28 @@
+====== 25019 - UI - Apontamentos da História da Associação ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Apontamentos da História da Associação
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1932
+**UnitDateFinal**:: 1969-05-22
+**ScopeContent**:: Contém: Folhetos, documento dactilografado com discurso de Hilário de Carvalho no Congresso de Bombeiros em Matosinhos 1966; Recortes de imprensa; Relação de nomes dos cavalheiros que fizeram parte do corpo activo de Bombeiros; Apontamentos manuscritos colhidos nos “Copiadores” da Associação por Hilário Carvalho 1960 e das atas de reuniões das assembleias gerais e direções.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25019
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 122 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25019
+
+===== Filhos =====
+  * [[25329.txt|25329 - DC - Elementos compilados dos seus livros de Actas da Direcção da Associação dos B.V. de Famalicão por Hilário Carvalho]]
+  * [[25330.txt|25330 - DC - Apontamentos colhidos nos "Copiadores" da associação por Hilário Carvalho]]
+  * [[25331.txt|25331 - DC - Coligidos das pastas das "Coisas Velhas" e "outras" por Hilário Carvalho]]
+  * [[25332.txt|25332 - DC - Circular dos Bombeiros Voluntários de Famalicão dirigida aos amigos]]
+  * [[25333.txt|25333 - DC - Elementos compilados dos Livros de Actas das Reuniões Gerais existentes na Ass. dos Bombeiros V. de Famalicão lidos e apontados por Hilário Carvalho]]
+  * [[25334.txt|25334 - DC - Relação dos nomes dos cavalheiros que fizeram parte do Corpo Activo dos Bombeiros Voluntários de famalicão como primeiros comandantes e segundos comandantes]]
+  * [[25335.txt|25335 - DC - Panfleto Arraial Minhoto]]
+  * [[25336.txt|25336 - DC - Discurso no Congresso Bombeiros em Matosinhos no jantar aos congressistas no n/ quartel dito por Hilário Carvalho]]
+  * [[25337.txt|25337 - DC - Circular da Direcção e Comandante da AHBVF sobre a construção do novo quartel]]
+  * [[25338.txt|25338 - DC - Programa do Sarau do Orfeão Universitário do Porto]]

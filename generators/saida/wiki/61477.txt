@@ -1,0 +1,27 @@
+====== 61477 - SR - Livros ======
+
+**Parent**:: 61460
+**RootParent**:: 60551
+**UnitTitle**:: Livros
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1968
+**UnitDateFinal**:: 2020
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**LangMaterial**:: Português, Inglês
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61477
+
+===== Filhos =====
+  * [[61478.txt|61478 - DC - Direitos Humanos]]
+  * [[61904.txt|61904 - DC - Rotary no mundo]]
+  * [[61905.txt|61905 - DC - Catálogo das medalhas Distrito Rotário português]]
+  * [[61906.txt|61906 - DC - Cartas mensais do Governador Rui da Silva Leal Distrito 1970]]
+  * [[61928.txt|61928 - DC - XXXIII Conferência do Distrito 1970 Humanização em acção, Coimbra]]
+  * [[61942.txt|61942 - DC - Temas e estudos de Celestino Marques Pereira]]
+  * [[61960.txt|61960 - DC - Terminologia rotária e informação rotária de Hermínio Gomes Moreira]]
+  * [[61961.txt|61961 - DC - Guia Distrital Rotary International]]
+  * [[61962.txt|61962 - DC - Subsídios para a História do Rotary em Portugal de Rui Leandro A. C. Maia]]
+  * [[61963.txt|61963 - DC - Manual do Protocolo Rotário de Armando Teixeira Carneiro]]
+  * [[61964.txt|61964 - DC - Manual do Delegado - Fundação Rotária Portuguesa]]

@@ -1,0 +1,14 @@
+====== 60329 - UI - Matilde Munró dos Anjos ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Matilde Munró dos Anjos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60329
+
+===== Filhos =====
+  * [[60330.txt|60330 - DC - Cartão]]

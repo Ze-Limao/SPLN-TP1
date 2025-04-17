@@ -1,0 +1,18 @@
+====== 8864 - DC - Termo do exame de Joaquim Pereira Sampaio ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim Pereira Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-05
+**UnitDateFinal**:: 1893-08-05
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Manuel Pereira Sampaio
+Naturalidade - Lagoa
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8864
+**LangMaterial**:: Português
+**PhysLoc**:: f. 51
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8864

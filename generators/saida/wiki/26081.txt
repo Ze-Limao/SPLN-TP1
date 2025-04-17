@@ -1,0 +1,16 @@
+====== 26081 - DC - Carta ======
+
+**Parent**:: 21219
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-06-16
+**UnitDateFinal**:: 1920-06-16
+**ScopeContent**:: Carta manuscrita assinada, de Viana. Papel com selo branco.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26081
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 875 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26081

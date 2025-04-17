@@ -1,0 +1,17 @@
+====== 61971 - DC - Declaração de normas sobre os Rotaract Clubs pelo Conselho Director do Rotary International ======
+
+**Parent**:: 61484
+**RootParent**:: 60551
+**UnitTitle**:: Declaração de normas sobre os Rotaract Clubs pelo Conselho Director do Rotary International
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1970
+**UnitDateFinal**:: 2020
+**ScopeContent**:: Publicação de Rotary International, Illinois, EUA. 4 p.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 357 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61971

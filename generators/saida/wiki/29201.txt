@@ -1,0 +1,16 @@
+====== 29201 - DC - Agricultura popular: Moléstia dos castanheiros e o remédio infalível para os salvar ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Agricultura popular: Moléstia dos castanheiros e o remédio infalível para os salvar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-10-03
+**UnitDateFinal**:: 1882-12
+**ScopeContent**:: Recorte de imprensa do jornal O Comércio do Porto: “Agricultura popular: Moléstia dos castanheiros e o remédio infalível para os salvar”. Artigo assinado por S. R. Ferreira, de Penafiel. Desconhece-se a data da edição do jornal, no entanto tendo em conta a data do artigo apontamos para final do ano de 1882.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29201
+**LangMaterial**:: Português
+**PhysLoc**:: AS 316 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29201

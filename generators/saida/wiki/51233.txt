@@ -1,0 +1,18 @@
+====== 51233 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-07-14
+Filiação - Jerónimo José Ribeiro e Joaquina Rosa Monteiro
+Naturalidade - Carreira
+Profissão - Alfaiate
+Residência - Carreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51233
+**LangMaterial**:: Português
+**PhysLoc**:: 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51233

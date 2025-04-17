@@ -1,0 +1,17 @@
+====== 56916 - DC - Negócio de filmes ======
+
+**Parent**:: 56921
+**RootParent**:: 31258
+**UnitTitle**:: Negócio de filmes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934
+**UnitDateFinal**:: 1934
+**ScopeContent**:: Capa manuscrita com título a cores. O filme documentário Angola Pullman, é um documentário francês, de René Ginet, em que retrata a obra portuguesa em Angola, 1934. Ver http://hemerotecadigital.cm-lisboa.pt/Periodicos/PortugalColonial/N42/N42_item1/P18.html
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56916
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2683 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56916

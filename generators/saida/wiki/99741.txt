@@ -1,0 +1,14 @@
+====== 99741 - UI - E. R. M.cê ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: E. R. M.cê
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1928
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99741
+
+===== Filhos =====
+  * [[99742.txt|99742 - DC - Ofício]]

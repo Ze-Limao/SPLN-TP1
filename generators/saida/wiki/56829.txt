@@ -1,0 +1,17 @@
+====== 56829 - DC - Notas ======
+
+**Parent**:: 54529
+**RootParent**:: 31258
+**UnitTitle**:: Notas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929-01-03
+**UnitDateFinal**:: 1929-01-03
+**ScopeContent**:: Notas manuscritas num cartão de visita do Visconde de Pindela. Documento que está na capa junto com CP 8581 a CP 8614.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56829
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8583 - cx. 54
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56829

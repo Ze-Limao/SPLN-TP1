@@ -1,0 +1,18 @@
+====== 45924 - DC - Registo do recenseamento eleitoral de António Joaquim Pereira da Cunha ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Joaquim Pereira da Cunha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Cruz
+Profissão - Proprietário
+Estado - Casado
+Morada - Gavinho
+Idade - 40
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45924
+**LangMaterial**:: Português
+**PhysLoc**:: 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45924

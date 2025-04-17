@@ -1,0 +1,19 @@
+====== 9602 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Francisco Firmino Gonçalves e Maria Vitória dos Reis
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1877-06-25
+Profissão - 
+Estado civil - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9602
+**LangMaterial**:: Português
+**PhysLoc**:: f. 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9602

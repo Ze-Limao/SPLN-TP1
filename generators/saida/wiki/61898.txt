@@ -1,0 +1,17 @@
+====== 61898 - DC - Site Probus ======
+
+**Parent**:: 61461
+**RootParent**:: 60551
+**UnitTitle**:: Site Probus
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 2001-02-09
+**UnitDateFinal**:: 2002-12-11
+**ScopeContent**:: Maço com um conjunto de emails de Armando Moura da Silva sobre o site PROBUS em Portugal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 354 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61898

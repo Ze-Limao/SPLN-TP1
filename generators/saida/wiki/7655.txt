@@ -1,0 +1,17 @@
+====== 7655 - UI - Livro de Actas da Câmara Municipal Nº 2 ======
+
+**Parent**:: 7654
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Actas da Câmara Municipal Nº 2
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1837-11-08
+**UnitDateFinal**:: 1845-06-18
+**ScopeContent**:: Manuscrito. A 1ª Acta de 22 novembro 1837 e a última 18 junho 1845. Encerramento oficial a 8 novembro de 1837, assinado pelo presidente da Câmara Municipal Bernardo José da Fonseca e Castro.  Existe para consulta presencial o resumo das Actas da Câmara Municipal nº 2, com índice onomástico e toponímico CMVNF 4A, depósito 2, estante 18.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7655
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 4
+depósito 2, estante 18
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7655

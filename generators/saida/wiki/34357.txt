@@ -1,0 +1,19 @@
+====== 34357 - DC - Registo do recenseamento militar de António de Macedo ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António de Macedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vilarinho das Cambas
+Data de nascimento - 1852-06-03
+Filiação - Joaquim António de Macedo e Maria Joaquina da Silva
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34357
+**LangMaterial**:: Português
+**PhysLoc**:: 106v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34357

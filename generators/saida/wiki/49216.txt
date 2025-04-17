@@ -1,0 +1,18 @@
+====== 49216 - DC - Registo do recenseamento eleitoral de José da Costa Vinhal ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José da Costa Vinhal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Estado - Casado
+Morada - Bragadela
+Idade - 32
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49216
+**LangMaterial**:: Português
+**PhysLoc**:: 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49216

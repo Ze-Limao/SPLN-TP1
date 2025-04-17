@@ -1,0 +1,13 @@
+====== 9620 - DC - Ofício nº 1 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 1
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-01-20
+**UnitDateFinal**:: 1887-01-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9620
+**LangMaterial**:: Português
+**PhysLoc**:: f. 27
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9620

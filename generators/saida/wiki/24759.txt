@@ -1,0 +1,15 @@
+====== 24759 - UI - Correspondência recebida/expedida a fornecedores de acessórios industriais ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida a fornecedores de acessórios industriais
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1968-10-02
+**UnitDateFinal**:: 1973-10-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24759
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 18 - cx. 4
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24759

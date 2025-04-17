@@ -1,0 +1,16 @@
+====== 23166 - DC - Carta ======
+
+**Parent**:: 21044
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-10-20
+**UnitDateFinal**:: 1905-10-20
+**ScopeContent**:: Alexandre Amaral lamenta que Brancamp não aprofundasse as notícias sobre os Malafaias. Informa que quando tiver mais tempo em Lisboa fará investigação na Torre do Tombo. Carta manuscrita assinada, Lisboa, Hotel Mayor.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23166
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 55 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23166

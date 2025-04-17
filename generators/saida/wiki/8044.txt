@@ -1,0 +1,16 @@
+====== 8044 - DC - Termo de José Manuel Lopes ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José Manuel Lopes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-12-16
+**UnitDateFinal**:: 1876-12-16
+**ScopeContent**:: Declaração para seu filho Manuel ser considerado cidadão espanhol
+Nacionalidade - Espanhola
+Morada - Gondifelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8044
+**LangMaterial**:: Português
+**PhysLoc**:: f. 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8044

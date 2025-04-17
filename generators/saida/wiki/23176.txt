@@ -1,0 +1,16 @@
+====== 23176 - DC - Bilhete-postal ======
+
+**Parent**:: 21052
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-02-16
+**UnitDateFinal**:: 1910-02-16
+**ScopeContent**:: Alfredo Pons acusa a receção da carta e avisa que já enviou as cópias pretendidas para a morada do Sr. Abade porque ainda não tinha a morada de JAM. Bilhete-postal manuscrito assinado, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23176
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 66 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23176

@@ -1,0 +1,16 @@
+====== 23137 - DC - Carta ======
+
+**Parent**:: 21039
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-09-07
+**UnitDateFinal**:: 1898-09-07
+**ScopeContent**:: Alberto Pimentel agradece pelos apontamentos enviados. Informa que o livro “Os amores de Camilo” será publicado no final do ano. Carta manuscrita assinada, Lisboa, Rua de S. Roque, 81 3º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23137
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 26 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23137

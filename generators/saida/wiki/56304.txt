@@ -1,0 +1,17 @@
+====== 56304 - DC - Casa de Pindela S. Miguel de 1900. Recibos e documentos ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Pindela S. Miguel de 1900. Recibos e documentos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1900
+**ScopeContent**:: Maço que contém CP 11201 a CP 11272. Contém 71 documentos manuscritos e impressos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56304
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11201 a 11272 - cx. 63
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56304

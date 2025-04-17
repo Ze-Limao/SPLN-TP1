@@ -1,0 +1,19 @@
+====== 62140 - DC - Registo do recenseamento militar de Vicente ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Vicente
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Félix de Sá e Margarida Dias, na freguesia
+Naturalidade - Esmeriz
+Morada - Leça do Balio
+Data de nascimento - 1861-09-13
+Emprego - Alfaiate
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62140

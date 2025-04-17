@@ -1,0 +1,51 @@
+====== 20351 - SR - Expediente ======
+
+**Parent**:: 20349
+**RootParent**:: 20342
+**UnitTitle**:: Expediente
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1890-07-01
+**UnitDateFinal**:: 1991-01-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20351
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20351
+
+===== Filhos =====
+  * [[20355.txt|20355 - UI - Copiador de correspondência expedida]]
+  * [[24743.txt|24743 - UI - Copiador de correspondência expedida]]
+  * [[24744.txt|24744 - UI - Copiador do Grupo dos Vinte e Nove; Copiador nº2]]
+  * [[24745.txt|24745 - UI - Copiador de correspondência expedida]]
+  * [[24746.txt|24746 - UI - Correspondência recebida/expedida; 1 Maço com notas de despesa e notas de pagamento, recibos e correspondência.]]
+  * [[24747.txt|24747 - UI - Correspondência recebida/expedida; Recortes de Imprensa]]
+  * [[24748.txt|24748 - UI - Correspondência recebida/expedida à Câmara Municipal de Vila Nova de Famalicão]]
+  * [[24749.txt|24749 - UI - Correspondência recebida/expedida ao Ministério do Interior e ao Ministério da Saúde; Documento modelo de estatuto das associações de bombeiros voluntários]]
+  * [[24750.txt|24750 - UI - Correspondência recebida/expedida ao Governo Civil de Braga]]
+  * [[24751.txt|24751 - UI - Correspondência recebida/expedida; Documentos diversos]]
+  * [[24752.txt|24752 - UI - Correspondência recebida/expedida; Documentos sobre a Defesa Civil do Território]]
+  * [[24753.txt|24753 - UI - Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros; Documentos diversos sobre nova sede.]]
+  * [[24754.txt|24754 - UI - Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros; Documentos diversos]]
+  * [[24755.txt|24755 - UI - Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros/empreiteiro Raimundo da Silva Magalhães; Documentos diversos]]
+  * [[24756.txt|24756 - UI - Correspondência recebida/expedida à Legião Portuguesa]]
+  * [[24757.txt|24757 - UI - Correspondência recebida/expedida]]
+  * [[24758.txt|24758 - UI - Correspondência recebida/expedida]]
+  * [[24759.txt|24759 - UI - Correspondência recebida/expedida a fornecedores de acessórios industriais]]
+  * [[24760.txt|24760 - UI - Correspondência recebida (circulares) do Serviço Nacional de Bombeiros]]
+  * [[24761.txt|24761 - UI - Correspondência recebida/expedida]]
+  * [[24762.txt|24762 - UI - Correspondência recebida/expedida]]
+  * [[24763.txt|24763 - UI - Correspondência recebida/expedida]]
+  * [[24764.txt|24764 - UI - Correspondência recebida/expedida]]
+  * [[24765.txt|24765 - UI - Correspondência recebida/expedida]]
+  * [[24766.txt|24766 - UI - Correspondência recebida/expedida]]
+  * [[24767.txt|24767 - UI - Correspondência recebida/expedida]]
+  * [[24768.txt|24768 - UI - Correspondência recebida/expedida]]
+  * [[24769.txt|24769 - UI - Correspondência recebida/expedida para Imprensa local e nacional]]
+  * [[24770.txt|24770 - UI - Correspondência recebida/expedida]]
+  * [[24771.txt|24771 - UI - Correspondência recebida/expedida]]
+  * [[24772.txt|24772 - UI - Correspondência recebida/expedida a fornecedores de acessórios industriais]]
+  * [[24773.txt|24773 - UI - Correspondência recebida/expedida ao Instituto Nacional de Estatística]]
+  * [[24774.txt|24774 - UI - Correspondência recebida/expedida à Câmara Municipal de Vila Nova de Famalicão, ao Instituto Nacional de Estatística, Governo Civil de Braga, Juntas de Freguesia, Ministério da Administração Interna e Ministério das Finanças e do Plano; Jornal Bombeiros de Portugal]]
+  * [[24775.txt|24775 - UI - Copiador da correspondência expedida]]
+  * [[24776.txt|24776 - UI - Correspondência recebida/expedida]]
+  * [[25824.txt|25824 - UI - Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros; Documentos diversos sobre nova sede.]]

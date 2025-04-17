@@ -1,0 +1,17 @@
+====== 53814 - DC - Esquema Geral da Instalação da Câmara Municipal ======
+
+**Parent**:: 53746
+**RootParent**:: 25851
+**UnitTitle**:: Esquema Geral da Instalação da Câmara Municipal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1956-04-09
+**UnitDateFinal**:: 1956-04-09
+**ScopeContent**:: Cópia de planta. Projeto de eletricidade. Sem Escala. Aprovado em Reunião de Câmara a 9 abril 1956 e assinado. Folhas numeradas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53814
+**LangMaterial**:: Português
+**PhysLoc**:: JG 44 - cx. 2
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53814

@@ -1,0 +1,17 @@
+====== 98852 - DC - Sentença de José Pinho Lobo contra Manuel da Costa, de Mouquim, sobre o Campo de Grandal, na freguesia de Mouquim ======
+
+**Parent**:: 54466
+**RootParent**:: 31258
+**UnitTitle**:: Sentença de José Pinho Lobo contra Manuel da Costa, de Mouquim, sobre o Campo de Grandal, na freguesia de Mouquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1662-09-21
+**UnitDateFinal**:: 1662-09-21
+**ScopeContent**:: Manuscrito com folhas cosidas na "Pasta nº 5 Cazal 27 A". Este documento estava  na “Caixa 5”, que contém CP 13017 a CP 13107. Junto com CP 13010(1) e (2).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13017(3) - cx. 84
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98852

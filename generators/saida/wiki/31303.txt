@@ -1,0 +1,15 @@
+====== 31303 - SC - João Machado Pinheiro Correia de Melo e Maria do Carmo Cardoso de Meneses Barreto e Eulália Estelita de Freitas Rangel de Quadros ======
+
+**Parent**:: 31258
+**RootParent**:: 31258
+**UnitTitle**:: João Machado Pinheiro Correia de Melo e Maria do Carmo Cardoso de Meneses Barreto e Eulália Estelita de Freitas Rangel de Quadros
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1800
+**UnitDateFinal**:: 1924
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31303
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31303
+
+===== Filhos =====
+  * [[31304.txt|31304 - SSC - João Machado Pinheiro Correia de Melo]]
+  * [[31307.txt|31307 - SSC - Eulália Estelita de Freitas Rangel de Quadros]]

@@ -1,0 +1,19 @@
+====== 34382 - DC - Registo do recenseamento militar de Roberto Coelho ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Roberto Coelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Avidos
+Data de nascimento -1852-12-20 
+Filiação - João Luís Coelho e Luísa Rosa
+Profissão - Carpinteiro
+Estado - Solteiro
+Morada - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34382
+**LangMaterial**:: Português
+**PhysLoc**:: 111v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34382

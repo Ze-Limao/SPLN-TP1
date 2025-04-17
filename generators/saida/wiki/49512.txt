@@ -1,0 +1,18 @@
+====== 49512 - DC - Registo do recenseamento eleitoral de José António Machado ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vermoim
+Profissão - Carpinteiro
+Estado - Casado
+Morada - Breia
+Idade - 45
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49512
+**LangMaterial**:: Português
+**PhysLoc**:: 87v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49512

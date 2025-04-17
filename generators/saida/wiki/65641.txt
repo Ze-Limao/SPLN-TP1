@@ -1,0 +1,15 @@
+====== 65641 - DC - Doação de dote e casamento que fazem Brás Anes e sua mulher Inês Anes, a sua filha Camila Brás e ao marido desta Álvaro Luís, lavrador, morador na freguesia de S. Martinho de Avidos. São doados o campo do Talho, o campo do Souto, a leira do Valado e outros bens, situados na freguesia de Requião ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Doação de dote e casamento que fazem Brás Anes e sua mulher Inês Anes, a sua filha Camila Brás e ao marido desta Álvaro Luís, lavrador, morador na freguesia de S. Martinho de Avidos. São doados o campo do Talho, o campo do Souto, a leira do Valado e outros bens, situados na freguesia de Requião
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1576-10-22
+**UnitDateFinal**:: 1576-10-22
+**ScopeContent**:: Manuscrito, instrumento, sem capa, folhas cosidas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 69 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65641

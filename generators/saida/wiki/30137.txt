@@ -1,0 +1,16 @@
+====== 30137 - DC - Carta ======
+
+**Parent**:: 21357
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-12-27
+**UnitDateFinal**:: 1911-12-27
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30137
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1275 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30137

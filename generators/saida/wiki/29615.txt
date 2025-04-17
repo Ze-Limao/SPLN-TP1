@@ -1,0 +1,11 @@
+====== 29615 - SSR - Reunião do Presidente da Câmara com o Tecido Associativo da Freguesia de Landim ======
+
+**Parent**:: 29596
+**RootParent**:: 29618
+**UnitTitle**:: Reunião do Presidente da Câmara com o Tecido Associativo da Freguesia de Landim
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 2017-01-11
+**UnitDateFinal**:: 2017-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29615
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29615

@@ -1,0 +1,17 @@
+====== 77786 - DC - Formulário para a feitura dos prazos ======
+
+**Parent**:: 54469
+**RootParent**:: 31258
+**UnitTitle**:: Formulário para a feitura dos prazos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1700
+**UnitDateFinal**:: 1799
+**ScopeContent**:: Manuscrito com folhas cosidas. Faz parte do documento composto CP 4043 com título "Pindela".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54269
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4043(11) - cx. 30
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77786

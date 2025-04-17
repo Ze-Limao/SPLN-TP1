@@ -1,0 +1,16 @@
+====== 24303 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-12-03
+**UnitDateFinal**:: 1924-12-03
+**ScopeContent**:: António Cabral deseja as melhoras do irmão de JAM. Solicita novamente que JAM acuse a receção do livro “Alexandre Cabral. memórias políticas. Homens e factos do meu tempo” (1923) e pede a opinião sobre o livro “Camilo e Eça de Queirós: cartas inéditas de Camilo: os plágios de Eça” (1924). Agradece os estudos que recebeu e que têm muito interesse. Aguarda o livro sobre os Pinheiros.Refere que não mudou de casa, a rua é que passou a chamar-se Martim Moniz e disponibiliza-se a enviar livros para o Museu Camilo. Carta manuscrita assinada, Lisboa, Rua de Martim Moniz - 45-2º
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24303
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 139 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24303

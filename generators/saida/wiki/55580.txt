@@ -1,0 +1,17 @@
+====== 55580 - DC - De Lisboa ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: De Lisboa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-05-12
+**UnitDateFinal**:: 1910-05-12
+**ScopeContent**:: Recorte de jornal O Porto. Continuação da notícia CP 12576.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55580
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12577 - cx. 75
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55580

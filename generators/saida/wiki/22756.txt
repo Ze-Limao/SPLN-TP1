@@ -1,0 +1,16 @@
+====== 22756 - DC - Plano geral de melhoramento no concelho de Villa Nova de Famalicão, apresentado pelo presidente da Camara Municipal, na sessão de 6 de Maio de 1896. ======
+
+**Parent**:: 22754
+**RootParent**:: 20290
+**UnitTitle**:: Plano geral de melhoramento no concelho de Villa Nova de Famalicão, apresentado pelo presidente da Camara Municipal, na sessão de 6 de Maio de 1896.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-05-16
+**UnitDateFinal**:: 1896-05-16
+**ScopeContent**:: Recorte de Jornal Gazeta do Minho. Famalicão, sabbado 16 maio de 1896, numero 20, anno XIV onde foi publicado o Plano de Melhoramento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22756
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1521 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22756

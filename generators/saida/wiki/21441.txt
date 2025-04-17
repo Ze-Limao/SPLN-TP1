@@ -1,0 +1,16 @@
+====== 21441 - UI - Joaquim Augusto Leite Pereira Ferreira Pinto Basto ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Augusto Leite Pereira Ferreira Pinto Basto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-06-07
+**UnitDateFinal**:: 1913-06-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21441
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1429
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21441
+
+===== Filhos =====
+  * [[30276.txt|30276 - DC - Carta]]

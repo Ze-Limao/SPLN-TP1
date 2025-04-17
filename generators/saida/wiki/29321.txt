@@ -1,0 +1,16 @@
+====== 29321 - DC - Ofício A Regeneração ======
+
+**Parent**:: 29317
+**RootParent**:: 27963
+**UnitTitle**:: Ofício A Regeneração
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-06-11
+**UnitDateFinal**:: 1879-06-11
+**ScopeContent**:: Impresso em Braga na Tipografia Luzitana. Assinatura autógrafa de Domingos J. S. Aguiar. Solicita a regularização do pagamento da assinatura no valor de 1440 réis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29321
+**LangMaterial**:: Português
+**PhysLoc**:: AS 217 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29321

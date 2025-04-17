@@ -1,0 +1,15 @@
+====== 24963 - UI - Árvore de Natal de 1907 - Grupo dos 29 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Árvore de Natal de 1907 - Grupo dos 29
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24963
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 67 - cx. 25
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24963

@@ -1,0 +1,18 @@
+====== 21071 - UI - António Pais de Sande e Castro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Pais de Sande e Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1919-07-21
+**UnitDateFinal**:: 1919-07-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21071
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 251, 252
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21071
+
+===== Filhos =====
+  * [[24815.txt|24815 - DC - Carta]]
+  * [[24816.txt|24816 - DC - Carta]]

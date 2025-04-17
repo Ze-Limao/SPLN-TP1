@@ -1,0 +1,13 @@
+====== 9944 - DC - Registo do pagamento dos ordenados aos professores de instrução primária e respetivos ajudantes ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento dos ordenados aos professores de instrução primária e respetivos ajudantes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-01-31
+**UnitDateFinal**:: 1882-01-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9944
+**LangMaterial**:: Português
+**PhysLoc**:: f. 3
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9944

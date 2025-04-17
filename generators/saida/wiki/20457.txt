@@ -1,0 +1,20 @@
+====== 20457 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Ribeirão
+Filiação - José Gonçalves Ferreira e Ana Ferreira
+Naturalidade - Ribeirão
+Data de nascimento - 1870-01-28
+Emprego - Tamanqueiro
+Estado - Casado
+Residência - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20457
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20457

@@ -1,0 +1,15 @@
+====== 64041 - DC - Recibo de Augusto César Correia ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de Augusto César Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-05-21
+**UnitDateFinal**:: 1868-05-21
+**ScopeContent**:: Manuscrito. Recibo de azeite entregue, de junho 1867 a 20 de maio de 1868.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 360 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64041

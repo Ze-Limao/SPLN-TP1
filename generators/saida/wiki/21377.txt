@@ -1,0 +1,16 @@
+====== 21377 - UI - Domingos Rui Carvalho de Simaens ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Domingos Rui Carvalho de Simaens
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-09-22
+**UnitDateFinal**:: 1913-09-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21377
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1333
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21377
+
+===== Filhos =====
+  * [[30201.txt|30201 - DC - Carta]]

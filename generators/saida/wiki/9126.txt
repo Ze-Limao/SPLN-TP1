@@ -1,0 +1,13 @@
+====== 9126 - DC - Ofício nº 26 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 26
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-06-19
+**UnitDateFinal**:: 1886-06-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9126
+**LangMaterial**:: Português
+**PhysLoc**:: f. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9126

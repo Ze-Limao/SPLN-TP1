@@ -1,0 +1,16 @@
+====== 98787 - SR - Medalhas editadas pela Câmara Municipal ======
+
+**Parent**:: 98779
+**RootParent**:: 7651
+**UnitTitle**:: Medalhas editadas pela Câmara Municipal
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1978
+**UnitDateFinal**:: 1985-06-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98787
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98787
+
+===== Filhos =====
+  * [[98781.txt|98781 - DC - Homenagem Nacional a Bernardino Machado: 5 de Outubro de 1983]]
+  * [[98785.txt|98785 - DC - Homenagem da população de V.N. Famalicão aos seus valorosos Bombeiros Voluntários: 13 de Junho de 1985]]
+  * [[98786.txt|98786 - DC - Padre Benjamim Salgado 1916- 1978: Homenagem ao escritor, jornalista, compositor, professor, orador, pároco, autarca]]

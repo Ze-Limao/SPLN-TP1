@@ -1,0 +1,25 @@
+====== 24751 - UI - Correspondência recebida/expedida; Documentos diversos ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida; Documentos diversos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1937-10-10
+**UnitDateFinal**:: 1963-12-31
+**ScopeContent**:: Os documentos diversos dizem respeito a recibos, recortes de imprensa, notas, panfletos, faturas, apontamentos, Cópias de actas da Assembleia Geral, recibos, documentos inauguração do novo quartel, 1 maço sobre a festa do Orfeão Universitário do Porto, 1 maço sobre a tentativa de Hilário de Cravalho para conseguir um jeep.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24751
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 10 - cx. 2
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24751
+
+===== Filhos =====
+  * [[24787.txt|24787 - DC - Panfleto sobre a construção do novo quartel no Campo Mouzinho de Albuquerque]]
+  * [[25814.txt|25814 - DC - Discurso de Hilário de Carvalho na posse do assistente religioso da corporação, Padre António José Guimarães]]
+  * [[25815.txt|25815 - DC - Festa do Orfeâo Universitário em Vila Nova de Famalicão a favor dos Bombeiros Voluntários de Famalicão em 18 Maio de 1963]]
+  * [[25816.txt|25816 - DC - Regulamento para a concessão das Condecorações]]
+  * [[25817.txt|25817 - DC - Estudo para impressão do Livro de Registo das Condecorações recebidas pela AHBVF]]
+  * [[25818.txt|25818 - DC - Panfleto Vida Por Vida... pedir-vos o vosso auxílio material para a construção do seu NOVO QUARTEL]]
+  * [[25819.txt|25819 - DC - Jornal Estrela do Minho]]

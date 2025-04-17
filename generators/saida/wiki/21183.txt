@@ -1,0 +1,18 @@
+====== 21183 - UI - João da Silveira Pinto da Fonseca ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João da Silveira Pinto da Fonseca
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-03-11
+**UnitDateFinal**:: 1910-03-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21183
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 623, 624
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21183
+
+===== Filhos =====
+  * [[25673.txt|25673 - DC - Carta]]
+  * [[25674.txt|25674 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 29919 - DC - Cabaneiros ======
+
+**Parent**:: 28640
+**RootParent**:: 27963
+**UnitTitle**:: Cabaneiros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Transcrição: «Cabaneiros - pensões -Inq. 468, 1ª col. / “ 466, 2.ª col.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29919
+**LangMaterial**:: Português
+**PhysLoc**:: AS 115 (5) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29919

@@ -1,0 +1,17 @@
+====== 54132 - DC - Documentos sobre Concurso público para a empreitada de instalação de aquecimento central no novo edifício destinado a Paços do Concelho, etc. ======
+
+**Parent**:: 54176
+**RootParent**:: 25851
+**UnitTitle**:: Documentos sobre Concurso público para a empreitada de instalação de aquecimento central no novo edifício destinado a Paços do Concelho, etc.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1958-03-31
+**UnitDateFinal**:: 1958-09-17
+**ScopeContent**:: Contém requerimentos, ofícios, edital.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54132
+**LangMaterial**:: Português
+**PhysLoc**:: JG 173(1) - cx. 16, JG 173(2) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54132

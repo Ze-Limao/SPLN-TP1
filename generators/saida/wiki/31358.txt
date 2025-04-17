@@ -1,0 +1,14 @@
+====== 31358 - SSC - Maria José de Melo Abreu Soares Vasconcelos Barbosa e Palha ======
+
+**Parent**:: 31355
+**RootParent**:: 31258
+**UnitTitle**:: Maria José de Melo Abreu Soares Vasconcelos Barbosa e Palha
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1877
+**UnitDateFinal**:: 1882
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31358
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31358
+
+===== Filhos =====
+  * [[31359.txt|31359 - SR - Correspondência recebida]]

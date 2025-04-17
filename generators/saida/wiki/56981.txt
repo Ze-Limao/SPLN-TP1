@@ -1,0 +1,17 @@
+====== 56981 - DC - Minuta de ofício para 3º Visconde de Pindela de Noel Dorville ======
+
+**Parent**:: 56945
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de ofício para 3º Visconde de Pindela de Noel Dorville
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-05-27
+**UnitDateFinal**:: 1934-05-27
+**ScopeContent**:: Ofício manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56981
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 2745 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56981

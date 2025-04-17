@@ -1,0 +1,16 @@
+====== 29231 - DC - Fatura da Real Companhia Horticolo-Agrícola Portuense ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Fatura da Real Companhia Horticolo-Agrícola Portuense
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-10-18
+**UnitDateFinal**:: 1897-10-18
+**ScopeContent**:: Fatura n. 16086, no valor de 4140 réis, respeitante à compra de 1 Camélia, 1 Buganvília, 1 Clematis, 1 Clianthus e 15 roseiras.  Anotação, a tinta, feita por Alberto Sampaio: «Paga por um vale de correio passado na estação de Santo Tirso passado em 20 de Out.º com mais ps 150 rs. da anémona jap. Alba».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29231
+**LangMaterial**:: Português
+**PhysLoc**:: AS 348 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29231

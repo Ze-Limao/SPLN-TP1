@@ -1,0 +1,19 @@
+====== 63530 - DC - Registo do recenseamento militar de João António ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - José da Costa e Vicência Gomes
+Naturalidade - Arnoso Santa Eulália
+Morada - Arnoso Mosteiro
+Data de nascimento - 1866-04-13
+Emprego - Cesteiro
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63530

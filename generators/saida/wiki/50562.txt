@@ -1,0 +1,18 @@
+====== 50562 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-05-27
+Filiação - Vicente José de Araújo e Maria Josefa da Costa
+Naturalidade - Vilarinho das Cambas
+Profissão - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50562
+**LangMaterial**:: Português
+**PhysLoc**:: 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50562

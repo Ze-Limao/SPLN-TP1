@@ -1,0 +1,22 @@
+====== 54055 - DC - Ofício, informação e nota sobre o revestimento de azulejos na galeria da Câmara ======
+
+**Parent**:: 53751
+**RootParent**:: 25851
+**UnitTitle**:: Ofício, informação e nota sobre o revestimento de azulejos na galeria da Câmara
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1960-04-05
+**UnitDateFinal**:: 1961-04-23
+**ScopeContent**:: Contém JG 161, JG 162, JG 163.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54055
+**LangMaterial**:: Português
+**PhysLoc**:: JG 161, 162, 163 - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54055
+
+===== Filhos =====
+  * [[54052.txt|54052 - DC - Ofício dirigido ao Presidente da Câmara Municipal de Famalicão do Arquiteto Januário Godinho os azulejos na galeria dos Passos Perdidos da Câmara]]
+  * [[54053.txt|54053 - DC - Informação interna da Câmara Municipal sobre o ofício do arquiteto Januário Godinho sobre os azulejos]]
+  * [[54054.txt|54054 - DC - Nota da Câmara Municipal de Vila Nova de Famalicão ao Engenheiro sobre o revestimento de azulejos]]

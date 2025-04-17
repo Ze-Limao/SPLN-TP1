@@ -1,0 +1,14 @@
+====== 80573 - UI - Processo nº 115 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 115
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-09-15
+**UnitDateFinal**:: 1984-01-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 217 - cx. 12
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80573

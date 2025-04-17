@@ -1,0 +1,16 @@
+====== 24744 - UI - Copiador do Grupo dos Vinte e Nove; Copiador nº2 ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Copiador do Grupo dos Vinte e Nove; Copiador nº2
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-06-09
+**UnitDateFinal**:: 1909-03-16
+**ScopeContent**:: O Grupo dos 29 é um agrupamento musical criado na AHBVF de 1908 a 1909.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24744
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 3
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24744

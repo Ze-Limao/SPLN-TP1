@@ -1,0 +1,18 @@
+====== 52755 - DC - Registo do recenseamento militar de Higino Ferreira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Higino Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-02-19
+Filiação - Álvaro Ferreira de Macedo e Rita de Cássia Macedo Cardoso Passos
+Naturalidade - Vale S. Cosme
+Profissão - Lavrador
+Residência - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52755
+**LangMaterial**:: Português
+**PhysLoc**:: 62v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52755

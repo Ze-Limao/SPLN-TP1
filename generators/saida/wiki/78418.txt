@@ -1,0 +1,17 @@
+====== 78418 - DC - Sentença cível de apelação sendo partes Maria Narcisa Salgado e Josefa Joaquina Antunes Salgado ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Sentença cível de apelação sendo partes Maria Narcisa Salgado e Josefa Joaquina Antunes Salgado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1822-05-03
+**UnitDateFinal**:: 1822-05-03
+**ScopeContent**:: Manuscrito com folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5365 - cx. 39
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78418

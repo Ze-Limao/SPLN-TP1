@@ -1,0 +1,18 @@
+====== 8137 - DC - Joaquim Carneiro da Silva Saldanha ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Carneiro da Silva Saldanha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-08-16
+**UnitDateFinal**:: 1891-04-01
+**ScopeContent**:: Escola - Carreira
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Santo Tirso
+Data de posse - 1884-08-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8137
+**LangMaterial**:: Português
+**PhysLoc**:: f. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8137

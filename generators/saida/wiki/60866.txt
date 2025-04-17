@@ -1,0 +1,18 @@
+====== 60866 - SR - A. Sousa Lopes. Foto Cruzarte ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: A. Sousa Lopes. Foto Cruzarte
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1952
+**UnitDateFinal**:: 1952
+**ScopeContent**:: Editor A. Sousa Lopes, da casa Livraria e Papelaria de Augusto Sousa Lopes, da Rua S. António. Fotografia de Foto Cruzarte (Famalicão). Coleção de 12 postais com retratos tirados originalmente pela Foto Adriano (Campo Mouzinho de Albuquerque).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60866
+
+===== Filhos =====
+  * [[60867.txt|60867 - DC - V.N. Famalicão - Feira da louça]]
+  * [[60868.txt|60868 - DC - V.N. de Famalicão - Caixa Geral dos Depósitos e Hotel Garantia]]
+  * [[60869.txt|60869 - DC - V.N. Famalicão - Monumento aos Mortos da G. Guerra]]

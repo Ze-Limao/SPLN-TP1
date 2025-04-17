@@ -1,0 +1,15 @@
+====== 63978 - DC - Carta de compra da Cortinha da Agra, na freguesia de S. Martinho de Avidos, vendem Álvaro Luís e sua mulher Camila Brás, da freguesia de S. Martinho de Avidos a Sebastião Luís e sua mulher Isabel Gonçalves, lavradores, moradores na mesma freguesia ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Carta de compra da Cortinha da Agra, na freguesia de S. Martinho de Avidos, vendem Álvaro Luís e sua mulher Camila Brás, da freguesia de S. Martinho de Avidos a Sebastião Luís e sua mulher Isabel Gonçalves, lavradores, moradores na mesma freguesia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1596-02-26
+**UnitDateFinal**:: 1597-06-12
+**ScopeContent**:: Manuscrito, instrumento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 75 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63978

@@ -1,0 +1,16 @@
+====== 30314 - DC - Carta ======
+
+**Parent**:: 21468
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-01-21
+**UnitDateFinal**:: 1906-01-21
+**ScopeContent**:: Carta manuscrita e assinada, de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30314
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1479 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30314

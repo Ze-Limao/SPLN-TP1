@@ -1,0 +1,19 @@
+====== 34171 - DC - Registo do recenseamento militar de Manuel Carvalho de Araújo ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Carvalho de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Louro
+Data de nascimento - 1852-02-23
+Filiação - João Carvalho de Araújo e Maria Dias Pedrosa
+Profissão - Lavoura
+Estado - Casado
+Morada - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34171
+**LangMaterial**:: Português
+**PhysLoc**:: 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34171

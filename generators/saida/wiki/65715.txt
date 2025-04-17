@@ -1,0 +1,15 @@
+====== 65715 - DC - Doação dos campos da Ribeira e da Ribeirinha e da bouça da Cruz, situados na freguesia de S. Tiago de Antas, feita por Manuel Botelho, abade da Igreja de S. Tiago de Antas, à sua Igreja, por pretender um sacrário, com a lâmpada continuamente acesa, para custear os custos do azeite, que rende por ano 50 alqueires de pão ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Doação dos campos da Ribeira e da Ribeirinha e da bouça da Cruz, situados na freguesia de S. Tiago de Antas, feita por Manuel Botelho, abade da Igreja de S. Tiago de Antas, à sua Igreja, por pretender um sacrário, com a lâmpada continuamente acesa, para custear os custos do azeite, que rende por ano 50 alqueires de pão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1663-11-10
+**UnitDateFinal**:: 1663-11-10
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 122 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65715

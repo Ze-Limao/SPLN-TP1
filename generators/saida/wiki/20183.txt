@@ -1,0 +1,16 @@
+====== 20183 - UI - Relação dos recrutas chamados ao serviço do Exército ======
+
+**Parent**:: 20168
+**RootParent**:: 20048
+**UnitTitle**:: Relação dos recrutas chamados ao serviço do Exército
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893-11-18
+**UnitDateFinal**:: 1893-11-18
+**ScopeContent**:: Não tem termo de abertura. Contém dados nome, filiação, naturalidade, nº da sorte, a quem foram apurados, suplentes ou substituídos, data dos autos do refractário, destino que tiveram, observação.
+Dados de 1896 e 1897.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20183
+**LangMaterial**:: Português
+**PhysLoc**:: AC 85
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20183

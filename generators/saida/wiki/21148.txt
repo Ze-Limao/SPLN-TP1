@@ -1,0 +1,17 @@
+====== 21148 - UI - João Ameal ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Ameal
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-11-18
+**UnitDateFinal**:: 1921-11-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21148
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 526
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21148
+
+===== Filhos =====
+  * [[25573.txt|25573 - DC - Carta]]

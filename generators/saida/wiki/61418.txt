@@ -1,0 +1,16 @@
+====== 61418 - DC - Diploma de Funções Públicas…ao bacharel Daniel José Rodrigues …para o lugar de Ouvidor da Junta de Crédito Público ======
+
+**Parent**:: 60928
+**RootParent**:: 60550
+**UnitTitle**:: Diploma de Funções Públicas…ao bacharel Daniel José Rodrigues …para o lugar de Ouvidor da Junta de Crédito Público
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-01-01
+**UnitDateFinal**:: 1917-01-01
+**ScopeContent**:: Diploma assinado por Bernardino Machado e Afonso Costa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 205 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61418

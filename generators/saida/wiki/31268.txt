@@ -1,0 +1,14 @@
+====== 31268 - SSC - Ana Pinheiro e Manuel Figueira ======
+
+**Parent**:: 31267
+**RootParent**:: 31258
+**UnitTitle**:: Ana Pinheiro e Manuel Figueira
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1574-11-26
+**UnitDateFinal**:: 1590
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31268
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31268
+
+===== Filhos =====
+  * [[54463.txt|54463 - SR - Documentos]]

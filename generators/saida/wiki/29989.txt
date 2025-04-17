@@ -1,0 +1,16 @@
+====== 29989 - DC - Carta ======
+
+**Parent**:: 21443
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-03-25
+**UnitDateFinal**:: 1901-03-25
+**ScopeContent**:: Carta manuscrita assinada, de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29989
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1434 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29989

@@ -1,0 +1,14 @@
+====== 28587 - SR - Sobre O Norte Marítimo ======
+
+**Parent**:: 28265
+**RootParent**:: 27963
+**UnitTitle**:: Sobre O Norte Marítimo
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28587
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28587
+
+===== Filhos =====
+  * [[28588.txt|28588 - DC - Várias referências bibliográficas]]

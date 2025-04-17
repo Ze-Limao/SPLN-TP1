@@ -1,0 +1,18 @@
+====== 21214 - UI - Júlia Leonor Pinheiro Machado de Melo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Júlia Leonor Pinheiro Machado de Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1922-11
+**UnitDateFinal**:: 1922-11
+**ScopeContent**:: Júlia Leonor Pinheiro Machado de Melo nasceu a 24.08.1890 na Embaixada de Portugal Haia (Hague), Holanda. Morreu 01-09-1996, Casa do Carmo, Guimarães. Filha do 2º Visconde de Pindela Vicente Pinheiro Lobo Machado de Melo e Almada e de Maria Amália de Sousa Botelho Mourão e Vasconcelos. Casou 27-11-1922, na Casa de Pindela com Luís Cardoso de Macedo Martins de Menezes (Filho do 1º Conde de Margaride). Sobrinha de JAM.
+Fonte: Geni
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21214
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 833
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21214
+
+===== Filhos =====
+  * [[26039.txt|26039 - DC - Carta]]

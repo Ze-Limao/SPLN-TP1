@@ -1,0 +1,17 @@
+====== 60920 - SR - Diversos ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Diversos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9756
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60920
+
+===== Filhos =====
+  * [[60921.txt|60921 - DC - À Lareira - Quinta de Crujes - Gondifellos]]
+  * [[60922.txt|60922 - DC - Famalicão - A Acácia do Jorge em S. Miguel de Seide]]
+  * [[60923.txt|60923 - DC - Quinta das Crujes - Gondifellos]]

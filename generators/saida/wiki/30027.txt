@@ -1,0 +1,14 @@
+====== 30027 - DC - João de Araújo Costa ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: João de Araújo Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-03-07
+**UnitDateFinal**:: 1958-03-07
+**ScopeContent**:: Regedor efetivo da freguesia de Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30027
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30027

@@ -1,0 +1,17 @@
+====== 56476 - DC - Notas sobre pontuação do jogo Bridge "scoring block" ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Notas sobre pontuação do jogo Bridge "scoring block"
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1922
+**ScopeContent**:: Folhas impressas para honours e tricks em branco.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56476
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6970 - cx. 46
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56476

@@ -1,0 +1,15 @@
+====== 99499 - UI - J. M. Ferreira da Cunha ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: J. M. Ferreira da Cunha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-07-07
+**UnitDateFinal**:: 1915-07-07
+**ScopeContent**:: Divisão do Exército de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99499
+
+===== Filhos =====
+  * [[99500.txt|99500 - DC - Carta]]

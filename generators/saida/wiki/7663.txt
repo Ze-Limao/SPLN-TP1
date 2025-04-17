@@ -1,0 +1,16 @@
+====== 7663 - UI - Livro de Actas da Câmara Municipal Nº 20 ======
+
+**Parent**:: 7654
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Actas da Câmara Municipal Nº 20
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885-07-18
+**UnitDateFinal**:: 1888-03-08
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7663
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 12
+depósito 2, estante 18
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7663

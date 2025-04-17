@@ -1,0 +1,16 @@
+====== 30557 - DC - Registo do recenseamento eleitoral de Manuel Moreira ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Bairro
+Profissão - Moleiro
+Morada - Azenha de Bairro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30557
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30557

@@ -1,0 +1,19 @@
+====== 61198 - UI - António Machado ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: António Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1932-02-03
+**UnitDateFinal**:: 1935-10-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61198
+
+===== Filhos =====
+  * [[61200.txt|61200 - DC - Bilhete-postal]]
+  * [[61256.txt|61256 - DC - Carta]]
+  * [[61257.txt|61257 - DC - Carta]]
+  * [[61258.txt|61258 - DC - Carta]]
+  * [[61259.txt|61259 - DC - Carta]]

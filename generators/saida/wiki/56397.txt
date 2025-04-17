@@ -1,0 +1,17 @@
+====== 56397 - DC - Bula de medicamentos do Laboratoires de l´Hectine ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Bula de medicamentos do Laboratoires de l´Hectine
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886
+**UnitDateFinal**:: 1922
+**ScopeContent**:: Folha impressa com as formas farmacêuticas e doses de Hectine e Hectargyre, produzidas no laboratório em Villeneuve-la-Garenne (Seine), França.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56397
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3404 - cx. 26
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56397

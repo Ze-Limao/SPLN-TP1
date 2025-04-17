@@ -1,0 +1,15 @@
+====== 60772 - DC - Ração feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Fernão da Costa, por renúncia de Miguel Dias de Lemos ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Ração feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Fernão da Costa, por renúncia de Miguel Dias de Lemos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1546-11-27
+**UnitDateFinal**:: 1546-11-27
+**ScopeContent**:: Manuscrito, original, com selo timbrado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 41 - cx. 1
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60772

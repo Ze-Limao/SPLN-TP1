@@ -1,0 +1,15 @@
+====== 8039 - DC - Termo de António da Costa Araújo ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António da Costa Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-08-24
+**UnitDateFinal**:: 1876-08-24
+**ScopeContent**:: Construção de uma mina de água junto a um caminho público
+Local - Lemenhe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8039
+**LangMaterial**:: Português
+**PhysLoc**:: f. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8039

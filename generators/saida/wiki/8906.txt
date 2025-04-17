@@ -1,0 +1,18 @@
+====== 8906 - DC - Termo do exame de Domingos Correia de Sá ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Domingos Correia de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-21
+**UnitDateFinal**:: 1894-07-21
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Alexandre José Correia
+Naturalidade - Abade de Vermoim
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8906
+**LangMaterial**:: Português
+**PhysLoc**:: f. 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8906

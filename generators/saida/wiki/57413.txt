@@ -1,0 +1,17 @@
+====== 57413 - DC - Cópia de ofícios para 3º Visconde de Pindela do Engenheiro Diretor da Exploração da CCFNP e resposta ======
+
+**Parent**:: 57397
+**RootParent**:: 31258
+**UnitTitle**:: Cópia de ofícios para 3º Visconde de Pindela do Engenheiro Diretor da Exploração da CCFNP e resposta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1931-04-23
+**UnitDateFinal**:: 1931-04-23
+**ScopeContent**:: Cópias de ofícios datilografados (2 f.).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57413
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2853 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57413

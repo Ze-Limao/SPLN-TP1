@@ -1,0 +1,17 @@
+====== 56153 - DC - Casa de Pindela.Títulos da compra dos bens do Capitão, no lugar da Costa, freguesia de São Tiago de Mouquim ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Pindela.Títulos da compra dos bens do Capitão, no lugar da Costa, freguesia de São Tiago de Mouquim
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1901
+**ScopeContent**:: Manuscrito. Título original: Casa de Pindella. Títulos da compra dos bens do Capitão, no lugar da Costa da freguesia de S. Thiago de Mouquim. Pasta nº21. Contém documentos CP 13819-1 a CP 13819-5. Este maço estava na “Caixa 21”, que contém CP 13813 a CP 13824.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56153
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13819-1 a 13819-5 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56153

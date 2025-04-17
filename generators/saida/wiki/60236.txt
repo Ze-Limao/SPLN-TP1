@@ -1,0 +1,17 @@
+====== 60236 - DC - Segundo relatório 1937. Grémio dos Exportadores de Madeiras para Minas ======
+
+**Parent**:: 31341
+**RootParent**:: 31258
+**UnitTitle**:: Segundo relatório 1937. Grémio dos Exportadores de Madeiras para Minas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1936
+**UnitDateFinal**:: 1937
+**ScopeContent**:: Capa que contém 40 documentos: Documentos e ofícios datilografados sobre Grémio dos exportadores de Madeiras para minas; Diário do Governo; recorte de imprensa; Relatório sobre os mercados de toros descascados da Inglaterra e da Bélgica.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58180
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9554 - cx. 60
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60236

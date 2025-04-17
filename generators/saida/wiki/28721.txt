@@ -1,0 +1,16 @@
+====== 28721 - DC - Carta ======
+
+**Parent**:: 28719
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-10-17
+**UnitDateFinal**:: 1899-10-17
+**ScopeContent**:: Papel timbrado "Inspecção das Escolas Industriais da Circunscrição do Norte".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28721
+**LangMaterial**:: Português
+**PhysLoc**:: AS 583 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28721

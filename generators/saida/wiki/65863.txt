@@ -1,0 +1,15 @@
+====== 65863 - DC - Cópia do Emprazamento de uma quebrada feita por Antoninho Doniz, abade da Igreja de S. Tiago de Antas, a Gonçalo Anes Salvado, morador na cidade do Porto, e a sua mulher Maria Vasques, situada no lugar de Bairros, freguesia de Esmeriz ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Cópia do Emprazamento de uma quebrada feita por Antoninho Doniz, abade da Igreja de S. Tiago de Antas, a Gonçalo Anes Salvado, morador na cidade do Porto, e a sua mulher Maria Vasques, situada no lugar de Bairros, freguesia de Esmeriz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1600
+**UnitDateFinal**:: 1700
+**ScopeContent**:: Manuscrito, cópia. Transcrição do pergaminho CSTA 3, de 1446-03-29.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 626 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65863

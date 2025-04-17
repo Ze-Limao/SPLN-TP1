@@ -1,0 +1,17 @@
+====== 7667 - UI - Livro de Actas da Câmara Municipal Nº 26 ======
+
+**Parent**:: 7654
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Actas da Câmara Municipal Nº 26
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-12-23
+**UnitDateFinal**:: 1906-09-26
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7667
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 17
+depósito 2, estante 18
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7667

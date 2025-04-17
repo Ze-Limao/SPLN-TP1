@@ -1,0 +1,15 @@
+====== 97827 - UI - Processo nº 40 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 40
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1982-07-01
+**UnitDateFinal**:: 1988-04-19
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 40-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 551 - cx. 32
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97827

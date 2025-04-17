@@ -1,0 +1,16 @@
+====== 60688 - DC - Livro de receita e despesa da Confraria das Almas da freguesia de Cruz São Tiago ======
+
+**Parent**:: 60687
+**RootParent**:: 60547
+**UnitTitle**:: Livro de receita e despesa da Confraria das Almas da freguesia de Cruz São Tiago
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872
+**UnitDateFinal**:: 1898
+**ScopeContent**:: Faltam 8 folhas e capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60688
+**LangMaterial**:: Português
+**PhysLoc**:: CACST - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60688

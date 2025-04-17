@@ -1,0 +1,16 @@
+====== 61373 - DC - Registo de matrícula de Daniel Rodrigues na Universidade de Coimbra ======
+
+**Parent**:: 60926
+**RootParent**:: 60550
+**UnitTitle**:: Registo de matrícula de Daniel Rodrigues na Universidade de Coimbra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1983
+**UnitDateFinal**:: 1983
+**ScopeContent**:: Fotocópia de Comprovativo de matrícula 1º ano de Direito de Daniel José Rodrigues.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 154 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61373

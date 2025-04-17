@@ -1,0 +1,16 @@
+====== 24652 - DC - Carta ======
+
+**Parent**:: 21066
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-07-04
+**UnitDateFinal**:: 1920-07-04
+**ScopeContent**:: António Fernandes da Silva agradece a forma como foi feita a visita  à casa de Seide e envia algumas provas de fotografias  que tirou na casa. Carta manuscrita assinada, Lisboa, Rua da Assunção, 7º 1º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24652
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 153 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24652

@@ -1,0 +1,16 @@
+====== 21274 - UI - Adélio Queirós dos Santos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Adélio Queirós dos Santos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1928-04-21
+**UnitDateFinal**:: 1928-04-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21274
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1120
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21274
+
+===== Filhos =====
+  * [[29711.txt|29711 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 29348 - DC - Aplicar primeiro a fórmula nº1 ======
+
+**Parent**:: 29344
+**RootParent**:: 27963
+**UnitTitle**:: Aplicar primeiro a fórmula nº1
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1909
+**ScopeContent**:: «Aplicar primeiro a fórmula n. 1 durante 3 dias, uma vez de manhã e outra à noite. Se não tiver dado efeito completo aplicar [a] fórmula n. 2 nas mesmas condições que a anterior.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29348
+**LangMaterial**:: Português
+**PhysLoc**:: AS 239 (3) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29348

@@ -1,0 +1,15 @@
+====== 66450 - DC - Certidão de Carlos Augusto da Costa Pereira, cavaleiro nas Ordens de Cristo e de Nossa Senhora da Conceição de Vila Viçosa, Administrador do Concelho de Vila Nova de Famalicão, que Higino Ferreira de Macedo, da freguesia de S. Tiago de Antas, de ter satisfeito doze missas anuais, nos anos 1860, 1861 e 1862, que mandou cumprir como tesoureiro da Confraria de S. Tiago de Antas ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Certidão de Carlos Augusto da Costa Pereira, cavaleiro nas Ordens de Cristo e de Nossa Senhora da Conceição de Vila Viçosa, Administrador do Concelho de Vila Nova de Famalicão, que Higino Ferreira de Macedo, da freguesia de S. Tiago de Antas, de ter satisfeito doze missas anuais, nos anos 1860, 1861 e 1862, que mandou cumprir como tesoureiro da Confraria de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-01-19
+**UnitDateFinal**:: 1873-01-19
+**ScopeContent**:: Manuscrito, original, em papel azul timbrado “XL, 40 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 489 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66450

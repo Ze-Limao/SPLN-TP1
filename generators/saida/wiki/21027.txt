@@ -1,0 +1,16 @@
+====== 21027 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7707
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1948-08-16
+**UnitDateFinal**:: 1948-08-16
+**ScopeContent**:: Empreitada para a construção do bairro para as classes pobres. Primeira fase
+Outorgante - Joaquim Tinoco Osório
+Toponímia - Bairro Cardeal Cerejeira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21027
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 4
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21027

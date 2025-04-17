@@ -1,0 +1,16 @@
+====== 61269 - DC - Nota do advogado Americo de Castro ======
+
+**Parent**:: 61233
+**RootParent**:: 60550
+**UnitTitle**:: Nota do advogado Americo de Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1931-05-25
+**UnitDateFinal**:: 1931-05-25
+**ScopeContent**:: Documento datilografado sobre um arrendamento e venda de uma bouça.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 7 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61269

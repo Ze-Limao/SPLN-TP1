@@ -1,0 +1,13 @@
+====== 9672 - DC - Ofício nº 27 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 27
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-04-30
+**UnitDateFinal**:: 1887-04-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9672
+**LangMaterial**:: Português
+**PhysLoc**:: f. 32
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9672

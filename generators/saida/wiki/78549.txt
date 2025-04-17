@@ -1,0 +1,17 @@
+====== 78549 - DC - Carta de compra da terra de Cima da Fonte de João ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Carta de compra da terra de Cima da Fonte de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1570
+**UnitDateFinal**:: 1570
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5393 - cx. 39
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78549

@@ -1,0 +1,17 @@
+====== 8261 - UI - Ulisses Braga ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Ulisses Braga
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-04
+**UnitDateFinal**:: 1895-11-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8261
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.6
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8261
+
+===== Filhos =====
+  * [[8262.txt|8262 - DC - Carta]]
+  * [[8263.txt|8263 - DC - Carta]]

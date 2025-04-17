@@ -1,0 +1,16 @@
+====== 60944 - DC - Livro para o registo das Conseliaçoens e mais termos necessarios no Juizo de Conseliação da Fregª de S. Miguel das Aves ======
+
+**Parent**:: 60682
+**RootParent**:: 60544
+**UnitTitle**:: Livro para o registo das Conseliaçoens e mais termos necessarios no Juizo de Conseliação da Fregª de S. Miguel das Aves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1834-12-14
+**UnitDateFinal**:: 1836-07-23
+**ScopeContent**:: Manuscrito. Livro encadernado a capas de cartão, lombada de couro. No início: "Servirá este Livro para o registo das Conseliaçoens e mais termos necessarios no Juizo de Conseliação da Fregª de S. Miguel das Aves Comarca de Barcellos, e vai por mim numerado e rubricado com o cognome de que uzo. Freguezia de S. Miguel das Aves 14 de 1834. António José Machado, juiz de Pás."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60676
+**LangMaterial**:: Português
+**PhysLoc**:: JPSMA - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60944

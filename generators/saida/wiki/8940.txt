@@ -1,0 +1,18 @@
+====== 8940 - DC - Termo do exame de Manuel Dias dos Santos ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Dias dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-07-28
+**UnitDateFinal**:: 1897-07-28
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - Bernardino Dias dos Santos
+Naturalidade - Fradelos
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8940
+**LangMaterial**:: Português
+**PhysLoc**:: f. 71
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8940

@@ -1,0 +1,16 @@
+====== 24694 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-07-25
+**UnitDateFinal**:: 1906-07-25
+**ScopeContent**:: António Ferraz agradece o envio do jornal "A Palavra" e comunica que leu com verdadeiro prazer o artigo de resposta a Júlio Dantas. Pergunta se JAM leu o artigo "O declínio da unificação ibérica" publicado na Ilustração Portuguesa (2ª série, nº21, 16 julho 1906) e pede comentários sobre Júlio Dantas e os seus escritos. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24694
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 196 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24694

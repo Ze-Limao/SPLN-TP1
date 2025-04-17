@@ -1,0 +1,17 @@
+====== 46432 - DC - Carta ======
+
+**Parent**:: 46427
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-08-09
+**UnitDateFinal**:: 1902-08-09
+**ScopeContent**:: Carta manuscrita assinada, de Aldeia (Loures). Referência a Pêro Esteves e cardeal D. Jorge. Referência ao volume terceiro dos Brasões. Referência ao Conde de Vila Franca.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46432
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5845 - cx. 41
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46432

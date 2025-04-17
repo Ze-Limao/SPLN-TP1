@@ -1,0 +1,17 @@
+====== 98808 - DC - Prazo de parte da coutada do Monte de Azevedo, na freguesia de Arnoso que fez a Camara de Villa Nova de Famalicão a João Machado de Mello Pinheiro, requerida por Vicente Pinheiro de Mello ======
+
+**Parent**:: 31302
+**RootParent**:: 31258
+**UnitTitle**:: Prazo de parte da coutada do Monte de Azevedo, na freguesia de Arnoso que fez a Camara de Villa Nova de Famalicão a João Machado de Mello Pinheiro, requerida por Vicente Pinheiro de Mello
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-03-10
+**UnitDateFinal**:: 1856-03-10
+**ScopeContent**:: Manuscrito "Pasta nº6 Cazal nº37 P". Este documento estava na “Caixa 6”, que contém CP 12997 a CP 13016.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13002(2) - cx. 83
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98808

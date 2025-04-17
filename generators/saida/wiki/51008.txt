@@ -1,0 +1,18 @@
+====== 51008 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-07-16
+Filiação - José Pereira de Carvalho e Ana Maria
+Naturalidade - Lagoa
+Profissão - 
+Residência - Seide S. Paio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51008
+**LangMaterial**:: Português
+**PhysLoc**:: 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51008

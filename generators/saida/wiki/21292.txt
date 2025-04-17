@@ -1,0 +1,16 @@
+====== 21292 - UI - Ana Augusta Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Ana Augusta Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1883
+**UnitDateFinal**:: 1883
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21292
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1154
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21292
+
+===== Filhos =====
+  * [[29743.txt|29743 - DC - Carta]]

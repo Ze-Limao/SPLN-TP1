@@ -1,0 +1,18 @@
+====== 50830 - UI - Alfredo Augusto Leal ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Alfredo Augusto Leal
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-02-01
+**UnitDateFinal**:: 1920-02-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50830
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50830
+
+===== Filhos =====
+  * [[50831.txt|50831 - DC - Carta]]

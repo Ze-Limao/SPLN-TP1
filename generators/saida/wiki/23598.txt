@@ -1,0 +1,16 @@
+====== 23598 - DC - Registo do recenseamento eleitoral de António José da Costa ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vale S. Martinho
+Profissão - Vendeiro
+Morada - Cruz de Pelo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23598
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 78v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23598

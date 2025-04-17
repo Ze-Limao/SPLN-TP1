@@ -1,0 +1,37 @@
+====== 32505 - UI - Isabel Maria de Sousa Botelho Mourão e Vasconcelos Noronha ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Isabel Maria de Sousa Botelho Mourão e Vasconcelos Noronha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-08-17
+**UnitDateFinal**:: 1922-02-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32505
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32505
+
+===== Filhos =====
+  * [[32506.txt|32506 - DC - Carta]]
+  * [[32507.txt|32507 - DC - Carta]]
+  * [[32508.txt|32508 - DC - Carta]]
+  * [[32509.txt|32509 - DC - Carta]]
+  * [[32510.txt|32510 - DC - Carta]]
+  * [[32511.txt|32511 - DC - Carta]]
+  * [[32512.txt|32512 - DC - Cartão]]
+  * [[32513.txt|32513 - DC - Cartão]]
+  * [[32514.txt|32514 - DC - Carta]]
+  * [[32515.txt|32515 - DC - Cartão]]
+  * [[32516.txt|32516 - DC - Carta]]
+  * [[32517.txt|32517 - DC - Cartão]]
+  * [[32518.txt|32518 - DC - Cartão]]
+  * [[32519.txt|32519 - DC - Cartão]]
+  * [[32520.txt|32520 - DC - Carta]]
+  * [[32521.txt|32521 - DC - Carta]]
+  * [[32522.txt|32522 - DC - Cartão]]
+  * [[32523.txt|32523 - DC - Postal para Viscondes]]
+  * [[53105.txt|53105 - DC - Carta para Viscondes]]
+  * [[53106.txt|53106 - DC - Cartão]]

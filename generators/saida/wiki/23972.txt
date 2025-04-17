@@ -1,0 +1,16 @@
+====== 23972 - DC - Registo do recenseamento eleitoral de Francisco José Dias Guimarães ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco José Dias Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-02-08
+**UnitDateFinal**:: 1856-02-08
+**ScopeContent**:: Freguesia - Antas
+Profissão - Oficial de diligências
+Morada - Feira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23972
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23972

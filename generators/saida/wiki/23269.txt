@@ -1,0 +1,16 @@
+====== 23269 - DC - Registo do recenseamento eleitoral de António dos Santos Cruz ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António dos Santos Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Morada - Santana
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23269
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 66v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23269

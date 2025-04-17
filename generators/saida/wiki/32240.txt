@@ -1,0 +1,31 @@
+====== 32240 - UI - Isabel da Câmara Aranha ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Isabel da Câmara Aranha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1858
+**UnitDateFinal**:: 1902
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32240
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32240
+
+===== Filhos =====
+  * [[32241.txt|32241 - DC - Carta]]
+  * [[32242.txt|32242 - DC - Cartão de visita]]
+  * [[32243.txt|32243 - DC - Carta]]
+  * [[32244.txt|32244 - DC - Cartão]]
+  * [[32245.txt|32245 - DC - Cartão]]
+  * [[32246.txt|32246 - DC - Carta]]
+  * [[32247.txt|32247 - DC - Carta]]
+  * [[32248.txt|32248 - DC - Carta]]
+  * [[32249.txt|32249 - DC - Cartão de visita]]
+  * [[32250.txt|32250 - DC - Carta]]
+  * [[32251.txt|32251 - DC - Carta]]
+  * [[32252.txt|32252 - DC - Carta]]
+  * [[32253.txt|32253 - DC - Carta]]
+  * [[32254.txt|32254 - DC - Cartão de visita]]

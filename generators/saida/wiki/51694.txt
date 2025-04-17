@@ -1,0 +1,18 @@
+====== 51694 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-02-19
+Filiação - Manuel Ferreira e Felicidade Rosa
+Naturalidade - Vermoim
+Profissão - Lavrador-caseiro
+Residência - Vermoim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51694
+**LangMaterial**:: Português
+**PhysLoc**:: 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51694

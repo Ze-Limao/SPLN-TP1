@@ -1,0 +1,16 @@
+====== 24693 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-06-27
+**UnitDateFinal**:: 1906-06-27
+**ScopeContent**:: António Ferraz informa sobre os termos de protocolo para a posição dos membros das câmaras municipais na procissão do Corpus Christi, apresentando argumentos e documentos. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24693
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 195 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24693

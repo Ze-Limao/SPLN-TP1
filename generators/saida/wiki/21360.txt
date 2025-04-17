@@ -1,0 +1,16 @@
+====== 21360 - UI - Domingos Maria de Sousa e Holstein Beck ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Domingos Maria de Sousa e Holstein Beck
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-05-23
+**UnitDateFinal**:: 1921-05-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21360
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1293
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21360
+
+===== Filhos =====
+  * [[30155.txt|30155 - DC - Carta]]

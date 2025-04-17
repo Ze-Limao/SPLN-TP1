@@ -1,0 +1,15 @@
+====== 66474 - DC - Procuração de António Joaquim Xavier de Faria, da freguesia de S. Tiago de Antas, a seu pai Francisco António Xavier e Faria, para apadrinhar o filho de Rita da Silva e António de Araújo ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Procuração de António Joaquim Xavier de Faria, da freguesia de S. Tiago de Antas, a seu pai Francisco António Xavier e Faria, para apadrinhar o filho de Rita da Silva e António de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-12-24
+**UnitDateFinal**:: 1876-12-24
+**ScopeContent**:: Impresso e manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 503 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66474

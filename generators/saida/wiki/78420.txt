@@ -1,0 +1,17 @@
+====== 78420 - DC - Escritura de distrate do cónego Manuel Pinheiro Figueira do casal de Pousada, em Jesufrei por 200 mil reis a Pantaleão de Castro, de Vila do Conde ======
+
+**Parent**:: 54464
+**RootParent**:: 31258
+**UnitTitle**:: Escritura de distrate do cónego Manuel Pinheiro Figueira do casal de Pousada, em Jesufrei por 200 mil reis a Pantaleão de Castro, de Vila do Conde
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1611
+**UnitDateFinal**:: 1611
+**ScopeContent**:: Manuscrito com folhas cosidas. Manuel Pinheiro Figueira  foi o 3º Morgado de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54256
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5368 - cx. 39
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78420

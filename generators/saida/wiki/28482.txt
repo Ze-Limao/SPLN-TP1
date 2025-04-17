@@ -1,0 +1,20 @@
+====== 28482 - DC - Notas de investigação sobre Aveiro ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas de investigação sobre Aveiro
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28482
+**LangMaterial**:: Português
+**PhysLoc**:: AS 76 (1) a 76 (4)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28482
+
+===== Filhos =====
+  * [[28483.txt|28483 - DC - Aveiro]]
+  * [[28484.txt|28484 - DC - Em 1550 as embarcações d’Aveiro]]
+  * [[28485.txt|28485 - DC - A Senhora das Areas]]
+  * [[28486.txt|28486 - DC - Os moradores d’ Aveiro]]

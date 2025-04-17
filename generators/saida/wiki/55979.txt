@@ -1,0 +1,17 @@
+====== 55979 - DC - Nota sobre as fronteiras do sul de Angola e caminho-de-ferro de Lourenço Marques ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Nota sobre as fronteiras do sul de Angola e caminho-de-ferro de Lourenço Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1895
+**ScopeContent**:: Nota dirigida ao Rei D. Carlos redigidas por Vicente Pinheiro Lobo Machado de Melo e Almada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55979
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14591 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55979

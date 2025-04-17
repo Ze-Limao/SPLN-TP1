@@ -1,0 +1,17 @@
+====== 54217 - DC - Programa de concurso: Concurso público para o fornecimento de assentamento de persianas metálicas nos novos edifícios Câmara Municipal e Tribunal Judicial. Câmara Municipal de Vila Nova de Famalicão ======
+
+**Parent**:: 54216
+**RootParent**:: 25851
+**UnitTitle**:: Programa de concurso: Concurso público para o fornecimento de assentamento de persianas metálicas nos novos edifícios Câmara Municipal e Tribunal Judicial. Câmara Municipal de Vila Nova de Famalicão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-03
+**UnitDateFinal**:: 1961-03
+**ScopeContent**:: Contém 18 documentos; Programa de concurso manuscrito e impresso; Várias cópias do Programa de concurso e do Caderno de encargos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54217
+**LangMaterial**:: Português
+**PhysLoc**:: JG 180(7) - cx. 15
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54217

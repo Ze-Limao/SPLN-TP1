@@ -1,0 +1,16 @@
+====== 8380 - UI - Augusto Moreira Pinto ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Augusto Moreira Pinto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-07-17
+**UnitDateFinal**:: 1895-07-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8380
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.36
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8380
+
+===== Filhos =====
+  * [[8381.txt|8381 - DC - Carta]]

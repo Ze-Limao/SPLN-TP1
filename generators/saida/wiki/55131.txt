@@ -1,0 +1,26 @@
+====== 55131 - UI - António Maria Pereira Carrilho ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: António Maria Pereira Carrilho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902
+**UnitDateFinal**:: 1902-11-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55131
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55131
+
+===== Filhos =====
+  * [[55132.txt|55132 - DC - Cartas do Conselheiro Pereira Carrilho]]
+  * [[55594.txt|55594 - DC - Carta]]
+  * [[55595.txt|55595 - DC - Carta]]
+  * [[55596.txt|55596 - DC - Carta]]
+  * [[55597.txt|55597 - DC - Carta]]
+  * [[55598.txt|55598 - DC - Carta]]
+  * [[55599.txt|55599 - DC - Carta]]
+  * [[55600.txt|55600 - DC - Carta]]
+  * [[55601.txt|55601 - DC - Telegrama]]
+  * [[55602.txt|55602 - DC - Telegrama]]
+  * [[55603.txt|55603 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55604.txt|55604 - DC - Minutas de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55606.txt|55606 - DC - V Appendice. Correspondencia particular relativa à questão dos Credores Allemães]]

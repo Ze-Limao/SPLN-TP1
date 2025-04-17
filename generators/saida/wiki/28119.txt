@@ -1,0 +1,16 @@
+====== 28119 - DC - 1887 - Densidade dos mostos das castas mais comuns da vinha, no dia da vindima em 14 de Setembro ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1887 - Densidade dos mostos das castas mais comuns da vinha, no dia da vindima em 14 de Setembro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-09-14
+**UnitDateFinal**:: 1887-09-14
+**ScopeContent**:: Valores de densidade do mosto das “castas mais comuns da vinha». Indicação das castas vindimadas, valores de densidades dos mostos registadas pelo gleucómetro Dr. J. Guyot (Gleuc. J. G.) e pelo gleuco-oenometro (Gl. oen.) e da temperatura ao ar livre e à sombra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28119
+**LangMaterial**:: Português
+**PhysLoc**:: AS 392 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28119

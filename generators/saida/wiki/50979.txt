@@ -1,0 +1,18 @@
+====== 50979 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-04-05
+Filiação - José Pereira Sampaio e Maria Pimenta
+Naturalidade - Seide S. Miguel
+Profissão - Lavrador
+Residência - Seide S. Miguel
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50979
+**LangMaterial**:: Português
+**PhysLoc**:: 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50979

@@ -1,0 +1,19 @@
+====== 34351 - DC - Registo do recenseamento militar de António da Silva ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Brufe
+Data de nascimento - 1852-03-18
+Filiação - Luís da Silva e Quitéria Ribeiro
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Gemunde
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34351
+**LangMaterial**:: Português
+**PhysLoc**:: 104v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34351

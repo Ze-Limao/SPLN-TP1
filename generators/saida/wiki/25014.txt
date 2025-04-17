@@ -1,0 +1,16 @@
+====== 25014 - UI - Pela verdade: protesto e desafronta ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Pela verdade: protesto e desafronta
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Livreto impresso em Famalicão na Typographia Minerva.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25014
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 117 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25014

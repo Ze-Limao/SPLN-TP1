@@ -1,0 +1,16 @@
+====== 28597 - DC - Cópia paleográfica do Foral de D. Dinis de 1284 ======
+
+**Parent**:: 28595
+**RootParent**:: 27963
+**UnitTitle**:: Cópia paleográfica do Foral de D. Dinis de 1284
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Documento da Chancelaria de D. Dinis, liv. I, fl. 108 v.º - Doações. Alberto Sampaio transcreveu numa nota do estudo As Povoas Marítimas do Norte de Portugal a parte do foral que assinalou com um traço vertical feito a lápis na cópia manuscrita (fl. 6v.º). Na nota Sampaio adverte para o facto de o extrato não ter sido objeto de revisão «à face do original». Ver nota 4, p. 312, Estudos Históricos e Económicos, ed. 1923.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28597
+**LangMaterial**:: Português
+**PhysLoc**:: AS 106 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28597

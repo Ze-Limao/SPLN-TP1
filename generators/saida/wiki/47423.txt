@@ -1,0 +1,18 @@
+====== 47423 - DC - Registo do recenseamento eleitoral de José Fernandes ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Fernandes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Arnoso Santa Eulália
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Cruzes
+Idade - 38
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47423
+**LangMaterial**:: Português
+**PhysLoc**:: 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47423

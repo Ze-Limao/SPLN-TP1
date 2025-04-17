@@ -1,0 +1,19 @@
+====== 9239 - DC - Registo do recenseamento militar de Domingos ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José de Oliveira Martins e Ana Martins
+Naturalidade - Arnoso Santa Maria
+Data de nascimento - 1877-02-18
+Profissão - Criado de servir
+Estado civil - 
+Residência - Nine
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9239
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9239

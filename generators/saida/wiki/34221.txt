@@ -1,0 +1,20 @@
+====== 34221 - DC - Registo do recenseamento militar de Manuel Nunes Rebelo ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Nunes Rebelo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Landim
+Data de nascimento - 1852-08-04
+Filiação - Semeão Nunes Rebelo e Genoveva Rosa
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34221
+**LangMaterial**:: Português
+**PhysLoc**:: 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34221

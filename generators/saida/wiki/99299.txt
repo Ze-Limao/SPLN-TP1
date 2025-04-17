@@ -1,0 +1,15 @@
+====== 99299 - UI - Adolph Wandschneider ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Adolph Wandschneider
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-02-07
+**UnitDateFinal**:: 1916-02-07
+**ScopeContent**:: Fornecedores de matérias primas, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99299
+
+===== Filhos =====
+  * [[99300.txt|99300 - DC - Ofício]]

@@ -1,0 +1,14 @@
+====== 30066 - DC - Manuel Fernando da Silva Ferreira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Fernando da Silva Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1968-02-29
+**UnitDateFinal**:: 1968-02-29
+**ScopeContent**:: Regedor efetivo da freguesia de Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30066
+**LangMaterial**:: Português
+**PhysLoc**:: f. 34
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30066

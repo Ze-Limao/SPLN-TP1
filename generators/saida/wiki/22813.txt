@@ -1,0 +1,16 @@
+====== 22813 - DC - Registo do recenseamento eleitoral de José António de Araújo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Mouquim
+Profissão - Lavrador
+Morada - Gandra
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22813
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22813

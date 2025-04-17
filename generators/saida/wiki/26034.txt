@@ -1,0 +1,16 @@
+====== 26034 - DC - Carta ======
+
+**Parent**:: 21180
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-07-04
+**UnitDateFinal**:: 1921-07-04
+**ScopeContent**:: Júlio Pessanha reafirma o agradecimento do livro Camilo Homenageado. Carta manuscrita assinada, da Travessa 5 outubro, Ermesinde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26034
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 828 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26034

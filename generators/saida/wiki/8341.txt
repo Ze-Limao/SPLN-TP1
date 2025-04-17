@@ -1,0 +1,16 @@
+====== 8341 - UI - Silvério Joaquim da Silva Guimarães ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Silvério Joaquim da Silva Guimarães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-12-10
+**UnitDateFinal**:: 1895-12-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8341
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.25
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8341
+
+===== Filhos =====
+  * [[8342.txt|8342 - DC - Carta]]

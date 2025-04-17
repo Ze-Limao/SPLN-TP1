@@ -1,0 +1,18 @@
+====== 8592 - DC - Termo do exame de Laura Amélia Ferreira da Costa ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Laura Amélia Ferreira da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-07-24
+**UnitDateFinal**:: 1888-07-24
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Domingos Rodrigues Pereira da Costa
+Naturalidade - Vila Nova de Famalicão
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8592
+**LangMaterial**:: Português
+**PhysLoc**:: f. 62
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8592

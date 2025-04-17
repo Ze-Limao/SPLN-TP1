@@ -1,0 +1,30 @@
+====== 31319 - SR - Correspondência recebida ======
+
+**Parent**:: 31318
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1879-12-19
+**UnitDateFinal**:: 1884-06-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31319
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31319
+
+===== Filhos =====
+  * [[33731.txt|33731 - UI - António José Ferreira Caldas]]
+  * [[44922.txt|44922 - UI - António de Castilho]]
+  * [[45053.txt|45053 - UI - A. Cohen]]
+  * [[45845.txt|45845 - UI - José Maria da Silva Ferrão de Carvalho Martens]]
+  * [[54376.txt|54376 - UI - Richard Greeff]]
+  * [[54378.txt|54378 - UI - João Monteiro Pinto da Fonseca Vaz]]
+  * [[54381.txt|54381 - UI - Remetente desconhecido]]
+  * [[54384.txt|54384 - UI - Ligório Nicolau Cabral]]
+  * [[54386.txt|54386 - UI - Banco Nacional Ultramarino]]
+  * [[54392.txt|54392 - UI - António Vasco de Melo da Silva César e Meneses]]
+  * [[54412.txt|54412 - UI - Júlio de Vilhena]]
+  * [[54415.txt|54415 - UI - Vários]]
+  * [[54864.txt|54864 - UI - António do Nascimento Pereira de Sampaio]]
+  * [[54867.txt|54867 - UI - Baron Grivel]]
+  * [[54870.txt|54870 - UI - Commodore Richards]]
+  * [[54872.txt|54872 - UI - Paul Bouquet]]
+  * [[79229.txt|79229 - UI - Francisco Costa]]

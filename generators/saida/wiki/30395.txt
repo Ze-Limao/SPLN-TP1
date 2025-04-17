@@ -1,0 +1,16 @@
+====== 30395 - DC - Registo do recenseamento eleitoral de Manuel António Maia ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel António Maia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Antas
+Profissão - Carpinteiro
+Morada - Feira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30395
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30395

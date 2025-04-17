@@ -1,0 +1,14 @@
+====== 31263 - SSC - Simão Pinheiro e Leonor Almeida ======
+
+**Parent**:: 31262
+**RootParent**:: 31258
+**UnitTitle**:: Simão Pinheiro e Leonor Almeida
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1538-03
+**UnitDateFinal**:: 1792-02-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31263
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31263
+
+===== Filhos =====
+  * [[54461.txt|54461 - SR - Documentos]]

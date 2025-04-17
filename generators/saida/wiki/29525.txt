@@ -1,0 +1,16 @@
+====== 29525 - DC - Bilhete-postal ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-04-01
+**UnitDateFinal**:: 1885-04-01
+**ScopeContent**:: Bilhete-postal expedido de Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29525
+**LangMaterial**:: Português
+**PhysLoc**:: AS 766 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29525

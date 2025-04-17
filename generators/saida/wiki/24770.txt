@@ -1,0 +1,16 @@
+====== 24770 - UI - Correspondência recebida/expedida ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-12-31
+**UnitDateFinal**:: 1975-12-31
+**ScopeContent**:: A correspondência diz respeito a agradecimentos de donativos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24770
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 29 - cx. 7
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24770

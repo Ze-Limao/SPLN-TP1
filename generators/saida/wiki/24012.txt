@@ -1,0 +1,16 @@
+====== 24012 - DC - Carta ======
+
+**Parent**:: 21058
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-01-14
+**UnitDateFinal**:: 1889-01-14
+**ScopeContent**:: A. A. da Rocha Páris informa da receção do valor das vendas e apresenta o registo das mesmas realizadas em 1888. Carta manuscrita assinada. No verso da carta notas de JAM sobre as vendas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24012
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 96 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24012

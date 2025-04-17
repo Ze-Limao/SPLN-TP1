@@ -1,0 +1,16 @@
+====== 25847 - DC - Bombeiros Voluntários de Famalicão ======
+
+**Parent**:: 25084
+**RootParent**:: 20342
+**UnitTitle**:: Bombeiros Voluntários de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-10-24
+**UnitDateFinal**:: 1943-10-24
+**ScopeContent**:: Cópia datilografada do artigo que Vasco de Carvalho escreveu sobre a história dos Bombeiros Voluntários de Famalicão, desde a criação dos bombeiros municipais em 1878 até às bodas de ouro da AHBVF.  Vários apontamentos manuscritos e datilografados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25847
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 182 - cx. 46
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25847

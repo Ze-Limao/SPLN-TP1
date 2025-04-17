@@ -1,0 +1,36 @@
+====== 25291 - SSR - Recenseamento Militar aos 20 Anos ======
+
+**Parent**:: 8968
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Militar aos 20 Anos
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1912-03-12
+**UnitDateFinal**:: 1936-03-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25291
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25291
+
+===== Filhos =====
+  * [[25292.txt|25292 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25293.txt|25293 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25294.txt|25294 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25295.txt|25295 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25296.txt|25296 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25297.txt|25297 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25298.txt|25298 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25299.txt|25299 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25300.txt|25300 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25301.txt|25301 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25302.txt|25302 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25303.txt|25303 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25304.txt|25304 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25305.txt|25305 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25306.txt|25306 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25307.txt|25307 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25308.txt|25308 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25309.txt|25309 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25310.txt|25310 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25311.txt|25311 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25312.txt|25312 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25313.txt|25313 - UI - Recenseamento Militar aos 17 Anos]]
+  * [[25314.txt|25314 - UI - Recenseamento Militar aos 17 Anos]]

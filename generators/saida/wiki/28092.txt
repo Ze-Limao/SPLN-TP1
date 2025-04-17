@@ -1,0 +1,16 @@
+====== 28092 - DC - Congresso Viticola que se hade realizar no Palacio de Crystal Portuense em Maio de 1880: Regulamento do Congresso ======
+
+**Parent**:: 28087
+**RootParent**:: 27963
+**UnitTitle**:: Congresso Viticola que se hade realizar no Palacio de Crystal Portuense em Maio de 1880: Regulamento do Congresso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-02-28
+**UnitDateFinal**:: 1880-02-28
+**ScopeContent**:: Impresso com o regulamento do Congresso Vitícola.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28092
+**LangMaterial**:: Português
+**PhysLoc**:: AS 499 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28092

@@ -1,0 +1,16 @@
+====== 29376 - DC - Transcrição de sonetos de Luís de Camões ======
+
+**Parent**:: 27975
+**RootParent**:: 27963
+**UnitTitle**:: Transcrição de sonetos de Luís de Camões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863
+**UnitDateFinal**:: 1863
+**ScopeContent**:: Sonetos de Luís de Camões transcritos por Antero de Quental: “Conversação doméstica afeiçoa” e  “Quem fora acompanhando juntamente”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29376
+**LangMaterial**:: Português
+**PhysLoc**:: AS 283 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29376

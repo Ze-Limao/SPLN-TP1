@@ -1,0 +1,14 @@
+====== 30047 - DC - Comissão Venatória ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Comissão Venatória
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-01-18
+**UnitDateFinal**:: 1961-01-18
+**ScopeContent**:: Auto de posse para o triénio de 1961 a 1963
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30047
+**LangMaterial**:: Português
+**PhysLoc**:: f. 23
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30047

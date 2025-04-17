@@ -1,0 +1,34 @@
+====== 21077 - UI - Augusto de Castro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Augusto de Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-03-16
+**UnitDateFinal**:: 1925-06-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21077
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 271 a 288
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21077
+
+===== Filhos =====
+  * [[24838.txt|24838 - DC - Carta]]
+  * [[24839.txt|24839 - DC - Carta]]
+  * [[24840.txt|24840 - DC - Carta]]
+  * [[24841.txt|24841 - DC - Carta]]
+  * [[24842.txt|24842 - DC - Carta]]
+  * [[24843.txt|24843 - DC - Carta]]
+  * [[24844.txt|24844 - DC - Carta]]
+  * [[24845.txt|24845 - DC - Carta]]
+  * [[24846.txt|24846 - DC - Carta]]
+  * [[24847.txt|24847 - DC - Carta]]
+  * [[24848.txt|24848 - DC - Carta]]
+  * [[24849.txt|24849 - DC - Carta]]
+  * [[24850.txt|24850 - DC - Carta]]
+  * [[24851.txt|24851 - DC - Cartão]]
+  * [[24852.txt|24852 - DC - Carta]]
+  * [[24853.txt|24853 - DC - Carta]]
+  * [[24854.txt|24854 - DC - Carta]]
+  * [[24855.txt|24855 - DC - Carta]]

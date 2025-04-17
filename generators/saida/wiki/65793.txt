@@ -1,0 +1,15 @@
+====== 65793 - DC - Sentença cível de emprazamento do casal da Granja, situado na freguesia de S. Tiago de Antas, feita por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a António da Silva do Couto e a sua mulher Joana Maria do Couto ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal da Granja, situado na freguesia de S. Tiago de Antas, feita por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a António da Silva do Couto e a sua mulher Joana Maria do Couto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1782-06-26
+**UnitDateFinal**:: 1782-06-26
+**ScopeContent**:: Manuscrito, original. Folhas cosidas com selos fiscais colados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 199 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65793

@@ -1,0 +1,19 @@
+====== 62475 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - João Fernandes da Silva e Pulquéria Rosa, ignoram-se
+Naturalidade - Lagoa
+Morada - Seide S. Paio
+Data de nascimento - 1856-08-16
+Emprego - Criado de servir
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62475

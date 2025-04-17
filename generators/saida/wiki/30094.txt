@@ -1,0 +1,14 @@
+====== 30094 - DC - António Mendes da Silva ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: António Mendes da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1973-12-05
+**UnitDateFinal**:: 1973-12-05
+**ScopeContent**:: Regedor efetivo da freguesia de Telhado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30094
+**LangMaterial**:: Português
+**PhysLoc**:: f. 48
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30094

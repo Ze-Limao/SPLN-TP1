@@ -1,0 +1,16 @@
+====== 24862 - DC - Carta ======
+
+**Parent**:: 21078
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-10-18
+**UnitDateFinal**:: 1922-10-18
+**ScopeContent**:: Augusto Gama dá indicação sobre algumas obras que acompanhou em Seide e informa que não soube da inauguração do museu em Seide. Carta manuscrita assinada, do Rosal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24862
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 294 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24862

@@ -1,0 +1,17 @@
+====== 9790 - DC - Famalicão - Mosteiro de Arnozo - Ultima oração ======
+
+**Parent**:: 9776
+**RootParent**:: 60698
+**UnitTitle**:: Famalicão - Mosteiro de Arnozo - Ultima oração
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1912
+**ScopeContent**:: Cliché de Illydio Gama. Lateral do mosteiro românico com uma mulher a rezar. Reprodução fotográfica.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9790
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 44 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9790

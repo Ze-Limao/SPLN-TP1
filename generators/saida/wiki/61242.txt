@@ -1,0 +1,16 @@
+====== 61242 - DC - Daniel Rodrigues ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: Daniel Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1930
+**UnitDateFinal**:: 1951
+**ScopeContent**:: Desenho do rosto de Daniel Rodrigues feito pelo filho Rui. Sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 145 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61242

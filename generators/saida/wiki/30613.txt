@@ -1,0 +1,16 @@
+====== 30613 - DC - Registo do recenseamento eleitoral de Luís António Pereira de Almeida ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Luís António Pereira de Almeida
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Cavalões
+Profissão - Eclesiástico
+Morada - Pedrafita
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30613
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30613

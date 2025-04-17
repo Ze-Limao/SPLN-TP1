@@ -1,0 +1,16 @@
+====== 23717 - DC - Registo do recenseamento eleitoral de António José Fernandes ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Fernandes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Guarda do tabaco
+Morada - Praça da Mota
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23717
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 83v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23717

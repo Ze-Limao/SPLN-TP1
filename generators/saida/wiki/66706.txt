@@ -1,0 +1,17 @@
+====== 66706 - DC - Minuta de carta de Visconde de Pindela ======
+
+**Parent**:: 66680
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta de Visconde de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-07-07
+**UnitDateFinal**:: 1905-07-07
+**ScopeContent**:: Minuta de carta manuscrita, sobre o pedido de empréstimo de 300 marcos para Guilhermina Suggia, como honorários para o concerto a 10 março na Legação em Berlim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD66682
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 1726 - cx. 12
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66706

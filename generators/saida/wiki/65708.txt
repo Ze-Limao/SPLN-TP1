@@ -1,0 +1,15 @@
+====== 65708 - UI - Tombo e apegação dos casais da Ração de Sebastião Gonçalves, raçoeiro da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Tombo e apegação dos casais da Ração de Sebastião Gonçalves, raçoeiro da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1552-07-29
+**UnitDateFinal**:: 1552-07-29
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas, papel com timbre de selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 52 - cx. 1
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65708

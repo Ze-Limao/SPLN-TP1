@@ -1,0 +1,16 @@
+====== 23373 - DC - Registo do recenseamento eleitoral de Francisco Vicente Ferreira de Sousa ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Vicente Ferreira de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Proprietário
+Morada - Arieiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23373
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 69v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23373

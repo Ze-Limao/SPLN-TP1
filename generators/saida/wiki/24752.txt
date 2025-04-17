@@ -1,0 +1,16 @@
+====== 24752 - UI - Correspondência recebida/expedida; Documentos sobre a Defesa Civil do Território ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida; Documentos sobre a Defesa Civil do Território
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1954-03-24
+**UnitDateFinal**:: 1965-04-12
+**ScopeContent**:: Os documentos sobre a Defesa Civil do Território dizem respeito a provas escritas de Defesa Civil do Território; ordens de serviço; documento Exercício Famalicão e a sua organização dentro da Defesa Civil do Território, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24752
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 11 - cx. 3
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24752

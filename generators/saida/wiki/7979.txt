@@ -1,0 +1,14 @@
+====== 7979 - DC - Termo de Manuel Rodrigues de Freitas, António da Costa e Francisco José Gomes ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel Rodrigues de Freitas, António da Costa e Francisco José Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-01-15
+**UnitDateFinal**:: 1860-01-15
+**ScopeContent**:: Fiança pela arrematação de alguns impostos municipais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7979
+**LangMaterial**:: Português
+**PhysLoc**:: f. 11
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7979

@@ -1,0 +1,14 @@
+====== 97740 - UI - Processo nº 399 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 399
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-06-15
+**UnitDateFinal**:: 1976-07-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 480 - cx. 29
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97740

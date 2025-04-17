@@ -1,0 +1,17 @@
+====== 21396 - UI - Francisco Gonçalves Cortez ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco Gonçalves Cortez
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-02-15
+**UnitDateFinal**:: 1909-05-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21396
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1358, 1359
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21396
+
+===== Filhos =====
+  * [[30225.txt|30225 - DC - Carta]]
+  * [[30226.txt|30226 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 7697 - SC - Património ======
+
+**Parent**:: 7651
+**RootParent**:: 7651
+**UnitTitle**:: Património
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1685-09-13
+**UnitDateFinal**:: 1830-05-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7697
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7697
+
+===== Filhos =====
+  * [[7764.txt|7764 - SSC - Inventário dos Bens]]
+  * [[7765.txt|7765 - SSC - Administração dos Bens]]

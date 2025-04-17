@@ -1,0 +1,16 @@
+====== 28152 - DC - Vindima de 1901 Densidade dos mostos ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vindima de 1901 Densidade dos mostos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-09-19
+**UnitDateFinal**:: 1901-10-03
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Informações meteorológicas do mês de Setembro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28152
+**LangMaterial**:: Português
+**PhysLoc**:: AS 425 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28152

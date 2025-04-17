@@ -1,0 +1,16 @@
+====== 30399 - DC - Registo do recenseamento eleitoral de Silvério da Costa Regadas ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Silvério da Costa Regadas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Antas
+Profissão - Lavrador
+Morada - Ponte
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30399
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30399

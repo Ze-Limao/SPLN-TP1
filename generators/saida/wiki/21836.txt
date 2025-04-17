@@ -1,0 +1,16 @@
+====== 21836 - DC - Registo do recenseamento eleitoral de José Ferreira Veiga ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Ferreira Veiga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Bente
+Profissão - Lavrador
+Morada - Cima
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21836
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21836

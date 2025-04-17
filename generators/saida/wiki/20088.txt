@@ -1,0 +1,20 @@
+====== 20088 - SR - Registo de correspondência expedida pela 1ª repartição ======
+
+**Parent**:: 20060
+**RootParent**:: 20048
+**UnitTitle**:: Registo de correspondência expedida pela 1ª repartição
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1896-12-31
+**UnitDateFinal**:: 1920-03-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20088
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20088
+
+===== Filhos =====
+  * [[20089.txt|20089 - UI - Registo da correspondência expedida pela 1ª repartição]]
+  * [[20090.txt|20090 - UI - Registo da correspondência expedida pela 1ª repartição]]
+  * [[20091.txt|20091 - UI - Registo da correspondência expedida pela 1ª repartição]]
+  * [[20092.txt|20092 - UI - Registo da correspondência expedida pela 1ª repartição]]
+  * [[20093.txt|20093 - UI - Registo da correspondência expedida pela 1ª repartição]]
+  * [[20094.txt|20094 - UI - Registo de correspondência expedida pela 1ª repartição]]

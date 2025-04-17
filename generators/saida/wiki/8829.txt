@@ -1,0 +1,18 @@
+====== 8829 - DC - Termo do exame de António Domingues Veloso ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António Domingues Veloso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-29
+**UnitDateFinal**:: 1893-07-29
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - José Domingues Veloso
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8829
+**LangMaterial**:: Português
+**PhysLoc**:: f. 42
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8829

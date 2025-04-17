@@ -1,0 +1,19 @@
+====== 34000 - DC - Registo do recenseamento militar de João de Faria ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Arnoso Santa Eulália
+Data de nascimento - 1852-08-06
+Filiação - José Gomes de Faria e Ana de Oliveira
+Profissão - Moleiro
+Estado - Solteiro
+Morada - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34000
+**LangMaterial**:: Português
+**PhysLoc**:: 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34000

@@ -1,0 +1,18 @@
+====== 8966 - DC - Termo do exame de Raul José da Rocha ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Raul José da Rocha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-08-06
+**UnitDateFinal**:: 1894-08-06
+**ScopeContent**:: Grau - Complementar
+Idade - 10
+Filiação - José Joaquim da Rocha
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8966
+**LangMaterial**:: Português
+**PhysLoc**:: f. 77v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8966

@@ -1,0 +1,16 @@
+====== 29920 - DC - A pesca maritima na foz do Ave ======
+
+**Parent**:: 28640
+**RootParent**:: 27963
+**UnitTitle**:: A pesca maritima na foz do Ave
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Notas de investigação sobre a pesca na foz do rio Ave. Esta nota de investigação serviu para Alberto Sampaio escrever no texto das Povoas Marítimas a seguinte passagem: «Na secção de Pindelo especializa-se o imposto por «pinacia» e «barca» quando pescavam no mar, assim como por «caravela», «pinacia» ou «barco» se apanhavam só peixe. Não se limitando a pescar na costa próxima, iam ao longe − facto bastante característico do seu adiantamento. Em cada caso pagavam-se certas contribuições. O depoente, domiciliado lá desde sessenta anos, sempre as vira usar na forma por ele individuada − «semper ita vidit uti», declarando mais que fora Sancho I, quem as estipulou numa carta, queimada no incêndio da casa onde se guardava. Refreência bibliográfica: As Povoas Marítimas do Norte de Portugal in Estudos Históricos e Económicos, ed. 1923, p. 331).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29920
+**LangMaterial**:: Português
+**PhysLoc**:: AS 115 (6) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29920

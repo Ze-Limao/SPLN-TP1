@@ -1,0 +1,18 @@
+====== 28468 - DC - Notas sobre a conquista do Algarve no reinado de D. Sancho I ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre a conquista do Algarve no reinado de D. Sancho I
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28468
+**LangMaterial**:: Português
+**PhysLoc**:: AS 69 (1) a 69 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28468
+
+===== Filhos =====
+  * [[28469.txt|28469 - DC - Tempo de D. Sancho I em 1189]]
+  * [[28470.txt|28470 - DC - Em 1189 Sancho I]]

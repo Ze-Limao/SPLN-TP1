@@ -1,0 +1,14 @@
+====== 54657 - UI - António Joaquim Gonçalves Rosa ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: António Joaquim Gonçalves Rosa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-05-22
+**UnitDateFinal**:: 1891-05-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54657
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54657
+
+===== Filhos =====
+  * [[54658.txt|54658 - DC - Carta]]

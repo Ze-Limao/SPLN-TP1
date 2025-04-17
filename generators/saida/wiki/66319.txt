@@ -1,0 +1,15 @@
+====== 66319 - DC - Apelação (?) de Salvador Pinto morador na freguesia de S. Miguel de Gemunde, que João Gomes levou deste juízo uma carta para se fazer diligência por ele aos abades de S. Tiago de Antas, o  Doutor João Soares de Brito e por não poder fazer a diligência por ser homem velho, vem suplicar fazer queixa e mandar que ele a fizesse ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Apelação (?) de Salvador Pinto morador na freguesia de S. Miguel de Gemunde, que João Gomes levou deste juízo uma carta para se fazer diligência por ele aos abades de S. Tiago de Antas, o  Doutor João Soares de Brito e por não poder fazer a diligência por ser homem velho, vem suplicar fazer queixa e mandar que ele a fizesse
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1654-03-16
+**UnitDateFinal**:: 1654-03-16
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 444 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66319

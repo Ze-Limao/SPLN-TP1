@@ -1,0 +1,26 @@
+====== 20095 - SR - Registo de correspondência expedida pela 2ª repartição ======
+
+**Parent**:: 20060
+**RootParent**:: 20048
+**UnitTitle**:: Registo de correspondência expedida pela 2ª repartição
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1899-01-02
+**UnitDateFinal**:: 1920-02-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20095
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20095
+
+===== Filhos =====
+  * [[20096.txt|20096 - UI - Registo de correspondência expedida pela 2ª repartição]]
+  * [[20097.txt|20097 - UI - Registo da correspondência expedida pela 2ª repartição]]
+  * [[20098.txt|20098 - UI - Registo da correspondência expedida pela 2ª repartição]]
+  * [[20099.txt|20099 - UI - Registo da correspondência expedida pela 2ª repartição]]
+  * [[20100.txt|20100 - UI - Registo da correspondência expedida pela 2ª repartição]]
+  * [[20101.txt|20101 - UI - Registo da correspondência expedida pela 2ª repartição]]
+  * [[20102.txt|20102 - UI - Registo da correspondência expedida pela 2ª repartição]]
+  * [[20103.txt|20103 - UI - Registo da correspondência expedida pela 2ª repartição]]
+  * [[20104.txt|20104 - UI - Registo da correspondência expedida pela 2ª repartição]]
+  * [[20105.txt|20105 - UI - Registo da correspondência expedida pela 2ª repartição]]
+  * [[20106.txt|20106 - UI - Registo da correspondência expedida pela 2ª repartição]]
+  * [[20107.txt|20107 - UI - Registo da correspondência expedida pela 2ª repartição]]

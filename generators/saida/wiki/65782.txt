@@ -1,0 +1,15 @@
+====== 65782 - DC - Sentença de emprazamento do prazo da Quinta de Fontelo, situado na freguesia de S. Julião de Calendário, feita por Jerónimo de Oliveira Carvalho, abade da Igreja de S. Tiago de Antas, a João Martins e filha Maria Francisca ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença de emprazamento do prazo da Quinta de Fontelo, situado na freguesia de S. Julião de Calendário, feita por Jerónimo de Oliveira Carvalho, abade da Igreja de S. Tiago de Antas, a João Martins e filha Maria Francisca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1723-12-25
+**UnitDateFinal**:: 1724-01-06
+**ScopeContent**:: Manuscrito, original. Folhas cosidas com selos de 60 reis colados. A data de 1724-01-06 é do registo no Livro de Registos de Prazos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 150 - cx. 7
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65782

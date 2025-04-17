@@ -1,0 +1,16 @@
+====== 29461 - DC - Recensão de Alberto Sampaio à obra de João Gomes de Oliveira Guimarães (Abade de Tagilde) Vimaranis Monumenta Historica: a saeculo nono post Christum usque ad vicesimum. ======
+
+**Parent**:: 28260
+**RootParent**:: 27963
+**UnitTitle**:: Recensão de Alberto Sampaio à obra de João Gomes de Oliveira Guimarães (Abade de Tagilde) Vimaranis Monumenta Historica: a saeculo nono post Christum usque ad vicesimum.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-07-22
+**UnitDateFinal**:: 1908-07-22
+**ScopeContent**:: Prova tipográfica impressa com correções manuscritas a tinta. Recensão à obra  de João Gomes de Oliveira Guimarães (Abade de Tagilde) Vimaranis Monumenta Historica: a saeculo nono post Christum usque ad vicesimum. Vimarane: ex typis Antonii Ludovici da Silva Dantas, 1908. A recensão, escrita no Porto com data de 22 de Julho de 1908, foi publicada na revista «Portugália», Porto, vol. II, 1905/1908, pg. 683.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29461
+**LangMaterial**:: Português
+**PhysLoc**:: AS 23 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29461

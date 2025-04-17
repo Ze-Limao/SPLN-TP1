@@ -1,0 +1,14 @@
+====== 53740 - SC - Obras Municipais ======
+
+**Parent**:: 7651
+**RootParent**:: 7651
+**UnitTitle**:: Obras Municipais
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1882-11-20
+**UnitDateFinal**:: 2011-08-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53740
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53740
+
+===== Filhos =====
+  * [[53741.txt|53741 - SSC - Edifícios Municipais]]

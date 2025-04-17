@@ -1,0 +1,19 @@
+====== 62812 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - António da Costa Simões e Maria Simões, ele na freguesia e ela falecida
+Naturalidade - Vale S. Cosme
+Morada - Ignora-se
+Data de nascimento - 1863-02-09
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62812

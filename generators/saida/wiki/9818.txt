@@ -1,0 +1,17 @@
+====== 9818 - DC - Molêdo - Arredores de Famalicão ======
+
+**Parent**:: 9799
+**RootParent**:: 60698
+**UnitTitle**:: Molêdo - Arredores de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929
+**UnitDateFinal**:: 1929
+**ScopeContent**:: Casas de pedra numa aldeia. Bilhete-postal impresso em tom de bege, na frente a legenda. Edição da Tipografia Minerva - Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9818
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 69 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9818

@@ -1,0 +1,16 @@
+====== 29336 - DC - N. 30753 Sulfato de zinco ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: N. 30753 Sulfato de zinco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-01-10
+**UnitDateFinal**:: 1896-01-10
+**ScopeContent**:: Composição da receita: sulfato de zinco, água destilada. Local e data: Guimarães, 10 de Janeiro de 1896. Carimbo da Farmácia do Hospital da Misericórdia de Guimarães. Alberto Sampaio anotou a lápis: «Mande com um conta-gotas.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29336
+**LangMaterial**:: Português
+**PhysLoc**:: AS 231 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29336

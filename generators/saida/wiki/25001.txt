@@ -1,0 +1,15 @@
+====== 25001 - UI - Livro de Corpo de Matrícula do Corpo Activo ======
+
+**Parent**:: 20363
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Corpo de Matrícula do Corpo Activo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-05-16
+**UnitDateFinal**:: 1926-12-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25001
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 104
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25001

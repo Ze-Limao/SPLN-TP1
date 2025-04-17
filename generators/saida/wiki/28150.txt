@@ -1,0 +1,16 @@
+====== 28150 - DC - Densidades ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Densidades
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-09-07
+**UnitDateFinal**:: 1899-08-23
+**ScopeContent**:: Valores de densidade (Gleuco-oenometro Cadet de Vaux) do mosto da casta Boal, nos anos de 1896, 1897, 1898 e 1899.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28150
+**LangMaterial**:: Português
+**PhysLoc**:: AS 423- cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28150

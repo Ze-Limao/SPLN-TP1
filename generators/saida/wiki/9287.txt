@@ -1,0 +1,19 @@
+====== 9287 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - João Simões e Francisca Alves da Costa
+Naturalidade - Telhado
+Data de nascimento - 1877-06-18
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9287
+**LangMaterial**:: Português
+**PhysLoc**:: f. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9287

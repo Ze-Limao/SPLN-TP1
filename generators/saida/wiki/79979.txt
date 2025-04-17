@@ -1,0 +1,15 @@
+====== 79979 - SR - Autos de Previdência Social ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Previdência Social
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1968-11-20
+**UnitDateFinal**:: 1969-03-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79979
+
+===== Filhos =====
+  * [[79980.txt|79980 - UI - Processo nº 14]]
+  * [[79981.txt|79981 - UI - Processo nº 19]]

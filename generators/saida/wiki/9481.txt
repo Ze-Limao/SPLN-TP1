@@ -1,0 +1,19 @@
+====== 9481 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - João José da Costa e Sá e Maria Emília da Costa Alves
+Naturalidade - Cabeçudos
+Data de nascimento - 1877-03-19
+Profissão - Lavrador
+Estado civil - Solteiro
+Residência - Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9481
+**LangMaterial**:: Português
+**PhysLoc**:: f. 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9481

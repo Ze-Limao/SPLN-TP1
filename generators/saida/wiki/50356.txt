@@ -1,0 +1,18 @@
+====== 50356 - DC - Registo do recenseamento militar de António Joaquim ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-08-24
+Filiação - Ana Maria
+Naturalidade - Aves
+Profissão - Alfaiate
+Residência - Aves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50356
+**LangMaterial**:: Português
+**PhysLoc**:: 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50356

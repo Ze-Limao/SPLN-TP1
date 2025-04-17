@@ -1,0 +1,18 @@
+====== 52515 - DC - Registo do recenseamento militar de Estevão de Carvalho ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Estevão de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-09-06
+Filiação - Semião António de Carvalho e Ana Luísa
+Naturalidade - Ruivães
+Profissão - Pedreiro
+Residência - Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52515
+**LangMaterial**:: Português
+**PhysLoc**:: 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52515

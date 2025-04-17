@@ -1,0 +1,16 @@
+====== 25533 - DC - Carta ======
+
+**Parent**:: 21140
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-06-07
+**UnitDateFinal**:: 1916-06-07
+**ScopeContent**:: Hipólito Maia informa que colocou à Câmara a questão da reconstrução da cada de Camilo. Carta manuscrita assinada, de Viseu.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25533
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 487 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25533

@@ -1,0 +1,19 @@
+====== 62368 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Domingos da Costa e Ana Maria, na freguesia
+Naturalidade - Oliveira Santa Maria
+Morada - Oliveira Santa Maria
+Data de nascimento - 1856-07-24
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62368

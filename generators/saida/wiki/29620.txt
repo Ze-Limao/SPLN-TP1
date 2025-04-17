@@ -1,0 +1,29 @@
+====== 29620 - SC - Fotografias da Presidência ======
+
+**Parent**:: 29618
+**RootParent**:: 29618
+**UnitTitle**:: Fotografias da Presidência
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 2002-01-01
+**UnitDateFinal**:: 2017-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29620
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29620
+
+===== Filhos =====
+  * [[29581.txt|29581 - SR - 2002]]
+  * [[29582.txt|29582 - SR - 2003]]
+  * [[29583.txt|29583 - SR - 2004]]
+  * [[29584.txt|29584 - SR - 2005]]
+  * [[29585.txt|29585 - SR - 2006]]
+  * [[29586.txt|29586 - SR - 2007]]
+  * [[29587.txt|29587 - SR - 2008]]
+  * [[29588.txt|29588 - SR - 2009]]
+  * [[29589.txt|29589 - SR - 2010]]
+  * [[29590.txt|29590 - SR - 2011]]
+  * [[29591.txt|29591 - SR - 2012]]
+  * [[29592.txt|29592 - SR - 2013]]
+  * [[29593.txt|29593 - SR - 2014]]
+  * [[29594.txt|29594 - SR - 2015]]
+  * [[29595.txt|29595 - SR - 2016]]
+  * [[29596.txt|29596 - SR - 2017]]

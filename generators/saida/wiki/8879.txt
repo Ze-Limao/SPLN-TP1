@@ -1,0 +1,18 @@
+====== 8879 - DC - Termo do exame de Maria Emília Silva Campos ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Maria Emília Silva Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-08
+**UnitDateFinal**:: 1893-08-08
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Manuel José da Silva Campos
+Naturalidade - Louro
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8879
+**LangMaterial**:: Português
+**PhysLoc**:: f. 55
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8879

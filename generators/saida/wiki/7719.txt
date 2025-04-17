@@ -1,0 +1,13 @@
+====== 7719 - UI - Livro de Notas Nº 35 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 35
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-10-29
+**UnitDateFinal**:: 1975-01-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7719
+**LangMaterial**:: Português
+**PhysLoc**:: 1.64
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7719

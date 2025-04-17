@@ -1,0 +1,25 @@
+====== 7726 - SR - Livros de Termos de Obrigação e Sujeição ao Município ======
+
+**Parent**:: 7725
+**RootParent**:: 7651
+**UnitTitle**:: Livros de Termos de Obrigação e Sujeição ao Município
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1858-03-31
+**UnitDateFinal**:: 1901-12-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7726
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7726
+
+===== Filhos =====
+  * [[7727.txt|7727 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 1]]
+  * [[7728.txt|7728 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 2]]
+  * [[7729.txt|7729 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 3]]
+  * [[7730.txt|7730 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 4]]
+  * [[7731.txt|7731 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 6]]
+  * [[7732.txt|7732 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 7]]
+  * [[7733.txt|7733 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 9]]
+  * [[7734.txt|7734 - UI - Livro de Termos de Obrigação e Sujeição ao Município]]
+  * [[7735.txt|7735 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 11]]
+  * [[7736.txt|7736 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 12]]
+  * [[7737.txt|7737 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 13]]

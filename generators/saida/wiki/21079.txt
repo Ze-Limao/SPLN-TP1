@@ -1,0 +1,26 @@
+====== 21079 - UI - António Ribeiro dos Santos Viegas ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Ribeiro dos Santos Viegas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1894-11-11
+**UnitDateFinal**:: 1905-07-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21079
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 297, 298, 299, 300, 301, 302, 303, 304, 1232, 1233
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21079
+
+===== Filhos =====
+  * [[24864.txt|24864 - DC - Carta]]
+  * [[24865.txt|24865 - DC - Carta]]
+  * [[24866.txt|24866 - DC - Carta]]
+  * [[24867.txt|24867 - DC - Carta]]
+  * [[24868.txt|24868 - DC - Carta]]
+  * [[24869.txt|24869 - DC - Carta]]
+  * [[24870.txt|24870 - DC - Carta]]
+  * [[24871.txt|24871 - DC - Carta]]
+  * [[29823.txt|29823 - DC - Carta]]
+  * [[29824.txt|29824 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 66135 - DC - Escritura de venda e compra que fazem Manuel da Silva e sua mulher Narcisa Rosa de Albuquerque, da freguesia de S. Tiago de Antas, ao reverendo Padre Joaquim Alves da Silva Carvalho, da freguesia de S. Julião de Calendário ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de venda e compra que fazem Manuel da Silva e sua mulher Narcisa Rosa de Albuquerque, da freguesia de S. Tiago de Antas, ao reverendo Padre Joaquim Alves da Silva Carvalho, da freguesia de S. Julião de Calendário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1841-06-09
+**UnitDateFinal**:: 1841-06-09
+**ScopeContent**:: Manuscrito em papel timbrado “Tesouro Publico XL”, original, sem capa. No canto esquerdo superior “Nota nº11. Af. 8”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 318 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66135

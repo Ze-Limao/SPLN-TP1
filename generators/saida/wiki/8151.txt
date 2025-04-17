@@ -1,0 +1,18 @@
+====== 8151 - DC - Teotónio José Gonçalves ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Teotónio José Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-10
+**UnitDateFinal**:: 1891-10
+**ScopeContent**:: Escola - Requião
+Cargo - Professor ajudante
+Vínculo - Temporário
+Naturalidade - Santo Tirso
+Data de posse - 1891-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8151
+**LangMaterial**:: Português
+**PhysLoc**:: f. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8151

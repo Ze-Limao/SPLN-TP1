@@ -1,0 +1,17 @@
+====== 32297 - DC - Carta ======
+
+**Parent**:: 32290
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-08-07
+**UnitDateFinal**:: 1917-08-07
+**ScopeContent**:: Carta manuscrita assinada, sem menção ao ano. Papel timbrado "Real Companhia Vinicola do Norte de Portugal". Esta carta pertence ao maço "Últimas cartas".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32297
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4257 - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32297

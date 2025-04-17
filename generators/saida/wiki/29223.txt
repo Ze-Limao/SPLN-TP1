@@ -1,0 +1,16 @@
+====== 29223 - DC - Notas de plantas obtidas a partir da consulta de L’Illustration Horticole ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Notas de plantas obtidas a partir da consulta de L’Illustration Horticole
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1898
+**ScopeContent**:: Notas de plantas obtidas a partir da consulta de L’Illustration Horticole, volumes referentes aos anos de 1870 e 1871. Esta lista terá servido para uma primeira seleção de plantas para o jardim da Casa de Boamense. As plantas que mais tarde acabaram por ser escolhidas, encontram-se assinaladas com um pequeno traço vermelho. Às anotações foram sendo acrescentadas outras informações. No caso da Lasiandra, a primeira indicada na lista, Alberto Sampaio acrescenta «vi-a com flores no princípio de Dez.º». Já sobre a Clematis Star of India, descreve-a com «flores grandes de 15 cent., sépalas largas; cor violeta carregada reticulada de preto», enquanto o Rododendro Maddeni apresenta «forma, volume, cor e cheiro da açucena».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29223
+**LangMaterial**:: Português
+**PhysLoc**:: AS 340 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29223

@@ -1,0 +1,15 @@
+====== 64087 - DC - Recibo de Florêncio Portela ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de Florêncio Portela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-11-21
+**UnitDateFinal**:: 1868-11-21
+**ScopeContent**:: Manuscrito. Recibo de S. Tiago de Antas, recebido das obras do adro do mosteiro da igreja S. Tiago de Antas, relativo à pedra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 404 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64087

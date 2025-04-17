@@ -1,0 +1,15 @@
+====== 24966 - UI - Apontamentos de despesas, vistos para crédito da conta - depósitos à ordem dos Bombeiros, apontamentos de receitas de venda de bilhetes por paróquias ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Apontamentos de despesas, vistos para crédito da conta - depósitos à ordem dos Bombeiros, apontamentos de receitas de venda de bilhetes por paróquias
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1964-04-29
+**UnitDateFinal**:: 1964-07-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24966
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 70 - cx. 25
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24966

@@ -1,0 +1,17 @@
+====== 98884 - DC - Sentença de forca do cónego Miguel Pinheiro Figueira contra Gaspar Cardoso, Abade de S. Tiago da  Cruz, sobre o roçar dos montes da quinta e morgado de Pindela ======
+
+**Parent**:: 54464
+**RootParent**:: 31258
+**UnitTitle**:: Sentença de forca do cónego Miguel Pinheiro Figueira contra Gaspar Cardoso, Abade de S. Tiago da  Cruz, sobre o roçar dos montes da quinta e morgado de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1601
+**UnitDateFinal**:: 1601
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº 2 Cazal nº 1 B". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 13108 a CP 13142.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54256
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13109 - cx. 85
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98884

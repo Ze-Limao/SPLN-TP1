@@ -1,0 +1,18 @@
+====== 51022 - DC - Registo do recenseamento militar de Inácio ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Inácio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1842-10-20
+Filiação - João Manuel Alves e Ana Luísa
+Naturalidade - Abade de Vermoim
+Profissão - Lavrador
+Residência - Abade de Vermoim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51022
+**LangMaterial**:: Português
+**PhysLoc**:: 49v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51022

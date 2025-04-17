@@ -1,0 +1,18 @@
+====== 49624 - DC - Registo do recenseamento eleitoral de Manuel Joaquim Ferreira de Araújo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Joaquim Ferreira de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Negociante
+Estado - Solteiro
+Morada - Rua de Santo António
+Idade - 27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49624
+**LangMaterial**:: Português
+**PhysLoc**:: 92v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49624

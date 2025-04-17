@@ -1,0 +1,16 @@
+====== 23147 - DC - Carta ======
+
+**Parent**:: 21039
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-07-03
+**UnitDateFinal**:: 1921-07-03
+**ScopeContent**:: Alberto Pimentel agradece os esclarecimentos sobre o “Amor de perdição” e a jornada dos Castilhos (Castilho, o seu filho Eugénio e Tomás de Ribeiro) e a festa campestre de julho de 1886. Refere que afinal já tinha referido o assunto no livro “Memórias do tempo de Camilo”. Informa que já escreveu o conto "Horas alegres numa casa triste" que faz parte do livro “O Torturado de Seide”. Carta manuscrita assinada, Trafaria.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23147
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 36 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23147

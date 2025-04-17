@@ -1,0 +1,17 @@
+====== 52669 - DC - Registo do recenseamento militar de Vitorino de Paiva ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Vitorino de Paiva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Filiação - António Joaquim de Paiva e Rosa Maria
+Naturalidade - Rebordões, Santo Tirso
+Profissão - Criado de servir
+Residência - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52669
+**LangMaterial**:: Português
+**PhysLoc**:: 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52669

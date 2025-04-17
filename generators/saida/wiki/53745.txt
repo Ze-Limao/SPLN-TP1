@@ -1,0 +1,18 @@
+====== 53745 - SR - Ante-Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Câmara Municipal de Famalicão - 1952 ======
+
+**Parent**:: 25851
+**RootParent**:: 25851
+**UnitTitle**:: Ante-Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Câmara Municipal de Famalicão - 1952
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1952
+**UnitDateFinal**:: 1952-09-18
+**ScopeContent**:: Série constituída por por peças escritas em folhas A4 e Peças desenhadas em folhas de desenho de grandes formatos. A série contempla o Ante-Projeto do Novo edifício dos Paços de Concelho, Tribunal, etc. de Vila Nova de Famalicão, realizado poucos meses após o incêndio do antigo edifício. Este Ante-projeto, apesar de bastante distinto do edifício construído, contém muitas das premissas desenvolvidas no Projeto base.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53745
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53745
+
+===== Filhos =====
+  * [[53758.txt|53758 - DC - Câmara Municipal de Famalicão: Ante-Projecto do Novo Edifício dos Paços de Concelho, Tribunal, etc. 1952]]

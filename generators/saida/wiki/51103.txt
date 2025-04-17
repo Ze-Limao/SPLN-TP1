@@ -1,0 +1,18 @@
+====== 51103 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-04-13
+**UnitDateFinal**:: 1864-04-13
+**ScopeContent**:: Data de nascimento - 
+Filiação - 
+Naturalidade - Remelhe, Barcelos
+Profissão - Criado de servir
+Residência - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51103
+**LangMaterial**:: Português
+**PhysLoc**:: 62v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51103

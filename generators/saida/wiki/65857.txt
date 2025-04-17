@@ -1,0 +1,15 @@
+====== 65857 - DC - Como os enfiteutas a mais de duzentos anos não pagarão as geiras que a secção declaradas no prazo de Pelho expedido no ano de 1481... assinado por Manuel de Araújo ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Como os enfiteutas a mais de duzentos anos não pagarão as geiras que a secção declaradas no prazo de Pelho expedido no ano de 1481... assinado por Manuel de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1735
+**UnitDateFinal**:: 1735
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 620 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65857

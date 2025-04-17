@@ -1,0 +1,16 @@
+====== 30540 - DC - Registo do recenseamento eleitoral de João Martins ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Martins
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Bairro
+Profissão - Moleiro
+Morada - Azenha
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30540
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30540

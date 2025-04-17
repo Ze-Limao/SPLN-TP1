@@ -1,0 +1,18 @@
+====== 32369 - UI - Soares Barbosa ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Soares Barbosa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-03-11
+**UnitDateFinal**:: 1902-03-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32369
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32369
+
+===== Filhos =====
+  * [[32370.txt|32370 - DC - Carta e Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

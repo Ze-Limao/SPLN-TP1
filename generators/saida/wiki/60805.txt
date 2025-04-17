@@ -1,0 +1,16 @@
+====== 60805 - SR - Grafipost Editores e Artes Gráficas Lda ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Grafipost Editores e Artes Gráficas Lda
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1980
+**UnitDateFinal**:: 1990
+**ScopeContent**:: Editora de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60805
+
+===== Filhos =====
+  * [[60806.txt|60806 - DC - V. N. Famalicão Câmara Municipal]]

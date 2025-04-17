@@ -1,0 +1,17 @@
+====== 57137 - DC - Serviço Central. Serviço de Estatística. Estatísticas dos serviços do laboratorio ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Serviço Central. Serviço de Estatística. Estatísticas dos serviços do laboratorio
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1328
+**UnitDateFinal**:: 1931
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes. Capa contida no CP 9491, junto com CP 9492, CP 9493, CP 9494. Contém 10 documentos: Memorandum (manuscrito); Ofícios datilografados; Documentos datilografados "Número de análises de vinhos verdes".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57137
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9495 - cx. 57
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57137

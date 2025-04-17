@@ -1,0 +1,14 @@
+====== 20246 - UI - Registo de correspondência recebida nº18 ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº18
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1960-04-08
+**UnitDateFinal**:: 1960-09-11
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir este livro para nele se registar (manuscrito) correspondência recebida nesta Câmara Municipal”. Contém dados: nº de ordem, nº e data do documento, data do registo, remetente, assunto. Inicia com o registo nº 1645 até ao registo nº 4154.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20246
+**LangMaterial**:: Português
+**PhysLoc**:: 624
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20246

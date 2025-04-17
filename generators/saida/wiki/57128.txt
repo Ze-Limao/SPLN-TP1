@@ -1,0 +1,17 @@
+====== 57128 - DC - Comissão de Viticultura. Serviço Central. Serviço de Estatística. Publicações de estatisticas em a "Gazeta das Aldeias" ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Serviço de Estatística. Publicações de estatisticas em a "Gazeta das Aldeias"
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1932-04
+**UnitDateFinal**:: 1932-05
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes com 5 documentos: A Gazeta das Aldeias 24 abril 1932; 1 maio 1932; 8 maio 1932, 3 abril 1932.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57128
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9488 - cx. 57
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57128

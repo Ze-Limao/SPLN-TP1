@@ -1,0 +1,14 @@
+====== 7884 - DC - Termo de Camilo de Lélis Ribeiro de Campos ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Camilo de Lélis Ribeiro de Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1858-03-31
+**UnitDateFinal**:: 1858-03-31
+**ScopeContent**:: Arrematação dos impostos municipais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7884
+**LangMaterial**:: Português
+**PhysLoc**:: f. 1
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7884

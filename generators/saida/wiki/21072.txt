@@ -1,0 +1,17 @@
+====== 21072 - UI - António Pinto de Mesquita ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Pinto de Mesquita
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-08-06
+**UnitDateFinal**:: 1911-08-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21072
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 253
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21072
+
+===== Filhos =====
+  * [[24817.txt|24817 - DC - Carta]]

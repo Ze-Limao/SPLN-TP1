@@ -1,0 +1,16 @@
+====== 29083 - DC - Carta de Alberto Sampaio ======
+
+**Parent**:: 29080
+**RootParent**:: 27963
+**UnitTitle**:: Carta de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-07-02
+**UnitDateFinal**:: 1876-07-02
+**ScopeContent**:: Carta expedida de Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29083
+**LangMaterial**:: Português
+**PhysLoc**:: AS 557 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29083

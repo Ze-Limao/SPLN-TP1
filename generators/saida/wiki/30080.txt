@@ -1,0 +1,14 @@
+====== 30080 - DC - Joaquim da Costa Araújo ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim da Costa Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1970-08-26
+**UnitDateFinal**:: 1970-08-26
+**ScopeContent**:: Regedor substituto da freguesia de Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30080
+**LangMaterial**:: Português
+**PhysLoc**:: f. 41
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30080

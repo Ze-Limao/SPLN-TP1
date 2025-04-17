@@ -1,0 +1,16 @@
+====== 28147 - DC - Vindima de 1898 Densidade dos mostos ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vindima de 1898 Densidade dos mostos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-09-14
+**UnitDateFinal**:: 1898-10-08
+**ScopeContent**:: Valores de densidade do mosto de diversas castas e informações respeitantes a vindima de 1898.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28147
+**LangMaterial**:: Português
+**PhysLoc**:: AS 420- cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28147

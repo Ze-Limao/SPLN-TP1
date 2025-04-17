@@ -1,0 +1,18 @@
+====== 47273 - DC - Registo do recenseamento eleitoral de Firmino José Ferreira Guimarães ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Firmino José Ferreira Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Negociante
+Estado - Solteiro
+Morada - Rua de Santo António
+Idade - 33
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47273
+**LangMaterial**:: Português
+**PhysLoc**:: 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47273

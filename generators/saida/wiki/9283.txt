@@ -1,0 +1,19 @@
+====== 9283 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Joaquim José Gomes e Maria Teresa de Oliveira
+Naturalidade - Telhado
+Data de nascimento - 1876-06-08
+Profissão - 
+Estado civil - 
+Residência - Telhado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9283
+**LangMaterial**:: Português
+**PhysLoc**:: f. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9283

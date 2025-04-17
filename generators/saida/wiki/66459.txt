@@ -1,0 +1,15 @@
+====== 66459 - DC - Pedido de licença para suplentes de Camilo Barbosa, para festividade do Menino Deus da freguesia de S. Tiago de Antas, com missa cantada e procissão ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença para suplentes de Camilo Barbosa, para festividade do Menino Deus da freguesia de S. Tiago de Antas, com missa cantada e procissão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-01-05
+**UnitDateFinal**:: 1894-01-05
+**ScopeContent**:: Manuscrito, original, papel azul com selos fiscais colados. Em baixo o deferimento do Arcipreste Mesquita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 495 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66459

@@ -1,0 +1,22 @@
+====== 45318 - UI - Henrique de Macedo Pereira Coutinho ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Henrique de Macedo Pereira Coutinho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886
+**UnitDateFinal**:: 1891-02-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45318
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45318
+
+===== Filhos =====
+  * [[45319.txt|45319 - DC - Carta]]
+  * [[45320.txt|45320 - DC - Carta]]
+  * [[45321.txt|45321 - DC - Carta]]
+  * [[45322.txt|45322 - DC - Carta]]
+  * [[45323.txt|45323 - DC - Carta]]
+  * [[45324.txt|45324 - DC - Carta]]
+  * [[45325.txt|45325 - DC - Carta]]
+  * [[45326.txt|45326 - DC - Carta]]
+  * [[54796.txt|54796 - DC - Carta]]

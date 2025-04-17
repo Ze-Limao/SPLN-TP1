@@ -1,0 +1,16 @@
+====== 28731 - UI - Sebastião de Arruda da Costa Botelho ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Sebastião de Arruda da Costa Botelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-10-17
+**UnitDateFinal**:: 1891-10-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28731
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28731
+
+===== Filhos =====
+  * [[28732.txt|28732 - DC - Carta]]

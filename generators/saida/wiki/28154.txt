@@ -1,0 +1,16 @@
+====== 28154 - DC - Vindima geral das vinhas em 1902, 25 Set.º ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vindima geral das vinhas em 1902, 25 Set.º
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-09-25
+**UnitDateFinal**:: 1902-09-25
+**ScopeContent**:: Diversas informações sobre a vindima de 1902.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28154
+**LangMaterial**:: Português
+**PhysLoc**:: AS 427 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28154

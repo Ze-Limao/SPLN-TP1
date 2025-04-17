@@ -1,0 +1,16 @@
+====== 22419 - DC - Carta ======
+
+**Parent**:: 21226
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-06-17
+**UnitDateFinal**:: 1906-06-17
+**ScopeContent**:: Carta manuscrita assinada. Luís de Magalhães agradece o reconhecimento e as palavras de JAM para o sucesso da tomada de posse do cargo de ministro dos Negócios Estrangeiros. (N.B. demissão no ano seguinte). Papel timbrado do “Ministerio dos Negocios Estrangeiros - Gabinete do Ministro - Particular”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22419
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 894 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22419

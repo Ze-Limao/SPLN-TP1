@@ -1,0 +1,20 @@
+====== 21298 - UI - António Albino da Silva Botelho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Albino da Silva Botelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907-11-09
+**UnitDateFinal**:: 1908-02-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21298
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1165, 1166, 1667, 1487
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21298
+
+===== Filhos =====
+  * [[29755.txt|29755 - DC - Carta]]
+  * [[29756.txt|29756 - DC - Carta]]
+  * [[29757.txt|29757 - DC - Carta]]
+  * [[29758.txt|29758 - DC - Carta]]

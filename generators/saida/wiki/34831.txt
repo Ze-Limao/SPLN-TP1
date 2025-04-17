@@ -1,0 +1,19 @@
+====== 34831 - DC - Registo do recenseamento militar de Júlio ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Júlio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1862-07-24
+Filiação - Bernardino Francisco Marques e Mariana Rosa Moutinho
+Profissão - Ensamblador
+Estado - Solteiro
+Morada - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34831
+**LangMaterial**:: Português
+**PhysLoc**:: 69v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34831

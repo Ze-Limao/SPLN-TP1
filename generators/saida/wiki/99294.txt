@@ -1,0 +1,15 @@
+====== 99294 - UI - Quinta Poço do Lobo ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Quinta Poço do Lobo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-03-04
+**UnitDateFinal**:: 1917-03-04
+**ScopeContent**:: Manuel Evaristo Pessoa. Pocariça, Cantanhede.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99294
+
+===== Filhos =====
+  * [[99295.txt|99295 - DC - Ofício]]

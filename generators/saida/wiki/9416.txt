@@ -1,0 +1,19 @@
+====== 9416 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Francisco Correia da Silva e Maria Rosa
+Naturalidade - Avidos
+Data de nascimento - 1876-01-09
+Profissão - 
+Estado civil - 
+Residência - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9416
+**LangMaterial**:: Português
+**PhysLoc**:: f. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9416

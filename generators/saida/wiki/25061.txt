@@ -1,0 +1,15 @@
+====== 25061 - UI - Livro de registo de incêndios nº3 ======
+
+**Parent**:: 20381
+**RootParent**:: 20342
+**UnitTitle**:: Livro de registo de incêndios nº3
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1938-01-01
+**UnitDateFinal**:: 1946-12-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25061
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 160
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25061

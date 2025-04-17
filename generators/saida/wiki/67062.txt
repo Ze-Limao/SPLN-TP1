@@ -1,0 +1,15 @@
+====== 67062 - UI - R. Eisenmann ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: R. Eisenmann
+**DescriptionLevel**:: UI
+**ScopeContent**:: Sprit Fabrik.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67062
+
+===== Filhos =====
+  * [[67063.txt|67063 - DC - Carta]]
+  * [[67065.txt|67065 - DC - Carta]]
+  * [[67066.txt|67066 - DC - Carta]]

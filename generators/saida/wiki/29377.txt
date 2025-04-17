@@ -1,0 +1,16 @@
+====== 29377 - DC - Dizei-me, se pode o grande rio, Existir, sem q. as fontes o abasteçam? ======
+
+**Parent**:: 27975
+**RootParent**:: 27963
+**UnitTitle**:: Dizei-me, se pode o grande rio, Existir, sem q. as fontes o abasteçam?
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-10
+**UnitDateFinal**:: 1862-10
+**ScopeContent**:: Manuscrito com poema de Antero de Quental. É a 2ª parte do poema "À Itália" publicado no "Raios de extinta luz". Foi recitada no Teatro Académico por A. Fialho de Machado na noite de 22 outubro de 1862.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29377
+**LangMaterial**:: Português
+**PhysLoc**:: AS 284 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29377

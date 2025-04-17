@@ -1,0 +1,18 @@
+====== 8742 - DC - Termo do exame de Manuel Gonçalves da Costa ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Gonçalves da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-15
+**UnitDateFinal**:: 1891-07-15
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - António Gonçalves da Costa
+Naturalidade - Louro
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8742
+**LangMaterial**:: Português
+**PhysLoc**:: f. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8742

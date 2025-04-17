@@ -1,0 +1,17 @@
+====== 65680 - DC - Documento sobre a repartição de um campo do casal dos Eirões, do concelho de Cabeceiras de Basto, intervém o padre Gervásio Cortilho de Magalhães ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Documento sobre a repartição de um campo do casal dos Eirões, do concelho de Cabeceiras de Basto, intervém o padre Gervásio Cortilho de Magalhães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1718-03-19
+**UnitDateFinal**:: 1718-03-19
+**ScopeContent**:: Manuscrito, Nº3. O documento estava na “Caixa 12”, que contém CP 3800 a CP 3826 embrulhados em jornais do ano 1936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3821 - cx. 28
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65680

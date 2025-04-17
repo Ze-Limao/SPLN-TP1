@@ -1,0 +1,16 @@
+====== 29164 - DC - Notas biográficas sobre Germano Vieira de Meireles ======
+
+**Parent**:: 29158
+**RootParent**:: 27963
+**UnitTitle**:: Notas biográficas sobre Germano Vieira de Meireles
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 187
+**UnitDateFinal**:: 187
+**ScopeContent**:: Notas biográficas de Germano Vieira Meireles e de suas filhas Albertina e Beatriz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29164
+**LangMaterial**:: Português
+**PhysLoc**:: AS 290- cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29164

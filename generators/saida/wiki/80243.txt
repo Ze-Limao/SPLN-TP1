@@ -1,0 +1,15 @@
+====== 80243 - UI - Processo nº 163 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 163
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-09-21
+**UnitDateFinal**:: 1976-10-02
+**ScopeContent**:: junto com Autos de Execução de Custas nº 128.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 123 - cx. 7
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80243

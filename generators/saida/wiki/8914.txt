@@ -1,0 +1,18 @@
+====== 8914 - DC - Termo do exame de Augusto César Correia do Amaral ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Augusto César Correia do Amaral
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-23
+**UnitDateFinal**:: 1894-07-23
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - João Bernardo Correia do Amaral
+Naturalidade - Vila Nova de Famalicão
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8914
+**LangMaterial**:: Português
+**PhysLoc**:: f. 64
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8914

@@ -1,0 +1,14 @@
+====== 20278 - UI - Registo de correspondência recebida nº4 ======
+
+**Parent**:: 20219
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº4
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1938-05-30
+**UnitDateFinal**:: 1938-12-27
+**ScopeContent**:: Termo de abertura impresso: “Há de servir êste livro, nos termos do nº9 do artigo 120 do Código Administrativo, se registar a correspondência recebida na Câmara Municipal…” e manuscrito (Serviços Administrativos). Contém dados: nº de entrada, número do ofício, data do ofício, data da receção, designação da entidade expedidora, extracto do conteúdo, observações. Inicia com nº 679 até ao registo nº 1484.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20278
+**LangMaterial**:: Português
+**PhysLoc**:: 689
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20278

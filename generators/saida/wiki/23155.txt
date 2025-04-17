@@ -1,0 +1,16 @@
+====== 23155 - DC - Carta ======
+
+**Parent**:: 21040
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-03-15
+**UnitDateFinal**:: 1914-03-15
+**ScopeContent**:: Alberto Pinheiro Torres desculpa-se no atraso da resposta por ter tido muito trabalho. Carta manuscrita assinada, Bruxelles.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23155
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 44 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23155

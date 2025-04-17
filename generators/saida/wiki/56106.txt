@@ -1,0 +1,23 @@
+====== 56106 - DC - Maço Tratado de Comércio ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço Tratado de Comércio
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1898
+**ScopeContent**:: Este maço contém cópia de ofícios para o Conselheiro Beirão. Contém CP 14772 a CP 14775.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56106
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14771 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56106
+
+===== Filhos =====
+  * [[56107.txt|56107 - DC - Cópia de ofício]]
+  * [[56108.txt|56108 - DC - Cópia de ofício]]
+  * [[56109.txt|56109 - DC - Cópia de ofício]]
+  * [[56110.txt|56110 - DC - Cópia de ofício]]

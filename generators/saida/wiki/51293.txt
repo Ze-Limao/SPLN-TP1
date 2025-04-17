@@ -1,0 +1,18 @@
+====== 51293 - DC - Registo do recenseamento militar de Augusto ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Augusto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-11-09
+Filiação - Ana
+Naturalidade - Pedome
+Profissão - Criado de servir
+Residência - Oliveira Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51293
+**LangMaterial**:: Português
+**PhysLoc**:: 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51293

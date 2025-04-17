@@ -1,0 +1,32 @@
+====== 64131 - SR - Fotografias ======
+
+**Parent**:: 61191
+**RootParent**:: 60551
+**UnitTitle**:: Fotografias
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 2003
+**UnitDateFinal**:: 2012
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64131
+
+===== Filhos =====
+  * [[64132.txt|64132 - DC - Transmissão de tarefas do Rotary V.N.Famalicão e outras]]
+  * [[64133.txt|64133 - DC - Fotos Rotary V.N.Famalicão]]
+  * [[64134.txt|64134 - DC - Visita OLMAC do Rotary V.N.Famalicão]]
+  * [[64135.txt|64135 - DC - Visita oficial do Governador Álvaro Gomes ao Rotary V.N.Famalicão]]
+  * [[64136.txt|64136 - DC - Index´s Rotary do  Rotary V.N.Famalicão]]
+  * [[64137.txt|64137 - DC - Aniversário Douro e Jantar Casa de Camilo e Visita a Évora do Rotary V.N.Famalicão]]
+  * [[64138.txt|64138 - DC - Transmissão de tarefas do Rotary V.N.Famalicão e outras]]
+  * [[64139.txt|64139 - DC - Jantar Casino da Póvoa de Varzim do Rotary V.N.Famalicão e outras]]
+  * [[64140.txt|64140 - DC - Index´s Rotary V.N.Famalicão]]
+  * [[64141.txt|64141 - DC - Jantar Casino da Póvoa de Varzim do Rotary Club de V. N. Famalicão]]
+  * [[64142.txt|64142 - DC - Porco no churrasco solidário do Rotary Club de V. N. Famalicão]]
+  * [[64143.txt|64143 - DC - Reunião presidida por Jaime Oliveira do Rotary Club de V. N. Famalicão]]
+  * [[64144.txt|64144 - DC - Jantar do aniversário do Rotary Club de V. N. Famalicão]]
+  * [[64145.txt|64145 - DC - Jantar do aniversário do Rotary Club de V. N. Famalicão]]
+  * [[64146.txt|64146 - DC - Visita ao Rotary Club de Évora do Rotary Club de V. N. Famalicão]]
+  * [[64147.txt|64147 - DC - Visita às Caves do Vinho do Porto pelo Rotary Club de V. N. Famalicão]]
+  * [[64148.txt|64148 - DC - Reunião domiciliária em casa de Libório Silva do Rotary Club de V. N. Famalicão]]
+  * [[64149.txt|64149 - DC - RYLA organizado pelo Rotary Club de V. N. Famalicão]]
+  * [[64150.txt|64150 - DC - Diversas fotografias de sócios do Rotary Club de V. N. Famalicão e outras]]

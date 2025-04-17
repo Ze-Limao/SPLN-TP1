@@ -1,0 +1,18 @@
+====== 20091 - UI - Registo da correspondência expedida pela 1ª repartição ======
+
+**Parent**:: 20088
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida pela 1ª repartição
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1896-12-31
+**UnitDateFinal**:: 1899-12-29
+**ScopeContent**:: Termo de abertura: "Tem de servir este livro para nelle se copiar a correspondência expedida pela primeira repartição …”.
+Registos a partir de 1897.
+O conteúdo da correspondência está resumido.
+Contém: Edital, 1886-03-05, 1 f.; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20091
+**LangMaterial**:: Português
+**PhysLoc**:: AC 78
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20091

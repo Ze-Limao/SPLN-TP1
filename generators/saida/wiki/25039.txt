@@ -1,0 +1,15 @@
+====== 25039 - UI - Ordens de serviço da Corporação de bombeiros de V.N. Famalicão ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Ordens de serviço da Corporação de bombeiros de V.N. Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-07-03
+**UnitDateFinal**:: 1916-12-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25039
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 141 - cx. 35
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25039

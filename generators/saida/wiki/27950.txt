@@ -1,0 +1,16 @@
+====== 27950 - DC - Carta ======
+
+**Parent**:: 21266
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-12-13
+**UnitDateFinal**:: 1921-12-13
+**ScopeContent**:: Sousa Fernandes informa que está a terminar a catalogação dos livros encadernados em Seide. Avisa e uma visita que farão ao Porto. Carta manuscrita assinada, de Mões (Vila Nova de Famalicão).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27950
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1043 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27950

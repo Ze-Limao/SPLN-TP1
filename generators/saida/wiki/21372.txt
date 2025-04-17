@@ -1,0 +1,16 @@
+====== 21372 - UI - Daniel Froiz ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Daniel Froiz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1928-07-22
+**UnitDateFinal**:: 1928-07-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21372
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1328
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21372
+
+===== Filhos =====
+  * [[30196.txt|30196 - DC - Carta]]

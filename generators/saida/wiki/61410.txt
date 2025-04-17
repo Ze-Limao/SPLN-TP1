@@ -1,0 +1,15 @@
+====== 61410 - DC - Homens com toga ======
+
+**Parent**:: 60930
+**RootParent**:: 60550
+**UnitTitle**:: Homens com toga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1908
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 184 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61410

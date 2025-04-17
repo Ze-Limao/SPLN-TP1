@@ -1,0 +1,18 @@
+====== 32965 - UI - José Augusto Braamcamp ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: José Augusto Braamcamp
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1889-07-09
+**UnitDateFinal**:: 1889-07-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32965
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32965
+
+===== Filhos =====
+  * [[32966.txt|32966 - DC - Carta]]

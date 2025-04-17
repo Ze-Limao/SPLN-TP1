@@ -1,0 +1,19 @@
+====== 62629 - DC - Registo do recenseamento militar de Silvestre ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Silvestre
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - José Ribeiro da Silva e Ana Joaquina da Costa, na freguesia
+Naturalidade - Vila Nova de Famalicão
+Morada - Ignora-se
+Data de nascimento - 1856-09-01
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62629

@@ -1,0 +1,19 @@
+====== 60240 - SR - Documentos ======
+
+**Parent**:: 31307
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1924
+**UnitDateFinal**:: 1924
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31310
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60240
+
+===== Filhos =====
+  * [[60239.txt|60239 - DC - Certidão da escritura de partilha amigável entre a Viscondessa Eulália, os seus filhos e noras]]
+  * [[98406.txt|98406 - DC - Crédito sobre caução do Banco Commercial de Braga]]
+  * [[98407.txt|98407 - DC - Recibo]]
+  * [[98408.txt|98408 - DC - Recibo de penhora]]
+  * [[98409.txt|98409 - DC - Recibo de penhora]]
+  * [[98411.txt|98411 - DC - Relação de contas que tenho a fazer com a Exma Snr. Viscondessa de Pindela]]

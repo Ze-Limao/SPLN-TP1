@@ -1,0 +1,17 @@
+====== 98165 - DC - Petição de Manuel José da Costa Fortunato, da freguesia de S. Tiago da Cruz, tesoureiro da administração do Senhor dos Aflitos, ao administrador da Casa de Pindela, João Machado de Melo, para fazer uma casa de pedra e madeira no monte ao pé da capela para apoiar a romaria ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Petição de Manuel José da Costa Fortunato, da freguesia de S. Tiago da Cruz, tesoureiro da administração do Senhor dos Aflitos, ao administrador da Casa de Pindela, João Machado de Melo, para fazer uma casa de pedra e madeira no monte ao pé da capela para apoiar a romaria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1841-04-14
+**UnitDateFinal**:: 1841-04-14
+**ScopeContent**:: Manuscrito com folhas cosidas numa "Pasta nº 2 Cazal Nº 1 P". Este documento estava na caixa “Pasta nº3 Anno 1841”, que contém CP 12875 a CP 12958.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12876(1) - cx. 79
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98165

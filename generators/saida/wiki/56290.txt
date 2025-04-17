@@ -1,0 +1,17 @@
+====== 56290 - DC - Casa de Pindela S .Miguel de 1905. Recibos da Administração desta Casa até 30 de Setembro de aquele ano até igual dia de 1906 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Pindela S .Miguel de 1905. Recibos da Administração desta Casa até 30 de Setembro de aquele ano até igual dia de 1906
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1905-09-30
+**UnitDateFinal**:: 1906-09-30
+**ScopeContent**:: Maço que contém 100 documentos manuscritos e impressos, CP 11516 a CP 11615.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56290
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11515 a 11615 - cx. 64
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56290

@@ -1,0 +1,16 @@
+====== 24787 - DC - Panfleto sobre a construção do novo quartel no Campo Mouzinho de Albuquerque ======
+
+**Parent**:: 24751
+**RootParent**:: 20342
+**UnitTitle**:: Panfleto sobre a construção do novo quartel no Campo Mouzinho de Albuquerque
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-06
+**UnitDateFinal**:: 1961-06
+**ScopeContent**:: Panfleto impresso composto por ofício assinado pela direção e comandante, 1 desenho da maquete do novo quartel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24787
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 10 - cx. 2
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24787

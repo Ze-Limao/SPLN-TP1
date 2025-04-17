@@ -1,0 +1,18 @@
+====== 80072 - SR - Autos de Providência Cautelar Inominada ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Providência Cautelar Inominada
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1970-09-21
+**UnitDateFinal**:: 1979-12-18
+**ScopeContent**:: Contém Autos de Procedimento Cautelar-Arresto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80072
+
+===== Filhos =====
+  * [[80073.txt|80073 - UI - Processo nº 52]]
+  * [[97538.txt|97538 - UI - Processo nº 17-A]]
+  * [[97568.txt|97568 - UI - Processo nº 48]]
+  * [[97683.txt|97683 - UI - Processo nº 18]]

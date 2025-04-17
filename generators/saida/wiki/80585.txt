@@ -1,0 +1,14 @@
+====== 80585 - UI - Processo nº 144/74 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 144/74
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-07-01
+**UnitDateFinal**:: 1981-07-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 229 - cx. 12
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80585

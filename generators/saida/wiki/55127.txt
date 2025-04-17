@@ -1,0 +1,22 @@
+====== 55127 - UI - Luciano Afonso da Silva Monteiro Aillaud ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Luciano Afonso da Silva Monteiro Aillaud
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1911-05-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55127
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55127
+
+===== Filhos =====
+  * [[55128.txt|55128 - DC - Cópia de carta]]
+  * [[55397.txt|55397 - DC - Cópia de carta]]
+  * [[55398.txt|55398 - DC - Carta]]
+  * [[55399.txt|55399 - DC - Carta]]
+  * [[55400.txt|55400 - DC - Carta]]
+  * [[55401.txt|55401 - DC - Carta]]
+  * [[55406.txt|55406 - DC - Carta]]
+  * [[55407.txt|55407 - DC - Carta]]
+  * [[55408.txt|55408 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]

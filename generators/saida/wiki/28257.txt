@@ -1,0 +1,16 @@
+====== 28257 - DC - Apontamentos para o capítulo III da As Póvoas Marítimas do Norte de Portugal. ======
+
+**Parent**:: 28243
+**RootParent**:: 27963
+**UnitTitle**:: Apontamentos para o capítulo III da As Póvoas Marítimas do Norte de Portugal.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Conjunto de apontamentos manuscritos, alguns soltos e outros agrupados, estando estes no interior de capas, feitas a partir de papéis dobrados ao meio, identificadas com os nomes de reis da 1.ª dinastia - «Sancho I», «Afonso II», «Sancho II», «Afonso III», «D. Dinis» - e, por último, «Secção II O Porto».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28257
+**LangMaterial**:: Português
+**PhysLoc**:: AS 17 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28257

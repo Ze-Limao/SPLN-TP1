@@ -1,0 +1,19 @@
+====== 45329 - UI - José António Xavier de Sá Pereira Coutinho ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: José António Xavier de Sá Pereira Coutinho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-07-20
+**UnitDateFinal**:: 1920-01-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45329
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45329
+
+===== Filhos =====
+  * [[45330.txt|45330 - DC - Carta]]
+  * [[45331.txt|45331 - DC - Telegrama]]

@@ -1,0 +1,17 @@
+====== 100677 - DC - Certidão do prazo do Salgueiral, da Misericórdia de Guimarães feito a João Machado Fagundes ======
+
+**Parent**:: 54469
+**RootParent**:: 31258
+**UnitTitle**:: Certidão do prazo do Salgueiral, da Misericórdia de Guimarães feito a João Machado Fagundes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1689
+**UnitDateFinal**:: 1694-04-02
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº 12 Cazal nº 120 G". Este documento estava na “Caixa 12”, que contém CP 13143 a CP 13169.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13153 - cx. 87
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100677

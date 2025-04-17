@@ -1,0 +1,16 @@
+====== 30797 - DC - Registo do recenseamento eleitoral de Manuel José de Sousa ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Lavrador
+Morada - Delães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30797
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30797

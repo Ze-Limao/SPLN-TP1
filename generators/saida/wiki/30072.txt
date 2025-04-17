@@ -1,0 +1,14 @@
+====== 30072 - DC - Francisco Mendes da Silva ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Francisco Mendes da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1968-06-05
+**UnitDateFinal**:: 1968-06-05
+**ScopeContent**:: Regedor efetivo da freguesia de Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30072
+**LangMaterial**:: Português
+**PhysLoc**:: f. 37
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30072

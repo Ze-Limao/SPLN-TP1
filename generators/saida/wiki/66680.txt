@@ -1,0 +1,41 @@
+====== 66680 - DC - Concerto de Guilhermina Suggia ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Concerto de Guilhermina Suggia
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1905
+**UnitDateFinal**:: 1905-08-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56728
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66680
+
+===== Filhos =====
+  * [[55474.txt|55474 - DC - Programa do concerto de Guilhermina Suggia]]
+  * [[55475.txt|55475 - DC - Programa do concerto de Guilhermina Suggia]]
+  * [[66682.txt|66682 - DC - Ofício do Consulado Geral de Portugal em Berlim para Visconde de Pindela]]
+  * [[66687.txt|66687 - DC - Minuta de Telegrama para Norbert Salter do Visconde de Pindela]]
+  * [[66689.txt|66689 - DC - Carta de Francisco Andrade para Visconde de Pindela]]
+  * [[66693.txt|66693 - DC - Minuta de carta de Visconde de Pindela]]
+  * [[66694.txt|66694 - DC - Minuta de carta de Visconde de Pindela]]
+  * [[66700.txt|66700 - DC - Minuta de carta de Visconde de Pindela]]
+  * [[66701.txt|66701 - DC - Telegrama de Norbert Salter para Visconde de Pindela]]
+  * [[66704.txt|66704 - DC - Minuta de carta de Visconde de Pindela para Guilhermina Suggia]]
+  * [[66705.txt|66705 - DC - Minuta de carta de Visconde de Pindela para Norbert Salter]]
+  * [[66706.txt|66706 - DC - Minuta de carta de Visconde de Pindela]]
+  * [[66707.txt|66707 - DC - Minuta de carta de Visconde de Pindela para Francisco Andrade]]
+  * [[66708.txt|66708 - DC - Cartão de visita de Norbert Salter]]
+  * [[66710.txt|66710 - DC - Telegrama de Norbert Salter para Visconde de Pindela]]
+  * [[66711.txt|66711 - DC - Telegrama de Norbert Salter para Visconde de Pindela]]
+  * [[66712.txt|66712 - DC - Carta de Guilhermina Suggia para Viscondessa de Pindela]]
+  * [[66713.txt|66713 - DC - Carta de Guilhermina Suggia para Visconde de Pindela]]
+  * [[66717.txt|66717 - DC - Ofício de Norbert Salter para Visconde de Pindela]]
+  * [[66718.txt|66718 - DC - Ofício de Norbert Salter para Visconde de Pindela]]
+  * [[66720.txt|66720 - DC - Ofício de Norbert Salter para Visconde de Pindela]]
+  * [[66721.txt|66721 - DC - Ofício de Norbert Salter para Visconde de Pindela]]
+  * [[66722.txt|66722 - DC - Ofício de Norbert Salter para Visconde de Pindela]]
+  * [[66724.txt|66724 - DC - Ofício de Norbert Salter para Visconde de Pindela]]
+  * [[67184.txt|67184 - DC - Correspondência antes do concerto e depois. Chantage Suggia]]

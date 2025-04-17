@@ -1,0 +1,16 @@
+====== 24717 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-03-19
+**UnitDateFinal**:: 1914-03-19
+**ScopeContent**:: António Ferraz refere a visita aos sobrinhos em Famalicão e lamenta não ter encontrado JAM para discutirem as sugestões que lhe deixou em Barcelos. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24717
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 218 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24717

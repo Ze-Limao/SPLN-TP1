@@ -1,0 +1,18 @@
+====== 50645 - DC - Registo do recenseamento militar de ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 1842.03-27
+Filiação - Custódia Plácida
+Naturalidade - Pedome
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50645
+**LangMaterial**:: Português
+**PhysLoc**:: 98v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50645

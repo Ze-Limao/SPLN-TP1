@@ -1,0 +1,15 @@
+====== 65697 - DC - Emprazamento do casal do Outro, situado na freguesia de Fradelos, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, metade a João Pais e sua mulher e outra metade a Francisco Anes ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal do Outro, situado na freguesia de Fradelos, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, metade a João Pais e sua mulher e outra metade a Francisco Anes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1571-06-16
+**UnitDateFinal**:: 1571-06-16
+**ScopeContent**:: Manuscrito, original. No canto superior esquerdo "Nº9".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 66 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65697

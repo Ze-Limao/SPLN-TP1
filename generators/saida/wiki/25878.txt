@@ -1,0 +1,16 @@
+====== 25878 - DC - Convite para as festas da Árvore de Natal ======
+
+**Parent**:: 25085
+**RootParent**:: 20342
+**UnitTitle**:: Convite para as festas da Árvore de Natal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-12
+**UnitDateFinal**:: 1934-12
+**ScopeContent**:: Festas da Árvore de Natal promovidas pela Comissão das Senhoras Maria Eva Pereira da Silva, Adília Lemos, Armandina Folhadela de Macedo, Lúcia de Sá e Sousa, Glória Aguiar, Carolina Varela, Maria Elisa Folhadela Marques, Estela Bouças, Rosa Carvalho, Maria Fernanda Folhadela de Melo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25878
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 183 - cx. 47
+depósito 3, estante
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25878

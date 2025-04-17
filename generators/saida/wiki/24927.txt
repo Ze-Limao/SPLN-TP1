@@ -1,0 +1,15 @@
+====== 24927 - UI - Processo de contas Caixa 1964 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Processo de contas Caixa 1964
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1964-01-01
+**UnitDateFinal**:: 1964-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24927
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 44 - cx. 15
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24927

@@ -1,0 +1,17 @@
+====== 61524 - DC - Briefing de Imprensa Rotary Club de Famalicão ======
+
+**Parent**:: 61195
+**RootParent**:: 60551
+**UnitTitle**:: Briefing de Imprensa Rotary Club de Famalicão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1995-03-24
+**UnitDateFinal**:: 1995-03-24
+**ScopeContent**:: Briefing de Imprensa Rotary Club de Famalicão. 19 p. (2 exemplares). No 25º aniversário 1970-1995 do RCF(2 exem.fotocopiados).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 270 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61524

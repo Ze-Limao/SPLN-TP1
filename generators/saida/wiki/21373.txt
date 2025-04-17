@@ -1,0 +1,16 @@
+====== 21373 - UI - David de Sousa Carmona ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: David de Sousa Carmona
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-08-12
+**UnitDateFinal**:: 1905-07-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21373
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1329
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21373
+
+===== Filhos =====
+  * [[30197.txt|30197 - DC - Carta]]

@@ -1,0 +1,19 @@
+====== 9593 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Gaspar Joaquim Coelho e Rita da Costa Simões
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1877-06-13
+Profissão - 
+Estado civil - 
+Residência - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9593
+**LangMaterial**:: Português
+**PhysLoc**:: f. 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9593

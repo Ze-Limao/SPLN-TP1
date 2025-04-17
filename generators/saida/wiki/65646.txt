@@ -1,0 +1,15 @@
+====== 65646 - DC - Dote e património de Inácio Ferreira Velho e sua mulher Maria Josefa da Costa Moreira que doam a João da Costa Moreira, o campo da Solvada, situado na freguesia de Mouquim, para que se possa ordenar ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Dote e património de Inácio Ferreira Velho e sua mulher Maria Josefa da Costa Moreira que doam a João da Costa Moreira, o campo da Solvada, situado na freguesia de Mouquim, para que se possa ordenar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1777-08-07
+**UnitDateFinal**:: 1777-08-07
+**ScopeContent**:: Manuscrito, instrumento, sem capa. A doação é feita em vida e enquanto não for colado em Benefício próprio e suficiente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 187 - cx. 9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65646

@@ -1,0 +1,14 @@
+====== 80028 - UI - Processo nº 5 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 5
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-01-20
+**UnitDateFinal**:: 1970-03-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 41 - cx. 3
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80028

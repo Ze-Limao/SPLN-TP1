@@ -1,0 +1,18 @@
+====== 8537 - DC - Termo do exame de Manuel Carneiro Dias dos Santos ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Carneiro Dias dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-07-27
+**UnitDateFinal**:: 1887-07-27
+**ScopeContent**:: Grau - Elementar
+Idade - 16
+Filiação - José Carneiro dos Santos
+Naturalidade - Bougado, Trofa
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8537
+**LangMaterial**:: Português
+**PhysLoc**:: f. 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8537

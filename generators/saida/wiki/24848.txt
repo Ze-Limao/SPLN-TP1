@@ -1,0 +1,16 @@
+====== 24848 - DC - Carta ======
+
+**Parent**:: 21077
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-01-05
+**UnitDateFinal**:: 1922-01-05
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado do Diário de Notícias - Direcção.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24848
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 281 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24848

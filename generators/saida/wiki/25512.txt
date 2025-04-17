@@ -1,0 +1,16 @@
+====== 25512 - DC - Carta ======
+
+**Parent**:: 21132
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-10-12
+**UnitDateFinal**:: 1875-10-12
+**ScopeContent**:: Carta manuscrita assinada, de Braga. Monograma timbrado no papel de carta.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25512
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 467 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25512

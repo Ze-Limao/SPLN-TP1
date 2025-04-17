@@ -1,0 +1,22 @@
+====== 21219 - UI - Júlio de Lemos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Júlio de Lemos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1919-12-09
+**UnitDateFinal**:: 1929-12-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21219
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 874, 875, 876, 877, 878, 879, 880
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21219
+
+===== Filhos =====
+  * [[26080.txt|26080 - DC - Ofício]]
+  * [[26081.txt|26081 - DC - Carta]]
+  * [[26082.txt|26082 - DC - Carta]]
+  * [[26083.txt|26083 - DC - Carta]]
+  * [[26084.txt|26084 - DC - Carta]]
+  * [[26085.txt|26085 - DC - Ofício]]
+  * [[26086.txt|26086 - DC - Carta]]

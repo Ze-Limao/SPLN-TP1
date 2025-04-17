@@ -1,0 +1,16 @@
+====== 28188 - DC - Jan. de 1900 Carignan Bousche ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Jan. de 1900 Carignan Bousche
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-01
+**UnitDateFinal**:: 1900-01
+**ScopeContent**:: Indicação do número de bacelos e locais de plantação das castas Carignan Bouschet e Chasselas de Ciontat. Indicação dos locais onde ficaram plantados os bacelos da casta Carignan Bouschet. Na primeira anotação, Alberto Sampaio acrescentou mais tarde a lápis: «cacho grande, m.to bom mas não é Carignan Bouschet». Em duas outras notas que constam do mesmo documento, na primeira é dito que são desconhecidas umas vides da vinha baixa, tendo as mesmas sido plantadas porque os cachos «eram muito bons». A segunda e última nota, referente a uma outra casta Chasselas de Ciontat é respeitante a um viveiro produzido a partir de um grupo destas videiras «no tabuleiro da Pereira Velha d’ Amorim, defronte da lata sobre o lameiro, no quintal».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28188
+**LangMaterial**:: Português
+**PhysLoc**:: AS 460 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28188

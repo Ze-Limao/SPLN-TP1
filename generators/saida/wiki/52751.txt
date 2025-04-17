@@ -1,0 +1,18 @@
+====== 52751 - DC - Registo do recenseamento militar de João do Rego ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João do Rego
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-04-01
+Filiação - Manuel do Rego e Ana Bezerra
+Naturalidade - Vale S. Cosme
+Profissão - Criado de servir
+Residência - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52751
+**LangMaterial**:: Português
+**PhysLoc**:: 62v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52751

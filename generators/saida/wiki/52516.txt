@@ -1,0 +1,18 @@
+====== 52516 - DC - Registo do recenseamento militar de Luís do Nascimento Oliveira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís do Nascimento Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1849-01-06
+Filiação - Manuel José de Oliveira e Maria Emília do Nascimento
+Naturalidade - Novais
+Profissão - Estudante
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52516
+**LangMaterial**:: Português
+**PhysLoc**:: 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52516

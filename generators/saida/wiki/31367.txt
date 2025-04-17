@@ -1,0 +1,16 @@
+====== 31367 - SF - Casa de Vila Real ======
+
+**Parent**:: 31258
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Vila Real
+**DescriptionLevel**:: SF
+**UnitDateInitial**:: 1843
+**UnitDateFinal**:: 1936
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31367
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31367
+
+===== Filhos =====
+  * [[31368.txt|31368 - SC - Fernando de Sousa Botelho Mourão e Vasconcelos e Júlia Adelaide Braamcamp de Almeida Castelo-Branco]]
+  * [[31371.txt|31371 - SC - Isabel Maria de Sousa Botelho Mourão e Vasconcelos e Anselmo de Sousa Botelho Mourão e Vasconcelos e Alexandre de Sousa Botelho Mourão e Vasconcelos e Maria Inácia de Sousa Botelho Mourão e Vasconcelos]]
+  * [[31382.txt|31382 - SC - Fernando Teixeira Homem de Brederode]]

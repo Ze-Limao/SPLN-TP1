@@ -1,0 +1,18 @@
+====== 8905 - DC - Termo do exame de Augusto de Castro Correia de Carvalho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Augusto de Castro Correia de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-21
+**UnitDateFinal**:: 1894-07-21
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Francisco Correia de Carvalho
+Naturalidade - Seide S. Paio
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8905
+**LangMaterial**:: Português
+**PhysLoc**:: f. 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8905

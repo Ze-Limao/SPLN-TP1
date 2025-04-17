@@ -1,0 +1,16 @@
+====== 29235 - DC - Envelope ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Envelope
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-04-12
+**UnitDateFinal**:: 1898-04-12
+**ScopeContent**:: Anexo à fatura AS 351, com timbre da Companhia Hortícola e selo com carimbo do correio de 12 de Abril de 1898.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29235
+**LangMaterial**:: Português
+**PhysLoc**:: AS 352 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29235

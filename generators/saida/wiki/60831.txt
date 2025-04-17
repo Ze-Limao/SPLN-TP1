@@ -1,0 +1,25 @@
+====== 60831 - SR - Rodrigo F. da Silva. FISA ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Rodrigo F. da Silva. FISA
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1970
+**ScopeContent**:: Edição de Rodrigo F. da Silva. Ediciones FISA Barcelona. Impresso em Espanha, Dep. legal B. 15326-VII. No verso a legenda em todos os postais em português, francês e inglês, "Reprodução proibida". Contém o brasão de Vila Nova de Famalicão no canto esquerdo do bilhete-postal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60831
+
+===== Filhos =====
+  * [[60832.txt|60832 - DC - Landim. Capela de Nª Sª das Candeias, Senhor dos Passos e S. Bráz]]
+  * [[60833.txt|60833 - DC - Casa-Museu de Camilo Castelo Branco em Seide]]
+  * [[60834.txt|60834 - DC - Monumento a  D. Maria II]]
+  * [[60835.txt|60835 - DC - Mosteiro de Arnoso (Românico)]]
+  * [[60836.txt|60836 - DC - Paços do Concelho e Palácio da Justiça (vista nocturna)]]
+  * [[60837.txt|60837 - DC - Paços do Concelho e Palácio da Justiça]]
+  * [[60838.txt|60838 - DC - Trecho da Vila]]
+  * [[60839.txt|60839 - DC - Praça e Edifício da Sede da Fundação Cupertino de Miranda]]
+  * [[60840.txt|60840 - DC - Trajes Rústicos Regionais]]
+  * [[61029.txt|61029 - DC - Monumento a  D. Maria II]]

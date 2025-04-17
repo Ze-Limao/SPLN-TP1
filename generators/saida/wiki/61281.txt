@@ -1,0 +1,16 @@
+====== 61281 - DC - Bilhete-postal ======
+
+**Parent**:: 60925
+**RootParent**:: 60550
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933-11-18
+**UnitDateFinal**:: 1933-11-19
+**ScopeContent**:: Bilhete-postal de La Guardia para Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 21 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61281

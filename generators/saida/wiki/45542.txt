@@ -1,0 +1,17 @@
+====== 45542 - DC - Postal de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 45529
+**RootParent**:: 31258
+**UnitTitle**:: Postal de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-03-23
+**UnitDateFinal**:: 1914-03-23
+**ScopeContent**:: Postal manuscrito assinado, da Casa de Pindela para Estocolmo. Postal ilustrado com legenda "Famalicão: Mosteiro d´Arnozo última oração. Cliché de Ilydio Gama".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45542
+**LangMaterial**:: Português
+**PhysLoc**:: CP 414 - cx. 3
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45542

@@ -1,0 +1,18 @@
+====== 50635 - DC - Registo do recenseamento militar de Jerónimo ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Jerónimo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-04-10
+Filiação - José Luís Tinoco de Araújo e Maria Rita da Costa e Sousa
+Naturalidade - Vila Nova de Famalicão
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50635
+**LangMaterial**:: Português
+**PhysLoc**:: 94v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50635

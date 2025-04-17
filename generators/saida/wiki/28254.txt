@@ -1,0 +1,16 @@
+====== 28254 - DC - As Póvoas Marítimas do Norte de Portugal: capítulos I, II, III. ======
+
+**Parent**:: 28243
+**RootParent**:: 27963
+**UnitTitle**:: As Póvoas Marítimas do Norte de Portugal: capítulos I, II, III.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Provas tipográficas de uma parte do capítulo I: Desde os tempos proto-históricos até aos novigodos (pp.9-23), capítulo II: O mar fechado: a tomada de Lisboa (pp. 26-36), capítulo III: O mar livre (pp. 38-61), da obra As Póvoas Marítimas do Norte de Portugal a publicar pela revista «Portugália». Emendas a lápis e a tinta. No meio das páginas 54 e 55 um manuscrito com a indicação das principais erratas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28254
+**LangMaterial**:: Português
+**PhysLoc**:: AS 14 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28254

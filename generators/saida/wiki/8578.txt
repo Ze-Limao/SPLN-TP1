@@ -1,0 +1,18 @@
+====== 8578 - DC - Rosendo Gomes da Costa ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Rosendo Gomes da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-07-20
+**UnitDateFinal**:: 1888-07-20
+**ScopeContent**:: Grau - Elementar
+Idade - 8
+Filiação - António Joaquim da Costa
+Naturalidade - Jesufrei
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8578
+**LangMaterial**:: Português
+**PhysLoc**:: f. 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8578

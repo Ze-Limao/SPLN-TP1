@@ -1,0 +1,19 @@
+====== 62560 - DC - Registo do recenseamento militar de José Maria ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Maria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - José Joaquim da Costa e Ana Joaquina da Silva, na freguesia
+Naturalidade - Antas
+Morada - Antas
+Data de nascimento - 1856-06-10
+Emprego - Alfaiate
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62560

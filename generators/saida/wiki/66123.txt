@@ -1,0 +1,15 @@
+====== 66123 - DC - Escritura de compra que faz cónego António Joaquim Ribeiro de campos desta vila a Maria de Miranda, viúva do Calendário ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra que faz cónego António Joaquim Ribeiro de campos desta vila a Maria de Miranda, viúva do Calendário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-11-17
+**UnitDateFinal**:: 1866-11-17
+**ScopeContent**:: Manuscrito em papel azul timbrado “Tesouro publico XL”, original, sem capa. No canto esquerdo superior “Nota nº20. Af 96 vº”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 308 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66123

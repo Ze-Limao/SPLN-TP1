@@ -1,0 +1,18 @@
+====== 28504 - DC - Pesquisas bibliográficas sobre matérias da história marítima na 1.ª dinastia ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Pesquisas bibliográficas sobre matérias da história marítima na 1.ª dinastia
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28504
+**LangMaterial**:: Português
+**PhysLoc**:: AS 89 (1) a 89 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28504
+
+===== Filhos =====
+  * [[28505.txt|28505 - DC - Para a história marítima do Minho]]
+  * [[28506.txt|28506 - DC - Sobre as esquadras de D. Dinis]]

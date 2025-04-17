@@ -1,0 +1,15 @@
+====== 65899 - DC - Emprazamento do casal do Pelho, feito por Diogo Afonso, abade de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal do Pelho, feito por Diogo Afonso, abade de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1481-07-20
+**UnitDateFinal**:: 1481-07-20
+**ScopeContent**:: Manuscrito, original. Cópia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 611 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65899

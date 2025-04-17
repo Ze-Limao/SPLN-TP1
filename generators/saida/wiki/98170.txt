@@ -1,0 +1,17 @@
+====== 98170 - DC - Recibo do valor que fez Manuel José da Costa Fortunato da despesa de duas minas que tirou no monte do Senhor dos Aflitos a Vicente Machado de Melo Pinheiro ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Recibo do valor que fez Manuel José da Costa Fortunato da despesa de duas minas que tirou no monte do Senhor dos Aflitos a Vicente Machado de Melo Pinheiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1840-07-10
+**UnitDateFinal**:: 1841-03-22
+**ScopeContent**:: Manuscrito em papel timbrado "Causa Publica 40 reis", numa "Pasta nº 2 Cazal Nº 1 P". Este documento estava na caixa ““Pasta nº2 Anno 1841”, que contém CP 12875 a CP 12958.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12876(3) - cx. 79
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98170

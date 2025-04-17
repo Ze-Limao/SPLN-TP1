@@ -1,0 +1,19 @@
+====== 34139 - DC - Registo do recenseamento militar de Manuel de Araújo ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Carreira
+Data de nascimento - 1852-12-08
+Filiação - António José de Araújo e Ana Maria Correia de Araújo
+Profissão - Lavoura
+Estado - Casado
+Morada - Carreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34139
+**LangMaterial**:: Português
+**PhysLoc**:: 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34139

@@ -1,0 +1,16 @@
+====== 99067 - UI - Mario da Cunha Motta Horticultor ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Mario da Cunha Motta Horticultor
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-01-20
+**UnitDateFinal**:: 1916-12-28
+**ScopeContent**:: Horticultor, vende plantas e sementes, do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99067
+
+===== Filhos =====
+  * [[99068.txt|99068 - DC - Ofício]]
+  * [[99327.txt|99327 - DC - Ofício]]

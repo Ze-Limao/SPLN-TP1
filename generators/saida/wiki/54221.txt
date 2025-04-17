@@ -1,0 +1,17 @@
+====== 54221 - DC - Correspondência enviada e recebida e outros documentos ======
+
+**Parent**:: 53753
+**RootParent**:: 25851
+**UnitTitle**:: Correspondência enviada e recebida e outros documentos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1952-05-06
+**UnitDateFinal**:: 1959-12-30
+**ScopeContent**:: Minutas de ofícios datilografados e cópia do projeto de arquitetura JG enviados para Ministérios, organismos do Estado e ao Arq. JG. Sobre a obra do novo edifício dos Paços de Concelho e Tribunal. Contém vários Autos de Medição e custos da obra (nº1 ao 9); Auto da receção de abertura de propostas para Concurso público para adjudicação da empreitada da construção dos edifícios (1956.05.17); Projecto do novo edifício dos Paços de Concelho - aditamento (1956.03.14) com Cópias de plantas do Projecto da Câmara Municipal de Famalicão Correspondência recebida na Câmara do arquiteto Januário Godinho e outros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54221
+**LangMaterial**:: Português
+**PhysLoc**:: JG 175 - cx. 8
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54221

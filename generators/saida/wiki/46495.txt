@@ -1,0 +1,18 @@
+====== 46495 - DC - Registo do recenseamento eleitoral de Bento José da Costa Fortunato ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Bento José da Costa Fortunato
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Mouquim
+Profissão - Lavrador
+Estado - Casado
+Morada - Cachadas
+Idade - 47
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46495
+**LangMaterial**:: Português
+**PhysLoc**:: 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46495

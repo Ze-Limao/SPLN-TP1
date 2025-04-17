@@ -1,0 +1,17 @@
+====== 56792 - DC - Ruy Blas: Drama lírico in 4 Atti Musica del Mtro Cav. F. Marchetti, riduzione per pianoforte ======
+
+**Parent**:: 54529
+**RootParent**:: 31258
+**UnitTitle**:: Ruy Blas: Drama lírico in 4 Atti Musica del Mtro Cav. F. Marchetti, riduzione per pianoforte
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1854
+**UnitDateFinal**:: 1854
+**ScopeContent**:: Partitura impressa com 154 páginas. Ruy Blas é um drama em cinco atos, de Victor Hugo. Foi encenado pela primeira vez pela companhia do Teatro da Renascença na sala Ventadour, em 8 de novembro de 1838. Uma ópera com o mesmo nome, de Filippo Marchetti, com libretto de Carlo d'Ormeville foi encenada no La Scala de Milão, em 1869.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56792
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2439 - cx. 100
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56792

@@ -1,0 +1,17 @@
+====== 54591 - DC - Telegrama ======
+
+**Parent**:: 54590
+**RootParent**:: 31258
+**UnitTitle**:: Telegrama
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-07-22
+**UnitDateFinal**:: 1892-07-22
+**ScopeContent**:: Este telegrama pertence ao maço "Telegramas por morte de Grácia Xavier Pinheiro". Enviado de Pedras para Lisboa, à Lapa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54591
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11833 - cx.
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54591

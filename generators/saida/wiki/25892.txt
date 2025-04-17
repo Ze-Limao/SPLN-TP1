@@ -1,0 +1,16 @@
+====== 25892 - DC - Batismo do 1º carro Berliet da AHBVF ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Batismo do 1º carro Berliet da AHBVF
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926-06-27
+**UnitDateFinal**:: 1926-06-27
+**ScopeContent**:: Inauguração do 1º carro de pronto-socorro Berliet, na festa de aniversário da fundação da Associação, oferecido pela Eléctrica. A madrinha foi Maria Estela, filha de António Dias Costa, benzida pelo Mons. Torres Carneiro, com sessão solene no Cinema Olímpia. A partir de 1926 a Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão passou a dispor do seu primeiro pronto-socorro para o combate a incêndios. Os carros de tração animal e braçal que, até então, se utilizavam, começavam a ter os seus dias contados! Para angariar o montante necessário para a aquisição do carro Berliet e da bomba Delahaye a população foi chamada a dar a sua contribuição através de uma subscrição. António Dias Costa, Vice-Presidente da Assembleia-Geral da Associação Humanitária de Bombeiros Voluntários em 1922, assumiu-se como o grande benfeitor ao oferecer o chassis do carro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25892
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25892

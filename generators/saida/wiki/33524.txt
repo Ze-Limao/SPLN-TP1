@@ -1,0 +1,17 @@
+====== 33524 - DC - Carta ======
+
+**Parent**:: 33521
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-04-15
+**UnitDateFinal**:: 1888-04-15
+**ScopeContent**:: Carta manuscrita assinada. Esta carta pertence ao maço organizado por João Machado "Correspondência diversa recebida em 1888 pela V. D. Amália".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33524
+**LangMaterial**:: Português
+**PhysLoc**:: CP 691 - cx. 5
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33524

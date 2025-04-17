@@ -1,0 +1,16 @@
+====== 23947 - DC - Registo do recenseamento eleitoral de António da Costa Ortiga ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António da Costa Ortiga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Antas
+Profissão - Lavrador
+Morada - Feira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23947
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23947

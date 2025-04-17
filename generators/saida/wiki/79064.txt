@@ -1,0 +1,17 @@
+====== 79064 - DC - Convite de casamento de Eulália Estelita Freitas e João Machado Pinheiro de Mello ======
+
+**Parent**:: 54366
+**RootParent**:: 31258
+**UnitTitle**:: Convite de casamento de Eulália Estelita Freitas e João Machado Pinheiro de Mello
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1853-01
+**UnitDateFinal**:: 1853-01
+**ScopeContent**:: Impresso. João Machado Pinheiro de Melo casou (2º casamento) com Eulália Estelita de Freitas Rangel de Quadros, em 19 de janeiro de 1853.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8204 - cx. 51
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79064

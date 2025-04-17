@@ -1,0 +1,15 @@
+====== 20070 - UI - Termos de abonação e reconhecimento de identidade para requisição de passaportes ======
+
+**Parent**:: 20065
+**RootParent**:: 20048
+**UnitTitle**:: Termos de abonação e reconhecimento de identidade para requisição de passaportes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-12-30
+**UnitDateFinal**:: 1892-08-06
+**ScopeContent**:: Termo de abertura: “Há de servir este livro para se lançarem os termos de reconhecimento e abonação de identidade das pessoas…”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20070
+**LangMaterial**:: Português
+**PhysLoc**:: AC 57
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20070

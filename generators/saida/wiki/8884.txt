@@ -1,0 +1,18 @@
+====== 8884 - DC - Termo do exame de António Carvalho Ribeiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António Carvalho Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-17
+**UnitDateFinal**:: 1894-07-17
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - José Carvalho Ribeiro
+Naturalidade - Antas
+Classificação - Distinto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8884
+**LangMaterial**:: Português
+**PhysLoc**:: f. 56
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8884

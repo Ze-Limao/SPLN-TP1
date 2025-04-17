@@ -1,0 +1,14 @@
+====== 54862 - UI - Bessa ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Bessa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1887
+**UnitDateFinal**:: 1887
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54862
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54862
+
+===== Filhos =====
+  * [[54863.txt|54863 - DC - Carta]]

@@ -1,0 +1,17 @@
+====== 100732 - DC - Instituição do morgado Miguel Pinheiro Figueira a favor de Baltasar Pinheiro Lobo ======
+
+**Parent**:: 54464
+**RootParent**:: 31258
+**UnitTitle**:: Instituição do morgado Miguel Pinheiro Figueira a favor de Baltasar Pinheiro Lobo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1617-05-15
+**UnitDateFinal**:: 1617-05-15
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº 1 Cazal nº 1 G". Este documento estava na caixa “Pasta nº1 Anno 1841”, que contém CP 13170 a CP 13193. Com folhas de papel manuscrito com transcrição do documento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54256
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13175 - cx. 87
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100732

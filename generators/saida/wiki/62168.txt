@@ -1,0 +1,20 @@
+====== 62168 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Vicente Rodrigues de Sá e Maria Joana de Abreu, na freguesia
+Naturalidade - Abade de Vermoim
+Morada - Ignora-se
+Data de nascimento - 1861-10-27
+Emprego - Estudante
+Estado - Solteiro
+Residência acidental - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62168

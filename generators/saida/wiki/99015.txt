@@ -1,0 +1,15 @@
+====== 99015 - UI - Francisco Mendes Galvão ======
+
+**Parent**:: 98419
+**RootParent**:: 31258
+**UnitTitle**:: Francisco Mendes Galvão
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98896
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99015
+
+===== Filhos =====
+  * [[99016.txt|99016 - DC - Carta]]
+  * [[99020.txt|99020 - DC - Carta]]
+  * [[99031.txt|99031 - DC - Carta]]
+  * [[99041.txt|99041 - DC - Carta]]

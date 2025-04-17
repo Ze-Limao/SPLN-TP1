@@ -1,0 +1,18 @@
+====== 48135 - DC - Registo do recenseamento eleitoral de Alexandre José da Silva ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Alexandre José da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Landim
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Cardal
+Idade - 62
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48135
+**LangMaterial**:: Português
+**PhysLoc**:: 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48135

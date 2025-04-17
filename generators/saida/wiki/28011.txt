@@ -1,0 +1,17 @@
+====== 28011 - DC - Ao Distincto Actor Simões na Récita do seu benefício em 22 de Março: O Homem - o bello - o artista. ======
+
+**Parent**:: 27975
+**RootParent**:: 27963
+**UnitTitle**:: Ao Distincto Actor Simões na Récita do seu benefício em 22 de Março: O Homem - o bello - o artista.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-01-22
+**UnitDateFinal**:: 1862-01-22
+**ScopeContent**:: Poema de Antero de Quental. 
+«Alcançou Antero a segunda ovação na noite de 13 de Maio. O actor José Simões Nunes Borges gozava de grande apreço entre os estudantes. Em 2 de Abril de 1862 representara no Teatro Académico, e após breve ausência volveu a Coimbra, e já em 25 desse mês O Conimbricense dava notícia de ser esperado na cidade no dia seguinte, para entrar no desempenho do drama Prestigiador, a subir à cena no referido teatro. […] Em 7 de Maio representou-se no Teatro Académico o drama anunciado, traduzido do francês, e no número de 10 do referido mês O Conimbricense elogiava Simões, pelo desempenho do extenso e difícil papel de protagonista. Neste dia tornou à cena o mesmo drama, e tanto Simões como os actores académicos foram muito aplaudidos, representando em seguida o festejado actor a peça cómica Sebastianistas. Finalmente a última récita efectuou-se em 13 de Maio com a representação do primeiro acto de Probidade, o segundo de Trabalho e honra, o terceiro de Prestigiador, além da comédia Tribulações e ventura. Foi nesta récita que Fialho de Almeida recitou os versos de Antero.». Refreência bibliográfica: Mário Brandão - Estudos Vários, vol. II. Coimbra: Imprensa de Coimbra, Limitada, 1974, pp. 212-213.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28011
+**LangMaterial**:: Português
+**PhysLoc**:: AS 279 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28011

@@ -1,0 +1,16 @@
+====== 8316 - UI - Câmara Municipal de Vila Nova de Famalicão ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Câmara Municipal de Vila Nova de Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-06-27
+**UnitDateFinal**:: 1895-06-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8316
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.21
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8316
+
+===== Filhos =====
+  * [[8317.txt|8317 - DC - Ofício]]

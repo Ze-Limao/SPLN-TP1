@@ -1,0 +1,13 @@
+====== 8312 - DC - Carta ======
+
+**Parent**:: 8309
+**RootParent**:: 8241
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-03-11
+**UnitDateFinal**:: 1895-03-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8312
+**LangMaterial**:: Português
+**PhysLoc**:: Arquivo Sousa Fernandes, Correspondência, 34, nº 50
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8312

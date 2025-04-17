@@ -1,0 +1,19 @@
+====== 25046 - UI - Processo referente ao desastre rodoviário ocorrido em 24 de novembro de 1953 na estrada Porto-Braga ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Processo referente ao desastre rodoviário ocorrido em 24 de novembro de 1953 na estrada Porto-Braga
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1953-11-24
+**UnitDateFinal**:: 1953-11-24
+**ScopeContent**:: Contém: Correspondência, fotografias, recortes de imprensa, relatório, declaração. Desastre ocorrido a 24 novembro na estrada Porto-Braga, freguesia de Arnoso. Queda de uma camioneta de carga de Leiria no precipício junto de um ribeiro em Arnoso, estrada Porto Braga, em que esteve em risco a vida do motorista Angelino Sousa Luz e foi salvo por dois bombeiros voluntários. Estes obtiveram a Medalha de Cobre de Abnegação concedida pela direção da Associação no ano seguinte.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25046
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 148 - cx. 38
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25046
+
+===== Filhos =====
+  * [[25052.txt|25052 - DC - Desastre rodoviário ocorrido na estrada Porto-Braga]]

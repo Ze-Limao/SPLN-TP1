@@ -1,0 +1,16 @@
+====== 22687 - DC - Registo do recenseamento eleitoral de José Lopes Martins ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Lopes Martins
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Louro
+Profissão - Lavrador
+Morada - Ribela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22687
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22687

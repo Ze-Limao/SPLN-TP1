@@ -1,0 +1,16 @@
+====== 20373 - SSC - Assistência ======
+
+**Parent**:: 20347
+**RootParent**:: 20342
+**UnitTitle**:: Assistência
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1904-01-11
+**UnitDateFinal**:: 1911-04-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20373
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20373
+
+===== Filhos =====
+  * [[25038.txt|25038 - UI - Assistência aos tuberculosos pobres: Registo de doentes]]

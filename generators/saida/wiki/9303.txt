@@ -1,0 +1,19 @@
+====== 9303 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Joaquim Machado e Bernardina Rosa de Azevedo
+Naturalidade - Ribeirão
+Data de nascimento - 1877-03-02
+Profissão - Criado de servir
+Estado civil - Solteiro
+Residência - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9303
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9303

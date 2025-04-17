@@ -1,0 +1,18 @@
+====== 46499 - DC - Registo do recenseamento eleitoral de João de Araújo e Silva ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João de Araújo e Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Mouquim
+Profissão - Lavrador
+Estado - Casado
+Morada - Gandra
+Idade - 61
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46499
+**LangMaterial**:: Português
+**PhysLoc**:: 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46499

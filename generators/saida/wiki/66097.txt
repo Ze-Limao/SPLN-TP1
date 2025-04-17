@@ -1,0 +1,15 @@
+====== 66097 - DC - Tombo da Ração do padre João Gomes da Silva da freguesia de S.Tiago de Antas tirado do tombo da mitra de Braga ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Tombo da Ração do padre João Gomes da Silva da freguesia de S.Tiago de Antas tirado do tombo da mitra de Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1551-02-15
+**UnitDateFinal**:: 1662-02-20
+**ScopeContent**:: Manuscrito, treslado, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 299 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66097

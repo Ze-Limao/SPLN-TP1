@@ -1,0 +1,17 @@
+====== 57243 - DC - Comissão de Viticultura dos Vinhos Verdes. Archivo especial. Minha atitude depois de ter sahido da Comissão Executiva ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura dos Vinhos Verdes. Archivo especial. Minha atitude depois de ter sahido da Comissão Executiva
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1935-03
+**UnitDateFinal**:: 1935-03
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes que contém CP 9511 a CP 9519.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57243
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9510 - cx. 59
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57243

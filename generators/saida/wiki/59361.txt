@@ -1,0 +1,17 @@
+====== 59361 - DC - Ofício, minuta de ofício e documento "Os caminhos de ferro e o fomento da cultura do milho" ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Ofício, minuta de ofício e documento "Os caminhos de ferro e o fomento da cultura do milho"
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1929-10-08
+**UnitDateFinal**:: 1929-10-24
+**ScopeContent**:: Ofício datilografado dirigido ao 3º Visconde de Pindela do Gabinete da Secção Comercial da Federação dos Sindicatos Agrícolas do Norte, em papel timbrado, 1 f., datado de 1929-10-08, solicitando o artigo sobre os caminhos de ferro e o fomento da cultura do milho.; Minuta de ofício datilografada para o Gerente da Secção Comercial da da Federação dos Sindicatos Agrícolas do Norte do 3º Visconde de Pindela, datado de 1929-10-24, 1 f., com o artigo datilografado "Os caminhos de ferro e o fomento da cultura do milho", 4 f., datado 1929-10-20, em papel timbrado da federação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2903 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=59361

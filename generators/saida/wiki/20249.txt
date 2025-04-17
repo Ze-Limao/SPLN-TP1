@@ -1,0 +1,14 @@
+====== 20249 - UI - Registo de correspondência recebida nº22 ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº22
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1961-11-24
+**UnitDateFinal**:: 1962-04-30
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir este livro para nele se registar (manuscrito) correspondência…”. Contém dados: nº de ordem, nº e data do documento, data do registo, remetente, assunto. Inicia com registo nº 4748 até ao registo nº 5716. O ano 1962 tem 1989 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20249
+**LangMaterial**:: Português
+**PhysLoc**:: 623
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20249

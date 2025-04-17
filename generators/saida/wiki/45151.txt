@@ -1,0 +1,14 @@
+====== 45151 - UI - Miguel Maria de Sousa Horta e Costa ======
+
+**Parent**:: 31365
+**RootParent**:: 31258
+**UnitTitle**:: Miguel Maria de Sousa Horta e Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-08-19
+**UnitDateFinal**:: 1916-08-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45151
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45151
+
+===== Filhos =====
+  * [[45152.txt|45152 - DC - Carta]]

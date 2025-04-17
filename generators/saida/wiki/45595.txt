@@ -1,0 +1,17 @@
+====== 45595 - DC - Carta ======
+
+**Parent**:: 45555
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-04-24
+**UnitDateFinal**:: 1906-04-24
+**ScopeContent**:: Carta manuscrita assinada, de Estocolmo, em papel de luto. No canto esquerdo manuscrito "Confidencial".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45595
+**LangMaterial**:: Português
+**PhysLoc**:: CP 276 - cx. 3
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45595

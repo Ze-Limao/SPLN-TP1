@@ -1,0 +1,22 @@
+====== 60929 - SR - Livros e impressos ======
+
+**Parent**:: 60550
+**RootParent**:: 60550
+**UnitTitle**:: Livros e impressos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1950-05-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60929
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60929
+
+===== Filhos =====
+  * [[60943.txt|60943 - DC - Do meu baú]]
+  * [[61386.txt|61386 - DC - Do meu baú]]
+  * [[61387.txt|61387 - DC - Carta ao Exmo Senhor Ramsay Mac-Donald, Primeiro Ministro de Inglaterra, de Bernardino Machado]]
+  * [[61388.txt|61388 - DC - Alocução do Presidente Bernardino Machado na cerimonia de intimação do Dr. Afonso Costa]]
+  * [[61389.txt|61389 - DC - A inauguração do monumento a António José de Almeida]]
+  * [[61390.txt|61390 - DC - O 5 de Outubro de 1937]]
+  * [[61391.txt|61391 - DC - Terra de Basto]]
+  * [[61392.txt|61392 - DC - A Velha Lucerna: (últimos lampejos) versos de Daniel Salgado]]
+  * [[61393.txt|61393 - DC - Confraternidade]]

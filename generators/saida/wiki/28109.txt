@@ -1,0 +1,16 @@
+====== 28109 - DC - O vinho verde foi colhido… ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: O vinho verde foi colhido…
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881-02
+**UnitDateFinal**:: 1881-04-26
+**ScopeContent**:: Notas sobre a adição de gelatina Coignet para a clarificação do vinho produzido em 1880.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28109
+**LangMaterial**:: Português
+**PhysLoc**:: AS 382 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28109

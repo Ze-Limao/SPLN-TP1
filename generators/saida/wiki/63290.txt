@@ -1,0 +1,19 @@
+====== 63290 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - António Joaquim Lopes e Carlota Joaquina, ignoram-se
+Naturalidade - Seide S. Paio
+Morada - Ignora-se
+Data de nascimento - 1864-11-02
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63290

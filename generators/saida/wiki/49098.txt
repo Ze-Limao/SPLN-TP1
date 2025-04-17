@@ -1,0 +1,18 @@
+====== 49098 - DC - Registo do recenseamento eleitoral de José Maria de Sousa Fernandes Carneiro ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Maria de Sousa Fernandes Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Requião
+Profissão - Coadjutor
+Estado - Solteiro
+Morada - Residência
+Idade - 30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49098
+**LangMaterial**:: Português
+**PhysLoc**:: 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49098

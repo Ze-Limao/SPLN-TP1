@@ -1,0 +1,16 @@
+====== 61239 - DC - A selagem…o Ministro das Finanças: mais vale sêlo que parecelo ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: A selagem…o Ministro das Finanças: mais vale sêlo que parecelo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924
+**UnitDateFinal**:: 1924
+**ScopeContent**:: Caricatura, desenho assinado Eduardo Faria. Sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 190 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61239

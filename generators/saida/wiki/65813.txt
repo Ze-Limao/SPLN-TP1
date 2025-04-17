@@ -1,0 +1,15 @@
+====== 65813 - DC - Apegação, medição e confrontação do casal da Portela de Cima, situado na freguesia de S. Tiago de Antas, por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, que empraza a António Gonçalves e sua mulher Maria Francisca ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal da Portela de Cima, situado na freguesia de S. Tiago de Antas, por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, que empraza a António Gonçalves e sua mulher Maria Francisca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1691-01-04
+**UnitDateFinal**:: 1691-01-04
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. Para Carta de Vedoria.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 125 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65813

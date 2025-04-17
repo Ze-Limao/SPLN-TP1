@@ -1,0 +1,16 @@
+====== 26092 - DC - Carta ======
+
+**Parent**:: 21224
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-02-08
+**UnitDateFinal**:: 1907-02-08
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26092
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 886 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26092

@@ -1,0 +1,16 @@
+====== 28530 - DC - V. Fr. Luiz de Sousa ======
+
+**Parent**:: 28524
+**RootParent**:: 27963
+**UnitTitle**:: V. Fr. Luiz de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: «Já notamos anteriormente, como em 1603 se navegava de Vila do Conde para as Índias Orientais; neste mesmo século, o que parece hoje inacreditável, construiu-se na Póvoa de Varzim a nau Nossa Senhora de Guadalupe, que tomou parte na defesa do Brasil contra os holandeses: e os moradores de Viana, afirma Fr. Luís de Sousa, traziam no mar por 1619 setenta naus de toda a sorte ocupadas principalmente no comércio do Brasil, e além deste com o das outras conquistas, bem como a França, Flandres, Inglaterra e Alemanha.». Referência bibliográfica: O Norte Marítimo (Notas para uma história) in Estudos Históricos e Económicos, vol. I, ed. 1923, pp. 420-421.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28530
+**LangMaterial**:: Português
+**PhysLoc**:: AS 91 (6) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28530

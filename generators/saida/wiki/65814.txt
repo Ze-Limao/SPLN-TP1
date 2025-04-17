@@ -1,0 +1,15 @@
+====== 65814 - DC - Apegação, medição e confrontação do casal de Agrela, situado na freguesia de S. Pedro de Esmeriz, por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, que empraza a Domingos João e a sua mulher Ana Gomes ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal de Agrela, situado na freguesia de S. Pedro de Esmeriz, por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, que empraza a Domingos João e a sua mulher Ana Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1691-01-22
+**UnitDateFinal**:: 1691-01-22
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. Para passar Carta de Vedoria.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 126 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65814

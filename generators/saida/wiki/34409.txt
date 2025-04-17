@@ -1,0 +1,19 @@
+====== 34409 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1852-03-25
+Filiação - António Moreira e Umbelina Rosa
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34409
+**LangMaterial**:: Português
+**PhysLoc**:: 114v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34409

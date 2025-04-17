@@ -1,0 +1,29 @@
+====== 60904 - SR - Câmara Municipal de Vila Nova de Famalicão - Famalicão Antigo ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Câmara Municipal de Vila Nova de Famalicão - Famalicão Antigo
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1990
+**UnitDateFinal**:: 1990
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9756
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60904
+
+===== Filhos =====
+  * [[60905.txt|60905 - DC - Famalicão - Hospital da Misericórdia]]
+  * [[60906.txt|60906 - DC - Praça 9 de Abril]]
+  * [[60907.txt|60907 - DC - Famalicão - Rua Cinco de Outubro]]
+  * [[60908.txt|60908 - DC - Rua de Santo António]]
+  * [[60909.txt|60909 - DC - Famalicão- Campo Mouzinho de Albuquerque]]
+  * [[60910.txt|60910 - DC - Campo Mouzinho de Albuquerque]]
+  * [[60911.txt|60911 - DC - Campo Mouzinho de Albuquerque]]
+  * [[60912.txt|60912 - DC - Vila Nova de Famalicão - Campo Mouzinho de Albuquerque em dia de feira semanal]]
+  * [[60913.txt|60913 - DC - Famalicão- Rua Santos Viegas]]
+  * [[60914.txt|60914 - DC - Rua Adriano Pinto Basto]]
+  * [[60915.txt|60915 - DC - Rua Adriano Pinto Basto]]
+  * [[60916.txt|60916 - DC - Famalicão- Rua Adriano Pinto Basto]]
+  * [[60917.txt|60917 - DC - Vila Nova de Famalicão - Rua de Adriano Pinto Basto]]
+  * [[60918.txt|60918 - DC - Famalicão- Paços do Concelho]]
+  * [[60919.txt|60919 - DC - Praça da República]]

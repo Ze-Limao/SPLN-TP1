@@ -1,0 +1,16 @@
+====== 28795 - DC - Bilhete-postal ======
+
+**Parent**:: 28793
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-11-04
+**UnitDateFinal**:: 1908-11-04
+**ScopeContent**:: Bilhete-postal expedido de Aveiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28795
+**LangMaterial**:: Português
+**PhysLoc**:: AS 615 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28795

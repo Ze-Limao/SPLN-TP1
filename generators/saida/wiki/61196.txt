@@ -1,0 +1,17 @@
+====== 61196 - DC - Igreja de São Tiago de Antas ======
+
+**Parent**:: 60841
+**RootParent**:: 60698
+**UnitTitle**:: Igreja de São Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1970
+**ScopeContent**:: Bilhete-postal impresso. Fotografia Fisa. No verso "Vila Nova de Famalicão nº1310" e legenda.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9751
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 124 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61196

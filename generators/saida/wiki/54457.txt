@@ -1,0 +1,15 @@
+====== 54457 - UI - Alberto Carlos Eça de Queirós ======
+
+**Parent**:: 31323
+**RootParent**:: 31258
+**UnitTitle**:: Alberto Carlos Eça de Queirós
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1884-03-15
+**UnitDateFinal**:: 1884-05-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54457
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54457
+
+===== Filhos =====
+  * [[54458.txt|54458 - DC - Carta]]
+  * [[54459.txt|54459 - DC - Minutas de cartas de Vicente Pinheiro para Alberto Eça de Queirós e Abel Andrade]]

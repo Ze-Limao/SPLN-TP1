@@ -1,0 +1,16 @@
+====== 24695 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-09-11
+**UnitDateFinal**:: 1906-09-11
+**ScopeContent**:: António Ferraz dá noticias de familiares e da sua saúde. Agradece o número de "A Palavra" com o artigo que põe em causa as opiniões de Rocha Martins. Comenta a controvérsia com Braamcamp Freire. Carta manuscrita assinada, Apúlia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24695
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 197 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24695

@@ -1,0 +1,15 @@
+====== 60626 - SC - Serviços Administrativos ======
+
+**Parent**:: 60540
+**RootParent**:: 60540
+**UnitTitle**:: Serviços Administrativos
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1835
+**UnitDateFinal**:: 1884
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20053
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60626
+
+===== Filhos =====
+  * [[60630.txt|60630 - SSC - Expediente]]

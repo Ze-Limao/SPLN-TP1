@@ -1,0 +1,18 @@
+====== 51070 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-11-10
+Filiação - Manuel da Costa Ferreira e Joaquina Rosa de Sá
+Naturalidade - Calendário
+Profissão - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51070
+**LangMaterial**:: Português
+**PhysLoc**:: 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51070

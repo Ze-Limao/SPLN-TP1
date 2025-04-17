@@ -1,0 +1,19 @@
+====== 34546 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Joane
+Data de nascimento - 1862-04-15
+Filiação - José Francisco e Joaquina da Silva Couto
+Profissão - Jornaleiro
+Estado - Solteiro
+Morada - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34546
+**LangMaterial**:: Português
+**PhysLoc**:: 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34546

@@ -1,0 +1,21 @@
+====== 7766 - SR - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos ======
+
+**Parent**:: 7765
+**RootParent**:: 7651
+**UnitTitle**:: Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1685-09-13
+**UnitDateFinal**:: 1830-05-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7766
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7766
+
+===== Filhos =====
+  * [[7767.txt|7767 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 1]]
+  * [[7773.txt|7773 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 2]]
+  * [[7774.txt|7774 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos (3º)]]
+  * [[7775.txt|7775 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 4]]
+  * [[7776.txt|7776 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 5]]
+  * [[7777.txt|7777 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 6]]
+  * [[7778.txt|7778 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 7]]
+  * [[7779.txt|7779 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 8]]

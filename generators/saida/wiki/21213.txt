@@ -1,0 +1,16 @@
+====== 21213 - UI - Júlia de Castro Pereira e Sola ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Júlia de Castro Pereira e Sola
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-01-04
+**UnitDateFinal**:: 1899-01-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21213
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 832
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21213
+
+===== Filhos =====
+  * [[26038.txt|26038 - DC - Carta]]

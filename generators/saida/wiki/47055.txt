@@ -1,0 +1,19 @@
+====== 47055 - UI - Maria Joaquina de Saldanha da Gama ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Maria Joaquina de Saldanha da Gama
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47055
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47055
+
+===== Filhos =====
+  * [[47056.txt|47056 - DC - Carta]]
+  * [[47057.txt|47057 - DC - Carta]]
+  * [[47058.txt|47058 - DC - Carta]]
+  * [[47059.txt|47059 - DC - Carta]]

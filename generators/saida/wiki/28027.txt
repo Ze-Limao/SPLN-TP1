@@ -1,0 +1,16 @@
+====== 28027 - DC - Carta ======
+
+**Parent**:: 28024
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1865-01
+**UnitDateFinal**:: 1865-01
+**ScopeContent**:: Carta expedida do Porto?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28027
+**LangMaterial**:: Português
+**PhysLoc**:: AS 696 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28027

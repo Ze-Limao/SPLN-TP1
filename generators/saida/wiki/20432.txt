@@ -1,0 +1,20 @@
+====== 20432 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Telhado
+Filiação - João Simões e Francisca Mendes
+Naturalidade - Telhado
+Data de nascimento - 1870-12-07
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20432
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20432

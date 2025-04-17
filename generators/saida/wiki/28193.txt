@@ -1,0 +1,16 @@
+====== 28193 - DC - Pineau Pommier ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Pineau Pommier
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Transcrições (em francês) de extratos referentes às castas Pineau Pommier e Cornichon blanc, feitas a partir do livro Guide pratique de l’Amateur de Fruits. No final das transcrições, Alberto Sampaio anotou: «Cornichon blanc é o mesmo que Cornichon à proppe collosale, pois os sinónimos que este traz são os mesmos que vêm no Catálogo do Taveira.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28193
+**LangMaterial**:: Português
+**PhysLoc**:: AS 465 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28193

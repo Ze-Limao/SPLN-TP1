@@ -1,0 +1,15 @@
+====== 97909 - UI - Processo nº 355 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 355
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-07-06
+**UnitDateFinal**:: 1972-12-30
+**ScopeContent**:: Junto com Autos de Transgressão nº 415, 71, 538, 566, 415, 416, 449, 203, 308/71, 256, 131, 413 e Autos de Execução por Custas nº 415-B, 538-A, 415-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 628 - cx. 35
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97909

@@ -1,0 +1,16 @@
+====== 21464 - UI - José Gomes da Silva Matos Sousa Cardoso ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Gomes da Silva Matos Sousa Cardoso
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-04-28
+**UnitDateFinal**:: 1898-04-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21464
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1475
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21464
+
+===== Filhos =====
+  * [[30312.txt|30312 - DC - Carta]]

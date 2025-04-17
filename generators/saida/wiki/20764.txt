@@ -1,0 +1,20 @@
+====== 20764 - DC - Registo do recenseamento militar de Bernardino ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-05-16
+**UnitDateFinal**:: 1890-05-16
+**ScopeContent**:: Freguesia - Pousada de Saramagos
+Filiação - José Peixoto e Rosa Maria Monteiro
+Naturalidade - Pousada de Saramagos
+Data de nascimento - 1869-01-21
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Pousada de Saramagos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20764
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20764

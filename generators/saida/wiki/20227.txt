@@ -1,0 +1,14 @@
+====== 20227 - UI - Livro de entrada de correspondência ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Livro de entrada de correspondência
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885-08-04
+**UnitDateFinal**:: 1887-09-19
+**ScopeContent**:: Termo de abertura: “Há-de servir para o registo da correspondência recebida na conformidade das instruções de 17 de Novembro 1849…”. Contém dados: nº de entrada, data de entrada, qualidade, data da correspondência, por quem expedida, assunto, destino dado à correspondência recebida. Inicia no registo nº 127 até ao registo nº 167. No ano 1886 inicia no registo nº 1 até ao registo nº249, no ano 1887 inicia no registo nº 1 até ao registo nº 297.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20227
+**LangMaterial**:: Português
+**PhysLoc**:: 1414
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20227

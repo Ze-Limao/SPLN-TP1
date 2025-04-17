@@ -1,0 +1,17 @@
+====== 54584 - UI - Eduardo Vilaça ======
+
+**Parent**:: 31357
+**RootParent**:: 31258
+**UnitTitle**:: Eduardo Vilaça
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54584
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54584
+
+===== Filhos =====
+  * [[54585.txt|54585 - DC - Carta]]
+  * [[58337.txt|58337 - DC - Minuta de carta de Bernardo Pinheiro Correia de Melo]]
+  * [[58366.txt|58366 - DC - Minuta de carta de Bernardo Pinheiro Correia de Melo]]
+  * [[58367.txt|58367 - DC - Minuta de carta de Bernardo Pinheiro Correia de Melo]]
+  * [[58368.txt|58368 - DC - Carta]]
+  * [[58369.txt|58369 - DC - Minuta de carta de Bernardo Pinheiro Correia de Melo]]

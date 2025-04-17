@@ -1,0 +1,17 @@
+====== 32480 - DC - Carta ======
+
+**Parent**:: 32473
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-08-04
+**UnitDateFinal**:: 1889-08-04
+**ScopeContent**:: Carta manuscrita assinada, de Rue Balzac 8, Paris. Papel impresso "Hotel Beaujon, 8 Rue Balzac (Champs Elysées) Paris". Envelope de Paris para Cladas de Vizela e Famalicão. Esta carta pertence ao maço "1889".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32480
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12249 - cx. 70
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32480

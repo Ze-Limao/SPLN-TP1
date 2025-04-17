@@ -1,0 +1,27 @@
+====== 31585 - UI - António Augusto Moniz Arriscado de Lacerda ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Augusto Moniz Arriscado de Lacerda
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1894-12-14
+**UnitDateFinal**:: 1921-12-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31585
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31585
+
+===== Filhos =====
+  * [[31587.txt|31587 - DC - Carta]]
+  * [[50159.txt|50159 - DC - Carta]]
+  * [[50161.txt|50161 - DC - Bilhete-postal]]
+  * [[50162.txt|50162 - DC - Carta]]
+  * [[50163.txt|50163 - DC - Carta e minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[50164.txt|50164 - DC - Carta]]
+  * [[50165.txt|50165 - DC - Carta]]
+  * [[50166.txt|50166 - DC - Carta]]
+  * [[50167.txt|50167 - DC - Carta]]
+  * [[50168.txt|50168 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 29215 - DC - Drought! - Fooder scarge? ======
+
+**Parent**:: 29178
+**RootParent**:: 27963
+**UnitTitle**:: Drought! - Fooder scarge?
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Recorte de imprensa com publicidade a uma qualidade de feno para a alimentação de vacas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29215
+**LangMaterial**:: Português
+**PhysLoc**:: AS 331 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29215

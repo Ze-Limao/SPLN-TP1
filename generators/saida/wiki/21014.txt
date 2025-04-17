@@ -1,0 +1,15 @@
+====== 21014 - DC - Contrato de compra e venda ======
+
+**Parent**:: 7705
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de compra e venda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1947-04-28
+**UnitDateFinal**:: 1947-04-28
+**ScopeContent**:: Venda de um prédio urbano e terreno na Rua Alves Roçadas para abertura da Rua Vasconcelos e Castro 
+Outorgante - Manuel da Silva Lima, Amélia Ermelinda da Costa, Bernardino da Silva Simões, Luís Simões da Silva e Maria Celeste Gomes Correia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21014
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 90
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21014

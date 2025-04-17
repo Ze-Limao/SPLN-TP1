@@ -1,0 +1,18 @@
+====== 8821 - DC - Termo do exame de Eduardo Augusto de Azevedo ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Eduardo Augusto de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-28
+**UnitDateFinal**:: 1893-07-28
+**ScopeContent**:: Grau - Elementar
+Idade - 18
+Filiação - Ricardo José de Azevedo
+Naturalidade - Ribeirão
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8821
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8821

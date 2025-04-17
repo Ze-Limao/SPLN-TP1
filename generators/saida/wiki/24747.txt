@@ -1,0 +1,16 @@
+====== 24747 - UI - Correspondência recebida/expedida; Recortes de Imprensa ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida; Recortes de Imprensa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1933-01-29
+**UnitDateFinal**:: 1967-08-22
+**ScopeContent**:: 1 Jornal Estrela do Minho  de 13 março 1932.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24747
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 6 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24747

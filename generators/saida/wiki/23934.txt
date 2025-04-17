@@ -1,0 +1,16 @@
+====== 23934 - DC - Carta ======
+
+**Parent**:: 21056
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-11-30
+**UnitDateFinal**:: 1925-11-30
+**ScopeContent**:: Anna de Souza d´Alvim e Lemos envia condolências ao primo. Carta manuscrita assinada, Casa de Santar.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23934
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 88 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23934

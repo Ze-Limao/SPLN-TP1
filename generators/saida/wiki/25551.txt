@@ -1,0 +1,16 @@
+====== 25551 - DC - Carta ======
+
+**Parent**:: 21144
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-02-28
+**UnitDateFinal**:: 1906-02-28
+**ScopeContent**:: Carta manuscrita assinada, de R. Arriaga 17, Lisboa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25551
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 505 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25551

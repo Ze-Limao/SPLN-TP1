@@ -1,0 +1,15 @@
+====== 66424 - DC - Custódio Gonçalves, enfiteuta da Igreja S. Tiago de Antas, não pode desfazer... ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Custódio Gonçalves, enfiteuta da Igreja S. Tiago de Antas, não pode desfazer...
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1714-06-02
+**UnitDateFinal**:: 1714-06-02
+**ScopeContent**:: Manuscrito, original, sem data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 476 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66424

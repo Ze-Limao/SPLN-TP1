@@ -1,0 +1,15 @@
+====== 66425 - DC - Cópia dos pareceres do letrado ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Cópia dos pareceres do letrado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1853
+**UnitDateFinal**:: 1880
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 477 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66425

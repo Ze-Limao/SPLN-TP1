@@ -1,0 +1,19 @@
+====== 63398 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Francisco da Silva e Joaquina Rosa, ele na freguesia e ela falecida
+Naturalidade - Calendário
+Morada - Calendário
+Data de nascimento - 1864-03-26
+Emprego - Pedreiro
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63398

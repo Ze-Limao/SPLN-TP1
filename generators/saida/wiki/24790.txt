@@ -1,0 +1,16 @@
+====== 24790 - DC - Novo quartel dos Bombeiros Voluntários de Famalicão ======
+
+**Parent**:: 24753
+**RootParent**:: 20342
+**UnitTitle**:: Novo quartel dos Bombeiros Voluntários de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-04-15
+**UnitDateFinal**:: 1961-04-15
+**ScopeContent**:: Recortes do Jornal de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24790
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 12 - cx. 3
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24790

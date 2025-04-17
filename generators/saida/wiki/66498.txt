@@ -1,0 +1,15 @@
+====== 66498 - DC - Licença para celebração de matrimónio de Fulgêncio Portela Morgado, da freguesia de S. Martim de Borela, diocese de S. Tiago da Galiza, residente na freguesia de S. Tiago de Antas com Maria ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Licença para celebração de matrimónio de Fulgêncio Portela Morgado, da freguesia de S. Martim de Borela, diocese de S. Tiago da Galiza, residente na freguesia de S. Tiago de Antas com Maria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-01-13
+**UnitDateFinal**:: 1864-01-13
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 524 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66498

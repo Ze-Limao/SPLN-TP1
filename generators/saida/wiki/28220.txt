@@ -1,0 +1,16 @@
+====== 28220 - DC - Vins de Bordeaux ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vins de Bordeaux
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894
+**UnitDateFinal**:: 1899
+**ScopeContent**:: Impresso publicitário. Impresso em Paris, Larousse.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28220
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 492 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28220

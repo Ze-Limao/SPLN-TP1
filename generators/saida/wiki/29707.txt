@@ -1,0 +1,16 @@
+====== 29707 - DC - Carta ======
+
+**Parent**:: 21271
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-12-27
+**UnitDateFinal**:: 1918-12-27
+**ScopeContent**:: Carta manuscrita assinada, de Nunciatura Apostólica de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29707
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1116 -  cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29707

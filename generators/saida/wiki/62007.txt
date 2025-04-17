@@ -1,0 +1,19 @@
+====== 62007 - DC - Registo do recenseamento militar de José Maria ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Maria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Joaquim Monteiro e Ana Emília, falecidos
+Naturalidade - Landim
+Morada - 
+Data de nascimento - 1861-04-21
+Emprego - 
+Estado -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62007

@@ -1,0 +1,16 @@
+====== 22037 - DC - Registo do recenseamento eleitoral de Rodrigo José Pereira de Carvalho ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Rodrigo José Pereira de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Carreira
+Profissão - Lavrador
+Morada - Cegade
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22037
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22037

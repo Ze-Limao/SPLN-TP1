@@ -1,0 +1,18 @@
+====== 8731 - DC - Termo do exame de Augusto da Costa Carneiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Augusto da Costa Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-14
+**UnitDateFinal**:: 1891-07-14
+**ScopeContent**:: Grau - Elementar
+Idade - 16
+Filiação - Manuel Luís da Costa Carneiro
+Naturalidade - Gondifelos
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8731
+**LangMaterial**:: Português
+**PhysLoc**:: f. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8731

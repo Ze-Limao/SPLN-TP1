@@ -1,0 +1,18 @@
+====== 51073 - DC - Registo do recenseamento militar de Luís ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-12-29
+Filiação - José da Costa e Sousa e Rita Ricardo
+Naturalidade - Calendário
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51073
+**LangMaterial**:: Português
+**PhysLoc**:: 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51073

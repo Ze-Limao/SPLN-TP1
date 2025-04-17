@@ -1,0 +1,16 @@
+====== 60961 - DC - Bilhete-postal e Fatura da Real Companhia Horticolo-Agrícola Portuense ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal e Fatura da Real Companhia Horticolo-Agrícola Portuense
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-04-04
+**UnitDateFinal**:: 1899-04-07
+**ScopeContent**:: Fatura da Real Companhia Horticolo-Agrícola Portuense, com sede na Rua dos Fogueteiros, 5 - Porto. Fatura n. 17859, no valor de 1890 réis. Bilhete postal carimbado e selado sobre o mesmo assunto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29238
+**LangMaterial**:: Português
+**PhysLoc**:: AS 855 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60961

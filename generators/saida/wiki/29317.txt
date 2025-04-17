@@ -1,0 +1,23 @@
+====== 29317 - SSSC - Gestão financeira ======
+
+**Parent**:: 28063
+**RootParent**:: 27963
+**UnitTitle**:: Gestão financeira
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1875-04-30
+**UnitDateFinal**:: 1899-01-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29317
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29317
+
+===== Filhos =====
+  * [[29318.txt|29318 - DC - Recibo do Alfaiate Gonçalves Júnior]]
+  * [[29319.txt|29319 - DC - Recibo A Regeneração]]
+  * [[29320.txt|29320 - DC - Recibo da Livraria Moré de Francisco da Silva Mengo]]
+  * [[29321.txt|29321 - DC - Ofício A Regeneração]]
+  * [[29322.txt|29322 - DC - Ofício do Diário de Portugal]]
+  * [[29323.txt|29323 - DC - Recibo da Antiga Casa Bertrand, José Bastos.]]
+  * [[29324.txt|29324 - DC - Recibo da Antiga Casa Bertrand, José Bastos]]
+  * [[29325.txt|29325 - DC - Recibo de José Joaquim da Silva Guimarães.]]

@@ -1,0 +1,15 @@
+====== 99282 - UI - Nuno Salgueiro ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Nuno Salgueiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-12-21
+**UnitDateFinal**:: 1916-12-21
+**ScopeContent**:: Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99282
+
+===== Filhos =====
+  * [[99283.txt|99283 - DC - Memorandum]]

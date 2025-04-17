@@ -1,0 +1,14 @@
+====== 99494 - UI - Jaime Bastos ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Jaime Bastos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-10-12
+**UnitDateFinal**:: 1916-10-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99494
+
+===== Filhos =====
+  * [[99495.txt|99495 - DC - Carta]]

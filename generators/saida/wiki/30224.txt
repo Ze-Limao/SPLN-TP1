@@ -1,0 +1,16 @@
+====== 30224 - DC - Carta ======
+
+**Parent**:: 21395
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-10-21
+**UnitDateFinal**:: 1921-10-21
+**ScopeContent**:: Francisco Valadares solicita o envio do livro Camilo Homenageado. Informa que irá publicar um trabalho "Ribeira de pena, Camilo e a sua obra" (que nunca chegará a ser publicado). Carta manuscrita e assinada, da Figueira da Foz. Papel timbrado "Canavarro Valladares. Advogado e notário. Rua Fernandes Thomaz 150...Residencia R. Candido Reis 117 Figueira da Foz. Na carta colado o brasão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30224
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1357 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30224

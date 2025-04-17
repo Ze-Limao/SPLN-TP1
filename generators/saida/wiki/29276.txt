@@ -1,0 +1,16 @@
+====== 29276 - DC - Lacre ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Lacre
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Composição: pó de resina, pó de Bourgogne, cera amarela e mastic vermelho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29276
+**LangMaterial**:: Português
+**PhysLoc**:: AS 187 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29276

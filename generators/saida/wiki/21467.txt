@@ -1,0 +1,16 @@
+====== 21467 - UI - José Manuel de Noronha ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Manuel de Noronha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-06-29
+**UnitDateFinal**:: 1918-06-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21467
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1478
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21467
+
+===== Filhos =====
+  * [[30313.txt|30313 - DC - Carta]]

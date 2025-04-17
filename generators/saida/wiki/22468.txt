@@ -1,0 +1,16 @@
+====== 22468 - DC - Carta ======
+
+**Parent**:: 21269
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-11-26
+**UnitDateFinal**:: 1922-11-26
+**ScopeContent**:: Carta manuscrita assinada. Ex-libris impresso “Agitado como a lua na água”. Trindade Coelho agradece o acolhimento na sua visita ao Norte.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22468
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1055 -  cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22468

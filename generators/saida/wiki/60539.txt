@@ -1,0 +1,18 @@
+====== 60539 - F - Junta de Paróquia de Lagoa ======
+
+**Parent**:: 0
+**RootParent**:: 60539
+**UnitTitle**:: Junta de Paróquia de Lagoa
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1895
+**ScopeContent**:: Faz parte deste fundo um livro de Receita e Despesa da Junta de Paróquia, do ano de 1878 a 1895, secção Serviços Financeiros, subsecção Contabilidade.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60539
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60539
+
+===== Filhos =====
+  * [[60668.txt|60668 - SC - Serviços Financeiros]]

@@ -1,0 +1,16 @@
+====== 99451 - UI - Delfim Joaquim da Silva - Brandão & Cª. ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Delfim Joaquim da Silva - Brandão & Cª.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-03-15
+**UnitDateFinal**:: 1914-07-12
+**ScopeContent**:: Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99451
+
+===== Filhos =====
+  * [[99452.txt|99452 - DC - Carta]]
+  * [[99555.txt|99555 - DC - Memorandum]]

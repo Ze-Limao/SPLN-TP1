@@ -1,0 +1,16 @@
+====== 26184 - DC - Carta ======
+
+**Parent**:: 21245
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-02-07
+**UnitDateFinal**:: 1925-02-07
+**ScopeContent**:: Carta manuscrita assinada, de Rua Alexandre Herculano, 371, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26184
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 980 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26184

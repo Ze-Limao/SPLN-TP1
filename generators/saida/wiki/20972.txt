@@ -1,0 +1,15 @@
+====== 20972 - DC - Nº 19/961 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 19/961
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-08-14
+**UnitDateFinal**:: 1961-08-14
+**ScopeContent**:: Contrato de adjudicação da obra de 'Reparação da Estrada Municipal 573. Lanço da EN204 (Antas) a Seide S. Miguel
+Outorgante - José da Silva Magalhães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20972
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20972

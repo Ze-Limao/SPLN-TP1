@@ -1,0 +1,17 @@
+====== 52801 - DC - Registo do recenseamento militar de Domingos Ferreira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-08-11
+Filiação - António Ferreira e Narcisa Rosa da Silva
+Naturalidade - Vilarinho das Cambas
+Residência - Vilarinho das Cambas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52801
+**LangMaterial**:: Português
+**PhysLoc**:: 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52801

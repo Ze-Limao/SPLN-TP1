@@ -1,0 +1,16 @@
+====== 27935 - DC - Carta ======
+
+**Parent**:: 21308
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-01-07
+**UnitDateFinal**:: 1906-01-07
+**ScopeContent**:: Carta manuscrita assinada, de Cepeda, Paredes. O autor responde à carta de JAM na vez de seu irmão José Correia de Araújo Pinto Cabral (vereação da Câmara Municipal de V.N. Famalicão 1905-1907) que se encontra doente e não poderá comparecer à reunião de Câmara de 10 de janeiro, o que obrigará à convocação de um substituto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27935
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1028 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27935

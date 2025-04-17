@@ -1,0 +1,13 @@
+====== 9839 - DC - Ofício nº 6 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 6
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-03-07
+**UnitDateFinal**:: 1888-03-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9839
+**LangMaterial**:: Português
+**PhysLoc**:: f. 42
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9839

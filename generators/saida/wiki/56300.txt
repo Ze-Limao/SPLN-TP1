@@ -1,0 +1,17 @@
+====== 56300 - DC - Administração da Casa de Pindela. Recibos do ano corrente e contas de 29 de Setembro de 1895 a 29 de Setembro de 1896 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Administração da Casa de Pindela. Recibos do ano corrente e contas de 29 de Setembro de 1895 a 29 de Setembro de 1896
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1895-09-29
+**UnitDateFinal**:: 1896-09-29
+**ScopeContent**:: Maço que contém CP 10955 a CP 11034. Contém 79 documentos manuscritos e impressos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56300
+**LangMaterial**:: Português
+**PhysLoc**:: CP 10955 a 11034 - cx. 63
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56300

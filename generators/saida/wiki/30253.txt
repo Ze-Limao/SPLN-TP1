@@ -1,0 +1,16 @@
+====== 30253 - DC - Carta ======
+
+**Parent**:: 21425
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-10-26
+**UnitDateFinal**:: 1914-10-26
+**ScopeContent**:: J. M.Veiga dá informações sobre a família e Camilo Castelo Branco em Vila Real, mencionando os factos do livro "Amor de Perdição". Carta manuscrita assinada, de Vila Real.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30253
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1404 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30253

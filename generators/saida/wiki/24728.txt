@@ -1,0 +1,16 @@
+====== 24728 - DC - Carta ======
+
+**Parent**:: 21068
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-01-07
+**UnitDateFinal**:: 1893-01-07
+**ScopeContent**:: Carta manuscrita assinada, Benfica.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24728
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 229 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24728

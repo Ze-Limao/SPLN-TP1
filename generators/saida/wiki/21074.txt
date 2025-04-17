@@ -1,0 +1,23 @@
+====== 21074 - UI - António Teixeira Coelho de Vasconcelos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Teixeira Coelho de Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-02-20
+**UnitDateFinal**:: 1920-04-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21074
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 259, 260, 261, 262, 263, 264, 265
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21074
+
+===== Filhos =====
+  * [[24826.txt|24826 - DC - Carta]]
+  * [[24827.txt|24827 - DC - Carta]]
+  * [[24828.txt|24828 - DC - Carta]]
+  * [[24829.txt|24829 - DC - Carta]]
+  * [[24830.txt|24830 - DC - Carta]]
+  * [[24831.txt|24831 - DC - Carta]]
+  * [[24832.txt|24832 - DC - Carta]]

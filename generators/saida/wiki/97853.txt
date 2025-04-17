@@ -1,0 +1,15 @@
+====== 97853 - UI - Processo nº 1655 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 1655
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1960-11-14
+**UnitDateFinal**:: 1984-07-18
+**ScopeContent**:: Junto com Autos de Transgressão nº 224, 348, 637, 642, 671, 940, 1052 Autos de Reclamação de Créditos nº 710-B, 710-A, 137-B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 572 - cx. 33
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97853

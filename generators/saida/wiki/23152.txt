@@ -1,0 +1,16 @@
+====== 23152 - DC - Carta ======
+
+**Parent**:: 21040
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-10-02
+**UnitDateFinal**:: 1909-10-02
+**ScopeContent**:: Alberto Pinheiro Torres agradece o interesse e pede proteção e apoio. Carta manuscrita assinada, Roriz Negrellos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23152
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 41 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23152

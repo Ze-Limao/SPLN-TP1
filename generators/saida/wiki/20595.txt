@@ -1,0 +1,20 @@
+====== 20595 - DC - Registo do recenseamento militar de Augusto ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Augusto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Jesufrei
+Filiação - José da Costa Simões e Joaquina Rosa Gomes Marinho
+Naturalidade - Jesufrei
+Data de nascimento - 1870-12-22
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20595
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 41v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20595

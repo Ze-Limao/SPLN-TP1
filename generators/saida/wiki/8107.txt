@@ -1,0 +1,14 @@
+====== 8107 - SR - Matrícula dos professores de instrução primária ======
+
+**Parent**:: 8106
+**RootParent**:: 7651
+**UnitTitle**:: Matrícula dos professores de instrução primária
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1892-05-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8107
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8107
+
+===== Filhos =====
+  * [[8108.txt|8108 - UI - Matrícula dos professores de instrução primária]]

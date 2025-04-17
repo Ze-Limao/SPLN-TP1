@@ -1,0 +1,22 @@
+====== 21365 - UI - Inácia de Almeida de Sá e Menezes de Aguilar ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Inácia de Almeida de Sá e Menezes de Aguilar
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-02-10
+**UnitDateFinal**:: 1914-03-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21365
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1308, 1309, 1310, 1311, 1312, 1313, 1314.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21365
+
+===== Filhos =====
+  * [[30175.txt|30175 - DC - Carta]]
+  * [[30176.txt|30176 - DC - Cartão]]
+  * [[30177.txt|30177 - DC - Cartão]]
+  * [[30178.txt|30178 - DC - Carta]]
+  * [[30179.txt|30179 - DC - Cartão]]
+  * [[30180.txt|30180 - DC - Carta]]
+  * [[30181.txt|30181 - DC - Carta]]

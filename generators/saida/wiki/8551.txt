@@ -1,0 +1,18 @@
+====== 8551 - DC - Termo do exame de Joaquim Machado da Silva ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim Machado da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-07-17
+**UnitDateFinal**:: 1888-07-17
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Francisco Machado da Silva
+Naturalidade - Oliveira Santa Maria
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8551
+**LangMaterial**:: Português
+**PhysLoc**:: f. 52
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8551

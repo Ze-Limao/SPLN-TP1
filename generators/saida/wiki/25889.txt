@@ -1,0 +1,15 @@
+====== 25889 - DC - Bomba braçal alemã ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Bomba braçal alemã
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1912
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25889
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25889

@@ -1,0 +1,18 @@
+====== 49026 - DC - Registo do recenseamento eleitoral de José Ribeiro de Campos ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Ribeiro de Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Pedome
+Profissão - Lavrador
+Estado - Casado
+Morada - Carvalhais
+Idade - 59
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49026
+**LangMaterial**:: Português
+**PhysLoc**:: 61v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49026

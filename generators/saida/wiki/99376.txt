@@ -1,0 +1,17 @@
+====== 99376 - UI - Álbum de Fotografias ======
+
+**Parent**:: 99411
+**RootParent**:: 60695
+**UnitTitle**:: Álbum de Fotografias
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1876
+**UnitDateFinal**:: 1914
+**ScopeContent**:: Fotografias tiradas entre 1876-1914, retratando a vivência da família "Sousa Cristino" e dos que desfrutaram da sua companhia, tanto nos afazeres e praticas quotidianas como em ambiente de festa. são de destacar as imagens da "Quinta do Reguengo “- local onde habitavam - e da Quinta da Palmeira", onde por vezes se juntavam para convívio e diversão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99376
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 125/1 a 125/155 - cx. 3
+Depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99376

@@ -1,0 +1,16 @@
+====== 30711 - DC - Registo do recenseamento eleitoral de Luís Alves dos Santos ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Luís Alves dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia -Carreira
+Profissão - Pedreiro
+Morada - Santo Amaro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30711
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30711

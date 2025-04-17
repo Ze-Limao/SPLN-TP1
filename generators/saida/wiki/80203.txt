@@ -1,0 +1,15 @@
+====== 80203 - UI - Processo nº 124 ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 124
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-06-05
+**UnitDateFinal**:: 1972-12-30
+**ScopeContent**:: Junto com Autos de Acção de Processo Comum nº 5.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 100 - cx. 6
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80203

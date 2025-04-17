@@ -1,0 +1,15 @@
+====== 24985 - UI - Actas da Assembleia Geral do Corpo Activo de Bombeiros Voluntários de Famalicão ======
+
+**Parent**:: 20397
+**RootParent**:: 20342
+**UnitTitle**:: Actas da Assembleia Geral do Corpo Activo de Bombeiros Voluntários de Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1926-12-31
+**UnitDateFinal**:: 1946-05-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24985
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 89
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24985

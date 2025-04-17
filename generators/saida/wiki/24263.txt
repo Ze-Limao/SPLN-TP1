@@ -1,0 +1,16 @@
+====== 24263 - DC - Registo do recenseamento eleitoral de António José da Costa ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Carreira
+Profissão - Lavrador
+Morada - Souto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24263
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24263

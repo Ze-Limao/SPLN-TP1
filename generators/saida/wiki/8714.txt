@@ -1,0 +1,18 @@
+====== 8714 - DC - Termo do exame de José da Silva Areal ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José da Silva Areal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-21
+**UnitDateFinal**:: 1890-08-21
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Gaspar Francisco Areal
+Naturalidade - Bougado S. Martinho, Trofa
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8714
+**LangMaterial**:: Português
+**PhysLoc**:: f. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8714

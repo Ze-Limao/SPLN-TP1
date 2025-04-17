@@ -1,0 +1,14 @@
+====== 30032 - DC - Adelino Ferreira de Carvalho ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Adelino Ferreira de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-08-02
+**UnitDateFinal**:: 1958-08-02
+**ScopeContent**:: Regedor substituto da freguesia de Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30032
+**LangMaterial**:: Português
+**PhysLoc**:: f. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30032

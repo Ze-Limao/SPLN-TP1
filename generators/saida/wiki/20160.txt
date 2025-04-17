@@ -1,0 +1,15 @@
+====== 20160 - SR - Pensões de guerra ======
+
+**Parent**:: 20050
+**RootParent**:: 20048
+**UnitTitle**:: Pensões de guerra
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1917-06
+**UnitDateFinal**:: 1918-12-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20160
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20160
+
+===== Filhos =====
+  * [[20161.txt|20161 - UI - Pensões de guerra]]

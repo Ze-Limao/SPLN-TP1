@@ -1,0 +1,17 @@
+====== 99801 - DC - Alberto Sampaio ======
+
+**Parent**:: 99800
+**RootParent**:: 27963
+**UnitTitle**:: Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Fotografia colada num cartão 15 x 13 cm.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99801
+**LangMaterial**:: Português
+**PhysLoc**:: AS 896 - cx. 12
+depósito 3, estante 6 e 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99801

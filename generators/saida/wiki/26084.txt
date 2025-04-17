@@ -1,0 +1,16 @@
+====== 26084 - DC - Carta ======
+
+**Parent**:: 21219
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-05-18
+**UnitDateFinal**:: 1921-05-18
+**ScopeContent**:: Júlio de Lemos agradece o livro Camilo Homenageado. Carta manuscrita assinada, de Viana. Papel carimbado "Academia de Sciências de Portugal. Instituto Histórico do Minho".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26084
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 878 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26084

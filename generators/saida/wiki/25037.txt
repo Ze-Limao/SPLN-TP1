@@ -1,0 +1,16 @@
+====== 25037 - UI - Cedência de instalações para o julgamento Malha Branca ======
+
+**Parent**:: 20372
+**RootParent**:: 20342
+**UnitTitle**:: Cedência de instalações para o julgamento Malha Branca
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1994-12-02
+**UnitDateFinal**:: 1995-08-03
+**ScopeContent**:: Contém: Cedência de instalações para o julgamento dos arguidos; faixas fotocopiadas em papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25037
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 139 - cx. 35
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25037

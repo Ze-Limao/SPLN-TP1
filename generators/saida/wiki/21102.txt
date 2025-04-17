@@ -1,0 +1,15 @@
+====== 21102 - DC - Termo de João Gomes de Oliveira e Luísa de Oliveira ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de João Gomes de Oliveira e Luísa de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-10-02
+**UnitDateFinal**:: 1879-10-02
+**ScopeContent**:: Construção de habitação
+Local - Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21102
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21102

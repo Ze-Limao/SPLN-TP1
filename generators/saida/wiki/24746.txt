@@ -1,0 +1,29 @@
+====== 24746 - UI - Correspondência recebida/expedida; 1 Maço com notas de despesa e notas de pagamento, recibos e correspondência. ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida; 1 Maço com notas de despesa e notas de pagamento, recibos e correspondência.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-11-23
+**UnitDateFinal**:: 1943-10-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24746
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 5 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24746
+
+===== Filhos =====
+  * [[24777.txt|24777 - DC - Panfletos de José de Araújo Carvalho (Carvalho de Travassos)]]
+  * [[24778.txt|24778 - DC - Atribuição da Câmara Municipal de Vila Nova de Famalicão da Medalha de Ouro de serviços distintos prestados ao concelho à AHBVF]]
+  * [[24779.txt|24779 - DC - Panfleto Noite de S. João]]
+  * [[24780.txt|24780 - DC - Coração de bombeiro: drama em 1 acto]]
+  * [[24781.txt|24781 - DC - Ofício de Francisco José da Cruz Trovisqueira]]
+  * [[24782.txt|24782 - DC - Cartão de Boas-Festas da AHBVF]]
+  * [[24783.txt|24783 - DC - Programa e convite para as festas das Bodas de Ouro dos Bombeiros Voluntários]]
+  * [[24784.txt|24784 - DC - Poema "Os Bombeiros" de Álvaro Pinheiro]]
+  * [[24785.txt|24785 - DC - Ordem de serviço dos Bombeiros Voluntários de Villa Nova de Famalicão]]
+  * [[25347.txt|25347 - DC - Ofício da Presidência da República dirigido ao Presidente da AHBVF]]
+  * [[25348.txt|25348 - DC - Regulamento para o jogo do Marimbo]]
+  * [[25349.txt|25349 - DC - Resoluções da Direcção nº2]]

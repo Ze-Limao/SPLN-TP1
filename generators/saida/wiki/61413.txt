@@ -1,0 +1,16 @@
+====== 61413 - DC - Álbum com recortes de imprensa ======
+
+**Parent**:: 60930
+**RootParent**:: 60550
+**UnitTitle**:: Álbum com recortes de imprensa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1940-03-30
+**UnitDateFinal**:: 1951-12-27
+**ScopeContent**:: Álbum com recortes de imprensa colados em folhas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 196 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61413

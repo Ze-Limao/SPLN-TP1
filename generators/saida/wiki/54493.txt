@@ -1,0 +1,37 @@
+====== 54493 - SR - Estudos e Curso de Agronomia ======
+
+**Parent**:: 31336
+**RootParent**:: 31258
+**UnitTitle**:: Estudos e Curso de Agronomia
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1815
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54493
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54493
+
+===== Filhos =====
+  * [[54503.txt|54503 - DC - Cadernos sobre frutos, videira, etc.]]
+  * [[54504.txt|54504 - DC - Elementos de Botanica de J.S. de Agronomia]]
+  * [[54505.txt|54505 - DC - Trignometria]]
+  * [[54506.txt|54506 - DC - Chimica organica]]
+  * [[54507.txt|54507 - DC - Apontamentos de Microbiologia pertencentes a João Affonso Figueiredo Machado do Instituto Superior de Agronomia]]
+  * [[54508.txt|54508 - DC - Apontamentos de Microbiologia pertencentes a João Affonso Figueiredo Machado do Instituto Superior de Agronomia]]
+  * [[54509.txt|54509 - DC - Intructions sur l´usait d´en barométre...]]
+  * [[54510.txt|54510 - DC - O rendimento da cultura do Pinheiro Bravo]]
+  * [[54511.txt|54511 - DC - Apontamentos sobre o pinheiro e o pinhal]]
+  * [[54512.txt|54512 - DC - História natural dos pinheiros, larices e abetos… pelo Felix de Avelar Brotero]]
+  * [[54513.txt|54513 - DC - Memória sobre a necessidade e utilidades do plantio de novos bosques em Portugal por José Bonifácio de Andrade e Silva]]
+  * [[54514.txt|54514 - DC - Tabuas goniometricas]]
+  * [[54515.txt|54515 - DC - Caule]]
+  * [[54518.txt|54518 - DC - Carvalho]]
+  * [[54519.txt|54519 - DC - Apontamentos da aula de Arboricultura]]
+  * [[54520.txt|54520 - DC - Orgãos de reprodução da planta flôr]]
+  * [[56499.txt|56499 - DC - Fotografia de Avelino de Araújo Dantas]]
+  * [[56783.txt|56783 - DC - Orgãos de reprodução da planta flor]]
+  * [[56784.txt|56784 - DC - Agros - Boletim da Associação dos Estudantes de Agronomia]]
+  * [[56785.txt|56785 - DC - 17ª Cadeira Aquicultura Caça. Pesca. Regime pastoril]]
+  * [[56786.txt|56786 - DC - Apontamentos]]
+  * [[59362.txt|59362 - DC - 17ª Cadeira de Aquicultura. Caça. Pesca...: ano lectivo 1917-1918]]
+  * [[59507.txt|59507 - DC - Botanica especial IIª parte]]
+  * [[60178.txt|60178 - DC - Le Portugal au point de vue agricole]]

@@ -1,0 +1,16 @@
+====== 24014 - DC - Carta ======
+
+**Parent**:: 21058
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-09-21
+**UnitDateFinal**:: 1899-09-21
+**ScopeContent**:: A. A. da Rocha Páris agradece pela intermediação da venda de terras. Carta manuscrita assinada. Carta sem menção a ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24014
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 98 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24014

@@ -1,0 +1,15 @@
+====== 7977 - DC - Termo de Teresa Ferreira de Sá ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Teresa Ferreira de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-05-15
+**UnitDateFinal**:: 1860-05-15
+**ScopeContent**:: Mandado de pagamento de indemnização por uma expropriação no Campo da Feira
+Local - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7977
+**LangMaterial**:: Português
+**PhysLoc**:: f. 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7977

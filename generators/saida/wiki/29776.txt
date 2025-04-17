@@ -1,0 +1,16 @@
+====== 29776 - DC - Bilhete-postal ======
+
+**Parent**:: 21303
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-04-09
+**UnitDateFinal**:: 1925-04-09
+**ScopeContent**:: Padre António de Azevedo e Silva solicita o que se tem publicado em Famalicão a propósito do centenário do escritor Camilo Castelo Branco. Bilhete-postal manuscrito carimbado e selado, de Rua de Quelhas, 14 Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29776
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1185 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29776

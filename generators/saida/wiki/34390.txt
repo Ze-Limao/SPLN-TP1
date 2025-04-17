@@ -1,0 +1,19 @@
+====== 34390 - DC - Registo do recenseamento militar de António do Rego ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António do Rego
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1852-10-19
+Filiação - Joaquim José do Rego e Maria do Carmo
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34390
+**LangMaterial**:: Português
+**PhysLoc**:: 112v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34390

@@ -1,0 +1,15 @@
+====== 65831 - DC - Cópias de emprazamento do casal de Vilar, situado na freguesia de S. Tiago de Antas, por Diogo Afonso, abade da Igreja de S. Tiago de Antas, que empraza a João Dias e a sua mulher Maria Gonçalves, datado 1512-02-15. Cópia de emprazamento do casal de Vilar, por Pero Jorge, abade de S. Tiago de Antas, a Aires Dias, datado 1544-05-06 ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Cópias de emprazamento do casal de Vilar, situado na freguesia de S. Tiago de Antas, por Diogo Afonso, abade da Igreja de S. Tiago de Antas, que empraza a João Dias e a sua mulher Maria Gonçalves, datado 1512-02-15. Cópia de emprazamento do casal de Vilar, por Pero Jorge, abade de S. Tiago de Antas, a Aires Dias, datado 1544-05-06
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1700
+**UnitDateFinal**:: 1800
+**ScopeContent**:: Manuscrito, cópia. Folhas cosidas. O emprazamento a João Dias e sua mulher, datado de 1512-02-15 é transcrição do pergaminho CSTA 20. O emprazamento a Aires Dias datado de 1544-05-06 é transcrição do pergaminho CSTA 40.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 616 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65831

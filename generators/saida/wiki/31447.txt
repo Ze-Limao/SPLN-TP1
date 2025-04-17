@@ -1,0 +1,20 @@
+====== 31447 - SR - Correspondência recebida ======
+
+**Parent**:: 31446
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1885
+**UnitDateFinal**:: 1909-02-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31447
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31447
+
+===== Filhos =====
+  * [[31448.txt|31448 - UI - Maria do Carmo Raposo de Sousa Alte]]
+  * [[31455.txt|31455 - UI - Isabel da Câmara Aranha]]
+  * [[46565.txt|46565 - UI - Maria Luísa da Cunha Meneses Braamcamp Freire]]
+  * [[46725.txt|46725 - UI - Eugénia Xavier Teles da Gama]]
+  * [[46943.txt|46943 - UI - Maria Constança de Saldanha da Gama]]
+  * [[53094.txt|53094 - UI - Isabel Maria de Sousa Botelho]]
+  * [[53103.txt|53103 - UI - Isabel Maria de Sousa Botelho Mourão e Vasconcelos Noronha]]

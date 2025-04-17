@@ -1,0 +1,16 @@
+====== 30172 - DC - Carta ======
+
+**Parent**:: 21364
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-04-19
+**UnitDateFinal**:: 1909-04-19
+**ScopeContent**:: Carta manuscrita e assinada, de Braga. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30172
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 462 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30172

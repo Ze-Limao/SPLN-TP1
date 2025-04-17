@@ -1,0 +1,15 @@
+====== 29895 - DC - Folha de matrícula de António Alberto dos Santos Alves de Carvalho ======
+
+**Parent**:: 24999
+**RootParent**:: 20342
+**UnitTitle**:: Folha de matrícula de António Alberto dos Santos Alves de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1949-01-22
+**UnitDateFinal**:: 1955-07-26
+**ScopeContent**:: Folha descritiva biográfica como fotografia tipo passe.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29895
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 102  - cx. 27
+depósito 3, estante 11
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29895

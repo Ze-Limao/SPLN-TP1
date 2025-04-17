@@ -1,0 +1,15 @@
+====== 20152 - SR - Registo da expedição de guias para inspeção ======
+
+**Parent**:: 20050
+**RootParent**:: 20048
+**UnitTitle**:: Registo da expedição de guias para inspeção
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1896-09-08
+**UnitDateFinal**:: 1899-10-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20152
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20152
+
+===== Filhos =====
+  * [[20153.txt|20153 - UI - Registo da expedição de guias para inspeção nº 1]]

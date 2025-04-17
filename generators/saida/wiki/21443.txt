@@ -1,0 +1,20 @@
+====== 21443 - UI - Joaquim Domingos Mariz ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Domingos Mariz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-10-20
+**UnitDateFinal**:: 1924-08-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21443
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1432, 1433, 1434, 1435, 1436
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21443
+
+===== Filhos =====
+  * [[29987.txt|29987 - DC - Carta]]
+  * [[29988.txt|29988 - DC - Carta]]
+  * [[29989.txt|29989 - DC - Carta]]
+  * [[29990.txt|29990 - DC - Carta]]
+  * [[29991.txt|29991 - DC - Bilhete-postal]]

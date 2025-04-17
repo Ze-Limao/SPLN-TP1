@@ -1,0 +1,15 @@
+====== 66525 - DC - Pedido de licença de matrimónio de Francisco Alves, da freguesia de Santa Maria de Abade de Vermoim com Luisa Rosa da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de matrimónio de Francisco Alves, da freguesia de Santa Maria de Abade de Vermoim com Luisa Rosa da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-07
+**UnitDateFinal**:: 1866-02-07
+**ScopeContent**:: Manuscrito, original, em papel azul “XL 40 reis”. Em baixo o deferimento do padre Roberto Rodrigues, abade de Vermoim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 549 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66525

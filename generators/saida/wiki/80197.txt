@@ -1,0 +1,15 @@
+====== 80197 - UI - Processo nº 32 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 32
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-06-15
+**UnitDateFinal**:: 1976-10-04
+**ScopeContent**:: Junto com Autos de Acção de Execução de Custas nº 32-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 95 - cx. 6
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80197

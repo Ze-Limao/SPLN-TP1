@@ -1,0 +1,15 @@
+====== 64070 - DC - Recibo de João Álvares Fernandes de Moura ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de João Álvares Fernandes de Moura
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-01-08
+**UnitDateFinal**:: 1887-01-08
+**ScopeContent**:: Manuscrito. Recibo de Braga, Seminário de S. Pedro e S. Paulo de esmolas para o jubileu do seminário reunidas na freguesia de S. Tiago de Antas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 388 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64070

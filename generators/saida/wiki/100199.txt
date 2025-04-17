@@ -1,0 +1,36 @@
+====== 100199 - UI - Fotografias positivos em papel e de Casas Fotográficas ======
+
+**Parent**:: 100192
+**RootParent**:: 60695
+**UnitTitle**:: Fotografias positivos em papel e de Casas Fotográficas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Fotografias de Casas Fotográficas.
+Portugal:
+Alvão, Porto;
+Célestin Bénard, Porto;
+Cruzarte, V. N. Famalicão;
+Emilio Biel & Cª, Porto
+Foto Beleza, V.N. Famalicão;
+Foto Humberto, V. N. Famalicão;
+Foto Salvador, Porto;
+Jose Perez, Porto;
+Photo Luso Brasileira, Porto;
+União Photographia, Fonseca & Cª, Porto
+
+Brasil:
+Foto Lux, Campos;
+Foto Moderna, Campos;
+Guimarães & Cª, Rio de Janeiro;
+
+Grã-Bretanha
+A. Vandyke Photographer, Liverpool?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99378
+**LangMaterial**:: Português
+**PhysLoc**:: CSC F101 a F299 - cx. 12
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100199

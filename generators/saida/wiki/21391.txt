@@ -1,0 +1,16 @@
+====== 21391 - UI - Francisco Abreu de Lima Pereira Coutinho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco Abreu de Lima Pereira Coutinho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-06-05
+**UnitDateFinal**:: 1901-06-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21391
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1353
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21391
+
+===== Filhos =====
+  * [[30220.txt|30220 - DC - Carta]]

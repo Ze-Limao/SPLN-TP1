@@ -1,0 +1,15 @@
+====== 61208 - UI - Alfredo de Sousa ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Alfredo de Sousa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1950-07-13
+**UnitDateFinal**:: 1950-07-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61208
+
+===== Filhos =====
+  * [[61209.txt|61209 - DC - Carta]]

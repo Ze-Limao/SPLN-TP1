@@ -1,0 +1,17 @@
+====== 56374 - DC - Pindella. Documentos 2º/907, nº 144 a 162 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Pindella. Documentos 2º/907, nº 144 a 162
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1907-07-25
+**UnitDateFinal**:: 1907-11-30
+**ScopeContent**:: Maço que contém 23 documentos: faturas, contas e correspondência manuscrita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56374
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12786 (1 ) a (23) - cx. 78
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56374

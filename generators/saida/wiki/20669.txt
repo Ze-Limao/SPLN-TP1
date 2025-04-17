@@ -1,0 +1,20 @@
+====== 20669 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Mouquim
+Filiação - Manuel Joaquim Martins e Mariana de Araújo
+Naturalidade - Mouquim
+Data de nascimento - 1869-10-11
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20669
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20669

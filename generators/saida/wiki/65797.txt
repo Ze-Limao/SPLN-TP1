@@ -1,0 +1,15 @@
+====== 65797 - DC - Ratificação e rateação prazo do meio casal de Freitas, situado na freguesia de S. Tiago de Rebordões, concelho de S. Tirso, feita por Rodrigo Joaquim de Meneses, abade da Igreja de S. Tiago de Antas, a António de Sousa Gomes e Silva e a sua mulher Camila Rosa do Nascimento e Silva, moradores na freguesia de Burgães ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Ratificação e rateação prazo do meio casal de Freitas, situado na freguesia de S. Tiago de Rebordões, concelho de S. Tirso, feita por Rodrigo Joaquim de Meneses, abade da Igreja de S. Tiago de Antas, a António de Sousa Gomes e Silva e a sua mulher Camila Rosa do Nascimento e Silva, moradores na freguesia de Burgães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1854-09-13
+**UnitDateFinal**:: 1854-09-13
+**ScopeContent**:: Manuscrito, instrumento. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 257 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65797

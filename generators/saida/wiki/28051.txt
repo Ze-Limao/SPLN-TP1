@@ -1,0 +1,16 @@
+====== 28051 - DC - Carta de Alberto Sampaio ======
+
+**Parent**:: 28033
+**RootParent**:: 27963
+**UnitTitle**:: Carta de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-06
+**UnitDateFinal**:: 1864-02-08
+**ScopeContent**:: Carta expedida de Boamense no dia 6,7, ou 8 fevereiro. Carta endereçado a José da Cunha Sampaio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28051
+**LangMaterial**:: Português
+**PhysLoc**:: AS 564 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28051

@@ -1,0 +1,15 @@
+====== 66503 - DC - Pedido de licença de batismo por Francisco Costa de Araújo, morador na freguesia de S. Tiago de Antas para sua filha ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de batismo por Francisco Costa de Araújo, morador na freguesia de S. Tiago de Antas para sua filha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-02-12
+**UnitDateFinal**:: 1894-02-12
+**ScopeContent**:: Manuscrito, original. em papel azul “100 reis”. Em cima o deferimento do Arcebispo Primaz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 529 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66503

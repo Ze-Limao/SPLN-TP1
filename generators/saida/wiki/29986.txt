@@ -1,0 +1,16 @@
+====== 29986 - DC - Carta ======
+
+**Parent**:: 21438
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-11-05
+**UnitDateFinal**:: 1886-11-05
+**ScopeContent**:: Carta manuscrita assinada, de Águas Santas, Milheirós da Maia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29986
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1426 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29986

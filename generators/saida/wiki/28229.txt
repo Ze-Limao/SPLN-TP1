@@ -1,0 +1,16 @@
+====== 28229 - DC - Disposição das vides nos viveiros, vinhas, etc. ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Disposição das vides nos viveiros, vinhas, etc.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Capa que continha documentos sobre a disposição das vides, viveiros, vinhas, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28229
+**LangMaterial**:: Português
+**PhysLoc**:: AS 513- cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28229

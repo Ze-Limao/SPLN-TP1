@@ -1,0 +1,17 @@
+====== 28085 - DC - Registo do vinho espumoso − 1871 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Registo do vinho espumoso − 1871
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-09-25
+**UnitDateFinal**:: 1871-09-26
+**ScopeContent**:: Diversas informações sobre a vindima de 1871 na Quinta de Boamense.
+Registo de diversas informações, desde as condições climatéricas, às castas vindimadas e qualidade das uvas, passando também pela descrição de algumas das fases de produção do vinho. Relativamente às condições climatéricas refere que o ano foi «extremamente húmido e frio», caraterizado por uma Primavera chuvosa, tal como o mês de Setembro que, a par com a chuva, também registou «ventanias fortes, quase todos os dias». Talvez como consequência de condições adversas para a videira, as uvas foram, na sua maioria, de péssima qualidade, tendo sido poucos os cachos que «se encontravam perfeitos». Da vindima, feita a 25 de Setembro, Alberto Sampaio anotou as produções em cestos das castas vindimadas, acrescentando, para cada uma, a qualidade da uva («uva bem madura», «parte boa, parte má», «regular»….). Anotou ainda algumas particularidades sobre fases de produção do vinho: «O mosto foi transportado na noite de 25 de Setembro (dia da vindima) para uma baça onde ficou a assentar até à manhã de 26 (10 horas a uma temperatura de +18c.).»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28085
+**LangMaterial**:: Português
+**PhysLoc**:: AS 373 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28085

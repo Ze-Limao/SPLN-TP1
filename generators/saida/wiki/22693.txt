@@ -1,0 +1,16 @@
+====== 22693 - DC - Carta ======
+
+**Parent**:: 21463
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921
+**UnitDateFinal**:: 1921
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Jorge Faria, advogado". Jorge de Faria refere algumas espécies que propõe entregar ao Museu de Seide: O Espectro de António Rodrigues Sampaio. Publicação periódica 1846-47. A 1ª edição que pertenceu a Camilo, oferecida pelo livreiro de Lisboa Ventura Abrantes; 1 carta de Camilo a Silva Bento; 1 autógrafo de Olavo Bilac (jornalista e poeta brasileiro 1865-1918) sobre Camilo; Ofertas do colunista Afonso Nunes Branco. Carta não datada, deverá ser anterior a 1921.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22693
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1474 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22693

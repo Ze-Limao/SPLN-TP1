@@ -1,0 +1,16 @@
+====== 23188 - DC - Carta ======
+
+**Parent**:: 21052
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1912
+**ScopeContent**:: Alfredo Pons envia uma certidão e custos. Carta manuscrita assinada. Carta não datada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23188
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 77 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23188

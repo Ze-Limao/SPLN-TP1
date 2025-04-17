@@ -1,0 +1,17 @@
+====== 20213 - UI - Registo das licenças para abertura de estabelecimentos ======
+
+**Parent**:: 20212
+**RootParent**:: 20048
+**UnitTitle**:: Registo das licenças para abertura de estabelecimentos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912-01-02
+**UnitDateFinal**:: 1919-04-30
+**ScopeContent**:: Termo de abertura: “Tem de servir este livro para nelle se registarem as licenças concedidas por esta administração para ter aberto os estabelecimentos…”.
+Contém dados sobre o tipo de licenças: porta aberta nas horas regulamentares, leilões, foguetes, armas de casa e defesa, cargas e fulminantes, jogos lícitos, autos e licenças e venda de fogo chinês, licenças para fabricamento de foguetes, licenças de porta aberta (dia), licenças para divertimento público, poder abrir a porta. 
+Contém dados: nº de ordem, nome do solicitante, freguesia, qualidade do negócio, lugar, data da concessão, data de duração, observações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20213
+**LangMaterial**:: Português
+**PhysLoc**:: AC 35
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20213

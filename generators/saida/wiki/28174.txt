@@ -1,0 +1,16 @@
+====== 28174 - DC - Disposição da vinha ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Disposição da vinha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 187
+**UnitDateFinal**:: 187
+**ScopeContent**:: Identificação dos locais de plantação e da variedade de castas. Numa nota do texto lê-se o seguinte: «Estas vides arrancaram-se em Fevereiro de 1880 e plantaram-se em volta da vinha». Indicação das castas e locais de plantação. As castas indicadas são todas elas castas portuguesas. Para a produção de vinho aparecem mencionadas: Douzelinho, Alvarelhão, Bastardo, Moscatel preto, Touriga, Souzão Moscatel de Jesus, Vinhão e Malvásia. Nas vides que Alberto Sampaio denomina de «sobremesa», conhecidas como uvas de mesa, encontrámos Moscatel Preto, Dedo de Dama, Mourisco, Crato Branco, Alicante e Uva Formosa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28174
+**LangMaterial**:: Português
+**PhysLoc**:: AS 446 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28174

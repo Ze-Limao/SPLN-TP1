@@ -1,0 +1,15 @@
+====== 8156 - SR - Termos dos Exames ======
+
+**Parent**:: 8106
+**RootParent**:: 7651
+**UnitTitle**:: Termos dos Exames
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1882-06-15
+**UnitDateFinal**:: 1897-07-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8156
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8156
+
+===== Filhos =====
+  * [[8157.txt|8157 - UI - Termos dos Exames de Instrução Primária]]
+  * [[8667.txt|8667 - UI - Termos dos Exames de Instrução Primária Nº 2]]

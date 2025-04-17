@@ -1,0 +1,15 @@
+====== 60711 - DC - Emprazamento do casal da Quinta, situado na dita freguesia de S. Tiago de Antas, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas e João Álvares e Álvaro Dias, raçoeiros da dita Igreja, a Diogo Alvares e a sua mulher Maria Pires ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal da Quinta, situado na dita freguesia de S. Tiago de Antas, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas e João Álvares e Álvaro Dias, raçoeiros da dita Igreja, a Diogo Alvares e a sua mulher Maria Pires
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1499-02-21
+**UnitDateFinal**:: 1499-02-21
+**ScopeContent**:: Manuscrito, original, orifícios na parte inferior sem selo. Foi restaurado e acondicionado em 2021.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 12 - Capa P8
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60711

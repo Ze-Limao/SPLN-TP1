@@ -1,0 +1,16 @@
+====== 30153 - DC - Carta ======
+
+**Parent**:: 21358
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-10-08
+**UnitDateFinal**:: 1910-10-08
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. O autor relata os acontecimentos em Lisboa após a implantação da República.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30153
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1291 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30153

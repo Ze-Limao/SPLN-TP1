@@ -1,0 +1,15 @@
+====== 8024 - DC - Termo de António José Lopes Cardoso ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António José Lopes Cardoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-06-10
+**UnitDateFinal**:: 1875-06-10
+**ScopeContent**:: Construção de uma mina de água atravessando caminho público
+Local - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8024
+**LangMaterial**:: Português
+**PhysLoc**:: f. 45
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8024

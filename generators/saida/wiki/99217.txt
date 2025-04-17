@@ -1,0 +1,15 @@
+====== 99217 - F - Paróquia de S. Tiago de Gavião ======
+
+**Parent**:: 0
+**RootParent**:: 99217
+**UnitTitle**:: Paróquia de S. Tiago de Gavião
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1770-03-08
+**UnitDateFinal**:: 1816-07-25
+**ScopeContent**:: Este livro foi adquirido ao alfarrabista Livraria Manuel Ferreira.
+**Repository**:: Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99217
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99217
+
+===== Filhos =====
+  * [[99223.txt|99223 - SR - Uso e costumes]]

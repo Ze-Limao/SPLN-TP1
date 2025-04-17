@@ -1,0 +1,19 @@
+====== 34700 - DC - Registo do recenseamento militar de Domingos ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Lagoa
+Data de nascimento - 1862-05-25
+Filiação - António da Rocha Pinheiro e Maria do Carmo
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Lagoa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34700
+**LangMaterial**:: Português
+**PhysLoc**:: 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34700

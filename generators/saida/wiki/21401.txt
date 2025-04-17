@@ -1,0 +1,17 @@
+====== 21401 - UI - Francisco Moura Coutinho e Paiva Cardoso de Almeida de Eça ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco Moura Coutinho e Paiva Cardoso de Almeida de Eça
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1909-06-24
+**UnitDateFinal**:: 1913-02-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21401
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1368, 1369
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21401
+
+===== Filhos =====
+  * [[29981.txt|29981 - DC - Carta]]
+  * [[29982.txt|29982 - DC - Carta]]

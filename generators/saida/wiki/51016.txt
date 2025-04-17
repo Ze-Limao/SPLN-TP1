@@ -1,0 +1,18 @@
+====== 51016 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-10-16
+Filiação - António de Sá e Ana Joaquina
+Naturalidade - Esmeriz
+Profissão - Pedreiro
+Residência - Esmeriz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51016
+**LangMaterial**:: Português
+**PhysLoc**:: 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51016

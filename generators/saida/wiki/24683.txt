@@ -1,0 +1,16 @@
+====== 24683 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-08-20
+**UnitDateFinal**:: 1905-08-20
+**ScopeContent**:: António Ferraz refere documentos enviados do arquivo da Colegiada. Analisa as condições em que são concedidas as mercês pela Casa Real e a preparação da documentação que está a fazer. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24683
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 185 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24683

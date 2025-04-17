@@ -1,0 +1,17 @@
+====== 77698 - DC - Treslado de uma sentença de paga de 25.000 reis que tinha Francisco …, mercador de Barcelos que serão depositados para dar a Helena Dias pelas benfeitorias no morgado de Pindela e por o juiz os mandar dar à dita Helena Dias por falecimento de Simão Pinheiro do Morgado de Pindela ======
+
+**Parent**:: 54462
+**RootParent**:: 31258
+**UnitTitle**:: Treslado de uma sentença de paga de 25.000 reis que tinha Francisco …, mercador de Barcelos que serão depositados para dar a Helena Dias pelas benfeitorias no morgado de Pindela e por o juiz os mandar dar à dita Helena Dias por falecimento de Simão Pinheiro do Morgado de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1574
+**UnitDateFinal**:: 1600
+**ScopeContent**:: Folhas manuscritas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4036 - cx. 30
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77698

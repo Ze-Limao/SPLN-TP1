@@ -1,0 +1,17 @@
+====== 20625 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Requião
+Filiação - José da Costa e Maria Monteiro
+Naturalidade - Requião
+Data de nascimento - 1870-05-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20625
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20625

@@ -1,0 +1,16 @@
+====== 28163 - DC - Observações feitas na minha visita ao Alto Douro − Quinta do Bom Retiro, em 20−22 de Setembro de 1900 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Observações feitas na minha visita ao Alto Douro − Quinta do Bom Retiro, em 20−22 de Setembro de 1900
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-09-20
+**UnitDateFinal**:: 1900-09-22
+**ScopeContent**:: Anotações sobre castas do Douro (Mourisco branco, Gouveio, Malvasia branca, Tinta Amarela, Donzelinho do Castelo, Patorra, Abrunhal, Tinta Carvalha, Mourisco Tinto e Tinto-Cão), resultantes de uma visita de Alberto Sampaio à Quinta do Bom Retiro, no Alto Douro, propriedade de Luís de Magalhães. É a versão definitiva de AS 435. Alberto Sampaio arquivou as duas versões que praticamente não diferem entre si. Todas as castas mencionadas nas anotações de Alberto Sampaio encontravam-se plantadas em Boamense.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28163
+**LangMaterial**:: Português
+**PhysLoc**:: AS 436 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28163

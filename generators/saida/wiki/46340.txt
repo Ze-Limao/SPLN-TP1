@@ -1,0 +1,18 @@
+====== 46340 - DC - Registo do recenseamento eleitoral de João Rodrigues de Carvalho ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Rodrigues de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Eclesiástico
+Estado - Solteiro
+Morada - Padroso
+Idade - 51
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46340
+**LangMaterial**:: Português
+**PhysLoc**:: 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46340

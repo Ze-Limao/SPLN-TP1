@@ -1,0 +1,17 @@
+====== 98468 - DC - Prazo da Mamoa feito por Simão Pinheiro a João Álvares e sua mulher por 40 alqueires ======
+
+**Parent**:: 54461
+**RootParent**:: 31258
+**UnitTitle**:: Prazo da Mamoa feito por Simão Pinheiro a João Álvares e sua mulher por 40 alqueires
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1541
+**UnitDateFinal**:: 1541
+**ScopeContent**:: Manuscrito com folhas cosidas. "Pasta nº 4 Cazal 23 A". Este documento estava na “Caixa 4”, que contém CP 12559 a CP 12976.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12972 - cx. 81
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98468

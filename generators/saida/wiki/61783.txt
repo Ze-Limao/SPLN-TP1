@@ -1,0 +1,40 @@
+====== 61783 - SSR - Documentos vários ======
+
+**Parent**:: 61454
+**RootParent**:: 60551
+**UnitTitle**:: Documentos vários
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1980-04-12
+**UnitDateFinal**:: 2023
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61780
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61783
+
+===== Filhos =====
+  * [[61784.txt|61784 - DC - Rotary Club de Viseu]]
+  * [[61817.txt|61817 - DC - Lyons International 3º aniversário V. N. Famalicão]]
+  * [[61818.txt|61818 - DC - Pins e porta-chaves]]
+  * [[61819.txt|61819 - DC - Marquês de Pombal, Ano Rotário 2010-2011]]
+  * [[61820.txt|61820 - DC - XIII Congresso Nacional de Interact]]
+  * [[61821.txt|61821 - DC - Rotary Club Guimarães e Rotary Club V.N. Famalicão]]
+  * [[61822.txt|61822 - DC - Celebremos Rotary 100 anos Rotary Club de V.N. Famalicão. Rotary Classic´s Revival Encontro Internacional de Automóveis Antigos]]
+  * [[61823.txt|61823 - DC - 114º Aniversário Rotary International]]
+  * [[61824.txt|61824 - DC - 11ª Conferência do Distrito 1970 Rotary e a Nova Europa Esposende]]
+  * [[61825.txt|61825 - DC - XVI D. 1970. Rotary Club de V.N. Famalicão]]
+  * [[61826.txt|61826 - DC - Governador 2019/2020 José Luís Carvalhido da Ponte. Rotary Distrito 1970]]
+  * [[61827.txt|61827 - DC - Encontro Distrital XIII Rotaract, VI Interact Ovar]]
+  * [[61828.txt|61828 - DC - Grupo Recreativo e Musical Banda de Famalicão agradece ao RCF]]
+  * [[61829.txt|61829 - DC - Trail Experience Famalicão 2017]]
+  * [[61830.txt|61830 - DC - Trail Rotary Experience 2019]]
+  * [[64119.txt|64119 - DC - Trail Experience Famalicão 2016]]
+  * [[64120.txt|64120 - DC - Trail Rotary Experience Famalicão 2018]]
+  * [[64121.txt|64121 - DC - LCP 50 anos]]
+  * [[64122.txt|64122 - DC - LCP 50 anos]]
+  * [[64123.txt|64123 - DC - End Polio Now]]
+  * [[64124.txt|64124 - DC - Rotary Challenge Golf 2023]]
+  * [[64125.txt|64125 - DC - Caixa com 3 bolas de golfe Rotary V.N. Famalicão]]
+  * [[64126.txt|64126 - DC - Sino e martelo rotário]]
+  * [[64127.txt|64127 - DC - Miniatura do edifício da Câmara Municipal de Famalicão]]
+  * [[64128.txt|64128 - DC - Miniatura do Marco Rotário do Clube V. N. Famalicão]]
+  * [[64129.txt|64129 - DC - Diploma Mérito Municipal de Benemerência ao Rotary Club de V.N. Famalicão pela Câmara Municipal de V.N. Famalicão]]
+  * [[64130.txt|64130 - DC - Informações sobre como decorrem as reuniões do Rotary num suporte de acrílico]]

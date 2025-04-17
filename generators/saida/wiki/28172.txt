@@ -1,0 +1,16 @@
+====== 28172 - DC - Enxertos de uvas de mesa, feitos em Março de 1906 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Enxertos de uvas de mesa, feitos em Março de 1906
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-03
+**UnitDateFinal**:: 1907-03
+**ScopeContent**:: Registo dos enxertos de uvas de mesa feitos em Março de 1906, cujos grafos foram dados a Alberto Sampaio por Ricardo Severo o qual, por sua vez, os obteve através do «sócio do Ezequiel Vieira de Castro».  Na nota, encontram-se registadas as castas, todas de origem inglesa, enxertadas e a sua localização na vinha («na lata da vinha do alto, para o lado do pinhal, na 2.ª vide», «na lata alta da cancela, entre a vinha de baixo e a do meio (a contar da cancela) no 6.º esteio»…). As castas usadas foram Gross Poulsard, Golden Ken, Gross Saport, Gross Morocco, Golden Champion e Gross Colman. Há ainda uma informação adicional, registada posteriormente, em Março de 1907, que dá conta que as castas Golden Kean e Gross Saport foram reenxertadas em Golden Champion.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28172
+**LangMaterial**:: Português
+**PhysLoc**:: AS 444 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28172

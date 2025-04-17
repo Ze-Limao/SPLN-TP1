@@ -1,0 +1,16 @@
+====== 29020 - DC - Carta ======
+
+**Parent**:: 29019
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-11-18
+**UnitDateFinal**:: 1893-11-18
+**ScopeContent**:: Carta expedida da Póvoa de Varzim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29020
+**LangMaterial**:: Português
+**PhysLoc**:: AS 640 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29020

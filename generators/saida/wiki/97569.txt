@@ -1,0 +1,15 @@
+====== 97569 - UI - Processo nº 57 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 57
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-02-17
+**UnitDateFinal**:: 1977-07-25
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 57-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 391 - cx. 23
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97569

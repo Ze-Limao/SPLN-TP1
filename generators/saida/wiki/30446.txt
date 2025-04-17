@@ -1,0 +1,16 @@
+====== 30446 - DC - Registo do recenseamento eleitoral de José Barbosa Pinto ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Barbosa Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Vendeiro
+Morada - Ferrão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30446
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30446

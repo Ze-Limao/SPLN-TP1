@@ -1,0 +1,16 @@
+====== 25657 - DC - Carta ======
+
+**Parent**:: 21180
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-10-28
+**UnitDateFinal**:: 1922-10-28
+**ScopeContent**:: Júlio Pessanha refere assuntos pessoais e a leitura do jornal com a notícia de abertura oficial da Casa Camilo. Carta manuscrita assinada, de Marmelos (Mirandela).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25657
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 607 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25657

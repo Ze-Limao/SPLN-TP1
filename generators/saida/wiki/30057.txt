@@ -1,0 +1,14 @@
+====== 30057 - DC - Gaspar da Silva Marinho Azevedo ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Gaspar da Silva Marinho Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1965-03-10
+**UnitDateFinal**:: 1965-03-10
+**ScopeContent**:: Regedor efetivo da freguesia de Vermoim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30057
+**LangMaterial**:: Português
+**PhysLoc**:: f. 29
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30057

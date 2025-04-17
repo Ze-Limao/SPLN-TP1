@@ -1,0 +1,16 @@
+====== 26079 - DC - Carta ======
+
+**Parent**:: 21218
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-01-15
+**UnitDateFinal**:: 1925-01-15
+**ScopeContent**:: Agradece as palavras de JAM sobre o livro Dispersos e brevemente enviará o 2º volume. Carta manuscrita assinada. Papel carimbado "Relação de Lisboa. Escrivão Dias Costa. Morada R. de Heliodoro Salgado, 13,3º".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26079
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 873 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26079

@@ -1,0 +1,15 @@
+====== 66185 - DC - O visitador da Igreja de S. Tiago de Antas no ano de 1609 mandou um capítulo da Visitação que dois raçoeiros, que na dita igreja de S. Tiago de Antas, têm de sua obrigação rezar missa de defuntos, conforme dada em 1552 ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: O visitador da Igreja de S. Tiago de Antas no ano de 1609 mandou um capítulo da Visitação que dois raçoeiros, que na dita igreja de S. Tiago de Antas, têm de sua obrigação rezar missa de defuntos, conforme dada em 1552
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1609
+**UnitDateFinal**:: 1609
+**ScopeContent**:: Manuscrito, original, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português e Latim
+**PhysLoc**:: CSTA 409 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66185

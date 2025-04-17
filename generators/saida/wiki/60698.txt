@@ -1,0 +1,105 @@
+====== 60698 - CL - Coleção de Postais de V.N. Famalicão ======
+
+**Parent**:: 0
+**RootParent**:: 60698
+**UnitTitle**:: Coleção de Postais de V.N. Famalicão
+**DescriptionLevel**:: CL
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 2000
+**ScopeContent**:: 001 Tipografia Minerva 1902-1906
+8 bilhetes-postais ; CPVNF 1-8
+002 António da Silva Pimenta
+1 bilhete-postal; CPVNF 9
+003 M. J. Dias
+1 bilhete-postal; CPVNF 10
+004 Fotografia do Bolhão
+1 bilhete-postal ; CPVNF 11
+005 Tipografia Minerva 1912
+21 bilhetes-postais; CPVNF 12-32
+006 Francisco Correia de Mesquita Guimarães
+9 bilhetes-postais; 6 reproduções fotográficas (de bilhetes postais que não temos) + 7 reproduções fotográficas (repetidas); CPVNF 33-54
+007 Foto Alvão
+1 bilhete-postal; CPVNF 55
+008 Tipografia Minerva 1927
+2 bilhetes-postais; CPVNF 56-57
+009 Tipografia Minerva 1929
+12 bilhetes-postais
+CPVNF 58-69
+010 Centro de Novidades
+8 bilhetes-postais; CPVNF 70-77
+011 Tipografia Minerva 1930-1950
+8 bilhetes-postais; CPVNF 78-85
+012 Foto Correia
+4 bilhetes-postais; CPVNF 86-89
+013 Câmara Municipal V.N. Famalicão. Foto Beleza
+7 bilhetes-postais; CPVNF 104-110
+014 Casa Santa Filomena
+6 bilhetes-postais; CPVNF 111-116
+015 Casa Voga. Foto Humberto
+2 postais; CPVNF 102-103
+016 Centro de Caridade Nossa Senhora do Perpétuo Socorro
+1 bilhete-postal; CPVNF 143
+017 Grafipost Editores e Artes Gráficas Lda
+1 bilhete-postal; CPVNF 142
+018 Rodrigo F. da Silva
+6 bilhetes-postais (2 bilhetes-postais repetidos); CPVNF 117-122
+019 Rodrigo F. da Silva. FISA
+10 bilhetes-postais (1 repetido); CPVNF 132-141
+020 Rodrigo F. da Silva. LIFER 
+9 bilhetes-postais (2 repetidos); CPVNF 123-131
+021 A. Sousa Lopes. Foto Humberto
+6 postais (5 postais, 1 reprodução fotográfica); CPVNF 96-101
+022 A. Sousa Lopes. Foto Adriano
+3 bilhetes-postais; CPVNF 90-92
+023 A. Sousa Lopes. Foto Cruzarte
+3 postais; CPVNF 93-95
+024 Âncora
+10 postais; CPVNF 144-153
+025 Câmara Municipal de Vila Nova de Famalicão – Famalicão Antigo
+15 bilhetes-postais; CPVNF 154-168
+026 Diversos
+3 bilhetes-postais; CPVNF 169-171.
+027 Vila Nova- Comunicação e Publicidade, Lda.
+8 bilhetes-postais; CPVNF 172-179
+028 Reproduções de postais de V.N. Famalicão
+147 reproduções; CPVNF 180 - 326.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60698
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60698
+
+===== Filhos =====
+  * [[101017.txt|101017 - SR - Câmara Municipal de Vila Nova de Famalicão - Posto de Turismo]]
+  * [[101028.txt|101028 - SR - Câmara Municipal de Vila Nova de Famalicão edição]]
+  * [[101030.txt|101030 - SR - Edição de C. Conseil de Vasconcelos]]
+  * [[101034.txt|101034 - UI - Postais de várias coleções]]
+  * [[60781.txt|60781 - SR - Câmara Municipal V.N. Famalicão. Foto Beleza]]
+  * [[60795.txt|60795 - SR - Casa S.ta Filomena]]
+  * [[60803.txt|60803 - SR - Centro de Caridade Nossa Senhora do Perpétuo Socorro]]
+  * [[60805.txt|60805 - SR - Grafipost Editores e Artes Gráficas Lda]]
+  * [[60809.txt|60809 - SR - Rodrigo F. da Silva]]
+  * [[60831.txt|60831 - SR - Rodrigo F. da Silva. FISA]]
+  * [[60841.txt|60841 - SR - Rodrigo F. da Silva. LIFER]]
+  * [[60849.txt|60849 - SR - A. Sousa Lopes. Foto Humberto]]
+  * [[60861.txt|60861 - SR - A. Sousa Lopes. Foto Adriano]]
+  * [[60866.txt|60866 - SR - A. Sousa Lopes. Foto Cruzarte]]
+  * [[60883.txt|60883 - SR - Casa Voga. Foto Humberto]]
+  * [[60890.txt|60890 - SR - Âncora]]
+  * [[60904.txt|60904 - SR - Câmara Municipal de Vila Nova de Famalicão - Famalicão Antigo]]
+  * [[60920.txt|60920 - SR - Diversos]]
+  * [[79807.txt|79807 - SR - Vila Nova - Comunicação e Publicidade Lda.]]
+  * [[79837.txt|79837 - SR - Reprodução de postais de V. N. de Famalicão]]
+  * [[9742.txt|9742 - SR - Tipografia Minerva 1902-1903]]
+  * [[9750.txt|9750 - SR - António da Silva Pimenta]]
+  * [[9752.txt|9752 - SR - M. J. Dias]]
+  * [[9754.txt|9754 - SR - Fotografia do Bolhão]]
+  * [[9756.txt|9756 - SR - Tipografia Minerva 1912]]
+  * [[9776.txt|9776 - SR - Francisco Correia de Mesquita Guimarães]]
+  * [[9792.txt|9792 - SR - Foto Alvão]]
+  * [[9796.txt|9796 - SR - Tipografia Minerva 1927]]
+  * [[9799.txt|9799 - SR - Tipografia Minerva 1929]]
+  * [[9810.txt|9810 - SR - Centro de Novidades]]
+  * [[9819.txt|9819 - SR - Tipografia Minerva 1930-1950]]
+  * [[9828.txt|9828 - SR - Foto Correia]]

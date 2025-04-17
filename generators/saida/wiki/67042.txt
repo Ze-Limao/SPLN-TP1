@@ -1,0 +1,17 @@
+====== 67042 - UI - Christen Olsen (Plaine Saint-Denis Seine) ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Christen Olsen (Plaine Saint-Denis Seine)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1897-02-15
+**UnitDateFinal**:: 1897-02-18
+**ScopeContent**:: Da empresa "L´Éclair Distillerie et Raffinerie D´Alcools de la Plaine St. Denis".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67042
+
+===== Filhos =====
+  * [[67043.txt|67043 - DC - Carta]]
+  * [[67056.txt|67056 - DC - Carta]]
+  * [[67057.txt|67057 - DC - Carta]]

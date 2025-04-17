@@ -1,0 +1,17 @@
+====== 78408 - DC - Carta de Sentença Apostólica e Título do Resignação de um canonicato e prebenda na Santa sé de Braga a favor do Reverendo José Maria de Melo e Sampaio Abade que foi da Igreja de Santa Cristina de Figueiró ======
+
+**Parent**:: 54471
+**RootParent**:: 31258
+**UnitTitle**:: Carta de Sentença Apostólica e Título do Resignação de um canonicato e prebenda na Santa sé de Braga a favor do Reverendo José Maria de Melo e Sampaio Abade que foi da Igreja de Santa Cristina de Figueiró
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1775
+**UnitDateFinal**:: 1779
+**ScopeContent**:: Manuscrito. José Maria Melo (27.05.1764-1840), filho do 10º morgado, cónego da Sé de Braga (CP 4047), viveu na sua casa do Campo da Vinha. Interessava-se por genealogia e existe um documento, não está no ACP, de uma árvore de costados enviada pelo Arcebispo D. Gaspar de Bragança. Quando faleceu em 1840, foi herdeiro dos seus bens seu sobrinho Vicente Machado Pinheiro, 11ºMorgado, Vicente Pinheiro e Figueira Lobo da Guerra faleceu em 1765 e foi sepultado na Igreja S. Francisco, em Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54262
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5361 - cx. 39
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78408

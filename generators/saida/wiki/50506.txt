@@ -1,0 +1,18 @@
+====== 50506 - DC - Registo do recenseamento militar de António da Costa Marques e Maria Josefa ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António da Costa Marques e Maria Josefa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-03-15
+Filiação - António da Costa Marques e Maria Josefa
+Naturalidade - Vale S. Cosme
+Profissão - 
+Residência - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50506
+**LangMaterial**:: Português
+**PhysLoc**:: 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50506

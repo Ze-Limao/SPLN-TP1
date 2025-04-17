@@ -1,0 +1,15 @@
+====== 65700 - DC - Emprazamento de metade de dois casais da Cerita, que tinham sido de Pero Gonçalves, situados nas freguesias Brufe e de S. Miguel de Gemunde, feita por Bernardo Silva, abade da Igreja de S. Tiago de Antas, a Francisco Gonçalves e sua mulher Catarina Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento de metade de dois casais da Cerita, que tinham sido de Pero Gonçalves, situados nas freguesias Brufe e de S. Miguel de Gemunde, feita por Bernardo Silva, abade da Igreja de S. Tiago de Antas, a Francisco Gonçalves e sua mulher Catarina Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1596-03-13
+**UnitDateFinal**:: 1596-03-13
+**ScopeContent**:: Manuscrito, original. No canto superior esquerdo "Nº17"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 76 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65700

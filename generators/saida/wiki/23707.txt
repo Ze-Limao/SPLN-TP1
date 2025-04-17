@@ -1,0 +1,16 @@
+====== 23707 - DC - Registo do recenseamento eleitoral de António Joaquim Ribeiro de Campos ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Joaquim Ribeiro de Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Cónego
+Morada - Praça da Mota
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23707
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 83v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23707

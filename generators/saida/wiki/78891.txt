@@ -1,0 +1,16 @@
+====== 78891 - DC - Atestado do médico cirurgião municipal que Balbina de Araújo, da freguesia de Gavião, sofre de tuberculose ======
+
+**Parent**:: 25079
+**RootParent**:: 20342
+**UnitTitle**:: Atestado do médico cirurgião municipal que Balbina de Araújo, da freguesia de Gavião, sofre de tuberculose
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-03-19
+**UnitDateFinal**:: 1906-03-19
+**ScopeContent**:: Manuscrito em papel azul.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25460
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 177 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78891

@@ -1,0 +1,15 @@
+====== 66553 - DC - Livros de registo paroquial ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Livros de registo paroquial
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-05-13
+**UnitDateFinal**:: 1866-05-13
+**ScopeContent**:: Manuscrito, original. Inventário de livros existentes assinado pelo Pároco Encomendado Domingos Dias Correia Fancha.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 573 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66553

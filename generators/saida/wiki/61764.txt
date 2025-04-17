@@ -1,0 +1,16 @@
+====== 61764 - DC - Certificado que durante a reunião conjunta entre Rotary Club de Famalicão do Distrito 1970 e o Rotary Club de Évora do Distrito 1960 ======
+
+**Parent**:: 61452
+**RootParent**:: 60551
+**UnitTitle**:: Certificado que durante a reunião conjunta entre Rotary Club de Famalicão do Distrito 1970 e o Rotary Club de Évora do Distrito 1960
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2010-03-21
+**UnitDateFinal**:: 2010-03-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 436 - cx. 9
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61764

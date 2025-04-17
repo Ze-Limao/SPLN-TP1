@@ -1,0 +1,15 @@
+====== 29019 - UI - António Vicente Leal Sampaio ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: António Vicente Leal Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893-11-18
+**UnitDateFinal**:: 1907-08-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29019
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29019
+
+===== Filhos =====
+  * [[29020.txt|29020 - DC - Carta]]
+  * [[29021.txt|29021 - DC - Bilhete-postal]]

@@ -1,0 +1,15 @@
+====== 63997 - DC - Escritura de compra e venda de uma bouça de mato e pinheiros, no lugar de Ribeiras, na freguesia de S. Tiago de Antas, que faz António Rodrigues Dias da Fonseca e sua mulher Maria Joana, da freguesia de S. Tiago de Antas, a António Alves da Costa, da freguesia de Requião ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra e venda de uma bouça de mato e pinheiros, no lugar de Ribeiras, na freguesia de S. Tiago de Antas, que faz António Rodrigues Dias da Fonseca e sua mulher Maria Joana, da freguesia de S. Tiago de Antas, a António Alves da Costa, da freguesia de Requião
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1852-11-15
+**UnitDateFinal**:: 1852-11-15
+**ScopeContent**:: Manuscrito, pública forma, folhas cosidas. Papel timbrado "XL.Tesouro Publico 40 Reis". Escritura de 1837-10-19.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 256 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63997

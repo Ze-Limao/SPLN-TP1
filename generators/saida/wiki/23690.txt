@@ -1,0 +1,16 @@
+====== 23690 - DC - Registo do recenseamento eleitoral de Narciso da Silva Castro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Narciso da Silva Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vermoim
+Profissão - Lavrador
+Morada - Outeiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23690
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 82v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23690

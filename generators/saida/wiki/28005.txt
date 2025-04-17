@@ -1,0 +1,15 @@
+====== 28005 - DC - Primeira versão da saudação proferida por Antero de Quental em nome da Academia de Coimbra, ao príncipe Humberto de Sabóia ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Primeira versão da saudação proferida por Antero de Quental em nome da Academia de Coimbra, ao príncipe Humberto de Sabóia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-10
+**UnitDateFinal**:: 1862-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28005
+**LangMaterial**:: Português
+**PhysLoc**:: AS 272 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28005

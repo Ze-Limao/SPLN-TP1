@@ -1,0 +1,19 @@
+====== 34612 - DC - Registo do recenseamento militar de Alfredo ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Alfredo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Louro
+Data de nascimento - 1862-03-07
+Filiação - António da Costa Araújo e Maria da Conceição da Costa Araújo
+Profissão - Estudante
+Estado - Solteiro
+Morada - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34612
+**LangMaterial**:: Português
+**PhysLoc**:: 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34612

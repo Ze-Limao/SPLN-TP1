@@ -1,0 +1,40 @@
+====== 56386 - DC - Maço de recortes de jornais alemães, franceses e portugueses ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço de recortes de jornais alemães, franceses e portugueses
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Este maço contém minutas de cartas, CP 14474 a CP 14496.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56386
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56386
+
+===== Filhos =====
+  * [[55868.txt|55868 - DC - Jornal]]
+  * [[55869.txt|55869 - DC - Jornal]]
+  * [[55870.txt|55870 - DC - Jornal]]
+  * [[55871.txt|55871 - DC - Jornal]]
+  * [[55872.txt|55872 - DC - Jornal]]
+  * [[55873.txt|55873 - DC - Jornal]]
+  * [[55874.txt|55874 - DC - Jornal]]
+  * [[55875.txt|55875 - DC - Jornal]]
+  * [[55876.txt|55876 - DC - Jornal]]
+  * [[55877.txt|55877 - DC - Jornal]]
+  * [[55878.txt|55878 - DC - Jornal]]
+  * [[55879.txt|55879 - DC - Jornal]]
+  * [[55880.txt|55880 - DC - Jornal]]
+  * [[55881.txt|55881 - DC - Jornal]]
+  * [[55882.txt|55882 - DC - Jornal]]
+  * [[55883.txt|55883 - DC - Jornal]]
+  * [[55884.txt|55884 - DC - Jornal]]
+  * [[55885.txt|55885 - DC - Jornal]]
+  * [[55886.txt|55886 - DC - Jornal]]
+  * [[55887.txt|55887 - DC - Jornal]]
+  * [[55888.txt|55888 - DC - Jornal]]
+  * [[55889.txt|55889 - DC - Jornal]]
+  * [[55890.txt|55890 - DC - Jornal]]

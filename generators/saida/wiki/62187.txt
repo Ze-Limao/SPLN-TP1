@@ -1,0 +1,19 @@
+====== 62187 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Vitorino Alves de Azevedo e Maria Rosa de Azevedo, ele falecido e ela na freguesia
+Naturalidade - Calendário
+Morada - Calendário
+Data de nascimento - 1862-01-06
+Emprego - Criado de servir
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62187

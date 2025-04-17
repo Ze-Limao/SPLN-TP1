@@ -1,0 +1,17 @@
+====== 65685 - DC - Cópia da escritura de terceira doação que tornou a fazer Apolónia de Gouveia fez a seu sobrinho Manuel António de Gouveia querendo revogar a primeira que tinha feito a seu irmão António de Andrade ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Cópia da escritura de terceira doação que tornou a fazer Apolónia de Gouveia fez a seu sobrinho Manuel António de Gouveia querendo revogar a primeira que tinha feito a seu irmão António de Andrade
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1742-03-17
+**UnitDateFinal**:: 1748-06-08
+**ScopeContent**:: Manuscrito com folhas cosidas, com anotações do Abade de Tagilde com o título "Nº1... 17 de Março de 1742". O documento estava na “Caixa 12”, que contém CP 3800 a CP 3826 embrulhados em jornais do ano 1936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3826 - cx. 28
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65685

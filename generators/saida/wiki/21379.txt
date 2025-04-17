@@ -1,0 +1,18 @@
+====== 21379 - UI - Duarte Borges ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Duarte Borges
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1860
+**UnitDateFinal**:: 1880-12-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21379
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1335, 1336, 1337
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21379
+
+===== Filhos =====
+  * [[30203.txt|30203 - DC - Carta]]
+  * [[30204.txt|30204 - DC - Carta]]
+  * [[30205.txt|30205 - DC - Carta enviada por José de Azevedo e Menezes para Albino Joaquim Ferreira Tinoco]]

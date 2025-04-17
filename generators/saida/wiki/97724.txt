@@ -1,0 +1,15 @@
+====== 97724 - UI - Processo nº 434-B ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 434-B
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-06-15
+**UnitDateFinal**:: 1971-12-31
+**ScopeContent**:: Junto com Autos de Transgressão nº 434 e Autos de Execução de Custas nº 434-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 466 - cx. 28
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97724

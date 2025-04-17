@@ -1,0 +1,16 @@
+====== 30214 - DC - Carta ======
+
+**Parent**:: 21385
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-04-30
+**UnitDateFinal**:: 1918-04-30
+**ScopeContent**:: Ernesto Ferreira Condeixa envia um caixote com o quadro "O Infante D. Henrique em Sagres" que oferece à comemoração Camiliana. Carta manuscrita e assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30214
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1346 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30214

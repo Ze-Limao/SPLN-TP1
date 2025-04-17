@@ -1,0 +1,14 @@
+====== 29144 - SR - Correspondência de terceiros ======
+
+**Parent**:: 27974
+**RootParent**:: 27963
+**UnitTitle**:: Correspondência de terceiros
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 186
+**UnitDateFinal**:: 186
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29144
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29144
+
+===== Filhos =====
+  * [[29145.txt|29145 - SSR - Albano Caldeira Pinto de Albuquerque]]

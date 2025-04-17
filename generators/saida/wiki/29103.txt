@@ -1,0 +1,17 @@
+====== 29103 - UI - Emília Ermelinda Sequeira Leal Sampaio da Nóvoa ======
+
+**Parent**:: 28716
+**RootParent**:: 27963
+**UnitTitle**:: Emília Ermelinda Sequeira Leal Sampaio da Nóvoa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-06-05
+**UnitDateFinal**:: 1904-03-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29103
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29103
+
+===== Filhos =====
+  * [[29104.txt|29104 - DC - Rascunho de carta]]
+  * [[29105.txt|29105 - DC - Rascunho de carta]]
+  * [[29106.txt|29106 - DC - Rascunho de carta]]
+  * [[29107.txt|29107 - DC - Rascunho de carta]]

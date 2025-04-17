@@ -1,0 +1,15 @@
+====== 65766 - DC - Sentença cível de emprazamento de meio casal de Idanha, situado na freguesia de S. Miguel de Chorente, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Custódio Gomes da Silva e a sua mulher Teresa da Silva ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento de meio casal de Idanha, situado na freguesia de S. Miguel de Chorente, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Custódio Gomes da Silva e a sua mulher Teresa da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1784-03-24
+**UnitDateFinal**:: 1784-04-12
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. A data de 1784-04-12 é a do registo geral da Corte do Livro de Prazos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 206 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65766

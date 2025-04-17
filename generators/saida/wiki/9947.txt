@@ -1,0 +1,14 @@
+====== 9947 - DC - Registo do pagamento a Manuel Augusto Correia Guimarães, procurador da Câmara ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a Manuel Augusto Correia Guimarães, procurador da Câmara
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-15
+**UnitDateFinal**:: 1882-02-15
+**ScopeContent**:: Custas no processo entre a Câmara e Manuel Bento de Azevedo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9947
+**LangMaterial**:: Português
+**PhysLoc**:: f. 3
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9947

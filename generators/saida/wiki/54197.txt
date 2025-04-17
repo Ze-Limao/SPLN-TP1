@@ -1,0 +1,17 @@
+====== 54197 - DC - Processos Inquérito administrativo referente a Joaquim de Sousa, adjudicatário da obra Construção de um edifício destinado a repartições públicas, conforme proposta de 26/10/1962. Câmara Municipal de Vila Nova de Famalicão. Secretaria. Ano 1963 ======
+
+**Parent**:: 54196
+**RootParent**:: 25851
+**UnitTitle**:: Processos Inquérito administrativo referente a Joaquim de Sousa, adjudicatário da obra Construção de um edifício destinado a repartições públicas, conforme proposta de 26/10/1962. Câmara Municipal de Vila Nova de Famalicão. Secretaria. Ano 1963
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-07-24
+**UnitDateFinal**:: 1964-11-25
+**ScopeContent**:: Na capa carimbo da C.M.V.N.F. de 1963-10-14. Contém édito; certidões; requerimento; faturas A Nova Marmorista de José Pereira Gomes; cópia de ofício do Presidente da Câmara a Joaquim de Sousa e resposta; ofício de José Pereira Gomes ao Presidente; Garantia de banco; certidão do 7º Juízo Civil do Porto, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54197
+**LangMaterial**:: Português
+**PhysLoc**:: JG 180(1) - cx. 13
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54197

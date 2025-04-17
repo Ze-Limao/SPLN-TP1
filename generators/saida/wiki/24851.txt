@@ -1,0 +1,16 @@
+====== 24851 - DC - Cartão ======
+
+**Parent**:: 21077
+**RootParent**:: 20290
+**UnitTitle**:: Cartão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-08-20
+**UnitDateFinal**:: 1922-08-20
+**ScopeContent**:: Cartão manuscrito assinado. Papel timbrado do Diário de Notícias - Direcção.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24851
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 284 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24851

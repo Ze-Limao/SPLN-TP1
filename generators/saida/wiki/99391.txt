@@ -1,0 +1,17 @@
+====== 99391 - DC - Diploma da Medalha de Prata de classe 3ª - pelos seus vinhos branco, clarete e leve a António Cristino na Exposição Agrícola e de produtos mineralógicos em 1903-1904, atribuído pelo Palácio de Cristal Portuense ======
+
+**Parent**:: 99389
+**RootParent**:: 60695
+**UnitTitle**:: Diploma da Medalha de Prata de classe 3ª - pelos seus vinhos branco, clarete e leve a António Cristino na Exposição Agrícola e de produtos mineralógicos em 1903-1904, atribuído pelo Palácio de Cristal Portuense
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Impresso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99390
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 255 - cx. 10
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99391

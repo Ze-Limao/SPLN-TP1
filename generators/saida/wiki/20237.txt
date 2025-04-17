@@ -1,0 +1,14 @@
+====== 20237 - UI - Registo de correspondência recebida nº9 ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº9
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1955-09-08
+**UnitDateFinal**:: 1956-05-04
+**ScopeContent**:: Termo de abertura impresso: “Neste livro, que contém duzentas folhas, todas elas numeradas e por mim rubricadas, se registará, exclusivamente, a correspondência recebida, nos precisos termos do nº9 do artº 137 do Código Administrativo e da Circ. da DGAPC nº L-4/11, Lv º 5-A, de 6-5-1951…”. Contém dados: : nº de entrada, data de entrada e do documento, remetente ou signatário, assunto, expediente e observações. Inicia com o registo nº 1435 até ao nº 2173. O ano 1956 tem 946 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20237
+**LangMaterial**:: Português
+**PhysLoc**:: 576
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20237

@@ -1,0 +1,16 @@
+====== 61363 - DC - Fichas com resumo das cartas para Daniel Rodrigues ======
+
+**Parent**:: 61237
+**RootParent**:: 60550
+**UnitTitle**:: Fichas com resumo das cartas para Daniel Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1980
+**UnitDateFinal**:: 1990
+**ScopeContent**:: Fichas manuscritas a lápis com resumos das cartas para Daniel Rodrigues.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 129A - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61363

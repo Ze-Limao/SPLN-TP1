@@ -1,0 +1,16 @@
+====== 25062 - UI - Registo de incêndios nº4 ======
+
+**Parent**:: 20381
+**RootParent**:: 20342
+**UnitTitle**:: Registo de incêndios nº4
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1947-01-07
+**UnitDateFinal**:: 1956-02-19
+**ScopeContent**:: Contém: Registo nº 1206 de 5 de Abril de 1952 do incêndio nos Paços do Concelho de V.N. de Famalicão: Registo de incêndio nº 1206 nos Paços do Concelho de V.N. Famalicão. Incêndio que começou pelas 2h10 e terminou pelas 12h00, sob o comando do Comandando Fernando Soares. Descrição pormenorizada do acontecimento. Nota manuscrita de 1954-02-26 indicando o causador do incêndio Fernando da Costa e Silva preso na cadeia de Famalicão que confessou ser o incendiário dos Paços do Concelho e das escolas Conde S. Bento. Registo nº 1210 de 26 maio de 1952 do incêndio nas Escolas do Conde de S.Cosme.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25062
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 161
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25062

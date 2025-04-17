@@ -1,0 +1,11 @@
+====== 29614 - SSR - Ciclo de Concertos de Ano Novo - Banda de Música de Riba de Ave ======
+
+**Parent**:: 29596
+**RootParent**:: 29618
+**UnitTitle**:: Ciclo de Concertos de Ano Novo - Banda de Música de Riba de Ave
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 2017-01-08
+**UnitDateFinal**:: 2017-01-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29614
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29614

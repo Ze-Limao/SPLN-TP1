@@ -1,0 +1,16 @@
+====== 20372 - SSC - Julgamento Malha Branca ======
+
+**Parent**:: 20347
+**RootParent**:: 20342
+**UnitTitle**:: Julgamento Malha Branca
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1994-12-02
+**UnitDateFinal**:: 1995-08-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20372
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20372
+
+===== Filhos =====
+  * [[25037.txt|25037 - UI - Cedência de instalações para o julgamento Malha Branca]]

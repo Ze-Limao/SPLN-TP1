@@ -1,0 +1,15 @@
+====== 20998 - DC - Nº 18/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 18/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-12-14
+**UnitDateFinal**:: 1962-12-14
+**ScopeContent**:: Contrato de compra e venda de um terreno para a obra de construção docaminho municipal da EN14 à freguesia de Ribeirão. Lanço da EN14 (Bragadela) ao lugar de Sam, freguesia de Ribeirão
+Outorgantes - António José Dias da Costa e Maria Gonçalves do Couto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20998
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 71
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20998

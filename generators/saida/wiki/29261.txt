@@ -1,0 +1,18 @@
+====== 29261 - DC - 1899 Nota dos ensaios dos adubos chimicos na cultura do milho e apontamento bibliográfico ======
+
+**Parent**:: 29252
+**RootParent**:: 27963
+**UnitTitle**:: 1899 Nota dos ensaios dos adubos chimicos na cultura do milho e apontamento bibliográfico
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1899
+**UnitDateFinal**:: 1899-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29261
+**LangMaterial**:: Português
+**PhysLoc**:: AS 371 (1) a 371 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29261
+
+===== Filhos =====
+  * [[29262.txt|29262 - DC - 1899 Nota dos ensaios dos adubos chimicos na cultura do milho.]]
+  * [[29263.txt|29263 - DC - Apontamento bibliográfico]]

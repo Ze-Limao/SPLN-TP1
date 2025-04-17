@@ -1,0 +1,15 @@
+====== 65777 - DC - Renovação de emprazamento do casal do Monte, situado na freguesia de S. Pedro de Esmeriz, Luís de Moura Mendonça, abade de S. Tiago de Antas, a José de Araújo e a sua mulher Isabel Maria de Sousa e a Manuel Alves da freguesia de S. Julião de Calendário. Apegação, medição e confrontação e Carta de vedoria ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Renovação de emprazamento do casal do Monte, situado na freguesia de S. Pedro de Esmeriz, Luís de Moura Mendonça, abade de S. Tiago de Antas, a José de Araújo e a sua mulher Isabel Maria de Sousa e a Manuel Alves da freguesia de S. Julião de Calendário. Apegação, medição e confrontação e Carta de vedoria
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1824-06-23
+**UnitDateFinal**:: 1824-06-23
+**ScopeContent**:: Manuscrito, instrumento. Folhas cosidas. No canto superior esquerdo "Lº 137, f. 77". A Carte de Vedoria datada de 1781-01-10 diz respeito à renovação do prazo do Monte a favor de Manuel da Silva e sua mulher Maria Josefa da Costa, assim como a Apegação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 239 - cx. 12
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65777

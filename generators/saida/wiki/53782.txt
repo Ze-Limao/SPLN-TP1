@@ -1,0 +1,17 @@
+====== 53782 - DC - Projecto da Câmara Municipal de Famalicão - Índice - Peças desenhadas 1954 ======
+
+**Parent**:: 53746
+**RootParent**:: 25851
+**UnitTitle**:: Projecto da Câmara Municipal de Famalicão - Índice - Peças desenhadas 1954
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954
+**UnitDateFinal**:: 1954
+**ScopeContent**:: Índice do Projecto de Arquitetura, incluindo eletricidade, aquecimento e distribuição de águas. Selo em lacre de Januário Godinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53782
+**LangMaterial**:: Português
+**PhysLoc**:: JG 14 - cx. 1
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53782

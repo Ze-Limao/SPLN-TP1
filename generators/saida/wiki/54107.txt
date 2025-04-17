@@ -1,0 +1,17 @@
+====== 54107 - DC - Processo Contrato de fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de Concelho e Tribunal Judicial ======
+
+**Parent**:: 54071
+**RootParent**:: 25851
+**UnitTitle**:: Processo Contrato de fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de Concelho e Tribunal Judicial
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-03-28
+**UnitDateFinal**:: 1961-03-29
+**ScopeContent**:: Originais. Processo da Câmara Municipal de Vila Nova de Famalicão (secretaria). Contém 10 documentos JG 170(2) a 170(11).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54107
+**LangMaterial**:: Português
+**PhysLoc**:: JG 170(1) a (11) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54107

@@ -1,0 +1,14 @@
+====== 60611 - UI - Anselmo de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31377
+**RootParent**:: 31258
+**UnitTitle**:: Anselmo de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1872-11-09
+**UnitDateFinal**:: 1872-11-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32464
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60611
+
+===== Filhos =====
+  * [[60613.txt|60613 - DC - Carta]]

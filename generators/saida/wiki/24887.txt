@@ -1,0 +1,16 @@
+====== 24887 - DC - Carta ======
+
+**Parent**:: 21086
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-12-13
+**UnitDateFinal**:: 1924-12-13
+**ScopeContent**:: Bento Carqueja refere que já escreveu ao escultor Henrique Moreira para lhe enviar os moldes das molduras para o monumento (busto para o centenário de nascimento de Camilo Castelo Branco). Informa que está a tratar do programa da romagem a S. Miguel de Seide a 16 março 1925 e que brevemente fará os convites à Câmara de Famalicão. Carta datilografada assinada. Papel timbrado "O Commercio do Porto- Direcção".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24887
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 320 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24887

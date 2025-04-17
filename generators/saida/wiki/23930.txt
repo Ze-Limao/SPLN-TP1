@@ -1,0 +1,16 @@
+====== 23930 - DC - Carta ======
+
+**Parent**:: 21055
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-09-13
+**UnitDateFinal**:: 1923-09-13
+**ScopeContent**:: Ana Menezes agradece ao primo o trabalho que lhe deu e pede as despesas efetuadas. Carta manuscrita assinada, Casa das Enfias.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23930
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 84 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23930

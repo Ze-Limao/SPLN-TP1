@@ -1,0 +1,16 @@
+====== 28161 - DC - Vindima de 1908 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vindima de 1908
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-09-12
+**UnitDateFinal**:: 1908-09-25
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Nota muito resumida das condições climatéricas verificadas durante a vindima, a qual se limita a «Tempo seco e quente durante toda a vindima». Tabela com a indicação das castas, dias de observação da densidade, valores de densidades dos mostos registadas pelo gleucómetro Cadet de Vaux e ainda registo dos valores de temperatura à sombra.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28161
+**LangMaterial**:: Português
+**PhysLoc**:: AS 434 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28161

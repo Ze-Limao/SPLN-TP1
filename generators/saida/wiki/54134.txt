@@ -1,0 +1,17 @@
+====== 54134 - DC - Diário do Governo, III Série - nº 85 ======
+
+**Parent**:: 54176
+**RootParent**:: 25851
+**UnitTitle**:: Diário do Governo, III Série - nº 85
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-04-10
+**UnitDateFinal**:: 1958-04-10
+**ScopeContent**:: Na pg. 850 a publicação do Edital concurso público para empreitada de instalação de aquecimento central do Edifício para Paços de Concelho, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54134
+**LangMaterial**:: Português
+**PhysLoc**:: JG 173(4) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54134

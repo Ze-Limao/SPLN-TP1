@@ -1,0 +1,15 @@
+====== 66198 - DC - Parecer de Marcos Diniz sobre as rações são benefícios do abade ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Parecer de Marcos Diniz sobre as rações são benefícios do abade
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1600
+**UnitDateFinal**:: 1699
+**ScopeContent**:: Manuscrito, original, sem capa e sem data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 415 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66198

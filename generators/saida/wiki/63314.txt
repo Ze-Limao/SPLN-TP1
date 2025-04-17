@@ -1,0 +1,20 @@
+====== 63314 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Clemente da Costa e Maria da Silva, falecidos
+Naturalidade - Cabeçudos
+Morada - 
+Data de nascimento - 1864-02-24
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63314

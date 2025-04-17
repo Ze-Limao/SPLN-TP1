@@ -1,0 +1,19 @@
+====== 62245 - DC - Registo do recenseamento militar de Albino ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Albino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - António Fernandes Monteiro e Joana Rosa, na freguesia
+Naturalidade - Aves
+Morada - Aves
+Data de nascimento - 1856-04-02
+Emprego - Fabricante
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62245

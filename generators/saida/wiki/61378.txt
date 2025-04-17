@@ -1,0 +1,16 @@
+====== 61378 - DC - Todos comem palha… ======
+
+**Parent**:: 60931
+**RootParent**:: 60550
+**UnitTitle**:: Todos comem palha…
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1931-10
+**UnitDateFinal**:: 1931-10
+**ScopeContent**:: Manuscrito assinado por Daniel Rodrigues.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 160 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61378

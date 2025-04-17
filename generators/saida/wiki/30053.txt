@@ -1,0 +1,14 @@
+====== 30053 - DC - Manuel Pereira Machado ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Pereira Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-06-02
+**UnitDateFinal**:: 1962-06-02
+**ScopeContent**:: Regedor substituto da freguesia de Pousada de Saramagos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30053
+**LangMaterial**:: Português
+**PhysLoc**:: f. 27
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30053

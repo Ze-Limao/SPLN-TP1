@@ -1,0 +1,15 @@
+====== 60660 - SR - Registo de escrituras ======
+
+**Parent**:: 60630
+**RootParent**:: 60540
+**UnitTitle**:: Registo de escrituras
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1835
+**UnitDateFinal**:: 1836
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20121
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60660
+
+===== Filhos =====
+  * [[60667.txt|60667 - DC - Livro de registo de escrituras, dívidas]]

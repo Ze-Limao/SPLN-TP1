@@ -1,0 +1,16 @@
+====== 28250 - DC - Póvoas Marítimas do Norte de Portugal (Parte inédita e definitiva): 1.º - Nota (Lenda do rei Ramiro). ======
+
+**Parent**:: 28243
+**RootParent**:: 27963
+**UnitTitle**:: Póvoas Marítimas do Norte de Portugal (Parte inédita e definitiva): 1.º - Nota (Lenda do rei Ramiro).
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Manuscrito da primeira versão da Nota A: A conhecida lenda do Rei Ramiro da obra As Póvoas Marítimas do Norte de Portugal. Várias emendas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28250
+**LangMaterial**:: Português
+**PhysLoc**:: AS 10 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28250

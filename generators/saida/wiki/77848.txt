@@ -1,0 +1,17 @@
+====== 77848 - DC - Carta de compra de terras herdadas dízimas na freguesia de S. Tiago da Cruz que as comprou Manuel Figueira a Salvador Veloso e a sua mulher Isabel Carvalho das terras de Ribela ======
+
+**Parent**:: 54463
+**RootParent**:: 31258
+**UnitTitle**:: Carta de compra de terras herdadas dízimas na freguesia de S. Tiago da Cruz que as comprou Manuel Figueira a Salvador Veloso e a sua mulher Isabel Carvalho das terras de Ribela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1579
+**UnitDateFinal**:: 1579
+**ScopeContent**:: Manuscrito com folhas cosidas. Este documento numerado nº2 faz parte do maço CP 4560 intitulado "Casa de Pindela".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31266
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4560(2) - cx. 33
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77848

@@ -1,0 +1,51 @@
+====== 54476 - SR - Documentos ======
+
+**Parent**:: 31321
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1884-11-29
+**UnitDateFinal**:: 1892-03-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54476
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54476
+
+===== Filhos =====
+  * [[54480.txt|54480 - DC - Hollande 1889 a 1891]]
+  * [[54797.txt|54797 - DC - Envelopes]]
+  * [[54798.txt|54798 - DC - Holanda. 1890. Nascimento Júlia]]
+  * [[54799.txt|54799 - DC - Missão na Haia. Questão do Congo. Questão da Luanda. Arbitragem de Berna]]
+  * [[54800.txt|54800 - DC - Desenho sobre o Natal]]
+  * [[54802.txt|54802 - DC - Calendrier]]
+  * [[54803.txt|54803 - DC - Calendrier]]
+  * [[54804.txt|54804 - DC - Participação do casamento dos 2ºs Viscondes de Pindela]]
+  * [[54805.txt|54805 - DC - Lista das pessoas a quem se deu parte do ajuste de casamento]]
+  * [[54806.txt|54806 - DC - Violetas de Pindela, José de Menezes, La Haya 1890]]
+  * [[54807.txt|54807 - DC - Homenagem José Augusto Braancamp 1810-1890]]
+  * [[54808.txt|54808 - DC - Noticia sobre a Senhora Condessa de Rio Maior]]
+  * [[54809.txt|54809 - DC - A Palavra]]
+  * [[54810.txt|54810 - DC - Agenda Justman Jacob]]
+  * [[54811.txt|54811 - DC - A Alvorada]]
+  * [[54812.txt|54812 - DC - O Nacional]]
+  * [[54813.txt|54813 - DC - Rosa seca oferecida pelo do Grão-Duque do Luxemburgo]]
+  * [[54814.txt|54814 - DC - Nova Alvorada (Homenagem a Antero)]]
+  * [[54815.txt|54815 - DC - Budget des affaires etrangéres pour 1892]]
+  * [[54816.txt|54816 - DC - Rapport sur les resultats de l´examen du budget des affaires etrangéres pour 1892 aux bureaux de la Deuxième Chambre]]
+  * [[54850.txt|54850 - DC - Notas sobre atividade diplomática em Haia]]
+  * [[54851.txt|54851 - DC - Notas sobre atividade diplomática em Haia]]
+  * [[54852.txt|54852 - DC - Notas sobre atividade diplomática em Haia]]
+  * [[54853.txt|54853 - DC - Notas sobre atividade diplomática em Haia]]
+  * [[54854.txt|54854 - DC - Notas sobre atividade diplomática em Haia]]
+  * [[54855.txt|54855 - DC - Nieuwe Rotterdamsche Courant]]
+  * [[54856.txt|54856 - DC - O Economista]]
+  * [[54857.txt|54857 - DC - O Repórter]]
+  * [[54858.txt|54858 - DC - Colonias Port. e Hollandesas]]
+  * [[54859.txt|54859 - DC - Mappa geral da receita e despeza das provincias ultramarinas do anno economico 1884-1885]]
+  * [[54860.txt|54860 - DC - Hollanda Portugal]]
+  * [[54861.txt|54861 - DC - Notas sobre legislação holandesa]]
+  * [[55415.txt|55415 - DC - Projecto de lei para retificação do tratado entre Portugal e Holanda com o fim de demarcação exacta da ilha de Timor]]
+  * [[55416.txt|55416 - DC - Nº 72 Projecto do Tratado da construção de caminhos de ferro ao Norte do Mondego]]
+  * [[55419.txt|55419 - DC - Caderno]]
+  * [[97409.txt|97409 - DC - Notas]]
+  * [[97410.txt|97410 - DC - Notas]]
+  * [[97425.txt|97425 - DC - Notas]]

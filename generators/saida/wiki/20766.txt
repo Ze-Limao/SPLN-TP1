@@ -1,0 +1,20 @@
+====== 20766 - DC - Registo do recenseamento militar de Domingos ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-05-16
+**UnitDateFinal**:: 1890-05-16
+**ScopeContent**:: Freguesia - Portela
+Filiação - José Pereira Simões e Maria Gomes de Oliveira
+Naturalidade - Portela
+Data de nascimento - 1869-02-24
+Emprego - Lavrador
+Estado - Solteiro
+Residência - Portela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20766
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20766

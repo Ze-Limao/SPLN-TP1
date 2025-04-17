@@ -1,0 +1,19 @@
+====== 21087 - UI - Bernardino Machado ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Bernardino Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1882-01-10
+**UnitDateFinal**:: 1925-10-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21087
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 322, 323, 324
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21087
+
+===== Filhos =====
+  * [[21968.txt|21968 - DC - Carta]]
+  * [[24888.txt|24888 - DC - Carta]]
+  * [[24889.txt|24889 - DC - Cartão de visita]]

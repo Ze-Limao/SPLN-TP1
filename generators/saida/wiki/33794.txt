@@ -1,0 +1,17 @@
+====== 33794 - DC - Carta ======
+
+**Parent**:: 33792
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-05-29
+**UnitDateFinal**:: 1918-05-29
+**ScopeContent**:: Carta manuscrita assinada, de Vigo, Rua Puerta del sol, 14 .
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33794
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12100 - cx.
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33794

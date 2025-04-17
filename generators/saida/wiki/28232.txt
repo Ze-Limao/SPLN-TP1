@@ -1,0 +1,17 @@
+====== 28232 - DC - Bandeira de mão ======
+
+**Parent**:: 28230
+**RootParent**:: 27963
+**UnitTitle**:: Bandeira de mão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01
+**UnitDateFinal**:: 1885-01
+**ScopeContent**:: Bandeira, de cor azul cinza, com recorte lateral em forma de “V”. Apresenta os seguintes elementos figurativos: ao centro a porta amuralhada de um castelo com a palavra “Homenagem” inscrita ao meio. A ladear o castelo, dois escudos encimados por coroas. No centro do escudo à direita do castelo a representação da Nossa Senhora da Oliveira e no outro à esquerda, dividido em quatro quadrantes, dois apresentam as cinco quinas e os setes castelos, e os outros dois, uma Nossa Senhora ao centro com uma ave de cada lado. Na parte superior da bandeira os seguintes dizeres: «Ao Illustre Defensor de Guimarães».
+Pouco depois de João Franco ter sido eleito deputado do Partido Regenerador pelo círculo de Guimarães, em Junho de 1884, ocorreram os graves acontecimentos entre Braga e Guimarães. Em Janeiro de 1885, João Franco defende a causa de desanexação do concelho de Guimarães do Distrito de Braga na Câmara dos Deputados, mediante a apresentação de um projeto de lei. É, pois, provável que numa das manifestações de júbilo do povo vimaranense ao seu deputado, tivessem sido distribuídas estas pequenas bandeiras pela população.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28232
+**LangMaterial**:: Português
+**PhysLoc**:: AS 175 - cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28232

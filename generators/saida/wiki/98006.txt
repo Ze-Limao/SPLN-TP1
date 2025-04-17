@@ -1,0 +1,15 @@
+====== 98006 - UI - Processo nº 544/73 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 544/73
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-08-30
+**UnitDateFinal**:: 1980-02-07
+**ScopeContent**:: Junto com Autos de Transgressão nº 459, 529, 530 e Autos de Execução por Custas nº 459-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 690 - cx. 38
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98006

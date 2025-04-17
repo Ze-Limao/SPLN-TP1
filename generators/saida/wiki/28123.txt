@@ -1,0 +1,16 @@
+====== 28123 - DC - Colheita de 1888 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Colheita de 1888
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888
+**UnitDateFinal**:: 1888
+**ScopeContent**:: Quantidades de gelatina adicionadas na clarificação do vinho em 1881, 1882, 1886 e 1888.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28123
+**LangMaterial**:: Português
+**PhysLoc**:: AS 396 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28123

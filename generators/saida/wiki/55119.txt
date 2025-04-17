@@ -1,0 +1,52 @@
+====== 55119 - UI - Venceslau de Sousa Pereira de Lima ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Venceslau de Sousa Pereira de Lima
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901
+**UnitDateFinal**:: 1909-07-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55119
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55119
+
+===== Filhos =====
+  * [[55120.txt|55120 - DC - Telegrama]]
+  * [[55298.txt|55298 - DC - Telegrama]]
+  * [[55299.txt|55299 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55300.txt|55300 - DC - Minutas de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55301.txt|55301 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada para Venceslau de Sousa Pereira de Lima]]
+  * [[55302.txt|55302 - DC - Minuta de telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55303.txt|55303 - DC - Minuta de telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55304.txt|55304 - DC - Carta]]
+  * [[55305.txt|55305 - DC - Minutas de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55306.txt|55306 - DC - Telegrama]]
+  * [[55308.txt|55308 - DC - Minuta de telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55309.txt|55309 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55310.txt|55310 - DC - Telegrama]]
+  * [[55311.txt|55311 - DC - Telegrama]]
+  * [[55312.txt|55312 - DC - Telegrama]]
+  * [[55313.txt|55313 - DC - Cópia de telegrama]]
+  * [[55314.txt|55314 - DC - Telegrama]]
+  * [[55315.txt|55315 - DC - Telegrama]]
+  * [[55316.txt|55316 - DC - Minuta de telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55317.txt|55317 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55318.txt|55318 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55319.txt|55319 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55320.txt|55320 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55321.txt|55321 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55322.txt|55322 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55323.txt|55323 - DC - Carta]]
+  * [[55324.txt|55324 - DC - Carta]]
+  * [[55325.txt|55325 - DC - Carta]]
+  * [[55326.txt|55326 - DC - Correspondência com o conselheiro Wenceslau particular]]
+  * [[55328.txt|55328 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55329.txt|55329 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55330.txt|55330 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55331.txt|55331 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55332.txt|55332 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55333.txt|55333 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55334.txt|55334 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55335.txt|55335 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[56096.txt|56096 - DC - Telegrama]]
+  * [[56097.txt|56097 - DC - Minuta de carta]]

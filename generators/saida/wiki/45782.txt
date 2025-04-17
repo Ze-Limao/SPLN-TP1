@@ -1,0 +1,18 @@
+====== 45782 - DC - Registo do recenseamento eleitoral de Alexandre José Forte ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Alexandre José Forte
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Cavalões
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Fornelo
+Idade - 67
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45782
+**LangMaterial**:: Português
+**PhysLoc**:: 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45782

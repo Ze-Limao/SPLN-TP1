@@ -1,0 +1,32 @@
+====== 20365 - SSC - Atividades diversas ======
+
+**Parent**:: 20347
+**RootParent**:: 20342
+**UnitTitle**:: Atividades diversas
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 2004
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20365
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20365
+
+===== Filhos =====
+  * [[25010.txt|25010 - UI - Livro de Registo e regulamento das Condecorações concedidas pela Associação]]
+  * [[25011.txt|25011 - UI - Livro de visitantes da Associação Humanitária de Bombeiros Voluntários de V.N. Famalicão]]
+  * [[25012.txt|25012 - UI - Livro de visitantes]]
+  * [[25013.txt|25013 - UI - Livro para o movimento da Bibliotheca respeitante às obras pedidas pelos sócios desta AHBVF para serem lidos fora do seu edifício]]
+  * [[25014.txt|25014 - UI - Pela verdade: protesto e desafronta]]
+  * [[25015.txt|25015 - UI - Livro de Sessões de Homenagens - Festas Solenes (1903, 1906, 1909, 1918, 1920, 1924)]]
+  * [[25016.txt|25016 - UI - Livro d´Ouro da Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão]]
+  * [[25017.txt|25017 - UI - Duplicados do Boletim de Estatística para o INE e correspondência]]
+  * [[25018.txt|25018 - UI - Festa anual de Bombeiros]]
+  * [[25019.txt|25019 - UI - Apontamentos da História da Associação]]
+  * [[25020.txt|25020 - UI - Desenho com poema colado num cartão sobre o presidente do Club Sete e meia]]
+  * [[25021.txt|25021 - UI - Documentos diversos]]
+  * [[25022.txt|25022 - UI - Recortes de imprensa sobre a AHBVF; Correspondência de 1997]]
+  * [[25023.txt|25023 - UI - Balancete Novembro/95; Prevenção de despesas 1996, Parecer do Conselho Fiscal 1995; Recortes de imprensa]]
+  * [[25024.txt|25024 - UI - Apontamentos sobre catalogação de livros e UNIMARC]]
+  * [[25025.txt|25025 - UI - Circulares; Folhas soltas; Jornal Estrela da Manhã]]
+  * [[25026.txt|25026 - UI - Cartas de António Vicente de Carvalho Leal e Sousa Júnior e de Bernardino Pinheiro C. de Melo]]

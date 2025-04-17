@@ -1,0 +1,16 @@
+====== 99466 - UI - Curso de Commercio Duarte dos Santos ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Curso de Commercio Duarte dos Santos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-12-28
+**UnitDateFinal**:: 1916-01-10
+**ScopeContent**:: Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99466
+
+===== Filhos =====
+  * [[99467.txt|99467 - DC - Bilhete-postal]]
+  * [[99479.txt|99479 - DC - Carta]]

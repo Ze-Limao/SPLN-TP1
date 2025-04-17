@@ -1,0 +1,14 @@
+====== 60363 - UI - Francisco de Assis Ribeiro Costa ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Francisco de Assis Ribeiro Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60363
+
+===== Filhos =====
+  * [[60365.txt|60365 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 8049 - DC - Termo de Manuel Bento de Azevedo ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel Bento de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-10-15
+**UnitDateFinal**:: 1877-10-15
+**ScopeContent**:: Construção de um passadiço sobre a Viela dos Eixidos
+Local - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8049
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8049

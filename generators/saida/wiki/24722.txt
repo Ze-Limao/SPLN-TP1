@@ -1,0 +1,16 @@
+====== 24722 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-04-03
+**UnitDateFinal**:: 1915-06-25
+**ScopeContent**:: António Ferraz refere o requerimento para obter o foro. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24722
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 223 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Em regular estado de conservação.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24722

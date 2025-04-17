@@ -1,0 +1,18 @@
+====== 53561 - SR - Documentos ======
+
+**Parent**:: 31356
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1870
+**UnitDateFinal**:: 1911
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53561
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53561
+
+===== Filhos =====
+  * [[58463.txt|58463 - DC - Receita médica]]
+  * [[58464.txt|58464 - DC - Receita médica]]
+  * [[58465.txt|58465 - DC - Envelope]]
+  * [[58594.txt|58594 - DC - Peça de teatro em dois atos]]
+  * [[58595.txt|58595 - DC - Peça de teatro]]

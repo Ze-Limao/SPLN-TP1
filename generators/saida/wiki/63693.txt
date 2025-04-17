@@ -1,0 +1,19 @@
+====== 63693 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Marcelino Alves e Bernardina de Sá
+Naturalidade - Esmeriz
+Morada - Esmeriz
+Data de nascimento - 1866-04-30
+Emprego - Serrador
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63693

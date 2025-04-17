@@ -1,0 +1,17 @@
+====== 60171 - DC - Gazeta das Aldeias nº1798 ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Gazeta das Aldeias nº1798
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 193
+**UnitDateFinal**:: 193
+**ScopeContent**:: Documento digital só a capa e o sumário. A capa é um recorte de fotografia de Domingos Alvão. Exemplar igual CP 2432, CP 2434, CP 2435.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2433 - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60171

@@ -1,0 +1,15 @@
+====== 97819 - UI - Processo nº 20 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 20
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1982-05-06
+**UnitDateFinal**:: 1982-05-26
+**ScopeContent**:: Junto com 2º Secção. Autos de Transgressão nº 20.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 543 - cx. 32
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97819

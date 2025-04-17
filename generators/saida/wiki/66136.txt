@@ -1,0 +1,15 @@
+====== 66136 - DC - Escritura de compra que fez o Padre João Álvares da Silva e Carvalho, da freguesia de S. Julião de Calendário, a Manuel José Pereira Araújo e mulher Joaquina Rita de Carvalho Araújo, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra que fez o Padre João Álvares da Silva e Carvalho, da freguesia de S. Julião de Calendário, a Manuel José Pereira Araújo e mulher Joaquina Rita de Carvalho Araújo, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1848-04-11
+**UnitDateFinal**:: 1848-04-11
+**ScopeContent**:: Manuscrito em papel timbrado azul “Tesouro Publico 40”, original, sem capa. No canto esquerdo superior “Nota nº6. Af.4”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 319 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66136

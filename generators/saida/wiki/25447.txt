@@ -1,0 +1,16 @@
+====== 25447 - DC - Bombeiros Voluntários de Famalicão ======
+
+**Parent**:: 25082
+**RootParent**:: 20342
+**UnitTitle**:: Bombeiros Voluntários de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-10-24
+**UnitDateFinal**:: 1943-10-24
+**ScopeContent**:: Artigo de Vasco de Carvalho publicado no Jornal "Estrela do Minho", na página 1 e 4.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25447
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 180 - cx. 45
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25447

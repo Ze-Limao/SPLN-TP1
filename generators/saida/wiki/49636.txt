@@ -1,0 +1,18 @@
+====== 49636 - DC - Registo do recenseamento eleitoral de Manuel José da Silva Lima ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José da Silva Lima
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Oficial da Câmara
+Estado - Casado
+Morada - Pelames
+Idade - 43
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49636
+**LangMaterial**:: Português
+**PhysLoc**:: 92v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49636

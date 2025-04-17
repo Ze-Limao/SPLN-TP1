@@ -1,0 +1,29 @@
+====== 44942 - UI - Isabel Maria Lobo de Almeida de Melo e Castro ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Isabel Maria Lobo de Almeida de Melo e Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878-11-05
+**UnitDateFinal**:: 1911-06-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD44942
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=44942
+
+===== Filhos =====
+  * [[44943.txt|44943 - DC - Carta]]
+  * [[44944.txt|44944 - DC - Carta]]
+  * [[44945.txt|44945 - DC - Carta]]
+  * [[44946.txt|44946 - DC - Carta]]
+  * [[44947.txt|44947 - DC - Carta]]
+  * [[44948.txt|44948 - DC - Carta]]
+  * [[44949.txt|44949 - DC - Carta]]
+  * [[44950.txt|44950 - DC - Carta]]
+  * [[44951.txt|44951 - DC - Carta]]
+  * [[44952.txt|44952 - DC - Telegrama]]
+  * [[44953.txt|44953 - DC - Carta]]
+  * [[44954.txt|44954 - DC - Carta]]

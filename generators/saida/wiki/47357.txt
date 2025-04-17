@@ -1,0 +1,18 @@
+====== 47357 - DC - Registo do recenseamento eleitoral de António Caetano de Sousa Magalhães ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Caetano de Sousa Magalhães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Abade de Vermoim
+Profissão - Abade
+Estado - Solteiro
+Morada - Residência
+Idade - 46
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47357
+**LangMaterial**:: Português
+**PhysLoc**:: 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47357

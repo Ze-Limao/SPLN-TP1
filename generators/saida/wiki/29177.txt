@@ -1,0 +1,18 @@
+====== 29177 - DC - Plantações no terreiro ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Plantações no terreiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-04
+**UnitDateFinal**:: 1898-04-12
+**ScopeContent**:: Identificação dos locais, datas e variedade de plantas plantadas no terreiro da Casa de Boamense. As roseiras, plantadas em Outubro de 1897, foram distribuídas pelo «tabuleiro do rododendro, defronte da elipse» e por um outro tabuleiro «debaixo da sala de jantar». Quanto às trepadeiras, plantaram-se na mesma altura duas Clematis (Viticelba e a Montana), no «sítio do poço velho», uma buganvília «entre a janela do petit salon e o meu quarto» (a qual mais tarde viria a ser arrancada), três begónias «perto da porta do corredor» e «na parede da casa velha − entre as duas portas da adega − uma Louicera que trouxe de Moreira». Segue-se a indicação que em Abril do mesmo ano tinha sido plantada «na parede da cozinha velha no eirado de dentro» uma Mandevilla [?], igual a uma outra colocada na «parede do caminho, perto do portal». Data também de Abril de 1897 a plantação da palmeira, ex-libris da Casa de Boamense, uma Phoenix, obtida através de José da S.ª Castro.1 Da lista constam ainda outras plantas: uma Camellia reticulata singela que ficou junto «ao socalco das escadas da sala de visitas», violetas (Lekzar) colocadas no tabuleiro «pequeno, em frente da elipse, entre a entrada do pomar dos pessegueiros e o eirado da estrabaria», sobre as quais Alberto Sampaio diz serem singelas, aromáticas e produzirem todo o ano, etc. 
+Quanto à plantação feita no terreiro a 12 de Abril de 1898, o essencial consistiu na plantação de várias plantas em vários locais, próximos da casa: «no tabuleiro do rododendro roxo», «na elipse», o canteiro central do jardim à frente da Casa, «junto à parede da casa velha − loja do lagar». As plantas indicadas são as mesmas espécies de duas outras listas onde se indicam os respectivos preços, obtidos no catálogo da Real Companhia Hortícola-Agrícola Portuense (ver guia de remessa e factura da Real Companhia Horticolo-Agrícola Portuense, emitida em nome da Alberto Sampaio, com data de 10 de Abril de 1898).Na primeira lista, mais extensa do que a segunda, Alberto Sampaio separou as plantas a requererem sombra daquelas que necessitavam de sol. Com base nesta selecção prévia, foi então produzida a lista final de que resultou a encomenda ao horto do Porto. 
+No mesmo documento encontram-se as listas das plantas cultivadas em Outubro de 1897 e em Abril de 1898. Numa pequena nota que antecede o título do documento lê-se o seguinte: «A primeira plantação foi feita em Abril de 1897, palmeira, etc.». Alberto Sampaio para além da indicação da data da plantação e da identificação (espécie e variedade) das diversas plantas, anotou também o local da plantação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29177
+**LangMaterial**:: Português
+**PhysLoc**:: AS 339 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29177

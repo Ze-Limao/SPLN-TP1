@@ -1,0 +1,20 @@
+====== 25317 - UI - Recordações da festa dos 74 anos da Associação ======
+
+**Parent**:: 20387
+**RootParent**:: 20342
+**UnitTitle**:: Recordações da festa dos 74 anos da Associação
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1964
+**UnitDateFinal**:: 1966-06-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25317
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 186 - cx. 50
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25317
+
+===== Filhos =====
+  * [[25881.txt|25881 - DC - Desfile do Corpo Activo na rua no 74º Aniversário da AHBVF]]
+  * [[25882.txt|25882 - DC - Içar da bandeira no 74º Aniversário da AHBVF]]
+  * [[25883.txt|25883 - DC - Receção do Corpo Activo da AHBVF aos participantes do XVIII Congresso dos Bombeiros]]

@@ -1,0 +1,18 @@
+====== 20530 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Nine
+Filiação - Bernardo Pereira e Engrácia Fernandes
+Naturalidade - Várzea S. Bento
+Data de nascimento - 1870-09-02
+Residência - Nine
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20530
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20530

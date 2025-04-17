@@ -1,0 +1,42 @@
+====== 60241 - DC - Cópia de cartas de Rodrigues Lobo e de José da Cunha Sampaio para 2º Visconde de Pindela. ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Cópia de cartas de Rodrigues Lobo e de José da Cunha Sampaio para 2º Visconde de Pindela.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1902
+**UnitDateFinal**:: 1902
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56376
+**LangMaterial**:: Português
+**PhysLoc**:: CP - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60241
+
+===== Filhos =====
+  * [[60242.txt|60242 - DC - Carta]]
+  * [[60243.txt|60243 - DC - Carta]]
+  * [[60244.txt|60244 - DC - Carta]]
+  * [[60245.txt|60245 - DC - Carta]]
+  * [[60246.txt|60246 - DC - Carta]]
+  * [[60247.txt|60247 - DC - Carta]]
+  * [[60248.txt|60248 - DC - Carta]]
+  * [[60249.txt|60249 - DC - Carta]]
+  * [[60250.txt|60250 - DC - Carta]]
+  * [[60251.txt|60251 - DC - Carta]]
+  * [[60252.txt|60252 - DC - Carta]]
+  * [[60253.txt|60253 - DC - Carta]]
+  * [[60254.txt|60254 - DC - Carta]]
+  * [[60255.txt|60255 - DC - Carta]]
+  * [[60256.txt|60256 - DC - Carta]]
+  * [[60257.txt|60257 - DC - Carta]]
+  * [[60258.txt|60258 - DC - Carta]]
+  * [[60259.txt|60259 - DC - Carta]]
+  * [[60260.txt|60260 - DC - Carta]]
+  * [[60261.txt|60261 - DC - Carta]]
+  * [[60262.txt|60262 - DC - Carta]]
+  * [[60263.txt|60263 - DC - Carta]]
+  * [[60264.txt|60264 - DC - Carta]]
+  * [[60265.txt|60265 - DC - Carta]]

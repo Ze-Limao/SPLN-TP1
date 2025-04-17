@@ -1,0 +1,16 @@
+====== 61454 - SR - Documentos tridimensionais ======
+
+**Parent**:: 61191
+**RootParent**:: 60551
+**UnitTitle**:: Documentos tridimensionais
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1968
+**UnitDateFinal**:: 2023
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61454
+
+===== Filhos =====
+  * [[61780.txt|61780 - SSR - Galhardetes, bandeiras e faixas]]
+  * [[61781.txt|61781 - SSR - Medalhas]]
+  * [[61783.txt|61783 - SSR - Documentos vários]]

@@ -1,0 +1,19 @@
+====== 46116 - UI - Carlos Ribeiro Ferreira e Beatriz Munro dos Anjos ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Carlos Ribeiro Ferreira e Beatriz Munro dos Anjos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-01-21
+**UnitDateFinal**:: 1920-01-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46116
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46116
+
+===== Filhos =====
+  * [[46065.txt|46065 - DC - Carta]]
+  * [[46117.txt|46117 - DC - Telegrama]]

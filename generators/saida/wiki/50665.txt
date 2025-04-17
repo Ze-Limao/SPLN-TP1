@@ -1,0 +1,18 @@
+====== 50665 - DC - Registo do recenseamento militar de Manuel Joaquim ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 1842-07-17
+Filiação - 
+Naturalidade - Vila Nova de Famalicão
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50665
+**LangMaterial**:: Português
+**PhysLoc**:: 105v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50665

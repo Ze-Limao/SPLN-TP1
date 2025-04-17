@@ -1,0 +1,16 @@
+====== 21488 - DC - Registo do recenseamento eleitoral de António Rodrigues da Costa ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Rodrigues da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Antas
+Profissão - Vendeiro
+Morada - Feira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21488
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21488

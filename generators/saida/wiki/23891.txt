@@ -1,0 +1,16 @@
+====== 23891 - DC - Registo do recenseamento eleitoral de Inácio da Silva ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Inácio da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-03-04
+**UnitDateFinal**:: 1871-03-04
+**ScopeContent**:: Freguesia - Aves
+Profissão - Fabricante
+Morada - Togela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23891
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 91v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23891

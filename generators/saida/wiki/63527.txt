@@ -1,0 +1,19 @@
+====== 63527 - DC - Registo do recenseamento militar de José Joaquim ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - José Joaquim Mendes e Mariana Rodrigues
+Naturalidade - Telhado
+Morada - Ignora-se
+Data de nascimento - 1867-01-01
+Emprego - Criado de servir
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63527

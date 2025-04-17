@@ -1,0 +1,19 @@
+====== 34259 - DC - Registo do recenseamento militar de Manuel Gomes da Cunha ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Gomes da Cunha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Lemenhe
+Data de nascimento - 1852-07-20
+Filiação - Francisco Gomes da Cunha e Inácia da Costa Ferreira
+Profissão - Músico
+Estado - Solteiro
+Morada - Lemenhe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34259
+**LangMaterial**:: Português
+**PhysLoc**:: 81v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34259

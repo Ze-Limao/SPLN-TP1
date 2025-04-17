@@ -1,0 +1,14 @@
+====== 30060 - DC - Manuel de Campos Ferreira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Manuel de Campos Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1965-12-07
+**UnitDateFinal**:: 1965-12-07
+**ScopeContent**:: Regedor efetivo da freguesia de Brufe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30060
+**LangMaterial**:: Português
+**PhysLoc**:: f. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30060

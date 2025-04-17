@@ -1,0 +1,18 @@
+====== 47014 - DC - Registo do recenseamento eleitoral de João Ferreira de Mano ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Ferreira de Mano
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Telhado
+Profissão - Lavrador
+Estado - Casado
+Morada - Mano
+Idade - 67
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47014
+**LangMaterial**:: Português
+**PhysLoc**:: 63v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47014

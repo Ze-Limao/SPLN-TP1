@@ -1,0 +1,16 @@
+====== 30627 - DC - Registo do recenseamento eleitoral de Joaquim da Silva ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Cabeçudos
+Profissão - Carpinteiro
+Morada - Santa Catarina
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30627
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30627

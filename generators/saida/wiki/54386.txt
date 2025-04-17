@@ -1,0 +1,18 @@
+====== 54386 - UI - Banco Nacional Ultramarino ======
+
+**Parent**:: 31319
+**RootParent**:: 31258
+**UnitTitle**:: Banco Nacional Ultramarino
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880
+**UnitDateFinal**:: 1881-04-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54386
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54386
+
+===== Filhos =====
+  * [[54387.txt|54387 - DC - Envelope]]
+  * [[54388.txt|54388 - DC - Carta]]
+  * [[54389.txt|54389 - DC - Carta]]
+  * [[54390.txt|54390 - DC - Carta]]
+  * [[54391.txt|54391 - DC - Carta]]

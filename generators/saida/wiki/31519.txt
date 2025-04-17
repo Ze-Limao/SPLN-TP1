@@ -1,0 +1,23 @@
+====== 31519 - UI - Maria José Mascarenhas Gaivão Mouzinho de Albuquerque ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria José Mascarenhas Gaivão Mouzinho de Albuquerque
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1910-01-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31519
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31519
+
+===== Filhos =====
+  * [[31520.txt|31520 - DC - Carta]]
+  * [[31521.txt|31521 - DC - Carta]]
+  * [[31522.txt|31522 - DC - Carta]]
+  * [[31523.txt|31523 - DC - Carta]]
+  * [[31524.txt|31524 - DC - Carta]]
+  * [[31525.txt|31525 - DC - Carta]]
+  * [[31526.txt|31526 - DC - Carta]]

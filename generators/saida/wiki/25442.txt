@@ -1,0 +1,16 @@
+====== 25442 - DC - Poema "Os Bombeiros" de Álvaro Pinheiro ======
+
+**Parent**:: 25082
+**RootParent**:: 20342
+**UnitTitle**:: Poema "Os Bombeiros" de Álvaro Pinheiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-10
+**UnitDateFinal**:: 1943-10
+**ScopeContent**:: Poema de Álvaro Pinheiro (de Esposende, sogro do 1º Comandante dos B. de Esposende Sr. Carlos Martins) para as Bodas de Oiro da AHBVF. Impresso em V.N. de Famalicão em Outubro de 1943.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25442
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 180 - cx. 45
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25442

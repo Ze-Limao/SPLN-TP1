@@ -1,0 +1,16 @@
+====== 25824 - UI - Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros; Documentos diversos sobre nova sede. ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros; Documentos diversos sobre nova sede.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1958-07-27
+**UnitDateFinal**:: 1967-01-27
+**ScopeContent**:: Os documentos diversos sobre nova sede dizem respeito a contas, estudo para desenhar o projeto do novo quartel, recortes de imprensa, notas, folhetos, ofícios, cópia de atas, discurso, proposta à direção.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25824
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 12 - cx. 3
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25824

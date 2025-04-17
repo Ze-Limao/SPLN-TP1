@@ -1,0 +1,16 @@
+====== 25885 - DC - Banda dos Voluntários de Famalicão ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Banda dos Voluntários de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1898
+**ScopeContent**:: Fotografia de conjunto da banda da AHBVF. Tem legenda.  A Banda dos Bombeiros Voluntários de Vila Nova de Famalicão, composta de «todos os sócios de mérito», formou-se no ano seguinte à fundação da Associação, tendo a sua direcção sido entregue a José Maria da Costa. O talento dos músicos e a qualidade musical das interpretações sob a batuta do «hábil regente» ultrapassou, em muito pouco tempo, as fronteiras de Vila Nova de Famalicão. Nas deslocações da Banda na década de 90 do século XIX a Viana do Castelo, Póvoa de Varzim e Porto, as suas atuações foram sempre alvo dos mais rasgados elogios.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25885
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25885

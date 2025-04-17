@@ -1,0 +1,16 @@
+====== 22890 - DC - Registo do recenseamento eleitoral de José de Araújo Campos ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José de Araújo Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Nine
+Profissão - Lavrador
+Morada - Coura
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22890
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22890

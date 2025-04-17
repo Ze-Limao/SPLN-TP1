@@ -1,0 +1,18 @@
+====== 8962 - DC - Termo do exame de Eduardo Augusto de Azevedo ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Eduardo Augusto de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-08-03
+**UnitDateFinal**:: 1894-08-03
+**ScopeContent**:: Grau - Complementar
+Idade - 19
+Filiação - Ricardo José de Azevedo
+Naturalidade - Ribeirão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8962
+**LangMaterial**:: Português
+**PhysLoc**:: f. 76v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8962

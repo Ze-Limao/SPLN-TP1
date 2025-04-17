@@ -1,0 +1,15 @@
+====== 63994 - DC - Escritura de venda e bens de raiz, de uma leira de mato, situada na freguesia de S. Martinho de Bougado, que fez Manuel do Couto, viúvo, da freguesia de S. Martinho de Bougado, a Paulo Alves, da mesma freguesia. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de venda e bens de raiz, de uma leira de mato, situada na freguesia de S. Martinho de Bougado, que fez Manuel do Couto, viúvo, da freguesia de S. Martinho de Bougado, a Paulo Alves, da mesma freguesia.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1792-02-06
+**UnitDateFinal**:: 1792-02-06
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas. No canto superior esquerdo "S. Mar.to.el. Thiago de Bougº".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 217 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63994

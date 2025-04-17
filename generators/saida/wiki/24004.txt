@@ -1,0 +1,16 @@
+====== 24004 - DC - Registo do recenseamento eleitoral de Manuel Gomes Pereira ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Gomes Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Arnoso Santa Eulália
+Profissão - Lavrador
+Morada - Minhoteira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24004
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24004

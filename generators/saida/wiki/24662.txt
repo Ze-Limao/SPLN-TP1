@@ -1,0 +1,16 @@
+====== 24662 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-08-05
+**UnitDateFinal**:: 1902-08-05
+**ScopeContent**:: António Ferraz envia notas sobre a Crónica de D. João I (cap. XXXIX, pg 190 e cap. CLIX, pg. 98) sobre os Farias. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24662
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 163 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24662

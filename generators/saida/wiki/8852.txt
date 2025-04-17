@@ -1,0 +1,18 @@
+====== 8852 - DC - Termo do exame de José Ferreira Marinho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José Ferreira Marinho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-03
+**UnitDateFinal**:: 1893-08-03
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - João Gonçalves de Azevedo Marinho
+Naturalidade - Joane
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8852
+**LangMaterial**:: Português
+**PhysLoc**:: f. 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8852

@@ -1,0 +1,16 @@
+====== 8414 - UI - Francisco Manuel Monteiro Torres Júnior ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Francisco Manuel Monteiro Torres Júnior
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-11-06
+**UnitDateFinal**:: 1895-11-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8414
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.51
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8414
+
+===== Filhos =====
+  * [[8415.txt|8415 - DC - Carta]]

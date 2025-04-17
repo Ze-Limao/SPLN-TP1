@@ -1,0 +1,18 @@
+====== 8872 - DC - Termo do exame de Laura Amélia Dias ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Laura Amélia Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-07
+**UnitDateFinal**:: 1893-08-07
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - André Peliteiro Dias
+Naturalidade - Antas
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8872
+**LangMaterial**:: Português
+**PhysLoc**:: f. 53
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8872

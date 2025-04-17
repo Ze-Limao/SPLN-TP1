@@ -1,0 +1,15 @@
+====== 65864 - DC - Emprazamento ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1508
+**UnitDateFinal**:: 1545
+**ScopeContent**:: Manuscrito. Caderno dentro de duas folhas pautadas com anotações a lápis. O documento tem transcrito a lápis algumas palavras.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 627 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65864

@@ -1,0 +1,20 @@
+====== 8355 - UI - Matos & Serpa Pinto ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Matos & Serpa Pinto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-04-16
+**UnitDateFinal**:: 1895-04-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8355
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.29
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8355
+
+===== Filhos =====
+  * [[8356.txt|8356 - DC - Ofício]]
+  * [[8357.txt|8357 - DC - Ofício]]
+  * [[8358.txt|8358 - DC - Ofício]]
+  * [[8359.txt|8359 - DC - Ofício]]
+  * [[8360.txt|8360 - DC - Ofício]]

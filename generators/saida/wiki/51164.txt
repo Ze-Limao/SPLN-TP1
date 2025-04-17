@@ -1,0 +1,18 @@
+====== 51164 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-04-18
+Filiação - João da Silva e Ana Joaquina Ferreira
+Naturalidade - Mogege
+Profissão - Criado de servir
+Residência - Maia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51164
+**LangMaterial**:: Português
+**PhysLoc**:: 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51164

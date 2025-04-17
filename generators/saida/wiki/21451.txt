@@ -1,0 +1,20 @@
+====== 21451 - UI - Joaquim Pais de Vilas-Boas ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Pais de Vilas-Boas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-18
+**UnitDateFinal**:: 1921-05-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21451
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1445, 1446, 1447, 1448, 752
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21451
+
+===== Filhos =====
+  * [[25953.txt|25953 - DC - Carta]]
+  * [[30285.txt|30285 - DC - Carta]]
+  * [[30286.txt|30286 - DC - Carta]]
+  * [[30287.txt|30287 - DC - Carta]]
+  * [[30288.txt|30288 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 29778 - DC - Carta ======
+
+**Parent**:: 21305
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1930-01-03
+**UnitDateFinal**:: 1930-01-03
+**ScopeContent**:: Carta manuscrita assinada, de R. Capelo, 5, 2º E. Papel timbrado "Centro Católico Português. Secretaria Geral, Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29778
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1187 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29778

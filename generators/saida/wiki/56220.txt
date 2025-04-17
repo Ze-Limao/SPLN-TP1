@@ -1,0 +1,17 @@
+====== 56220 - DC - Ata da sessão da Junta de Cruz sobre construção do cemitério de Cruz ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Ata da sessão da Junta de Cruz sobre construção do cemitério de Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1897
+**ScopeContent**:: Ata da sessão da Junta de Cruz e sobre o subsídio do 2º Visconde de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56220
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13624 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56220

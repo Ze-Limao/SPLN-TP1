@@ -1,0 +1,15 @@
+====== 98115 - UI - Processo nº 47/80 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 47/80
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1979-05-24
+**UnitDateFinal**:: 1981-06-30
+**ScopeContent**:: 2ª Secção.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 777 - cx. 42
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98115

@@ -1,0 +1,16 @@
+====== 28144 - DC - Vindima de 1896 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vindima de 1896
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-11-04
+**UnitDateFinal**:: 1896-11-04
+**ScopeContent**:: Indicação do grau alcoólico do vinho verde das ramadas e do clarete. Anotação a lápis: «Vindima de 1896, em 4 de Novembro».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28144
+**LangMaterial**:: Português
+**PhysLoc**:: AS 417 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28144

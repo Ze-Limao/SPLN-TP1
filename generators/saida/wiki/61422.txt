@@ -1,0 +1,16 @@
+====== 61422 - DC - Diploma de Funções Públicas…ao Bacharel Daniel José Rodrigues delegado do Procurador da República na 5ª vara de Lisboa ======
+
+**Parent**:: 60928
+**RootParent**:: 60550
+**UnitTitle**:: Diploma de Funções Públicas…ao Bacharel Daniel José Rodrigues delegado do Procurador da República na 5ª vara de Lisboa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-03-04
+**UnitDateFinal**:: 1916-03-20
+**ScopeContent**:: Diploma assinado por Bernardino Machado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 202 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61422

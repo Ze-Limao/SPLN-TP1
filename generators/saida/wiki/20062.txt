@@ -1,0 +1,15 @@
+====== 20062 - UI - Receitas e despesa da Administração ======
+
+**Parent**:: 20061
+**RootParent**:: 20048
+**UnitTitle**:: Receitas e despesa da Administração
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-11-20
+**UnitDateFinal**:: 1919-06-04
+**ScopeContent**:: Termo de abertura: “Este livro tem de servir para n´elle ser lançado a receita e despesa d´esta Administração …”. Faltam folhas da 27 à 49. Contém: Documento de receita, 2 f., papel;  Ofício da Comissão Municipal Republicana, dirigido ao Dr. Carlos Bacelar, 1919-11-17, 1 f. papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20062
+**LangMaterial**:: Português
+**PhysLoc**:: AC 99
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20062

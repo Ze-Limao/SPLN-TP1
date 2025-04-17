@@ -1,0 +1,14 @@
+====== 30114 - DC - Domingos Rodrigues Oliveira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Domingos Rodrigues Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-16
+**UnitDateFinal**:: 1974-10-16
+**ScopeContent**:: Regedor efetivo da freguesia de Outiz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30114
+**LangMaterial**:: Português
+**PhysLoc**:: f. 58
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30114

@@ -1,0 +1,16 @@
+====== 30151 - DC - Carta ======
+
+**Parent**:: 21358
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-03-03
+**UnitDateFinal**:: 1910-03-03
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30151
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1289 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30151

@@ -1,0 +1,27 @@
+====== 21199 - UI - José de Freitas Costa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José de Freitas Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886
+**UnitDateFinal**:: 1910
+**ScopeContent**:: José de Freitas Costa (1876) foi literato, poeta e jornalista vimaranense. Filho do Dr. Manuel de Freitas Costa (juiz da Relação do Porto) e de Maria Clara Pereira Lopes. Foi investigador na Revista de Guimarães. Colaborou na revista Nova Alvorada. Fez investigações de genealogia para JAM no arquivo da Colegiada. Conhecia Camilo Castelo Branco.
+Fonte: Geneall.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21199
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 770, 771, 772, 773, 774, 775, 776, 777, 778, 779
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21199
+
+===== Filhos =====
+  * [[22417.txt|22417 - DC - Carta]]
+  * [[25969.txt|25969 - DC - Carta]]
+  * [[25978.txt|25978 - DC - Carta]]
+  * [[25979.txt|25979 - DC - Carta]]
+  * [[25980.txt|25980 - DC - Carta]]
+  * [[25981.txt|25981 - DC - Carta]]
+  * [[25982.txt|25982 - DC - Carta]]
+  * [[25983.txt|25983 - DC - Carta]]
+  * [[25984.txt|25984 - DC - Carta]]

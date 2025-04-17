@@ -1,0 +1,20 @@
+====== 21125 - UI - Gaspar de Abreu Lima ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Gaspar de Abreu Lima
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-07-03
+**UnitDateFinal**:: 1922-03-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21125
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 453, 454, 455, 456
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21125
+
+===== Filhos =====
+  * [[25496.txt|25496 - DC - Carta]]
+  * [[25497.txt|25497 - DC - Carta]]
+  * [[25498.txt|25498 - DC - Carta]]
+  * [[25499.txt|25499 - DC - Carta]]

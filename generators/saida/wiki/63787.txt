@@ -1,0 +1,19 @@
+====== 63787 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Francisco da Costa e Ana Maria
+Naturalidade - Areias
+Morada - Cabeçudos
+Data de nascimento - 1866-09-15
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63787

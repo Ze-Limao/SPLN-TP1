@@ -1,0 +1,16 @@
+====== 25832 - DC - Ofício da Comissão Promotora das Solenidades da Semana Santa de Famalicão dirigido ao Presidente da Direcção dos Bombeiros Voluntários de Famalicão ======
+
+**Parent**:: 24763
+**RootParent**:: 20342
+**UnitTitle**:: Ofício da Comissão Promotora das Solenidades da Semana Santa de Famalicão dirigido ao Presidente da Direcção dos Bombeiros Voluntários de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1971-03-27
+**UnitDateFinal**:: 1971-03-27
+**ScopeContent**:: «A Comissão Promotora das Solenidades da Semana Santa, tem o prazer de convidar V. Ex.ª e todos os dignos Diretores da Associação a que superiormente preside, a incorporarem-se nas Procissões de Quinta e Sexta-Feira Santa, que sairão às 21,30 horas da Igreja Matriz desta vila. / Agradecendo a anuência do convite, pede que a Coletividade se represente também através do respetivo estandarte e insígnias, e subscreve-se / De V. Ex.ª / Pela Comissão Promotora / Padre Joaquim Fernandes»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25832
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 22 - cx. 5
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25832

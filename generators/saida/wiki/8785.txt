@@ -1,0 +1,18 @@
+====== 8785 - DC - Termo do exame de Agostinho de Almeida Viegas ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Agostinho de Almeida Viegas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-08-13
+**UnitDateFinal**:: 1892-08-13
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - José de Almeida Viegas
+Naturalidade - Matosinhos
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8785
+**LangMaterial**:: Português
+**PhysLoc**:: f. 30
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8785

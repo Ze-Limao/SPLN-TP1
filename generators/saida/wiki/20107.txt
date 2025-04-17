@@ -1,0 +1,16 @@
+====== 20107 - UI - Registo da correspondência expedida pela 2ª repartição ======
+
+**Parent**:: 20095
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida pela 2ª repartição
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-01-01
+**UnitDateFinal**:: 1901-12-31
+**ScopeContent**:: Termo de abertura: “Tem de servir este livro para nelle se copiar toda a correspondência seguida pela segunda repartição…”.
+O conteúdo da correspondência está resumido. Não tem ano mencionado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20107
+**LangMaterial**:: Português
+**PhysLoc**:: AC 25
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20107

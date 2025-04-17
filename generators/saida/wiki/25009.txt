@@ -1,0 +1,15 @@
+====== 25009 - UI - Termos de responsabilidade dos sócios do Corpo Activo da AHBVF; Copiador de correspondência ======
+
+**Parent**:: 20364
+**RootParent**:: 20342
+**UnitTitle**:: Termos de responsabilidade dos sócios do Corpo Activo da AHBVF; Copiador de correspondência
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-06-28
+**UnitDateFinal**:: 1930-12-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25009
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 112
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25009

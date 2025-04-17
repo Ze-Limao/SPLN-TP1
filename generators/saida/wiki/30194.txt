@@ -1,0 +1,16 @@
+====== 30194 - DC - Carta ======
+
+**Parent**:: 21370
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-06-11
+**UnitDateFinal**:: 1915-06-11
+**ScopeContent**:: Agradece ter recebido O Janeiro e a Estrela do Minho. Informa que estão à venda os bustos de Camilo do escultor Rui Teixeira Bastos de gesso e bronze, sendo as encomendas feitas à Livraria Férin, em Lisboa. Informa que oferecerá um daguerreótipo de Camilo ao Museu quando abrir. Carta manuscrita e assinada, de Lisboa. Carimbo na 1ª f. "Cruz Magalhães. Campo Grande 168-169. Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30194
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1326 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30194

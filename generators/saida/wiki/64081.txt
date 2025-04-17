@@ -1,0 +1,15 @@
+====== 64081 - DC - Recibo do Padre José Bento da Vinha ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo do Padre José Bento da Vinha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-12-08
+**UnitDateFinal**:: 1863-12-08
+**ScopeContent**:: Manuscrito. Recibo em papel azul de missas pelos vivos e defuntos da Confraria de Nome de Deus.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 398 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64081

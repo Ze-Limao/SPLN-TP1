@@ -1,0 +1,17 @@
+====== 54034 - DC - Projeto do novo edifício do Tribunal Judicial, conservatórias, notariado, etc. - segundo adicional 1961. Câmara Municipal de Famalicão ======
+
+**Parent**:: 54025
+**RootParent**:: 25851
+**UnitTitle**:: Projeto do novo edifício do Tribunal Judicial, conservatórias, notariado, etc. - segundo adicional 1961. Câmara Municipal de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-06-06
+**UnitDateFinal**:: 1961-06-06
+**ScopeContent**:: Contém 154(2) a (8).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54034
+**LangMaterial**:: Português
+**PhysLoc**:: JG 154(1) - cx. 16
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54034

@@ -1,0 +1,17 @@
+====== 20709 - DC - Registo do recenseamento militar de Firmino ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Firmino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Calendário
+Filiação - António Ferreira Vago e Marcelina Rosa
+Naturalidade - Calendário
+Data de nascimento - 1870-03-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20709
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 62v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20709

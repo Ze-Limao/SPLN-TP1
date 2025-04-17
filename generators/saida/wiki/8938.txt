@@ -1,0 +1,18 @@
+====== 8938 - DC - Termo do exame de Joaquim Dias da Costa ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim Dias da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-28
+**UnitDateFinal**:: 1894-07-28
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Rosa Dias da Costa
+Naturalidade - Fradelos
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8938
+**LangMaterial**:: Português
+**PhysLoc**:: f. 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8938

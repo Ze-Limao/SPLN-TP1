@@ -1,0 +1,14 @@
+====== 8676 - DC - Ofício nº 119 ======
+
+**Parent**:: 8675
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 119
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1837-10-13
+**UnitDateFinal**:: 1837-10-13
+**ScopeContent**:: Envia cópia do recenseamento eleitoral
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8676
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8676

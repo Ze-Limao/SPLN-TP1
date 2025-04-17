@@ -1,0 +1,17 @@
+====== 20061 - SR - Receitas e despesas ======
+
+**Parent**:: 20056
+**RootParent**:: 20048
+**UnitTitle**:: Receitas e despesas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1899-02-06
+**UnitDateFinal**:: 1919-06-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20061
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20061
+
+===== Filhos =====
+  * [[20062.txt|20062 - UI - Receitas e despesa da Administração]]
+  * [[20063.txt|20063 - UI - Receitas e despesa da Administração]]
+  * [[20064.txt|20064 - UI - Receitas e despesa da Administração]]

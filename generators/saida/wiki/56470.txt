@@ -1,0 +1,17 @@
+====== 56470 - DC - Nota e mapa ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Nota e mapa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1922
+**ScopeContent**:: Nota com o nome José, Ana Guedes da Costa e um mapa desenhado. "Anna Guedes da Costa. Rua do Capitão, 32"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56470
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5713 - cx. 40
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56470

@@ -1,0 +1,17 @@
+====== 67161 - DC - 23 d´Abril 1899 ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: 23 d´Abril 1899
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-04-23
+**UnitDateFinal**:: 1899-04-23
+**ScopeContent**:: Envelope dirigido ao Visconde de Pindela, que contém CP 3204 a CP 3214, com título manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58466
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3203 - cx. 25
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67161

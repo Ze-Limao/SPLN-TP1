@@ -1,0 +1,17 @@
+====== 29740 - DC - Carta ======
+
+**Parent**:: 21289
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-06-17
+**UnitDateFinal**:: 1919-06-17
+**ScopeContent**:: Alves de Azevedo refere que aguarda a planta da casa do escritor e que enviará brevemente a apólice o Seguro Portuguez, subscrita por 42 companhias de seguros, assumindo a responsabilidade do fogo do prédio onde funcionará o Museu Camilo. A apólice contém um desenho artístico de Armando Lucena. Carta manuscrita assinada, de Lisboa. Papel impresso "Ministério das Finanças. Direcção Geral das Contribuições e Impostos".
+A entrega das apólices à Câmara Municipal de V.N. Famalicão foi em novembro de 1921.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29740
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1151 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29740

@@ -1,0 +1,16 @@
+====== 23856 - DC - Registo do recenseamento eleitoral de Silvério Ferreira de Macedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Silvério Ferreira de Macedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Escrivão da Câmara
+Morada - Rua de Santo António
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23856
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 88v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23856

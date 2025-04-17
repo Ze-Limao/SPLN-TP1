@@ -1,0 +1,15 @@
+====== 65847 - DC - Carta de provimento de uma Ração (casais da Coelha) da Igreja de S. Tiago de Antas que fez Pero Jorge da Silva, abade da Igreja ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Carta de provimento de uma Ração (casais da Coelha) da Igreja de S. Tiago de Antas que fez Pero Jorge da Silva, abade da Igreja
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1529-10-04
+**UnitDateFinal**:: 1529-10-04
+**ScopeContent**:: Manuscrito, original, sem selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 282 - cx. P26
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65847

@@ -1,0 +1,17 @@
+====== 9779 - DC - Famalicão - Feira da louça ======
+
+**Parent**:: 9776
+**RootParent**:: 60698
+**UnitTitle**:: Famalicão - Feira da louça
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1912
+**ScopeContent**:: Feira da louça na praça Mousinho de Albuquerque junto da Confeitaria de Álvaro Bezerra & C. com várias mulheres a vender. Bilhete-postal impresso em tom de bege, com legenda na frente, no verso selado e carimbado. Edição de Francisco Mesquita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9779
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 33 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9779

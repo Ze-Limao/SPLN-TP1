@@ -1,0 +1,16 @@
+====== 30637 - DC - Registo do recenseamento eleitoral de Manuel José da Costa Pereira ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José da Costa Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Cabeçudos
+Profissão - Lavrador
+Morada - Pinchorros
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30637
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30637

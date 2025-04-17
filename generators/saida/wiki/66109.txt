@@ -1,0 +1,15 @@
+====== 66109 - DC - Testamento de doação de Gonçalo Gonçalves ======
+
+**Parent**:: 63947
+**RootParent**:: 60536
+**UnitTitle**:: Testamento de doação de Gonçalo Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1601-08-27
+**UnitDateFinal**:: 1601-08-27
+**ScopeContent**:: Manuscrito, pública-forma, folhas cosidas, sem capa. No canto esquerdo superior “Num. 13, missas por ano”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 302 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66109

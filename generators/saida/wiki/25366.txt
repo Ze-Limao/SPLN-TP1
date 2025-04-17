@@ -1,0 +1,15 @@
+====== 25366 - DC - Exposição do inspector António Fiúza e do Comandante Fernando Folhadela Guimarães à Direcção da AHBVF sobre a dissolução do corpo activo ======
+
+**Parent**:: 25077
+**RootParent**:: 20342
+**UnitTitle**:: Exposição do inspector António Fiúza e do Comandante Fernando Folhadela Guimarães à Direcção da AHBVF sobre a dissolução do corpo activo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927-05-31
+**UnitDateFinal**:: 1927-05-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25366
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 175 - cx. 42
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25366

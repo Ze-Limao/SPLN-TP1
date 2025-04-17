@@ -1,0 +1,19 @@
+====== 34038 - DC - Registo do recenseamento militar de Lino Gomes ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Lino Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Sezures
+Data de nascimento - 1852-09-10
+Filiação - Domingos José Gomes e Quitéria Gomes Pereira Rios
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Sezures
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34038
+**LangMaterial**:: Português
+**PhysLoc**:: 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34038

@@ -1,0 +1,16 @@
+====== 23684 - DC - Registo do recenseamento eleitoral de Manuel Machado ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vermoim
+Profissão - Eclesiástico
+Morada - Presa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23684
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 82v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23684

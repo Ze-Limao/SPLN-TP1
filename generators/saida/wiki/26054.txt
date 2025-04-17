@@ -1,0 +1,16 @@
+====== 26054 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-03-22
+**UnitDateFinal**:: 1916-03-22
+**ScopeContent**:: Júlio Brandão refere que Santos Silva só no próximo mês é que incluiu cem escudos no orçamento. Carta manuscrita assinada, do Porto, Rua Costa Cabral, 290. Carta de 22 março, sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26054
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 848 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26054

@@ -1,0 +1,15 @@
+====== 8078 - DC - Termo de Domingos Coelho ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Domingos Coelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-01-23
+**UnitDateFinal**:: 1879-01-23
+**ScopeContent**:: Vedação de terreno
+Local - Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8078
+**LangMaterial**:: Português
+**PhysLoc**:: f. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8078

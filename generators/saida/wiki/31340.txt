@@ -1,0 +1,15 @@
+====== 31340 - SSSC - Funções na 1ª Circunscrição Florestal do Norte - Engenheiro-Chefe dos Serviços Florestais ======
+
+**Parent**:: 31331
+**RootParent**:: 31258
+**UnitTitle**:: Funções na 1ª Circunscrição Florestal do Norte - Engenheiro-Chefe dos Serviços Florestais
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1937-12-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31340
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31340
+
+===== Filhos =====
+  * [[31341.txt|31341 - SR - Documentos]]
+  * [[79084.txt|79084 - SR - Correspondência]]

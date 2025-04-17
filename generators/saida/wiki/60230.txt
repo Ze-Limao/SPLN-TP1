@@ -1,0 +1,17 @@
+====== 60230 - DC - Comissão de Viticultura. Serviço Central. Assumptos tratados. Tentativa de abolição das regiões demarcadas com excepção das do Douro e Madeira ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Assumptos tratados. Tentativa de abolição das regiões demarcadas com excepção das do Douro e Madeira
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1929
+**UnitDateFinal**:: 1929
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes com ofícios datilografados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57243
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9548 - cx. 60
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60230

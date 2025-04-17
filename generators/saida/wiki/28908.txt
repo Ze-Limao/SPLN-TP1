@@ -1,0 +1,17 @@
+====== 28908 - UI - Augusto Carlos Cardoso Pinto Osório ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Augusto Carlos Cardoso Pinto Osório
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907-06-10
+**UnitDateFinal**:: 1907-07-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28908
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28908
+
+===== Filhos =====
+  * [[28909.txt|28909 - DC - Carta]]
+  * [[28910.txt|28910 - DC - Carta]]
+  * [[28911.txt|28911 - DC - Carta]]
+  * [[28912.txt|28912 - DC - Carta]]

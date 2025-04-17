@@ -1,0 +1,15 @@
+====== 99470 - UI - António Gonçalves ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: António Gonçalves
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-02-19
+**UnitDateFinal**:: 1917-02-19
+**ScopeContent**:: Vila Laura, Vigo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99470
+
+===== Filhos =====
+  * [[99471.txt|99471 - DC - Carta para Lino Filho]]

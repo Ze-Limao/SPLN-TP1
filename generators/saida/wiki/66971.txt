@@ -1,0 +1,14 @@
+====== 66971 - UI - Heinrich Koehler ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Heinrich Koehler
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1910
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66971
+
+===== Filhos =====
+  * [[66973.txt|66973 - DC - Cartão de visita]]

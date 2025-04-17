@@ -1,0 +1,27 @@
+====== 20161 - UI - Pensões de guerra ======
+
+**Parent**:: 20160
+**RootParent**:: 20048
+**UnitTitle**:: Pensões de guerra
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-06
+**UnitDateFinal**:: 1918-12-09
+**ScopeContent**:: Contém dados: data, nome, quantia, total e observações. 
+Contém : Declaração, 1917?, 1 f.; papel.
+Circular do Concelho Administrativo do Regimento de Infantaria 29 dirigida (sem nome), 191?-, 1 f. impressa; papel.
+Circular do Concelho Administrativo do Regimento de Infantaria 29 dirigida (sem nome), 1918-01-12, 1 f. impressa; papel.
+Recibo do vale telegráfico nº09449, 1918-10-01, 1 f.; papel.
+Circular do Concelho do regimento de Obuzes de Campanhã dirigido ao Administrador do Concelho de Vila Nova de Famalicão, 1918-04-20, 1 f.; papel.
+Declaração de um soldado em campanha ao Regimento de Infantaria nº 11 Campanhã, 1918-02-14, 1 f.; papel.
+Ofício da Companhia de telegrafistas de Praça dirigido ao Administrador do Concelho de Vila Nova de Famalicão, 1918-07-30, 1 f.; papel.
+Ofício da Companhia de Depósito Regimento d´Infantaria nº 8 º Batalhão dirigido ao Administrador do Concelho de Vila nova de Famalicão, 1916-07-11, 1 f.; papel.
+Ofício de um soldado dirigido ao Ministro de Guerra, 1916-07-11, 1 f. muito deteriorada; papel.
+Relação de pensões referidas ao mês de Abril de 1918 da Companhia de telegrafistas de Praça, 1918-05-20, 1 f. impressa e ms.; papel.
+Circular da secção depósito da Companhia de Telegrafistas de Praça dirigido ao Administrador do Concelho de Vila Nova de Famalicão, 1918-05-20, 1 f.; papel.
+Relação das praças expedicionárias a França que deixaram pensões a suas famílias e as quais são pagas por administração do concelho de Famalicão, 1919-01-sem dia, 2 f.; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20161
+**LangMaterial**:: Português
+**PhysLoc**:: AC 27
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20161

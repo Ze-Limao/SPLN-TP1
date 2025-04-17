@@ -1,0 +1,18 @@
+====== 47589 - DC - Registo do recenseamento eleitoral de Manuel Luís de Araújo Campos ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Luís de Araújo Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Brufe
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Ribeira
+Idade - 33
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47589
+**LangMaterial**:: Português
+**PhysLoc**:: 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47589

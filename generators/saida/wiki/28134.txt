@@ -1,0 +1,16 @@
+====== 28134 - DC - Percentagem alcoólica do clarete de 1893 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Percentagem alcoólica do clarete de 1893
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1893
+**ScopeContent**:: Indicação do teor alcoólico do vinho clarete produzido em 1893. Indicação do grau alcoólico do clarete produzido em 1893 (11% de álcool) e ainda dos valores da temperatura e do grau de condensação do ar, registados pelo termómetro (Therm.) e aerómetro (Aerom.).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28134
+**LangMaterial**:: Português
+**PhysLoc**:: AS 407 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28134

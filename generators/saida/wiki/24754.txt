@@ -1,0 +1,19 @@
+====== 24754 - UI - Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros; Documentos diversos ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida sobre a construção da nova sede do Quartel de Bombeiros; Documentos diversos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-06-11
+**UnitDateFinal**:: 1970-06-11
+**ScopeContent**:: Os documentos diversos dizem respeito a notas manuscritas de receitas obtidas em eventos, recibos de despesas, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24754
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 13 - cx. 3
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24754
+
+===== Filhos =====
+  * [[25829.txt|25829 - DC - Ofício do Presidente da Câmara de Vila Nova de Famalicão ao Presidente da Direção dos Bombeiros Voluntários]]

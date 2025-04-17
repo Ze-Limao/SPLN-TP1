@@ -1,0 +1,17 @@
+====== 78309 - DC - Rendimentos de Leiria ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Rendimentos de Leiria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1812
+**UnitDateFinal**:: 1813
+**ScopeContent**:: Manuscrito sem datação. Despesas e rendimentos dos bens que pertenceram à herança de Maria Angélica Rita Pinto de Magalhães e Gouveia casada com João Machado Pinheiro de Melo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4947 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78309

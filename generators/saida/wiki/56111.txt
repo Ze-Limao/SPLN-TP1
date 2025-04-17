@@ -1,0 +1,32 @@
+====== 56111 - DC - Maço Tratado de Comércio ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço Tratado de Comércio
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Este maço contém CP 14777 a CP 14789.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56111
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14776 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56111
+
+===== Filhos =====
+  * [[56112.txt|56112 - DC - Cópia de ofícios para Luís de Magalhães]]
+  * [[56114.txt|56114 - DC - Carta de António da Costa Cabral]]
+  * [[56115.txt|56115 - DC - Recorte de jornal]]
+  * [[56116.txt|56116 - DC - Notas para as negociações de um Tratado do Comércio entre Portugal e a Alemanha…por  Luís Terra Viana]]
+  * [[56117.txt|56117 - DC - Cópia de ofício]]
+  * [[56118.txt|56118 - DC - Cópia de ofício]]
+  * [[56119.txt|56119 - DC - Cópia de ofício]]
+  * [[56120.txt|56120 - DC - Cópia de ofício]]
+  * [[56121.txt|56121 - DC - Cópia de ofício]]
+  * [[56122.txt|56122 - DC - Cópia de ofício]]
+  * [[56123.txt|56123 - DC - Cópia de ofício]]
+  * [[56124.txt|56124 - DC - Cópia de ofício]]
+  * [[56128.txt|56128 - DC - Minuta carta de Luís da Terra Viana de Venceslau de Lima]]

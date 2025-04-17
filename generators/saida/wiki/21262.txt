@@ -1,0 +1,18 @@
+====== 21262 - UI - Rui Lopes de Sousa de Alvim e Lemos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Rui Lopes de Sousa de Alvim e Lemos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-03-29
+**UnitDateFinal**:: 1910-03-29
+**ScopeContent**:: Primo de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21262
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1027
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21262
+
+===== Filhos =====
+  * [[27933.txt|27933 - DC - Carta]]

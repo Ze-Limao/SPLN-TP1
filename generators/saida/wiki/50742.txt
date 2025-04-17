@@ -1,0 +1,18 @@
+====== 50742 - DC - Registo do recenseamento militar de Eduardo ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Eduardo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-03-23
+Filiação - Domingos Marques de Oliveira e Maria Joaquina
+Naturalidade - Sezures
+Profissão - Negociante
+Residência - Pernambuco
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50742
+**LangMaterial**:: Português
+**PhysLoc**:: 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50742

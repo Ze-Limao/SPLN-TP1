@@ -1,0 +1,16 @@
+====== 21251 - UI - Nuno de Moura Teixeira ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Nuno de Moura Teixeira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21251
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 991
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21251
+
+===== Filhos =====
+  * [[26195.txt|26195 - DC - Carta]]

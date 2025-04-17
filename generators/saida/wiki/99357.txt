@@ -1,0 +1,16 @@
+====== 99357 - UI - Raul D. Carneiro ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Raul D. Carneiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912-01-06
+**UnitDateFinal**:: 1916-02-18
+**ScopeContent**:: Representante no Rio de Janeiro. Sobrinho e genro de António Cristino.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99357
+
+===== Filhos =====
+  * [[99358.txt|99358 - DC - Carta]]
+  * [[99359.txt|99359 - DC - Ofício]]

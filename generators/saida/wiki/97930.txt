@@ -1,0 +1,15 @@
+====== 97930 - UI - Processo nº 56 ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 56
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-02-12
+**UnitDateFinal**:: 1979-05-31
+**ScopeContent**:: Junto com Autos de Transgressão nº 709. Autos de Embargos de Terceiros nº 709-C, 709-D, Autos de Execução por Custas 709-B, 709-A e Auto de Reclamação de Créditos nº 709-E.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 648 - cx. 36
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97930

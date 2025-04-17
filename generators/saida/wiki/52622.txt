@@ -1,0 +1,16 @@
+====== 52622 - DC - Registo do recenseamento militar de Manuel de Araújo Carvalho ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel de Araújo Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-04-07
+Filiação - José de Araújo Carvalho e Bernarda Martins
+Naturalidade - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52622
+**LangMaterial**:: Português
+**PhysLoc**:: 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52622

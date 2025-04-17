@@ -1,0 +1,16 @@
+====== 25324 - UI - Fotografias diversas ======
+
+**Parent**:: 20387
+**RootParent**:: 20342
+**UnitTitle**:: Fotografias diversas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1999
+**ScopeContent**:: Contém: 3 folhetos; 20 fotografias a cores do interior da ambulância; 20 fotografias a cores da visita pascal e eucaristia; 9 fotografias da ambulância e interior; 4 fotografias a cores do médico Drº Sampaio; 12 fotografias p&b reproduções de fotografias antigas; 1 fotografia da Photographia A. J. de Barros, Póvoa de Varzim; 43 fotografias a cores do interior de ambulância; 98 fotografias a cores do Centenário e outras.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25324
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 193 - cx. 55
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25324

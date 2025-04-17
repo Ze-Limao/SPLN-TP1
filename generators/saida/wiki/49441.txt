@@ -1,0 +1,18 @@
+====== 49441 - DC - Registo do recenseamento eleitoral de Joaquim Pereira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vale S. Cosme
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Carrazedo
+Idade - 62
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49441
+**LangMaterial**:: Português
+**PhysLoc**:: 83v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49441

@@ -1,0 +1,16 @@
+====== 26196 - DC - Carta ======
+
+**Parent**:: 21252
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881-04-05
+**UnitDateFinal**:: 1881-04-05
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Caminho de Ferro do Porto. Indústria Vitória Famalicão".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26196
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 992 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26196

@@ -1,0 +1,15 @@
+====== 29871 - DC - Desenho com medições de campo ======
+
+**Parent**:: 28423
+**RootParent**:: 27963
+**UnitTitle**:: Desenho com medições de campo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29871
+**LangMaterial**:: Português
+**PhysLoc**:: AS 61 (5) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29871

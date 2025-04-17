@@ -1,0 +1,15 @@
+====== 80065 - UI - Processo nº 44-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 44-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-01-07
+**UnitDateFinal**:: 1973-01-31
+**ScopeContent**:: Junto com Autos de Acção de Processo Comum nº 44, Execução nº 44-B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 75 - cx. 5
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80065

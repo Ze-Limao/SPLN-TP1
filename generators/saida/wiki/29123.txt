@@ -1,0 +1,14 @@
+====== 29123 - UI - Joaquim José Meira ======
+
+**Parent**:: 28716
+**RootParent**:: 27963
+**UnitTitle**:: Joaquim José Meira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-10-15
+**UnitDateFinal**:: 1899-10-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29123
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29123
+
+===== Filhos =====
+  * [[29124.txt|29124 - DC - Rascunho de carta]]

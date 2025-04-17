@@ -1,0 +1,15 @@
+====== 8101 - DC - Termo de José Pinheiro Alves ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José Pinheiro Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-07-23
+**UnitDateFinal**:: 1879-07-23
+**ScopeContent**:: Vedação de terreno
+Local - Seide S. Miguel
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8101
+**LangMaterial**:: Português
+**PhysLoc**:: 31
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8101

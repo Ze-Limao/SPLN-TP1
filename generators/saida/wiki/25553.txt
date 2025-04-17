@@ -1,0 +1,16 @@
+====== 25553 - DC - Carta ======
+
+**Parent**:: 21144
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-12-12
+**UnitDateFinal**:: 1906-12-12
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado do Tribunal de Contas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25553
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 507 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25553

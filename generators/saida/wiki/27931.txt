@@ -1,0 +1,16 @@
+====== 27931 - DC - Carta ======
+
+**Parent**:: 21261
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado do jornal "ABC", Rua do Alecrim 65, Lisboa. Carta sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27931
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1025 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27931

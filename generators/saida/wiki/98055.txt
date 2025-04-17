@@ -1,0 +1,14 @@
+====== 98055 - UI - Processo nº 541 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 541
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-12-21
+**UnitDateFinal**:: 1979-07-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 721 - cx. 39
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98055

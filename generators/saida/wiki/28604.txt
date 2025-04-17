@@ -1,0 +1,19 @@
+====== 28604 - DC - Notas sobre Castelo de Neiva ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre Castelo de Neiva
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Consultar capítulo III “O mar livre” do estudo As Povoas Marítimas do Norte de Portugal in Estudos Históricos e Económicos, ed. 1923, p. 318-319.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28604
+**LangMaterial**:: Português
+**PhysLoc**:: AS 109 (1) a 109 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28604
+
+===== Filhos =====
+  * [[28605.txt|28605 - DC - Freguesia Castello do Neiva Sancti Jacobi de juxta prope Castellum]]
+  * [[28606.txt|28606 - DC - Item, dam al Rey de novoo do porto de mar]]

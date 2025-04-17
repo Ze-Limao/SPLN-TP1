@@ -1,0 +1,16 @@
+====== 23153 - DC - Carta ======
+
+**Parent**:: 21040
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912-09-21
+**UnitDateFinal**:: 1912-09-21
+**ScopeContent**:: Alberto Pinheiro Torres agradece a carta de pêsames à morte da sua irmã e aguarda com curiosidade o livro. Carta manuscrita assinada, Paris - Hotel ? Cambon.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23153
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 42 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23153

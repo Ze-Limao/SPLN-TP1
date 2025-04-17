@@ -1,0 +1,15 @@
+====== 98040 - UI - Processo nº 171-A ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 171-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1980-04-18
+**UnitDateFinal**:: 1983-10-07
+**ScopeContent**:: Junto com Autos de Transgressão nº 596 e Autos de Execução por Custas nº 171.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 706 - cx. 39
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98040

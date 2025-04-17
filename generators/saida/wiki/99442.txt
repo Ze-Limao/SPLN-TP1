@@ -1,0 +1,15 @@
+====== 99442 - UI - Café e restaurante Carioca de José Amieiro ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Café e restaurante Carioca de José Amieiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-05-28
+**UnitDateFinal**:: 1916-05-28
+**ScopeContent**:: Esplanada da Foz, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99442
+
+===== Filhos =====
+  * [[99443.txt|99443 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 65920 - DC - Emprazamento do casal de Mões de Cima, situado na freguesia de S. Tiago de Gavião, feito por Jerónimo de Oliveira Carvalho, abade de S. Tiago de Antas, a Manuel Ferreira e a sua mulher Angélica de São Paio ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Mões de Cima, situado na freguesia de S. Tiago de Gavião, feito por Jerónimo de Oliveira Carvalho, abade de S. Tiago de Antas, a Manuel Ferreira e a sua mulher Angélica de São Paio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1711-12-19
+**UnitDateFinal**:: 1711-12-19
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 655 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65920

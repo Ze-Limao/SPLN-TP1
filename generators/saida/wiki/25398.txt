@@ -1,0 +1,16 @@
+====== 25398 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-01-03
+**UnitDateFinal**:: 1914-01-03
+**ScopeContent**:: Carta manuscrita assinada, de Coimbra 35, rua do Norte. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25398
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 377 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25398

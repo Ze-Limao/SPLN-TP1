@@ -1,0 +1,18 @@
+====== 21235 - UI - Maria José de Melo Abreu Soares Vasconcelos Barbosa e Palha ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Maria José de Melo Abreu Soares Vasconcelos Barbosa e Palha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880-10-12
+**UnitDateFinal**:: 1880-10-12
+**ScopeContent**:: Maria José de Melo Abreu Soares Vasconcelos Barbosa e Palha nasceu a 9 de junho de 1857 em Alcântara, Lisboa e faleceu 12 de janeiro de 1882, em Santos-o-Velho, Lisboa. Filha de João José Maria de Melo Abreu de Vasconcelos Brito Barbosa e Palha, 3º conde de Murça e de Ana de Sousa Coutinho Monteiro Paim. Irmã de Mariana das Dores Palha de Vasconcelos Guedes (de Melo), 4ª condessa de Murça. Casada com António Maria Vasco de Melo Silva César e Menezes, 9.º conde de Sabugosa.
+Casou com Conde de Arnoso em Lisboa, Santos-o-Velho, 16 de julho de 1877. Bernardo e Maria José tiveram 3 filhos: Ana Maria Isabel do Carmo Pinheiro de Melo (06.06.1878); João Maria Rodrigo Pinheiro da Figueira e Melo, 2º Conde de Arnoso (09.10.1879-06.06.1906); Vicente Miguel de Paula Pinheiro de Melo, 3º Conde de Arnoso (09-12-1881-15.06.1925).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21235
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 955
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21235
+
+===== Filhos =====
+  * [[26160.txt|26160 - DC - Carta para Maria Júlia Falcão Cota de Bourbon e Menezes]]

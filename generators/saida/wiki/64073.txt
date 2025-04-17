@@ -1,0 +1,15 @@
+====== 64073 - DC - Conta de mão de obra da sacristia e concertos ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Conta de mão de obra da sacristia e concertos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-05-28
+**UnitDateFinal**:: 1880-05-28
+**ScopeContent**:: Manuscrito. Conta recebida por António Rodrigues da Fonseca.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 391 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64073

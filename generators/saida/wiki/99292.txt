@@ -1,0 +1,15 @@
+====== 99292 - UI - Manuel da Costa Colaço ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Manuel da Costa Colaço
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-10-04
+**UnitDateFinal**:: 1917-10-04
+**ScopeContent**:: Lisboa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99292
+
+===== Filhos =====
+  * [[99293.txt|99293 - DC - Ofício]]

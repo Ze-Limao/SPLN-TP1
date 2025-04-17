@@ -1,0 +1,16 @@
+====== 61757 - DC - Fundação Rotária Portuguesa Subscritor de Mérito conferido ao Rotary Club de Vila Nova de Famalicão ======
+
+**Parent**:: 61452
+**RootParent**:: 60551
+**UnitTitle**:: Fundação Rotária Portuguesa Subscritor de Mérito conferido ao Rotary Club de Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2019-11-15
+**UnitDateFinal**:: 2019-11-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 429 - cx. 9
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61757

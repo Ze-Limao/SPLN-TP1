@@ -1,0 +1,28 @@
+====== 53748 - SR - Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Aditamento - Mobiliário ======
+
+**Parent**:: 25851
+**RootParent**:: 25851
+**UnitTitle**:: Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Aditamento - Mobiliário
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1951-07-24
+**UnitDateFinal**:: 1961-01
+**ScopeContent**:: Série constituída por peças desenhadas em folhas de grandes formatos. Nesta série encontram-se desenhos de plantas do Tribunal, com identificação e localização das peças de mobiliário propostas pelo arquiteto Januário Godinho. Os desenhos contemplam as alterações dos vários aditamentos dos desenhos de pormenor. A base destas plantas são as plantas do projeto original, apesar de já conterem alterações das versões finais dos espaços.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53748
+**LangMaterial**:: Português
+**PhysLoc**:: JG
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53748
+
+===== Filhos =====
+  * [[53935.txt|53935 - DC - Projecto da Câmara Municipal de Famalicão 2A - Planta do 1º Piso - Aditamento Mobiliário]]
+  * [[53936.txt|53936 - DC - Projecto da Câmara Municipal de Famalicão 3A - Planta do 2º Piso - Aditamento Mobiliário]]
+  * [[53937.txt|53937 - DC - Projecto da Câmara Municipal de Famalicão 4A - Planta do 3º Piso -- Aditamento Mobiliário]]
+  * [[53938.txt|53938 - DC - Projecto da Câmara Municipal de Famalicão 5A Planta do 4º Piso - Aditamento Mobiliário]]
+  * [[53939.txt|53939 - DC - Edifício dos novos Paços do Concelho de Famalicão - Projecto do Mobiliário M1]]
+  * [[53940.txt|53940 - DC - Edifício dos novos Paços do Concelho de Famalicão - Projecto do Mobiliário M2]]
+  * [[53941.txt|53941 - DC - Nota manuscrita sobre mobiliário]]
+  * [[53942.txt|53942 - DC - Ofício dirigido ao Presidente da Câmara Municipal de Famalicão do Arquiteto Januário Godinho sobre projeto do mobiliário]]
+  * [[53943.txt|53943 - DC - Ofício dirigido ao Presidente da Câmara Municipal de Famalicão do Arquiteto Januário Godinho sobre do mobiliário da secretaria]]
+  * [[54051.txt|54051 - DC - Móvel ficheiro para arquivo e consulta de verbetes de Imposto Complementar…do Ministério das Finanças, Direção Geral das Contribuições e Impostos, Secção Técnica]]

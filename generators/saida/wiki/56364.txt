@@ -1,0 +1,17 @@
+====== 56364 - DC - Lisboa 1 d´ Outubro de 1914 a 31 de Setembro de 1915 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Lisboa 1 d´ Outubro de 1914 a 31 de Setembro de 1915
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1914-10-01
+**UnitDateFinal**:: 1915-09-30
+**ScopeContent**:: Maço que contém 41 documentos: correspondência e faturas/recibos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12547 (1) a 12547 (41) - cx. 74
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56364

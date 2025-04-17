@@ -1,0 +1,18 @@
+====== 8826 - DC - Termo do exame de Amaury da Fonseca Araújo Monteiro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Amaury da Fonseca Araújo Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-29
+**UnitDateFinal**:: 1893-07-29
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - José de Abreu Monteiro
+Naturalidade - Landim
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8826
+**LangMaterial**:: Português
+**PhysLoc**:: f. 41
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8826

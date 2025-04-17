@@ -1,0 +1,18 @@
+====== 52564 - DC - Registo do recenseamento militar de Anastácio José Pereira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Anastácio José Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-02-18
+Filiação - Manuel José Pereira e Violante Pimenta
+Naturalidade - Riba de Ave
+Profissão - Boleeiro
+Residência - Margaride
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52564
+**LangMaterial**:: Português
+**PhysLoc**:: 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52564

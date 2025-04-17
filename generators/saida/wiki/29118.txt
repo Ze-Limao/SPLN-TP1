@@ -1,0 +1,16 @@
+====== 29118 - DC - Rascunho de carta ======
+
+**Parent**:: 29117
+**RootParent**:: 27963
+**UnitTitle**:: Rascunho de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-01-28
+**UnitDateFinal**:: 1906-01-28
+**ScopeContent**:: Carta escrita no Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29118
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 534-1, cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29118

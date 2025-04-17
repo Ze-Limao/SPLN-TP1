@@ -1,0 +1,15 @@
+====== 66345 - DC - S. Tiago de Antas tocante à contenda dos Raçoeiros sobre as missas alternadas ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: S. Tiago de Antas tocante à contenda dos Raçoeiros sobre as missas alternadas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1616-12-07
+**UnitDateFinal**:: 1616-12-07
+**ScopeContent**:: Manuscrito, original, sem capa. No canto esquerdo em cima “Num. 7”
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 465 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66345

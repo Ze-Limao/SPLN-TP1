@@ -1,0 +1,12 @@
+====== 54578 - UI - Manuel Maria de Oliveira Ramos ======
+
+**Parent**:: 31357
+**RootParent**:: 31258
+**UnitTitle**:: Manuel Maria de Oliveira Ramos
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54578
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54578
+
+===== Filhos =====
+  * [[54579.txt|54579 - DC - Bilhete-postal]]

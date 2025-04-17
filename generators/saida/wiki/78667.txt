@@ -1,0 +1,17 @@
+====== 78667 - DC - Demanda entre João Machado de Melo e António Gomes sobre terras do Mosteiro de Arnoso ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Demanda entre João Machado de Melo e António Gomes sobre terras do Mosteiro de Arnoso
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1827-06-11
+**UnitDateFinal**:: 1834-08-01
+**ScopeContent**:: Manuscrito com folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6047 - cx. 42
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78667

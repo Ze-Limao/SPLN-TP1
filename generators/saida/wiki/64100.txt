@@ -1,0 +1,15 @@
+====== 64100 - DC - Rol da desobriga da freguesia de S. Tiago de Antas do ano de 1874 ======
+
+**Parent**:: 64091
+**RootParent**:: 60536
+**UnitTitle**:: Rol da desobriga da freguesia de S. Tiago de Antas do ano de 1874
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1874-04-06
+**UnitDateFinal**:: 1874-04-06
+**ScopeContent**:: Manuscrito, original, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 271 - cx. 14
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64100

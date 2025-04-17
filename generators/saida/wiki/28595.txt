@@ -1,0 +1,19 @@
+====== 28595 - DC - Notas sobre Caminha e Cerveira ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre Caminha e Cerveira
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Consultar: capítulo III “O mar livre” do estudo As Povoas Marítimas do Norte de Portugal in Estudos Históricos e Económicos, ed. 1923, pp. 312-313.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28595
+**LangMaterial**:: Português
+**PhysLoc**:: AS 106 (1) a 106 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28595
+
+===== Filhos =====
+  * [[28596.txt|28596 - DC - Caminha e Cerveira Reinado d’ Afonso III]]
+  * [[28597.txt|28597 - DC - Cópia paleográfica do Foral de D. Dinis de 1284]]

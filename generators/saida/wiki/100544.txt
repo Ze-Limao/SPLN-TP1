@@ -1,0 +1,14 @@
+====== 100544 - SR - Negativos em película ======
+
+**Parent**:: 60696
+**RootParent**:: 60696
+**UnitTitle**:: Negativos em película
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1940
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD100544
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100544
+
+===== Filhos =====
+  * [[100528.txt|100528 - UI - Negativos em película]]

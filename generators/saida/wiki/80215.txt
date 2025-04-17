@@ -1,0 +1,15 @@
+====== 80215 - UI - Processo nº 88 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 88
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-02-26
+**UnitDateFinal**:: 1976-09-01
+**ScopeContent**:: Junto com Autos de Processo Comum Sumário nº 89, 90, 103, 104, 121.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 104 - cx. 7
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80215

@@ -1,0 +1,16 @@
+====== 23273 - DC - Registo do recenseamento eleitoral de Domingos José de Azevedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos José de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Morada - Geralda
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23273
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 66v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23273

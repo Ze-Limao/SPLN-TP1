@@ -1,0 +1,14 @@
+====== 9973 - DC - Registo do pagamento a Joaquim Antunes ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a Joaquim Antunes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-02
+**UnitDateFinal**:: 1882-03-02
+**ScopeContent**:: Criação e alimentação do menor José, a cargo da Câmara
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9973
+**LangMaterial**:: Português
+**PhysLoc**:: f. 4
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9973

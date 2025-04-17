@@ -1,0 +1,15 @@
+====== 21007 - DC - Nº 4/963 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 4/963
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1963-02-15
+**UnitDateFinal**:: 1963-02-15
+**ScopeContent**:: Contrato de adjudicação da obra de reparação e beneficiação da EN206 (Mato da Senra) ao lugar da Tapada, freguesia de Joane. Lanço da EN206 ao lugar de Cividade. Quarta fase
+Outorgante - Mário da Costa Alves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21007
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 88v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21007

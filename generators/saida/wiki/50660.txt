@@ -1,0 +1,18 @@
+====== 50660 - DC - Registo do recenseamento militar de Marcos ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Marcos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 1842-03-26
+Filiação - 
+Naturalidade - Vila Nova de Famalicão
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50660
+**LangMaterial**:: Português
+**PhysLoc**:: 103v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50660

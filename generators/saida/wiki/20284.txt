@@ -1,0 +1,14 @@
+====== 20284 - UI - Registo de correspondência recebida nos Serviços Administrativos nº10 ======
+
+**Parent**:: 20219
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nos Serviços Administrativos nº10
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1941-03-10
+**UnitDateFinal**:: 1941-07-08
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir êste livro, nos termos do nº9 do artigo 120 do Código Administrativo, se registar a correspondência recebida na Câmara Municipal…” e manuscrito (Serviços Administrativos). Contém dados: nº de entrada, número do ofício, data do ofício, data da receção, designação da entidade expedidora, extracto do conteúdo, observações. Inicia com o registo nº 319 até ao registo nº 919.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20284
+**LangMaterial**:: Português
+**PhysLoc**:: 693
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20284

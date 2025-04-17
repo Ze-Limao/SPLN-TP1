@@ -1,0 +1,15 @@
+====== 98779 - SSC - Medalhas comemorativas ======
+
+**Parent**:: 98672
+**RootParent**:: 7651
+**UnitTitle**:: Medalhas comemorativas
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1978
+**UnitDateFinal**:: 1991
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8106
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98779
+
+===== Filhos =====
+  * [[98787.txt|98787 - SR - Medalhas editadas pela Câmara Municipal]]
+  * [[98788.txt|98788 - SR - Medalhas não editadas pela Câmara Municipal]]

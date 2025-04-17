@@ -1,0 +1,17 @@
+====== 56646 - DC - Mode d´emploi du reméde Dr. Brugelmann ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Mode d´emploi du reméde Dr. Brugelmann
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889
+**UnitDateFinal**:: 1918
+**ScopeContent**:: Manuscrito com modo de emprego de medicamentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56646
+**LangMaterial**:: Francês, Português
+**PhysLoc**:: CP 7374 - cx. 48
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56646

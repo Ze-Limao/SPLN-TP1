@@ -1,0 +1,16 @@
+====== 29644 - DC - Receitas varias ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: Receitas varias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Capa do maço "Receitas várias"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29644
+**LangMaterial**:: Português
+**PhysLoc**:: AS 222 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29644

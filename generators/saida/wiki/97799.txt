@@ -1,0 +1,14 @@
+====== 97799 - UI - Processo nº 219 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 219
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1979-10-23
+**UnitDateFinal**:: 1980-11-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 526 - cx. 31
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97799

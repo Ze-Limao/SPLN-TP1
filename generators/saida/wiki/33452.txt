@@ -1,0 +1,17 @@
+====== 33452 - DC - Cartão de visita ======
+
+**Parent**:: 33439
+**RootParent**:: 31258
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-11-24
+**UnitDateFinal**:: 1896-11-24
+**ScopeContent**:: Cartão manuscrito da Condessa da Ponte, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33452
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4546 - cx. 32
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33452

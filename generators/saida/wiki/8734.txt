@@ -1,0 +1,18 @@
+====== 8734 - DC - Termo do exame de Francisco Cardoso Pereira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Francisco Cardoso Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-14
+**UnitDateFinal**:: 1891-07-14
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Manuel Cardoso Pereira
+Naturalidade - Vila Nova de Famalicão
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8734
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8734

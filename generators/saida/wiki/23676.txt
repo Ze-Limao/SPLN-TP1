@@ -1,0 +1,16 @@
+====== 23676 - DC - Registo do recenseamento eleitoral de Luís Correia Machado ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Luís Correia Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vermoim
+Profissão - Lavrador
+Morada - Outeiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23676
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 81v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23676

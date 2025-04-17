@@ -1,0 +1,16 @@
+====== 7860 - UI - Livro de Actas da Câmara Municipal Nº 76 ======
+
+**Parent**:: 7654
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Actas da Câmara Municipal Nº 76
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1961-04-28
+**UnitDateFinal**:: 1962-01-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7860
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 447
+depósito 2, estante 18
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7860

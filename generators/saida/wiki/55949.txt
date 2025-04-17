@@ -1,0 +1,37 @@
+====== 55949 - DC - Tratado do Comércio - negociações para a sua votação no Reichstag ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Tratado do Comércio - negociações para a sua votação no Reichstag
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Envelope com título manuscrito que contém recorte de imprensa e cópia de correspondência com Eduardo Vilaça e Carlos Roma du Bocage, do CP 14558 a CP 14575.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55949
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14557 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55949
+
+===== Filhos =====
+  * [[55950.txt|55950 - DC - Recorte de jornal sobre o Tratado do Comércio com Alemanha]]
+  * [[55951.txt|55951 - DC - Cópia de carta]]
+  * [[55952.txt|55952 - DC - Cópia de carta]]
+  * [[55953.txt|55953 - DC - Cópia de carta]]
+  * [[55954.txt|55954 - DC - Cópia de carta]]
+  * [[55955.txt|55955 - DC - Cópia de carta]]
+  * [[55956.txt|55956 - DC - Cópia de carta]]
+  * [[55957.txt|55957 - DC - Cópia de carta]]
+  * [[55958.txt|55958 - DC - Cópia de carta]]
+  * [[55959.txt|55959 - DC - Cópia de carta]]
+  * [[55960.txt|55960 - DC - Cópia de carta]]
+  * [[55961.txt|55961 - DC - Cópia de carta]]
+  * [[55962.txt|55962 - DC - Cópia de carta]]
+  * [[55963.txt|55963 - DC - Cópia de carta]]
+  * [[55964.txt|55964 - DC - Cópia de carta]]
+  * [[55965.txt|55965 - DC - Cópia de carta]]
+  * [[55966.txt|55966 - DC - Cópia de carta]]
+  * [[55967.txt|55967 - DC - Cópia de carta]]

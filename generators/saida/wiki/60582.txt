@@ -1,0 +1,17 @@
+====== 60582 - DC - Bulletin de la semaine finie le 5 Mars 1870 ======
+
+**Parent**:: 60577
+**RootParent**:: 31258
+**UnitTitle**:: Bulletin de la semaine finie le 5 Mars 1870
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870-03-05
+**UnitDateFinal**:: 1870-03-05
+**ScopeContent**:: Boletim da Ecole Française sobre aulas de Alexandre Sousa Botelho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53091
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 4329 - cx. 32
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60582

@@ -1,0 +1,16 @@
+====== 24806 - DC - Bilhete-postal ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-08-29
+**UnitDateFinal**:: 1905-09-04
+**ScopeContent**:: Bilhete-postal manuscrito assinado e carimbado, de Génova. Cartolina Postale Italiana. Joaquim Araújo solicita elementos sobre a natureza da gravura do Ex-libris com a intenção de confundir o Aníbal Tomás.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24806
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1495 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24806

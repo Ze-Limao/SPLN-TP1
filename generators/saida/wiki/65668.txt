@@ -1,0 +1,17 @@
+====== 65668 - DC - Dizem D. Mariana Josefa de Castro, viúva de João Machado Fagundes e seu filho Vicente Pinheiro Lobo da Guerra, assistentes em sua Quinta de Pindela, termo desta vila, que querem fazer emprazar uma força a António Soares de Miranda pároco da Igreja de S. Salvador de Arnoso de Baixo ======
+
+**Parent**:: 54470
+**RootParent**:: 31258
+**UnitTitle**:: Dizem D. Mariana Josefa de Castro, viúva de João Machado Fagundes e seu filho Vicente Pinheiro Lobo da Guerra, assistentes em sua Quinta de Pindela, termo desta vila, que querem fazer emprazar uma força a António Soares de Miranda pároco da Igreja de S. Salvador de Arnoso de Baixo
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1744-02-07
+**UnitDateFinal**:: 1744-02-07
+**ScopeContent**:: Manuscrito com folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3810A - cx. 28
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65668

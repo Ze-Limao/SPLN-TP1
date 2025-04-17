@@ -1,0 +1,19 @@
+====== 9324 - DC - Registo do recenseamento militar de Alberto ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Alberto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Joaquim José dos Reis e Maria Lourenço da Silva
+Naturalidade - Lousado
+Data de nascimento - 1875-08-08
+Profissão - Ourives
+Estado civil - Solteiro
+Residência - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9324
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9324

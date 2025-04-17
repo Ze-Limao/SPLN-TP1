@@ -1,0 +1,17 @@
+====== 65661 - DC - Auto de posse que tomou Manuel Pinto de Magalhães de umas propriedades constantes de uma escritura que ignoro ======
+
+**Parent**:: 54364
+**RootParent**:: 31258
+**UnitTitle**:: Auto de posse que tomou Manuel Pinto de Magalhães de umas propriedades constantes de uma escritura que ignoro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1709-11-08
+**UnitDateFinal**:: 1709-11-08
+**ScopeContent**:: Junto com CP 3802 com anotações do Abade de Tagilde com o título "Casa de Basto" que menciona 4 documentos. Este documento tem no título  Nº4. O documento estava na “Caixa 12”, que contém CP 3800 a CP 3826 embrulhados em jornais do ano 1936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3804 - cx. 28
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65661

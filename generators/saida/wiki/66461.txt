@@ -1,0 +1,15 @@
+====== 66461 - DC - Pedido de licença para José Pedrosa, da freguesia de S. Tiago de Antas, festejar o Mártir S. Sebastião no dia 2 de janeiro de 1880, com missa cantada, exposição e procissão à volta do cruzeiro ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença para José Pedrosa, da freguesia de S. Tiago de Antas, festejar o Mártir S. Sebastião no dia 2 de janeiro de 1880, com missa cantada, exposição e procissão à volta do cruzeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-12-30
+**UnitDateFinal**:: 1880-12-30
+**ScopeContent**:: Manuscrito, original, em papel azul timbrado “60 reis”. No canto esquerdo o deferimento do Arcipreste.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 497 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66461

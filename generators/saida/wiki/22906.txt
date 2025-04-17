@@ -1,0 +1,16 @@
+====== 22906 - DC - Registo do recenseamento eleitoral de Manuel Gomes de Araújo Camposinhos ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Gomes de Araújo Camposinhos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Nine
+Profissão - Lavrador
+Morada - Landeiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22906
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22906

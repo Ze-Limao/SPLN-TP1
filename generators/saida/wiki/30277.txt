@@ -1,0 +1,16 @@
+====== 30277 - DC - Carta ======
+
+**Parent**:: 21442
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-07-13
+**UnitDateFinal**:: 1917-07-13
+**ScopeContent**:: Carta manuscrita e assinada, da R. de Olarias nº65, 2ºE, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30277
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1430 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30277

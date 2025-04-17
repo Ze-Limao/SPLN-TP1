@@ -1,0 +1,16 @@
+====== 30271 - DC - Carta ======
+
+**Parent**:: 21435
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-09-21
+**UnitDateFinal**:: 1903-09-21
+**ScopeContent**:: Carta manuscrita e assinada, da Póvoa de Varzim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30271
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1423 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30271

@@ -1,0 +1,17 @@
+====== 61960 - DC - Terminologia rotária e informação rotária de Hermínio Gomes Moreira ======
+
+**Parent**:: 61477
+**RootParent**:: 60551
+**UnitTitle**:: Terminologia rotária e informação rotária de Hermínio Gomes Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1968
+**UnitDateFinal**:: 1969
+**ScopeContent**:: Edição Rotary Club de São Paulo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 388 - cx. 6
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61960

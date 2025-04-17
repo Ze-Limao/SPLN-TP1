@@ -1,0 +1,16 @@
+====== 25550 - DC - Carta ======
+
+**Parent**:: 21144
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-01-24
+**UnitDateFinal**:: 1906-01-24
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25550
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 504 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25550

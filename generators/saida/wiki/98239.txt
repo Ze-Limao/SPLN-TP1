@@ -1,0 +1,17 @@
+====== 98239 - DC - Sentença a composição de António Garcia e sua mulher Maria Carvalha com Helena Dias e Simão Pinheiro sobre a quinta de Pindela ======
+
+**Parent**:: 54462
+**RootParent**:: 31258
+**UnitTitle**:: Sentença a composição de António Garcia e sua mulher Maria Carvalha com Helena Dias e Simão Pinheiro sobre a quinta de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1585-08
+**UnitDateFinal**:: 1585-08
+**ScopeContent**:: Manuscrito com folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12899 - cx. 79
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98239

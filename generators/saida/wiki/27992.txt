@@ -1,0 +1,16 @@
+====== 27992 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Gaspar da Costa Pereira de Vilhena ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Manuscrito com juramento de admissão à Sociedade do Raio de Gaspar da Costa Pereira de Vilhena
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1862
+**ScopeContent**:: Antero de Quental assina na qualidade de delegado da Sociedade do Raio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27992
+**LangMaterial**:: Português
+**PhysLoc**:: AS 259 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27992

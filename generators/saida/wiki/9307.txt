@@ -1,0 +1,19 @@
+====== 9307 - DC - Registo do recenseamento militar de Bernardino ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Joaquim José de Azevedo e Teresa Dias de Jesus
+Naturalidade - Ribeirão
+Data de nascimento - 1876-10-14
+Profissão - Lavrador
+Estado civil - Solteiro
+Residência - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9307
+**LangMaterial**:: Português
+**PhysLoc**:: f. 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9307

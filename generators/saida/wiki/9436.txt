@@ -1,0 +1,19 @@
+====== 9436 - DC - Registo do recenseamento militar de Adelino ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Adelino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Joaquim de Araújo e Joaquina Ferreira Vilaça
+Naturalidade - Gondifelos
+Data de nascimento - 1877-01-14
+Profissão - 
+Estado civil - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9436
+**LangMaterial**:: Português
+**PhysLoc**:: f. 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9436

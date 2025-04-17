@@ -1,0 +1,15 @@
+====== 24750 - UI - Correspondência recebida/expedida ao Governo Civil de Braga ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida ao Governo Civil de Braga
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1942-04-06
+**UnitDateFinal**:: 1977-07-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24750
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 9 - cx. 2
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24750

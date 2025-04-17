@@ -1,0 +1,17 @@
+====== 21097 - UI - Carlos Malheiro Dias ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Carlos Malheiro Dias
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1927
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21097
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 340
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21097
+
+===== Filhos =====
+  * [[24905.txt|24905 - DC - Carta]]

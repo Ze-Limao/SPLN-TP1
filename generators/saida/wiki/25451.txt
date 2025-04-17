@@ -1,0 +1,16 @@
+====== 25451 - DC - Convite da AHBVF para todos os associados, amigos e público em geral para as cerimónias das Bodas de Diamante ======
+
+**Parent**:: 25080
+**RootParent**:: 20342
+**UnitTitle**:: Convite da AHBVF para todos os associados, amigos e público em geral para as cerimónias das Bodas de Diamante
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-10-12
+**UnitDateFinal**:: 1966-10-12
+**ScopeContent**:: Panfleto impresso com 250 exemplares em que os Bombeiros Voluntários de Famalicão convidam os associados, amigos e público em geral a associar-se às cerimónias do dia 16 de outubro comemorativas das “Bodas de Diamante”. O programa principal: 10h30 içar da bandeira da Corporação; às 10h00 missa na Igreja matriz; ás 15h30 desfile pelas ruas de mais de 300 bombeiros e dezenas de estandartes e viaturas; às 16h00 sessão solene e condecorações de bombeiros no quartel.  As novas instalações estavam nesse dia abertas ao público para serem visitadas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25451
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 178 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25451

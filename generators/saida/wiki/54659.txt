@@ -1,0 +1,16 @@
+====== 54659 - UI - Jaime Moniz ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Jaime Moniz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-03-26
+**UnitDateFinal**:: 1891-05-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54659
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54659
+
+===== Filhos =====
+  * [[54660.txt|54660 - DC - Carta]]
+  * [[54780.txt|54780 - DC - Carta]]
+  * [[54781.txt|54781 - DC - Carta]]

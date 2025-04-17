@@ -1,0 +1,15 @@
+====== 65705 - DC - Compra de pelames, situados na freguesia de S. Tiago de Antas, quatro junto da ponte e quatro junto do moinho da Igreja, por António Fernandes, abade da Igreja de S. Tiago de Antas, a Gaspar João da Granja e sua mulher Maria Gomes, moradores em Vila Nova de Famalicão. Procuração do abade de S. Tiago de Antas. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Compra de pelames, situados na freguesia de S. Tiago de Antas, quatro junto da ponte e quatro junto do moinho da Igreja, por António Fernandes, abade da Igreja de S. Tiago de Antas, a Gaspar João da Granja e sua mulher Maria Gomes, moradores em Vila Nova de Famalicão. Procuração do abade de S. Tiago de Antas.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1623-05-09
+**UnitDateFinal**:: 1623-05-09
+**ScopeContent**:: Manuscrito, original. No canto superior esquerdo "Nº30". Pelame é um tanque para curtir peles ou couros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 92 - cx. 3
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65705

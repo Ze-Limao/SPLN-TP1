@@ -1,0 +1,18 @@
+====== 48061 - DC - Registo do recenseamento eleitoral de António Simões ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Simões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Joane
+Profissão - Lavrador
+Estado - Casado
+Morada - Ribeiro
+Idade - 39
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48061
+**LangMaterial**:: Português
+**PhysLoc**:: 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48061

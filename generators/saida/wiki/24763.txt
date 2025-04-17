@@ -1,0 +1,20 @@
+====== 24763 - UI - Correspondência recebida/expedida ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-01
+**UnitDateFinal**:: 1971-03-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24763
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 22 - cx. 5
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24763
+
+===== Filhos =====
+  * [[25832.txt|25832 - DC - Ofício da Comissão Promotora das Solenidades da Semana Santa de Famalicão dirigido ao Presidente da Direcção dos Bombeiros Voluntários de Famalicão]]
+  * [[25833.txt|25833 - DC - Ofício da Sociedade Columbófila de Famalicão à Direção dos Bombeiros Voluntários]]
+  * [[25834.txt|25834 - DC - Convite da Sociedade Columbófila de Famalicão para a II exposição Concelhia de Pombos Correios]]

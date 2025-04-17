@@ -1,0 +1,17 @@
+====== 60398 - DC - Nota de Júlia Leonor numa folha de encomenda de roupa ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Nota de Júlia Leonor numa folha de encomenda de roupa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896
+**UnitDateFinal**:: 1900
+**ScopeContent**:: Folha impressa, e envelope, em alemão para encomenda de roupa com nota manuscrita de Júlia Leonor (?) em francês a dar bom dia aos pais, sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56820
+**LangMaterial**:: Alemão e Francês
+**PhysLoc**:: CP 7818 - cx. 49
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60398

@@ -1,0 +1,17 @@
+====== 56358 - DC - Archivo da Casa de Pindela ======
+
+**Parent**:: 57357
+**RootParent**:: 31258
+**UnitTitle**:: Archivo da Casa de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-04-22
+**UnitDateFinal**:: 1922-04-22
+**ScopeContent**:: Folha manuscrita do maço. Referência documentos das casas de Lisboa e cartas de partilha, após a morte do 2º Visconde, 22 abril 1922.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56358
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12540 - cx. 74
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56358

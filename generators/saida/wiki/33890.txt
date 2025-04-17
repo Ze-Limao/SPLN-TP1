@@ -1,0 +1,26 @@
+====== 33890 - DC - Carta ======
+
+**Parent**:: 33878
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889
+**UnitDateFinal**:: 1890
+**ScopeContent**:: Carta manuscrita assinada, em papel de luto, sem data. Esta carta está dentro envelope CP 2252 juntamente com outras 12 cartas de Camilo Castelo Branco.
+Transcrição da carta:
+"Meu querido amigo
+Agradeço-lhe o seu cuidado com a mª pobre vida. O dia de amanhã será peor que o de hoje. Não posso já arripiar a carreira deste declive. Desde 17 de Setembro que não tive sequer a esperança de me erguer da cama um dia agradecendo à Providência um sonno reparador.
+D. Anna Placido vae sentindo o lavor lento e doloroso da hippertrophia do coração.
+Os pequenos bons.
+Do seu C. Castello Brº".
+
+Esta carta deverá ter sido escrita cerca de um mês antes da morte de Camilo.
+Fonte: Machado, João Afonso (2017). Memórias redivivas. Linda-a-Velha: DG Edições.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33890
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2249 - cx. 16
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33890

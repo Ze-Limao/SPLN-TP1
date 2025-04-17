@@ -1,0 +1,19 @@
+====== 54260 - DC - Testamento de Baltasar Pinheiro Lobo ======
+
+**Parent**:: 54467
+**RootParent**:: 31258
+**UnitTitle**:: Testamento de Baltasar Pinheiro Lobo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1678
+**UnitDateFinal**:: 1678
+**ScopeContent**:: Manuscrito. "Pasta nº 2 Cazal nº1 AD". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 13108 a CP 13142.
+Testamento do 6º morgado Baltasar Pinheiro Lobo. Anterior 1679? O testamenteiro é António Machado da Guerra, seu pai, nomeado seu herdeiro (situação impossível porque o Morgadio de Pindela tinha o património vinculado e não poderia passar para o seu pai). No testamento declara pretender um funeral com bastante magnificência, acompanhado das irmandades de Santa Casa da Misericórdia e de Santa Cruz e da Ordem dos Terceiros, doze pobres, cinquenta clérigos com o pároco e corais da Sé; e ser sepultado na Capela de Santa Catarina, no claustro da Sé de Braga.
+Contempla muitos dos seus parentes mais íntimos e os caseiros de Pindela com bens móveis; a quinta de Santa Olaia de Tenões, prazo da Sé de Braga para o seu primo João Machado de Vasconcelos, clérigo; a sua casa na Rua S. João do Souto com os pertences deixa ao seu irmão João Machado Fagundes (na altura estava preso); E de quem se confessa devedor e estipula medidas para pagar, e reserva 50 mil reis para o filho "Virissimo", como "ajuda para se ordenar clérigo".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54260
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13125 - cx. 86
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54260

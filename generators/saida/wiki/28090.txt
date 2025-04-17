@@ -1,0 +1,16 @@
+====== 28090 - DC - 1873 Ensaio sobre a densidade do mosto das uvas da vinha, feito com o Gleuco-oenometro ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1873 Ensaio sobre a densidade do mosto das uvas da vinha, feito com o Gleuco-oenometro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-09-16
+**UnitDateFinal**:: 1873-09-25
+**ScopeContent**:: No final do texto a nota «O mês de Setembro seco - e antes da vindima houve uma sucessão de 10 dias ardentes de 25 C. à sombra em casa».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28090
+**LangMaterial**:: Português
+**PhysLoc**:: AS 376 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28090

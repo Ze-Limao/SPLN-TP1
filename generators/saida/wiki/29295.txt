@@ -1,0 +1,16 @@
+====== 29295 - DC - Pintura sobre madeira (ar livre) ======
+
+**Parent**:: 29293
+**RootParent**:: 27963
+**UnitTitle**:: Pintura sobre madeira (ar livre)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Composição: cimento, leite, pós de cor. No final Alberto Sampaio acrescentou a lápis: «Pintura de madeira ao ar livre / Serve também para reboco, mas com muito mais cimento».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29295
+**LangMaterial**:: Português
+**PhysLoc**:: AS 202 (2) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29295

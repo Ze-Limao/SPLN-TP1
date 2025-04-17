@@ -1,0 +1,19 @@
+====== 62450 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Ana Joaquina, na freguesia
+Naturalidade - Vale S. Cosme
+Morada - Ignora-se
+Data de nascimento - 1856-06-04
+Emprego - Ignora-se
+Estado - Casado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62450

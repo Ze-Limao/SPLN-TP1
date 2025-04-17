@@ -1,0 +1,15 @@
+====== 65868 - DC - Rodrigo de Moura de Vasconcelos e Sousa, abade do mosteiro de S. Tiago de Antas,  diz que por ficar vago o prazo de Vila Nova (Casal de Mões de Cima), juntos no mesmo título para proveito da igreja, empraza o Padre Manuel  ? Correia, da freguesia de Vila Nova ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Rodrigo de Moura de Vasconcelos e Sousa, abade do mosteiro de S. Tiago de Antas,  diz que por ficar vago o prazo de Vila Nova (Casal de Mões de Cima), juntos no mesmo título para proveito da igreja, empraza o Padre Manuel  ? Correia, da freguesia de Vila Nova
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1761
+**UnitDateFinal**:: 1793
+**ScopeContent**:: Manuscrito, original. Documento sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 631 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65868

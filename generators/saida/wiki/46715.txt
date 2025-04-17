@@ -1,0 +1,18 @@
+====== 46715 - DC - Registo do recenseamento eleitoral de João Marques ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Portela
+Profissão - Lavrador
+Estado - Casado
+Morada - Eira Velha
+Idade - 31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46715
+**LangMaterial**:: Português
+**PhysLoc**:: 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46715

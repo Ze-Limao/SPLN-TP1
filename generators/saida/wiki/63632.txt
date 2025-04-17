@@ -1,0 +1,19 @@
+====== 63632 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Francisco José Correia Amaro e Maria Rita
+Naturalidade - Landim
+Morada - Ignora-se
+Data de nascimento - 1867-01-27
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63632

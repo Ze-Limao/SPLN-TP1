@@ -1,0 +1,15 @@
+====== 20058 - SSC - Hipotecas ======
+
+**Parent**:: 20049
+**RootParent**:: 20048
+**UnitTitle**:: Hipotecas
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1851-08-20
+**UnitDateFinal**:: 1860-05-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20058
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20058
+
+===== Filhos =====
+  * [[20075.txt|20075 - SR - Hipotecas]]

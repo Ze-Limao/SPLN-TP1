@@ -1,0 +1,15 @@
+====== 66341 - DC - Sentença cível de João Francisco da freguesia de S. Tiago de Antas contra Inácio Rodrigues ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de João Francisco da freguesia de S. Tiago de Antas contra Inácio Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1729-04-06
+**UnitDateFinal**:: 1729-04-06
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 461 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66341

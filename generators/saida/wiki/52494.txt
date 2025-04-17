@@ -1,0 +1,19 @@
+====== 52494 - UI - Augusto Araújo ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Augusto Araújo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1905-11-30
+**UnitDateFinal**:: 1905-12-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52494
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52494
+
+===== Filhos =====
+  * [[32258.txt|32258 - DC - Carta e minuta de carta de de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[32259.txt|32259 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 28191 - DC - Disposição das vides na ramada a fazer, em frente da vinha do alto sobre o Campo da Porta ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Disposição das vides na ramada a fazer, em frente da vinha do alto sobre o Campo da Porta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-10-27
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Indicação das castas plantadas na vinha do alto, sobre o campo da Porta.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28191
+**LangMaterial**:: Português
+**PhysLoc**:: AS 463 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28191

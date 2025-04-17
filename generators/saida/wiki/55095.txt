@@ -1,0 +1,17 @@
+====== 55095 - DC - Telegrama ======
+
+**Parent**:: 33831
+**RootParent**:: 31258
+**UnitTitle**:: Telegrama
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-09-28
+**UnitDateFinal**:: 1906-09-28
+**ScopeContent**:: Telegrama enviado de Cascais para Casa de Pindela, desejando restabelecimento da saúde de Amália.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55095
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3723 - cx. 27
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55095

@@ -1,0 +1,13 @@
+====== 7720 - UI - Livro de Notas Nº 36 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 36
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-01-27
+**UnitDateFinal**:: 1977-03-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7720
+**LangMaterial**:: Português
+**PhysLoc**:: 1.65
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7720

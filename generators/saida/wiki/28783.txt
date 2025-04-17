@@ -1,0 +1,16 @@
+====== 28783 - DC - Carta ======
+
+**Parent**:: 28782
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 19  -11-15
+**UnitDateFinal**:: 19  -11-15
+**ScopeContent**:: Carta expedida de Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28783
+**LangMaterial**:: Português
+**PhysLoc**:: AS 608 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28783

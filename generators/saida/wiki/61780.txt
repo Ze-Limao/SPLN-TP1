@@ -1,0 +1,16 @@
+====== 61780 - SSR - Galhardetes, bandeiras e faixas ======
+
+**Parent**:: 61454
+**RootParent**:: 60551
+**UnitTitle**:: Galhardetes, bandeiras e faixas
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1968
+**UnitDateFinal**:: 2023
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61780
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61780
+
+===== Filhos =====
+  * [[61455.txt|61455 - DC - Galhardetes Rotary Club]]
+  * [[61785.txt|61785 - DC - Com Rotary vamos ajudar]]
+  * [[64118.txt|64118 - DC - Bandeiras]]

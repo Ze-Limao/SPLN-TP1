@@ -1,0 +1,15 @@
+====== 98800 - DC - Famalicão A Land of Friends ======
+
+**Parent**:: 98674
+**RootParent**:: 7651
+**UnitTitle**:: Famalicão A Land of Friends
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1999
+**UnitDateFinal**:: 1999
+**ScopeContent**:: Realizado por Carlos Brandão Lucas. Editado pela Câmara Municipal de V.N. Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98784
+**LangMaterial**:: Inglês
+**PhysLoc**:: cx. 1
+depósito 1, estante 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98800

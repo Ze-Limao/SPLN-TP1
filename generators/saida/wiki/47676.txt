@@ -1,0 +1,18 @@
+====== 47676 - DC - Registo do recenseamento eleitoral de José Narciso ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Narciso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Calendário
+Profissão - Lavrador
+Estado - Casado
+Morada - Magida
+Idade - 54
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47676
+**LangMaterial**:: Português
+**PhysLoc**:: 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47676

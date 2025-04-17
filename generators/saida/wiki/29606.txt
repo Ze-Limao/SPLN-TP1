@@ -1,0 +1,11 @@
+====== 29606 - SSR - Projeto “Integra-te” ======
+
+**Parent**:: 29595
+**RootParent**:: 29618
+**UnitTitle**:: Projeto “Integra-te”
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 2016-01-05
+**UnitDateFinal**:: 2016-01-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29606
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29606

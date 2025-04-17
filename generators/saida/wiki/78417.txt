@@ -1,0 +1,17 @@
+====== 78417 - DC - Testamento de Teresa Joaquina de Santa Rosa, solteira, do lugar do Souto, no termo de Leiria ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Testamento de Teresa Joaquina de Santa Rosa, solteira, do lugar do Souto, no termo de Leiria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1779-05-10
+**UnitDateFinal**:: 1779-05-10
+**ScopeContent**:: Manuscrito com folhas cosidas. Teresa Joaquina de Santa Rosa é irmã do abade Marcelino Pereira Cleto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5364 - cx. 39
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78417

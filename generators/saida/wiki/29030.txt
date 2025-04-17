@@ -1,0 +1,16 @@
+====== 29030 - DC - Carta ======
+
+**Parent**:: 29028
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-03-03
+**UnitDateFinal**:: 1908-03-03
+**ScopeContent**:: Carta expedida de Caixa do Correio, 372, S. Paulo. Dirigido para morada Rua da Alegria nº200 Porto Portugal. Na carta manuscrito a vermelho "Resp.do em Mar. 28"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29030
+**LangMaterial**:: Português
+**PhysLoc**:: AS 646 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29030

@@ -1,0 +1,15 @@
+====== 98139 - UI - Processo nº 10-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 10-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1981-06-26
+**UnitDateFinal**:: 1983-12-22
+**ScopeContent**:: Junto com Autos de Transgressão nº 10.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 798 - cx. 43
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98139

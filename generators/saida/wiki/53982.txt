@@ -1,0 +1,28 @@
+====== 53982 - DC - Novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc. – segundo adicional à empreitada, etc. ======
+
+**Parent**:: 53750
+**RootParent**:: 25851
+**UnitTitle**:: Novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc. – segundo adicional à empreitada, etc.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-06-03
+**UnitDateFinal**:: 1961-06-03
+**ScopeContent**:: Contém 153 (1) a (9).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53982
+**LangMaterial**:: Português
+**PhysLoc**:: JG 153(1-9) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53982
+
+===== Filhos =====
+  * [[53984.txt|53984 - DC - Segundo Adicional à empreitada geral de construção do novo edifício dos Paços do Concelho e Primeiro Adicional à empreitada geral de urbanização em volta dos novos Paços do Concelho…Câmara Municipal de Famalicão]]
+  * [[53987.txt|53987 - DC - Medição de obras a mais a executar como Segundo Adicional à empreitada geral de construção do novo edifício dos Paços do Concelho…]]
+  * [[53988.txt|53988 - DC - Medição de obras a menos a deduzir como Segundo Adicional à empreitada geral de construção do novo edifício dos Paços do Concelho…]]
+  * [[53989.txt|53989 - DC - Orçamento das obras a mais a executar como Segundo Adicional à empreitada geral de construção do novo edifício dos Paços do Concelho…]]
+  * [[53990.txt|53990 - DC - Orçamento das obras a menos a deduzir como Segundo Adicional à empreitada geral de construção do novo edifício dos Paços do Concelho…]]
+  * [[53991.txt|53991 - DC - Medição de obras a mais a executar como Primeiro Adicional à empreitada geral da urbanização da praça do novo edifício do Tribunal…]]
+  * [[53992.txt|53992 - DC - Medição de obras a menos a deduzir como Primeiro Adicional à empreitada geral da urbanização da praça anexa ao edifício do Tribunal…]]
+  * [[53993.txt|53993 - DC - Orçamento das obras a mais a executar como Primeiro Adicional à empreitada geral da urbanização da praça do novo edifício do Tribunal…]]
+  * [[53994.txt|53994 - DC - Orçamento das obras a menos a deduzir como Primeiro Adicional à empreitada geral da urbanização da praça do novo edifício do Tribunal…]]

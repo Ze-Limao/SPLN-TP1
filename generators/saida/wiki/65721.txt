@@ -1,0 +1,15 @@
+====== 65721 - DC - Emprazamento dos casais do Eiral, de Luís Pires e do do Raio, situados na freguesia de S. Julião do Calendário, feita por António Fernandes, abade da Igreja de S. Tiago de Antas, a Aleixo de Carvalho e a seu pai Custódio de Carvalho ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento dos casais do Eiral, de Luís Pires e do do Raio, situados na freguesia de S. Julião do Calendário, feita por António Fernandes, abade da Igreja de S. Tiago de Antas, a Aleixo de Carvalho e a seu pai Custódio de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1619-10-26
+**UnitDateFinal**:: 1619-10-26
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 89 - cx. 3
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65721

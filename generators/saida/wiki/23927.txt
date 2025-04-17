@@ -1,0 +1,16 @@
+====== 23927 - DC - Carta ======
+
+**Parent**:: 21054
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-02-12
+**UnitDateFinal**:: 1923-02-12
+**ScopeContent**:: Álvaro Neves, diretor da revista Iconografia Portuguesa, convida JAM para lhe enviar uma fotografia do escritor Camilo Castelo Branco, fardado de académico ou de Visconde, para um número da revista dedicado à Iconografia Camiliana. Carta manuscrita assinada, Lisboa. Carimbo com "Álvaro Neves. Rua S. Bernardo, 98 Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23927
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 81 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23927

@@ -1,0 +1,18 @@
+====== 8111 - DC - Joaquim José Alves Pimenta ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim José Alves Pimenta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1882-06-30
+**ScopeContent**:: Escola - Vila Nova de Famalicão. Masculina
+Cargo - Professor ajudante
+Vínculo - Temporário
+Naturalidade - Delães
+Data de posse - 1881-12-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8111
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8111

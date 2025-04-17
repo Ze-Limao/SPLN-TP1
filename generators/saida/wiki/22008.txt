@@ -1,0 +1,16 @@
+====== 22008 - DC - Registo do recenseamento eleitoral de Inácio Ribeiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Inácio Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Carreira
+Profissão - Carpinteiro
+Morada - Levandeira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22008
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22008

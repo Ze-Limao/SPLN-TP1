@@ -1,0 +1,15 @@
+====== 66497 - DC - Licença para celebração de matrimónio de Francisco com Joana Rosa ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Licença para celebração de matrimónio de Francisco com Joana Rosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-06-08
+**UnitDateFinal**:: 1864-06-08
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 523 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66497

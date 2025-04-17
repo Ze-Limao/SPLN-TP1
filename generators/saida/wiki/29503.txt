@@ -1,0 +1,16 @@
+====== 29503 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-05
+**UnitDateFinal**:: 1880-05
+**ScopeContent**:: Carta expedida de Lisboa. Na f. 2 o poema "Estoicismo" (AS 744 (2)).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29503
+**LangMaterial**:: Português
+**PhysLoc**:: AS 744 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29503

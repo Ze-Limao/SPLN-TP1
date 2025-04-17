@@ -1,0 +1,15 @@
+====== 64012 - DC - Fatura do Armazém de fazendas Fernandes & Machado ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Fatura do Armazém de fazendas Fernandes & Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-02-19
+**UnitDateFinal**:: 1891-02-19
+**ScopeContent**:: Manuscrito e impresso. Empresa do Porto. Material comprado: papel pautado, papel vergé e envelopes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 332 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64012

@@ -1,0 +1,15 @@
+====== 31356 - SSC - Bernardo Pinheiro Correia de Melo ======
+
+**Parent**:: 31355
+**RootParent**:: 31258
+**UnitTitle**:: Bernardo Pinheiro Correia de Melo
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1870
+**UnitDateFinal**:: 1911-03-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31356
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31356
+
+===== Filhos =====
+  * [[31357.txt|31357 - SR - Correspondência recebida e enviada]]
+  * [[53561.txt|53561 - SR - Documentos]]

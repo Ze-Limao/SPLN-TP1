@@ -1,0 +1,18 @@
+====== 8466 - DC - Augusto Cardoso de Abreu e Sá ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Augusto Cardoso de Abreu e Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-05-05
+**UnitDateFinal**:: 1886-05-05
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Joaquim Cardoso de Abreu e Sá
+Naturalidade - Antas
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8466
+**LangMaterial**:: Português
+**PhysLoc**:: f. 30
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8466

@@ -1,0 +1,19 @@
+====== 63600 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Manuel José Correia e Francisca Pinheiro da Costa
+Naturalidade - Vale S. Cosme
+Morada - Vale S. Cosme
+Data de nascimento - 1866-02-25
+Emprego - Cesteiro
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63600

@@ -1,0 +1,13 @@
+====== 54588 - UI - José de Azevedo e Menezes ======
+
+**Parent**:: 31357
+**RootParent**:: 31258
+**UnitTitle**:: José de Azevedo e Menezes
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54588
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54588
+
+===== Filhos =====
+  * [[54589.txt|54589 - DC - Minuta de carta]]
+  * [[58372.txt|58372 - DC - Minuta de carta de Bernardo Pinheiro Correia de Melo]]

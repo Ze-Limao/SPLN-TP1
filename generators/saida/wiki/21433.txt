@@ -1,0 +1,20 @@
+====== 21433 - UI - João Cardoso de Noronha e Meneses Freire de Andrade ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Cardoso de Noronha e Meneses Freire de Andrade
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-06-07
+**UnitDateFinal**:: 1915-11-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21433
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1417, 1418, 1419, 1420, 1421
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21433
+
+===== Filhos =====
+  * [[30265.txt|30265 - DC - Carta]]
+  * [[30266.txt|30266 - DC - Carta]]
+  * [[30267.txt|30267 - DC - Carta]]
+  * [[30268.txt|30268 - DC - Carta]]
+  * [[30269.txt|30269 - DC - Carta]]

@@ -1,0 +1,51 @@
+====== 60546 - F - Tribunal do Trabalho de Braga - 3ª Vara - Vila Nova de Famalicão ======
+
+**Parent**:: 0
+**RootParent**:: 60546
+**UnitTitle**:: Tribunal do Trabalho de Braga - 3ª Vara - Vila Nova de Famalicão
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1950-09-09
+**UnitDateFinal**:: 1991-10-22
+**ScopeContent**:: Composto pelas séries:
+001 Autos de Acção com Processo Comum
+002 Autos de Habilitação de Herdeiros
+003 Autos de Execução por Custas
+004 Autos de Previdência Social
+005 Autos de Incompetência Territorial
+006 Autos de Reclamação de Créditos
+007 Autos de Execução de Sentença
+008 Autos de Contrato Individual de Trabalho
+009 Autos de Acção Emergente de Contrato de Trabalho com Processo Comum
+010 Autos de Providência Cautelar Inominada
+011 Autos de Embargos
+012 Autos de Prestação e Caução
+013 Autos de Execução sumária 
+014 Autos de Execução por Dívida de Contribuições
+015 Autos de Transgressão
+016 Autos de Acção com Processo Comum - Ordinário
+017 Autos de Reclamação de Recurso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60546
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60546
+
+===== Filhos =====
+  * [[79201.txt|79201 - SR - Autos de Acção com Processo Comum]]
+  * [[79968.txt|79968 - SR - Autos de Habilitação de Herdeiros]]
+  * [[79972.txt|79972 - SR - Autos de Execução por Custas]]
+  * [[79979.txt|79979 - SR - Autos de Previdência Social]]
+  * [[79982.txt|79982 - SR - Autos de Incompetência Territorial]]
+  * [[79988.txt|79988 - SR - Autos de Reclamação de Créditos]]
+  * [[79994.txt|79994 - SR - Autos de Execução de Sentença]]
+  * [[80014.txt|80014 - SR - Autos de Contrato Individual de Trabalho]]
+  * [[80030.txt|80030 - SR - Autos de Acção Emergente de Contrato de Trabalho com Processo Comum]]
+  * [[80072.txt|80072 - SR - Autos de Providência Cautelar Inominada]]
+  * [[80074.txt|80074 - SR - Autos de Embargos]]
+  * [[80389.txt|80389 - SR - Autos de Execução sumária]]
+  * [[80549.txt|80549 - SR - Autos de Execução por Dívida de Contribuições]]
+  * [[80639.txt|80639 - SR - Autos de Transgressão]]
+  * [[97487.txt|97487 - SR - Autos de Acção com Processo Comum - Ordinário]]
+  * [[97489.txt|97489 - SR - Autos de Prestação e Caução]]
+  * [[97789.txt|97789 - SR - Autos de Reclamação de Recurso]]

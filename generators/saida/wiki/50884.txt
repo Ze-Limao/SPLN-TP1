@@ -1,0 +1,18 @@
+====== 50884 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-05-05
+Filiação - Manuel Jácome da Costa e Mariana de Araújo
+Naturalidade - Jesufrei
+Profissão - Lavrador
+Residência - Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50884
+**LangMaterial**:: Português
+**PhysLoc**:: 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50884

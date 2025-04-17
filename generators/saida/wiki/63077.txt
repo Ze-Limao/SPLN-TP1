@@ -1,0 +1,17 @@
+====== 63077 - DC - Minuta de carta do 2º Visconde de Pindela ======
+
+**Parent**:: 33795
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta do 2º Visconde de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-06-30
+**UnitDateFinal**:: 1911-06-30
+**ScopeContent**:: Fotocópia de carta em papel timbrado da Casa de Pindela, oferecida por Jerónimo Duarte Magalhães de Salazar e Chaves, da Casa da Pereira, Dume, com cartão de visita e envelope anexo, dirigida a João Afonso Machado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33793
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4667 - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63077

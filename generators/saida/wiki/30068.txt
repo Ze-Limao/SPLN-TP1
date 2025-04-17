@@ -1,0 +1,14 @@
+====== 30068 - DC - José Ernesto Pereira de Lima ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: José Ernesto Pereira de Lima
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1968-02-29
+**UnitDateFinal**:: 1968-02-29
+**ScopeContent**:: Regedor substituto da freguesia de Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30068
+**LangMaterial**:: Português
+**PhysLoc**:: f. 35
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30068

@@ -1,0 +1,16 @@
+====== 29374 - DC - Poesia de Anthero do Quental, recitada na noute de 13 de Maio de 1862, no Theatro Academico, por A. Fialho Machado. ======
+
+**Parent**:: 27975
+**RootParent**:: 27963
+**UnitTitle**:: Poesia de Anthero do Quental, recitada na noute de 13 de Maio de 1862, no Theatro Academico, por A. Fialho Machado.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-05-13
+**UnitDateFinal**:: 1862-05-13
+**ScopeContent**:: Poema de Antero de Quental. Impresso na Imprensa Literária.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29374
+**LangMaterial**:: Português
+**PhysLoc**:: AS 281 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29374

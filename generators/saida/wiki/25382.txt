@@ -1,0 +1,16 @@
+====== 25382 - DC - Carta ======
+
+**Parent**:: 21107
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-12-02
+**UnitDateFinal**:: 1915-12-02
+**ScopeContent**:: Carta manuscrita assinada, de Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25382
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 362 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25382

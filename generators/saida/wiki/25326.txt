@@ -1,0 +1,15 @@
+====== 25326 - DC - Combate do incêndio de uma casa abandonada pertencente a Manuel Gonçalves, na estrada Famalicão-Guimarães, Cruz do Pelo, Vale São Martinho. ======
+
+**Parent**:: 25022
+**RootParent**:: 20342
+**UnitTitle**:: Combate do incêndio de uma casa abandonada pertencente a Manuel Gonçalves, na estrada Famalicão-Guimarães, Cruz do Pelo, Vale São Martinho.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1994-05-02
+**UnitDateFinal**:: 1994-05-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25326
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 125 - cx. 31
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25326

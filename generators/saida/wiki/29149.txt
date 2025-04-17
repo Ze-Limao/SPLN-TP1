@@ -1,0 +1,17 @@
+====== 29149 - DC - Ofício da direção da Sociedade Martins Sarmento ======
+
+**Parent**:: 29147
+**RootParent**:: 27963
+**UnitTitle**:: Ofício da direção da Sociedade Martins Sarmento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-12
+**UnitDateFinal**:: 1883-12
+**ScopeContent**:: Ofício impresso, datado de Guimarães, Dezembro de 1883. Convocatória para uma reunião na Sociedade Martins Sarmento. 
+No verso de um dos exemplares encontram-se algumas palavras portuguesas de origem alemã, escritas por Alberto Sampaio: férias (ferien, em alemão); tigela (tiegel, em alemão); ganso (gans em alemão).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29149
+**LangMaterial**:: Português
+**PhysLoc**:: AS 158 (1), (2), (3) - cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29149

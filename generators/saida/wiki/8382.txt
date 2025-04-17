@@ -1,0 +1,16 @@
+====== 8382 - UI - Eduardo Moreira Pinto ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Eduardo Moreira Pinto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-12-15
+**UnitDateFinal**:: 1895-12-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8382
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.37
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8382
+
+===== Filhos =====
+  * [[8383.txt|8383 - DC - Carta]]

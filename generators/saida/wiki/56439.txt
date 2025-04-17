@@ -1,0 +1,17 @@
+====== 56439 - DC - Nota de despesas ======
+
+**Parent**:: 56431
+**RootParent**:: 31258
+**UnitTitle**:: Nota de despesas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-01-02
+**UnitDateFinal**:: 1918-01-02
+**ScopeContent**:: Manuscrito a lápis com despesas com o gelo, de transporte de gelo, farmácia e cigarros (para João Afonso), carvão. Este documento está no envelope CP 4781, com CP 4782 a CP 4790.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56439
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4789 - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56439

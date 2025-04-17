@@ -1,0 +1,17 @@
+====== 60309 - DC - Bilhete-postal ======
+
+**Parent**:: 60308
+**RootParent**:: 31258
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Bilhete-postal enviado da Quinta do Mosteiro, Moreira da Maia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48478
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8860 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60309

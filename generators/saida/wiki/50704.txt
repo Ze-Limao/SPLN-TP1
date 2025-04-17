@@ -1,0 +1,18 @@
+====== 50704 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-04-13
+**ScopeContent**:: Data de nascimento - 1843-05-29
+Filiação - João Manuel de Freitas e Maria José de Abreu
+Naturalidade - Riba de Ave
+Profissão - Caixeiro
+Residência - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50704
+**LangMaterial**:: Português
+**PhysLoc**:: 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50704

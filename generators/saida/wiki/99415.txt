@@ -1,0 +1,17 @@
+====== 99415 - DC - Plaques au gélatine-bromure d´argent. Société Anonyme des plaques et papiers photographiques A. Lumière & ses Fils (Lyon-Monplaisir) ======
+
+**Parent**:: 99407
+**RootParent**:: 60695
+**UnitTitle**:: Plaques au gélatine-bromure d´argent. Société Anonyme des plaques et papiers photographiques A. Lumière & ses Fils (Lyon-Monplaisir)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Caixa vazia com nota "24 daguerreótipos 12 x 9 cm". Caixa que continha placas secas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99409
+**LangMaterial**:: Português, Francês
+**PhysLoc**:: CSC 243 - cx. 8
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99415

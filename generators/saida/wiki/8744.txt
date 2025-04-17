@@ -1,0 +1,18 @@
+====== 8744 - DC - Termo do exame de Afonso Cardoso ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Afonso Cardoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-16
+**UnitDateFinal**:: 1891-07-16
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Bernardo Cardoso
+Naturalidade - Requião
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8744
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8744

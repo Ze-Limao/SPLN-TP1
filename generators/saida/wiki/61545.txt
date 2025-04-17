@@ -1,0 +1,17 @@
+====== 61545 - DC - Homenagem ao Bombeiro Voluntário ======
+
+**Parent**:: 61442
+**RootParent**:: 60551
+**UnitTitle**:: Homenagem ao Bombeiro Voluntário
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1975-09-10
+**UnitDateFinal**:: 1975-09-10
+**ScopeContent**:: O maço contém 4 recortes de imprensa e 2 fotografias.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 256 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61545

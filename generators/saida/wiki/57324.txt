@@ -1,0 +1,17 @@
+====== 57324 - DC - Comp. dos Cºs de Ferro do Norte. Correspondência ======
+
+**Parent**:: 79083
+**RootParent**:: 31258
+**UnitTitle**:: Comp. dos Cºs de Ferro do Norte. Correspondência
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1927-12-07
+**UnitDateFinal**:: 1935-04
+**ScopeContent**:: Capa com título manuscrito a cores respeitante à Companhia dos Caminhos de Ferro do Norte de Portugal. Contém ofícios manuscritos e datilografados da Companhia para Visconde de Pindela, etc. Impressos: "Lavradores! visitai a exposição do milho", "A  propósito da patriótica propaganda agrícola feita pela Companhia de Caminhos de Ferro do Norte de Portugal em visita às quintas: Quinta da Lameira (Vilar do Pinheiro) e Quinta da Escola Prática de Agricultura Conde S. Bento (Santo Tirso)" 1928-07-22; "O emprego das máquinas e a ensilagem nas pequenas propriedades".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57324
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2357 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57324

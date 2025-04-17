@@ -1,0 +1,17 @@
+====== 78401 - DC - Paga e quitação que deu Manuel António, do lugar de Chacim, a Paulo Pinto de Magalhães, seu cunhado e morador na casa de Lobela, o total de 150 reis ======
+
+**Parent**:: 78398
+**RootParent**:: 31258
+**UnitTitle**:: Paga e quitação que deu Manuel António, do lugar de Chacim, a Paulo Pinto de Magalhães, seu cunhado e morador na casa de Lobela, o total de 150 reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1763-05-02
+**UnitDateFinal**:: 1763-05-02
+**ScopeContent**:: Manuscrito com folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5015 - cx. 36
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78401

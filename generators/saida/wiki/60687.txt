@@ -1,0 +1,14 @@
+====== 60687 - SR - Receitas e Despesas ======
+
+**Parent**:: 60686
+**RootParent**:: 60547
+**UnitTitle**:: Receitas e Despesas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1873
+**UnitDateFinal**:: 1898
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60687
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60687
+
+===== Filhos =====
+  * [[60688.txt|60688 - DC - Livro de receita e despesa da Confraria das Almas da freguesia de Cruz São Tiago]]

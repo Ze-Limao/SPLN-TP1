@@ -1,0 +1,20 @@
+====== 20561 - DC - Registo do recenseamento militar de Rodrigo ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Rodrigo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Avidos
+Filiação - António de Sousa Ribeiro e Miquelina Rosa
+Naturalidade - Avidos
+Data de nascimento - 1870-05-23
+Emprego - Caseiro
+Estado - Solteiro
+Residência - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20561
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20561

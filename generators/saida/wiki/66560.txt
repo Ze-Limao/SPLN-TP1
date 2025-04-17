@@ -1,0 +1,15 @@
+====== 66560 - DC - Pagamento que Diogo Carneiro fez em apelação e foro que é obrigado pela sua quinta da freguesia de Requião que sucedeu a sua mãe ======
+
+**Parent**:: 63952
+**RootParent**:: 60536
+**UnitTitle**:: Pagamento que Diogo Carneiro fez em apelação e foro que é obrigado pela sua quinta da freguesia de Requião que sucedeu a sua mãe
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1638-04-03
+**UnitDateFinal**:: 1638-04-03
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 580 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66560

@@ -1,0 +1,17 @@
+====== 56911 - DC - Comissão de Viticultura. Archivo Especial. Minha sahida da Comissão Executiva. Carta por mim enviada ao Exmo Vogal de Vila Nova de Cerveira. Nº 4 ======
+
+**Parent**:: 56907
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Archivo Especial. Minha sahida da Comissão Executiva. Carta por mim enviada ao Exmo Vogal de Vila Nova de Cerveira. Nº 4
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933-04-30
+**UnitDateFinal**:: 1933-04-30
+**ScopeContent**:: Capa com título manuscrito a cores; 2 cópias datilografadas de ofício (3 p.) enviado ao Drº Manuel Couto (Vogal de Vila Nova de Cerveira), 1933-04-30, assinado V. Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56911
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2675 - cx. 21
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56911

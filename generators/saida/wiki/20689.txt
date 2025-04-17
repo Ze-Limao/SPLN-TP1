@@ -1,0 +1,20 @@
+====== 20689 - DC - Registo do recenseamento militar de Gabriel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Gabriel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Antas
+Filiação - António Rodrigues da Fonseca e Amélia de Araújo
+Naturalidade - Antas
+Data de nascimento - 1870-04-24
+Emprego - Estudante
+Estado - Solteiro
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20689
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20689

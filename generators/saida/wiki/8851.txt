@@ -1,0 +1,18 @@
+====== 8851 - DC - Termo do exame de João Dias Alves Pimenta ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de João Dias Alves Pimenta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-03
+**UnitDateFinal**:: 1893-08-03
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - António Dias Alves Pimenta
+Naturalidade - Ruivães
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8851
+**LangMaterial**:: Português
+**PhysLoc**:: f. 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8851

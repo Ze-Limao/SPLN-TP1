@@ -1,0 +1,18 @@
+====== 8479 - DC - Termo do exame de António José dos Santos Terroso ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António José dos Santos Terroso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-05-06
+**UnitDateFinal**:: 1886-05-06
+**ScopeContent**:: Grau - Elementar
+Idade - 24
+Filiação - Luís José dos Santos Terroso
+Naturalidade - Barcelos
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8479
+**LangMaterial**:: Português
+**PhysLoc**:: f. 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8479

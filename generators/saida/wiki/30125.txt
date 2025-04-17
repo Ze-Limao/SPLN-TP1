@@ -1,0 +1,16 @@
+====== 30125 - DC - Carta ======
+
+**Parent**:: 21349
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-07-23
+**UnitDateFinal**:: 1919-07-23
+**ScopeContent**:: Carta manuscrita assinada pelo presidente da Câmara de Barcelos. Papel timbrado Câmara Municipal de Barcelos. Gabinete do Presidente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30125
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1260 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30125

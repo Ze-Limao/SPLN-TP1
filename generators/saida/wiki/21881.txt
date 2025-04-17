@@ -1,0 +1,16 @@
+====== 21881 - DC - Registo do recenseamento eleitoral de António Ferreira Vago ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Ferreira Vago
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Calendário
+Profissão - Negociante
+Morada - Barrimau
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21881
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21881

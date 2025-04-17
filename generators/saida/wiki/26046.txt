@@ -1,0 +1,16 @@
+====== 26046 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-11-22
+**UnitDateFinal**:: 1920-11-22
+**ScopeContent**:: Júlio Brandão refere que Teixeira Lopes está pronto para fazer a lápide e fala da homenagem a Camilo no Olympia e da obra Camilo Homenageado. Carta manuscrita assinada, do Porto. Carta de 22 de novembro, sem menção ao ano. Papel timbrado "Museu Municipal do Porto. Gabinete do Director".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26046
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 840 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26046

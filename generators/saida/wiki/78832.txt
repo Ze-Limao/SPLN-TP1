@@ -1,0 +1,14 @@
+====== 78832 - SR - Edifício da Câmara Municipal ======
+
+**Parent**:: 78829
+**RootParent**:: 7651
+**UnitTitle**:: Edifício da Câmara Municipal
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1882-11-20
+**UnitDateFinal**:: 1882-11-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD78832
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78832
+
+===== Filhos =====
+  * [[78839.txt|78839 - DC - Projecto de casa para repartições judiciais e administrativas em Villa Nova de Famalicão: Paço do Concelho]]

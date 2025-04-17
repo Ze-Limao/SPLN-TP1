@@ -1,0 +1,16 @@
+====== 30250 - DC - Carta ======
+
+**Parent**:: 21419
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-07-18
+**UnitDateFinal**:: 1902-07-18
+**ScopeContent**:: Carta manuscrita assinada, de Nevogilde, Foz do Douro. Papel com gravura impressa e "Nevogilde Foz do Douro".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30250
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1398 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30250

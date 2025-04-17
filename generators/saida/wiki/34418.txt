@@ -1,0 +1,19 @@
+====== 34418 - DC - Registo do recenseamento militar de Remígio ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Remígio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1852-09-15
+Filiação - José Ribeiro da Silva e Ana Joaquina da Costa
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34418
+**LangMaterial**:: Português
+**PhysLoc**:: 115v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34418

@@ -1,0 +1,18 @@
+====== 52502 - DC - Registo do recenseamento militar de José António de Azevedo ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José António de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-08-27
+Filiação - Manuel de Azevedo e Maria Pereira
+Naturalidade - Sezures
+Profissão - Carpinteiro
+Residência - Sezures
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52502
+**LangMaterial**:: Português
+**PhysLoc**:: 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52502

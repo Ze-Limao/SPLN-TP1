@@ -1,0 +1,16 @@
+====== 29763 - DC - Carta ======
+
+**Parent**:: 21301
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-12-10
+**UnitDateFinal**:: 1901-12-10
+**ScopeContent**:: Carta manuscrita assinada, de Braga. O autor refere que aguarda decisão dos bispos e pares do reino sobre os Centros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29763
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1172 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29763

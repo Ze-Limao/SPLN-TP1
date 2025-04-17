@@ -1,0 +1,67 @@
+====== 21111 - UI - Eugénio de Castro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Eugénio de Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907-04-06
+**UnitDateFinal**:: 1925-11-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21111
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 367 a 417
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21111
+
+===== Filhos =====
+  * [[25388.txt|25388 - DC - Carta]]
+  * [[25389.txt|25389 - DC - Carta]]
+  * [[25390.txt|25390 - DC - Carta]]
+  * [[25391.txt|25391 - DC - Carta]]
+  * [[25392.txt|25392 - DC - Carta]]
+  * [[25393.txt|25393 - DC - Carta]]
+  * [[25394.txt|25394 - DC - Carta]]
+  * [[25395.txt|25395 - DC - Cartão]]
+  * [[25396.txt|25396 - DC - Carta]]
+  * [[25397.txt|25397 - DC - Carta]]
+  * [[25398.txt|25398 - DC - Carta]]
+  * [[25399.txt|25399 - DC - Carta]]
+  * [[25400.txt|25400 - DC - Carta]]
+  * [[25401.txt|25401 - DC - Carta]]
+  * [[25402.txt|25402 - DC - Carta]]
+  * [[25403.txt|25403 - DC - Carta]]
+  * [[25404.txt|25404 - DC - Carta]]
+  * [[25405.txt|25405 - DC - Carta]]
+  * [[25406.txt|25406 - DC - Carta]]
+  * [[25407.txt|25407 - DC - Carta]]
+  * [[25408.txt|25408 - DC - Carta]]
+  * [[25409.txt|25409 - DC - Carta]]
+  * [[25410.txt|25410 - DC - Carta]]
+  * [[25411.txt|25411 - DC - Carta]]
+  * [[25412.txt|25412 - DC - Carta]]
+  * [[25413.txt|25413 - DC - Carta]]
+  * [[25414.txt|25414 - DC - Carta]]
+  * [[25415.txt|25415 - DC - Carta]]
+  * [[25416.txt|25416 - DC - Carta]]
+  * [[25417.txt|25417 - DC - Carta]]
+  * [[25418.txt|25418 - DC - Carta]]
+  * [[25419.txt|25419 - DC - Carta]]
+  * [[25420.txt|25420 - DC - Carta]]
+  * [[25421.txt|25421 - DC - Carta]]
+  * [[25422.txt|25422 - DC - Carta]]
+  * [[25423.txt|25423 - DC - Carta]]
+  * [[25424.txt|25424 - DC - Carta]]
+  * [[25425.txt|25425 - DC - Carta]]
+  * [[25426.txt|25426 - DC - Carta]]
+  * [[25427.txt|25427 - DC - Carta]]
+  * [[25428.txt|25428 - DC - Cartão]]
+  * [[25429.txt|25429 - DC - Carta]]
+  * [[25430.txt|25430 - DC - Carta]]
+  * [[25431.txt|25431 - DC - Carta]]
+  * [[25432.txt|25432 - DC - Carta]]
+  * [[25433.txt|25433 - DC - Carta]]
+  * [[25434.txt|25434 - DC - Carta]]
+  * [[25435.txt|25435 - DC - Carta]]
+  * [[25436.txt|25436 - DC - Carta]]
+  * [[25437.txt|25437 - DC - Carta]]
+  * [[25438.txt|25438 - DC - Carta]]

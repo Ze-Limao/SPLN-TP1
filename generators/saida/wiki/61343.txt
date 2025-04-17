@@ -1,0 +1,16 @@
+====== 61343 - DC - Carta ======
+
+**Parent**:: 60925
+**RootParent**:: 60550
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1939-04-25
+**UnitDateFinal**:: 1939-04-25
+**ScopeContent**:: Carta datilografada de Villa La Résidence Rue le Châtelier, 9, Paris (XVIIéme).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 86 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61343

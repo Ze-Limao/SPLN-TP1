@@ -1,0 +1,19 @@
+====== 9422 - DC - Registo do recenseamento militar de Camilo ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Camilo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Francisco Correia de Carvalho e Maria de Castro
+Naturalidade - Seide S. Paio
+Data de nascimento - 1877-10-25
+Profissão - Caixeiro
+Estado civil - Solteiro
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9422
+**LangMaterial**:: Português
+**PhysLoc**:: f. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9422

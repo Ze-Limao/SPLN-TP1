@@ -1,0 +1,15 @@
+====== 20201 - SR - Registo de mulheres grávidas notificadas ======
+
+**Parent**:: 20198
+**RootParent**:: 20048
+**UnitTitle**:: Registo de mulheres grávidas notificadas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1911-01-18
+**UnitDateFinal**:: 1926-04-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20201
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20201
+
+===== Filhos =====
+  * [[20202.txt|20202 - UI - Registo de mulheres grávidas notificadas]]

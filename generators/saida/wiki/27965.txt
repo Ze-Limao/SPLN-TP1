@@ -1,0 +1,24 @@
+====== 27965 - SC - Adulto (1867-11-30 a 1907-11-29) ======
+
+**Parent**:: 27968
+**RootParent**:: 27963
+**UnitTitle**:: Adulto (1867-11-30 a 1907-11-29)
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1855
+**UnitDateFinal**:: 1935
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27965
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27965
+
+===== Filhos =====
+  * [[28063.txt|28063 - SSC - Atividade pessoal]]
+  * [[28066.txt|28066 - SSC - Atividade de investigação]]
+  * [[28067.txt|28067 - SSC - Atividade vitivinícola]]
+  * [[28068.txt|28068 - SSC - Atividade associativa e empresarial]]
+  * [[28069.txt|28069 - SSC - Guarda-livros no Banco de Guimarães]]
+  * [[28230.txt|28230 - SSC - Atividade política]]
+  * [[28237.txt|28237 - SSC - Autor de estudos históricos e económicos]]
+  * [[29147.txt|29147 - SSC - Diretor da Exposição Industrial de Guimarães]]
+  * [[29171.txt|29171 - SSC - Atividade de arboricultura na Quinta de Boamense]]
+  * [[29176.txt|29176 - SSC - Atividade no jardim da Quinta de Boamense]]
+  * [[29178.txt|29178 - SSC - Atividade agrícola]]

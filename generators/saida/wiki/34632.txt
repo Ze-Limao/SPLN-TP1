@@ -1,0 +1,19 @@
+====== 34632 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Lemenhe
+Data de nascimento - 1862-03-12
+Filiação - José de Matos e Maria Joana
+Profissão - Criado de servir
+Estado - Solteiro
+Morada - Minhotães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34632
+**LangMaterial**:: Português
+**PhysLoc**:: 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34632

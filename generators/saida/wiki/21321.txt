@@ -1,0 +1,16 @@
+====== 21321 - UI - António Magalhães ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Magalhães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-06-17
+**UnitDateFinal**:: 1899-06-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21321
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1211
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21321
+
+===== Filhos =====
+  * [[29802.txt|29802 - DC - Carta]]

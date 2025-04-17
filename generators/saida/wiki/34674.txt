@@ -1,0 +1,19 @@
+====== 34674 - DC - Registo do recenseamento militar de Pedro ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Pedro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Avidos
+Data de nascimento - 1862-03-15
+Filiação - António Alves e Maria Luísa
+Profissão - Lavoura
+Estado - Casado
+Morada - Seide S. Paio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34674
+**LangMaterial**:: Português
+**PhysLoc**:: 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34674

@@ -1,0 +1,15 @@
+====== 65878 - DC - Procuração de Custódio de Sousa Santos e sua mulher Ana Maria, moradores extramuros do Porto, a seu filho Diogo José de Sousa, para emprazamento de uma fazenda no lugar de Freitas, situada na freguesia de S. Tiago de Rebordões, como enfiteutas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Procuração de Custódio de Sousa Santos e sua mulher Ana Maria, moradores extramuros do Porto, a seu filho Diogo José de Sousa, para emprazamento de uma fazenda no lugar de Freitas, situada na freguesia de S. Tiago de Rebordões, como enfiteutas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1781-01-03
+**UnitDateFinal**:: 1781-01-03
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 591 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65878

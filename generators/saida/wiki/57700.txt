@@ -1,0 +1,17 @@
+====== 57700 - DC - Ofício para 3º Visconde de Pindela do Engenheiro Director da Exploração ======
+
+**Parent**:: 57680
+**RootParent**:: 31258
+**UnitTitle**:: Ofício para 3º Visconde de Pindela do Engenheiro Director da Exploração
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928-06-16
+**UnitDateFinal**:: 1928-06-16
+**ScopeContent**:: Ofício datilografado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57700
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2890 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57700

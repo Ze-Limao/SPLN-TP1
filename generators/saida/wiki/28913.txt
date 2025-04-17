@@ -1,0 +1,15 @@
+====== 28913 - UI - António Augusto da Rocha Peixoto ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: António Augusto da Rocha Peixoto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903
+**UnitDateFinal**:: 1903
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28913
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28913
+
+===== Filhos =====
+  * [[28914.txt|28914 - DC - Cartão]]
+  * [[28915.txt|28915 - DC - Cartão]]

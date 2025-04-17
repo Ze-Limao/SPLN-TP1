@@ -1,0 +1,16 @@
+====== 20052 - SC - Fiscalização de Corporações Religiosas ======
+
+**Parent**:: 20048
+**RootParent**:: 20048
+**UnitTitle**:: Fiscalização de Corporações Religiosas
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1871-06-03
+**UnitDateFinal**:: 1927-11-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20052
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20052
+
+===== Filhos =====
+  * [[20205.txt|20205 - SR - Registo das côngruas aos párocos do concelho]]
+  * [[20207.txt|20207 - SR - Registo de entrega de contas de gerência, de confrarias e juntas de paróquia]]

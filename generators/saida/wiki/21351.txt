@@ -1,0 +1,16 @@
+====== 21351 - UI - António Cândido Figueiredo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Cândido Figueiredo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-06-15
+**UnitDateFinal**:: 1920-06-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21351
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1262
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21351
+
+===== Filhos =====
+  * [[30127.txt|30127 - DC - Postal]]

@@ -1,0 +1,36 @@
+====== 48479 - UI - Bernardo Pinheiro Correia de Melo ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Bernardo Pinheiro Correia de Melo
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48479
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48479
+
+===== Filhos =====
+  * [[48480.txt|48480 - DC - Carta]]
+  * [[48481.txt|48481 - DC - Carta]]
+  * [[48482.txt|48482 - DC - Carta]]
+  * [[48483.txt|48483 - DC - Carta]]
+  * [[48484.txt|48484 - DC - Carta]]
+  * [[48485.txt|48485 - DC - Carta]]
+  * [[48486.txt|48486 - DC - Carta]]
+  * [[48487.txt|48487 - DC - Carta]]
+  * [[48488.txt|48488 - DC - Carta]]
+  * [[48489.txt|48489 - DC - Carta]]
+  * [[48490.txt|48490 - DC - Carta]]
+  * [[48491.txt|48491 - DC - Carta]]
+  * [[48492.txt|48492 - DC - Carta]]
+  * [[48493.txt|48493 - DC - Carta]]
+  * [[48494.txt|48494 - DC - Carta]]
+  * [[48495.txt|48495 - DC - Carta]]
+  * [[48496.txt|48496 - DC - Carta]]
+  * [[48497.txt|48497 - DC - Carta]]
+  * [[48498.txt|48498 - DC - Carta]]
+  * [[48499.txt|48499 - DC - Carta]]
+  * [[48500.txt|48500 - DC - Carta]]

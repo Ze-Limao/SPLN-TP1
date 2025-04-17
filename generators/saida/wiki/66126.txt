@@ -1,0 +1,15 @@
+====== 66126 - DC - Escritura de venda que fazem Claudino José de Azevedo e mulher Luiza Ferreira Campos, da freguesia de S. Simão da Junqueira, da comarca de Vila do Conde, a Joaquim Raposo de Azevedo, solteiro, Félix Veloso e Araújo, casado, e Lino da Costa Santos, casado, todos da freguesia de Fradelos ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de venda que fazem Claudino José de Azevedo e mulher Luiza Ferreira Campos, da freguesia de S. Simão da Junqueira, da comarca de Vila do Conde, a Joaquim Raposo de Azevedo, solteiro, Félix Veloso e Araújo, casado, e Lino da Costa Santos, casado, todos da freguesia de Fradelos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-10-19
+**UnitDateFinal**:: 1889-10-21
+**ScopeContent**:: Manuscrito em papel azul timbrado com o imposto de selo 80 reis, original, folhas cosidas sem capa. No canto esquerdo superior “Nota nº61. Af. 31 vº”. na f.1vº e na 2ºf nota “ …ficando o comprador obrigado a pagar a esta igreja o foro correspondente em litros a quatro vasos de trigo medida antiga e doze galinhas…pagar o respetivo laudémio…Mosteiro de San Thiago d´Antas 21 de Outubro de 1889. O Conego Abbade José Alves Pereira da Fonseca.”
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 311 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66126

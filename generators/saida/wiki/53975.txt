@@ -1,0 +1,15 @@
+====== 53975 - DC - Desfile dos carros de bombeiros na Praça 9 de Abril em Vila Nova de Famalicão ======
+
+**Parent**:: 25318
+**RootParent**:: 20342
+**UnitTitle**:: Desfile dos carros de bombeiros na Praça 9 de Abril em Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-10-16
+**UnitDateFinal**:: 1966-10-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53975
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 187 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53975

@@ -1,0 +1,15 @@
+====== 80031 - UI - Processo nº 14 ======
+
+**Parent**:: 80030
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 14
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-04-10
+**UnitDateFinal**:: 1971-01-30
+**ScopeContent**:: Junto com Execução por Custas nº 14 -A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 43 - cx. 3
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80031

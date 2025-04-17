@@ -1,0 +1,24 @@
+====== 60125 - DC - O Progresso na Agricultura ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: O Progresso na Agricultura
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1925-02-08
+**UnitDateFinal**:: 1925-03-25
+**ScopeContent**:: Recortes de imprensa de artigos assinados pelo 3º Visconde de Pindela no jornal “A Lavoura do Minho”. Contém CP 8525 a CP 8531.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60125
+
+===== Filhos =====
+  * [[60126.txt|60126 - DC - O Progresso na Agricultura I]]
+  * [[60127.txt|60127 - DC - O Progresso na Agricultura II]]
+  * [[60128.txt|60128 - DC - O Progresso na Agricultura III]]
+  * [[60129.txt|60129 - DC - O Progresso na Agricultura IV]]
+  * [[60130.txt|60130 - DC - O Progresso na Agricultura V]]
+  * [[60131.txt|60131 - DC - O Progresso na Agricultura VI]]
+  * [[60133.txt|60133 - DC - O Progresso na Agricultura]]

@@ -1,0 +1,16 @@
+====== 26098 - DC - Carta ======
+
+**Parent**:: 21226
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-05-09
+**UnitDateFinal**:: 1906-05-09
+**ScopeContent**:: Carta manuscrita assinada. Papel carimbado "Quinta do Mosteiro. Moreira da Maia. Porto".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26098
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 893 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26098

@@ -1,0 +1,18 @@
+====== 28478 - DC - Lista de navegadores estrangeiros nas esquadras navais portuguesas ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Lista de navegadores estrangeiros nas esquadras navais portuguesas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28478
+**LangMaterial**:: Português
+**PhysLoc**:: AS 74 (1) a 74 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28478
+
+===== Filhos =====
+  * [[28479.txt|28479 - DC - Estrangeiros distinctos]]
+  * [[28480.txt|28480 - DC - Cap. Rosado]]

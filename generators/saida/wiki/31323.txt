@@ -1,0 +1,29 @@
+====== 31323 - SR - Correspondência recebida ======
+
+**Parent**:: 31320
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1889
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31323
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31323
+
+===== Filhos =====
+  * [[46646.txt|46646 - UI - José Joaquim Rodrigues de Freitas]]
+  * [[50103.txt|50103 - UI - Januário Correia de Almeida]]
+  * [[50321.txt|50321 - UI - Hugo de Lacerda]]
+  * [[50345.txt|50345 - UI - Joaquim Correia Lança]]
+  * [[54418.txt|54418 - UI - Alberto Sampaio]]
+  * [[54420.txt|54420 - UI - Júlio de Matos]]
+  * [[54422.txt|54422 - UI - Jerónimo da Cunha Pimentel]]
+  * [[54424.txt|54424 - UI - José Vicente Barbosa do Bocage]]
+  * [[54426.txt|54426 - UI - Paulo de Melo Sampaio]]
+  * [[54428.txt|54428 - UI - Gaspar Lobo de Sousa Machado]]
+  * [[54430.txt|54430 - UI - José Maria Brinche Carvalho]]
+  * [[54432.txt|54432 - UI - Carlos Lobo de Ávila]]
+  * [[54434.txt|54434 - UI - Anselmo José Braamcamp]]
+  * [[54436.txt|54436 - UI - Miguel Aleixo António do Carmo de Noronha]]
+  * [[54438.txt|54438 - UI - António José de Freitas Honorato]]
+  * [[54457.txt|54457 - UI - Alberto Carlos Eça de Queirós]]

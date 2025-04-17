@@ -1,0 +1,16 @@
+====== 24295 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-05-26
+**UnitDateFinal**:: 1921-05-26
+**ScopeContent**:: António Cabral refere que terminou a leitura do livro “Camilo homenageado” e felicita o autor. Esclarece JAM de algumas questões referidas no livro, indicando a página e a explicações em forma de anotações. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24295
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 131 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24295

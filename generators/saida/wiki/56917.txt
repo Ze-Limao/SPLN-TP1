@@ -1,0 +1,17 @@
+====== 56917 - DC - Minuta de ofício para Silva Pereira e ofício resposta para 3º Visconde de Pindela ======
+
+**Parent**:: 56921
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de ofício para Silva Pereira e ofício resposta para 3º Visconde de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-08
+**UnitDateFinal**:: 1934-08-11
+**ScopeContent**:: Minuta manuscrito de ofício de Visconde de Pindela (dos Serviços Florestais, Porto) para Silva Pereira, 3 f.; Ofício dactilografado em papel timbrado Eduardo Proença da Silva Pereira, 3 f., com notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56917
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2684 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56917

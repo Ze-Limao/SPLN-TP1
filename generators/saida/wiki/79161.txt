@@ -1,0 +1,12 @@
+====== 79161 - UI - Ministério das Finanças ======
+
+**Parent**:: 79084
+**RootParent**:: 31258
+**UnitTitle**:: Ministério das Finanças
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79085
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79161
+
+===== Filhos =====
+  * [[59551.txt|59551 - DC - Ofício do Ministério das Finanças]]

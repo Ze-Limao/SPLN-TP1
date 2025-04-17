@@ -1,0 +1,15 @@
+====== 65755 - DC - Emprazamento do meio casal da Ribeira , situado na freguesia de Castelões, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Manuel Carneiro Figueiredo Ferreira de Moura e a sua mulher Leonor Luísa Coutinho de Vilhena, moradores em Vila do Conde ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do meio casal da Ribeira , situado na freguesia de Castelões, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Manuel Carneiro Figueiredo Ferreira de Moura e a sua mulher Leonor Luísa Coutinho de Vilhena, moradores em Vila do Conde
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1781-06-24
+**UnitDateFinal**:: 1846
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. Anotação de que 1846 o prazo é possuído por Manuel Bernardo I. Mont. Torres.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 196 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65755

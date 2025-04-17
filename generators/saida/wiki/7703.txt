@@ -1,0 +1,13 @@
+====== 7703 - UI - Livro de Notas Nº 16 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 16
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1936-08-21
+**UnitDateFinal**:: 1941-05-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7703
+**LangMaterial**:: Português
+**PhysLoc**:: 1.50
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7703

@@ -1,0 +1,18 @@
+====== 48972 - DC - Registo do recenseamento eleitoral de Manuel José Gonçalves ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Nine
+Profissão - Reitor
+Estado - Solteiro
+Morada - Residência
+Idade - 60
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48972
+**LangMaterial**:: Português
+**PhysLoc**:: 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48972

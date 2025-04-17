@@ -1,0 +1,20 @@
+====== 29270 - DC - Enceradura impermeavel para calçado ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Enceradura impermeavel para calçado
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29270
+**LangMaterial**:: Português
+**PhysLoc**:: AS 181 (1) a 181 (3) - cx. 5
+depósito 3, estante
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29270
+
+===== Filhos =====
+  * [[29641.txt|29641 - DC - Enceradura impermeavel para calçado]]
+  * [[29642.txt|29642 - DC - Nota - deve ser aplicado com a mão]]
+  * [[29643.txt|29643 - DC - Conviria experimentar o Pez de Borgonha]]

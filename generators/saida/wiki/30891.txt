@@ -1,0 +1,16 @@
+====== 30891 - DC - Registo do recenseamento eleitoral de Manuel Pereira ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Morada - Mesa Chã
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30891
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30891

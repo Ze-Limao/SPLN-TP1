@@ -1,0 +1,16 @@
+====== 25496 - DC - Carta ======
+
+**Parent**:: 21125
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-07-03
+**UnitDateFinal**:: 1899-07-03
+**ScopeContent**:: Carta manuscrita assinada Gaspar de Abreu, de Guimarães. Agradece a honra de saber do casamento de José Sebastião Cardoso de Menezes Pinheiro de Azevedo (1873-1955), filho de José Azevedo e Menezes e de sua mulher Maria Júlia Falcão Pinheiro de Azevedo e Bourbone Menezes, com Emília Maria de Castro Falcão Varela Pinto Guedes Corte-Real (1878-1912), filha dos condes de Fijô, António de Castro Pereira Corte Real e Brízida Varela Falcão Pinto Guedes Sottomayor, em 10 de Agosto de 1899.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25496
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 453 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25496

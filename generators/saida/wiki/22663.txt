@@ -1,0 +1,18 @@
+====== 22663 - SR - Documentos camilianos ======
+
+**Parent**:: 20290
+**RootParent**:: 20290
+**UnitTitle**:: Documentos camilianos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1918-03-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22663
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1519, 1525
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22663
+
+===== Filhos =====
+  * [[22664.txt|22664 - DC - Livro da Comissão promotora da homenagem póstuma ao grande escritor Camilo Castelo Branco para servir de cópia dos ofícios dirigidos a algumas Câmaras, a jornalistas e a outras pessoas gratas]]
+  * [[22692.txt|22692 - DC - O sobrinho de Camillo Castello Branco no Limoeiro - um preso político]]

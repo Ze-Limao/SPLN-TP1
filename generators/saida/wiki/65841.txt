@@ -1,0 +1,15 @@
+====== 65841 - DC - Emprazamento da quebrada da Aveleira de Vilar de Costóias, situado na freguesia de Calendário, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Isabel Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento da quebrada da Aveleira de Vilar de Costóias, situado na freguesia de Calendário, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Isabel Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1555-12-07
+**UnitDateFinal**:: 1555-12-07
+**ScopeContent**:: Manuscrito, original, com fita do selo. Foi restaurado e acondicionado em 2021.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 277 - Capa P3
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65841

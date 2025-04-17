@@ -1,0 +1,17 @@
+====== 60233 - DC - Comissão de Vticultura. Serviço Central. Assumptos tratados. Genesis dos regulamento da produção e comercio dos vinhos verdes. Invasaão da região por vinhos do Sul 1921. Congresso de Braga em 1924 ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Vticultura. Serviço Central. Assumptos tratados. Genesis dos regulamento da produção e comercio dos vinhos verdes. Invasaão da região por vinhos do Sul 1921. Congresso de Braga em 1924
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1921
+**UnitDateFinal**:: 1924
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes com : recortes de imprensa; nota manuscrita; Regulamento da produção e comercio dos vinhos verdes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57243
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9551 - cx. 60
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60233

@@ -1,0 +1,17 @@
+====== 33564 - DC - Recorte de jornal "Curioso quadro" ======
+
+**Parent**:: 33521
+**RootParent**:: 31258
+**UnitTitle**:: Recorte de jornal "Curioso quadro"
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-12-10
+**UnitDateFinal**:: 1886-12-10
+**ScopeContent**:: Recorte de jornal com notas manuscritas. Contido na carta CP 1949.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33564
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1951 - cx. 13
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33564

@@ -1,0 +1,17 @@
+====== 28075 - DC - Ofício para consulta aos acionistas da Companhia dos Banhos de Vizela. ======
+
+**Parent**:: 29457
+**RootParent**:: 27963
+**UnitTitle**:: Ofício para consulta aos acionistas da Companhia dos Banhos de Vizela.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-06-05
+**UnitDateFinal**:: 1889-06-05
+**ScopeContent**:: Impresso com consulta (inquérito) aos acionistas da Companhia dos Banhos de Vizela sobre questões que dizem respeito a obras a realizar e ao empréstimo que era necessário contrair. Na impossibilidade de comparência à reunião, é solicitado aos acionistas a resposta por escrito às questões colocadas no inquérito.
+Impresso com o nome do destinatário, Direcção da Companhia dos Banhos de Vizela, e o endereço, Guimarães, ambos impressos, apresentando ainda o selo no valor de cinco réis, não carimbado. Na outra parte da folha encontra-se o inquérito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28075
+**LangMaterial**:: Português
+**PhysLoc**:: AS 167- cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28075

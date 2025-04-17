@@ -1,0 +1,18 @@
+====== 56390 - DC - Singela historieta dedicada à amável colónia do Salitre, pelo Visconde de Castilho ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Singela historieta dedicada à amável colónia do Salitre, pelo Visconde de Castilho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-04
+**UnitDateFinal**:: 1885-04
+**ScopeContent**:: Narrativa poética manuscrita em folhas pautadas pelo Visconde de Castilho.
+Júlio de Castilho (Lisboa, 30 de Abril de 1840 — Lisboa, 8 de Fevereiro de 1919), segundo visconde de Castilho, foi um jornalista, poeta, escritor e político português, filho do escritor António Feliciano de Castilho. Distinguiu-se como olisipógrafo, publicando diversas obras sobre a cidade de Lisboa e juntando uma importante coleção pessoal de documentos sobre o tema, hoje depositada na Biblioteca Nacional de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56390
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3058 - cx. 24
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56390

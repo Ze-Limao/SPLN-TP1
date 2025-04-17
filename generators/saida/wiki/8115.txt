@@ -1,0 +1,18 @@
+====== 8115 - DC - Maria Ludovina Salgado Pinheiro de Lacerda ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Maria Ludovina Salgado Pinheiro de Lacerda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1884-03-01
+**ScopeContent**:: Escola - Vila Nova de Famalicão. Feminina
+Cargo - Professora
+Vínculo - Vitalício
+Naturalidade - Braga
+Data de posse - 1872-01-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8115
+**LangMaterial**:: Português
+**PhysLoc**:: f. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8115

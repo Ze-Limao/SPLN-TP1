@@ -1,0 +1,17 @@
+====== 53947 - DC - Câmara Municipal de Famalicão - Paredes Laterais do Vestíbulo 2C-16, 2C-17 e 2C-18 ======
+
+**Parent**:: 53749
+**RootParent**:: 25851
+**UnitTitle**:: Câmara Municipal de Famalicão - Paredes Laterais do Vestíbulo 2C-16, 2C-17 e 2C-18
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1961
+**ScopeContent**:: Cópia de planta. Paredes Laterais do Vestíbulo 2C-16, 2C-17 e 2C-18. Escalas: 1/50 e 1/10. Assinado pelo Arquiteto Januário Godinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53947
+**LangMaterial**:: Português
+**PhysLoc**:: JG 149 - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53947

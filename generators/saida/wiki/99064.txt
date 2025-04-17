@@ -1,0 +1,14 @@
+====== 99064 - UI - Saldanha ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Saldanha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-04-04
+**UnitDateFinal**:: 1917-04-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99064
+
+===== Filhos =====
+  * [[99063.txt|99063 - DC - Telegrama]]

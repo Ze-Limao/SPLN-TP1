@@ -1,0 +1,18 @@
+====== 99454 - UI - Frank Hugens ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Frank Hugens
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-02-16
+**UnitDateFinal**:: 1916-05-04
+**ScopeContent**:: Avenida da Boavista, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99454
+
+===== Filhos =====
+  * [[99455.txt|99455 - DC - Carta]]
+  * [[99462.txt|99462 - DC - Carta]]
+  * [[99472.txt|99472 - DC - Carta]]
+  * [[99549.txt|99549 - DC - Carta]]

@@ -1,0 +1,17 @@
+====== 32808 - DC - Carta ======
+
+**Parent**:: 32802
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-06-10
+**UnitDateFinal**:: 1873-06-10
+**ScopeContent**:: Carta manuscrita assinada, da Casa de Mateus. Esta carta pertence ao maço "Cartas de José, ilustre chefe e representante da nossa família".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32808
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12262 - cx. 71
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32808

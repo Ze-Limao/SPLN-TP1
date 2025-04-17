@@ -1,0 +1,15 @@
+====== 65825 - DC - Apegação, medição e confrontação do casal do Outeiro, situado na freguesia de S. Leocádia de Fradelos, por Rodrigo Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, que empraza a Manuel da Costa Carneiro ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal do Outeiro, situado na freguesia de S. Leocádia de Fradelos, por Rodrigo Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, que empraza a Manuel da Costa Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1781-02-12
+**UnitDateFinal**:: 1781-02-12
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 193 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65825

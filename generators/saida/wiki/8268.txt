@@ -1,0 +1,16 @@
+====== 8268 - UI - Cândida ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Cândida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-08-17
+**UnitDateFinal**:: 1895-08-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8268
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.9
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8268
+
+===== Filhos =====
+  * [[8269.txt|8269 - DC - Carta]]

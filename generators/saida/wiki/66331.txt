@@ -1,0 +1,15 @@
+====== 66331 - DC - Inventário de Prazos. Processo de Margarida Angélica de Vasconcelos para tomada de posse do prazo Casal do Carvalho na freguesia de S. Martinho de Avidos de que é senhorio a Igreja de S. Tiago de Antas, Porto. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Inventário de Prazos. Processo de Margarida Angélica de Vasconcelos para tomada de posse do prazo Casal do Carvalho na freguesia de S. Martinho de Avidos de que é senhorio a Igreja de S. Tiago de Antas, Porto.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1752-09-20
+**UnitDateFinal**:: 1756-10-16
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 454 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66331

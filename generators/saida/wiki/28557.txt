@@ -1,0 +1,16 @@
+====== 28557 - DC - 1493 João II nomeou governador de S. Tomé ======
+
+**Parent**:: 28555
+**RootParent**:: 27963
+**UnitTitle**:: 1493 João II nomeou governador de S. Tomé
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Nomeação de Álvaro de Caminha para o cargo de governador de S. Tomé. As notas de investigação do reinado de D. João II dizem respeito a Álvaro de Caminha e a João Afonso de Aveiro, o primeiro governador de S. Tomé e o segundo navegador. Leia-se o que Alberto Sampaio escreveu sobre estes homens que «representaram um papel importante no seu reinado [D. João II]. / Álvaro de Caminha, levando consigo os filhos dos judeus, violentamente cristanizados, lançou por sua ordem as bases da povoação da ilha de S. Tomé, cuja capitania teve. E João Afonso de Aveiro, um dos mais notáveis navegadores deste tempo, explorou em 1496 a parte da costa ocidental da África, denominada o golfo de Benin. Trouxe a primeira pimenta da Guiné […]. O explorador voltou de novo, com o fim de estabelecer por conta do rei uma feitoria para o resgaste da pimenta: mas o clima não permitiu a conservação dela, sendo o descobridor uma das primeiras vítimas. / João Afonso saía de um antigo centro de marinheiros.». Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, p. 405; Inácio da Costa Quintela − Anais da Marinha Portuguesa.; Rui de Pina - Crónica de D. João II.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28557
+**LangMaterial**:: Português
+**PhysLoc**:: AS 98 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28557

@@ -1,0 +1,15 @@
+====== 64163 - DC - Sentença cível a favor de Jerónimo de Oliveira Carvalho, abade de S. Tiago de Antas, na qual foram os réus Manuel de Sá e João Francisco, condenados a pagar ao abade a quantia de cento e cinquenta mil reis que lhe devem. ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível a favor de Jerónimo de Oliveira Carvalho, abade de S. Tiago de Antas, na qual foram os réus Manuel de Sá e João Francisco, condenados a pagar ao abade a quantia de cento e cinquenta mil reis que lhe devem.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1718-03-26
+**UnitDateFinal**:: 1718-03-26
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 145 - cx. 6
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64163

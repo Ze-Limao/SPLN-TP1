@@ -1,0 +1,18 @@
+====== 8900 - DC - Termo do exame de Raul Rodrigues de Carvalho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Raul Rodrigues de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-20
+**UnitDateFinal**:: 1894-07-20
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - Manuel José Rodrigues de Carvalho
+Naturalidade - Antas
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8900
+**LangMaterial**:: Português
+**PhysLoc**:: f. 60
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8900

@@ -1,0 +1,16 @@
+====== 22637 - DC - Registo do recenseamento eleitoral de António de Araújo Velho ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António de Araújo Velho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Louro
+Profissão - Jornaleiro
+Morada - Ribela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22637
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22637

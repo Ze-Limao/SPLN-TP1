@@ -1,0 +1,15 @@
+====== 66513 - DC - Manuscrito, original, com papel selado de 40 reis. Em baixo o deferimento do abade de Requião José de Sousa Coutinho ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Manuscrito, original, com papel selado de 40 reis. Em baixo o deferimento do abade de Requião José de Sousa Coutinho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1850
+**UnitDateFinal**:: 1890
+**ScopeContent**:: Manuscrito, original, em papel azul selado de “XL, 40 reis”. Sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 538 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66513

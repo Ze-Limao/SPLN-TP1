@@ -1,0 +1,15 @@
+====== 66457 - DC - Procuração de José Amândio Pinto de Azevedo, morador no Rio de Janeiro, Brasil, para Manuel Cândido de Araújo Pinto o representar em Portugal como padrinho de batismo feito em 28 abril de 1893 ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Procuração de José Amândio Pinto de Azevedo, morador no Rio de Janeiro, Brasil, para Manuel Cândido de Araújo Pinto o representar em Portugal como padrinho de batismo feito em 28 abril de 1893
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-03-14
+**UnitDateFinal**:: 1893-04-28
+**ScopeContent**:: Impresso e manuscrito, original, com selos fiscais colados e carimbo. Impresso do tabelião Evaristo, do Rio de Janeiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 493 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66457

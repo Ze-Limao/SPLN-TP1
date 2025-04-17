@@ -1,0 +1,14 @@
+====== 9939 - DC - Registo do pagamento a Augusto Teixeira Folhadela ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a Augusto Teixeira Folhadela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-01-04
+**UnitDateFinal**:: 1882-01-04
+**ScopeContent**:: Aquisição de utensílios para o serviço de extinção de incêndios
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9939
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9939

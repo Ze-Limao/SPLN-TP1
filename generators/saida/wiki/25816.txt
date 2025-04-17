@@ -1,0 +1,16 @@
+====== 25816 - DC - Regulamento para a concessão das Condecorações ======
+
+**Parent**:: 24751
+**RootParent**:: 20342
+**UnitTitle**:: Regulamento para a concessão das Condecorações
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954-02-27
+**UnitDateFinal**:: 1954-02-27
+**ScopeContent**:: Documento impresso em Vila Nova de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25816
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 10 - cx. 2
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25816

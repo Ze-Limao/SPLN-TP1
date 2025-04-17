@@ -1,0 +1,15 @@
+====== 64166 - DC - Instrumento de justificação cível de Catarina Teresa, filha de José Rodrigues, morador na freguesia de S. Tiago de Antas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Instrumento de justificação cível de Catarina Teresa, filha de José Rodrigues, morador na freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1794-07-12
+**UnitDateFinal**:: 1794-07-12
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 220 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64166

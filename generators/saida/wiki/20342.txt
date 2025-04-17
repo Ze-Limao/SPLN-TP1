@@ -1,0 +1,22 @@
+====== 20342 - F - Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão ======
+
+**Parent**:: 0
+**RootParent**:: 20342
+**UnitTitle**:: Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 2004
+**ScopeContent**:: O fundo da Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão é composto por:
+Secção A Associação - 142 u.i. (56 livros, 1 livreto, 5 cadernos, 78 maços, 1 folha, 1 cartão); Secção B Comando - 32 u.i. (16 livros, 14 maços, 1 caderno, 1 folha);  Secção C Arquivo Hilário Carvalho - 11 u.i. (10 maços, 1 álbum); Secção D Iconografia  - 10 u.i. (8 álbuns; 1 pasta, 1 maço).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20342
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20342
+
+===== Filhos =====
+  * [[20347.txt|20347 - SC - Associação]]
+  * [[20375.txt|20375 - SC - Comando]]
+  * [[20386.txt|20386 - SC - Arquivo Hilário Carvalho]]
+  * [[20387.txt|20387 - SC - Iconografia]]

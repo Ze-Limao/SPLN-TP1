@@ -1,0 +1,14 @@
+====== 7995 - DC - Termo de José António Fernandes Lopes ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José António Fernandes Lopes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1865-05-21
+**UnitDateFinal**:: 1865-05-21
+**ScopeContent**:: Arrematação de alguns impostos indiretos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7995
+**LangMaterial**:: Português
+**PhysLoc**:: f. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7995

@@ -1,0 +1,21 @@
+====== 54403 - UI - Júlio de Vilhena ======
+
+**Parent**:: 46129
+**RootParent**:: 31258
+**UnitTitle**:: Júlio de Vilhena
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1881-04-30
+**UnitDateFinal**:: 1881-11-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54403
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54403
+
+===== Filhos =====
+  * [[54404.txt|54404 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[54405.txt|54405 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[54406.txt|54406 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[54407.txt|54407 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[54408.txt|54408 - DC - Envelope]]
+  * [[54409.txt|54409 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[54410.txt|54410 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[54411.txt|54411 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]

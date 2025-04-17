@@ -1,0 +1,16 @@
+====== 27983 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Manuel Tomás Pereira Pimenta de Castro ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Manuscrito com juramento de admissão à Sociedade do Raio de Manuel Tomás Pereira Pimenta de Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1862
+**ScopeContent**:: O teor do juramento de Pimenta de Castro é diferente dos restantes, limitando-se ao seguinte texto: «Juro: / Por Deus: / Combater o Despotismo / Universitário. / Que todas as vinganças que Deus destina aos perjuros caíam sobre / mim se trair este juramento.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27983
+**LangMaterial**:: Português
+**PhysLoc**:: AS 250 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27983

@@ -1,0 +1,25 @@
+====== 54532 - DC - Comissão de Viticultura da Região dos Vinhos Verdes. Serviço Central. Organização dos Serviços Central e Concelhio. Eschema do Archivo ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura da Região dos Vinhos Verdes. Serviço Central. Organização dos Serviços Central e Concelhio. Eschema do Archivo
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1927
+**UnitDateFinal**:: 1935-06
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes. Capa que contém CP 2340 a CP 2348.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54532
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2339 - cx. 100
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54532
+
+===== Filhos =====
+  * [[56882.txt|56882 - DC - Coleção de Inicio. Impressos e modelos primitivos]]
+  * [[56883.txt|56883 - DC - Comissão de Viticultura da Região dos Vinhos Verdes. Serviço Central. Relação dos Exmos Vogaes Concelhios]]
+  * [[56884.txt|56884 - DC - Comissão de Viticultura da Região dos Vinhos Verdes. Archivo especial: I. Minha sahida da Comissão Executiva II. Minha atitude posterior III. Apontamento e substituição da Comissão Executiva "Azevedo, Conto & Comp.ia"]]
+  * [[56885.txt|56885 - DC - Comissão de Viticultura. Serviço central. Serviço de Estatística. Correspondência]]
+  * [[56886.txt|56886 - DC - Índice. Comissão de Viticultura da Região dos Vinhos Verdes. Serviço central. Estudos, questões e diversos assuntos tratados]]
+  * [[56887.txt|56887 - DC - Comissão de Viticultura da Região dos Vinhos Verdes. Serviço Central. Colecção de editaes]]

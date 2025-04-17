@@ -1,0 +1,17 @@
+====== 56974 - DC - Notas ======
+
+**Parent**:: 56945
+**RootParent**:: 31258
+**UnitTitle**:: Notas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934
+**UnitDateFinal**:: 1934
+**ScopeContent**:: Notas manuscritas do 3º Visconde de Pindela. No verso ofício datilografado para Noel Dorville de António Penha e Costa. 1934-07-15.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56974
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 2738 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56974

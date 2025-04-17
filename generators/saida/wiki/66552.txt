@@ -1,0 +1,15 @@
+====== 66552 - DC - Procuração de Fortunato Cardoso Pereira, morador no campo da feira da Vila Nova de Famalicão, por ausentar-se para o Brasil, passa procuração a seu cunhado José António da Silva ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Procuração de Fortunato Cardoso Pereira, morador no campo da feira da Vila Nova de Famalicão, por ausentar-se para o Brasil, passa procuração a seu cunhado José António da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-03-04
+**UnitDateFinal**:: 1875-03-04
+**ScopeContent**:: Manuscrito, original, em papel azul “XL 40 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 572 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66552

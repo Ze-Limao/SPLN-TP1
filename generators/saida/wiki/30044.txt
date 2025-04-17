@@ -1,0 +1,14 @@
+====== 30044 - DC - Sansão Mendes Condessa ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Sansão Mendes Condessa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1960-03-24
+**UnitDateFinal**:: 1960-03-24
+**ScopeContent**:: Regedor efetivo da freguesia de Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30044
+**LangMaterial**:: Português
+**PhysLoc**:: f. 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30044

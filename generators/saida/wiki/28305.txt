@@ -1,0 +1,14 @@
+====== 28305 - SC - Adulta (1842-1876) ======
+
+**Parent**:: 27969
+**RootParent**:: 27963
+**UnitTitle**:: Adulta (1842-1876)
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1852-01
+**UnitDateFinal**:: 1865-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28305
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28305
+
+===== Filhos =====
+  * [[27970.txt|27970 - DC - Caderno de registo de despesas]]

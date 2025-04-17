@@ -1,0 +1,17 @@
+====== 55499 - DC - L´affaire Moltke/Harden ======
+
+**Parent**:: 55498
+**RootParent**:: 31258
+**UnitTitle**:: L´affaire Moltke/Harden
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-10-26
+**UnitDateFinal**:: 1907-10-26
+**ScopeContent**:: Recorte de jornal francês. Este documento está dentro do envelope CP 2484, juntamente com CP 2486 a CP 2488.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55499
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 2485 - cx. 19
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55499

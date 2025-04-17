@@ -1,0 +1,32 @@
+====== 45494 - UI - Maria da Conceição de Castro Quintela Emauz ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Maria da Conceição de Castro Quintela Emauz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-05-13
+**UnitDateFinal**:: 1907-04-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45494
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45494
+
+===== Filhos =====
+  * [[45495.txt|45495 - DC - Carta]]
+  * [[45496.txt|45496 - DC - Carta]]
+  * [[45497.txt|45497 - DC - Carta]]
+  * [[45498.txt|45498 - DC - Carta]]
+  * [[45499.txt|45499 - DC - Carta]]
+  * [[45500.txt|45500 - DC - Carta]]
+  * [[45501.txt|45501 - DC - Carta]]
+  * [[45502.txt|45502 - DC - Carta]]
+  * [[45503.txt|45503 - DC - Carta]]
+  * [[45504.txt|45504 - DC - Carta]]
+  * [[45505.txt|45505 - DC - Carta]]
+  * [[45506.txt|45506 - DC - Postal]]
+  * [[45507.txt|45507 - DC - Carta]]
+  * [[45508.txt|45508 - DC - Carta]]
+  * [[97439.txt|97439 - DC - Telegrama]]

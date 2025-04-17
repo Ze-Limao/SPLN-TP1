@@ -1,0 +1,16 @@
+====== 26160 - DC - Carta para Maria Júlia Falcão Cota de Bourbon e Menezes ======
+
+**Parent**:: 21235
+**RootParent**:: 20290
+**UnitTitle**:: Carta para Maria Júlia Falcão Cota de Bourbon e Menezes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-10-12
+**UnitDateFinal**:: 1880-10-12
+**ScopeContent**:: Carta manuscrita assinada, da Granja. A carta é também o envelope, carimbado com data 1890. Maria Júlia Falcão Cota de Bourbon e Menezes era a esposa de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26160
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 955- cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26160

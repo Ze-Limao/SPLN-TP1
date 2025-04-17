@@ -1,0 +1,16 @@
+====== 28116 - DC - 1885 Densidade dos mostos das uvas cultivadas em cepa baixa ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1885 Densidade dos mostos das uvas cultivadas em cepa baixa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-09-24
+**UnitDateFinal**:: 1885-09-25
+**ScopeContent**:: Valores de densidade do mosto de diversas castas plantadas em “cepa baixa”. Indicação das castas, valores de densidades dos mostos medidas pelo gleuco-oenometro (Gl. oen.) e pelo gleucómetro Dr. J. Guyot (Gleuc. J. G.) e temperatura do mosto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28116
+**LangMaterial**:: Português
+**PhysLoc**:: AS 389 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28116

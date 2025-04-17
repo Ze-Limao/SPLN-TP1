@@ -1,0 +1,18 @@
+====== 8883 - DC - Termo do exame de Álvaro Augusto Correia ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Álvaro Augusto Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-17
+**UnitDateFinal**:: 1894-07-17
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Manuel José Correia Marinho
+Naturalidade - Caminha
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8883
+**LangMaterial**:: Português
+**PhysLoc**:: f. 56
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8883

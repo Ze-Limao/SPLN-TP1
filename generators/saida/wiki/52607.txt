@@ -1,0 +1,18 @@
+====== 52607 - DC - Registo do recenseamento militar de António Maria de Melo ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Maria de Melo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-12-11
+Filiação - Alexandre Alberto Machado e Melo e Maria dos Prazeres Carneiro
+Naturalidade - Landim
+Profissão - Estudante
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52607
+**LangMaterial**:: Português
+**PhysLoc**:: 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52607

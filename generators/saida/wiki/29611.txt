@@ -1,0 +1,11 @@
+====== 29611 - SSR - Jantar de Reis com Presidentes de Junta ======
+
+**Parent**:: 29596
+**RootParent**:: 29618
+**UnitTitle**:: Jantar de Reis com Presidentes de Junta
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 2017-01-06
+**UnitDateFinal**:: 2017-01-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29611
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29611

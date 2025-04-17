@@ -1,0 +1,18 @@
+====== 8753 - DC - Termo do exame de José António de Azevedo ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José António de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-16
+**UnitDateFinal**:: 1891-07-16
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - António José de Azevedo
+Naturalidade - Vale S. Martinho
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8753
+**LangMaterial**:: Português
+**PhysLoc**:: f. 22
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8753

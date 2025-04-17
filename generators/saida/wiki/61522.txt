@@ -1,0 +1,17 @@
+====== 61522 - DC - Eventos do Rotary Club de Famalicão ======
+
+**Parent**:: 61195
+**RootParent**:: 60551
+**UnitTitle**:: Eventos do Rotary Club de Famalicão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1995-04-01
+**UnitDateFinal**:: 1996
+**ScopeContent**:: Fotografias de vários eventos do Rotary Club de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 268 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61522

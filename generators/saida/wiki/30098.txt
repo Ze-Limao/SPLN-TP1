@@ -1,0 +1,14 @@
+====== 30098 - DC - Joaquim Fernandes dos Santos ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Fernandes dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-09
+**UnitDateFinal**:: 1974-10-09
+**ScopeContent**:: Regedor efetivo da freguesia de Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30098
+**LangMaterial**:: Português
+**PhysLoc**:: f. 50
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30098

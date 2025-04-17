@@ -1,0 +1,17 @@
+====== 65682 - DC - Justificação de universal herdeira que fez D. Senhorinha Brás por morte de seu marido Francisco de Magalhães, da casa de Lobela (Cabeceiras de Basto) ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Justificação de universal herdeira que fez D. Senhorinha Brás por morte de seu marido Francisco de Magalhães, da casa de Lobela (Cabeceiras de Basto)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1678-05-05
+**UnitDateFinal**:: 1678-05-05
+**ScopeContent**:: Folhas cosidas, com anotações do Abade de Tagilde com o título "Nº4...". O documento estava na “Caixa 12”, que contém CP 3800 a CP 3826 embrulhados em jornais do ano 1936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3823 - cx. 28
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65682

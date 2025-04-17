@@ -1,0 +1,21 @@
+====== 28493 - DC - Donatários do Brasil, por D. João III ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Donatários do Brasil, por D. João III
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Lista de pessoas a quem D. João III instituiu donatários de capitanias no Brasil. Da lista fazem parte os nomes de João de Barros, Martim Afonso de Sousa (capitania de S. Vicente), Pedro de Campo Tourinho (capitania de Porto Seguro), Francisco Pereira Coutinho, entre outros.
+Sobre os donatários no tempo de D. João III leia-se a seguinte passagem do Norte Marítimo: «Esta capitania [Porto Seguro] foi uma das nove ou doze primitivas em que D. João III dividiu a costa do Brasil, quando tentou colonizá-lo por concessões a particulares, como dizemos hoje: a do Porto Seguro não foi das menos resistentes, nem das que empregou menos esforços: mas por fim teve de sucumbir, como as demais. Os donatários não podiam povoar tão vastos territórios nem debelar por eles sós a hostilidade dos indígenas e a ambição das nações do norte. Em todo o caso foram eles os pioneiros da civilização naquelas paragens.» O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, p. 417.
+Martim Afonso de Sousa comandou a primeira esquadra com povoadores portugueses para o Brasil, a qual terá saído de Lisboa em Novembro ou Dezembro de 1530. Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, p. 417.
+«O fidalgo vianez [Pedro de Campo Tourinho], homem hábil e valente, organizou a expedição [para o Brasil] nas melhores condições. Partindo com o sentido de criar uma nova pátria, vendeu todos os seus bens; armou uma flotilha na qual partiu Viana levando tudo consigo − família, amigos, trabalhadores e fortuna, ou como diz o cronista − «mulher e filhos e muitos moradores casados com parentes e amigos e muita outra gente».» Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, pp. 416-417.
+Referências bibliográficas: Collecção de noticias para a historia e geografia das nações ultramarinas que vivem nos domínios portugueses, tomo V, Lisboa: Academia Real das Ciências, 1826; Manuel Severim de Faria - Notícias de Portugal.
+Numa nota à margem Alberto Sampaio anotou: «Cada capitania 50 léguas da costa / Severim de Faria».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28493
+**LangMaterial**:: Português
+**PhysLoc**:: AS 83 - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28493

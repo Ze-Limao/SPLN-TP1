@@ -1,0 +1,20 @@
+====== 20452 - DC - Registo do recenseamento eleitoral de Joaquim ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Ruivães
+Filiação - Manuel José Ferreira e Teresa Maria Joaquina Monteiro
+Naturalidade - Ruivães
+Data de nascimento - 1870-03-28
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20452
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20452

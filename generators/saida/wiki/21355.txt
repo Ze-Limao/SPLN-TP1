@@ -1,0 +1,16 @@
+====== 21355 - UI - Carlos Bacelar ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Carlos Bacelar
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21355
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1268
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21355
+
+===== Filhos =====
+  * [[30132.txt|30132 - DC - Carta]]

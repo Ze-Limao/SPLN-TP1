@@ -1,0 +1,15 @@
+====== 66426 - DC - Parecer sobre os desentendimentos entre párocos e Juntas da Paróquia sobre a perceção e aplicação dos foros que se pagaram às Igrejas paroquiais…assinado José Marcelino de Sá Vargas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Parecer sobre os desentendimentos entre párocos e Juntas da Paróquia sobre a perceção e aplicação dos foros que se pagaram às Igrejas paroquiais…assinado José Marcelino de Sá Vargas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1849-02-12
+**UnitDateFinal**:: 1849-02-12
+**ScopeContent**:: Manuscrito, original, sem capa. Do Paço das Necessidades.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 478 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66426

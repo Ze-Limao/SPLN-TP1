@@ -1,0 +1,15 @@
+====== 65866 - DC - Emprazamento do casal de Nogueira, situado na freguesia de Arnoso, feito Bernardo da Silva, abade de S. Tiago de Antas, a Salvador Veloso ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Nogueira, situado na freguesia de Arnoso, feito Bernardo da Silva, abade de S. Tiago de Antas, a Salvador Veloso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1595
+**UnitDateFinal**:: 1597
+**ScopeContent**:: Manuscrito, original. No canto superior esquerdo "N.14".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 629 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65866

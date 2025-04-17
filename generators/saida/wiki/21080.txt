@@ -1,0 +1,19 @@
+====== 21080 - UI - Aires Borges ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Aires Borges
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-02-14
+**UnitDateFinal**:: 1916-05-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21080
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 305, 306, 1241
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21080
+
+===== Filhos =====
+  * [[24872.txt|24872 - DC - Carta]]
+  * [[24873.txt|24873 - DC - Carta]]
+  * [[29832.txt|29832 - DC - Carta]]

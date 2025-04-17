@@ -1,0 +1,17 @@
+====== 61824 - DC - 11ª Conferência do Distrito 1970 Rotary e a Nova Europa Esposende ======
+
+**Parent**:: 61783
+**RootParent**:: 60551
+**UnitTitle**:: 11ª Conferência do Distrito 1970 Rotary e a Nova Europa Esposende
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1994-05-15
+**UnitDateFinal**:: 1994-05-15
+**ScopeContent**:: Placa de secretária em forma de barco.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 494 - cx. 12
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61824

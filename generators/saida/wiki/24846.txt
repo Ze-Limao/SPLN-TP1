@@ -1,0 +1,16 @@
+====== 24846 - DC - Carta ======
+
+**Parent**:: 21077
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-06-17
+**UnitDateFinal**:: 1921-06-17
+**ScopeContent**:: Agradece a cópia da carta de Camilo e brevemente irá publicá-la. Carta manuscrita assinada. Papel timbrado do Diário de Notícias - Direcção. Tem tarjeta de luto sobre o timbre.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24846
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 279 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24846

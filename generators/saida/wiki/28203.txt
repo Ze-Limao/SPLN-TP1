@@ -1,0 +1,16 @@
+====== 28203 - DC - Despesa com a continuação da vinha - Cavagem e plantação ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Despesa com a continuação da vinha - Cavagem e plantação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-10
+**UnitDateFinal**:: 1869-10
+**ScopeContent**:: Despesas com mão-de-obra (jornaleiros e pedreiros), transporte de pedra, vides, adubo, aterro e empreitada. No verso apresenta um texto impresso, em francês.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28203
+**LangMaterial**:: Português
+**PhysLoc**:: AS 475 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28203

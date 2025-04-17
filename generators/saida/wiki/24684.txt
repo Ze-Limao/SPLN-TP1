@@ -1,0 +1,16 @@
+====== 24684 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-11-08
+**UnitDateFinal**:: 1905-11-08
+**ScopeContent**:: António Ferraz envia os elementos para a preparação da minuta do requerimento e comentários à documentação que envia para apoio da sua pretensão. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24684
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 186 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24684

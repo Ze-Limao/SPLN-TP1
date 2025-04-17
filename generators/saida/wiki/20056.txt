@@ -1,0 +1,15 @@
+====== 20056 - SSC - Receitas e despesas ======
+
+**Parent**:: 20049
+**RootParent**:: 20048
+**UnitTitle**:: Receitas e despesas
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1899-02-06
+**UnitDateFinal**:: 1919-06-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20056
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20056
+
+===== Filhos =====
+  * [[20061.txt|20061 - SR - Receitas e despesas]]

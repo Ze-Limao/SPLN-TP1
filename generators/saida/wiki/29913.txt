@@ -1,0 +1,16 @@
+====== 29913 - DC - In Dei nomine ======
+
+**Parent**:: 28627
+**RootParent**:: 27963
+**UnitTitle**:: In Dei nomine
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Testamento do rei D. Sancho I com menção à entrega de Vila do Conde a sua filha menor. No verso Alberto Sampaio anotou: «Para a 7.ª secção (Vª do Conde)».Este documento, também transcrito pelo Abade de Tagilde, diz respeito ao primeiro testamento do rei D. Sancho I, o qual acabou por ficar sem efeito, de acordo com o teor da nota 1, inserida na página 328. Foi transcrito a partir da obra de J. Pedro Ribeiro, Diss., Cr. e Crit. , Tomo III, part. II, pág. 116.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29913
+**LangMaterial**:: Português
+**PhysLoc**:: AS 114 (10) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29913

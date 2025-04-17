@@ -1,0 +1,17 @@
+====== 54062 - DC - Mostruário de materiais aplicados no mobiliário “Foc” da empresa Regisconta ======
+
+**Parent**:: 53751
+**RootParent**:: 25851
+**UnitTitle**:: Mostruário de materiais aplicados no mobiliário “Foc” da empresa Regisconta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1960
+**UnitDateFinal**:: 1965
+**ScopeContent**:: Contém amostras de materiais de chapas aplicadas nos móveis com cores coladas em papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54062
+**LangMaterial**:: Português
+**PhysLoc**:: JG 183 - cx. 14
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54062

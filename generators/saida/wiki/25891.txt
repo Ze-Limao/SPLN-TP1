@@ -1,0 +1,15 @@
+====== 25891 - DC - Casa-escola antes das obras feitas pot Hilário Carvalho ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Casa-escola antes das obras feitas pot Hilário Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25891
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25891

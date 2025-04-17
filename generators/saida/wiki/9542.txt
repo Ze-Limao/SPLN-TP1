@@ -1,0 +1,19 @@
+====== 9542 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Carvalho de Araújo e Albertina das Dores Ferreira
+Naturalidade - Antas
+Data de nascimento - 1877-07-23
+Profissão - 
+Estado civil - 
+Residência - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9542
+**LangMaterial**:: Português
+**PhysLoc**:: f. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9542

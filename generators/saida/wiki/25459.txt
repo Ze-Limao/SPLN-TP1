@@ -1,0 +1,16 @@
+====== 25459 - DC - Jornal de Riba d´Ave ======
+
+**Parent**:: 25080
+**RootParent**:: 20342
+**UnitTitle**:: Jornal de Riba d´Ave
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-10-15
+**UnitDateFinal**:: 1966-10-15
+**ScopeContent**:: Ano X, nº488. Artigos sobre as comemorações das Bodas de Diamante dos bombeiros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25459
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 178 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25459

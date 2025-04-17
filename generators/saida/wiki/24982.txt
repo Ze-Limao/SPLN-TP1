@@ -1,0 +1,17 @@
+====== 24982 - UI - Livro de Actas da Assembleia Geral do Corpo Activo dos B.V.F. ======
+
+**Parent**:: 20397
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Actas da Assembleia Geral do Corpo Activo dos B.V.F.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-07-17
+**UnitDateFinal**:: 1896-02-13
+**ScopeContent**:: Transcrição Ata da sessão da assembleia geral dos sócios ativos da Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão, para a discussão do regulamento do corpo ativo apresentado pelo primeiro comandante em 1890-07-18.
+«Aos dezoito de Julho de mil novecentos e noventa, nesta Vila Nova de Famalicão e Quartel da Associação Humanitária dos Bombeiros Voluntários, da mesma, tendo comparecido o primeiro Comandante e na qualidade de Presidente desta Assembleia Geral, declarou que a mesma tinha sido convocada para discutir e aprovar o regulamento, pelo qual tinha de reger-se o corpo activo; e procedeu-se à chamada, verificou-se acharem-se presentes dezasseis sócios que constituem a maioria absoluta dos vinte e cinco que compõem o corpo, fez-se, então, a escolha dos secretários, tendo esta recaído por unanimidade nos sócios Manuel Carlos da Silva Monteiro e António de Alpoim Fortunato, aquele para primeiro e este para segundo. Pelo primeiro secretário foi lido o regulamento apresentado pelo comandante e posto este à discussão, e ninguém tendo pedido a palavra para apresentar qualquer alteração, foi posto a votação, e aprovado por unanimidade, como se vê da nota lançada no referido regulamento e legalmente assinada por todos os sócios presentes. […]
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24982
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 86
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24982

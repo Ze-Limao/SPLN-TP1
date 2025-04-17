@@ -1,0 +1,18 @@
+====== 8720 - DC - Termo do exame de António da Costa Covas Garcia ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António da Costa Covas Garcia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-22
+**UnitDateFinal**:: 1890-08-22
+**ScopeContent**:: Grau - Complementar
+Idade - 13
+Filiação - Maria da Graça
+Naturalidade - Porto
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8720
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8720

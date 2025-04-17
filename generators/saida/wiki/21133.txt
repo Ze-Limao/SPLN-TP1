@@ -1,0 +1,20 @@
+====== 21133 - UI - Henrique de Campos Ferreira de Lima ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Henrique de Campos Ferreira de Lima
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-07-08
+**UnitDateFinal**:: 1924-07-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21133
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 468, 469, 470
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21133
+
+===== Filhos =====
+  * [[25513.txt|25513 - DC - Carta]]
+  * [[25514.txt|25514 - DC - Carta]]
+  * [[25515.txt|25515 - DC - Carta]]
+  * [[25524.txt|25524 - DC - Carta]]

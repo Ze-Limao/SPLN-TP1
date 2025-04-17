@@ -1,0 +1,20 @@
+====== 7705 - UI - Livro de Notas Nº 18 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 18
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1946-12-24
+**UnitDateFinal**:: 1947-06-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7705
+**LangMaterial**:: Português
+**PhysLoc**:: 1.53
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7705
+
+===== Filhos =====
+  * [[21013.txt|21013 - DC - Contrato de adjudicação]]
+  * [[21014.txt|21014 - DC - Contrato de compra e venda]]
+  * [[21015.txt|21015 - DC - Contrato de concessão à Cooperativa Elétrica de S. Simão de Novais]]
+  * [[21016.txt|21016 - DC - Contrato de adjudicação]]
+  * [[21017.txt|21017 - DC - Contrato de adjudicação]]

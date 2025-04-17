@@ -1,0 +1,16 @@
+====== 61405 - DC - Descida ou trambolhão ======
+
+**Parent**:: 60930
+**RootParent**:: 60550
+**UnitTitle**:: Descida ou trambolhão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-10-28
+**UnitDateFinal**:: 1924-10-28
+**ScopeContent**:: Caricatura, no jornal Epoca
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 185 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61405

@@ -1,0 +1,18 @@
+====== 64129 - DC - Diploma Mérito Municipal de Benemerência ao Rotary Club de V.N. Famalicão pela Câmara Municipal de V.N. Famalicão ======
+
+**Parent**:: 61783
+**RootParent**:: 60551
+**UnitTitle**:: Diploma Mérito Municipal de Benemerência ao Rotary Club de V.N. Famalicão pela Câmara Municipal de V.N. Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2023
+**UnitDateFinal**:: 2023
+**ScopeContent**:: Lata com carta do presidente da Câmara Municipal de Famalicão a comunicar ter sido deliberado e aprovado pelo seu executivo, em reunião de 22 de junho de 2023, a proposta de condecoração do clube com a medalha de Mérito Municipal de Benemerência.
+A mesma lata contém também um diploma a certificar a atribuição da condecoração.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 539 - cx. 19
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64129

@@ -1,0 +1,16 @@
+====== 26094 - DC - Cartão ======
+
+**Parent**:: 21224
+**RootParent**:: 20290
+**UnitTitle**:: Cartão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926-03-06
+**UnitDateFinal**:: 1926-03-06
+**ScopeContent**:: Cartão manuscrito assinado, de Ronfe.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26094
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 888 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26094

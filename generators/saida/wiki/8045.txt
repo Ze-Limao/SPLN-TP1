@@ -1,0 +1,16 @@
+====== 8045 - DC - Termo de José dos Santos Andrade ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José dos Santos Andrade
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-01-03
+**UnitDateFinal**:: 1877-01-03
+**ScopeContent**:: Declaração para seu filho Manuel ser considerado cidadão brasileiro
+Nacionalidade - Brasileira
+Morada - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8045
+**LangMaterial**:: Português
+**PhysLoc**:: f. 16
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8045

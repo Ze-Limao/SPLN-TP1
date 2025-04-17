@@ -1,0 +1,18 @@
+====== 8144 - DC - Joaquim Alves Pinto ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Alves Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-11
+**UnitDateFinal**:: 1890-10-08
+**ScopeContent**:: Escola - Arnoso Santa Maria
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Jesufrei
+Data de posse - 1887-02-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8144
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8144

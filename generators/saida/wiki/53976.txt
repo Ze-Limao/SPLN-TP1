@@ -1,0 +1,16 @@
+====== 53976 - DC - Ambulância Mercedes GN 22-50 na inauguração do novo quartel ======
+
+**Parent**:: 25319
+**RootParent**:: 20342
+**UnitTitle**:: Ambulância Mercedes GN 22-50 na inauguração do novo quartel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-09-28
+**UnitDateFinal**:: 1966-09-28
+**ScopeContent**:: 3 ângulos da Ambulância Mercedes GN 22-59
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53976
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 188 - cx. 52
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53976

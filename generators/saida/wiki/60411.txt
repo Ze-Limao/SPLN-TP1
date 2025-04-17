@@ -1,0 +1,17 @@
+====== 60411 - DC - Venda de Margarida Carolina de Castro Sousa e Meneses a Manuel Moreira Lopes ======
+
+**Parent**:: 31395
+**RootParent**:: 31258
+**UnitTitle**:: Venda de Margarida Carolina de Castro Sousa e Meneses a Manuel Moreira Lopes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1848-06-05
+**UnitDateFinal**:: 1848-06-05
+**ScopeContent**:: Manuscrito em papel azul timbrado "Thesouro publico 40 reis", com folhas cosidas. Este documento estava na “Caixa 5”, que contém CP 13017 a CP 13107. Margarida Carolina de Castro Sousa e Meneses era de Melgaço e Manuel Moreira Lopes de Guimarães, tio de Eulália Estelita e Ana Elvira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54474
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13026 - cx. 84
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60411

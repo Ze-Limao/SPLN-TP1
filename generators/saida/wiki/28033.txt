@@ -1,0 +1,41 @@
+====== 28033 - SSR - José da Cunha Sampaio ======
+
+**Parent**:: 28023
+**RootParent**:: 27963
+**UnitTitle**:: José da Cunha Sampaio
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1863
+**UnitDateFinal**:: 1867-07-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28033
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28033
+
+===== Filhos =====
+  * [[28034.txt|28034 - DC - Carta de Alberto Sampaio]]
+  * [[28035.txt|28035 - DC - Carta de Alberto Sampaio]]
+  * [[28036.txt|28036 - DC - Carta de Alberto Sampaio]]
+  * [[28037.txt|28037 - DC - Carta de Alberto Sampaio]]
+  * [[28038.txt|28038 - DC - Carta de Alberto Sampaio]]
+  * [[28039.txt|28039 - DC - Carta de Alberto Sampaio]]
+  * [[28040.txt|28040 - DC - Carta de Alberto Sampaio]]
+  * [[28041.txt|28041 - DC - Carta de Alberto Sampaio]]
+  * [[28042.txt|28042 - DC - Carta de Alberto Sampaio]]
+  * [[28043.txt|28043 - DC - Carta de Alberto Sampaio]]
+  * [[28044.txt|28044 - DC - Carta de Alberto Sampaio]]
+  * [[28045.txt|28045 - DC - Carta de Alberto Sampaio]]
+  * [[28046.txt|28046 - DC - Carta de Alberto Sampaio]]
+  * [[28047.txt|28047 - DC - Carta de Alberto Sampaio]]
+  * [[28048.txt|28048 - DC - Carta de Alberto Sampaio]]
+  * [[28049.txt|28049 - DC - Carta de Alberto Sampaio]]
+  * [[28050.txt|28050 - DC - Carta de Alberto Sampaio]]
+  * [[28051.txt|28051 - DC - Carta de Alberto Sampaio]]
+  * [[28052.txt|28052 - DC - Carta de Alberto Sampaio]]
+  * [[28053.txt|28053 - DC - Carta de Alberto Sampaio]]
+  * [[28054.txt|28054 - DC - Carta de Alberto Sampaio]]
+  * [[28055.txt|28055 - DC - Carta de Alberto Sampaio]]
+  * [[28056.txt|28056 - DC - Carta de Alberto Sampaio]]
+  * [[28057.txt|28057 - DC - Carta de Alberto Sampaio]]
+  * [[28058.txt|28058 - DC - Carta de Alberto Sampaio]]
+  * [[28059.txt|28059 - DC - Carta de Alberto Sampaio]]
+  * [[28060.txt|28060 - DC - Carta de Alberto Sampaio]]
+  * [[28061.txt|28061 - DC - Carta de Alberto Sampaio]]

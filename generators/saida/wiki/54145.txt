@@ -1,0 +1,17 @@
+====== 54145 - DC - Proposta de Fonseca e Seabra para instalação de aquecimento central no novo edifício dos Paços do Concelho ======
+
+**Parent**:: 54176
+**RootParent**:: 25851
+**UnitTitle**:: Proposta de Fonseca e Seabra para instalação de aquecimento central no novo edifício dos Paços do Concelho
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1958-03-21
+**UnitDateFinal**:: 1958-04-25
+**ScopeContent**:: Processo continua no 173(14) e (16). Memória descritiva e folhetos publicitários, cópia de desenhos de convectores móveis e caldeira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54145
+**LangMaterial**:: Português
+**PhysLoc**:: JG 173(15) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54145

@@ -1,0 +1,22 @@
+====== 20371 - SSC - Quartel 1966 ======
+
+**Parent**:: 20347
+**RootParent**:: 20342
+**UnitTitle**:: Quartel 1966
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1959
+**UnitDateFinal**:: 1968-02-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20371
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20371
+
+===== Filhos =====
+  * [[25030.txt|25030 - UI - Projecto do novo Quartel de Bombeiros Voluntários de Famalicão]]
+  * [[25031.txt|25031 - UI - Projecto para novo Quartel de Bombeiros Voluntários de Famalicão do engenheiro civil Pinheiro Braga (reprovado)]]
+  * [[25032.txt|25032 - UI - Anteprojecto para novo Quartel de Bombeiros Voluntários de Famalicão do arquiteto Casais Rodrigues (reprovado)]]
+  * [[25033.txt|25033 - UI - Processo Obra Construção do Quartel de Bombeiros Voluntários de Famalicão]]
+  * [[25034.txt|25034 - UI - Processo Obra Construção do Quartel de Bombeiros Voluntários de Famalicão]]
+  * [[25035.txt|25035 - UI - Peditório para a construção do novo quartel 1961 a 1967]]
+  * [[25036.txt|25036 - UI - Livro de Ouro Bombeiros Voluntários de Famalicão: Construção do Novo Quartel]]

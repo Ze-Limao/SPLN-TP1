@@ -1,0 +1,15 @@
+====== 99348 - UI - Luís M. de Queirós Júnior ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Luís M. de Queirós Júnior
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-07-03
+**UnitDateFinal**:: 1915-07-03
+**ScopeContent**:: Amarante.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99348
+
+===== Filhos =====
+  * [[99349.txt|99349 - DC - Ofício]]

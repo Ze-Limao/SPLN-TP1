@@ -1,0 +1,21 @@
+====== 25823 - DC - Discurso de Hilário de Carvalho proferido no quartel na Rua Adriano Pinto Basto quando da retirada do mesmo ======
+
+**Parent**:: 24753
+**RootParent**:: 20342
+**UnitTitle**:: Discurso de Hilário de Carvalho proferido no quartel na Rua Adriano Pinto Basto quando da retirada do mesmo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-09-07
+**UnitDateFinal**:: 1958-09-07
+**ScopeContent**:: Transcrição:
+«Senhores
+Vamos deixar esta casa para onde os nossos antepassados - em 1900 - há portanto 58 anos - a transferiram do Campo da Feira e onde a fundaram em 1890. Vamos dar um passo memorável nos anais da nossa associação e que a vai colocar sem discussão como a primeira da nossa terra e, se a vontade não faltar, a melhor instalada no País. Queremos antes de deixar este edifício onde tantos já passaram e onde todos vós fizestes a vossa inscrição como voluntários, assinalar esta data com motivos que digam aos vindouros que foi a nossa vontade, o nosso querer e a ânsia de tornar invejada a nossa corporação que permitiu a realização deste sonho da construção dum novo quartel que dentro em pouco vamos tornar uma realidade. / […] Vamos ainda prestar a última continência à nossa bandeira defronte deste edifício que muitas saudades nos deixa e que tantas glórias nos trouxe pelas mãos dos comandantes briosos uns, menos amantes outros, que esta associação serviram. / E para recordar, para que eles estejam presentes aqui connosco nesta hora de alegria e saudade, peço-vos respondam PRESENTE, a cada nome que vou pronunciar: 
+Francisco Maria de Oliveira e Silva, Higino Veloso de Macedo, António, Augusto Fiúza de Melo, Álvaro Carneiro Bezerra, Capitão Manuel Rodrigues de Carvalho, Tenente Lauro de Barros Lima, Tenente Armando Lopes, António Folhadela de Melo […]
+Houve muitas lágrimas nesta cerimónia. Havia bastante gente no quartel e todo… TODO o corpo ativo estava em formatura. Há fotos dela."
+Fonte: «Notícias de Famalicão» de 12 de Setembro de 1958.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25823
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 12  - cx. 3
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25823

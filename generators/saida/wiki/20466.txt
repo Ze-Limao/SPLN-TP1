@@ -1,0 +1,20 @@
+====== 20466 - DC - Registo do recenseamento militar de Carlos ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Carlos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Ribeirão
+Filiação - Manuel António Joaquim dos Santos e Joaquina Maria da Costa
+Naturalidade - Ribeirão
+Data de nascimento - 1869-01-16
+Emprego - Estudante
+Estado - Solteiro
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20466
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20466

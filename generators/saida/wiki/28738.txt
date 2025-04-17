@@ -1,0 +1,16 @@
+====== 28738 - DC - Carta ======
+
+**Parent**:: 28736
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-06-07
+**UnitDateFinal**:: 1907-06-07
+**ScopeContent**:: Carta expedida do Porto. Anexo o rascunho da carta enviada por Alberto Sampaio sem data (AS 594).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28738
+**LangMaterial**:: Português
+**PhysLoc**:: AS 593 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28738

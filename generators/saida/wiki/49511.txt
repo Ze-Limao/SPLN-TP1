@@ -1,0 +1,18 @@
+====== 49511 - DC - Registo do recenseamento eleitoral de Joaquim de Freitas ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim de Freitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vermoim
+Profissão - Ferreiro
+Estado - Casado
+Morada - Agra Maior
+Idade - 55
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49511
+**LangMaterial**:: Português
+**PhysLoc**:: 87v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49511

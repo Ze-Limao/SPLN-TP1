@@ -1,0 +1,15 @@
+====== 20973 - DC - Nº 20/961 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 20/961
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-09-06
+**UnitDateFinal**:: 1961-09-06
+**ScopeContent**:: Contrato para o fornecimento de mobiliário destinado às casas para os magistrados judiciais
+Outorgante - Joaquim Ribeiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20973
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20973

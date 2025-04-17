@@ -1,0 +1,15 @@
+====== 25027 - UI - Registos de propriedade, escrituras, diploma de licenças, registos de empréstimo, hipotecas, certidão de escritura de compra e venda, contribuição predial ======
+
+**Parent**:: 20367
+**RootParent**:: 20342
+**UnitTitle**:: Registos de propriedade, escrituras, diploma de licenças, registos de empréstimo, hipotecas, certidão de escritura de compra e venda, contribuição predial
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-06-12
+**UnitDateFinal**:: 1959-07-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25027
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 129 - cx. 32
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25027

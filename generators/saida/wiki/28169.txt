@@ -1,0 +1,16 @@
+====== 28169 - DC - Uvas de mesa ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Uvas de mesa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-10-02
+**UnitDateFinal**:: 1899-02-14
+**ScopeContent**:: Identificação das castas de uvas de mesa, proveniências e locais de plantação em Boamense.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28169
+**LangMaterial**:: Português
+**PhysLoc**:: AS 441- - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28169

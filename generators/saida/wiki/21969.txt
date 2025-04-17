@@ -1,0 +1,16 @@
+====== 21969 - DC - Carta ======
+
+**Parent**:: 21121
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-02-15
+**UnitDateFinal**:: 1916-02-15
+**ScopeContent**:: Envia um nº do jornal República que tem uma entrevista de um pastor protestante Eduardo Moreira em que este pretende fazer passar Camilo Castelo Branco por protestante. Refere que não é difícil extrair passagens de textos camilianos menos ortodoxas e invocar a religião protestante. Acredita que ele não foi protestante mas cético. Remete para as autoridades sobre o pensamento religioso de Camilo - Padre Sena Freitas e a JAM. Solicita com urgência a JAM um artigo que repudie esta opinião para ser publicado no República. Carta manuscrita, Porto, rua Faria Guimarães, 168.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21969
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 435 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21969

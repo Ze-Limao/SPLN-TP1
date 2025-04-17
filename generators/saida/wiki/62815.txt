@@ -1,0 +1,19 @@
+====== 62815 - DC - Registo do recenseamento militar de Júlio ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Júlio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Joaquim Moreira e Ana Simões, em Seide S. Paio
+Naturalidade - Vale S. Cosme
+Morada - Ignora-se
+Data de nascimento - 1863-10-06
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62815

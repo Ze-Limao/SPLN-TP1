@@ -1,0 +1,17 @@
+====== 98851 - DC - Autos civeis contra Mariana Gomes Veloso da fregª de Mouquim ======
+
+**Parent**:: 54470
+**RootParent**:: 31258
+**UnitTitle**:: Autos civeis contra Mariana Gomes Veloso da fregª de Mouquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1736-05-25
+**UnitDateFinal**:: 1736-05-25
+**ScopeContent**:: Manuscrito com folhas cosidas na "Pasta nº 5 Cazal 27 A". Este documento estava  na “Caixa 5”, que contém CP 13017 a CP 13107. Junto com CP 13010(1) e (3).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13017(2) - cx. 84
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98851

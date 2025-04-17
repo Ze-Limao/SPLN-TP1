@@ -1,0 +1,22 @@
+====== 28430 - DC - Notas várias ======
+
+**Parent**:: 28381
+**RootParent**:: 27963
+**UnitTitle**:: Notas várias
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1884
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28430
+**LangMaterial**:: Português
+**PhysLoc**:: AS 63 (1) a 63 (6)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28430
+
+===== Filhos =====
+  * [[28431.txt|28431 - DC - Capa que contém as notas]]
+  * [[29873.txt|29873 - DC - Docum. do Tom. III da Monarch. Lusit]]
+  * [[29874.txt|29874 - DC - Para a história agrícola do Minho]]
+  * [[29875.txt|29875 - DC - Sobre a cultura forraginosa]]
+  * [[29876.txt|29876 - DC - ...bens de terras sesmarias]]
+  * [[29877.txt|29877 - DC - Leis antigas referentes à agricultura]]

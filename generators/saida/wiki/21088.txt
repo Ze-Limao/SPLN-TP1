@@ -1,0 +1,18 @@
+====== 21088 - UI - Anselmo Bramcamp Freire ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Anselmo Bramcamp Freire
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-10-03
+**UnitDateFinal**:: 1921-05-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21088
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 325, 326
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21088
+
+===== Filhos =====
+  * [[24890.txt|24890 - DC - Carta]]
+  * [[24891.txt|24891 - DC - Carta]]

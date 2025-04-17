@@ -1,0 +1,15 @@
+====== 56745 - UI - Vicente Miguel de Paula Pinheiro de Melo ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Vicente Miguel de Paula Pinheiro de Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56745
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56745
+
+===== Filhos =====
+  * [[56746.txt|56746 - DC - Carta]]
+  * [[56747.txt|56747 - DC - Carta]]

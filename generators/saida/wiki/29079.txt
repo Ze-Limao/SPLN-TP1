@@ -1,0 +1,16 @@
+====== 29079 - DC - Ofício ======
+
+**Parent**:: 29075
+**RootParent**:: 27963
+**UnitTitle**:: Ofício
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-03-31
+**UnitDateFinal**:: 1876-03-31
+**ScopeContent**:: Ofício expedido de Paris. No verso a direção, selos e carimbos do correio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29079
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 680 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29079

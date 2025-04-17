@@ -1,0 +1,17 @@
+====== 56825 - DC - Casa de Pindela: ementa ======
+
+**Parent**:: 54529
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Pindela: ementa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-11-27
+**UnitDateFinal**:: 1922-11-27
+**ScopeContent**:: Ementa impressa em papel com brasão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56825
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8577 - cx. 53
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56825

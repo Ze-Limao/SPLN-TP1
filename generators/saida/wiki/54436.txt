@@ -1,0 +1,14 @@
+====== 54436 - UI - Miguel Aleixo António do Carmo de Noronha ======
+
+**Parent**:: 31323
+**RootParent**:: 31258
+**UnitTitle**:: Miguel Aleixo António do Carmo de Noronha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885-12-14
+**UnitDateFinal**:: 1885-12-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54436
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54436
+
+===== Filhos =====
+  * [[54437.txt|54437 - DC - Carta]]

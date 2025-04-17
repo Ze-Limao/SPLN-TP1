@@ -1,0 +1,16 @@
+====== 23081 - DC - Carta ======
+
+**Parent**:: 20334
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-03-20
+**UnitDateFinal**:: 1916-03-20
+**ScopeContent**:: Afonso de Azevedo Nunes Branco comunica que já não necessita de informação sobre o Tomás da Brasileira (apareceu citado numa carta de Ana Plácido a Manuel de Ascenção Espinho nos finais de 1885 alusão ao senhor que tinha tido uma luta com Jorge Castelo Branco) porque o folheto já saiu (saiu à venda com a Estrela do Minho a 19 março 1916). Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23081
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 6 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23081

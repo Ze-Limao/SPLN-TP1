@@ -1,0 +1,15 @@
+====== 97693 - UI - Processo nº 525-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 525-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-12-03
+**UnitDateFinal**:: 1971-11-30
+**ScopeContent**:: Junto com Autos de Transgressão nº 526.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 438- cx. 27
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97693

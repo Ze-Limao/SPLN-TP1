@@ -1,0 +1,18 @@
+====== 24765 - UI - Correspondência recebida/expedida ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-10-23
+**UnitDateFinal**:: 1973-10-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24765
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 24 - cx. 6
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24765
+
+===== Filhos =====
+  * [[25836.txt|25836 - DC - Ofício da Associação Humanitária dos Bombeiros à Companhia Agrícola e Comercial dos Vinhos do Porto Ferreirinha]]

@@ -1,0 +1,17 @@
+====== 60778 - DC - Livro 1º Tombo do Concelho de Landim ======
+
+**Parent**:: 60775
+**RootParent**:: 60537
+**UnitTitle**:: Livro 1º Tombo do Concelho de Landim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1790-07-07
+**UnitDateFinal**:: 1804-12-06
+**ScopeContent**:: Livro manuscrito muito deteriorado com capas de couro também danificadas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60776
+**LangMaterial**:: Português
+**PhysLoc**:: CCL 3 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60778

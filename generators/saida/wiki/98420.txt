@@ -1,0 +1,18 @@
+====== 98420 - DC - Carta ======
+
+**Parent**:: 98896
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1703-07-02
+**UnitDateFinal**:: 1703-07-02
+**ScopeContent**:: Manuscrito. Transcrição da carta:
+"meu amigo Estimo m.to q v.m esteja cô melhora, e lhe va sabendo melhor o comer, meu irmão tãobem não deve andar bõ, porq me diz anda tal, q iuda não poderá àr ver a v.m. Bote vm. a milancolia co a sua onça q sahnio a seu favor 3º frª e ja se pode chamar S.or de Arnozo, pode v.m. dar lá a nova a Pº Lopes, q cuidava nos faria grande servir! aceitando doze m1l cruzados de concerto, agonem des reis lhe devemos, tudo Deus fez pelo melhor, M.el de Vasconcelos dirá belezas, e diz mas cõ isso se ficará, e v.m. cõ Arnozo tãobem no mesmo dia sahio a onça da Ley viria são sem e mi e desembr.gos com q teve boas novas no mesmo dia, o ponto está qu tenha v.m. saude que he o ponte q este neg.cio de Arnozo era só o que podia dar cuidado, suposto o catarro que tive este hade arfar mas de esperanças de melhora parecia e não tem Deus a v.m. Lx 2 Julho de 1703."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54262
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12949 - cx. 80
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98420

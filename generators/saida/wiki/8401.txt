@@ -1,0 +1,16 @@
+====== 8401 - UI - António Gonçalves Santos ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: António Gonçalves Santos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-11
+**UnitDateFinal**:: 1895-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8401
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.45
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8401
+
+===== Filhos =====
+  * [[8402.txt|8402 - DC - Carta]]

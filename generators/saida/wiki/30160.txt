@@ -1,0 +1,16 @@
+====== 30160 - DC - Cartão ======
+
+**Parent**:: 21364
+**RootParent**:: 20290
+**UnitTitle**:: Cartão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-08-28
+**UnitDateFinal**:: 1918-08-28
+**ScopeContent**:: Cartão manuscrito e assinado, de Braga. Cartão timbrado "Casa de Mesão Frio - Ronfe - Guimarães".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30160
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1307 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30160

@@ -1,0 +1,21 @@
+====== 29344 - DC - [Receitas] ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: [Receitas]
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1909-03-19
+**ScopeContent**:: Os 3 documentos encontravam-se presos por um alfinete.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29344
+**LangMaterial**:: Português
+**PhysLoc**:: AS 239 (1) a 239 (3) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29344
+
+===== Filhos =====
+  * [[29346.txt|29346 - DC - 1º Acido phenico]]
+  * [[29347.txt|29347 - DC - 2º Pomada de precipitado branco]]
+  * [[29348.txt|29348 - DC - Aplicar primeiro a fórmula nº1]]

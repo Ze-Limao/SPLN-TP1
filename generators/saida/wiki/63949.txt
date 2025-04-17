@@ -1,0 +1,14 @@
+====== 63949 - SR - Confraria de S. Tiago de Antas ======
+
+**Parent**:: 60536
+**RootParent**:: 60536
+**UnitTitle**:: Confraria de S. Tiago de Antas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1701
+**UnitDateFinal**:: 1739
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60704
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63949
+
+===== Filhos =====
+  * [[63950.txt|63950 - UI - Livro da Confraria da freguesia de S. Tiago de Antas, dos anos de 1701-1738]]

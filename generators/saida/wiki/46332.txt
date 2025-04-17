@@ -1,0 +1,18 @@
+====== 46332 - DC - Registo do recenseamento eleitoral de Francisco Bernardo da Rocha ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Bernardo da Rocha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Lavrador
+Estado - Casado
+Morada - Cachada
+Idade - 48
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46332
+**LangMaterial**:: Português
+**PhysLoc**:: 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46332

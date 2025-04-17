@@ -1,0 +1,17 @@
+====== 21386 - UI - Ernesto Velho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Ernesto Velho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1927-06-25
+**UnitDateFinal**:: 1928-04-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21386
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1347, 1348
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21386
+
+===== Filhos =====
+  * [[30215.txt|30215 - DC - Carta]]
+  * [[30216.txt|30216 - DC - Carta]]

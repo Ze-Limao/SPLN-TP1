@@ -1,0 +1,15 @@
+====== 64104 - DC - Rol da desobriga da  freguesia de S. Tiago de Antas ======
+
+**Parent**:: 64091
+**RootParent**:: 60536
+**UnitTitle**:: Rol da desobriga da  freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-04-27
+**UnitDateFinal**:: 1892-04-27
+**ScopeContent**:: Manuscrito, original. Caderno impresso, na primeira folha "Arcebispado de Braga. Arciprestado de Vila Nova de Famalicão. Cadastro ou rol de Desobriga da freguesia de S. Tiago de Antas. Impresso em Braga na Tipografia Lusitana.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 274 - cx. 14
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64104

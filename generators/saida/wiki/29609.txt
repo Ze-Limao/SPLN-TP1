@@ -1,0 +1,11 @@
+====== 29609 - SSR - Cantar dos Reis do Grupo dos Amigos das Concertinas do Monte de Santo André ======
+
+**Parent**:: 29596
+**RootParent**:: 29618
+**UnitTitle**:: Cantar dos Reis do Grupo dos Amigos das Concertinas do Monte de Santo André
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 2017-01-07
+**UnitDateFinal**:: 2017-01-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29609
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29609

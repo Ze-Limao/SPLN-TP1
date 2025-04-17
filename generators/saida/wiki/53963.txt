@@ -1,0 +1,17 @@
+====== 53963 - DC - Ofício dirigido ao Presidente da Câmara Municipal de Vila Nova de Famalicão de Joaquim de Sousa sobre a proposta do empreiteiro de celebração do 1º Contrato Adicional ======
+
+**Parent**:: 53954
+**RootParent**:: 25851
+**UnitTitle**:: Ofício dirigido ao Presidente da Câmara Municipal de Vila Nova de Famalicão de Joaquim de Sousa sobre a proposta do empreiteiro de celebração do 1º Contrato Adicional
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-04-15
+**UnitDateFinal**:: 1961-05-09
+**ScopeContent**:: Original. Assinado pelo empreiteiro Joaquim de Sousa, com despacho 9-05-1961.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53963
+**LangMaterial**:: Português
+**PhysLoc**:: JG 152(9) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53963

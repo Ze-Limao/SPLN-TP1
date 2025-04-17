@@ -1,0 +1,16 @@
+====== 29541 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-12-26
+**UnitDateFinal**:: 1890-12-26
+**ScopeContent**:: Carta expedida de Lisboa, R. da Fé,12.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29541
+**LangMaterial**:: Português
+**PhysLoc**:: AS 782 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29541

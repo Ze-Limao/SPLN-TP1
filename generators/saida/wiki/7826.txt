@@ -1,0 +1,14 @@
+====== 7826 - SC - Serviços Financeiros ======
+
+**Parent**:: 7651
+**RootParent**:: 7651
+**UnitTitle**:: Serviços Financeiros
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1850-07-11
+**UnitDateFinal**:: 1909-05-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7826
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7826
+
+===== Filhos =====
+  * [[7827.txt|7827 - SSC - Contabilidade]]

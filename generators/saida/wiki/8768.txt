@@ -1,0 +1,18 @@
+====== 8768 - DC - Termo do exame de Gracinda Augusta de Carvalho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Gracinda Augusta de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-18
+**UnitDateFinal**:: 1891-07-18
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - António José de Carvalho
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8768
+**LangMaterial**:: Português
+**PhysLoc**:: f. 26
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8768

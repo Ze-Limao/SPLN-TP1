@@ -1,0 +1,13 @@
+====== 7732 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 7 ======
+
+**Parent**:: 7726
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Termos de Obrigação e Sujeição ao Município Nº 7
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1884-12-27
+**UnitDateFinal**:: 1885-09-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7732
+**LangMaterial**:: Português
+**PhysLoc**:: 1.75
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7732

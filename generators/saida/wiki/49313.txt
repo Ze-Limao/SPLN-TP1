@@ -1,0 +1,18 @@
+====== 49313 - DC - Registo do recenseamento eleitoral de André Martins Braga ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de André Martins Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Sezures
+Profissão - Lavrador
+Estado - Casado
+Morada - Monte
+Idade - 46
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49313
+**LangMaterial**:: Português
+**PhysLoc**:: 76v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49313

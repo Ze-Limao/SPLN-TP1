@@ -1,0 +1,15 @@
+====== 80002 - UI - Processo nº 41 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 41
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1961-06-16
+**UnitDateFinal**:: 1970-03-31
+**ScopeContent**:: Junto com Autos de Reclamação de Créditos nº 339A e Autos de Execução de Custas nº 48-B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 22 - cx. 2
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80002

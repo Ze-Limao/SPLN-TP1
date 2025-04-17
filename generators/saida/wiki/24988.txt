@@ -1,0 +1,15 @@
+====== 24988 - UI - Livro de Presenças às reuniões da Assembleia Geral de Bombeiros Voluntários ======
+
+**Parent**:: 20397
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Presenças às reuniões da Assembleia Geral de Bombeiros Voluntários
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912-01-28
+**UnitDateFinal**:: 1931-02-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24988
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 92
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24988

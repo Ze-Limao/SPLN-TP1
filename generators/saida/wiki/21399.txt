@@ -1,0 +1,16 @@
+====== 21399 - UI - Francisco M. de Castro Figueiredo de Faria ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco M. de Castro Figueiredo de Faria
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1884-03-18
+**UnitDateFinal**:: 1884-03-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21399
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1366
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21399
+
+===== Filhos =====
+  * [[30233.txt|30233 - DC - Carta]]

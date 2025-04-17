@@ -1,0 +1,16 @@
+====== 29752 - DC - Carta ======
+
+**Parent**:: 21283
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926-06-30
+**UnitDateFinal**:: 1926-06-30
+**ScopeContent**:: Carta manuscrita assinada, da Quinta do Vilar.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29752
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1162 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29752

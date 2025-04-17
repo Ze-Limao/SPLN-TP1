@@ -1,0 +1,15 @@
+====== 24993 - UI - Livro de Actas da Direcção / Livro nº4 ======
+
+**Parent**:: 20398
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Actas da Direcção / Livro nº4
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1929-01-04
+**UnitDateFinal**:: 1932-10-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24993
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 97
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24993

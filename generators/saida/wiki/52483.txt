@@ -1,0 +1,18 @@
+====== 52483 - DC - Registo do recenseamento militar de José Pereira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-10-13
+Filiação - Francisco Pereira e Ana Ferreira
+Naturalidade - Telhado
+Profissão - Criado de servir
+Residência - Veiga de Penso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52483
+**LangMaterial**:: Português
+**PhysLoc**:: 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52483

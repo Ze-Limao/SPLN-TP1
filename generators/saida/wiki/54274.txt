@@ -1,0 +1,25 @@
+====== 54274 - DC - Escritura de dote para casamento do noivo João Machado de Melo, da vila de Guimarães, e noiva Maria Angélica de Refalcão ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Escritura de dote para casamento do noivo João Machado de Melo, da vila de Guimarães, e noiva Maria Angélica de Refalcão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1795-02-02
+**UnitDateFinal**:: 1795-02-02
+**ScopeContent**:: Manuscrito na "Pasta nº 2 Cazal nº 1 AH". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 13108 a CP 13142.
+Escritura de dote para casamento do noivo João Machado de Melo e noiva Maria Angélica Rita Pinto Pereira de Magalhães e Gouveia, 1795, feita na quinta de Refalcão, freguesia de Santa Senhorinha, concelho de Cabeceiras de Basto.
+"compareceram muitas testemunhas, tudo parentela dos esposados. E são outorgantes: "de uma parte João Machado de Melo, Fidalgo da Casa de Sua Magestade (...) e sua Mãe, Dona Ana Maria Isabel de Melo (...) e da outra parte Luís Pinto de Magalhães e Gouveia e sua Mulher, Dona Rosa Marcelina de Santa Teresa e, com eles, sua filha Dona Maria Angélica Rita Pinto Pereira de Magalhães e Gouveia, moradores nesta dita casa e quinta". Declararam então: "que eles com a ajuda e favor de Deus Nosso Senhor estavam justos e contratados (...) de casar, (...) e que tendo efeito o dito casamento (...) em face da Igreja na forma do Sagrado Concílio tridentino, queriam fazer os seus dotes (...)".
+trazendo para o casal os bens de que eram titulares ou que as suas Famílias lhes disponibilizavam. João Machado de Melo é o primeiro a ofertar: 
+"era Senhor e possuidor do seu Morgadio e quinta de Pindela e mais bens a ela pertencentes e bem assim de outros mais morgadios sitos em várias partes desta província e do prazo de Arnosinho (...) e outrossim era senhor de vários casais, prazos e bens de que se compunha a sua Casa, e que com todos os referidos bens (...) se dotava destes para si e sua futura esposa e filhos de entre ambos". 
+Tomam seguidamente a palavra os pais da noiva: pois que para 
+"casarem um com o outro lhes havia dotado o seu Pai e Sogro, Paulo Pinto de Magalhães e Gouveia, e seu irmão, o Rev. Manuel Pinto de Magalhães, abade de S. Miguel de Entre-Ambos-os-Rios, todos os bens que havia na Casa, a saber, esta quinta de Refalcão e (...) as da Costa e Hervões, nesta freguesia de Santa Senhorinha, e (...) os bens destas duas quintas". 
+Por fim, e com a permissão dos Senhores seus Pais, fala a própria Dona Maria Angélica Rita: que 
+"se dotava de si para si e seu futuro esposo com a quantia de um conto e seiscentos mil reis em dinheiro que lhe tinha deixado para o seu casamento o seu Tio, o Rev. Marcelino Pereira Cleto, abade resignatário da igreja de S. Miguel de Entre-Ambos-os-Rios, e com mais quatrocentos mil reis que lhe deixou em seu testamento o seu Tio, o Rev. Manuel Pinto de Magalhães, abade na dita igreja".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54274
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13130 - cx. 86
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54274

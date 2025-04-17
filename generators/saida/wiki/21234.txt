@@ -1,0 +1,19 @@
+====== 21234 - UI - Manuel Maria de Oliveira Ramos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Manuel Maria de Oliveira Ramos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-11-23
+**UnitDateFinal**:: 1914-11-23
+**ScopeContent**:: Manuel Maria de Oliveira Ramos nasceu em Ovar, 1862 e morreu em Lisboa, 1931. Foi professor na Faculdade de Letras da Universidade de Lisboa, notabilizou-se como crítico musical e de arte nos jornais de Lisboa e Porto. Era filho do jornalista João de Oliveira Ramos, conhecido como o Pai Ramos. Estudou na Escola do Exército e seguiu a carreira militar. Licenciado pela Universidade de Coimbra, foi professor dos liceus. Em 1904, com a reforma do Curso Superior de Letras, tornou-se professor universitário, lecionando durante 26 anos História Geral e História de Portugal.Foi também professor no Colégio Militar e na Escola Normal Superior. Em 1917, foi tutor do príncipe real D. Luís Filipe em História e Literatura.Escreveu as obras A Música Portuguesa (1881) e A Baixela Barahona - Um Problema de Arte (1900), e traduziu livros de Júlio Verne, bem como a História Universal, de G. Oncken, a História da Época dos Descobrimentos, de Sophus Ruge, e O Casamento de Fígaro, de Beaumarchais. Colaborou na Enciclopédia Portuguesa, de Maximiano de Lemos, e na História da Literatura Portuguesa Ilustrada, dirigida por Forjaz Sampaio. O seu nome consta na lista de colaboradores da revista A Arte Musical (1898-1915).
+Fonte: Wikipédia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21234
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 954- cx. 10
+depósito 3, estante 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21234
+
+===== Filhos =====
+  * [[26159.txt|26159 - DC - Carta]]

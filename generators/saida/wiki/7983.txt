@@ -1,0 +1,15 @@
+====== 7983 - DC - Termo de Lino José da Silva ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Lino José da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-04-25
+**UnitDateFinal**:: 1862-04-25
+**ScopeContent**:: Abertura de uma mina de água
+Local - Sanfins de Riba de Ave
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7983
+**LangMaterial**:: Português
+**PhysLoc**:: f. 13
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7983

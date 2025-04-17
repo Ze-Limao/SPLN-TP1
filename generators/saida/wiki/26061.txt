@@ -1,0 +1,16 @@
+====== 26061 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-04-27
+**UnitDateFinal**:: 1921-04-27
+**ScopeContent**:: Júlio Brandão diz que enviou artigo sobre o Camilo Homenageado, obra que elogia. Carta manuscrita assinada, do Porto. Carta de 27 abril, sem menção ao ano. Papel timbrado "Museu Municipal do Porto. Gabinete do Director".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26061
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 855 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26061

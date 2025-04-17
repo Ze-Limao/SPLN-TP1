@@ -1,0 +1,18 @@
+====== 47636 - DC - Registo do recenseamento eleitoral de Leonardo José Moreira ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Leonardo José Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Cabeçudos
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Pessegueiro
+Idade - 48
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47636
+**LangMaterial**:: Português
+**PhysLoc**:: 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47636

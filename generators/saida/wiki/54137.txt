@@ -1,0 +1,17 @@
+====== 54137 - DC - Correio do Minho, ano 31, nº9707 ======
+
+**Parent**:: 54176
+**RootParent**:: 25851
+**UnitTitle**:: Correio do Minho, ano 31, nº9707
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-04-03
+**UnitDateFinal**:: 1958-04-03
+**ScopeContent**:: Contém publicação do Edital concurso público para instalação de aquecimento central do Edifício para Paços de Concelho, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54137
+**LangMaterial**:: Português
+**PhysLoc**:: JG 173(7) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54137

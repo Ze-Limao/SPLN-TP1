@@ -1,0 +1,38 @@
+====== 31409 - UI - João Gomes de Abreu ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: João Gomes de Abreu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869-06-17
+**UnitDateFinal**:: 1921-12-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31409
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13929, 6009, 1745, 6011, 1218, 2063, 6010, 6012, 11964, 6013, 1404, 14029, 14028, 3870, 5087, 5227, 5435, 5086, 5121, 4298, 3945, 1405, 1406, 1407.
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31409
+
+===== Filhos =====
+  * [[31418.txt|31418 - DC - Carta]]
+  * [[31419.txt|31419 - DC - Carta]]
+  * [[31420.txt|31420 - DC - Carta]]
+  * [[31421.txt|31421 - DC - Carta]]
+  * [[31422.txt|31422 - DC - Carta]]
+  * [[31423.txt|31423 - DC - Carta]]
+  * [[31424.txt|31424 - DC - Carta]]
+  * [[31425.txt|31425 - DC - Carta]]
+  * [[31426.txt|31426 - DC - Carta]]
+  * [[31427.txt|31427 - DC - Carta]]
+  * [[31428.txt|31428 - DC - Carta e apontamentos manuscritos]]
+  * [[31429.txt|31429 - DC - Carta]]
+  * [[31430.txt|31430 - DC - Carta]]
+  * [[31431.txt|31431 - DC - Carta]]
+  * [[31432.txt|31432 - DC - Cartão]]
+  * [[31433.txt|31433 - DC - Telegrama]]
+  * [[31434.txt|31434 - DC - Carta]]
+  * [[31435.txt|31435 - DC - Bilhete-postal]]
+  * [[31436.txt|31436 - DC - Cartão de visita]]
+  * [[31437.txt|31437 - DC - Postal ilustrado]]
+  * [[31438.txt|31438 - DC - Bilhete-postal]]

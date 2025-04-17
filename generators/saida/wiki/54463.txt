@@ -1,0 +1,38 @@
+====== 54463 - SR - Documentos ======
+
+**Parent**:: 31268
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1574-11-26
+**UnitDateFinal**:: 1590
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54463
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54463
+
+===== Filhos =====
+  * [[100730.txt|100730 - DC - Instituição que fez Manuel Figueira e sua mulher Ana Pinheiro dos bens que possuíam os quais uniram ao morgado de Pindela]]
+  * [[100766.txt|100766 - DC - Escritura de casamento de Ana Pinheiro com Manuel Figueira]]
+  * [[100767.txt|100767 - DC - Posse do Morgado e quinta de Pindela por Manuel Figueira]]
+  * [[101069.txt|101069 - DC - Compra das casas na Rua dos Mercadores, Guimarães]]
+  * [[31269.txt|31269 - DC - Posse da Quinta de Pindela]]
+  * [[54265.txt|54265 - DC - Compra do Campo da Agra que Manuel Figueira e sua mulher Ana Pinheiro fez a Salvador Veloso e sua mulher Isabel Carvalha]]
+  * [[54266.txt|54266 - DC - Sentença da suplicação que julga Ana Pinheiro para pertencer o Morgado de Pindela]]
+  * [[54267.txt|54267 - DC - Ordem que veio de Lisboa para mudar uma posse ao P. Manuel Figueira]]
+  * [[65671.txt|65671 - DC - Escritura de venda que fez Manuel Figueira e sua mulher D. Ana Pinheiro a Gonçalo Correia da Quinta de Pousada, em Jesufrei e outra escritura de distrato desta venda pelo mesmo Manuel Figueira]]
+  * [[65676.txt|65676 - DC - Prazo da bouça da Lagoa feito a Gonçalo Dias e sua mulher no ano de 1590, Mariz, outorga Manuel Figueira]]
+  * [[77739.txt|77739 - DC - Sentença dos ganhos]]
+  * [[77848.txt|77848 - DC - Carta de compra de terras herdadas dízimas na freguesia de S. Tiago da Cruz que as comprou Manuel Figueira a Salvador Veloso e a sua mulher Isabel Carvalho das terras de Ribela]]
+  * [[78542.txt|78542 - DC - Sentença do moinho do Campo da Agra em Ribela]]
+  * [[78547.txt|78547 - DC - Apontamento sobre um campo em Arnoso e sobre o inventário por morte de Simão Pinheiro]]
+  * [[78631.txt|78631 - DC - Sentença contra D. Leonor da Afonseca, viúva de Lopo Dias de Lemos sobre os campos do Grandal, Junqueira e outros e metade da azenha e suas águas]]
+  * [[78634.txt|78634 - DC - Relação de processos de diversas propriedades]]
+  * [[78637.txt|78637 - DC - Concórdia sobre limites de propriedades de Pindela e da Quinta da Costa entre Manuel da Figueira e Bartolomeu de Lemos]]
+  * [[98203.txt|98203 - DC - Prazos a favor de Manuel Figueira]]
+  * [[98228.txt|98228 - DC - Posse da água da Bouça]]
+  * [[98229.txt|98229 - DC - Sentença sobre um caminho do Campo de Agra, autor Manuel Pinheiro e ? Dias]]
+  * [[98233.txt|98233 - DC - Compra de uns campos que se juntaram a Pindela]]
+  * [[98255.txt|98255 - DC - Papeis de Salvador Veloso e sua mulher, caseiros simples de Manuel Figueira, relativos a Ribela]]
+  * [[98454.txt|98454 - DC - Sobre agoa da Castanheira e Mosqueiro]]
+  * [[99055.txt|99055 - DC - Testamento de Francisco Cardozo marido de Francisca Maxada, irmã de Manuel Maxado de Afonseca da Igreja de S. Cristovão da Eida de Lxª]]
+  * [[99057.txt|99057 - DC - Testamento de Cecília Cardoso, filha de Francisco Cardoso e de Francisca Machado, de Lisboa no convento de Almoster, termo da vila de Santarém, sobrinha de Manuel Machado da Fonseca, prior de S. Cristovão em Lisboa]]

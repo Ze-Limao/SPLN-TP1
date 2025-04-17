@@ -1,0 +1,16 @@
+====== 25392 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-08-10
+**UnitDateFinal**:: 1913-08-10
+**ScopeContent**:: Carta manuscrita assinada, da Casa da Costeira, Carregosa, Oliveira de Azeméis. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25392
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 371 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25392

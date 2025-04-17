@@ -1,0 +1,15 @@
+====== 65764 - DC - Sentença cível de emprazamento do casal do Maganheiro, situado na freguesia de S. Martinho de Avidos, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Manuel Gomes Pimenta e a sua mulher Mariana da Silva ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal do Maganheiro, situado na freguesia de S. Martinho de Avidos, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Manuel Gomes Pimenta e a sua mulher Mariana da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1781-07-28
+**UnitDateFinal**:: 1782-01-10
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. A data de 1782 é a do registo geral da Corte do Livro de Prazos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 197 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65764

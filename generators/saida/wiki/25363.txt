@@ -1,0 +1,16 @@
+====== 25363 - DC - Ofício do Cardeal Patriarca dirigida ao Presidente da Direcção da  AHBVF ======
+
+**Parent**:: 25075
+**RootParent**:: 20342
+**UnitTitle**:: Ofício do Cardeal Patriarca dirigida ao Presidente da Direcção da  AHBVF
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1936-11-19
+**UnitDateFinal**:: 1936-11-19
+**ScopeContent**:: Ofício do Patriarcado a agradecer a nomeação do Cardeal Patriarca como sócio de honra da AHBVF. Ofício manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25363
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 173 - cx. 41
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25363

@@ -1,0 +1,33 @@
+====== 60924 - SR - Correspondência recebida ======
+
+**Parent**:: 60550
+**RootParent**:: 60550
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1910-07-18
+**UnitDateFinal**:: 1990
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60924
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60924
+
+===== Filhos =====
+  * [[60925.txt|60925 - UI - Bernardino Machado]]
+  * [[60935.txt|60935 - UI - Aquilino Ribeiro]]
+  * [[61198.txt|61198 - UI - António Machado]]
+  * [[61204.txt|61204 - UI - Afonso Costa]]
+  * [[61206.txt|61206 - UI - Norton de Matos]]
+  * [[61208.txt|61208 - UI - Alfredo de Sousa]]
+  * [[61210.txt|61210 - UI - Ramon de La Féria]]
+  * [[61212.txt|61212 - UI - Hélder Rui]]
+  * [[61214.txt|61214 - UI - António Xavier Correia Barreto]]
+  * [[61216.txt|61216 - UI - Júlio Dantas]]
+  * [[61218.txt|61218 - UI - Tomás de Fonseca]]
+  * [[61220.txt|61220 - UI - Bento Machado]]
+  * [[61222.txt|61222 - UI - Academia de Estudos Livres]]
+  * [[61224.txt|61224 - UI - Miguel Machado]]
+  * [[61227.txt|61227 - UI - Agatão Lança]]
+  * [[61229.txt|61229 - UI - Armando Bacelar]]
+  * [[61231.txt|61231 - UI - João de Barros]]
+  * [[61233.txt|61233 - UI - Américo de Castro]]
+  * [[61235.txt|61235 - UI - António Salgado]]
+  * [[61237.txt|61237 - UI - Folhas com informações retiradas das cartas para Daniel Rodrigues]]

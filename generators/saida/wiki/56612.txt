@@ -1,0 +1,17 @@
+====== 56612 - DC - A Interpelação do Senador Sr. João de Freitas ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: A Interpelação do Senador Sr. João de Freitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917
+**UnitDateFinal**:: 1917
+**ScopeContent**:: Recorte de jornal Diário de Notícias. Este documento está junto com CP 12750, de 11 de janeiro sem menção ao ano. Notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56612
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12749 - cx. 76
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56612

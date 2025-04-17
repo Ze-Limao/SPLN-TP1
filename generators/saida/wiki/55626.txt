@@ -1,0 +1,20 @@
+====== 55626 - UI - José Maria de Almeida Correia de Sá ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: José Maria de Almeida Correia de Sá
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-03-26
+**UnitDateFinal**:: 1911-11-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55626
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55626
+
+===== Filhos =====
+  * [[55627.txt|55627 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55628.txt|55628 - DC - Carta]]
+  * [[55629.txt|55629 - DC - Carta]]
+  * [[55630.txt|55630 - DC - Carta]]
+  * [[55631.txt|55631 - DC - Carta]]
+  * [[55632.txt|55632 - DC - Carta]]
+  * [[55633.txt|55633 - DC - Carta]]

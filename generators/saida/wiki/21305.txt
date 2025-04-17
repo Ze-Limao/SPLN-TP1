@@ -1,0 +1,16 @@
+====== 21305 - UI - António Brandão ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Brandão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1930-01-03
+**UnitDateFinal**:: 1930-01-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21305
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1187
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21305
+
+===== Filhos =====
+  * [[29778.txt|29778 - DC - Carta]]

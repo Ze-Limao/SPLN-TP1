@@ -1,0 +1,18 @@
+====== 28237 - SSC - Autor de estudos históricos e económicos ======
+
+**Parent**:: 27965
+**RootParent**:: 27963
+**UnitTitle**:: Autor de estudos históricos e económicos
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1923
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28237
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28237
+
+===== Filhos =====
+  * [[28238.txt|28238 - SR - Estudos Históricos e Económicos]]
+  * [[28240.txt|28240 - SR - As Vilas do Norte de Portugal]]
+  * [[28243.txt|28243 - SR - As Póvoas Marítimas do Norte de Portugal]]
+  * [[28260.txt|28260 - SR - Recensões a diversas obras]]
+  * [[28589.txt|28589 - SR - O Norte Marítimo]]

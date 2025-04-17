@@ -1,0 +1,16 @@
+====== 28594 - SR - A Bajlya da Poboa Noua de Varazim ======
+
+**Parent**:: 28291
+**RootParent**:: 27963
+**UnitTitle**:: A Bajlya da Poboa Noua de Varazim
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28594
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28594
+
+===== Filhos =====
+  * [[28702.txt|28702 - DC - Franklim, no seu livro dos forais]]
+  * [[28703.txt|28703 - DC - Transcrições de livros de inquirições de D. Dinis e D. Afonso IV]]
+  * [[28708.txt|28708 - DC - Separata A Bajlya da Poboa Noua de Varazim e nota]]

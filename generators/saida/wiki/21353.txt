@@ -1,0 +1,16 @@
+====== 21353 - UI - Carlos Augusto da S. Campos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Carlos Augusto da S. Campos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-04-25
+**UnitDateFinal**:: 1903-04-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21353
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1264
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21353
+
+===== Filhos =====
+  * [[30128.txt|30128 - DC - Carta]]

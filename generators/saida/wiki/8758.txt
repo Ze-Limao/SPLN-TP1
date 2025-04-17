@@ -1,0 +1,18 @@
+====== 8758 - DC - Termo de exame de António José de Lima ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo de exame de António José de Lima
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-17
+**UnitDateFinal**:: 1891-07-17
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Bernardino José de Lima
+Naturalidade - Calendário
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8758
+**LangMaterial**:: Português
+**PhysLoc**:: f. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8758

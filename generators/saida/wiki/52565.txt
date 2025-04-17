@@ -1,0 +1,18 @@
+====== 52565 - DC - Registo do recenseamento militar de Anastácio Correia de Oliveira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Anastácio Correia de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-02-27
+Filiação - José Correia de Oliveira e Ana Maria Ribeiro
+Naturalidade - Riba de Ave
+Profissão - Criado de servir
+Residência - Santo Tirso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52565
+**LangMaterial**:: Português
+**PhysLoc**:: 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52565

@@ -1,0 +1,15 @@
+====== 60768 - DC - Emprazamento de metade da Quinta de Freitas, situada na freguesia de S. Tiago de Rebordões (concelho de Santo Tirso), feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas a a Pero Anes, lavrador e a sua mulher ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento de metade da Quinta de Freitas, situada na freguesia de S. Tiago de Rebordões (concelho de Santo Tirso), feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas a a Pero Anes, lavrador e a sua mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1543-03-05
+**UnitDateFinal**:: 1543-03-05
+**ScopeContent**:: Manuscrito, original, sem selo. Composto por 4 pergaminhos cosidos, cada um com caligrafia diferente. Acondicionado dobrado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 37 - cx. P28
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60768

@@ -1,0 +1,17 @@
+====== 56361 - DC - Documentação fiscal e seguros da casa da Rua do Norte nº 29 a 33 de Lisboa ======
+
+**Parent**:: 60397
+**RootParent**:: 31258
+**UnitTitle**:: Documentação fiscal e seguros da casa da Rua do Norte nº 29 a 33 de Lisboa
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1923
+**UnitDateFinal**:: 1925-04-03
+**ScopeContent**:: Maço que contém 11 documentos: Recibos da Companhia de Seguros A Nacional da casa Rua do Norte nº 29 a 33, Lisboa e recibos de empréstimo, contribuição predial.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56361
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12544 (1) a 12544 (11) - cx. 74
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56361

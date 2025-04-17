@@ -1,0 +1,31 @@
+====== 21044 - UI - Alexandre Ferreira Cabral Pais do Amaral ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alexandre Ferreira Cabral Pais do Amaral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1897-02-22
+**UnitDateFinal**:: 1915-02-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21044
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21044
+
+===== Filhos =====
+  * [[23159.txt|23159 - DC - Telegrama]]
+  * [[23160.txt|23160 - DC - Carta]]
+  * [[23161.txt|23161 - DC - Carta]]
+  * [[23162.txt|23162 - DC - Carta]]
+  * [[23163.txt|23163 - DC - Carta]]
+  * [[23164.txt|23164 - DC - Carta]]
+  * [[23165.txt|23165 - DC - Carta]]
+  * [[23166.txt|23166 - DC - Carta]]
+  * [[23167.txt|23167 - DC - Carta]]
+  * [[23168.txt|23168 - DC - Carta]]
+  * [[23169.txt|23169 - DC - Carta]]
+  * [[23170.txt|23170 - DC - Carta]]
+  * [[23171.txt|23171 - DC - Carta]]
+  * [[23172.txt|23172 - DC - Carta]]
+  * [[23173.txt|23173 - DC - Carta]]

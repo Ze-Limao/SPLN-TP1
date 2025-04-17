@@ -1,0 +1,14 @@
+====== 30034 - DC - Manuel Maria dos Santos ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Maria dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-11-05
+**UnitDateFinal**:: 1958-11-05
+**ScopeContent**:: Regedor substituto da freguesia de Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30034
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30034

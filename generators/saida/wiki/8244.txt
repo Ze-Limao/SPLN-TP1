@@ -1,0 +1,16 @@
+====== 8244 - UI - Joaquim de Araújo ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Joaquim de Araújo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-08-27
+**UnitDateFinal**:: 1895-08-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8244
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.1
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8244
+
+===== Filhos =====
+  * [[8245.txt|8245 - DC - Carta]]

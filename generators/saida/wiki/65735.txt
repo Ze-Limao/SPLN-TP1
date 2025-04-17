@@ -1,0 +1,15 @@
+====== 65735 - DC - Emprazamento do casal de Outeiro, situado na freguesia de Fradelos, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, a António Manuel e a sua mulher Maria João ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Outeiro, situado na freguesia de Fradelos, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, a António Manuel e a sua mulher Maria João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1674-05-04
+**UnitDateFinal**:: 1674-05-04
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 119 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65735

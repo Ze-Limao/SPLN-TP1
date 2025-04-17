@@ -1,0 +1,16 @@
+====== 22348 - DC - Registo do recenseamento eleitoral de Joaquim de Amorim ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim de Amorim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Gavião
+Profissão - Caiador
+Morada - Mões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22348
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22348

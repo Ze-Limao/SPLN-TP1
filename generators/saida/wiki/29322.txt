@@ -1,0 +1,16 @@
+====== 29322 - DC - Ofício do Diário de Portugal ======
+
+**Parent**:: 29317
+**RootParent**:: 27963
+**UnitTitle**:: Ofício do Diário de Portugal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-06-23
+**UnitDateFinal**:: 1879-06-23
+**ScopeContent**:: Impresso em Lisboa. Assinatura autógrafa de Gerardo (?) Pery. No canto superior esquerdo apresenta o carimbo do periódico: «Diário de Portugal * Lisboa *». No canto inferior esquerdo apresenta uma nota manuscrita de Alberto Sampaio onde se lê: «−N.− / Paguei por uma / letra do Banco de Guim.es / em 26 de Junho de 1879 / −o−».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29322
+**LangMaterial**:: Português
+**PhysLoc**:: AS 218 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29322

@@ -1,0 +1,17 @@
+====== 99324 - UI - João Pinto Ferreira Leite Filho ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: João Pinto Ferreira Leite Filho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-01-15
+**UnitDateFinal**:: 1916-04-29
+**ScopeContent**:: Especialidade em vinhos e azeites portugueses.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99324
+
+===== Filhos =====
+  * [[99325.txt|99325 - DC - Ofício]]
+  * [[99326.txt|99326 - DC - Ofício]]
+  * [[99335.txt|99335 - DC - Ofício]]

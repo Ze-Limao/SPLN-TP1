@@ -1,0 +1,20 @@
+====== 20486 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Vale S. Cosme
+Filiação - Manuel José Borges e Clara de Oliveira de Jesus
+Naturalidade - Vale S. Cosme
+Data de nascimento - 1870-04-26
+Emprego - Caixeiro
+Estado - Solteiro
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20486
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20486

@@ -1,0 +1,15 @@
+====== 66131 - DC - Escritura de declaração de emprazamento que faz Francisco António dos Reis e mulher, da freguesia de Calendário, a José António da Silva Granja e mulher Joana Maria, e outros, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de declaração de emprazamento que faz Francisco António dos Reis e mulher, da freguesia de Calendário, a José António da Silva Granja e mulher Joana Maria, e outros, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1865-08-19
+**UnitDateFinal**:: 1865-09-14
+**ScopeContent**:: Manuscrito em papel azul timbrado com o imposto de selo 40 réis, original, folhas cosidas sem capa. No canto esquerdo superior “Nota nº37. Af.40”. No final “Presto meo consentimento sem prejuízo dos direitos desta Igreja e de terceiros. S. Thiago Dantas 14 de 9bl. de 1965”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 315 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66131

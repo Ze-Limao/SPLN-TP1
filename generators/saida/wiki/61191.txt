@@ -1,0 +1,27 @@
+====== 61191 - SC - Rotary Club de Vila Nova de Famalicão ======
+
+**Parent**:: 60551
+**RootParent**:: 60551
+**UnitTitle**:: Rotary Club de Vila Nova de Famalicão
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 2023
+**ScopeContent**:: Documentos produzidos e/ou recebidos pelo Rotary Club de V.N. Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61191
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61191
+
+===== Filhos =====
+  * [[61192.txt|61192 - SR - Correspondência recebida]]
+  * [[61193.txt|61193 - SR - Correspondência enviada]]
+  * [[61194.txt|61194 - SR - Documentos]]
+  * [[61448.txt|61448 - SR - Publicações Periódicas]]
+  * [[61450.txt|61450 - SR - Livros]]
+  * [[61452.txt|61452 - SR - Material gráfico]]
+  * [[61454.txt|61454 - SR - Documentos tridimensionais]]
+  * [[61456.txt|61456 - SR - Documentos multimédia]]
+  * [[61458.txt|61458 - SR - Quadros]]
+  * [[64131.txt|64131 - SR - Fotografias]]

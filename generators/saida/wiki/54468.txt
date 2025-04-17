@@ -1,0 +1,20 @@
+====== 54468 - SR - Documentos ======
+
+**Parent**:: 31285
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1701-02-27
+**UnitDateFinal**:: 1701-02-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54468
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54468
+
+===== Filhos =====
+  * [[100772.txt|100772 - DC - Escritura de compra do campo da Estivada e águas e terras que lhe pertencem]]
+  * [[101119.txt|101119 - DC - Sentença em que Veríssimo Pinheiro é absolvido do agravo contre ele intentado por Manuel Vasconcelos e Sousa]]
+  * [[54262.txt|54262 - DC - Paga de Estevão de Oliveira, filho de Francisco de Oliveira, pelo aluguer das suas casas em que morou Domingos de Araújo]]
+  * [[78520.txt|78520 - DC - Documento judicial em que é parte Manuel de Vasconcelos e Sousa e a outra Veríssimo Pinheiro Lobo]]
+  * [[78522.txt|78522 - DC - Petição de Veríssimo Pinheiro Lobo em que litiga com Manuel Vasconcelos e Sousa para uma certidão do pároco de S. João do Souto, em que conste o dia, mês e ano em que faleceu seu pai Baltasar Pinheiro Lobo Machado]]
+  * [[98825.txt|98825 - DC - Certidão de uma carta citatória e de uma provisão de Sua Magestade pedida por Veríssimo Pinheiro Lobo contra Manuel de Vasconcelos]]
+  * [[98826.txt|98826 - DC - Sentença que alcançou Veríssimo Pinheiro contra Manuel de Vasconcelos]]

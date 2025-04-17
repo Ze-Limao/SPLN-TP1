@@ -1,0 +1,16 @@
+====== 28104 - DC - 1874 Ensaio sobre a densidade do mosto das uvas da vinha feita com o gleuco-oenometro ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1874 Ensaio sobre a densidade do mosto das uvas da vinha feita com o gleuco-oenometro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1874-09-18
+**UnitDateFinal**:: 1874-09-22
+**ScopeContent**:: No final do texto a nota: «As uvas desta colheita eram todas muito pouco perfeitas e mal sazonadas». Valores de densidade do mosto de diversas castas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28104
+**LangMaterial**:: Português
+**PhysLoc**:: AS 377 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28104

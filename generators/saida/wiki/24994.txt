@@ -1,0 +1,15 @@
+====== 24994 - UI - Actas da Direcção / Livro nº5 ======
+
+**Parent**:: 20398
+**RootParent**:: 20342
+**UnitTitle**:: Actas da Direcção / Livro nº5
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1932-11-03
+**UnitDateFinal**:: 1942-09-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24994
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 98
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24994

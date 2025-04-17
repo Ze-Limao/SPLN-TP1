@@ -1,0 +1,13 @@
+====== 7704 - UI - Livro de Notas Nº 17 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 17
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1941-05-06
+**UnitDateFinal**:: 1946-12-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7704
+**LangMaterial**:: Português
+**PhysLoc**:: 1.51
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7704

@@ -1,0 +1,19 @@
+====== 34527 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Arnoso Santa Eulália
+Data de nascimento - 1862-04-25
+Filiação - José Gomes de Faria e Ana de Oliveira
+Profissão - Cesteiro
+Estado - Solteiro
+Morada - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34527
+**LangMaterial**:: Português
+**PhysLoc**:: 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34527

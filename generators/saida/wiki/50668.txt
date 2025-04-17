@@ -1,0 +1,18 @@
+====== 50668 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 1842-09-04
+Filiação - 
+Naturalidade - Vila Nova de Famalicão
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50668
+**LangMaterial**:: Português
+**PhysLoc**:: 106v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50668

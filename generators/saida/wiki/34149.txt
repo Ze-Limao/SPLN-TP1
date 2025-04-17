@@ -1,0 +1,19 @@
+====== 34149 - DC - Registo do recenseamento militar de Joaquim da Cruz ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim da Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Ribeirão
+Data de nascimento - 1852-12-19
+Filiação - José António da Cruz e Joaquina de Oliveira
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34149
+**LangMaterial**:: Português
+**PhysLoc**:: 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34149

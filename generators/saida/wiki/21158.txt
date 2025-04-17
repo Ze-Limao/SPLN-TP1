@@ -1,0 +1,24 @@
+====== 21158 - UI - João Machado Pinheiro Correia de Melo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Machado Pinheiro Correia de Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880
+**UnitDateFinal**:: 1891
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21158
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 560, 561, 562, 563, 564, 565, 566, 567
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21158
+
+===== Filhos =====
+  * [[25608.txt|25608 - DC - Carta]]
+  * [[25609.txt|25609 - DC - Carta]]
+  * [[25610.txt|25610 - DC - Carta]]
+  * [[25611.txt|25611 - DC - Carta]]
+  * [[25612.txt|25612 - DC - Carta]]
+  * [[25613.txt|25613 - DC - Carta]]
+  * [[25614.txt|25614 - DC - Carta]]
+  * [[25615.txt|25615 - DC - Carta]]

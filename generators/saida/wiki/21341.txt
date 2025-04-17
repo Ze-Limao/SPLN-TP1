@@ -1,0 +1,16 @@
+====== 21341 - UI - Armando de Lemos de Matos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Armando de Lemos de Matos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1925-04-09
+**UnitDateFinal**:: 1925-04-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21341
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1238
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21341
+
+===== Filhos =====
+  * [[29829.txt|29829 - DC - Carta]]

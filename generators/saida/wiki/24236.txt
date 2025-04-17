@@ -1,0 +1,16 @@
+====== 24236 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-12-05
+**UnitDateFinal**:: 1914-12-05
+**ScopeContent**:: António Cabral agradece os elogios e intitula-se velho político e velho jornalista. Gosta de estudar Camilo e atualmente trabalha na biblioteca a investigar sobre Eça para publicar um livro, do qual já tem alguns capítulos. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24236
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 112 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24236

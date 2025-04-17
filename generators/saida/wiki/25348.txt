@@ -1,0 +1,16 @@
+====== 25348 - DC - Regulamento para o jogo do Marimbo ======
+
+**Parent**:: 24746
+**RootParent**:: 20342
+**UnitTitle**:: Regulamento para o jogo do Marimbo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-02-22
+**UnitDateFinal**:: 1909-02-22
+**ScopeContent**:: Regulamento manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25348
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 5 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25348

@@ -1,0 +1,16 @@
+====== 28516 - DC - De pannus et de quibuscunque ======
+
+**Parent**:: 28507
+**RootParent**:: 27963
+**UnitTitle**:: De pannus et de quibuscunque
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: «Mas nas costas d’entre Minho e Vouga a marinha mercante progrediu sempre durante os primeiros reinados. No tempo de Sancho II o movimento da barra do Porto era suficientemente avultado para o rei, na escritura de concórdia de 1238, ceder ao bispo e igreja portugalense parte dos impostos, percebidos sobre as mercadorias importadas - «de pannis et de quibuscunque ducantur ad Civitatem Portugalensem, vel Portum Dorii… […].». Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, p. 385.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28516
+**LangMaterial**:: Português
+**PhysLoc**:: AS 90 (9) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28516

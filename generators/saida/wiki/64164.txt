@@ -1,0 +1,15 @@
+====== 64164 - DC - Sentença cível da relação de Braga num conflito entre Jerónimo de Oliveira Carvalho, abade da Igreja S. Tiago de Antas e Leandro Gomes Correia, abade de Lousado, acerca de uma horta do cortelho dos moinhos, em S. Tiago de Antas, que se provou pertencer ao autor Jerónimo de Oliveira Carvalho ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível da relação de Braga num conflito entre Jerónimo de Oliveira Carvalho, abade da Igreja S. Tiago de Antas e Leandro Gomes Correia, abade de Lousado, acerca de uma horta do cortelho dos moinhos, em S. Tiago de Antas, que se provou pertencer ao autor Jerónimo de Oliveira Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1720-04-26
+**UnitDateFinal**:: 1720-04-26
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 147 - cx. 7
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64164

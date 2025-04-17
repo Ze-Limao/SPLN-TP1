@@ -1,0 +1,14 @@
+====== 8004 - DC - Termo de José Bernardino da Costa e Sá ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José Bernardino da Costa e Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-07-01
+**UnitDateFinal**:: 1868-07-01
+**ScopeContent**:: Arrematação das vertentes da água do chafariz do Campo da Feira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8004
+**LangMaterial**:: Português
+**PhysLoc**:: f. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8004

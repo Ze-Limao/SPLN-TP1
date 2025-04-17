@@ -1,0 +1,16 @@
+====== 21422 - UI - Franco Sturso ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Franco Sturso
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-03-07
+**UnitDateFinal**:: 1890-03-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21422
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1401
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21422
+
+===== Filhos =====
+  * [[29995.txt|29995 - DC - Carta]]

@@ -1,0 +1,14 @@
+====== 78839 - DC - Projecto de casa para repartições judiciais e administrativas em Villa Nova de Famalicão: Paço do Concelho ======
+
+**Parent**:: 78832
+**RootParent**:: 7651
+**UnitTitle**:: Projecto de casa para repartições judiciais e administrativas em Villa Nova de Famalicão: Paço do Concelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-11-20
+**UnitDateFinal**:: 1882-11-20
+**ScopeContent**:: Projeto com três imagens do edifício: alçado principal, lateral e posterior. Nota manuscrita "Em sessão de Câmara de 20 de Novembro de 1882. O presidente Barão da Trovisqueira", e outras assinaturas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD78839
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78839

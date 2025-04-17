@@ -1,0 +1,15 @@
+====== 7986 - DC - Termo de responsabilidade de José Joaquim Machado ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de responsabilidade de José Joaquim Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-07-15
+**UnitDateFinal**:: 1863-07-15
+**ScopeContent**:: Ampliação de uma mina de água
+Local - Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7986
+**LangMaterial**:: Português
+**PhysLoc**:: f. 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7986

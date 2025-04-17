@@ -1,0 +1,16 @@
+====== 23167 - DC - Carta ======
+
+**Parent**:: 21044
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-12-31
+**UnitDateFinal**:: 1905-12-31
+**ScopeContent**:: Alexandre Amaral agradece as felicitações dadas por seu irmão ser ministro e lamenta a morte do sobrinho Alexandre d´Azevedo. Carta manuscrita assinada, L.c. d´Agrellos, Sta Cruz do Douro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23167
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 56 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23167

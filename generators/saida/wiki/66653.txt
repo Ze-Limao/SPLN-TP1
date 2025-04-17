@@ -1,0 +1,19 @@
+====== 66653 - UI - João Diogo Cabral Mascarenhas - Fábrica a vapor de Lacticinios Povolide ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: João Diogo Cabral Mascarenhas - Fábrica a vapor de Lacticinios Povolide
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-06-03
+**UnitDateFinal**:: 1914-06-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45175
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66653
+
+===== Filhos =====
+  * [[66654.txt|66654 - DC - Carta e minuta de resposta]]
+  * [[66655.txt|66655 - DC - Carta]]

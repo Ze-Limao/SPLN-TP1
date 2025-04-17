@@ -1,0 +1,16 @@
+====== 29392 - DC - Rascunho de carta ======
+
+**Parent**:: 28746
+**RootParent**:: 27963
+**UnitTitle**:: Rascunho de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-07-11
+**UnitDateFinal**:: 1907-07-11
+**ScopeContent**:: Junto da carta AS 601.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29392
+**LangMaterial**:: Português
+**PhysLoc**:: AS 602 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29392

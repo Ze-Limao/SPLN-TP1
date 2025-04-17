@@ -1,0 +1,19 @@
+====== 34228 - DC - Registo do recenseamento militar de Domingos Carvalho Tinoco ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos Carvalho Tinoco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Cruz
+Data de nascimento - 1852-06-05
+Filiação - António Carvalho Tinoco e Teresa Ferreira de Oliveira
+Profissão - Carpinteiro
+Estado - Solteiro
+Morada - Cruz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34228
+**LangMaterial**:: Português
+**PhysLoc**:: 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34228

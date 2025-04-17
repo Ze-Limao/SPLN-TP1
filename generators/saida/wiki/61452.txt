@@ -1,0 +1,44 @@
+====== 61452 - SR - Material gráfico ======
+
+**Parent**:: 61191
+**RootParent**:: 60551
+**UnitTitle**:: Material gráfico
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1970
+**UnitDateFinal**:: 2020
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61452
+
+===== Filhos =====
+  * [[61453.txt|61453 - DC - O Objectivo do Rotary Rotary Clube de Famalicão]]
+  * [[61750.txt|61750 - DC - Para a história de Rotary Club de Famalicão]]
+  * [[61751.txt|61751 - DC - Recital Cultural Choral Polifónico de Coimbra, etc.]]
+  * [[61752.txt|61752 - DC - Logotipos do Rotary International]]
+  * [[61753.txt|61753 - DC - Rotary International]]
+  * [[61754.txt|61754 - DC - Prémio Escolar conferido pelo Rotary Club de Famalicão]]
+  * [[61755.txt|61755 - DC - Honra ao Mérito conferido pelo Rotary Club de Vila Nova de Famalicão em reconhecimento dos serviços prestados à comunidade]]
+  * [[61756.txt|61756 - DC - Honra ao Mérito para jovens apresentado pelo Rotary Club de… reconhecimento pela excelência na prestação de serviços em ser digno de confiança na atuação de liderança]]
+  * [[61757.txt|61757 - DC - Fundação Rotária Portuguesa Subscritor de Mérito conferido ao Rotary Club de Vila Nova de Famalicão]]
+  * [[61758.txt|61758 - DC - Certificado de Geminação entre os Rotary Clubs de Praia - Cabo Verde e Vila Nova de Famalicão]]
+  * [[61759.txt|61759 - DC - Certificado de Geminação entre os Rotary Clubs de Praia - Cabo Verde e Vila Nova de Famalicão]]
+  * [[61760.txt|61760 - DC - Mérito Distrital atribuído ao Rotary Club de Famalicão pelos relevantes serviços]]
+  * [[61761.txt|61761 - DC - Subscritor de Mérito conferido ao Rotary Club de Vila Nova de Famalicão por Fundação Rotária Portuguesa]]
+  * [[61762.txt|61762 - DC - Menção Presidencial, Rotary Compartilha outorgado ao Rotary Club de VNF 2007-2008]]
+  * [[61763.txt|61763 - DC - Fundação Rotária Portuguesa Subscritor de Mérito conferido ao Rotary Club de Vila Nova de Famalicão]]
+  * [[61764.txt|61764 - DC - Certificado que durante a reunião conjunta entre Rotary Club de Famalicão do Distrito 1970 e o Rotary Club de Évora do Distrito 1960]]
+  * [[61765.txt|61765 - DC - Fundação Rotária Portuguesa Subscritor de Mérito conferido ao Rotary Club de Vila Nova de Famalicão]]
+  * [[61766.txt|61766 - DC - Reconhecimento Serviço e Mérito a Rotary Club de V.N. Famalicão pelo Rotary International Distrito 197 1989-1990]]
+  * [[61767.txt|61767 - DC - Menção Presidencial de 2013-14 outorgado ao Rotary Club de Vila Nova de Famalicão]]
+  * [[61768.txt|61768 - DC - Prémio Rotary Club Central de 2013-14 concedido Rotary Club de Vila Nova de Famalicão]]
+  * [[61769.txt|61769 - DC - Menção Presidencial 1995-96 por Integridade, Amor e Paz conferido ao Rotary Club de Vila Nova de Famalicão]]
+  * [[61770.txt|61770 - DC - Certificado de Reconhecimento outorgado a Armando Moura da Silva]]
+  * [[61771.txt|61771 - DC - Citação especial do Distrito 1970 ano 1995-96... a Armando Moura da Silva]]
+  * [[61772.txt|61772 - DC - Diploma de reconhecimento atribuído a Armando Moura da Silva Rotary International Distrito 1970]]
+  * [[61773.txt|61773 - DC - Certificado do Rotary Club de Famalicão e o Rotary Club de Santo Tirso, foi realizado uma reunião conjunta]]
+  * [[61774.txt|61774 - DC - Conferência do Distrito 1970 realizado em Guimarães com a participação de Armando Moura da Silva]]
+  * [[61775.txt|61775 - DC - Citação especial do Distrito 1970 ano 1995-96 Rotary Club de Famalicão]]
+  * [[61776.txt|61776 - DC - Reconhecimento Presidencial por Desenvolvimento do Quadro Social em 1995-96… a Manuel Simões Nogueira]]
+  * [[61777.txt|61777 - DC - Diploma de Reconhecimento 1994-95 concedido ao Rotary Club de Famalicão]]
+  * [[61778.txt|61778 - DC - Memorandum ao companheiro Armando Moura da Silva registo de intervenção na reunião]]
+  * [[61779.txt|61779 - DC - Distrito 1970 Reunião conjunta dos clubes: Caldas das Taipas, Braga, Braga Norte, Viana do Castelo e Vizela]]

@@ -1,0 +1,17 @@
+====== 55416 - DC - Nº 72 Projecto do Tratado da construção de caminhos de ferro ao Norte do Mondego ======
+
+**Parent**:: 54476
+**RootParent**:: 31258
+**UnitTitle**:: Nº 72 Projecto do Tratado da construção de caminhos de ferro ao Norte do Mondego
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-06-01
+**UnitDateFinal**:: 1888-06-12
+**ScopeContent**:: Impresso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55416
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12778 - cx. 77
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55416

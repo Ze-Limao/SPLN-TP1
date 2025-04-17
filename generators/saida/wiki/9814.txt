@@ -1,0 +1,17 @@
+====== 9814 - DC - Famalicão - Campo Mouzinho de Albuquerque ======
+
+**Parent**:: 9810
+**RootParent**:: 60698
+**UnitTitle**:: Famalicão - Campo Mouzinho de Albuquerque
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934
+**UnitDateFinal**:: 1934
+**ScopeContent**:: Bilhete-postal impresso, na frente a legenda. Edição registada do Centro de Novidades, made in Germany.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9814
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 73 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9814

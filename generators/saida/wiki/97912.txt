@@ -1,0 +1,15 @@
+====== 97912 - UI - Processo nº 242 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 242
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-04-22
+**UnitDateFinal**:: 1989-11-30
+**ScopeContent**:: Junto com Autos de Transgressão nº 244 e 245 e Autos de Execução por Custas nº 61.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 631 - cx. 36
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97912

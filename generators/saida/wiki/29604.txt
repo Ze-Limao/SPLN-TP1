@@ -1,0 +1,11 @@
+====== 29604 - SSR - Visita a Obras de Saneamento na União de Freguesias de Lemenhe, Mouquim e Jesufrei ======
+
+**Parent**:: 29596
+**RootParent**:: 29618
+**UnitTitle**:: Visita a Obras de Saneamento na União de Freguesias de Lemenhe, Mouquim e Jesufrei
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 2017-01-03
+**UnitDateFinal**:: 2017-01-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29604
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29604

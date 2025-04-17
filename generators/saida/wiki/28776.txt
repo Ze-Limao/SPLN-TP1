@@ -1,0 +1,14 @@
+====== 28776 - UI - Francisco do Amaral Cirne ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Francisco do Amaral Cirne
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878-07-02
+**UnitDateFinal**:: 1878-07-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28776
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28776
+
+===== Filhos =====
+  * [[28777.txt|28777 - DC - Carta]]

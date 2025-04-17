@@ -1,0 +1,17 @@
+====== 54843 - DC - Questão do cônsul alemão em Lourenço Marques ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Questão do cônsul alemão em Lourenço Marques
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1896-11-12
+**UnitDateFinal**:: 1897-03-31
+**ScopeContent**:: Maço com o título manuscrito. Contém 18 documentos: minutas de telegramas e de ofícios do Ministro Português em Berlim (Pindela) a Soveral (Luís) e outros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54843
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12654 e 12655 (1) A 12655 (18) - cx. 75
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54843

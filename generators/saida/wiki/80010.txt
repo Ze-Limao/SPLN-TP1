@@ -1,0 +1,15 @@
+====== 80010 - UI - Processo nº 54 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 54
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-11-25
+**UnitDateFinal**:: 1970-03-30
+**ScopeContent**:: Junto com Auto de Execução por Custas nº 54-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 27 - cx. 2
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80010

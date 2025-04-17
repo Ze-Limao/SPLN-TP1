@@ -1,0 +1,14 @@
+====== 31279 - SSC - José Pinheiro Lobo ======
+
+**Parent**:: 31278
+**RootParent**:: 31258
+**UnitTitle**:: José Pinheiro Lobo
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1667-07-09
+**UnitDateFinal**:: 1667-07-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31279
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31279
+
+===== Filhos =====
+  * [[54466.txt|54466 - SR - Documentos]]

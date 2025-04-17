@@ -1,0 +1,17 @@
+====== 31494 - DC - Cartão de visita ======
+
+**Parent**:: 31414
+**RootParent**:: 31258
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-01-26
+**UnitDateFinal**:: 1915-01-26
+**ScopeContent**:: Cartão impresso "Prof. Alberto de Aguiar da Faculdade de medicina e da Escola de Pharmacia. Rua da Restauração 256 Porto. Laboratorio Medico". Manuscrito assinado. Envia o relatório médico (não se encontra no fundo).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31494
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3449 - cx. 26
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31494

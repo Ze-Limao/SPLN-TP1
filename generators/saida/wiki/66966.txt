@@ -1,0 +1,15 @@
+====== 66966 - UI - Von Kemnitz ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Von Kemnitz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1910
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66966
+
+===== Filhos =====
+  * [[66968.txt|66968 - DC - Cartão de visita]]
+  * [[66969.txt|66969 - DC - Cartão de visita]]

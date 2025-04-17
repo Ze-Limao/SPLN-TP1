@@ -1,0 +1,17 @@
+====== 56905 - DC - Comissão de Viticultura. Serviço Central. Assumptos tratados. Preparação de novas eleição de Vogaes concelhios. Nº 20 ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Assumptos tratados. Preparação de novas eleição de Vogaes concelhios. Nº 20
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1933-02-11
+**UnitDateFinal**:: 1933-02-15
+**ScopeContent**:: Capa manuscrita com título a cores e ofício datilografado da C.V.R.V.V. nº 20. Documentos dirigidos aos vogais concelhios sobre as eleições. Contém 2 ofícios.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56905
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2669 - cx. 21
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56905

@@ -1,0 +1,16 @@
+====== 26183 - DC - Carta ======
+
+**Parent**:: 21245
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-11-15
+**UnitDateFinal**:: 1924-11-15
+**ScopeContent**:: Carta manuscrita assinada, do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26183
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 979 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26183

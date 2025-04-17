@@ -1,0 +1,15 @@
+====== 65808 - DC - Apegação, medição e confrontação do casal do Outeiro, situado na freguesia de Fradelos, por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, que empraza a Manuel Fernandes e sua mulher Maria João ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal do Outeiro, situado na freguesia de Fradelos, por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, que empraza a Manuel Fernandes e sua mulher Maria João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1671-04-07
+**UnitDateFinal**:: 1671-04-07
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 108 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65808

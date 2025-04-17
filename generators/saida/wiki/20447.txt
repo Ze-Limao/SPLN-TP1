@@ -1,0 +1,20 @@
+====== 20447 - DC - Registo do recenseamento militar de Torcato ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Torcato
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Mogege
+Filiação - Bernardino Ventura Mendes e Narcisa Monteiro
+Naturalidade - Mogege
+Data de nascimento - 1869-04-09
+Emprego - Tecelão
+Estado - Solteiro
+Residência - Mogege
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20447
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20447

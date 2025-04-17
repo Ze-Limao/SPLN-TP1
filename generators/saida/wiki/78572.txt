@@ -1,0 +1,17 @@
+====== 78572 - DC - Uma carta do Visconde de Pindela ======
+
+**Parent**:: 54529
+**RootParent**:: 31258
+**UnitTitle**:: Uma carta do Visconde de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924
+**UnitDateFinal**:: 1924
+**ScopeContent**:: Recorte de jornal com uma carta do 2º Visconde de Pindela a Alberto Pimentel, datada de 13 de dezembro 1899, em que o VP informava AP sobre a existência de parques infantis em Berlim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56881
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5789 - cx. 41
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78572

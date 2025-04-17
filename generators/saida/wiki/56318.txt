@@ -1,0 +1,17 @@
+====== 56318 - DC - Archivo Casa de Pindella: Folhas de trabalho dos operários que trabalharam na restauração da Casa de Pindela de 1896 a 1904 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Archivo Casa de Pindella: Folhas de trabalho dos operários que trabalharam na restauração da Casa de Pindela de 1896 a 1904
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56318
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11703 - cx. 66
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56318

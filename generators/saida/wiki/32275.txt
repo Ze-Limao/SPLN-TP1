@@ -1,0 +1,18 @@
+====== 32275 - UI - Associação de Agricultura Famalicense ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Associação de Agricultura Famalicense
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-08-25
+**UnitDateFinal**:: 1911-08-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32275
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32275
+
+===== Filhos =====
+  * [[32276.txt|32276 - DC - Ofício e minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

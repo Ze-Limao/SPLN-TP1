@@ -1,0 +1,19 @@
+====== 34197 - DC - Registo do recenseamento militar de José Lopes dos Santos ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Lopes dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vale S.Cosme
+Data de nascimento - 1852-07-11
+Filiação - Manuel Lopes dos Santos e Maria Teixeira
+Profissão - Criado de servir
+Estado - Solteiro
+Morada - Sezures
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34197
+**LangMaterial**:: Português
+**PhysLoc**:: 66v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34197

@@ -1,0 +1,14 @@
+====== 30040 - DC - Joaquim Marinho de Azevedo ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Marinho de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-10-19
+**UnitDateFinal**:: 1959-10-19
+**ScopeContent**:: Regedor efetivo da freguesia de Vermoim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30040
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30040

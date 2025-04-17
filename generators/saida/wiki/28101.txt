@@ -1,0 +1,16 @@
+====== 28101 - DC - Ofício de José Taveira de Carvalho Pinto Menezes, Presidente da Junta Promotora de Melhoramentos Agrícolas- 1ª Região agronómica, dirigido a José da Cunha Sampaio, irmão de Alberto Sampaio. ======
+
+**Parent**:: 28094
+**RootParent**:: 27963
+**UnitTitle**:: Ofício de José Taveira de Carvalho Pinto Menezes, Presidente da Junta Promotora de Melhoramentos Agrícolas- 1ª Região agronómica, dirigido a José da Cunha Sampaio, irmão de Alberto Sampaio.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-07-12
+**UnitDateFinal**:: 1889-07-12
+**ScopeContent**:: Ofício nº 41 manuscrito com logotipo da Junta Promotora impresso, enviado do Porto. Informa que o prémio concedido ao vinho de Boamense na Exposição de Vinhos Portugueses de Berlim se encontra na secretaria da Junta Promotora de Melhoramentos Agrícolas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28101
+**LangMaterial**:: Português
+**PhysLoc**:: AS 507 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28101

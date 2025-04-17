@@ -1,0 +1,16 @@
+====== 29102 - DC - Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio ======
+
+**Parent**:: 29094
+**RootParent**:: 27963
+**UnitTitle**:: Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Carta expedida do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29102
+**LangMaterial**:: Português
+**PhysLoc**:: AS 528 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29102

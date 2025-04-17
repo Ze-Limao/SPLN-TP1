@@ -1,0 +1,20 @@
+====== 28598 - DC - Notas sobre Viana ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre Viana
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28598
+**LangMaterial**:: Português
+**PhysLoc**:: AS 107 (1) a 107 (4)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28598
+
+===== Filhos =====
+  * [[28599.txt|28599 - DC - Vianna]]
+  * [[28600.txt|28600 - DC - Vianna segundo se infere das Inquir. de 1258]]
+  * [[28601.txt|28601 - DC - 1258]]
+  * [[28602.txt|28602 - DC - A 1.ª alçada abrange 21 julgados]]

@@ -1,0 +1,16 @@
+====== 21459 - UI - José de Castro Falcão Pinto Guedes Corte-Real ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José de Castro Falcão Pinto Guedes Corte-Real
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-10-21
+**UnitDateFinal**:: 1902-10-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21459
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1464
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21459
+
+===== Filhos =====
+  * [[30305.txt|30305 - DC - Carta]]

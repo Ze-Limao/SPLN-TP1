@@ -1,0 +1,16 @@
+====== 29380 - SSR - José da Cunha Sampaio e amigos ======
+
+**Parent**:: 28023
+**RootParent**:: 27963
+**UnitTitle**:: José da Cunha Sampaio e amigos
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 186
+**UnitDateFinal**:: 186
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29380
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29380
+
+===== Filhos =====
+  * [[28062.txt|28062 - DC - Carta de Alberto Sampaio]]
+  * [[29135.txt|29135 - DC - Carta de Alberto Sampaio]]
+  * [[29136.txt|29136 - DC - Carta de Alberto Sampaio]]

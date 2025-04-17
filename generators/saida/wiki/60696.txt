@@ -1,0 +1,22 @@
+====== 60696 - CL - Coleção Humberto Fonseca ======
+
+**Parent**:: 0
+**RootParent**:: 60696
+**UnitTitle**:: Coleção Humberto Fonseca
+**DescriptionLevel**:: CL
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1940
+**ScopeContent**:: Coleção de documentos fotográficos negativos de vidro e película e positivos em papel. Esta coleção está digital no sistema GEAD que pode ser consultada internamente no Arquivo Municipal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60696
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60696
+
+===== Filhos =====
+  * [[100537.txt|100537 - SR - Material fotográfico]]
+  * [[100542.txt|100542 - SR - Fotografias positivos em papel]]
+  * [[100543.txt|100543 - SR - Negativos em vidro com correspondência às fotografias positivos em papel]]
+  * [[100544.txt|100544 - SR - Negativos em película]]
+  * [[100624.txt|100624 - SR - Negativos em vidro]]

@@ -1,0 +1,15 @@
+====== 80707 - UI - Processo nº 167/80 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 167/80
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-11-27
+**UnitDateFinal**:: 1986-01-07
+**ScopeContent**:: 2ª Secção. Junto com Autos de Reclamação de Créditos nº 167-A/80 e nº 167-B/80.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 309 - cx. 16
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80707

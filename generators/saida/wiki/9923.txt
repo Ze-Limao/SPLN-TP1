@@ -1,0 +1,45 @@
+====== 9923 - UI - Conta Corrente da Câmara com o Tesoureiro ======
+
+**Parent**:: 9917
+**RootParent**:: 7651
+**UnitTitle**:: Conta Corrente da Câmara com o Tesoureiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1882-01-04
+**UnitDateFinal**:: 1882-03-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9923
+**LangMaterial**:: Português
+**PhysLoc**:: 6.1.6
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9923
+
+===== Filhos =====
+  * [[9937.txt|9937 - DC - Registo do pagamento a Estulano José Galvão de Lacerda]]
+  * [[9938.txt|9938 - DC - Registo do pagamento a António Moreira Maia]]
+  * [[9939.txt|9939 - DC - Registo do pagamento a Augusto Teixeira Folhadela]]
+  * [[9940.txt|9940 - DC - Registo do pagamento a Silvério Ferreira de Macedo]]
+  * [[9941.txt|9941 - DC - Registo do pagamento a Silvério Ferreira de Macedo]]
+  * [[9942.txt|9942 - DC - Registo do pagamento a Joaquim Eduardo de Sousa Meneses]]
+  * [[9943.txt|9943 - DC - Registo do pagamento dos ordenados aos empregados da Câmara Municipal e Administração do Concelho]]
+  * [[9944.txt|9944 - DC - Registo do pagamento dos ordenados aos professores de instrução primária e respetivos ajudantes]]
+  * [[9945.txt|9945 - DC - Registo do pagamento a Augusto Teixeira Folhadela]]
+  * [[9946.txt|9946 - DC - Registo do pagamento a António Ferreira Janga]]
+  * [[9947.txt|9947 - DC - Registo do pagamento a Manuel Augusto Correia Guimarães, procurador da Câmara]]
+  * [[9948.txt|9948 - DC - Registo do pagamento a Manuel Augusto Correia Guimarães]]
+  * [[9949.txt|9949 - DC - Registo do pagamento a José do Padre da Cunha]]
+  * [[9950.txt|9950 - DC - Registo do pagamento a Silvério Ferreira de Macedo]]
+  * [[9951.txt|9951 - DC - Registo do pagamento ao Barão de Trovisqueira]]
+  * [[9952.txt|9952 - DC - Registo do pagamento dos ordenados aos empregados da Câmara Municipal e Administração do Concelho]]
+  * [[9953.txt|9953 - DC - Registo do pagamento dos ordenados aos professores de instrução primária e respetivos ajudantes]]
+  * [[9973.txt|9973 - DC - Registo do pagamento a Joaquim Antunes]]
+  * [[9974.txt|9974 - DC - Registo do pagamento a José do Padre da Cunha]]
+  * [[9975.txt|9975 - DC - Registo do pagamento a António Ferreira Janga]]
+  * [[9976.txt|9976 - DC - Registo do pagamento a Augusto Teixeira Folhadela]]
+  * [[9977.txt|9977 - DC - Registo do pagamento a António Ferreira Guimarães]]
+  * [[9978.txt|9978 - DC - Registo do pagamento a António Máximo Salgado Carneiro]]
+  * [[9979.txt|9979 - DC - Registo do pagamento a Manuel Augusto Correia Guimarães, procurador da Câmara]]
+  * [[9980.txt|9980 - DC - Registo do pagamento a António Rodrigues da Fonseca]]
+  * [[9981.txt|9981 - DC - Registo do pagamento a Augusto Teixeira Folhadela]]
+  * [[9982.txt|9982 - DC - Registo do pagamento a Augusto Teixeira Folhadela]]
+  * [[9983.txt|9983 - DC - Registo do pagamento a Augusto Teixeira Folhadela]]
+  * [[9984.txt|9984 - DC - Registo do pagamento a António Ferreira Janga]]
+  * [[9985.txt|9985 - DC - Registo do pagamento a José do Padre da Cunha]]

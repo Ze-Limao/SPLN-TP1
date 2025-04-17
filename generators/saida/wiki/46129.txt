@@ -1,0 +1,16 @@
+====== 46129 - SR - Correspondência enviada ======
+
+**Parent**:: 31318
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência enviada
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1880-06-17
+**UnitDateFinal**:: 1881-11-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46129
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46129
+
+===== Filhos =====
+  * [[46130.txt|46130 - UI - Francisco Sales Ferreira]]
+  * [[54399.txt|54399 - UI - Francisco Costa]]
+  * [[54403.txt|54403 - UI - Júlio de Vilhena]]

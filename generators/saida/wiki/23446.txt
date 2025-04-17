@@ -1,0 +1,16 @@
+====== 23446 - DC - Registo do recenseamento eleitoral de José Carneiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Seide S. Paio
+Profissão - Lavrador
+Morada - Pouve
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23446
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23446

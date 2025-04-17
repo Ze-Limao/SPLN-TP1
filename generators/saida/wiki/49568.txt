@@ -1,0 +1,18 @@
+====== 49568 - DC - Registo do recenseamento eleitoral de António Ferreira da Cunha Braga ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Ferreira da Cunha Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Artista
+Estado - Casado
+Morada - Rua Formosa
+Idade - 36
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49568
+**LangMaterial**:: Português
+**PhysLoc**:: 90v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49568

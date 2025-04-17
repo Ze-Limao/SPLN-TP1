@@ -1,0 +1,16 @@
+====== 25034 - UI - Processo Obra Construção do Quartel de Bombeiros Voluntários de Famalicão ======
+
+**Parent**:: 20371
+**RootParent**:: 20342
+**UnitTitle**:: Processo Obra Construção do Quartel de Bombeiros Voluntários de Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1961-05-31
+**UnitDateFinal**:: 1961-05-31
+**ScopeContent**:: Contém: Contrato com empreiteiro Raimundo Magalhães; memória descritiva e justificativa; preços; medição; orçamentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25034
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 136 - cx. 34
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25034

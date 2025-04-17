@@ -1,0 +1,44 @@
+====== 56921 - DC - Negócios frustrados Dorville e outros. Dezembro 1933-Novembro de 1934 ======
+
+**Parent**:: 56919
+**RootParent**:: 31258
+**UnitTitle**:: Negócios frustrados Dorville e outros. Dezembro 1933-Novembro de 1934
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1933-12-13
+**UnitDateFinal**:: 1934-08-11
+**ScopeContent**:: Capa com título manuscrito a cores. Contém CP 2683 a CP 2707.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56921
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2682 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56921
+
+===== Filhos =====
+  * [[56916.txt|56916 - DC - Negócio de filmes]]
+  * [[56917.txt|56917 - DC - Minuta de ofício para Silva Pereira e ofício resposta para 3º Visconde de Pindela]]
+  * [[56922.txt|56922 - DC - Ofício de Silva Pereira para 3º Visconde de Pindela]]
+  * [[56923.txt|56923 - DC - Telegrama de Silva Pereira para 3º Visconde de Pindela]]
+  * [[56924.txt|56924 - DC - Minuta de ofício para Silva Pereira de 3º Visconde de Pindela]]
+  * [[56925.txt|56925 - DC - Telegrama de Silva Pereira para 3º Visconde de Pindela]]
+  * [[56926.txt|56926 - DC - Ofício de Silva Pereira para 3º Visconde de Pindela]]
+  * [[56927.txt|56927 - DC - Cinéma]]
+  * [[56928.txt|56928 - DC - Cinéma]]
+  * [[56929.txt|56929 - DC - Ofício de Silva Pereira para 3º Visconde de Pindela]]
+  * [[56930.txt|56930 - DC - Minuta de ofício]]
+  * [[56931.txt|56931 - DC - Notas]]
+  * [[56932.txt|56932 - DC - Notas]]
+  * [[56933.txt|56933 - DC - Notas]]
+  * [[56934.txt|56934 - DC - Ofício de Silva Pereira para 3º Visconde de Pindela]]
+  * [[56935.txt|56935 - DC - Ofício de Silva Pereira para 3º Visconde de Pindela]]
+  * [[56936.txt|56936 - DC - Cópia de ofício para Lory Film de Silva Pereira e 3º Visconde de Pindela]]
+  * [[56937.txt|56937 - DC - Ofício de Marie-Thérèse para 3º Visconde de Pindela]]
+  * [[56938.txt|56938 - DC - Ofício para Silva Pereira do 3º Visconde de Pindela]]
+  * [[56939.txt|56939 - DC - Ofício de Lory Film para 3º Visconde de Pindela]]
+  * [[56940.txt|56940 - DC - Cópia de ofício para 3º Visconde de Pindela]]
+  * [[56941.txt|56941 - DC - Ofício de Silva Pereira para 3º Visconde de Pindela]]
+  * [[56942.txt|56942 - DC - Minuta de ofício do 3º Visconde de Pindela para Silva Pereira]]
+  * [[56943.txt|56943 - DC - Telegramas de Silva Pereira para 3º Visconde de Pindela]]
+  * [[56944.txt|56944 - DC - Ofício de Silva Pereira para 3º Visconde de Pindela]]

@@ -1,0 +1,18 @@
+====== 8189 - DC - António Martins de Sá ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: António Martins de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-05-17
+**UnitDateFinal**:: 1884-05-17
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - António de Sá e Ana Martins da Costa
+Naturalidade - Ribeirão
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8189
+**LangMaterial**:: Português
+**PhysLoc**:: f. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8189

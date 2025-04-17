@@ -1,0 +1,18 @@
+====== 49526 - DC - Registo do recenseamento eleitoral de Luís Monteiro ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Luís Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vermoim
+Profissão - Lavrador
+Estado - Viúvo
+Morada - Venda
+Idade - 45
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49526
+**LangMaterial**:: Português
+**PhysLoc**:: 88v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49526

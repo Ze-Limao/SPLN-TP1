@@ -1,0 +1,15 @@
+====== 31304 - SSC - João Machado Pinheiro Correia de Melo ======
+
+**Parent**:: 31303
+**RootParent**:: 31258
+**UnitTitle**:: João Machado Pinheiro Correia de Melo
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1800
+**UnitDateFinal**:: 1891
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31304
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31304
+
+===== Filhos =====
+  * [[31306.txt|31306 - SR - Correspondência recebida]]
+  * [[54366.txt|54366 - SR - Documentos]]

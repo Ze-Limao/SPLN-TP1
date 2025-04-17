@@ -1,0 +1,19 @@
+====== 34742 - DC - Registo do recenseamento militar de Camilo ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Camilo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Antas
+Data de nascimento - 1862-08-13
+Filiação - Francisco António Xavier de Faria e Maria Josefa da Silva
+Profissão - 
+Estado - Solteiro
+Morada - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34742
+**LangMaterial**:: Português
+**PhysLoc**:: 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34742

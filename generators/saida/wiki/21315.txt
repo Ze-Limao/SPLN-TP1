@@ -1,0 +1,16 @@
+====== 21315 - UI - António Geda Gonçalves ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Geda Gonçalves
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-11-05
+**UnitDateFinal**:: 1906-11-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21315
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1200
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21315
+
+===== Filhos =====
+  * [[29791.txt|29791 - DC - Carta]]

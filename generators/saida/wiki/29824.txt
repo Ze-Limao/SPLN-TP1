@@ -1,0 +1,16 @@
+====== 29824 - DC - Carta ======
+
+**Parent**:: 21079
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-07-17
+**UnitDateFinal**:: 1905-07-17
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29824
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1233 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29824

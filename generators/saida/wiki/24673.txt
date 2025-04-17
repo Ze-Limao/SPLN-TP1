@@ -1,0 +1,16 @@
+====== 24673 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-05-26
+**UnitDateFinal**:: 1903-05-26
+**ScopeContent**:: António Ferraz refere que não compreende os elementos obtidos na Torre do Tombo em relação aos Farias. Dá elementos recolhidos no Portugaliae Monumenta Historica e outros sobre os Farias. Carta manuscrita, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24673
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 175 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24673

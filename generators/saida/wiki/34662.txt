@@ -1,0 +1,19 @@
+====== 34662 - DC - Registo do recenseamento militar de Bernardo ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Landim
+Data de nascimento - 1862-09-08
+Filiação - João da Silva  e Emília Rosa
+Profissão - Pedreiro
+Estado - Solteiro
+Morada - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34662
+**LangMaterial**:: Português
+**PhysLoc**:: 41v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34662

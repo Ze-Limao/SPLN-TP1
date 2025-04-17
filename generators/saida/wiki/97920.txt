@@ -1,0 +1,15 @@
+====== 97920 - UI - Processo nº 684-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 684-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-02-03
+**UnitDateFinal**:: 1978-10-30
+**ScopeContent**:: Junto com Autos de Transgressão nº 684.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 639 - cx. 36
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97920

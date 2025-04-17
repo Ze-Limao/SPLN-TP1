@@ -1,0 +1,16 @@
+====== 61384 - DC - Acta da sessão de posse da Comissão Republicana Famalicense ======
+
+**Parent**:: 60931
+**RootParent**:: 60550
+**UnitTitle**:: Acta da sessão de posse da Comissão Republicana Famalicense
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-02-19
+**UnitDateFinal**:: 1919-02-19
+**ScopeContent**:: Manuscrito. Ata da sessão de posse assinada por Daniel Rodrigues e outros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 158 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61384

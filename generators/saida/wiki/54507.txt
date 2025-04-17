@@ -1,0 +1,17 @@
+====== 54507 - DC - Apontamentos de Microbiologia pertencentes a João Affonso Figueiredo Machado do Instituto Superior de Agronomia ======
+
+**Parent**:: 54493
+**RootParent**:: 31258
+**UnitTitle**:: Apontamentos de Microbiologia pertencentes a João Affonso Figueiredo Machado do Instituto Superior de Agronomia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-11-22
+**UnitDateFinal**:: 1915-11-22
+**ScopeContent**:: Caderno nº2 de apontamentos manuscritos em folhas pautadas, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54507
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2370 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54507

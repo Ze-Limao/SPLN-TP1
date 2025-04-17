@@ -1,0 +1,15 @@
+====== 25103 - DC - Obrigação nº3 de 10$000 de empréstimo à AHBVF em nome de António Rodrigues Ribeiro Viegas ======
+
+**Parent**:: 25461
+**RootParent**:: 20342
+**UnitTitle**:: Obrigação nº3 de 10$000 de empréstimo à AHBVF em nome de António Rodrigues Ribeiro Viegas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-05-01
+**UnitDateFinal**:: 1901-05-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25103
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 177 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25103

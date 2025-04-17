@@ -1,0 +1,16 @@
+====== 29819 - DC - Carta ======
+
+**Parent**:: 21333
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-11-06
+**UnitDateFinal**:: 1915-11-06
+**ScopeContent**:: António Pereira de Vasconcelos demonstra interesse pela causa da reconstrução da casa de Camilo Castelo Branco e envia 5.000 réis, assim como a Câmara Municipal de Ponte da Barca irá dar futuramente um valor ainda não decidido. Carta manuscrita assinada, da Casa de Fonte Velha (Ponte da Barca). Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29819
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1228 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29819

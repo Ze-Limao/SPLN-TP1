@@ -1,0 +1,16 @@
+====== 24697 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-06-22
+**UnitDateFinal**:: 1907-06-22
+**ScopeContent**:: António Ferraz agradece o interesse pela doença da irmã. Tece observações sobre questões de família. Carta manuscrita assinada, Póvoa de Varzim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24697
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 199 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24697

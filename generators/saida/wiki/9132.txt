@@ -1,0 +1,13 @@
+====== 9132 - DC - Ofício nº 32 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 32
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-07-21
+**UnitDateFinal**:: 1886-07-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9132
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9132

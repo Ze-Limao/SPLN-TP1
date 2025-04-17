@@ -1,0 +1,18 @@
+====== 51621 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-06-04
+Filiação - Felicidade Antunes
+Naturalidade - Mogege
+Profissão - Criado de servir
+Residência - Ronfe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51621
+**LangMaterial**:: Português
+**PhysLoc**:: 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51621

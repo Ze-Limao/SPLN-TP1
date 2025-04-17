@@ -1,0 +1,15 @@
+====== 25887 - DC - Bomba braçal nº1 e carreta ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Bomba braçal nº1 e carreta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1900
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25887
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25887

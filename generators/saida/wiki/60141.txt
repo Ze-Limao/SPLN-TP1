@@ -1,0 +1,22 @@
+====== 60141 - DC - Hoja de informaciones corporativas ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Hoja de informaciones corporativas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1934-05
+**UnitDateFinal**:: 1935-07
+**ScopeContent**:: Ministerio de las Corporaciones del reino de Itália. Contém CP 8539 a CP 8543.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60141
+
+===== Filhos =====
+  * [[60142.txt|60142 - DC - Hoja de informaciones corporativas nº7]]
+  * [[79153.txt|79153 - DC - Hoja de informaciones corporativas nº6]]
+  * [[79154.txt|79154 - DC - Hoja de informaciones corporativas nº5]]
+  * [[79155.txt|79155 - DC - Hoja de informaciones corporativas nº4]]
+  * [[79156.txt|79156 - DC - Hoja de informaciones corporativas nº6]]

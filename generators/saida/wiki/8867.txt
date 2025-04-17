@@ -1,0 +1,18 @@
+====== 8867 - DC - Termo do exame de Cândido Granja ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Cândido Granja
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-07
+**UnitDateFinal**:: 1893-08-07
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - José Joaquim da Silva Granja
+Naturalidade - Calendário
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8867
+**LangMaterial**:: Português
+**PhysLoc**:: f. 52
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8867

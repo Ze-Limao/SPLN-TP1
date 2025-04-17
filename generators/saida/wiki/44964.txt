@@ -1,0 +1,20 @@
+====== 44964 - UI - José da Silva e Castro ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: José da Silva e Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-08-16
+**UnitDateFinal**:: 1916-12-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD44964
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=44964
+
+===== Filhos =====
+  * [[44965.txt|44965 - DC - Carta]]
+  * [[44966.txt|44966 - DC - Carta]]
+  * [[44967.txt|44967 - DC - Carta]]

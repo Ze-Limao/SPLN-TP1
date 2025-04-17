@@ -1,0 +1,19 @@
+====== 61440 - SSR - Atas de reuniões ======
+
+**Parent**:: 61194
+**RootParent**:: 60551
+**UnitTitle**:: Atas de reuniões
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1972
+**UnitDateFinal**:: 2010
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61195
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61440
+
+===== Filhos =====
+  * [[61526.txt|61526 - DC - Atas de reunião]]
+  * [[61527.txt|61527 - DC - Atas de reunião]]
+  * [[61528.txt|61528 - DC - Resumo das reuniões ano 1991-92]]
+  * [[61529.txt|61529 - DC - Cópia do Resumo das reuniões ano 1991-92]]
+  * [[61530.txt|61530 - DC - Ata de Assembleia do Clube]]
+  * [[61531.txt|61531 - DC - Acta Rotary Club de V. N. de Famalicão]]

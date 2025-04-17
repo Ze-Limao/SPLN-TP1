@@ -1,0 +1,18 @@
+====== 8773 - DC - Termo do exame de Rosa Cândida de Araújo ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Rosa Cândida de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-18
+**UnitDateFinal**:: 1891-07-18
+**ScopeContent**:: Grau - Elementar
+Idade - 23
+Filiação - Joaquim Gonçalves de Araújo
+Naturalidade - Estela, Póvoa de Varzim
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8773
+**LangMaterial**:: Português
+**PhysLoc**:: f. 27
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8773

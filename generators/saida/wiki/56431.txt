@@ -1,0 +1,27 @@
+====== 56431 - DC - Envelope ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Envelope
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1918-01-02
+**ScopeContent**:: Envelope manuscrito dirigido ao Visconde de Pindela de Francisco d´Assis Ribeiro Costa. A data retirada do carimbo. Contém receitas médicas CP 4782 a CP 4790.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56431
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4781 - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56431
+
+===== Filhos =====
+  * [[56432.txt|56432 - DC - 28 de Dezembro de 1915]]
+  * [[56433.txt|56433 - DC - Receita farmacêutica e conta]]
+  * [[56434.txt|56434 - DC - Nota]]
+  * [[56435.txt|56435 - DC - Receita farmacêutica]]
+  * [[56436.txt|56436 - DC - Nota]]
+  * [[56437.txt|56437 - DC - Receita]]
+  * [[56438.txt|56438 - DC - Receita farmacêutica]]
+  * [[56439.txt|56439 - DC - Nota de despesas]]

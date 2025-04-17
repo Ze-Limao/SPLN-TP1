@@ -1,0 +1,16 @@
+====== 23091 - DC - Carta ======
+
+**Parent**:: 20335
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1956
+**ScopeContent**:: Alberto de Gusmão Navarro comunica que é com grande prazer que troca informações com JAM. Carta manuscrita assinada sem data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23091
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 16 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23091

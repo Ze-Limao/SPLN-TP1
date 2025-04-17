@@ -1,0 +1,18 @@
+====== 8145 - DC - Joaquim Correia de Araújo Rebelo ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Correia de Araújo Rebelo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-03-26
+**UnitDateFinal**:: 1887-03-26
+**ScopeContent**:: Escola - Louro
+Cargo - Professor
+Vínculo - Vital~icio
+Naturalidade - Requião
+Data de posse - 1887-03-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8145
+**LangMaterial**:: Português
+**PhysLoc**:: f. 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8145

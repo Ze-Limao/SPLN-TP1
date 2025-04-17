@@ -1,0 +1,18 @@
+====== 46819 - DC - Registo do recenseamento eleitoral de Rodrigo Luís da Costa ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Rodrigo Luís da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Riba de Ave
+Profissão - Lavrador
+Estado - Casado
+Morada - Fontela
+Idade - 36
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46819
+**LangMaterial**:: Português
+**PhysLoc**:: 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46819

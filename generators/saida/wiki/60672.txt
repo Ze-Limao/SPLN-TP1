@@ -1,0 +1,14 @@
+====== 60672 - SC - Serviços Financeiros ======
+
+**Parent**:: 60671
+**RootParent**:: 60671
+**UnitTitle**:: Serviços Financeiros
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1854-09-13
+**UnitDateFinal**:: 1876-10-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60672
+
+===== Filhos =====
+  * [[60673.txt|60673 - SSC - Contabilidade]]

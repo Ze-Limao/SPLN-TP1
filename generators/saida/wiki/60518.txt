@@ -1,0 +1,14 @@
+====== 60518 - UI - Clérigo? Padre Joaquim? ======
+
+**Parent**:: 31370
+**RootParent**:: 31258
+**UnitTitle**:: Clérigo? Padre Joaquim?
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1843
+**UnitDateFinal**:: 1858
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31444
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60518
+
+===== Filhos =====
+  * [[60520.txt|60520 - DC - Carta]]

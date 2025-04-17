@@ -1,0 +1,17 @@
+====== 61822 - DC - Celebremos Rotary 100 anos Rotary Club de V.N. Famalicão. Rotary Classic´s Revival Encontro Internacional de Automóveis Antigos ======
+
+**Parent**:: 61783
+**RootParent**:: 60551
+**UnitTitle**:: Celebremos Rotary 100 anos Rotary Club de V.N. Famalicão. Rotary Classic´s Revival Encontro Internacional de Automóveis Antigos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 2005
+**UnitDateFinal**:: 2005
+**ScopeContent**:: Placas de secretária em acrílico num saco de veludo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 492 - cx. 12
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61822

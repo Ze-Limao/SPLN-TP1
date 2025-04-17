@@ -1,0 +1,17 @@
+====== 29579 - SSC - Documentos posteriores à morte de Alberto Sampaio ======
+
+**Parent**:: 27966
+**RootParent**:: 27963
+**UnitTitle**:: Documentos posteriores à morte de Alberto Sampaio
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1908-12-02
+**UnitDateFinal**:: 1941
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29579
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29579
+
+===== Filhos =====
+  * [[28080.txt|28080 - DC - Ofício da Associação Comercial de Guimarães dirigido a António Vicente Leal Sampaio.]]
+  * [[28081.txt|28081 - DC - Ofício n. 362 da Câmara Municipal de Guimarães dirigido a António Vicente Leal Sampaio]]
+  * [[29370.txt|29370 - DC - Postal ilustrado da Casa Boamense]]
+  * [[29371.txt|29371 - DC - Postal ilustrado da Casa Boamense]]

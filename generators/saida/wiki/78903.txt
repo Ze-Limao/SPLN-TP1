@@ -1,0 +1,17 @@
+====== 78903 - DC - Au Portuguesische Gesaudschaft ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Au Portuguesische Gesaudschaft
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Envelope impresso "Correspondenz Wedekind “ junto com 23 cartões. Contém CP 7767 a CP 7788.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56704
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7666 - cx. 49
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78903

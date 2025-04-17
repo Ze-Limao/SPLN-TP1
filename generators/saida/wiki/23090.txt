@@ -1,0 +1,16 @@
+====== 23090 - DC - Carta ======
+
+**Parent**:: 20335
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927-03-15
+**UnitDateFinal**:: 1927-03-15
+**ScopeContent**:: Alberto de Gusmão Navarro agradece as referências que lhe são feitas e considera o livro “Ninharias” como um dos melhores obras no género. Refere que é uma honra ter JAM como colaborador na revista. Convida a enviar uma publicação para o Nobiliário do Afonso de Torres e alude a outra publicação para o Archivo de Documentos Históricos. Agradece o convite para o visitar e desculpa-se da sua impossibilidade para o fazer no momento. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23090
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 15 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23090

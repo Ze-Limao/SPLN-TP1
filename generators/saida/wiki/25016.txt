@@ -1,0 +1,16 @@
+====== 25016 - UI - Livro d´Ouro da Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Livro d´Ouro da Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-05-16
+**UnitDateFinal**:: 1923-12-25
+**ScopeContent**:: Registo dos nomes dos beneméritos e donativos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25016
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 119
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25016

@@ -1,0 +1,18 @@
+====== 50770 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-03-13
+Filiação - Maria
+Naturalidade - Oliveira Santa Maria
+Profissão - Tecelão
+Residência - Oliveira Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50770
+**LangMaterial**:: Português
+**PhysLoc**:: 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50770

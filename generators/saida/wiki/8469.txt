@@ -1,0 +1,18 @@
+====== 8469 - DC - Termo do exame de Francisco de Oliveira Campos ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Francisco de Oliveira Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-05-06
+**UnitDateFinal**:: 1886-05-06
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - José Joaquim de Oliveira Campos
+Naturalidade - Nine
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8469
+**LangMaterial**:: Português
+**PhysLoc**:: f. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8469

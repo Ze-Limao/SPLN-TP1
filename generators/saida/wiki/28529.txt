@@ -1,0 +1,16 @@
+====== 28529 - DC - Viana… seu porto ======
+
+**Parent**:: 28524
+**RootParent**:: 27963
+**UnitTitle**:: Viana… seu porto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Alberto Sampaio aproveitou um ofício da Santa Casa da Misericórdia de Guimarães para cortar em pequenos papéis destinados às suas notas. No verso é visível o timbre da Santa Casa da Misericórdia de Guimarães e o n.º do ofício (134).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28529
+**LangMaterial**:: Português
+**PhysLoc**:: AS 91 (5) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28529

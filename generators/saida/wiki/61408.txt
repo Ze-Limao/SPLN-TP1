@@ -1,0 +1,16 @@
+====== 61408 - DC - A Bandeira da vitória flutua sobre África. Nº 12 ======
+
+**Parent**:: 60930
+**RootParent**:: 60550
+**UnitTitle**:: A Bandeira da vitória flutua sobre África. Nº 12
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943
+**UnitDateFinal**:: 1943
+**ScopeContent**:: Publicação periódica dos Serviços de Imprensa e Informação da Embaixada Britânica.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 194 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61408

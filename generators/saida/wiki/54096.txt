@@ -1,0 +1,17 @@
+====== 54096 - DC - Ofício dirigido ao Presidente da Câmara Municipal e Memória Justificativa e explicativa da empresa  João Félix da Silva Capucho ======
+
+**Parent**:: 54091
+**RootParent**:: 25851
+**UnitTitle**:: Ofício dirigido ao Presidente da Câmara Municipal e Memória Justificativa e explicativa da empresa  João Félix da Silva Capucho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-04-25
+**UnitDateFinal**:: 1958-04-25
+**ScopeContent**:: Originais. Documentos assinados por João Félix da Silva Capucho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54096
+**LangMaterial**:: Português
+**PhysLoc**:: JG 169(3) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54096

@@ -1,0 +1,19 @@
+====== 34807 - DC - Registo do recenseamento militar de Aloísio ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Aloísio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1863-01-12
+Filiação - Firmino José da Costa e Maria da Glória da Silva Sampaio
+Profissão - Armador
+Estado - Solteiro
+Morada - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34807
+**LangMaterial**:: Português
+**PhysLoc**:: 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34807

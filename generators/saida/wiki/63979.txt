@@ -1,0 +1,15 @@
+====== 63979 - DC - Carta de compra e venda de todo o quinhão no campo da Cortinha da Agra, na freguesia de Avidos, vendem Sebastião Luís e sua mulher Catarina Luís, moradores no lugar de Castelões, a Álvaro Luís e sua mulher, por oito mil reis ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Carta de compra e venda de todo o quinhão no campo da Cortinha da Agra, na freguesia de Avidos, vendem Sebastião Luís e sua mulher Catarina Luís, moradores no lugar de Castelões, a Álvaro Luís e sua mulher, por oito mil reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1604-05-09
+**UnitDateFinal**:: 1606-03-07
+**ScopeContent**:: Manuscrito, instrumento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 79 - cx. 3
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63979

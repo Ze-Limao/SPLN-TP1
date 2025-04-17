@@ -1,0 +1,17 @@
+====== 33467 - DC - Carta ======
+
+**Parent**:: 33466
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-10-30
+**UnitDateFinal**:: 1878-10-30
+**ScopeContent**:: Carta manuscrita assinada, em papel de luto, da Quinta do Melo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33467
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7349 - cx. 47
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33467

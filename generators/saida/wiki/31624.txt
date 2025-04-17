@@ -1,0 +1,24 @@
+====== 31624 - UI - Matilde Lindpaintner de Almeida ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Matilde Lindpaintner de Almeida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-06-27
+**UnitDateFinal**:: 1915-06-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31624
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31624
+
+===== Filhos =====
+  * [[31626.txt|31626 - DC - Cartão]]
+  * [[31627.txt|31627 - DC - Bilhete-postal]]
+  * [[31628.txt|31628 - DC - Carta]]
+  * [[31629.txt|31629 - DC - Carta]]
+  * [[31630.txt|31630 - DC - Bilhete-postal e carta]]
+  * [[31631.txt|31631 - DC - Carta]]
+  * [[31632.txt|31632 - DC - Carta]]

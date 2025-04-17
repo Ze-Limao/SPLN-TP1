@@ -1,0 +1,62 @@
+====== 55123 - UI - Eduardo Vilaça ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Eduardo Vilaça
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903
+**UnitDateFinal**:: 1911-07-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55123
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55123
+
+===== Filhos =====
+  * [[55124.txt|55124 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55340.txt|55340 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55341.txt|55341 - DC - Telegrama]]
+  * [[55342.txt|55342 - DC - Carta]]
+  * [[55343.txt|55343 - DC - Carta]]
+  * [[55344.txt|55344 - DC - Telegrama]]
+  * [[55345.txt|55345 - DC - Carta]]
+  * [[55346.txt|55346 - DC - Minuta de carta de Eduardo Vilaça]]
+  * [[55347.txt|55347 - DC - Minuta de carta de Eduardo Vilaça]]
+  * [[55348.txt|55348 - DC - Carta e recortes de jornais]]
+  * [[55349.txt|55349 - DC - Carta]]
+  * [[55350.txt|55350 - DC - Carta]]
+  * [[55351.txt|55351 - DC - Carta]]
+  * [[55352.txt|55352 - DC - Telegrama]]
+  * [[55353.txt|55353 - DC - Telegrama]]
+  * [[55354.txt|55354 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55355.txt|55355 - DC - Carta]]
+  * [[55356.txt|55356 - DC - Minuta de carta]]
+  * [[55357.txt|55357 - DC - Carta]]
+  * [[55358.txt|55358 - DC - Minuta de carta]]
+  * [[55359.txt|55359 - DC - Telegrama]]
+  * [[55360.txt|55360 - DC - Telegrama]]
+  * [[55361.txt|55361 - DC - Telegrama]]
+  * [[55362.txt|55362 - DC - Telegrama]]
+  * [[55363.txt|55363 - DC - Telegrama]]
+  * [[55364.txt|55364 - DC - Telegrama]]
+  * [[55365.txt|55365 - DC - Correspondência particular com Eduardo Vilaça em Novembro de 1905 (Madeira, modus vivendi, comercial, etc.)]]
+  * [[55366.txt|55366 - DC - Telegrama]]
+  * [[55367.txt|55367 - DC - Telegrama]]
+  * [[55368.txt|55368 - DC - Telegrama]]
+  * [[55369.txt|55369 - DC - Telegrama]]
+  * [[55370.txt|55370 - DC - Telegrama]]
+  * [[55371.txt|55371 - DC - Telegrama]]
+  * [[55372.txt|55372 - DC - Cartão de Madame Pannvitz e cartão de Professor Pannvitz]]
+  * [[55373.txt|55373 - DC - Telegrama]]
+  * [[55374.txt|55374 - DC - Minuta de carta de M. Muhlberg]]
+  * [[55375.txt|55375 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55377.txt|55377 - DC - Minuta de ofício]]
+  * [[55378.txt|55378 - DC - Minuta de ofício]]
+  * [[55379.txt|55379 - DC - Minuta de ofício]]
+  * [[55380.txt|55380 - DC - Minuta de ofício]]
+  * [[55381.txt|55381 - DC - Minuta de ofício]]
+  * [[55382.txt|55382 - DC - Minuta de ofício]]
+  * [[55383.txt|55383 - DC - Minuta de ofício]]
+  * [[55384.txt|55384 - DC - Minuta de ofício]]
+  * [[55385.txt|55385 - DC - Minuta de ofício]]
+  * [[55389.txt|55389 - DC - Minuta de ofício]]
+  * [[55390.txt|55390 - DC - Minuta de ofício]]
+  * [[55391.txt|55391 - DC - Minuta de ofício]]

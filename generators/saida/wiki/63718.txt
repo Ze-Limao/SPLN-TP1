@@ -1,0 +1,19 @@
+====== 63718 - DC - Registo do recenseamento militar de Cândido ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Cândido
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - António Lourenço da Silva e Teresa Rosa
+Naturalidade - Antas
+Morada - Requião
+Data de nascimento - 1866-09-30
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63718

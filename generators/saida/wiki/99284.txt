@@ -1,0 +1,17 @@
+====== 99284 - UI - Alfredo Guimarães ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Alfredo Guimarães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-01-19
+**UnitDateFinal**:: 1917-03-02
+**ScopeContent**:: Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99284
+
+===== Filhos =====
+  * [[99285.txt|99285 - DC - Ofício]]
+  * [[99463.txt|99463 - DC - Carta]]
+  * [[99487.txt|99487 - DC - Bilhete-postal]]

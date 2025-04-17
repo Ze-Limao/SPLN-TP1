@@ -1,0 +1,17 @@
+====== 58031 - DC - Ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos ======
+
+**Parent**:: 57840
+**RootParent**:: 31258
+**UnitTitle**:: Ofícios para Engº Chefe da 1ª Circunscrição Florestal do Porto, de Gabriel Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1937-07-13
+**UnitDateFinal**:: 1937-07-23
+**ScopeContent**:: Duas cópias datilografadas do ofício 1937-07-13. Ofício manuscrito 1937-03-23 carimbado, em papel timbrado do "Ministério da Agricultura. Direcção Geral dos Serviços Florestais e Aquícolas. 1ª Circunscrição Florestal do Porto".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58031
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2409 - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=58031

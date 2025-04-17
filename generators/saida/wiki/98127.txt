@@ -1,0 +1,15 @@
+====== 98127 - UI - Processo nº 28/81 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 28/81
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1981-06-11
+**UnitDateFinal**:: 1982-07-19
+**ScopeContent**:: 2ª Secção. Junto com Autos de Execução por Custas nº 93.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 788 - cx. 43
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98127

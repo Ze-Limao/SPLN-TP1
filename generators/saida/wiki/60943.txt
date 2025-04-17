@@ -1,0 +1,16 @@
+====== 60943 - DC - Do meu baú ======
+
+**Parent**:: 60929
+**RootParent**:: 60550
+**UnitTitle**:: Do meu baú
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1932
+**UnitDateFinal**:: 1932
+**ScopeContent**:: Livro impresso de Daniel Salgado (Daniel Rodrigues). V.N.Famalicão: Tipografia Minerva.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 169 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60943

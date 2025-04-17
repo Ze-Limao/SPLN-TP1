@@ -1,0 +1,15 @@
+====== 80642 - UI - Processo nº 35 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 35
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-06-19
+**UnitDateFinal**:: 1971-01-30
+**ScopeContent**:: Três volumes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 433A, B e C - cx. 27
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80642

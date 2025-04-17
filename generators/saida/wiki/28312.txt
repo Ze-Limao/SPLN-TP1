@@ -1,0 +1,27 @@
+====== 28312 - DC - Notas ======
+
+**Parent**:: 28292
+**RootParent**:: 27963
+**UnitTitle**:: Notas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28312
+**LangMaterial**:: Português
+**PhysLoc**:: AS 34, 35, 36, 37, 38, 39, 40, 41, 42, 43 - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28312
+
+===== Filhos =====
+  * [[28313.txt|28313 - DC - Ponte de Lagoncinha]]
+  * [[29569.txt|29569 - DC - Ursos no Geres]]
+  * [[29570.txt|29570 - DC - Sobre os limites da Diocese do Porto e Coimbra]]
+  * [[29571.txt|29571 - DC - No tempo de D. Dinis]]
+  * [[29572.txt|29572 - DC - Sobre a difficuldade que tem Affonso III]]
+  * [[29573.txt|29573 - DC - ...Dom Afonso III...reformou e povoou]]
+  * [[29574.txt|29574 - DC - Mirandela povoada no tempo de D. Afonso II]]
+  * [[29575.txt|29575 - DC - Nota]]
+  * [[29576.txt|29576 - DC - Selon notre célèbre agronome]]
+  * [[29577.txt|29577 - DC - O estabelecimento das feiras]]

@@ -1,0 +1,13 @@
+====== 7701 - UI - Livro de Notas Nº 12 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 12
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1931-07-31
+**UnitDateFinal**:: 1932-09-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7701
+**LangMaterial**:: Português
+**PhysLoc**:: 1.49
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7701

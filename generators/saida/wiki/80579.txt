@@ -1,0 +1,14 @@
+====== 80579 - UI - Processo nº 126 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 126
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-10-13
+**UnitDateFinal**:: 1978-10-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 223 - cx. 12
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80579

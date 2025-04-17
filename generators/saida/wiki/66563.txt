@@ -1,0 +1,15 @@
+====== 66563 - DC - Recibo de Gomes da Silva abade da Igreja de S. Miguel recebeu dois laudémios, um pela arrematação da quinta da Idanha e do casal na freguesia de Chorente, Barcelos e outro…na ausência do abade de S. Tiago de Antas, de António Fernandes em 1608 ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de Gomes da Silva abade da Igreja de S. Miguel recebeu dois laudémios, um pela arrematação da quinta da Idanha e do casal na freguesia de Chorente, Barcelos e outro…na ausência do abade de S. Tiago de Antas, de António Fernandes em 1608
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1621-10-07
+**UnitDateFinal**:: 1621-10-07
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 581 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66563

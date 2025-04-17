@@ -1,0 +1,16 @@
+====== 61374 - DC - Registo de Actos do 5º ano de Daniel Rodrigues da Faculdade de Direito Universidade de Coimbra ======
+
+**Parent**:: 60926
+**RootParent**:: 60550
+**UnitTitle**:: Registo de Actos do 5º ano de Daniel Rodrigues da Faculdade de Direito Universidade de Coimbra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-06-21
+**UnitDateFinal**:: 1901-03-08
+**ScopeContent**:: Fotocópia do comprovativo de exame do 5º ano de Direito, de Daniel José Rodrigues
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 155 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61374

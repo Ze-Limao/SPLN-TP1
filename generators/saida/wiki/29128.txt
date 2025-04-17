@@ -1,0 +1,16 @@
+====== 29128 - DC - Rascunho de carta ======
+
+**Parent**:: 29127
+**RootParent**:: 27963
+**UnitTitle**:: Rascunho de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-06-05
+**UnitDateFinal**:: 1906-06-05
+**ScopeContent**:: Carta escrita em Boamense.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29128
+**LangMaterial**:: Português
+**PhysLoc**:: AS 539, cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29128

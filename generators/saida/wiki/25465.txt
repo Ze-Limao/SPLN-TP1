@@ -1,0 +1,16 @@
+====== 25465 - DC - Carta ======
+
+**Parent**:: 21115
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-06-16
+**UnitDateFinal**:: 1876-06-16
+**ScopeContent**:: Carta manuscrita assinada, do Porto. O autor dá os parabéns pelo nascimento de Luís de Gonzaga Cardoso de Menezes Pinheiro de Azevedo (1876-1946), terceiro filho de José de Azevedo e Menezes e de sua mulher e prima Maria Júlia Falcão Pinheiro de Azevedo Bourbon e Menezes, nasceu no dia 15 de Junho de 1876, em Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25465
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 421 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25465

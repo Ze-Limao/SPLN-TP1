@@ -1,0 +1,19 @@
+====== 34283 - DC - Registo do recenseamento militar de José de Faria ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Requião
+Data de nascimento - 1853-01-25
+Filiação - Luís Manuel de Faria e Antónia Maria
+Profissão - Alfaiate
+Estado - Solteiro
+Morada - Requião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34283
+**LangMaterial**:: Português
+**PhysLoc**:: 87v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34283

@@ -1,0 +1,16 @@
+====== 26043 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-06-25
+**UnitDateFinal**:: 1918-06-25
+**ScopeContent**:: Júlio Brandão refere dádivas para a Comissão do Museu Camiliano, uma delas de cem escudos da Parceria António Maria Pereira. Carta manuscrita assinada, de Calendário. Carta de 25 julho, sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26043
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 837 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26043

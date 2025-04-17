@@ -1,0 +1,16 @@
+====== 31370 - SR - Correspondência ======
+
+**Parent**:: 31369
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1843
+**UnitDateFinal**:: 1858
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31370
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31370
+
+===== Filhos =====
+  * [[60461.txt|60461 - UI - Júlia Adelaide Braamcamp de Almeida Castelo-Branco]]
+  * [[60515.txt|60515 - UI - Maria Inácia de Sousa Botelho Mourão e Vasconcelos]]
+  * [[60518.txt|60518 - UI - Clérigo? Padre Joaquim?]]

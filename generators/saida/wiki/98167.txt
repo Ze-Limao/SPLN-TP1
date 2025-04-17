@@ -1,0 +1,17 @@
+====== 98167 - DC - Instrumento público de escritura de documento lançado na nota de requerimento de parte, perante Vicente Machado de Melo Pinheiro, requerendo da parte do administrador do Senhor dos Aflitos, pedindo licença ao João Machado de Melo da Casa de Pindela, para deixar fazer uma casa de pedra e madeira telhada no seu monte ao pé da Capela do Senhor dos Aflitos para serviço à romaria ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Instrumento público de escritura de documento lançado na nota de requerimento de parte, perante Vicente Machado de Melo Pinheiro, requerendo da parte do administrador do Senhor dos Aflitos, pedindo licença ao João Machado de Melo da Casa de Pindela, para deixar fazer uma casa de pedra e madeira telhada no seu monte ao pé da Capela do Senhor dos Aflitos para serviço à romaria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1841-04-14
+**UnitDateFinal**:: 1841-04-14
+**ScopeContent**:: Manuscrito em papel timbrado "Causa Publica 40 reis", numa "Pasta nº 2 Cazal Nº 1 P". Este documento estava na caixa ““Pasta nº2 Anno 1841”, que contém CP 12875 a CP 12958.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12876(2) - cx. 79
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98167

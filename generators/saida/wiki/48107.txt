@@ -1,0 +1,18 @@
+====== 48107 - DC - Registo do recenseamento eleitoral de António Carvalho ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Joane
+Profissão - Carpinteiro
+Estado - Casado
+Morada - Cima de Vila
+Idade - 44
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48107
+**LangMaterial**:: Português
+**PhysLoc**:: 41v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48107

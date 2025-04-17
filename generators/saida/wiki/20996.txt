@@ -1,0 +1,15 @@
+====== 20996 - DC - Nº 16/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 16/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-10-31
+**UnitDateFinal**:: 1962-10-31
+**ScopeContent**:: Contrato de adjudicação da empreitada do Caminho Municipal, da EN14 à freguesia de Fradelos. Lanço da EN14 (Bragadela) ao lugar de Sam, freguesia de Ribeirão
+Outorgante - Gabriel Alves Sampaio Couto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20996
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 67
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20996

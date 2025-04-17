@@ -1,0 +1,15 @@
+====== 66544 - DC - Pedido de licença de matrimónio de André Peliteiro com Angelina Amélia, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de matrimónio de André Peliteiro com Angelina Amélia, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-04-25
+**UnitDateFinal**:: 1866-04-25
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”. Licença concedida pelo desembargador Drº João Manuel da Cunha da Relação Eclesiástica e juiz dos matrimónios na corte do Arcebispado de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 564 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66544

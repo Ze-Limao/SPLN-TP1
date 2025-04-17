@@ -1,0 +1,25 @@
+====== 28361 - DC - Notas de investigação ======
+
+**Parent**:: 28292
+**RootParent**:: 27963
+**UnitTitle**:: Notas de investigação
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28361
+**LangMaterial**:: Português
+**PhysLoc**:: AS 47 (1) a 47 (9)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28361
+
+===== Filhos =====
+  * [[28362.txt|28362 - DC - Capa]]
+  * [[29833.txt|29833 - DC - Durante a segunda metade do século XIV]]
+  * [[29834.txt|29834 - DC - Províncias portuguesa do norte]]
+  * [[29835.txt|29835 - DC - Decimarius]]
+  * [[29836.txt|29836 - DC - Ricos-homens]]
+  * [[29837.txt|29837 - DC - O Livro Velho]]
+  * [[29838.txt|29838 - DC - É conveniente examinar]]
+  * [[29839.txt|29839 - DC - A quantia havia de repartir-se pelos vizinhos]]
+  * [[29840.txt|29840 - DC - Escaça]]

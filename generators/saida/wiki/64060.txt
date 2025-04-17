@@ -1,0 +1,15 @@
+====== 64060 - DC - Recibo do secretário da Câmara Arquiepiscopal ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo do secretário da Câmara Arquiepiscopal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-04-05
+**UnitDateFinal**:: 1875-04-05
+**ScopeContent**:: Manuscrito e impresso. Recebidos e arquivados os duplicados do registo paroquial de 1874, com documentos avulsos, da freguesia de S. Tiago de Antas, na Câmara Eclesiástica do Arcebispado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 379 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64060

@@ -1,0 +1,16 @@
+====== 99303 - UI - Restaurante Comercial ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Restaurante Comercial
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-01-06
+**UnitDateFinal**:: 1916-04-22
+**ScopeContent**:: Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99303
+
+===== Filhos =====
+  * [[99304.txt|99304 - DC - Ofício]]
+  * [[99328.txt|99328 - DC - Ofício]]

@@ -1,0 +1,16 @@
+====== 29731 - DC - Carta ======
+
+**Parent**:: 21287
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-01-17
+**UnitDateFinal**:: 1891-01-17
+**ScopeContent**:: Carta manuscrita, da Rua dos Capelistas 78, 2º Lisboa. Carta incompleta. O autor pede a JAM determinados cuidados nas plantações no seu jardim e pomar em Castelões.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29731
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1140 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29731

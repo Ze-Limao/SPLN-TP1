@@ -1,0 +1,16 @@
+====== 26045 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-11-11
+**UnitDateFinal**:: 1920-11-11
+**ScopeContent**:: Júlio Brandão informa da resposta do Teixeira Lopes trabalhar a lápide e que gostaria de saber se o Museu de Seide foi entregue à Câmara. Carta manuscrita assinada, do Porto Rua Costa Cabral, 304. Carta de 11 novembro, sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26045
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 839 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26045

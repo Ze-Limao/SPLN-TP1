@@ -1,0 +1,15 @@
+====== 20156 - SR - Mandados de pagamento para aboletamento de tropas ======
+
+**Parent**:: 20050
+**RootParent**:: 20048
+**UnitTitle**:: Mandados de pagamento para aboletamento de tropas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1880-01-05
+**UnitDateFinal**:: 1900-11-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20156
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20156
+
+===== Filhos =====
+  * [[20157.txt|20157 - UI - Mandados de pagamento para aboletamento de tropas]]

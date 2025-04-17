@@ -1,0 +1,18 @@
+====== 45697 - DC - Registo do recenseamento eleitoral de Francisco Cardoso de Araújo ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Cardoso de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Avidos
+Profissão - Lavrador
+Estado - Casado
+Morada - Avidos
+Idade - 64
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45697
+**LangMaterial**:: Português
+**PhysLoc**:: 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45697

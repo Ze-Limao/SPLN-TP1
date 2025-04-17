@@ -1,0 +1,17 @@
+====== 53828 - DC - Vila Nova de Famalicão Esquema da Rêde de distribuição de água rectificada de acordo com as alterações superiormente aprovadas ======
+
+**Parent**:: 53746
+**RootParent**:: 25851
+**UnitTitle**:: Vila Nova de Famalicão Esquema da Rêde de distribuição de água rectificada de acordo com as alterações superiormente aprovadas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-11-16
+**UnitDateFinal**:: 1950-11-16
+**ScopeContent**:: Cópia de planta. Cópia assinada pelo engenheiro João ?. Tem notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53828
+**LangMaterial**:: Português
+**PhysLoc**:: JG 181 - cx. 14
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53828

@@ -1,0 +1,17 @@
+====== 28728 - UI - Henrique da Gama Barros ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Henrique da Gama Barros
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-10-06
+**UnitDateFinal**:: 1903-11-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28728
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28728
+
+===== Filhos =====
+  * [[28729.txt|28729 - DC - Carta]]
+  * [[28730.txt|28730 - DC - Carta]]

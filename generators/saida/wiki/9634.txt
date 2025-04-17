@@ -1,0 +1,13 @@
+====== 9634 - DC - Ofício nº 15 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 15
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-03-11
+**UnitDateFinal**:: 1887-03-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9634
+**LangMaterial**:: Português
+**PhysLoc**:: f. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9634

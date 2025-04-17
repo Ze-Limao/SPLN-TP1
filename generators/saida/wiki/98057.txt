@@ -1,0 +1,14 @@
+====== 98057 - UI - Processo nº 206 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 206
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-03-08
+**UnitDateFinal**:: 1977-02-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 723 - cx. 39
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98057

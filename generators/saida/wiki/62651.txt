@@ -1,0 +1,20 @@
+====== 62651 - DC - Registo do recenseamento militar de Avelino ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Avelino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - João Ribeiro Pimenta e Ana Dias da Cunha, na freguesia
+Naturalidade - Riba de Ave
+Morada - Ignora-se
+Data de nascimento - 1863-12-01
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62651

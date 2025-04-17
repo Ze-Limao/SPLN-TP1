@@ -1,0 +1,19 @@
+====== 9619 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-06-02
+**UnitDateFinal**:: 1897-06-02
+**ScopeContent**:: Filiação - Domingos carneiro de Sá e Carolina Augusta de Paiva Vasconcelos
+Naturalidade - Abade de Vermoim
+Data de nascimento - 1877-12-29
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9619
+**LangMaterial**:: Português
+**PhysLoc**:: f. 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9619

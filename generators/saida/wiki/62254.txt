@@ -1,0 +1,19 @@
+====== 62254 - DC - Registo do recenseamento militar de Bernardino ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Florêncio Ferreira de Sousa e Genoveva Ferreira Dias
+Naturalidade - Eiriz, Paços de Ferreira
+Morada - Aves
+Data de nascimento - 1855-10-07
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62254

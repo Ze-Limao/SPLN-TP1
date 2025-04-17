@@ -1,0 +1,16 @@
+====== 20333 - DC - Carta ======
+
+**Parent**:: 20298
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-08-19
+**UnitDateFinal**:: 1919-08-19
+**ScopeContent**:: Adolfo Sampaio de Morais Pinto de Almeida participa o seu casamento com Srª D. Maria Carolina de Meirelles da Casa do Campo em Celorico de Basto. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20333
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 3 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20333

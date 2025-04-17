@@ -1,0 +1,18 @@
+====== 54238 - DC - Ofício do arquiteto Januário Godinho a Presidente da Câmara Municipal V.N. Famalicão ======
+
+**Parent**:: 54111
+**RootParent**:: 25851
+**UnitTitle**:: Ofício do arquiteto Januário Godinho a Presidente da Câmara Municipal V.N. Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1956-10-16
+**UnitDateFinal**:: 1956-10-16
+**ScopeContent**:: Ofício que informa sobre alguns pormenores técnicos da construção.
+Transcrição:
+"A substituição dos granitos da região de Famalicão por granitos das Pedras Salgadas e Gondomar, tal qual propõe o empreiteiro geral das obras do Novo Edifício dos Paços do Concelho e Tribunal de Famalicão, representa um excelente contributo para a melhoria das obras projectadas, sobretudo depois de se ter averiguado que os granitos da área designada no caderno de encargos são de qualidade inferior e de aspecto pouco agradável. É evidente que na área acima referida, mais quilómetro, menos quilómetro, se encontram as pedreiras que abastecem o Porto e, também Braga, em outro sentido, todavia qualquer destas soluções oferece poucas garantias quanto a qualidade e uniformidade, em virtude do volume necessário de cantarias."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54238
+**LangMaterial**:: Português
+**PhysLoc**:: JG 172(3) - cx. 6
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54238

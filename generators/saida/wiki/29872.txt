@@ -1,0 +1,16 @@
+====== 29872 - DC - Casal de Dentro - Boamense ======
+
+**Parent**:: 28423
+**RootParent**:: 27963
+**UnitTitle**:: Casal de Dentro - Boamense
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Indicação do número de glebas e respetiva área (em hectare) de vários terrenos de lavradio e de mato de um dos quatro casais da Quinta de Boamense.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29872
+**LangMaterial**:: Português
+**PhysLoc**:: AS 61 (6) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29872

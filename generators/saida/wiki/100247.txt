@@ -1,0 +1,16 @@
+====== 100247 - UI - Negativos em vidro ======
+
+**Parent**:: 100191
+**RootParent**:: 60695
+**UnitTitle**:: Negativos em vidro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1928
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99378
+**LangMaterial**:: Português
+**PhysLoc**:: CSC N101 a N120 - cx. 21
+depósito 3, estante 1, gaveta 14
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100247

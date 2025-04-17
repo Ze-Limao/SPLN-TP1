@@ -1,0 +1,16 @@
+====== 23093 - DC - Carta ======
+
+**Parent**:: 20335
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-06-10
+**UnitDateFinal**:: 1922-06-10
+**ScopeContent**:: Alberto de Gusmão Navarro refere o esforço para manter a publicação e refere que teria muita honra em publicar um estudo de JAM. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23093
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 18 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23093

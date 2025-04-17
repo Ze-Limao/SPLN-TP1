@@ -1,0 +1,19 @@
+====== 34598 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Fradelos
+Data de nascimento - 1862-12-04
+Filiação - Manuel Joaquim Rodrigues e Joaquina Domingues de Azevedo
+Profissão - Jornaleiro
+Estado - Solteiro
+Morada - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34598
+**LangMaterial**:: Português
+**PhysLoc**:: 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34598

@@ -1,0 +1,15 @@
+====== 60360 - UI - Maria Joaquina Costa Teixeira ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Maria Joaquina Costa Teixeira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60360
+
+===== Filhos =====
+  * [[60361.txt|60361 - DC - Carta]]
+  * [[60362.txt|60362 - DC - Carta]]

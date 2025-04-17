@@ -1,0 +1,16 @@
+====== 52223 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9168
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-02-01
+**UnitDateFinal**:: 1868-04-04
+**ScopeContent**:: Data de nascimento - 1847-02-04
+Filiação - António da Costa Faria e Maria Faria
+Naturalidade - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52223
+**LangMaterial**:: Português
+**PhysLoc**:: 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52223

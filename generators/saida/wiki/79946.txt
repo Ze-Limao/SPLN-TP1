@@ -1,0 +1,17 @@
+====== 79946 - DC - Casa da Rua da Madalena em Lisboa ======
+
+**Parent**:: 57357
+**RootParent**:: 31258
+**UnitTitle**:: Casa da Rua da Madalena em Lisboa
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1920-08
+**UnitDateFinal**:: 1920-08
+**ScopeContent**:: Maço que contém 4 documentos: cartão de visita, lista dos inquilinos ofício do Grémio Lafonense; planta e projecto da casa da Rua da Madalena em Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56358
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12542 (1) a 12542 (4) - cx. 74
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79946

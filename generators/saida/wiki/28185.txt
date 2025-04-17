@@ -1,0 +1,16 @@
+====== 28185 - DC - Disposição das vides no acrescento da vinha do alto ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Disposição das vides no acrescento da vinha do alto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-02-06
+**UnitDateFinal**:: 1900-02-08
+**ScopeContent**:: "Plantação feita em Fev. 6-8 de 1900 Vides da ramada”. Identificação das castas e locais de plantação das vides na vinha do alto. Documento idêntico ao AS 456. No canto superior esquerdo Alberto Sampaio anotou a lápis azul «Duplicado». Terá sido, porventura, o rascunho, a partir do qual foi elaborado o documento anterior.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28185
+**LangMaterial**:: Português
+**PhysLoc**:: AS 457 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28185

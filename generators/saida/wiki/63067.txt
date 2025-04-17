@@ -1,0 +1,19 @@
+====== 63067 - DC - Registo do recenseamento militar de Manuel José ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - José Dias Pereira e Maria de Jesus, ignoram-se
+Naturalidade - Vila Nova de Famalicão
+Morada - Ignora-se
+Data de nascimento - 1863-02-16
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63067

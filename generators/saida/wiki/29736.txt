@@ -1,0 +1,16 @@
+====== 29736 - DC - Carta ======
+
+**Parent**:: 21288
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-12-16
+**UnitDateFinal**:: 1914-12-16
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Papel timbrado do "R.T. Arquivo Nacional da Torre do Tombo".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29736
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1147 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29736

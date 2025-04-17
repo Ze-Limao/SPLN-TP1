@@ -1,0 +1,16 @@
+====== 21349 - UI - Câmara Municipal de Barcelos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Câmara Municipal de Barcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1919-07-23
+**UnitDateFinal**:: 1919-07-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21349
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1260
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21349
+
+===== Filhos =====
+  * [[30125.txt|30125 - DC - Carta]]

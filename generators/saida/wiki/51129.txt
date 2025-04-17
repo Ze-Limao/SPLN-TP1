@@ -1,0 +1,18 @@
+====== 51129 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-01
+**UnitDateFinal**:: 1866-04-04
+**ScopeContent**:: Data de nascimento - 1845-08-12
+Filiação - João Mendes da Silva e Maria Simões
+Naturalidade - Telhado
+Profissão - Criado de servir
+Residência - Telhado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51129
+**LangMaterial**:: Português
+**PhysLoc**:: 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51129

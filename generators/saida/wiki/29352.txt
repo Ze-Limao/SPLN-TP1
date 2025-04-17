@@ -1,0 +1,16 @@
+====== 29352 - DC - Folhas de papel azul ======
+
+**Parent**:: 29153
+**RootParent**:: 27963
+**UnitTitle**:: Folhas de papel azul
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Folhas em branco
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29352
+**LangMaterial**:: Português
+**PhysLoc**:: AS 245 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29352

@@ -1,0 +1,13 @@
+====== 9162 - UI - Recenseamento dos mancebos que consta serem falecidos ======
+
+**Parent**:: 8968
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento dos mancebos que consta serem falecidos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1863-05-01
+**UnitDateFinal**:: 1863-05-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9162
+**LangMaterial**:: Português
+**PhysLoc**:: 5.5.2
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9162

@@ -1,0 +1,22 @@
+====== 46637 - UI - José António de Freitas ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: José António de Freitas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-01-26
+**UnitDateFinal**:: 1920-01-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46637
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46637
+
+===== Filhos =====
+  * [[46638.txt|46638 - DC - Carta]]
+  * [[46639.txt|46639 - DC - Carta]]
+  * [[46640.txt|46640 - DC - Carta]]
+  * [[46641.txt|46641 - DC - Telegrama]]
+  * [[46642.txt|46642 - DC - Carta]]

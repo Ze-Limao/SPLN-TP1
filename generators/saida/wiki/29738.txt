@@ -1,0 +1,16 @@
+====== 29738 - DC - Bilhete-postal dirigido a Francisco Meneses Pinheiro de Azevedo ======
+
+**Parent**:: 21288
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal dirigido a Francisco Meneses Pinheiro de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926-03-08
+**UnitDateFinal**:: 1926-03-08
+**ScopeContent**:: Bilhete-postal manuscrito assinado, de Lisboa, do Arquivo Nacional da Torre do Tombo. Dirigido ao filho de JAM Francisco Meneses Pinheiro, R. do Heroísmo 13, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29738
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1149 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29738

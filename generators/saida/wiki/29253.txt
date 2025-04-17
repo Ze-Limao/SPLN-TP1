@@ -1,0 +1,18 @@
+====== 29253 - DC - Receita e despesa da Capella 1896-1897 ======
+
+**Parent**:: 29254
+**RootParent**:: 27963
+**UnitTitle**:: Receita e despesa da Capella 1896-1897
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896
+**UnitDateFinal**:: 1900
+**ScopeContent**:: Caderno de apontamentos da Gestão da Quinta da Casa de Capela. Alberto Sampaio herdou, em 1896, esta quinta - situada em S. Mamede de Negrelos (concelho de Santo Tirso) -de suas primas em segundo grau, filhas de Francisco Barroso Pereira e de Josefa Ermelinda da Cunha Berrance, a irmã mais nova da sua avó Ana Rita de Abreu Cardoso Teixeira. 
+No bloco são apresentadas as receitas e despesas da Quinta da Casa de Capela correspondentes aos anos agrícolas de 1896-1897, 1897-1898, 1898-1899 e 1899-1900. As despesas contabilizam contribuições e juros, consoadas aos caseiros, feitorias, enxofre (utilizado provavelmente no tratamento da vinha), reparações, deslocações a Capela etc. Do lado da receita contabilizam-se a venda de cereais, vinho e fruta, venda de madeira, lenha e cortiça, galinhas dos caseiros, recebimento da renda do Cidral etc. Na receita do vinho Alberto Sampaio anota o número de pipas correspondente ao numerário apurado: 15 ¼ pipas no ano agrícola de 1896-1897; 11 pipas e 3 almudes no ano agrícola de 1897-1898; 16 ½ pipas no ano agrícola 1898-1899; 17 pipas e 12 ½ almudes no ano agrícola de 1899-1900.
+No interior do bloco de notas encontravam-se cinco papéis dobrados, dos quais quatro referentes a vides e enxertos plantados em Capela e um último relativo a despesas efetuadas com o que Alberto Sampaio designou por “Material pulverizante” (pulverizador, barricas, cântaros, almotolia, etc.).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29253
+**LangMaterial**:: Português
+**PhysLoc**:: AS 369 (1) - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29253

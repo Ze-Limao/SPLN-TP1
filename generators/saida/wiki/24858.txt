@@ -1,0 +1,16 @@
+====== 24858 - DC - Carta ======
+
+**Parent**:: 21078
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-09-10
+**UnitDateFinal**:: 1921-09-10
+**ScopeContent**:: Augusto gama envia uma aguarela feita em Barcelos e pede a JAM para enviar um apontamento sobre a casa reproduzida e a indicação da obra em que Camilo Castelo Branco a refere. Carta manuscrita assinada, de Seide.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24858
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 291 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24858

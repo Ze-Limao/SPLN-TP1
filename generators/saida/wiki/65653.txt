@@ -1,0 +1,15 @@
+====== 65653 - DC - Venda de todas as propriedades, situadas na freguesia de S. Martinho de Avidos, de Clemente Alberto Ferreira Coelho, morador na freguesia de Landim, a Ana Maria Pereira de Azevedo, moradora na rua S. João da Foz do Douro ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Venda de todas as propriedades, situadas na freguesia de S. Martinho de Avidos, de Clemente Alberto Ferreira Coelho, morador na freguesia de Landim, a Ana Maria Pereira de Azevedo, moradora na rua S. João da Foz do Douro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-08-07
+**UnitDateFinal**:: 1897-08-07
+**ScopeContent**:: Manuscrito, instrumento, sem capa, em papel azul timbrado com imposto de selo, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 276 - cx. 14
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65653

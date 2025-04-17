@@ -1,0 +1,18 @@
+====== 8871 - DC - Maria Eduarda Mendes ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Maria Eduarda Mendes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-07
+**UnitDateFinal**:: 1893-08-07
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Manuel Mendes
+Naturalidade - Vila Nova de Famalicão
+Classificação - Distinta
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8871
+**LangMaterial**:: Português
+**PhysLoc**:: f. 53
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8871

@@ -1,0 +1,20 @@
+====== 22760 - SR - Documentos pessoais de José de Azevedo e Menezes ======
+
+**Parent**:: 20290
+**RootParent**:: 20290
+**UnitTitle**:: Documentos pessoais de José de Azevedo e Menezes
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22760
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22760
+
+===== Filhos =====
+  * [[22761.txt|22761 - DC - Apontamento com um poema e sua explicação]]
+  * [[22762.txt|22762 - DC - Cartão de visita de José de Azevedo e Menezes]]
+  * [[22763.txt|22763 - DC - Fotografia do Solar do Pinheiro]]
+  * [[27961.txt|27961 - DC - Recibo de pagamento anual do Diário do Minho]]
+  * [[27962.txt|27962 - DC - Recibo de pagamento exemplares de O Rosário]]

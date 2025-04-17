@@ -1,0 +1,14 @@
+====== 20241 - UI - Registo de correspondência recebida nº13 ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº13
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1958-03-20
+**UnitDateFinal**:: 1958-11-17
+**ScopeContent**:: Termo de abertura impresso: “Neste livro, que contém duzentas folhas, todas elas numeradas e por mim rubricadas, se registará, exclusivamente, a correspondência recebida, nos precisos termos do nº9 do artº 137 do Código Administrativo e da Circ. da DGAPC nº L-4/11, Lv º 5-A, de 6-5-1951…”. Contém dados: nº de entrada, data de entrada e do documento, remetente ou signatário, assunto, expediente, observações. Inicia com o registo nº 730 até ao registo nº 2484.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20241
+**LangMaterial**:: Português
+**PhysLoc**:: sem cota
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20241

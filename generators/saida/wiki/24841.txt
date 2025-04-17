@@ -1,0 +1,15 @@
+====== 24841 - DC - Carta ======
+
+**Parent**:: 21077
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-10-10
+**UnitDateFinal**:: 1916-10-10
+**ScopeContent**:: Refere que aguarda o nome do fotógrafo de Famalicão para fotografar os objectos de Camilo que estão à guarda dos Senhores Mesquita Guimarães e Manuel Pinto de Sousa, ambos da Comissão promotora da Homenagem Póstuma a Camilo Castelo Branco. Refere a questão da transladação dos ossos de Camilo. Carta manuscrita assinada, do Fontão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24841
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 274 - cx. 3
+depósito 3, estante 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24841

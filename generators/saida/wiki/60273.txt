@@ -1,0 +1,14 @@
+====== 60273 - UI - Francisco Manuel Cardoso de Menezes Barreto Pinheiro de Azevedo ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Francisco Manuel Cardoso de Menezes Barreto Pinheiro de Azevedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-11-30
+**UnitDateFinal**:: 1920-11-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60273
+
+===== Filhos =====
+  * [[60274.txt|60274 - DC - Cartão]]

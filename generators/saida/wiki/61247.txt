@@ -1,0 +1,16 @@
+====== 61247 - DC - A bordo do Avon ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: A bordo do Avon
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-06
+**UnitDateFinal**:: 1925-06
+**ScopeContent**:: Fotografia p&b. Fotografia igual DR 139: com Morais, Almeida, Daniel, Albino Sousa Cruz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 140 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61247

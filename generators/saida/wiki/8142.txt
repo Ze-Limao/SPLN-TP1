@@ -1,0 +1,18 @@
+====== 8142 - DC - Arnaldo Augusto Ferreira Coelho ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Arnaldo Augusto Ferreira Coelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-06-21
+**UnitDateFinal**:: 1892-03-23
+**ScopeContent**:: Escola - Landim
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Landim
+Data de posse - 1886-06-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8142
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8142

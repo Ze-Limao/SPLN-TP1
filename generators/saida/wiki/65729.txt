@@ -1,0 +1,15 @@
+====== 65729 - DC - Emprazamento de parte do casal do Barro, situado na freguesia Fradelos, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, a Gonçalo João ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento de parte do casal do Barro, situado na freguesia Fradelos, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, a Gonçalo João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1670-05-27
+**UnitDateFinal**:: 1670-05-27
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 106 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65729

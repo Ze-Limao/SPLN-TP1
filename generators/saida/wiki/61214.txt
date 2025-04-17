@@ -1,0 +1,15 @@
+====== 61214 - UI - António Xavier Correia Barreto ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: António Xavier Correia Barreto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1926-05-22
+**UnitDateFinal**:: 1926-05-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61214
+
+===== Filhos =====
+  * [[61215.txt|61215 - DC - Carta]]

@@ -1,0 +1,19 @@
+====== 9600 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Tomás da Silva e Maria Rosa Ferreira
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1877-02-19
+Profissão - 
+Estado civil - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9600
+**LangMaterial**:: Português
+**PhysLoc**:: f. 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9600

@@ -1,0 +1,15 @@
+====== 65784 - DC - Sentença cível de emprazamento do casal de Brás Domingues, situado na freguesia de Fradelos, feita por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Vicente da Costa e sua mulher Custódia Domingues ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal de Brás Domingues, situado na freguesia de Fradelos, feita por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Vicente da Costa e sua mulher Custódia Domingues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1734-08-26
+**UnitDateFinal**:: 1734-08-26
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. Na última folha "Isidira da Costa Reis, hoje Manuel Joaquim Ferreira da Silva".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 155 - cx. 7
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65784

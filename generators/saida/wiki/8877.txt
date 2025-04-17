@@ -1,0 +1,18 @@
+====== 8877 - DC - Termo do exame de Justina Júlia do Nascimento ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Justina Júlia do Nascimento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-08
+**UnitDateFinal**:: 1893-08-08
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - Manuel José de Oliveira Nascimento
+Naturalidade - Ruivães
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8877
+**LangMaterial**:: Português
+**PhysLoc**:: f. 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8877

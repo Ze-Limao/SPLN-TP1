@@ -1,0 +1,16 @@
+====== 22809 - DC - Registo do recenseamento eleitoral de João Lopes de Azevedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Lopes de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Mouquim
+Profissão - Lavrador
+Morada - Vinha
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22809
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22809

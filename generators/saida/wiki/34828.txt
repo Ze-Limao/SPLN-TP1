@@ -1,0 +1,19 @@
+====== 34828 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1862-08-11
+Filiação - Manuel José da Costa e Sá e Amélia Júlia de Sousa Morais
+Profissão - 
+Estado - 
+Morada - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34828
+**LangMaterial**:: Português
+**PhysLoc**:: 69v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34828

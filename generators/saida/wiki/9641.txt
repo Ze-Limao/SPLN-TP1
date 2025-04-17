@@ -1,0 +1,13 @@
+====== 9641 - DC - Ofício nº 22 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 22
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-04-18
+**UnitDateFinal**:: 1887-04-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9641
+**LangMaterial**:: Português
+**PhysLoc**:: f. 31
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9641

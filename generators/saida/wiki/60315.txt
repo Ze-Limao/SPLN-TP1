@@ -1,0 +1,19 @@
+====== 60315 - UI - Palmira Augusta Pedrosa de Azevedo ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Palmira Augusta Pedrosa de Azevedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913-07-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60315
+
+===== Filhos =====
+  * [[60316.txt|60316 - DC - Carta]]
+  * [[60317.txt|60317 - DC - Carta]]
+  * [[60318.txt|60318 - DC - Carta]]
+  * [[60319.txt|60319 - DC - Carta]]
+  * [[60320.txt|60320 - DC - Carta]]
+  * [[60384.txt|60384 - DC - Carta]]

@@ -1,0 +1,19 @@
+====== 34145 - DC - Registo do recenseamento militar de Gabriel da Costa Reis ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Gabriel da Costa Reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Ribeirão
+Data de nascimento - 1852-06-16
+Filiação - José António da Costa Reis e Ana Joaquina
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34145
+**LangMaterial**:: Português
+**PhysLoc**:: 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34145

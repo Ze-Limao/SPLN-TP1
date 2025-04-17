@@ -1,0 +1,16 @@
+====== 20054 - SC - Controlo de atividades económicas ======
+
+**Parent**:: 20048
+**RootParent**:: 20048
+**UnitTitle**:: Controlo de atividades económicas
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1912-01-02
+**UnitDateFinal**:: 1935-07-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20054
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20054
+
+===== Filhos =====
+  * [[20212.txt|20212 - SR - Registo das licenças para abertura de estabelecimentos]]
+  * [[20214.txt|20214 - SR - Registo das tabernas e casas de venda de bebidas alcoólicas]]

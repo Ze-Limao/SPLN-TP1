@@ -1,0 +1,14 @@
+====== 30039 - DC - Artur de Carvalho ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Artur de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-08-02
+**UnitDateFinal**:: 1959-08-02
+**ScopeContent**:: Regedor efetivo da freguesia de Requião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30039
+**LangMaterial**:: Português
+**PhysLoc**:: f. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30039

@@ -1,0 +1,32 @@
+====== 7901 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1867-02-07
+**UnitDateFinal**:: 1867-03-02
+**ScopeContent**:: 'Este livro há de servir para o recenseamento dos eleitores e elegíveis para os diversos cargos de eleições, apuramento de jurados cíveis e crimes, de jurados especiais e dos maiores contribuintes na revisão a que procedeu a respetiva comissão (...)'
+
+Contém dados sobre:
+1- Freguesia
+2- Nome
+3- Censo
+4- Título literário
+5- Emprego ou profissão
+6- Estado
+7- Morada
+8- Idade
+9- Classificações diversas
+9.1- Elegíveis para deputados
+9.2- Jurados do cível, crime e liberdade de imprensa
+9.3 - Jurados especiais dos crimes de moeda falsa
+9.4 - Quarenta maiores contribuintes
+10- Observações
+
+Além das atuais freguesias (exceto Gondifelos) e Aves, Arnoso Mosteiro continua como freguesia autónoma, permanecendo as anexações de Gemunde a Brufe, Oliveira S. Mateus a Delães e Novais a Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7901
+**LangMaterial**:: Português
+**PhysLoc**:: 1.1.1.16
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7901

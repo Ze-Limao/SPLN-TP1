@@ -1,0 +1,16 @@
+====== 21845 - DC - Registo do recenseamento eleitoral de Custódio Carvalho ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Custódio Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Brufe
+Profissão - Alfaiate
+Morada - Silvares
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21845
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21845

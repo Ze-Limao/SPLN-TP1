@@ -1,0 +1,21 @@
+====== 33715 - UI - António Cabral ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Cabral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-04-15
+**UnitDateFinal**:: 1918-09-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33715
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33715
+
+===== Filhos =====
+  * [[33716.txt|33716 - DC - Carta]]
+  * [[33717.txt|33717 - DC - minuta de carta]]
+  * [[33718.txt|33718 - DC - Carta]]
+  * [[33719.txt|33719 - DC - Carta]]

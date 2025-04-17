@@ -1,0 +1,16 @@
+====== 8286 - UI - José da Silva e Castro ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: José da Silva e Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-01-26
+**UnitDateFinal**:: 1895-01-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8286
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.13
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8286
+
+===== Filhos =====
+  * [[8287.txt|8287 - DC - Carta]]

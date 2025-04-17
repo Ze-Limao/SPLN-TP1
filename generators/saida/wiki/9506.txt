@@ -1,0 +1,19 @@
+====== 9506 - DC - Registo do recenseamento militar de Alberto ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Alberto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - João Francisco de Azevedo e Joana Maria da Silva
+Naturalidade - Esmeriz
+Data de nascimento - 1877-03-14
+Profissão - 
+Estado civil - 
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9506
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9506

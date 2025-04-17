@@ -1,0 +1,16 @@
+====== 23451 - DC - Registo do recenseamento eleitoral de Manuel Lourenço de Queirós ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Lourenço de Queirós
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Seide S. Paio
+Profissão - Lavrador
+Morada - Covilhã
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23451
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 73v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23451

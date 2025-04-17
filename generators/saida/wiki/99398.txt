@@ -1,0 +1,17 @@
+====== 99398 - DC - Diploma de Medalha de Bronze a António José de Sousa Cristino Vinhos, atribuído pela United States of America Universal Exposition, Saint Louis 1904 commemorating the acquisition of the Louisiana territory ======
+
+**Parent**:: 99389
+**RootParent**:: 60695
+**UnitTitle**:: Diploma de Medalha de Bronze a António José de Sousa Cristino Vinhos, atribuído pela United States of America Universal Exposition, Saint Louis 1904 commemorating the acquisition of the Louisiana territory
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Impresso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99390
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 257 - cx. 10
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99398

@@ -1,0 +1,18 @@
+====== 21225 - UI - Luís Figueiredo da Guerra ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Luís Figueiredo da Guerra
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-07-20
+**UnitDateFinal**:: 1913-03-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21225
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 889, 890, 891
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21225
+
+===== Filhos =====
+  * [[26095.txt|26095 - DC - Carta]]
+  * [[26096.txt|26096 - DC - Carta]]
+  * [[26097.txt|26097 - DC - Carta]]

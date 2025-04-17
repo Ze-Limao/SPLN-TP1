@@ -1,0 +1,17 @@
+====== 28093 - DC - Programma para o Congresso Viticola que se há de realizar no Palacio de Crystal Portuense em Maio de 1880 ======
+
+**Parent**:: 28087
+**RootParent**:: 27963
+**UnitTitle**:: Programma para o Congresso Viticola que se há de realizar no Palacio de Crystal Portuense em Maio de 1880
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880
+**UnitDateFinal**:: 1880
+**ScopeContent**:: Do programa constam uma série de questões para serem debatidas no Congresso. 
+1.º Qual o meio de aperfeiçoar a Cultura da Vinha, para melhor resistir ao Oidium, e ao Phylloxera Vastatrix?; 2.º Qual o meio de extinguir ou atenuar o mal que faz o Phylloxera Vastatrix?; 3.º Quais os melhores processos para a fabricação dos Vinhos Portugueses?; 4.º Qual o melhor meio de garantir a genuidade e legitimidade dos Vinhos Portugueses?; 5.º Quais as causas que impedem o desenvolvimento e progresso do Comércio dos nossos Vinhos?; 6.º Quais os meios de formar Associações de Viticultores, e criação de Bancos Rurais, que fomentem o Crédito Agrícola.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28093
+**LangMaterial**:: Português
+**PhysLoc**:: AS 500 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28093

@@ -1,0 +1,16 @@
+====== 30251 - DC - Carta ======
+
+**Parent**:: 21420
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-03-15
+**UnitDateFinal**:: 1913-03-15
+**ScopeContent**:: Carta manuscrita assinada, da Quinta do Belinho, Esposende.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30251
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1399 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30251

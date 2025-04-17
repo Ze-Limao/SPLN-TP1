@@ -1,0 +1,51 @@
+====== 20217 - SSR - Registo de Correspondência Recebida ======
+
+**Parent**:: 20216
+**RootParent**:: 7651
+**UnitTitle**:: Registo de Correspondência Recebida
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1836-12-09
+**UnitDateFinal**:: 1968-08-20
+**ScopeContent**:: Registo de correspondência recebida na Câmara Municipal de Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20217
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20217
+
+===== Filhos =====
+  * [[20224.txt|20224 - UI - Registo de correspondência recebida]]
+  * [[20225.txt|20225 - UI - Registo de correspondência recebida]]
+  * [[20226.txt|20226 - UI - Registo de correspondência recebida]]
+  * [[20227.txt|20227 - UI - Livro de entrada de correspondência]]
+  * [[20228.txt|20228 - UI - Registo de correspondência recebida]]
+  * [[20229.txt|20229 - UI - Registo de correspondência recebida nº1]]
+  * [[20230.txt|20230 - UI - Registo de correspondência recebida]]
+  * [[20231.txt|20231 - UI - Registo de correspondência recebida]]
+  * [[20232.txt|20232 - UI - Registo de correspondência recebida]]
+  * [[20233.txt|20233 - UI - Registo de correspondência recebida nº4]]
+  * [[20234.txt|20234 - UI - Registo de correspondência recebida nº6]]
+  * [[20235.txt|20235 - UI - Registo de correspondência recebida nº7]]
+  * [[20236.txt|20236 - UI - Registo de correspondência recebida nº8]]
+  * [[20237.txt|20237 - UI - Registo de correspondência recebida nº9]]
+  * [[20238.txt|20238 - UI - Registo de correspondência recebida nº10]]
+  * [[20239.txt|20239 - UI - Registo de correspondência recebida nº11]]
+  * [[20240.txt|20240 - UI - Registo de correspondência recebida nº12]]
+  * [[20241.txt|20241 - UI - Registo de correspondência recebida nº13]]
+  * [[20242.txt|20242 - UI - Registo de correspondência recebida nº14]]
+  * [[20243.txt|20243 - UI - Registo de correspondência recebida nº15]]
+  * [[20244.txt|20244 - UI - Registo de correspondência recebida nº16]]
+  * [[20245.txt|20245 - UI - Registo de correspondência recebida nº17]]
+  * [[20246.txt|20246 - UI - Registo de correspondência recebida nº18]]
+  * [[20247.txt|20247 - UI - Registo de correspondência recebida nº19]]
+  * [[20248.txt|20248 - UI - Registo de correspondência recebida nº21]]
+  * [[20249.txt|20249 - UI - Registo de correspondência recebida nº22]]
+  * [[20250.txt|20250 - UI - Registo de correspondência recebida nº23]]
+  * [[20251.txt|20251 - UI - Registo de correspondência recebida nº24]]
+  * [[20252.txt|20252 - UI - Registo de correspondência recebida nº25]]
+  * [[20253.txt|20253 - UI - Registo de correspondência recebida nº26]]
+  * [[20254.txt|20254 - UI - Registo de correspondência recebida nº27]]
+  * [[20255.txt|20255 - UI - Registo de correspondência recebida nº28]]
+  * [[20256.txt|20256 - UI - Registo de correspondência recebida nº29]]
+  * [[20257.txt|20257 - UI - Registo de correspondência recebida nº30]]
+  * [[20258.txt|20258 - UI - Registo de correspondência recebida nº31]]
+  * [[20259.txt|20259 - UI - Registo de correspondência recebida nº32]]

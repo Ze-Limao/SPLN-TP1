@@ -1,0 +1,16 @@
+====== 23372 - DC - Registo do recenseamento eleitoral de Francisco de Sousa ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Lavrador
+Morada - Bouças
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23372
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 69v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23372

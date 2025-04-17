@@ -1,0 +1,16 @@
+====== 27955 - DC - Carta ======
+
+**Parent**:: 21267
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-10-26
+**UnitDateFinal**:: 1895-10-26
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27955
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1048 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27955

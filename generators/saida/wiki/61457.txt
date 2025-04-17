@@ -1,0 +1,17 @@
+====== 61457 - DC - Toward a Better World ======
+
+**Parent**:: 61456
+**RootParent**:: 60551
+**UnitTitle**:: Toward a Better World
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1968-06
+**UnitDateFinal**:: 1968-06
+**ScopeContent**:: Os slides numa caixa de plástico, junto com texto explicativo de 4 p. em papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 501 - cx. 13
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61457

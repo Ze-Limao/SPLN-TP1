@@ -1,0 +1,15 @@
+====== 56732 - UI - Maria José Albuquerque ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Maria José Albuquerque
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-07-24
+**UnitDateFinal**:: 1914-07-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56732
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56732
+
+===== Filhos =====
+  * [[56737.txt|56737 - DC - Minuta de carta]]
+  * [[79224.txt|79224 - DC - Minuta de carta]]

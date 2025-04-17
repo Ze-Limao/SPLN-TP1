@@ -1,0 +1,16 @@
+====== 61394 - DC - Estrela do Minho. Ano 57 ======
+
+**Parent**:: 60930
+**RootParent**:: 60550
+**UnitTitle**:: Estrela do Minho. Ano 57
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1951-11-11
+**UnitDateFinal**:: 1951-11-11
+**ScopeContent**:: Notícia “Daniel Rodrigues”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 198 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61394

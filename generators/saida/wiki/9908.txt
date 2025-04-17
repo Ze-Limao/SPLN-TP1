@@ -1,0 +1,13 @@
+====== 9908 - DC - Ofício nº 23 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 23
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-08-20
+**UnitDateFinal**:: 1888-08-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9908
+**LangMaterial**:: Português
+**PhysLoc**:: f. 47
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9908

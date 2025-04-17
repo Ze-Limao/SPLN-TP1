@@ -1,0 +1,15 @@
+====== 8052 - DC - Termo de Rodrigo de Araújo Machado ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Rodrigo de Araújo Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-05-09
+**UnitDateFinal**:: 1878-05-09
+**ScopeContent**:: Vedação de terreno
+Local - Esmeriz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8052
+**LangMaterial**:: Português
+**PhysLoc**:: f. 23
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8052

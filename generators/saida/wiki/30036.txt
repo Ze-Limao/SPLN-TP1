@@ -1,0 +1,14 @@
+====== 30036 - DC - Ilídio da Silva Cardoso ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Ilídio da Silva Cardoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-02-28
+**UnitDateFinal**:: 1959-02-28
+**ScopeContent**:: Regedor efetivo da freguesia de Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30036
+**LangMaterial**:: Português
+**PhysLoc**:: f. 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30036

@@ -1,0 +1,20 @@
+====== 31637 - DC - Carta ======
+
+**Parent**:: 31635
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1907-12-05
+**UnitDateFinal**:: 1907-12-05
+**ScopeContent**:: Carta manuscrita assinada. Esta carta está junto do documento impresso CP 2112 e da minuta de carta CP 2114.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31637
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2113 - cx. 15
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31637
+
+===== Filhos =====
+  * [[50658.txt|50658 - DC - A Dissidência Progressista aos Partidos Progressista e Regenerador: Memorandum]]

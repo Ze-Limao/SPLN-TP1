@@ -1,0 +1,19 @@
+====== 63576 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Joaquim José Pereira e Bernardina Rosa
+Naturalidade - Ribeirão
+Morada - Ribeirão
+Data de nascimento - 1866-03-12
+Emprego - Caiador
+Estado - Casado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 20v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63576

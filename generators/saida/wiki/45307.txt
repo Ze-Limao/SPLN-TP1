@@ -1,0 +1,20 @@
+====== 45307 - UI - Gabriela de Sousa Coutinho ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Gabriela de Sousa Coutinho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-12-11
+**UnitDateFinal**:: 1891-10-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45307
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45307
+
+===== Filhos =====
+  * [[45309.txt|45309 - DC - Carta]]
+  * [[45310.txt|45310 - DC - Carta]]
+  * [[45311.txt|45311 - DC - Cartão de visita]]

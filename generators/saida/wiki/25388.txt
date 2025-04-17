@@ -1,0 +1,16 @@
+====== 25388 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-04-06
+**UnitDateFinal**:: 1907-04-06
+**ScopeContent**:: Carta manuscrita assinada, de Coimbra. 1, rua do Bispo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25388
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 367 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25388

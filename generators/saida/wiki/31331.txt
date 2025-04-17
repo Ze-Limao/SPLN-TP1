@@ -1,0 +1,20 @@
+====== 31331 - SSC - João Afonso Simão Pinheiro Lobo de Figueira Machado ======
+
+**Parent**:: 31330
+**RootParent**:: 31258
+**UnitTitle**:: João Afonso Simão Pinheiro Lobo de Figueira Machado
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1815
+**UnitDateFinal**:: 1944-07-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31331
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31331
+
+===== Filhos =====
+  * [[31336.txt|31336 - SSSC - Vida social e familiar]]
+  * [[31338.txt|31338 - SSSC - Funções na Comissão de Viticultura da Região dos Vinhos Verdes]]
+  * [[31340.txt|31340 - SSSC - Funções na 1ª Circunscrição Florestal do Norte - Engenheiro-Chefe dos Serviços Florestais]]
+  * [[31343.txt|31343 - SSSC - Funções na Federação dos Sindicatos Agrícolas do Norte de Portugal]]
+  * [[31345.txt|31345 - SSSC - Funções na Companhia dos Caminhos-de-Ferro do Norte de Portugal]]
+  * [[56918.txt|56918 - SSSC - Negócios]]
+  * [[57356.txt|57356 - SSSC - Administração da Casa de Pindela]]

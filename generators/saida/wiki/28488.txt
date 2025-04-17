@@ -1,0 +1,17 @@
+====== 28488 - DC - Não he menos importante o lavor do linho canamo ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Não he menos importante o lavor do linho canamo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: “Não he menos importante o lavor do linho canamo…” é uma transcrição de um extrato do livro Notícias de Portugal de Manuel Severim de Faria, sobre o fabrico de amarras, cordoalhas e enxárcias. Manuel Severim de Faria (Lisboa, Fevereiro de 1584 - Évora, Setembro de 1655) foi um sacerdote católico, historiador, arqueólogo, numismata, genealogista e escritor. É também considerado o primeiro jornalista português. Duarte Gomez Solis (Lisboa, 1562? − Madrid, 1632), comerciante português. Foi autor de duas obras: Discursos sobre los Comercios de las Índias e Alegación en Favor de la Compañia de la India Oriental y Comercios ultramarinos que de Nuevo se Instituyó en el Reyno de Portugal.
+Cordoalha é um conjunto de cordas de várias espécies; enxárcia é um  conjunto de cabos, manobras e polias que servem para içar, aguentar e manobrar as velas de um navio. Referência bibliográfica: Manuel Severim de Faria - Notícias de Portugal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28488
+**LangMaterial**:: Português
+**PhysLoc**:: AS 78- cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28488

@@ -1,0 +1,15 @@
+====== 8089 - DC - Termo de José Domingues de Paiva ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José Domingues de Paiva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-05-21
+**UnitDateFinal**:: 1879-05-21
+**ScopeContent**:: Vedação de terreno
+Local - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8089
+**LangMaterial**:: Português
+**PhysLoc**:: f. 16v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8089

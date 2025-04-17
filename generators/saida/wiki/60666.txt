@@ -1,0 +1,15 @@
+====== 60666 - DC - Livro de registo de correspondência expedida pela Junta Escolar ======
+
+**Parent**:: 60662
+**RootParent**:: 60540
+**UnitTitle**:: Livro de registo de correspondência expedida pela Junta Escolar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881
+**UnitDateFinal**:: 1884
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60666
+**LangMaterial**:: Português
+**PhysLoc**:: JEVNF - cx. 1
+depósito 3, estante
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60666

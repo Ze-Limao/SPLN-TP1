@@ -1,0 +1,14 @@
+====== 97746 - UI - Processo nº 908 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 908
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-10-21
+**UnitDateFinal**:: 1976-10-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 485 - cx. 29
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97746

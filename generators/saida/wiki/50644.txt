@@ -1,0 +1,18 @@
+====== 50644 - DC - Registo do recenseamento militar de Gaspar ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Gaspar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 
+Filiação - Gregório de Almeida e Felizarda Maria
+Naturalidade - Guardizela
+Profissão - 
+Residência - Riba de Ave
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50644
+**LangMaterial**:: Português
+**PhysLoc**:: 98v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50644

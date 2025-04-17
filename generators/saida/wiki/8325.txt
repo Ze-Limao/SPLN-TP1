@@ -1,0 +1,28 @@
+====== 8325 - UI - Custódio de Castro Guimarães ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Custódio de Castro Guimarães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-01-09
+**UnitDateFinal**:: 1895-11-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8325
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.23
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8325
+
+===== Filhos =====
+  * [[8326.txt|8326 - DC - Carta]]
+  * [[8327.txt|8327 - DC - Carta]]
+  * [[8328.txt|8328 - DC - Carta]]
+  * [[8329.txt|8329 - DC - Carta]]
+  * [[8330.txt|8330 - DC - Carta]]
+  * [[8331.txt|8331 - DC - Carta]]
+  * [[8332.txt|8332 - DC - Carta]]
+  * [[8333.txt|8333 - DC - Carta]]
+  * [[8334.txt|8334 - DC - Carta]]
+  * [[8335.txt|8335 - DC - Carta]]
+  * [[8336.txt|8336 - DC - Carta]]
+  * [[8337.txt|8337 - DC - Carta]]
+  * [[8338.txt|8338 - DC - Carta]]

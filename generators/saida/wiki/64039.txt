@@ -1,0 +1,15 @@
+====== 64039 - DC - Recibo de António Rodrigues da Fonseca ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de António Rodrigues da Fonseca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-12-27
+**UnitDateFinal**:: 1871-12-27
+**ScopeContent**:: Manuscrito em papel pautado. Recibo de material para o sino: madeira de freixo, ferragens, outros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 358 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64039

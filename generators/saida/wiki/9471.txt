@@ -1,0 +1,19 @@
+====== 9471 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Salvador de Araújo e Teresa Rodrigues
+Naturalidade - Lemenhe
+Data de nascimento - 1877-12-02
+Profissão - Criado de servir
+Estado civil - Solteiro
+Residência - Lemenhe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9471
+**LangMaterial**:: Português
+**PhysLoc**:: f. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9471

@@ -1,0 +1,19 @@
+====== 31559 - UI - Leocádia de Santana e Vasconcelos de Almada ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Leocádia de Santana e Vasconcelos de Almada
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-05-13
+**UnitDateFinal**:: 1918
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31559
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31559
+
+===== Filhos =====
+  * [[31560.txt|31560 - DC - Cartão de visita]]
+  * [[31561.txt|31561 - DC - Carta]]

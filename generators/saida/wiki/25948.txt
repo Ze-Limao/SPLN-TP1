@@ -1,0 +1,15 @@
+====== 25948 - DC - Içar das bandeiras no lançamento 1ª pedra do quartel do novo quartel ======
+
+**Parent**:: 25323
+**RootParent**:: 20342
+**UnitTitle**:: Içar das bandeiras no lançamento 1ª pedra do quartel do novo quartel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1985
+**UnitDateFinal**:: 1985
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25948
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 192 - cx. 54
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25948

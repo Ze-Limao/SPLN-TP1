@@ -1,0 +1,19 @@
+====== 31448 - UI - Maria do Carmo Raposo de Sousa Alte ======
+
+**Parent**:: 31447
+**RootParent**:: 31258
+**UnitTitle**:: Maria do Carmo Raposo de Sousa Alte
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885-08-28
+**UnitDateFinal**:: 1885-09-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31448
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31448
+
+===== Filhos =====
+  * [[31449.txt|31449 - DC - Bilhete-postal]]
+  * [[31450.txt|31450 - DC - Bilhete-postal]]
+  * [[31451.txt|31451 - DC - Bilhete-postal]]
+  * [[31452.txt|31452 - DC - Bilhete-postal]]
+  * [[31453.txt|31453 - DC - Bilhete-postal]]
+  * [[31454.txt|31454 - DC - Bilhete-postal]]

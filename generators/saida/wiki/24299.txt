@@ -1,0 +1,16 @@
+====== 24299 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-08-11
+**UnitDateFinal**:: 1925-08-11
+**ScopeContent**:: António Cabral envia as condolências pela morte da irmã de JAM em agosto de 1925 (Maria Teresa de Menezes). Refere que lhe enviou o livro “As polémicas de Camilo”. Carta manuscrita assinada, Pedras Salgadas - Hotel Avelames.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24299
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 135 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24299

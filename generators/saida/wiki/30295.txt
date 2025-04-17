@@ -1,0 +1,16 @@
+====== 30295 - DC - Carta ======
+
+**Parent**:: 21453
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-10-21
+**UnitDateFinal**:: 1920-10-21
+**ScopeContent**:: Jorge Colaço novamente informa que enviará o retrato de Camilo a tempo da inauguração. Carta manuscrita e assinada, de Rua Conde de Óbidos, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30295
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1454 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30295

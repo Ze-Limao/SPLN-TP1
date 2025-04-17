@@ -1,0 +1,17 @@
+====== 56643 - DC - Caderneta de saúde de Júlia Leonor Pinheiro Machado de Melo ======
+
+**Parent**:: 54535
+**RootParent**:: 31258
+**UnitTitle**:: Caderneta de saúde de Júlia Leonor Pinheiro Machado de Melo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1898
+**ScopeContent**:: Caderneta impressa com anotações a lápis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56643
+**LangMaterial**:: Português, Alemão, Inglês
+**PhysLoc**:: CP 6320 - cx. 43
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56643

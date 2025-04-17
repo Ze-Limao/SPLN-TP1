@@ -1,0 +1,16 @@
+====== 21016 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7705
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1947-06-14
+**UnitDateFinal**:: 1947-06-14
+**ScopeContent**:: Construção de moradias para as classes pobres
+Outorgante - Joaquim da Silva Vicente
+Toponímia - Bairro Cardeal Cerejeira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21016
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 95
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21016

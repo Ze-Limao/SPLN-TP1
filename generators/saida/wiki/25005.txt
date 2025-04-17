@@ -1,0 +1,16 @@
+====== 25005 - UI - Processos do Fundo de Desemprego ======
+
+**Parent**:: 20363
+**RootParent**:: 20342
+**UnitTitle**:: Processos do Fundo de Desemprego
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1959
+**UnitDateFinal**:: 1966-06-16
+**ScopeContent**:: Contém: Correspondência, remessas de vales, recibos, guias de reembolsos, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25005
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 108  - cx. 28
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25005

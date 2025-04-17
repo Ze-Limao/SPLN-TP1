@@ -1,0 +1,16 @@
+====== 31228 - DC - Registo do recenseamento eleitoral de José Pereira Dinis ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Pereira Dinis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Mogege
+Profissão - Lavrador
+Morada - Carril
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31228
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 49v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31228

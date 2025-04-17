@@ -1,0 +1,16 @@
+====== 25557 - DC - Carta ======
+
+**Parent**:: 21144
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-03-13
+**UnitDateFinal**:: 1909-03-13
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25557
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 511 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25557

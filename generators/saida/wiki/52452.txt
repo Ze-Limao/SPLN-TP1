@@ -1,0 +1,18 @@
+====== 52452 - DC - Registo do recenseamento militar de Manuel Joaquim da Costa ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Joaquim da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-07-22
+Filiação - Joaquim da Costa e Benta Faria
+Naturalidade - Arnoso Santa Maria
+Profissão - Lavrador
+Residência - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52452
+**LangMaterial**:: Português
+**PhysLoc**:: 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52452

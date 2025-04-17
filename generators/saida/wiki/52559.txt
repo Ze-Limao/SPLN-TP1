@@ -1,0 +1,18 @@
+====== 52559 - DC - Registo do recenseamento militar de José Pereira ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-03-07
+Filiação - Manuel Luís Pereira e Ana Benedita Moreira
+Naturalidade - Jesufrei
+Profissão - Lavrador
+Residência - Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52559
+**LangMaterial**:: Português
+**PhysLoc**:: 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52559

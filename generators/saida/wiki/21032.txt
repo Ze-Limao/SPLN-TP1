@@ -1,0 +1,16 @@
+====== 21032 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7707
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1948-12-23
+**UnitDateFinal**:: 1948-12-23
+**ScopeContent**:: Empreitada de pavimentação dos arruamentos da Praça da República
+Outorgante - Avelino Joaquim Dias
+Toponímia - Praça Álvaro Marques
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21032
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 88
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21032

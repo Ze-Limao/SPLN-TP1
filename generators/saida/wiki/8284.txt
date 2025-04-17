@@ -1,0 +1,16 @@
+====== 8284 - UI - Joaquim Mário de Castro ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Joaquim Mário de Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-01-16
+**UnitDateFinal**:: 1895-01-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8284
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8284
+
+===== Filhos =====
+  * [[8285.txt|8285 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 66422 - DC - Agravo João Branco (?) ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Agravo João Branco (?)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1813-05-13
+**UnitDateFinal**:: 1813-05-13
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 474 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66422

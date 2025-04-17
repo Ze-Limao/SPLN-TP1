@@ -1,0 +1,18 @@
+====== 20093 - UI - Registo da correspondência expedida pela 1ª repartição ======
+
+**Parent**:: 20088
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida pela 1ª repartição
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-06-15
+**UnitDateFinal**:: 1915-12-09
+**ScopeContent**:: Termo de abertura: “Este livro tem de servir para nelle ser copiada  a correspondência dirigida por esta repartição ao Excelentissimo Governador Civil do Districto …”.
+O conteúdo da correspondência está resumido.
+Contém: Ofício do Governador Civil dirigido à Administração do Concelho de Famalicão, 1914-08-13, 2 f.; papel.
+Ofício do Governador Civil dirigido à Administração do Concelho de Famalicão, 1914-08-20, 1 f.; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20093
+**LangMaterial**:: Português
+**PhysLoc**:: AC 9
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20093

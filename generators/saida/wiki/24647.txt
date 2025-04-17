@@ -1,0 +1,16 @@
+====== 24647 - DC - Carta ======
+
+**Parent**:: 21064
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-02-17
+**UnitDateFinal**:: 1913-02-17
+**ScopeContent**:: António Cândido agradece a oferta do livro "Ninharias". Relembra o tempo em que o seu amigo Visconde de Pindela lhe apresentou a JAM, não tendo esquecido a honra e o prazer desse contacto. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24647
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 148 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24647

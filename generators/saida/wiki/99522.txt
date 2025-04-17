@@ -1,0 +1,16 @@
+====== 99522 - UI - Raymondo & irmão ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Raymondo & irmão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-03-03
+**UnitDateFinal**:: 1916-08-29
+**ScopeContent**:: Venda de carros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99522
+
+===== Filhos =====
+  * [[99523.txt|99523 - DC - Bilhete-postal]]
+  * [[99530.txt|99530 - DC - Bilhete-postal]]

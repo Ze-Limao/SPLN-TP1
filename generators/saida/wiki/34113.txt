@@ -1,0 +1,19 @@
+====== 34113 - DC - Registo do recenseamento militar de Anastácio da Silva ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Anastácio da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Telhado
+Data de nascimento - 1853-01-29
+Filiação - Manuel Mendes da Silva e Maria Ferreira Marques
+Profissão - Criado de servir
+Estado - Solteiro
+Morada - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34113
+**LangMaterial**:: Português
+**PhysLoc**:: 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34113

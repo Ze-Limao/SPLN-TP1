@@ -1,0 +1,16 @@
+====== 29222 - DC - A Camponêsa ======
+
+**Parent**:: 29178
+**RootParent**:: 27963
+**UnitTitle**:: A Camponêsa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933-09
+**UnitDateFinal**:: 1935
+**ScopeContent**:: Periódico «A Camponêsa» Director e Editor: Manuel Portela. Redacção e administração: Campo Mouzinho de Albuquerque, 52, 53 e 54. Publicação trimestral destinada à propaganda de máquinas agrícolas, fabricadas nas oficinas “A Camponesa”, proprietário Manuel Portela. O exemplar AS 338 (1) está endereçado a António Vicente Leal Sampaio, sobrinho de Alberto Sampaio. A edição deste número, sem data, é posterior a 1933, dado apresentar uma fotografia tirada ao certame da “Camponesa” nas festas realizadas em Setembro de 1933. No referido número encontram-se fotografias das instalações das oficinas e do editor Manuel Portela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29222
+**LangMaterial**:: Português
+**PhysLoc**:: AS 338 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29222

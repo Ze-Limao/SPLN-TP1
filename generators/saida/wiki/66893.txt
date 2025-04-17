@@ -1,0 +1,15 @@
+====== 66893 - UI - David Cohen de Castro e Lara ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: David Cohen de Castro e Lara
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1905-09-11
+**UnitDateFinal**:: 1905-09-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66893
+
+===== Filhos =====
+  * [[66899.txt|66899 - DC - Carta]]
+  * [[66927.txt|66927 - DC - Telegrama]]

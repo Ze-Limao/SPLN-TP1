@@ -1,0 +1,19 @@
+====== 34588 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Vale S. Cosme
+Data de nascimento - 1863-01-14
+Filiação - António de Sousa e Maria da Costa
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34588
+**LangMaterial**:: Português
+**PhysLoc**:: 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34588

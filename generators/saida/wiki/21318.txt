@@ -1,0 +1,17 @@
+====== 21318 - UI - António José Gonçalves Ralha ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António José Gonçalves Ralha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1882-02-20
+**UnitDateFinal**:: 1882-02-20
+**ScopeContent**:: António José G. Ralha foi abade na Terra de Santa Maria de Abade de Vermoim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21318
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1203
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21318
+
+===== Filhos =====
+  * [[29794.txt|29794 - DC - Carta]]

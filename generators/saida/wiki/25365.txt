@@ -1,0 +1,16 @@
+====== 25365 - DC - Ofício da 2ª Repartição, nº53, assinado pelo Presidente da Câmara Municipal do concelho Famelicão José Rodrigues de Sá e Abreu dirigido a Francisco Maria de Oliveira e Silva ======
+
+**Parent**:: 25075
+**RootParent**:: 20342
+**UnitTitle**:: Ofício da 2ª Repartição, nº53, assinado pelo Presidente da Câmara Municipal do concelho Famelicão José Rodrigues de Sá e Abreu dirigido a Francisco Maria de Oliveira e Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-07-17
+**UnitDateFinal**:: 1890-07-17
+**ScopeContent**:: José Rodrigues de Sá e Abreu foi presidente da Câmara Municipal de 1887 - 1892. Neste ofício o presidente agradece o exame ao material de incêndios. Ofício manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25365
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 173 - cx. 41
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25365

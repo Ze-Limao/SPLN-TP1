@@ -1,0 +1,15 @@
+====== 60604 - UI - José de Morais ======
+
+**Parent**:: 31379
+**RootParent**:: 31258
+**UnitTitle**:: José de Morais
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1872-05-29
+**UnitDateFinal**:: 1872-10-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32464
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60604
+
+===== Filhos =====
+  * [[60606.txt|60606 - DC - Carta e faturas e recibos]]
+  * [[60608.txt|60608 - DC - Carta]]

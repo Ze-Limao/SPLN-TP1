@@ -1,0 +1,16 @@
+====== 25344 - DC - Relatório e contas de 1953/1954 da Associação Humanitária Bombeiros Voluntários de Arrifana ======
+
+**Parent**:: 24996
+**RootParent**:: 20342
+**UnitTitle**:: Relatório e contas de 1953/1954 da Associação Humanitária Bombeiros Voluntários de Arrifana
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1955-05
+**UnitDateFinal**:: 1955-05
+**ScopeContent**:: Impresso 600 exemplares no Controle Gráfico S. João da Madeira. Enviado pelo correio à AHBVF.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25344
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 100 - cx. 26
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25344

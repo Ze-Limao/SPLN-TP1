@@ -1,0 +1,16 @@
+====== 28221 - DC - Cimenterie Atlas Louis Meley ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Cimenterie Atlas Louis Meley
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Catálogo publicitário de cuvas e ânforas para armazenamento do vinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28221
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 493 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28221

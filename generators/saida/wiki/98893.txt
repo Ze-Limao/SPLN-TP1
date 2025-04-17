@@ -1,0 +1,17 @@
+====== 98893 - DC - Sentença a favor de João Machado de Melo agravado contra Maria da Costa e outros ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Sentença a favor de João Machado de Melo agravado contra Maria da Costa e outros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1823-05-02
+**UnitDateFinal**:: 1823-05-02
+**ScopeContent**:: Manuscrito com folhas cosidas, na "Pasta nº 2 Cazal nº1 M". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 13108 a CP 13142.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13117 - cx. 85
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98893

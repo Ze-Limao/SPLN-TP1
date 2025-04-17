@@ -1,0 +1,38 @@
+====== 32334 - UI - Maria Henriqueta Freire de Andrade Coutinho Bandeira, Baronesa de Pombeiro ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria Henriqueta Freire de Andrade Coutinho Bandeira, Baronesa de Pombeiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886
+**UnitDateFinal**:: 1916
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32334
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32334
+
+===== Filhos =====
+  * [[32335.txt|32335 - DC - Carta]]
+  * [[32336.txt|32336 - DC - Carta]]
+  * [[32337.txt|32337 - DC - Carta]]
+  * [[32338.txt|32338 - DC - Carta]]
+  * [[32339.txt|32339 - DC - Carta]]
+  * [[32340.txt|32340 - DC - Carta]]
+  * [[32341.txt|32341 - DC - Carta]]
+  * [[32342.txt|32342 - DC - Carta]]
+  * [[32343.txt|32343 - DC - Carta]]
+  * [[32344.txt|32344 - DC - Carta de Henriqueta e de Paulo de Melo]]
+  * [[32345.txt|32345 - DC - Carta]]
+  * [[32346.txt|32346 - DC - Cartão]]
+  * [[32347.txt|32347 - DC - Carta]]
+  * [[32348.txt|32348 - DC - Carta]]
+  * [[32349.txt|32349 - DC - Carta para Henriqueta e Paulo de Melo.]]
+  * [[32350.txt|32350 - DC - Carta]]
+  * [[32351.txt|32351 - DC - Carta]]
+  * [[32352.txt|32352 - DC - Carta]]
+  * [[32353.txt|32353 - DC - Carta]]
+  * [[32354.txt|32354 - DC - Carta e cartão de visita]]
+  * [[32355.txt|32355 - DC - Carta]]

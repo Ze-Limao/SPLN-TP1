@@ -1,0 +1,18 @@
+====== 52648 - DC - Registo do recenseamento militar de Bernardino Cardoso ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino Cardoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-04-12
+Filiação - António Cardoso e Custódia de Sousa
+Naturalidade - Lemenhe
+Profissão - Jornaleiro
+Residência - Lemenhe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52648
+**LangMaterial**:: Português
+**PhysLoc**:: 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52648

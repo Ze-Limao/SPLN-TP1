@@ -1,0 +1,17 @@
+====== 8394 - UI - Constantino Nunes de Sá ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Constantino Nunes de Sá
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-07-06
+**UnitDateFinal**:: 1895-11-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8394
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.42
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8394
+
+===== Filhos =====
+  * [[8395.txt|8395 - DC - Carta]]
+  * [[8396.txt|8396 - DC - Carta]]

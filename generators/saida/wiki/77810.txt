@@ -1,0 +1,17 @@
+====== 77810 - DC - Receita médica de Álvaro Macedo para Viscondessa de Pindela ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Receita médica de Álvaro Macedo para Viscondessa de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-03
+**UnitDateFinal**:: 1917-03
+**ScopeContent**:: Manuscrito. Junto com cartas CP 4493 e 4489, de Álvaro de Macedo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58466
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4496- cx. 32
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77810

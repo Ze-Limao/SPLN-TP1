@@ -1,0 +1,15 @@
+====== 60717 - DC - Emprazamento do casal do Lagarteiral, situado na freguesia de S. Tomé de Caldelas (concelho de Guimarães), feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas e por Álvaro Dias, raçoeiro da dita Igreja, a Margarida Fernandes e ao primeiro marido ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal do Lagarteiral, situado na freguesia de S. Tomé de Caldelas (concelho de Guimarães), feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas e por Álvaro Dias, raçoeiro da dita Igreja, a Margarida Fernandes e ao primeiro marido
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1507-02-08
+**UnitDateFinal**:: 1507-02-08
+**ScopeContent**:: Manuscrito, original, com selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 18 - cx. P2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60717

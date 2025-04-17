@@ -1,0 +1,14 @@
+====== 31359 - SR - Correspondência recebida ======
+
+**Parent**:: 31358
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1877
+**UnitDateFinal**:: 1882
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31359
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31359
+
+===== Filhos =====
+  * [[54563.txt|54563 - UI - Maria das Dores Sousa Coutinho]]

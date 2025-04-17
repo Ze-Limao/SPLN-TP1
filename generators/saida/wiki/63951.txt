@@ -1,0 +1,15 @@
+====== 63951 - UI - Livro dos registo dos testamentos da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 63947
+**RootParent**:: 60536
+**UnitTitle**:: Livro dos registo dos testamentos da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1826-08-26
+**UnitDateFinal**:: 1826-08-26
+**ScopeContent**:: Manuscrito, original, encadernado a pele com atilhos. Na capa título a lápis "Registo dos Testamentos". Datas no interior do documento de 1823-04-21 a 1837-04-29. Tem só 8 folhas escritas, as restantes em branco.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 243 - cx. 12
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63951

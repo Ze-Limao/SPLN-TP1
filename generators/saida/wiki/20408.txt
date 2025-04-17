@@ -1,0 +1,20 @@
+====== 20408 - DC - Registo do recenseamento militar de Bernardino ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Joane
+Filiação - José Antunes Mendes e Ana de Barros
+Naturalidade - Joane
+Data de nascimento - 1870-10-12
+Emprego - Lavrador
+Estado - Solteiro
+Residência - Joane
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20408
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20408

@@ -1,0 +1,18 @@
+====== 48975 - DC - Registo do recenseamento eleitoral de António José Marques de Abreu ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José Marques de Abreu
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Oliveira Santa Maria
+Profissão - Lavrador
+Estado - Casado
+Morada - Sestelo
+Idade - 79
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48975
+**LangMaterial**:: Português
+**PhysLoc**:: 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48975

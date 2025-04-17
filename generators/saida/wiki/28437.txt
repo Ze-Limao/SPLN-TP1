@@ -1,0 +1,18 @@
+====== 28437 - DC - Notas sobre a vinha ======
+
+**Parent**:: 28381
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre a vinha
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28437
+**LangMaterial**:: Português
+**PhysLoc**:: AS 64 (1) a 64 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28437
+
+===== Filhos =====
+  * [[28438.txt|28438 - DC - A cultura da vide em ramadas]]
+  * [[28439.txt|28439 - DC - A ramada horizontal]]

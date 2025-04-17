@@ -1,0 +1,14 @@
+====== 54420 - UI - Júlio de Matos ======
+
+**Parent**:: 31323
+**RootParent**:: 31258
+**UnitTitle**:: Júlio de Matos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1884-10-27
+**UnitDateFinal**:: 1884-10-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54420
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54420
+
+===== Filhos =====
+  * [[54421.txt|54421 - DC - Carta]]

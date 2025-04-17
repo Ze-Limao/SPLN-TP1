@@ -1,0 +1,14 @@
+====== 20318 - UI - Registo de correspondência recebida nº4 ======
+
+**Parent**:: 20220
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº4
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1954-04-14
+**UnitDateFinal**:: 1954-12-20
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir este livro para nele se registarem a correspondência entrada nesta Câmara Municipal…”. Contém dados: nº de entrada, data de entrada e do documento, remetente ou signatário, natureza do documento e respectivo assunto, resolução, destino e observações. Inicia com o registo nº 634 até ao registo nº 1951.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20318
+**LangMaterial**:: Português
+**PhysLoc**:: 714
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20318

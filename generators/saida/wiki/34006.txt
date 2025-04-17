@@ -1,0 +1,19 @@
+====== 34006 - DC - Registo do recenseamento militar de Joaquim da Silva ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Riba de Ave
+Data de nascimento - 1852-06-29
+Filiação - Francisco da Silva e Leocádia Maria
+Profissão - Caixeiro
+Estado - Solteiro
+Morada - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34006
+**LangMaterial**:: Português
+**PhysLoc**:: 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34006

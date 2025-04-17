@@ -1,0 +1,17 @@
+====== 66935 - SSR - Minutas de cartas ======
+
+**Parent**:: 66928
+**RootParent**:: 31258
+**UnitTitle**:: Minutas de cartas
+**DescriptionLevel**:: SSR
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD66929
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66935
+
+===== Filhos =====
+  * [[66933.txt|66933 - DC - Minuta de carta]]
+  * [[66936.txt|66936 - DC - Minuta de carta]]
+  * [[66960.txt|66960 - DC - Minuta de carta]]
+  * [[66962.txt|66962 - DC - Minuta de carta para Muhlberg]]
+  * [[66976.txt|66976 - DC - Minuta de carta para Comte]]
+  * [[66978.txt|66978 - DC - Minuta de carta para Comte]]

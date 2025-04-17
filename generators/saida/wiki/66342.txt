@@ -1,0 +1,15 @@
+====== 66342 - DC - Auditoria que anula as eleições dos Magistrados, dos três cargos Vigário geral, Provisor e deputado e Vigariato capitular ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Auditoria que anula as eleições dos Magistrados, dos três cargos Vigário geral, Provisor e deputado e Vigariato capitular
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1814-04-27
+**UnitDateFinal**:: 1814-04-27
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 462 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66342

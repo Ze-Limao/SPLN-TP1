@@ -1,0 +1,16 @@
+====== 29239 - DC - Bilhete-postal ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-06-30
+**UnitDateFinal**:: 1898-06-30
+**ScopeContent**:: Bilhete-postal da Real Companhia Horticolo-Agrícola Portuense, com sede na Rua dos Fogueteiros, 5 - Porto. Informa a regularização do pagamento da quantia respeitante às faturas n. 17859.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29239
+**LangMaterial**:: Português
+**PhysLoc**:: AS 356 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29239

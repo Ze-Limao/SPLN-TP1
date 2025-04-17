@@ -1,0 +1,17 @@
+====== 67155 - DC - 1900 ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: 1900
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1900
+**ScopeContent**:: Papel do maço com título manuscrito que contém CP 3116 a CP 3172.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58466
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3115 - cx. 24
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67155

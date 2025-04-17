@@ -1,0 +1,16 @@
+====== 29940 - DC - Supplément à la Revue Politique et Littéraire ======
+
+**Parent**:: 28290
+**RootParent**:: 27963
+**UnitTitle**:: Supplément à la Revue Politique et Littéraire
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-03-03
+**UnitDateFinal**:: 1894-03-03
+**ScopeContent**:: Impresso em Paris: Publications Nouvelles de la Librairie Hachette et Cie. Nº 103.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29940
+**LangMaterial**:: Francês
+**PhysLoc**:: As 148 (2)  - cx. 3
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29940

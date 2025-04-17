@@ -1,0 +1,15 @@
+====== 28240 - SR - As Vilas do Norte de Portugal ======
+
+**Parent**:: 28237
+**RootParent**:: 27963
+**UnitTitle**:: As Vilas do Norte de Portugal
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1906
+**UnitDateFinal**:: 1906
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28240
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28240
+
+===== Filhos =====
+  * [[28241.txt|28241 - DC - Lavouras e Lavradores (Norte de Portugal)]]
+  * [[98620.txt|98620 - DC - Conta das Separatas de "As Vilas do Norte de Portugal"  do Dor. Alberto Sampaio]]

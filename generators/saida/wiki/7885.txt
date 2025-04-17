@@ -1,0 +1,14 @@
+====== 7885 - DC - Termo de Manuel José Marques como procurador de António Marques de Oliveira, do Porto ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel José Marques como procurador de António Marques de Oliveira, do Porto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1858-04-10
+**UnitDateFinal**:: 1858-04-10
+**ScopeContent**:: Construção de uma latada no terreiro da feira de Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7885
+**LangMaterial**:: Português
+**PhysLoc**:: f. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7885

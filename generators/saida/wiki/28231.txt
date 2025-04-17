@@ -1,0 +1,16 @@
+====== 28231 - DC - Convite ======
+
+**Parent**:: 28230
+**RootParent**:: 27963
+**UnitTitle**:: Convite
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-11-29
+**UnitDateFinal**:: 1885-11-29
+**ScopeContent**:: Impresso com convite à população do concelho de Guimarães para participar num “meeting” no Salão da Associação Artística, a fim de manifestar o seu protesto «perante o país e o governo contra a agressão selvagem e brutal de que foram vítimas […] os procuradores à Junta Geral» por Guimarães. Assinam Visconde de Lindoso, Visconde de Santa Luzia, Barão de Pombeiro, Gaspar Lobo de Sousa Machado e Francisco Ribeiro Martins da Costa. Uma folha impressa associada aos incidentes que ocorreram em Braga, a 28 de Novembro de 1885, quando a carruagem em que seguiam os procuradores da Junta de Guimarães, entre os quais o Conde de Margaride, foi apedrejada por alguns populares. Na origem do levantamento popular esteve a discussão, numa sessão da Junta Geral do Distrito de Braga, da criação de um curso complementar de Ciências no Liceu de Braga. Os procuradores de Guimarães opuseram-se, alegando, entre outros pontos, as contribuições pagas pelo concelho sem que se vissem contrapartidas ao nível do desenvolvimento do concelho. Este conflito, que incendiou os ânimos dos bracarenses e vimaranenses, foi largamente noticiado pelos correspondentes das duas cidades no jornal «A Província», de que era diretor Joaquim Pedro de Oliveira Martins. Alberto Sampaio era o correspondente por Guimarães desde a fundação do jornal, em Maio de 1885.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28231
+**LangMaterial**:: Português
+**PhysLoc**:: AS 174 - cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28231

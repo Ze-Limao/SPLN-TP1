@@ -1,0 +1,16 @@
+====== 22629 - DC - Carta ======
+
+**Parent**:: 21390
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-01-09
+**UnitDateFinal**:: 1863-01-09
+**ScopeContent**:: Carta manuscrita, de Viana. Francisca Angélica Malheiro de Souza Meneses agradece a carta onde lhe descreveu as relações de família e as ligações de parentesco e a resolução de um prazo que lhe pertence. Esta carta é a mais antiga desta série.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22629
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1352 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22629

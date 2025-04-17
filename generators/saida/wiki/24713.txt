@@ -1,0 +1,16 @@
+====== 24713 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912-04-14
+**UnitDateFinal**:: 1912-04-14
+**ScopeContent**:: António Ferraz refere um passeio pelas terras do Alto Minho e a forma cativante como ele e o Srº Bispo foram recebidos na Brejoeira e noutros locais. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24713
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 214 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24713

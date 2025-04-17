@@ -1,0 +1,16 @@
+====== 25542 - DC - Carta ======
+
+**Parent**:: 21141
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-06-08
+**UnitDateFinal**:: 1887-06-08
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25542
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 496 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25542

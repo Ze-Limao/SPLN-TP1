@@ -1,0 +1,18 @@
+====== 100192 - SSR - Fotografias positivos em papel ======
+
+**Parent**:: 99257
+**RootParent**:: 60695
+**UnitTitle**:: Fotografias positivos em papel
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1928
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99407
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100192
+
+===== Filhos =====
+  * [[100193.txt|100193 - UI - Fotografias positivos em papel]]
+  * [[100199.txt|100199 - UI - Fotografias positivos em papel e de Casas Fotográficas]]
+  * [[100205.txt|100205 - UI - Fotografias positivos em papel e de Casas Fotográficas]]
+  * [[100211.txt|100211 - UI - Fotografias positivos em papel da reprodução de negativos de vidro]]
+  * [[99378.txt|99378 - UI - Fotografias positivos em papel de grande dimensão]]

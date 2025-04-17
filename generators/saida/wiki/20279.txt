@@ -1,0 +1,14 @@
+====== 20279 - UI - Registo de correspondência recebida nº5 ======
+
+**Parent**:: 20219
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº5
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1938-12-22
+**UnitDateFinal**:: 1939-07-12
+**ScopeContent**:: Termo de abertura impresso: “Vão ser numerados e rubricadas as folhas deste livro que há de servir para n´ele se registar a correspondência recebida…” e manuscrito (Serviços Administrativos). Contém dados: nº ordem, nº do ofício, data do ofício, data da receção, designação da entidade expedidora, extracto do seu conteúdo e observações. Inicia registo nº 1485 até ao registo nº 1495. No ano de 1939 tem 756 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20279
+**LangMaterial**:: Português
+**PhysLoc**:: 690
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20279

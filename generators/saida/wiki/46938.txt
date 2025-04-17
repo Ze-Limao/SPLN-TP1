@@ -1,0 +1,18 @@
+====== 46938 - DC - Registo do recenseamento eleitoral de Francisco Pereira de Azevedo ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Pereira de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Seide S. Miguel
+Profissão - Ferreiro
+Estado - Casado
+Morada - Monte
+Idade - 63
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46938
+**LangMaterial**:: Português
+**PhysLoc**:: 60v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46938

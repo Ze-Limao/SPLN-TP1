@@ -1,0 +1,14 @@
+====== 30012 - DC - António Morais de Carvalho Marques ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: António Morais de Carvalho Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954-12-11
+**UnitDateFinal**:: 1954-12-11
+**ScopeContent**:: Regedor substituto da freguesia de Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30012
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30012

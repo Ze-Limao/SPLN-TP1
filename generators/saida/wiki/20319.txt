@@ -1,0 +1,14 @@
+====== 20319 - UI - Registo de correspondência recebida nº5 ======
+
+**Parent**:: 20220
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº5
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1954-12-20
+**UnitDateFinal**:: 1955-08-09
+**ScopeContent**:: Termo de abertura impresso: “Neste livro, que contém duzentas folhas, todas elas numeradas e por mim rubricadas, se registará, exclusivamente, a correspondência recebida, nos precisos termos do nº9 do artº 137 do Código Administrativo e da Circ. da DGAPC nº L-4/11, Lv º 5-A, de 6-5-1951…”. Contém dados: nº de entrada, número do ofício, data do ofício, data da receção, qualidade, por quem expedida, assunto, destino dado à correspondência recebida, nº do ofício de resposta se o tem. Inicia com o registo nº 1952 ao registo nº 1999. O ano 1955 tem 1611 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20319
+**LangMaterial**:: Português
+**PhysLoc**:: 715
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20319

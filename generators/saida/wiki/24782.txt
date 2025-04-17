@@ -1,0 +1,37 @@
+====== 24782 - DC - Cartão de Boas-Festas da AHBVF ======
+
+**Parent**:: 24746
+**RootParent**:: 20342
+**UnitTitle**:: Cartão de Boas-Festas da AHBVF
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929-12
+**UnitDateFinal**:: 1929-12
+**ScopeContent**:: Folheto com as boas festas, no interior tem a Canção das Boas-Festas com a letra de Matias Lima (música de Capitão Joaquim Jacinto Figueiras).
+(Algumas quadras do coro)
+
+Famalicão dos amores,
+rindo ao luar de Janeiro!
+Os bombeiros - trovadores
+desejam ano fagueiro!
+
+Famalicão sorridente
+lindo em campinas, rosais…
+Para vós e vossa gente,
+as festas mais joviais!
+
+Ó lindo Famalicão,
+jardinzinho lusitano…
+No abraço duma canção
+os desejos dum bom ano!
+
+Famalicão dos encantos,
+risinho de Portugal...
+Espalhem-se os nossos cantos
+nesta noite festival!...
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24782
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 5 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24782

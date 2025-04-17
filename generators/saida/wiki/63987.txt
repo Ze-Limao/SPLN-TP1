@@ -1,0 +1,15 @@
+====== 63987 - DC - Escritura de arrendamento perpétuo de bens na freguesia de S. Julião do Calendário, que faz Custódio Rodrigues Cardoso e sua mulher Maria Ferreira, do lugar do Pelho, da freguesia de S. Tiago de Antas, a José Pereira da Costa e sua mulher Custódia Maria Soares da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de arrendamento perpétuo de bens na freguesia de S. Julião do Calendário, que faz Custódio Rodrigues Cardoso e sua mulher Maria Ferreira, do lugar do Pelho, da freguesia de S. Tiago de Antas, a José Pereira da Costa e sua mulher Custódia Maria Soares da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1776-07-11
+**UnitDateFinal**:: 1776-07-11
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas. Na última folha "Arrendamento perpetua q faz Custodio Rodrigues Cardoso e sua mer. a Je. Pª da Costa e sua mer. de São Tiago d´Antas de huma caza e circuito no monte da Velha, da  mma fregª". No canto superior esquerdo "L. 23".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 185 - cx. 9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63987

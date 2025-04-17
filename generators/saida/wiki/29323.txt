@@ -1,0 +1,17 @@
+====== 29323 - DC - Recibo da Antiga Casa Bertrand, José Bastos. ======
+
+**Parent**:: 29317
+**RootParent**:: 27963
+**UnitTitle**:: Recibo da Antiga Casa Bertrand, José Bastos.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-06-10
+**UnitDateFinal**:: 1896-06-10
+**ScopeContent**:: A loja situava-se na Rua Garrett, 73-75 e Rua Anchieta, 29-37 [Lisboa]. Selo de 10 réis carimbado. Carimbo pouco legível.
+Recibo n. 8344, no valor de 2000 réis, respeitante ao pagamento anual da assinatura da «Revista Lusitana».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29323
+**LangMaterial**:: Português
+**PhysLoc**:: AS 219 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29323

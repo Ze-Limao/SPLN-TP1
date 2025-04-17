@@ -1,0 +1,17 @@
+====== 78655 - DC - Prazo feito a António da Silva Oliveira, da freguesia do Mosteiro, que fez João Machado de Melo Pinheiro e Figueira ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Prazo feito a António da Silva Oliveira, da freguesia do Mosteiro, que fez João Machado de Melo Pinheiro e Figueira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1822-05-11
+**UnitDateFinal**:: 1822-05-11
+**ScopeContent**:: Manuscrito com folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6041 - cx. 42
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78655

@@ -1,0 +1,17 @@
+====== 21035 - UI - Alberto Cunha Sampaio ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alberto Cunha Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-05-10
+**UnitDateFinal**:: 1903-05-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21035
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 22
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21035
+
+===== Filhos =====
+  * [[21495.txt|21495 - DC - Carta]]

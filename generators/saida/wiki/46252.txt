@@ -1,0 +1,18 @@
+====== 46252 - DC - Registo do recenseamento eleitoral de António José de Sampaio ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José de Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Lagoa
+Profissão - Ferreiro
+Estado - Casado
+Morada - Prazins
+Idade - 39
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46252
+**LangMaterial**:: Português
+**PhysLoc**:: 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46252

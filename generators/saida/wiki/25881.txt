@@ -1,0 +1,16 @@
+====== 25881 - DC - Desfile do Corpo Activo na rua no 74º Aniversário da AHBVF ======
+
+**Parent**:: 25317
+**RootParent**:: 20342
+**UnitTitle**:: Desfile do Corpo Activo na rua no 74º Aniversário da AHBVF
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1964
+**UnitDateFinal**:: 1964
+**ScopeContent**:: Desfile do Corpo Activo na rua no 74º Aniversário da AHBVF.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25881
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 186 - cx. 50
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25881

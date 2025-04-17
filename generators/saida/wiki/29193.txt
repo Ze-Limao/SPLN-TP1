@@ -1,0 +1,16 @@
+====== 29193 - DC - 1908 Olival, perto do castanhal ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: 1908 Olival, perto do castanhal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-01-29
+**UnitDateFinal**:: 1908-01-29
+**ScopeContent**:: Identificação dos locais e número de oliveiras plantadas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29193
+**LangMaterial**:: Português
+**PhysLoc**:: AS 308 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29193

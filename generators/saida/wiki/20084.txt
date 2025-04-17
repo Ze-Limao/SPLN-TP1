@@ -1,0 +1,15 @@
+====== 20084 - SR - Registo de atestados ======
+
+**Parent**:: 20060
+**RootParent**:: 20048
+**UnitTitle**:: Registo de atestados
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1911-01-18
+**UnitDateFinal**:: 1929-04-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20084
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20084
+
+===== Filhos =====
+  * [[20085.txt|20085 - UI - Registo de atestados]]

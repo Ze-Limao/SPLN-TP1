@@ -1,0 +1,16 @@
+====== 28810 - DC - Carta ======
+
+**Parent**:: 28809
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-09-24
+**UnitDateFinal**:: 1868-09-24
+**ScopeContent**:: Carta expedida de Cabouço.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28810
+**LangMaterial**:: Português
+**PhysLoc**:: AS 625 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28810

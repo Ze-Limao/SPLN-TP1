@@ -1,0 +1,19 @@
+====== 34484 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Ruivães
+Data de nascimento - 1862-10-25
+Filiação - António José Alves Júnior e Narcisa Alves de Sá
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34484
+**LangMaterial**:: Português
+**PhysLoc**:: 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34484

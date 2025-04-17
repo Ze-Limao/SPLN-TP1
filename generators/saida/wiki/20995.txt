@@ -1,0 +1,15 @@
+====== 20995 - DC - Nº 15/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 15/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-10-23
+**UnitDateFinal**:: 1962-10-23
+**ScopeContent**:: Contrato de arrendamennto das lojas exteriores números quatro e cinco do Mercado Municipal
+Outorgante - Manuel Gonçalves de Macedo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20995
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 65
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20995

@@ -1,0 +1,16 @@
+====== 8384 - UI - Pinto da Fonseca & Irmão ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Pinto da Fonseca & Irmão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-02-04
+**UnitDateFinal**:: 1895-02-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8384
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.38
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8384
+
+===== Filhos =====
+  * [[8385.txt|8385 - DC - Ofício]]

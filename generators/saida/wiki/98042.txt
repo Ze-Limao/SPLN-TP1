@@ -1,0 +1,15 @@
+====== 98042 - UI - Processo nº 594 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 594
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-12-10
+**UnitDateFinal**:: 1989-12-07
+**ScopeContent**:: Junto com Autos de Transgressão nº 37, 575, 573 e Auto de Execução por Custas nº 37-A/75.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 708 - cx. 39
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98042

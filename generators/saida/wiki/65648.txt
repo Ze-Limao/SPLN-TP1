@@ -1,0 +1,15 @@
+====== 65648 - DC - Dote do património do Padre Manuel Rodrigues Tavares Veloso Araújo, morador na freguesia de S. Julião de Calendário ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Dote do património do Padre Manuel Rodrigues Tavares Veloso Araújo, morador na freguesia de S. Julião de Calendário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1782-07-15
+**UnitDateFinal**:: 1782-07-15
+**ScopeContent**:: Manuscrito, instrumento, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 200 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65648

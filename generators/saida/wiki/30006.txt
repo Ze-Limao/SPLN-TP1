@@ -1,0 +1,14 @@
+====== 30006 - DC - Remígio Rodrigues de Azevedo ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Remígio Rodrigues de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954-11-03
+**UnitDateFinal**:: 1954-11-03
+**ScopeContent**:: Regedor efetivo da freguesia de Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30006
+**LangMaterial**:: Português
+**PhysLoc**:: f. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30006

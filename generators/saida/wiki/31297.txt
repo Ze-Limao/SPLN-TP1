@@ -1,0 +1,20 @@
+====== 31297 - SR - Correspondência recebida ======
+
+**Parent**:: 31296
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1812
+**UnitDateFinal**:: 1833-03-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31297
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31297
+
+===== Filhos =====
+  * [[54316.txt|54316 - UI - Frei António de Santa Isabel Sepúlveda]]
+  * [[54331.txt|54331 - UI - Frei António, Comissário dos Terceiros]]
+  * [[54337.txt|54337 - UI - Frei Manuel Luís da Conceição]]
+  * [[54339.txt|54339 - UI - Manuel Pereira]]
+  * [[54341.txt|54341 - UI - António Gonçalves de Carvalho]]
+  * [[54355.txt|54355 - UI - Teresa do Lado de Jesus]]
+  * [[78411.txt|78411 - UI - Marcelino Inácio Sousa e Melo]]

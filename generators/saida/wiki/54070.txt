@@ -1,0 +1,16 @@
+====== 54070 - DC - Carta para um filho de José de Azevedo e Menezes ======
+
+**Parent**:: 54068
+**RootParent**:: 20290
+**UnitTitle**:: Carta para um filho de José de Azevedo e Menezes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-08-18
+**UnitDateFinal**:: 1915-08-18
+**ScopeContent**:: Carta manuscrita assinada, de R. ? a S. Mamede 19-20. Papel timbrado "Alfandega de Lisboa. Gabinete do Director".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54070
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 466 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54070

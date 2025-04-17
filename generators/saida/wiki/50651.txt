@@ -1,0 +1,18 @@
+====== 50651 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 1842-05-30
+Filiação - Joaquim de Oliveira e Ana Maria
+Naturalidade - Joane
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50651
+**LangMaterial**:: Português
+**PhysLoc**:: 100v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50651

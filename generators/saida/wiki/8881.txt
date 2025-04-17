@@ -1,0 +1,18 @@
+====== 8881 - DC - Termo do exame de Afonso Henriques Mendes de Carvalho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Afonso Henriques Mendes de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-17
+**UnitDateFinal**:: 1894-07-17
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - António José de Carvalho
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8881
+**LangMaterial**:: Português
+**PhysLoc**:: f. 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8881

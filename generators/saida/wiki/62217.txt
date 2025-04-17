@@ -1,0 +1,19 @@
+====== 62217 - DC - Registo do recenseamento militar de Camilo ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Camilo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Luís Cândido Borges e Ana Emília da Cunha Borges, ignoram-se
+Naturalidade - Vila Nova de Famalicão
+Morada - Ignora-se
+Data de nascimento - 1861-04-23
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62217

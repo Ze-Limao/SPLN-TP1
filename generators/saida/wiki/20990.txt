@@ -1,0 +1,15 @@
+====== 20990 - DC - Nº 10/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 10/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-05-28
+**UnitDateFinal**:: 1962-05-28
+**ScopeContent**:: Contrato de adjudicação da estrada municipal 510-1, da estrada municipal 510 (Ribeira) à estrada municipal 574 (Oliveira Santa Maria). Primeira fase. Retificação
+Outorgante- Mário da Costa Alves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20990
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 55
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20990

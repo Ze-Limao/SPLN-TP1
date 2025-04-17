@@ -1,0 +1,16 @@
+====== 25911 - DC - Incêndio na Câmara Municipal de V.N. Famalicão - fachada principal ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Incêndio na Câmara Municipal de V.N. Famalicão - fachada principal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1952-04-05
+**UnitDateFinal**:: 1952-04-05
+**ScopeContent**:: Na madrugada de 5 de abril de 1952 um violento incêndio deflagrou no edifício da Câmara Municipal. As duas corporações locais, apoiadas pelos Bombeiros Voluntários de Riba de Ave e Braga e pelos Bombeiros Municipais da mesma cidade, foram chamadas a combater o fogo. Perante um acontecimento de tamanha proporção, nunca visto na vila, a população cerra mobilizou-se para ajudar os bombeiros a retirar do interior do edifício tudo quanto pudesse ser salvo. A notícia do incêndio dos Paços do Concelho de Vila Nova de Famalicão, amplamente divulgada na imprensa local e nacional, correu o país de norte a sul.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25911
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25911

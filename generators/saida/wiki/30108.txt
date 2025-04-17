@@ -1,0 +1,14 @@
+====== 30108 - DC - António Barbosa ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: António Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-15
+**UnitDateFinal**:: 1974-10-15
+**ScopeContent**:: Regedor efetivo da freguesia da Carreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30108
+**LangMaterial**:: Português
+**PhysLoc**:: f. 55
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30108

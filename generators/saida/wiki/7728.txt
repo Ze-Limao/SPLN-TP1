@@ -1,0 +1,59 @@
+====== 7728 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 2 ======
+
+**Parent**:: 7726
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Termos de Obrigação e Sujeição ao Município Nº 2
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1876-05-24
+**UnitDateFinal**:: 1878-12-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7728
+**LangMaterial**:: Português
+**PhysLoc**:: 1.71
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7728
+
+===== Filhos =====
+  * [[8031.txt|8031 - DC - Termo de Joaquim José Pereira Borges]]
+  * [[8032.txt|8032 - DC - Termo de Manuel de Carvalho Monteiro Guimarães]]
+  * [[8033.txt|8033 - DC - Termo de Francisco Inácio de Aguiar Pimenta Carneiro e Maria da Glória Pereira de Magalhães]]
+  * [[8034.txt|8034 - DC - Termo de António Grenha]]
+  * [[8035.txt|8035 - DC - Termo de Domingos António de Miranda]]
+  * [[8036.txt|8036 - DC - Termo de Adriano Carneiro de Sampaio]]
+  * [[8037.txt|8037 - DC - Termo de Jerónimo António de Carvalho]]
+  * [[8038.txt|8038 - DC - Termo de Domingos António de Miranda]]
+  * [[8039.txt|8039 - DC - Termo de António da Costa Araújo]]
+  * [[8040.txt|8040 - DC - Termo de Bernardino Pinto de Araújo]]
+  * [[8041.txt|8041 - DC - Termo de Manuel Bouças]]
+  * [[8042.txt|8042 - DC - Termo de José António de Araújo]]
+  * [[8043.txt|8043 - DC - Termo de Manuel Real]]
+  * [[8044.txt|8044 - DC - Termo de José Manuel Lopes]]
+  * [[8045.txt|8045 - DC - Termo de José dos Santos Andrade]]
+  * [[8046.txt|8046 - DC - Termo de Manuel António de Araújo Costa e Francisco José da Silva Araújo]]
+  * [[8047.txt|8047 - DC - Termo de Leonardo José Pereira]]
+  * [[8048.txt|8048 - DC - Termo de Maria Dolores Gonçalves]]
+  * [[8049.txt|8049 - DC - Termo de Manuel Bento de Azevedo]]
+  * [[8050.txt|8050 - DC - Termo de José de Araújo e Sousa]]
+  * [[8051.txt|8051 - DC - Termo de Joaquim Alves de Sousa]]
+  * [[8052.txt|8052 - DC - Termo de Rodrigo de Araújo Machado]]
+  * [[8053.txt|8053 - DC - Termo de Florêncio Andião]]
+  * [[8054.txt|8054 - DC - Termo de Joaquim José da Silva]]
+  * [[8055.txt|8055 - DC - Termo de Bernardino Dias Sequeira]]
+  * [[8056.txt|8056 - DC - Termo de António Correia Gomes]]
+  * [[8057.txt|8057 - DC - Termo de Joaquim Sandão]]
+  * [[8058.txt|8058 - DC - Termo de José de Oliveira]]
+  * [[8059.txt|8059 - DC - Termo de José Luís Guedes]]
+  * [[8060.txt|8060 - DC - Termo de Francisco Inácio de Aguiar Pimenta Carneiro]]
+  * [[8061.txt|8061 - DC - Termo de Manuel Simões]]
+  * [[8062.txt|8062 - DC - Termo de Joaquina da Cunha]]
+  * [[8063.txt|8063 - DC - Termo de Manuel Carneiro e Felicidade da Costa]]
+  * [[8064.txt|8064 - DC - Termo de José de Oliveira Martins e Ana Martins]]
+  * [[8065.txt|8065 - DC - Termo de António Martins Gomes e Maria Benta da Costa]]
+  * [[8066.txt|8066 - DC - Termo de Manuel José da Costa e Josefa Maria da Costa]]
+  * [[8067.txt|8067 - DC - Termo de Ana Gomes de Faria]]
+  * [[8068.txt|8068 - DC - Termo de Joaquim Justiniano de Araújo Leão]]
+  * [[8069.txt|8069 - DC - Termo de Joaquim da Costa Araújo]]
+  * [[8070.txt|8070 - DC - Termo de declaração que faz Manuel Giesteira]]
+  * [[8071.txt|8071 - DC - Termo de Manuel António da Cruz]]
+  * [[8072.txt|8072 - DC - Termo de Manuel da Silva Monteiro]]
+  * [[8073.txt|8073 - DC - Termo de António Dias de Azevedo e Joaquina da Costa Cruz]]
+  * [[8074.txt|8074 - DC - Termo de José Joaquim Machado]]

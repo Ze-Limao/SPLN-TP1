@@ -1,0 +1,22 @@
+====== 60396 - DC - Doença da minha Júlia Leonor em Worishfen ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Doença da minha Júlia Leonor em Worishfen
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1922
+**ScopeContent**:: Maço que contém CP 6853 a CP 6855. Notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56728
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6852 - cx. 46
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60396
+
+===== Filhos =====
+  * [[56472.txt|56472 - DC - Nota sobre temperaturas na doença de Júlia Leonor]]
+  * [[56473.txt|56473 - DC - Notas sobre temperaturas e dias na doença de Júlia Leonor]]
+  * [[56474.txt|56474 - DC - Guia de tratamento de Júlia Leonor]]

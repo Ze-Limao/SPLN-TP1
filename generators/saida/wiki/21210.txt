@@ -1,0 +1,17 @@
+====== 21210 - UI - José Maria Leote ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Maria Leote
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-01-30
+**UnitDateFinal**:: 1900-02-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21210
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 819, 820
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21210
+
+===== Filhos =====
+  * [[26025.txt|26025 - DC - Carta]]
+  * [[26026.txt|26026 - DC - Carta]]

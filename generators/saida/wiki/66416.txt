@@ -1,0 +1,15 @@
+====== 66416 - DC - Sentença contra Domingos Pereira casal de Poído ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença contra Domingos Pereira casal de Poído
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1500
+**UnitDateFinal**:: 1600
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 471 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66416

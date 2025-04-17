@@ -1,0 +1,33 @@
+====== 29327 - SSSC - Preparação de composições farmacêuticas e receitas médicas ======
+
+**Parent**:: 28063
+**RootParent**:: 27963
+**UnitTitle**:: Preparação de composições farmacêuticas e receitas médicas
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1864
+**UnitDateFinal**:: 1909-03-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29327
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29327
+
+===== Filhos =====
+  * [[29328.txt|29328 - DC - Acetato de chumbo liquido]]
+  * [[29329.txt|29329 - DC - Para uso externo]]
+  * [[29330.txt|29330 - DC - Acetato de chumbo líquido]]
+  * [[29331.txt|29331 - DC - N.º 30838 Sulfato]]
+  * [[29332.txt|29332 - DC - Pomada d´extracto de belladona]]
+  * [[29333.txt|29333 - DC - Agua rosada]]
+  * [[29334.txt|29334 - DC - Agua rosada]]
+  * [[29335.txt|29335 - DC - [Receita passada pelo médico Abílio Torres]]]
+  * [[29336.txt|29336 - DC - N. 30753 Sulfato de zinco]]
+  * [[29337.txt|29337 - DC - N. 32546 benzoato de lítio]]
+  * [[29338.txt|29338 - DC - N. 33469 Resorcina]]
+  * [[29339.txt|29339 - DC - N. 33916 Precititado branco]]
+  * [[29340.txt|29340 - DC - Para pustulas (Formula antiga do Hospital da Misericordia de Guimaraens)]]
+  * [[29341.txt|29341 - DC - Remédio para escaldaduras]]
+  * [[29342.txt|29342 - DC - Ad hemorrhoidas (Remedio antigo)]]
+  * [[29343.txt|29343 - DC - Água rosada]]
+  * [[29344.txt|29344 - DC - [Receitas]]]
+  * [[29644.txt|29644 - DC - Receitas varias]]

@@ -1,0 +1,16 @@
+====== 29545 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868
+**UnitDateFinal**:: 1891
+**ScopeContent**:: Envelope com notas manuscritas e timbrado "Casa do Beringel Guimarães"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29545
+**LangMaterial**:: Português
+**PhysLoc**:: AS 786 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29545

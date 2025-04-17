@@ -1,0 +1,86 @@
+====== 21067 - UI - António Ferraz ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Ferraz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-03-07
+**UnitDateFinal**:: 1915-06-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21067
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 154 a 223 e 1484
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21067
+
+===== Filhos =====
+  * [[21515.txt|21515 - DC - Carta]]
+  * [[24653.txt|24653 - DC - Carta]]
+  * [[24654.txt|24654 - DC - Carta]]
+  * [[24655.txt|24655 - DC - Carta]]
+  * [[24656.txt|24656 - DC - Carta]]
+  * [[24657.txt|24657 - DC - Carta]]
+  * [[24658.txt|24658 - DC - Carta]]
+  * [[24659.txt|24659 - DC - Carta]]
+  * [[24660.txt|24660 - DC - Carta]]
+  * [[24661.txt|24661 - DC - Carta]]
+  * [[24662.txt|24662 - DC - Carta]]
+  * [[24663.txt|24663 - DC - Carta]]
+  * [[24664.txt|24664 - DC - Carta]]
+  * [[24665.txt|24665 - DC - Carta]]
+  * [[24666.txt|24666 - DC - Carta]]
+  * [[24667.txt|24667 - DC - Carta]]
+  * [[24668.txt|24668 - DC - Carta]]
+  * [[24669.txt|24669 - DC - Carta]]
+  * [[24670.txt|24670 - DC - Carta]]
+  * [[24671.txt|24671 - DC - Carta]]
+  * [[24672.txt|24672 - DC - Carta]]
+  * [[24673.txt|24673 - DC - Carta]]
+  * [[24674.txt|24674 - DC - Carta]]
+  * [[24675.txt|24675 - DC - Carta]]
+  * [[24676.txt|24676 - DC - Carta]]
+  * [[24677.txt|24677 - DC - Carta]]
+  * [[24678.txt|24678 - DC - Carta]]
+  * [[24679.txt|24679 - DC - Carta]]
+  * [[24680.txt|24680 - DC - Carta]]
+  * [[24681.txt|24681 - DC - Carta]]
+  * [[24682.txt|24682 - DC - Carta]]
+  * [[24683.txt|24683 - DC - Carta]]
+  * [[24684.txt|24684 - DC - Carta]]
+  * [[24685.txt|24685 - DC - Carta]]
+  * [[24686.txt|24686 - DC - Carta]]
+  * [[24687.txt|24687 - DC - Carta]]
+  * [[24688.txt|24688 - DC - Carta]]
+  * [[24689.txt|24689 - DC - Carta]]
+  * [[24690.txt|24690 - DC - Carta]]
+  * [[24691.txt|24691 - DC - Carta]]
+  * [[24692.txt|24692 - DC - Carta]]
+  * [[24693.txt|24693 - DC - Carta]]
+  * [[24694.txt|24694 - DC - Carta]]
+  * [[24695.txt|24695 - DC - Carta]]
+  * [[24696.txt|24696 - DC - Carta]]
+  * [[24697.txt|24697 - DC - Carta]]
+  * [[24698.txt|24698 - DC - Carta]]
+  * [[24699.txt|24699 - DC - Carta]]
+  * [[24700.txt|24700 - DC - Carta]]
+  * [[24701.txt|24701 - DC - Carta]]
+  * [[24702.txt|24702 - DC - Carta]]
+  * [[24703.txt|24703 - DC - Carta]]
+  * [[24704.txt|24704 - DC - Carta]]
+  * [[24705.txt|24705 - DC - Carta]]
+  * [[24706.txt|24706 - DC - Carta]]
+  * [[24707.txt|24707 - DC - Carta]]
+  * [[24708.txt|24708 - DC - Carta]]
+  * [[24709.txt|24709 - DC - Carta]]
+  * [[24710.txt|24710 - DC - Carta]]
+  * [[24711.txt|24711 - DC - Carta]]
+  * [[24712.txt|24712 - DC - Carta]]
+  * [[24713.txt|24713 - DC - Carta]]
+  * [[24714.txt|24714 - DC - Carta]]
+  * [[24715.txt|24715 - DC - Carta]]
+  * [[24716.txt|24716 - DC - Carta]]
+  * [[24717.txt|24717 - DC - Carta]]
+  * [[24718.txt|24718 - DC - Carta]]
+  * [[24719.txt|24719 - DC - Carta]]
+  * [[24720.txt|24720 - DC - Carta]]
+  * [[24722.txt|24722 - DC - Carta]]

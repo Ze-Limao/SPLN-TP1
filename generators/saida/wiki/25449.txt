@@ -1,0 +1,16 @@
+====== 25449 - DC - Ofício de A Boa Reguladora J. Carvalho Irmão, Lda dirigido à Direcção da AHBVF ======
+
+**Parent**:: 25082
+**RootParent**:: 20342
+**UnitTitle**:: Ofício de A Boa Reguladora J. Carvalho Irmão, Lda dirigido à Direcção da AHBVF
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-10-24
+**UnitDateFinal**:: 1943-10-24
+**ScopeContent**:: Informam do donativo da empresa de 2.500$00, que será descontado na conta de débito à Associação no decorrer das Bodas de Ouro. Ofício datilografado e assinado manuscrito por J. Carvalho & Irmão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25449
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 180 - cx. 45
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25449

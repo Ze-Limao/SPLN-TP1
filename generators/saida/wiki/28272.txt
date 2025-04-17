@@ -1,0 +1,15 @@
+====== 28272 - DC - Referências bibliográficas sobre Floresta ======
+
+**Parent**:: 28586
+**RootParent**:: 27963
+**UnitTitle**:: Referências bibliográficas sobre Floresta
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28272
+**LangMaterial**:: Português
+**PhysLoc**:: AS 130  - cx. 3
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28272

@@ -1,0 +1,18 @@
+====== 51634 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-02-16
+Filiação - Francisco José Dinis e Bernardina Pereira da Silva
+Naturalidade - Oliveira Santa Maria
+Profissão - Lavrador
+Residência - Oliveira Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51634
+**LangMaterial**:: Português
+**PhysLoc**:: 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51634

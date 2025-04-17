@@ -1,0 +1,33 @@
+====== 28665 - DC - Notas sobre as inquirições na Foz do Douro e Lordelo ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre as inquirições na Foz do Douro e Lordelo
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28665
+**LangMaterial**:: Português
+**PhysLoc**:: AS 118 (1) a 118 (17)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28665
+
+===== Filhos =====
+  * [[28666.txt|28666 - DC - Porto]]
+  * [[29923.txt|29923 - DC - e que dello tempo que sse acordaua]]
+  * [[29924.txt|29924 - DC - Segundo a tradição existente no Porto em 1348]]
+  * [[29925.txt|29925 - DC - Cedofeita a Cedofeita seguia-se Lordelo]]
+  * [[29926.txt|29926 - DC - V. Foral de Cedofeita]]
+  * [[29927.txt|29927 - DC - Epistolarum sivi regestorum Innocentii III]]
+  * [[29928.txt|29928 - DC - Época de Sancho I]]
+  * [[29929.txt|29929 - DC - Nova Malta por José Anastácio de Figueiredo]]
+  * [[29930.txt|29930 - DC - Lide do Porto]]
+  * [[29931.txt|29931 - DC - A Lide do Porto]]
+  * [[29932.txt|29932 - DC - Provisão aos oficiais da coroa]]
+  * [[29933.txt|29933 - DC - Estudo sobre as portagens e as alfandegas]]
+  * [[29934.txt|29934 - DC - Referências bibliográficas]]
+  * [[29935.txt|29935 - DC - Observações Historicas e Cristicas etc. por J. P. Ribeiro]]
+  * [[29936.txt|29936 - DC - Levantaram-se duvidas se Miragaia estava ou não compreendida no Couto]]
+  * [[29937.txt|29937 - DC - Populo meam villam de Gayam]]
+  * [[29938.txt|29938 - DC - Notas sobre obras consultadas]]

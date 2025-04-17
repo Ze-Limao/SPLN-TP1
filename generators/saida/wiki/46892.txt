@@ -1,0 +1,18 @@
+====== 46892 - DC - Registo do recenseamento eleitoral de António José da Costa ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Ruivães e Novais
+Profissão - Cirurgião
+Estado - Solteiro
+Morada - Charneca
+Idade - 79
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46892
+**LangMaterial**:: Português
+**PhysLoc**:: 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46892

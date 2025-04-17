@@ -1,0 +1,20 @@
+====== 62062 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - José Joaquim dos Santos e Rosa Joaquina Gomes, ele falecido e ela na freguesia
+Naturalidade - Gondifelos
+Morada - Ignora-se
+Data de nascimento - 1861-11-30
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Maia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62062

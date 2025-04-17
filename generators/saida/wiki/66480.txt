@@ -1,0 +1,15 @@
+====== 66480 - DC - Pedido de licença da Confraria de Nossa Senhora e Almas, da freguesia de S. Tiago de Antas, para fazer os festejos com missa cantada, sermão, exposição do Santíssimo Sacramento e procissão ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença da Confraria de Nossa Senhora e Almas, da freguesia de S. Tiago de Antas, para fazer os festejos com missa cantada, sermão, exposição do Santíssimo Sacramento e procissão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-12-07
+**UnitDateFinal**:: 1889-12-07
+**ScopeContent**:: Manuscrito, original, em papel azul timbrado “80 reis” com selo colado. Em baixo o deferimento do Arcipreste Mesquita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 509 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66480

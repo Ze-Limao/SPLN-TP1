@@ -1,0 +1,15 @@
+====== 50658 - DC - A Dissidência Progressista aos Partidos Progressista e Regenerador: Memorandum ======
+
+**Parent**:: 31637
+**RootParent**:: 31258
+**UnitTitle**:: A Dissidência Progressista aos Partidos Progressista e Regenerador: Memorandum
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-12-05
+**UnitDateFinal**:: 1907-12-05
+**ScopeContent**:: Provas tipográficas. Junto com carta CP 2113 e minuta de carta 2114.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50658
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2112 - cx. 15
+depósito 3, estante 9 e 10.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50658

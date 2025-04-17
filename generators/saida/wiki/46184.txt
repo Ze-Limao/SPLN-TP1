@@ -1,0 +1,18 @@
+====== 46184 - DC - Registo do recenseamento eleitoral de Luís Francisco Gomes da Costa ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Luís Francisco Gomes da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Jesufrei
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Igreja
+Idade - 40
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46184
+**LangMaterial**:: Português
+**PhysLoc**:: 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46184

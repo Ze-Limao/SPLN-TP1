@@ -1,0 +1,18 @@
+====== 8496 - DC - Termo do exame de Joaquim de Azevedo Dias ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim de Azevedo Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-05-03
+**UnitDateFinal**:: 1886-05-03
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - José de Azevedo Dias
+Naturalidade - Bougado S. Martinho, Trofa
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8496
+**LangMaterial**:: Português
+**PhysLoc**:: f. 38
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8496

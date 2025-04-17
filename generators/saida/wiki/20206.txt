@@ -1,0 +1,15 @@
+====== 20206 - UI - Registo das côngruas aos párocos do concelho ======
+
+**Parent**:: 20205
+**RootParent**:: 20048
+**UnitTitle**:: Registo das côngruas aos párocos do concelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1871-06-03
+**UnitDateFinal**:: 1874
+**ScopeContent**:: Termo de abertura: “ Este livro hade servir para n´elle se lavrar a … as côngruas dos parochos das freguesias d´este Concelho…”. Contém os anos económicos 1871-72, 1873-74.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20206
+**LangMaterial**:: Português
+**PhysLoc**:: AC 93
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20206

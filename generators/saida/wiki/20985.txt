@@ -1,0 +1,15 @@
+====== 20985 - DC - Nº 6/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 6/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-03-23
+**UnitDateFinal**:: 1962-03-23
+**ScopeContent**:: Contrato de fornecimento de candeeiros para a Casa dos Magistrados
+Outorgante - Félix, Oliveiras & Cª Lda.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20985
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 43
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20985

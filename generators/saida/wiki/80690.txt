@@ -1,0 +1,14 @@
+====== 80690 - UI - Processo nº 110 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 110
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1979-03-29
+**UnitDateFinal**:: 1980-03-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 303 - cx. 16
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80690

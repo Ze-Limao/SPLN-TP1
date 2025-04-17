@@ -1,0 +1,16 @@
+====== 29304 - DC - Recortes de imprensa "Un conseil par jour" de Jean de Paris ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Recortes de imprensa "Un conseil par jour" de Jean de Paris
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1867
+**ScopeContent**:: Recortes de imprensa sem data nem nome do jornal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29304
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 211 (1) a 211 (10) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29304

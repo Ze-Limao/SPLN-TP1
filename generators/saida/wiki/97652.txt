@@ -1,0 +1,15 @@
+====== 97652 - UI - Processo nº 76 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 76
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-07-07
+**UnitDateFinal**:: 1976-10-01
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 26.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 401 - cx. 24
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97652

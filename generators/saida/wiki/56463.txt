@@ -1,0 +1,17 @@
+====== 56463 - DC - Chronique Théatrale de feuileton du Temps ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Chronique Théatrale de feuileton du Temps
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-09-11
+**UnitDateFinal**:: 1916-09-11
+**ScopeContent**:: Recorte de imprensa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56463
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5791 - cx. 41
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56463

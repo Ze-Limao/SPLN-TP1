@@ -1,0 +1,20 @@
+====== 20762 - DC - Registo do recenseamento militar de Jerónimo ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Jerónimo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-05-02
+**UnitDateFinal**:: 1890-05-02
+**ScopeContent**:: Freguesia - Ribeirão
+Filiação - Domingos José da Costa e Matilde Pereira dos Santos
+Naturalidade -Ribeirão
+Data de nascimento - 1869-06-25
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20762
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20762

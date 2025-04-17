@@ -1,0 +1,18 @@
+====== 8920 - DC - Termo do exame de Joaquim Alberto Machado de Brito ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim Alberto Machado de Brito
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-24
+**UnitDateFinal**:: 1894-07-24
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Manuel Machado
+Naturalidade - Landim
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8920
+**LangMaterial**:: Português
+**PhysLoc**:: f. 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8920

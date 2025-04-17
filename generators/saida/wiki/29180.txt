@@ -1,0 +1,16 @@
+====== 29180 - DC - A tília, que foi plantada no souto ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: A tília, que foi plantada no souto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-05-02
+**UnitDateFinal**:: 1904-05-02
+**ScopeContent**:: Identificação das variedades de tílias plantadas na Quinta de Boamense e de um Liriodendron tulipifera, plantada no mesmo ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29180
+**LangMaterial**:: Português
+**PhysLoc**:: AS 295 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29180

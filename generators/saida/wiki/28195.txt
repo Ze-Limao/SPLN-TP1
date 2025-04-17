@@ -1,0 +1,16 @@
+====== 28195 - DC - Na lata entre o campo da vinha e a vinha do meio ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Na lata entre o campo da vinha e a vinha do meio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Notas diversas sobre enxertos e videiras.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28195
+**LangMaterial**:: Português
+**PhysLoc**:: AS 467 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28195

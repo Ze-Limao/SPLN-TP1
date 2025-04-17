@@ -1,0 +1,17 @@
+====== 65664 - DC - Obrigação que fez João Machado Fagundes desta vila de Barcelos a José da Costa Pinto ======
+
+**Parent**:: 54469
+**RootParent**:: 31258
+**UnitTitle**:: Obrigação que fez João Machado Fagundes desta vila de Barcelos a José da Costa Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1718-12-17
+**UnitDateFinal**:: 1719-01-08
+**ScopeContent**:: Manuscrito com folhas cosidas. Este documento estava na “Caixa 12”, que contém CP 3800 a CP 3826 embrulhados em jornais do ano 1936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54269
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3807 - cx. 28
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65664

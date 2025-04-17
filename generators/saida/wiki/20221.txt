@@ -1,0 +1,15 @@
+====== 20221 - SSR - Copiador da correspondência recebida na Tesouraria ======
+
+**Parent**:: 20216
+**RootParent**:: 7651
+**UnitTitle**:: Copiador da correspondência recebida na Tesouraria
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1941-02-01
+**UnitDateFinal**:: 1961-10-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20221
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20221
+
+===== Filhos =====
+  * [[20329.txt|20329 - UI - Registo de correspondência recebida na Tesouraria]]

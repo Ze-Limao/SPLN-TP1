@@ -1,0 +1,23 @@
+====== 20397 - SSR - Actas da Assembleia-Geral ======
+
+**Parent**:: 20361
+**RootParent**:: 20342
+**UnitTitle**:: Actas da Assembleia-Geral
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1890-04-20
+**UnitDateFinal**:: 1989-03-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20397
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20397
+
+===== Filhos =====
+  * [[24982.txt|24982 - UI - Livro de Actas da Assembleia Geral do Corpo Activo dos B.V.F.]]
+  * [[24983.txt|24983 - UI - Actas da Assembleia Geral da Associação Humanitária de Bombeiros Voluntários de Villa Nova de Famalicão]]
+  * [[24984.txt|24984 - UI - Actas da Assembleia Geral da Associação Humanitária de Bombeiros Voluntários de Villa Nova de Famalicão]]
+  * [[24985.txt|24985 - UI - Actas da Assembleia Geral do Corpo Activo de Bombeiros Voluntários de Famalicão]]
+  * [[24986.txt|24986 - UI - Livro de Presenças na Assembleia Geral]]
+  * [[24987.txt|24987 - UI - Livro de Presenças das Assembleias Gerais]]
+  * [[24988.txt|24988 - UI - Livro de Presenças às reuniões da Assembleia Geral de Bombeiros Voluntários]]
+  * [[24989.txt|24989 - UI - Livro de Presenças às reuniões da Assembleia Geral da A. H. Bombeiros Voluntários de V. N. de Famalicão]]

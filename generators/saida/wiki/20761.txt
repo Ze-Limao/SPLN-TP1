@@ -1,0 +1,18 @@
+====== 20761 - DC - Registo do recenseamento militar de Miguel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Miguel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-05-02
+**UnitDateFinal**:: 1890-05-02
+**ScopeContent**:: Freguesia - Arnoso Santa Eulália
+Filiação - António Teixeira da Silva e Ana Rosa Pereira
+Naturalidade - Crujães
+Data de nascimento - 1869-10-26
+Residência - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20761
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20761

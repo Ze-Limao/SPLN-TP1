@@ -1,0 +1,31 @@
+====== 28213 - DC - Cálculo da Capacidade dos tonéis feitos em Julho de 1901 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Cálculo da Capacidade dos tonéis feitos em Julho de 1901
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-07
+**UnitDateFinal**:: 1901-07
+**ScopeContent**:: Folhas de cálculo da capacidade de tonéis. O cálculo da capacidade dos tonéis é equivalente ao cálculo do volume de um cilindro. Para os cálculos apresentados neste documento, Alberto Sampaio entra com o «comprimento interno» do tonel, isto é, a altura do tonel, a «altura dos tampos» e a «altura do bojo», isto é, o diâmetro das bases e do bojo do tonel. No cálculo do volume do tonel, é determinado o valor equivalente ao raio do tonel, como o resultado da média de metade do somatório do diâmetro da base com o diâmetro do bojo. Uma vez calculado o raio, a fórmula para determinação do volume é a mesma utilizada para um cilindro (V= h*r2*π). 
+Ao volume total do tonel, calculado com base na fórmula apresentada, Alberto Sampaio deduz 1% para apurar o volume útil (em litros). Determina ainda o número de pipas e almudes correspondentes à capacidade em litros do tonel, tendo por base que 1 pipa equivale a 525 litros e 1 almude a 25 litros.
+Exemplo:
+A. Medidas do tonel
+Comprimento interno (h, altura)	178 cm
+Altura dos tampos (Ø dos tampos)	125 cm
+Altura do bojo (Ø do bojo)		152 cm
+a) Determinação do volume do tonel
+V= h*r2*π
+Valor médio do diâmetro do tonel = (125+152) / 2 = 138,5 cm
+Raio do tonel = 138,5 / 2 = 69,25 cm
+V= 178 * (69,25) 2 * 3,14 = 2680 litros
+V útil = 2680-26 = 2654 litros
+2654 litros são equivalentes a 5 pipas, 1 almude e 3 litros. 
+Capacidade em litros de 1 pipa = 525 l; Capacidade em litros de 1 almude = 25 l 
+1 pipa é equivalente a 21 almudes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28213
+**LangMaterial**:: Português
+**PhysLoc**:: AS 485 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28213

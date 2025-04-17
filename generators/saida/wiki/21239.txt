@@ -1,0 +1,21 @@
+====== 21239 - UI - Maria Inácia de Faria Roby ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Maria Inácia de Faria Roby
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Poderá ser Maria Inácia da Conceição de Faria Machado Pinto Roby de Miranda Pereira da Rocha Tinoco, nascida entre 1835 e 1881. Filha de Sebastião de Faria Machado Pinto Roby de Miranda Pereira e Ana Augusta de Sousa Gomes. Casada com José Borges Pacheco Pereira da Faria. Era prima de JAM.
+Fonte: Geni.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21239
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 961, 962, 963, 964
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21239
+
+===== Filhos =====
+  * [[26166.txt|26166 - DC - Carta]]
+  * [[26167.txt|26167 - DC - Carta]]
+  * [[26168.txt|26168 - DC - Carta]]
+  * [[26169.txt|26169 - DC - Carta]]

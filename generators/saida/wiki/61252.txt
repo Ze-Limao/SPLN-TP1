@@ -1,0 +1,16 @@
+====== 61252 - DC - Daniel Rodrigues, ministro das Finanças, num almoço. ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: Daniel Rodrigues, ministro das Finanças, num almoço.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-11-26
+**UnitDateFinal**:: 1924-11-26
+**ScopeContent**:: Fotografia p&b. Fotografia de almoço com Daniel Rodrigues e outros. Nota manuscrita no verso ”Of. Ao Exmo S. Dr. Daniel Rodrigues como lembrança do almoço realizado no restaurante Tavares em 26 Novembro 1924, e of. Por sua Exª ao pessoal do seu gabinete quando Ministro das Finanças. João Carlos Marques”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 136 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61252

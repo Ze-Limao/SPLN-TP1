@@ -1,0 +1,31 @@
+====== 7953 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-02-19
+**UnitDateFinal**:: 1891-02-19
+**ScopeContent**:: 'Tem de servir este livro para o recenseamento eleitoral das freguesias que compõem a assembleia com sede na igreja matriz da freguesia de Ribeirão, nas eleições de deputados da nação, em conformidade com o artigo 33 da lei eleitoral de 21 de maio de 1884'
+
+Contém dados sobre:
+1- Freguesia
+2- Nome
+3- Censo
+4- Emprego ou profissão
+5- Estado
+6- Morada
+7- Idade
+8- Elegíveis para deputados
+9- Elegíveis para cargos municipais, distritais e paroquiais
+10- Chefe de família
+11 - Ler e escrever
+12- Quarenta maiores contribuintes da contribuição predial
+13- Observações
+
+A assembleia eleitoral de Ribeirão era composta pelas freguesias de Fradelos, Lousado, Ribeirão e Vilarinho das Cambas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7953
+**LangMaterial**:: Português
+**PhysLoc**:: 1.2.2.16
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7953

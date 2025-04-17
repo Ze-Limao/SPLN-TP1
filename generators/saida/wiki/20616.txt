@@ -1,0 +1,20 @@
+====== 20616 - DC - Registo do recenseamento militar de Lino ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Lino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Lemenhe
+Filiação - José Cardoso da Costa e Helena Maria Ribeiro
+Naturalidade - Lemenhe
+Data de nascimento - 1870-10-29
+Emprego - Pedreiro
+Estado - Solteiro
+Residência - Gavião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20616
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20616

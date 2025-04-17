@@ -1,0 +1,17 @@
+====== 54804 - DC - Participação do casamento dos 2ºs Viscondes de Pindela ======
+
+**Parent**:: 54476
+**RootParent**:: 31258
+**UnitTitle**:: Participação do casamento dos 2ºs Viscondes de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889
+**UnitDateFinal**:: 1889
+**ScopeContent**:: Dois exemplares. Incluído no maço "Casamento dos 2ºs Viscondes de Pindela, 1889", do nº 6199 a 6240.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54804
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6199 e 6200  - cx. 43
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54804

@@ -1,0 +1,16 @@
+====== 55974 - DC - Recorte de jornal ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Recorte de jornal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1910
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55974
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 14586 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55974

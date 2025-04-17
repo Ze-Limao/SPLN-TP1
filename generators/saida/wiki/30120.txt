@@ -1,0 +1,14 @@
+====== 30120 - DC - Vasco Fernandes Real ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Vasco Fernandes Real
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-11-16
+**UnitDateFinal**:: 1974-11-16
+**ScopeContent**:: Regedor efetivo da freguesia de Cavalões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30120
+**LangMaterial**:: Português
+**PhysLoc**:: f. 61
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30120

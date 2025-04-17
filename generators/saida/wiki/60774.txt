@@ -1,0 +1,15 @@
+====== 60774 - DC - Emprazamento dos casais da Portela, situado na  freguesia de S. Tiago de Antas, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a João Anes, a sua mulher e a um filho ou filha de entre ambos ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento dos casais da Portela, situado na  freguesia de S. Tiago de Antas, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a João Anes, a sua mulher e a um filho ou filha de entre ambos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1548-02-22
+**UnitDateFinal**:: 1548-02-22
+**ScopeContent**:: Manuscrito, original, com selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 42 - cx. P27
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60774

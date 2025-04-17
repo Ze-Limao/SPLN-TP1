@@ -1,0 +1,16 @@
+====== 27925 - DC - Carta ======
+
+**Parent**:: 21260
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-11-02
+**UnitDateFinal**:: 1914-11-02
+**ScopeContent**:: Raul Brandão revela que está a escrever "O Cerco do Porto" e que tem muita vontade de visitar Seide. Carta manuscrita assinada, da Quinta do Alto da Nespereira, Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27925
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1019 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27925

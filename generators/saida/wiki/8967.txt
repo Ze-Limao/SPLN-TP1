@@ -1,0 +1,14 @@
+====== 8967 - SC - Funções Militares ======
+
+**Parent**:: 7651
+**RootParent**:: 7651
+**UnitTitle**:: Funções Militares
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1856-02-07
+**UnitDateFinal**:: 1936-03-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8967
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8967
+
+===== Filhos =====
+  * [[8968.txt|8968 - SR - Recenseamento Militar]]

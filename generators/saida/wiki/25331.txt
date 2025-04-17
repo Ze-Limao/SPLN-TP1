@@ -1,0 +1,16 @@
+====== 25331 - DC - Coligidos das pastas das "Coisas Velhas" e "outras" por Hilário Carvalho ======
+
+**Parent**:: 25019
+**RootParent**:: 20342
+**UnitTitle**:: Coligidos das pastas das "Coisas Velhas" e "outras" por Hilário Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958
+**UnitDateFinal**:: 1958
+**ScopeContent**:: Contém: Datas e factos/atividades da história da AHBVF.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25331
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 122 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25331

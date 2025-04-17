@@ -1,0 +1,16 @@
+====== 30249 - DC - Carta ======
+
+**Parent**:: 21418
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926-08-14
+**UnitDateFinal**:: 1926-08-14
+**ScopeContent**:: Carta manuscrita assinada, da Travessa dos Prazeres, 14, Vila do Conde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30249
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1397 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30249

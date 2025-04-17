@@ -1,0 +1,23 @@
+====== 44955 - UI - José Luciano de Castro ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: José Luciano de Castro
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD44955
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=44955
+
+===== Filhos =====
+  * [[44956.txt|44956 - DC - Carta]]
+  * [[44957.txt|44957 - DC - Carta]]
+  * [[44958.txt|44958 - DC - Carta]]
+  * [[44959.txt|44959 - DC - Carta]]
+  * [[44960.txt|44960 - DC - Carta]]
+  * [[44961.txt|44961 - DC - Carta]]
+  * [[44962.txt|44962 - DC - Carta]]
+  * [[44963.txt|44963 - DC - Carta]]

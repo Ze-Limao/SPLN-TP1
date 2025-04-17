@@ -1,0 +1,16 @@
+====== 25990 - DC - Carta (para Vicente Pinheiro Lobo Machado de Melo e Almada, 2.º visconde de Pindela) ======
+
+**Parent**:: 21201
+**RootParent**:: 20290
+**UnitTitle**:: Carta (para Vicente Pinheiro Lobo Machado de Melo e Almada, 2.º visconde de Pindela)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-05-01
+**UnitDateFinal**:: 1898-05-01
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25990
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 784 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25990

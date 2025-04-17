@@ -1,0 +1,20 @@
+====== 24781 - DC - Ofício de Francisco José da Cruz Trovisqueira ======
+
+**Parent**:: 24746
+**RootParent**:: 20342
+**UnitTitle**:: Ofício de Francisco José da Cruz Trovisqueira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-11-23
+**UnitDateFinal**:: 1891-11-23
+**ScopeContent**:: «Tendo Suas Majestades de passar na estação de caminho-de-ferro desta vila, em direção à cidade de Braga, no dia 27 do corrente pelas 11 horas da manhã, vou rogar a V. Ex.cia a especial fineza de providenciar para que a briosa corporação do seu digno comando, acompanhada da respetiva banda, compareça naquele local, dia e hora designado, concorrendo assim para prestar um preito de homenagem e consideração ao Augusto Chefe de Estado e mais família real.
+Deus Guarde a V. Ex.cia
+Famalicão, 23 de Novembro de 1891
+O vice-presidente,
+Francisco José da Cruz Trovisqueira»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24781
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 5 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24781

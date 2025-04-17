@@ -1,0 +1,17 @@
+====== 99234 - DC - Livro de uzo e costumes desta igreja e fregª de S. Thiago de Gavião ======
+
+**Parent**:: 99223
+**RootParent**:: 99217
+**UnitTitle**:: Livro de uzo e costumes desta igreja e fregª de S. Thiago de Gavião
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1770-03-08
+**UnitDateFinal**:: 1816-07-25
+**ScopeContent**:: Livro manuscrito encadernado a pele. Contém: na f. 41 a 42 Inventário de bens móveis que pertencem à fábrica desta igreja Santiago de Antas  feito em 1780. 1816-07-25;  na f. 48 Título dos limites desta freguesia de Santiago de Antas 1792-03-31.
+**Repository**:: Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99234
+**LangMaterial**:: Português
+**PhysLoc**:: PSTG 1 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99234

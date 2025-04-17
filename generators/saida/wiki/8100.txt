@@ -1,0 +1,15 @@
+====== 8100 - DC - Termo de Francisco Joaquim de Carvalho e Manuel de Faria Peixoto ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Francisco Joaquim de Carvalho e Manuel de Faria Peixoto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-07-23
+**UnitDateFinal**:: 1879-07-23
+**ScopeContent**:: Mudança de um caminho público
+Local - Pousada de Saramagos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8100
+**LangMaterial**:: Português
+**PhysLoc**:: f. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8100

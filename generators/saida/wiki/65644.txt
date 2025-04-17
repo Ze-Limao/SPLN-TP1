@@ -1,0 +1,15 @@
+====== 65644 - DC - Inventário que se fez dos bens, por ocasião da morte de Ventura Rodrigues, moradora no lugar de S. Cláudio, freguesia de S. Tiago de Antas ======
+
+**Parent**:: 63947
+**RootParent**:: 60536
+**UnitTitle**:: Inventário que se fez dos bens, por ocasião da morte de Ventura Rodrigues, moradora no lugar de S. Cláudio, freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1764-10-30
+**UnitDateFinal**:: 1764-10-30
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 179 - cx. 9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65644

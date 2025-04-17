@@ -1,0 +1,15 @@
+====== 21091 - DC - Termo de José da Costa e Teresa da Costa Monteiro ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José da Costa e Teresa da Costa Monteiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-08-20
+**UnitDateFinal**:: 1879-08-20
+**ScopeContent**:: Limpeza de dois poços de mina juno a um caminho público
+Local - Vermoim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21091
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21091

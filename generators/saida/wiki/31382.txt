@@ -1,0 +1,14 @@
+====== 31382 - SC - Fernando Teixeira Homem de Brederode ======
+
+**Parent**:: 31367
+**RootParent**:: 31258
+**UnitTitle**:: Fernando Teixeira Homem de Brederode
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1939
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31382
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31382
+
+===== Filhos =====
+  * [[31383.txt|31383 - SSC - Fernando Teixeira Homem de Brederode]]

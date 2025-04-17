@@ -1,0 +1,17 @@
+====== 50163 - DC - Carta e minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 31585
+**RootParent**:: 31258
+**UnitTitle**:: Carta e minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-06-29
+**UnitDateFinal**:: 1919-06-29
+**ScopeContent**:: Carta manuscrita assinada, de Deucriste (Viana do Castelo). Esta carta pertence ao maço "Cartas importantes de janeiro 1919 e dos amigos que suffreram pela causa". Carta junta com CP 4241 de Francisco Leite Arriscado. Tem minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada datada de 1919-06-30.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50163
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4642 - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50163

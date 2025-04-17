@@ -1,0 +1,26 @@
+====== 56082 - DC - Maço Fronteira sul de Angola ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço Fronteira sul de Angola
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Este maço contém cópias de ofícios e telegramas de Vicente para várias pessoas, CP 14707 a CP 14713.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56082
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14706 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56082
+
+===== Filhos =====
+  * [[56083.txt|56083 - DC - Cópia de ofício]]
+  * [[56084.txt|56084 - DC - Cópia de ofício]]
+  * [[56085.txt|56085 - DC - Cópia de ofício]]
+  * [[56086.txt|56086 - DC - Cópia de ofício]]
+  * [[56087.txt|56087 - DC - Cópia de ofício]]
+  * [[56088.txt|56088 - DC - Cópia de ofício]]
+  * [[56089.txt|56089 - DC - Cópia de ofício]]

@@ -1,0 +1,13 @@
+====== 9623 - DC - Ofício nº 4 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 4
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-01-26
+**UnitDateFinal**:: 1887-01-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9623
+**LangMaterial**:: Português
+**PhysLoc**:: f. 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9623

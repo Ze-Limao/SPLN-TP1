@@ -1,0 +1,16 @@
+====== 21515 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-10-21
+**UnitDateFinal**:: 1902-10-21
+**ScopeContent**:: António Ferraz comunica que decifrou o brasão dos Salemas. Encontrou-o num velho tratado de heráldica (manuscrito de 1650) que pertencia aos avós e que contém 154 brasões. Encontrado o brasão procurou no Nobiliário de Sanches de Baena. Desenha na carta brasões do clero superior. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21515
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 166 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21515

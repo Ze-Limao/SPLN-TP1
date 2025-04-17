@@ -1,0 +1,29 @@
+====== 45136 - UI - Isidoro de Magalhães Marques da Costa ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Isidoro de Magalhães Marques da Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-05-22
+**UnitDateFinal**:: 1921-12-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45136
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45136
+
+===== Filhos =====
+  * [[45135.txt|45135 - DC - Carta]]
+  * [[45137.txt|45137 - DC - Postal ilustrado]]
+  * [[45138.txt|45138 - DC - Carta]]
+  * [[45139.txt|45139 - DC - Postal ilustrado]]
+  * [[45141.txt|45141 - DC - Bilhete-postal]]
+  * [[45142.txt|45142 - DC - Carta]]
+  * [[45143.txt|45143 - DC - Carta]]
+  * [[45144.txt|45144 - DC - Bilhete-postal]]
+  * [[45145.txt|45145 - DC - Telegrama]]
+  * [[45146.txt|45146 - DC - Carta]]
+  * [[45147.txt|45147 - DC - Carta]]
+  * [[45148.txt|45148 - DC - Bilhete-postal]]

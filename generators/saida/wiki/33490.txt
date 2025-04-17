@@ -1,0 +1,20 @@
+====== 33490 - UI - Mariana de Sousa Botelho ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Mariana de Sousa Botelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-08-30
+**UnitDateFinal**:: 1899-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33490
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33490
+
+===== Filhos =====
+  * [[33491.txt|33491 - DC - Carta]]
+  * [[33492.txt|33492 - DC - Carta]]
+  * [[54244.txt|54244 - DC - Cartão de visita para Viscondes]]

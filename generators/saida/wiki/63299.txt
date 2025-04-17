@@ -1,0 +1,20 @@
+====== 63299 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - José Mendes de Abreu e Rosa Dias, ele no Brasil e ela falecida
+Naturalidade - Avidos
+Morada - 
+Data de nascimento - 1864-07-12
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63299

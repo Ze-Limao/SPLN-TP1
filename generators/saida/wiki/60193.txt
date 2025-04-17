@@ -1,0 +1,17 @@
+====== 60193 - DC - Ofício nº325 para Alexandre Ferreira ======
+
+**Parent**:: 60187
+**RootParent**:: 31258
+**UnitTitle**:: Ofício nº325 para Alexandre Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1936-02-21
+**UnitDateFinal**:: 1936-02-21
+**ScopeContent**:: Ofício datilografado com envelope carimbado (CP 8640).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57680
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8639 e 8640 - cx. 54
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60193

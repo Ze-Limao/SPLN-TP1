@@ -1,0 +1,19 @@
+====== 34307 - DC - Registo do recenseamento militar de António Rodrigues ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Cabeçudos
+Data de nascimento - 1852-11-13
+Filiação - Vicente Rodrigues de Sá e Maria Joana de Abreu
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34307
+**LangMaterial**:: Português
+**PhysLoc**:: 93v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34307

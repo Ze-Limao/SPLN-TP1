@@ -1,0 +1,17 @@
+====== 31336 - SSSC - Vida social e familiar ======
+
+**Parent**:: 31331
+**RootParent**:: 31258
+**UnitTitle**:: Vida social e familiar
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1815
+**UnitDateFinal**:: 1944-07-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31336
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31336
+
+===== Filhos =====
+  * [[31337.txt|31337 - SR - Correspondência recebida]]
+  * [[31339.txt|31339 - SR - Vida de estudante no liceu e no Real Colégio Militar]]
+  * [[54493.txt|54493 - SR - Estudos e Curso de Agronomia]]
+  * [[54529.txt|54529 - SR - Documentos]]

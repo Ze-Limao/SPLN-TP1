@@ -1,0 +1,16 @@
+====== 22664 - DC - Livro da Comissão promotora da homenagem póstuma ao grande escritor Camilo Castelo Branco para servir de cópia dos ofícios dirigidos a algumas Câmaras, a jornalistas e a outras pessoas gratas ======
+
+**Parent**:: 22663
+**RootParent**:: 20290
+**UnitTitle**:: Livro da Comissão promotora da homenagem póstuma ao grande escritor Camilo Castelo Branco para servir de cópia dos ofícios dirigidos a algumas Câmaras, a jornalistas e a outras pessoas gratas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-04-21
+**UnitDateFinal**:: 1918-03-14
+**ScopeContent**:: Termo de abertura: "Contém este livro sessenta e cinco folhas, incluindo a d´este termo e a do encerramento, e há de servir para n´elle se copiarem os officios dirigidos a algumas Camaras, a jornalistas e outras pessoas gratas, e vão todas numeradas e rubricadas pelo presidente da Comissão promotora da homenagem posthuma ao grande escriptor Camillo Castello Branco. Vila Nova de Famalicão, 21 de Abril de 1915 quinze. O Presidente da Comissão José de Azevedo e Menezes." Livro encadernado a capas de cartão forradas a tecido, lombada a couro. Apenas 17 folhas contêm informação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22664
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1519 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22664

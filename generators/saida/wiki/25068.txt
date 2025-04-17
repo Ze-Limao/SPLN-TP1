@@ -1,0 +1,16 @@
+====== 25068 - UI - Serviço de ambulância ======
+
+**Parent**:: 20383
+**RootParent**:: 20342
+**UnitTitle**:: Serviço de ambulância
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1954-07-27
+**UnitDateFinal**:: 1957-09-30
+**ScopeContent**:: Serviços respeitantes à ambulância Volkswagen nº matrícula NO-14-23.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25068
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 167
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25068

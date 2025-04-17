@@ -1,0 +1,15 @@
+====== 63985 - DC - Escritura de compra de um campo e cortelho, na freguesia de Avidos, por António José de Andrade, morador na freguesia de S. Martinho de Avidos, a António Correia de Araújo e pai deste Francisco Araújo Correia, morador na mesma freguesia ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra de um campo e cortelho, na freguesia de Avidos, por António José de Andrade, morador na freguesia de S. Martinho de Avidos, a António Correia de Araújo e pai deste Francisco Araújo Correia, morador na mesma freguesia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1775-08-18
+**UnitDateFinal**:: 1775-08-18
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 181 - cx. 9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63985

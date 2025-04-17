@@ -1,0 +1,15 @@
+====== 20158 - SR - Caderneta militar ======
+
+**Parent**:: 20050
+**RootParent**:: 20048
+**UnitTitle**:: Caderneta militar
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1888-03-15
+**UnitDateFinal**:: 1892-03-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20158
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20158
+
+===== Filhos =====
+  * [[20159.txt|20159 - UI - Caderneta militar de José da Silva]]

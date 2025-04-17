@@ -1,0 +1,15 @@
+====== 80204 - UI - Processo nº 2 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 2
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-01-10
+**UnitDateFinal**:: 1972-05-31
+**ScopeContent**:: Junto com Autos de Execução por Custas nº 2-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 101 - cx. 6
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80204

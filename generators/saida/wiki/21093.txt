@@ -1,0 +1,17 @@
+====== 21093 - UI - Câmara Municipal da Régua ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Câmara Municipal da Régua
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1919-09-13
+**UnitDateFinal**:: 1919-09-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21093
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 333
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21093
+
+===== Filhos =====
+  * [[24898.txt|24898 - DC - Ofício]]

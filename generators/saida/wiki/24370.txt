@@ -1,0 +1,16 @@
+====== 24370 - DC - Cartão de visita ======
+
+**Parent**:: 21063
+**RootParent**:: 20290
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-04-18
+**UnitDateFinal**:: 1913-04-18
+**ScopeContent**:: António Cabreira agradece o livro "Ninharias" e envia a notícia da sessão da Academia em que JAM foi eleito Correspondente.  Cartão manuscrito assinado, Rua das Taipas, T. C., Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24370
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 143 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24370

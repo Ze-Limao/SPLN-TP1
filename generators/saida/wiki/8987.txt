@@ -1,0 +1,13 @@
+====== 8987 - DC - Ofício nº 11 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 11
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-03-27
+**UnitDateFinal**:: 1885-03-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8987
+**LangMaterial**:: Português
+**PhysLoc**:: f. 4
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8987

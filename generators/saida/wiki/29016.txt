@@ -1,0 +1,14 @@
+====== 29016 - UI - José Malheiro Reimão ======
+
+**Parent**:: 28716
+**RootParent**:: 27963
+**UnitTitle**:: José Malheiro Reimão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-09
+**UnitDateFinal**:: 1906-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29016
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29016
+
+===== Filhos =====
+  * [[29017.txt|29017 - DC - Rascunho de carta]]

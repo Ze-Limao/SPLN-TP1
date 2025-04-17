@@ -1,0 +1,16 @@
+====== 30188 - DC - Cartão ======
+
+**Parent**:: 21366
+**RootParent**:: 20290
+**UnitTitle**:: Cartão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-09-14
+**UnitDateFinal**:: 1918-09-14
+**ScopeContent**:: Cartão manuscrito e assinado em papel de luto. Cartão timbrado "Condessa de Fijô".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30188
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1321 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30188

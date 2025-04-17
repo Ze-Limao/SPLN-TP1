@@ -1,0 +1,16 @@
+====== 25345 - DC - Projecto dos Estatutos da Liga dos Bombeiros Portugueses ======
+
+**Parent**:: 24996
+**RootParent**:: 20342
+**UnitTitle**:: Projecto dos Estatutos da Liga dos Bombeiros Portugueses
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1932
+**UnitDateFinal**:: 1932
+**ScopeContent**:: Impresso na Tipografia Cardim, Cascais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25345
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 100 - cx. 26
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25345

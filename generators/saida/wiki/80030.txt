@@ -1,0 +1,20 @@
+====== 80030 - SR - Autos de Acção Emergente de Contrato de Trabalho com Processo Comum ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Acção Emergente de Contrato de Trabalho com Processo Comum
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1970-04-09
+**UnitDateFinal**:: 1977-04-14
+**ScopeContent**:: Contém Autos de Acção de Relações de Trabalho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80030
+
+===== Filhos =====
+  * [[80031.txt|80031 - UI - Processo nº 14]]
+  * [[80033.txt|80033 - UI - Processo nº 13]]
+  * [[80034.txt|80034 - UI - Processo nº 27]]
+  * [[80040.txt|80040 - UI - Processo nº 20]]
+  * [[80224.txt|80224 - UI - Processo nº 68]]
+  * [[80227.txt|80227 - UI - Processo nº 183]]

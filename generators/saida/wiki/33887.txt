@@ -1,0 +1,24 @@
+====== 33887 - DC - Carta ======
+
+**Parent**:: 33878
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-06-26
+**UnitDateFinal**:: 1885-06-26
+**ScopeContent**:: Carta manuscrita assinada, de Caldelas.
+Transcrição da carta:
+"Meu querido amº
+Escrevo-lhe pelo tacto. Eu pedi a meu sobrinho José que deixasse a V. Exª e aos seus collegas, colaboradores de um glorioso episódio do meu titulo, umas expressões de indelével gratidão. Devem estar ditas, e eu não posso dizer outras nem V. Exª as exigem. A tristeza e o pressagio de uma incomparável catástrofe abafam-me e recrudescem a cada hora os meus inveterados achaques. Vou sair de aqui para Braga ou Bom Jesus. Não tenho dois dias de repouso em p.te alguma. Mande-me V. Exª o seu discurso sobre colonias em q.to eu o posso ler. 
+A mª famª envia a V. Exª m.to affectuosos e reconhecidos cumprimentos. Abraça-o com o coração o seu velho amº
+C. Castello Branco
+C.dellas
+26/6/85".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33887
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2255 - cx. 16
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33887

@@ -1,0 +1,16 @@
+====== 61217 - DC - Carta ======
+
+**Parent**:: 61216
+**RootParent**:: 60550
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-03-05
+**UnitDateFinal**:: 1934-03-09
+**ScopeContent**:: Carta manuscrita carimbada e selada com lacre, do Conservatório nacional par Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 112 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61217

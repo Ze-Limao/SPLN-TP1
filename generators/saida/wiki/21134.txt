@@ -1,0 +1,20 @@
+====== 21134 - UI - Henrique Cardoso de Macedo Martins e Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Henrique Cardoso de Macedo Martins e Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1910
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21134
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 471, 472, 473, 474
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21134
+
+===== Filhos =====
+  * [[25516.txt|25516 - DC - Carta]]
+  * [[25517.txt|25517 - DC - Carta]]
+  * [[25518.txt|25518 - DC - Carta]]
+  * [[25519.txt|25519 - DC - Carta]]

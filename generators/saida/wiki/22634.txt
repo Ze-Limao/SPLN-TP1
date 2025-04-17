@@ -1,0 +1,16 @@
+====== 22634 - DC - Carta ======
+
+**Parent**:: 21427
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-08-25
+**UnitDateFinal**:: 1919-08-25
+**ScopeContent**:: Carta manuscrita assinada, de Hotel Avenida. João Afonso Simão Pinheiro Lobo Figueira Machado de Melo e Almada anuncia a sua chegada a Pindela e pede para lhe dizer as horas dos ofícios.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22634
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1410 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22634

@@ -1,0 +1,21 @@
+====== 29094 - UI - António Vicente Leal Sampaio ======
+
+**Parent**:: 28715
+**RootParent**:: 27963
+**UnitTitle**:: António Vicente Leal Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1908-03-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29094
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29094
+
+===== Filhos =====
+  * [[29095.txt|29095 - DC - Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio]]
+  * [[29096.txt|29096 - DC - Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio]]
+  * [[29097.txt|29097 - DC - Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio]]
+  * [[29098.txt|29098 - DC - Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio]]
+  * [[29099.txt|29099 - DC - Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio]]
+  * [[29100.txt|29100 - DC - Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio]]
+  * [[29101.txt|29101 - DC - Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio]]
+  * [[29102.txt|29102 - DC - Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio]]

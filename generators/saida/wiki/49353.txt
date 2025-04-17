@@ -1,0 +1,18 @@
+====== 49353 - DC - Registo do recenseamento eleitoral de João Ferreira de Mano ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Ferreira de Mano
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Telhado
+Profissão - Lavrador
+Estado - Casado
+Morada - Mano
+Idade - 60
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49353
+**LangMaterial**:: Português
+**PhysLoc**:: 78v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49353

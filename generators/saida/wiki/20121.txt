@@ -1,0 +1,15 @@
+====== 20121 - SR - Registo de telegramas expedidos ======
+
+**Parent**:: 20060
+**RootParent**:: 20048
+**UnitTitle**:: Registo de telegramas expedidos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1898-10-05
+**UnitDateFinal**:: 1926-08-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20121
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20121
+
+===== Filhos =====
+  * [[20122.txt|20122 - UI - Registo de telegramas expedidos]]

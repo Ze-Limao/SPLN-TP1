@@ -1,0 +1,15 @@
+====== 31617 - UI - José Bento Ferreira de Almeida ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: José Bento Ferreira de Almeida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1887-10-15
+**UnitDateFinal**:: 1897-08-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31617
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31617
+
+===== Filhos =====
+  * [[31619.txt|31619 - DC - Carta]]
+  * [[55337.txt|55337 - DC - Carta]]

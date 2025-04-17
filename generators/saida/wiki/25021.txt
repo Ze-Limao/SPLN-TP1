@@ -1,0 +1,16 @@
+====== 25021 - UI - Documentos diversos ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Documentos diversos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1994-11-25
+**UnitDateFinal**:: 1995-02-04
+**ScopeContent**:: Contém: Contas correntes; plantas obras; aquecimento de água; Comemorações dos 600 anos Bombeiros Portugueses; aquisição de camisa; tanques de água; mapas de serviço de saúde; aquisições de rádios portáteis; cedência de instalações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25021
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 124 - cx. 30
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25021

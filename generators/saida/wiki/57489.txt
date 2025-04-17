@@ -1,0 +1,17 @@
+====== 57489 - DC - Declaração de A. A. de Vasconcelos sobre a competência profissional de João Afonso Machado ======
+
+**Parent**:: 57397
+**RootParent**:: 31258
+**UnitTitle**:: Declaração de A. A. de Vasconcelos sobre a competência profissional de João Afonso Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928-02-03
+**UnitDateFinal**:: 1928-02-03
+**ScopeContent**:: Documento datilografado em papel azul selado. Declara-se que João Afonso Pinheiro, engenheiro silvicultor se encontra ao serviço da Companhia de Caminhos de Ferro do Norte desde 1927, foi nomeado responsável e obteve elogios.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57489
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2867 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57489

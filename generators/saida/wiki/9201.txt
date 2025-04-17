@@ -1,0 +1,19 @@
+====== 9201 - DC - Registo do recenseamento militar de Justino ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Justino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Paulino José Pereira e Felicidade Ribeiro
+Naturalidade - Riba de Ave
+Data de nascimento - 1877-11-25
+Profissão - Tecelão
+Estado civil - Solteiro
+Residência - Riba de Ave
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9201
+**LangMaterial**:: Português
+**PhysLoc**:: f. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9201

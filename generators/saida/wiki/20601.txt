@@ -1,0 +1,17 @@
+====== 20601 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Louro
+Filiação - Maria Josefa da Costa
+Naturalidade - Louro
+Data de nascimento - 1870-01-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20601
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20601

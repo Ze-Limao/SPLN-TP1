@@ -1,0 +1,15 @@
+====== 25939 - DC - Condecoração do Comandante Soares pelo  Ministro do Interior Santos Júnior na sessão solene no salão nobre na inauguração do novo quartel ======
+
+**Parent**:: 25319
+**RootParent**:: 20342
+**UnitTitle**:: Condecoração do Comandante Soares pelo  Ministro do Interior Santos Júnior na sessão solene no salão nobre na inauguração do novo quartel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-09-28
+**UnitDateFinal**:: 1966-09-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25939
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 188 - cx. 52
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25939

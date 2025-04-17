@@ -1,0 +1,16 @@
+====== 8288 - UI - Comissão Executiva de Braga do Partido Republicano Português ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Comissão Executiva de Braga do Partido Republicano Português
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-04-13
+**UnitDateFinal**:: 1895-04-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8288
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.14
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8288
+
+===== Filhos =====
+  * [[8289.txt|8289 - DC - Ofício]]

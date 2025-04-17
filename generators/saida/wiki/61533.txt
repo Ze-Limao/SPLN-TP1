@@ -1,0 +1,16 @@
+====== 61533 - DC - Lista de sócios e contactos ======
+
+**Parent**:: 61438
+**RootParent**:: 60551
+**UnitTitle**:: Lista de sócios e contactos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2006-03-13
+**UnitDateFinal**:: 2006-03-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 232 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61533

@@ -1,0 +1,15 @@
+====== 28275 - DC - Referências bibliográficas sobre História Antiga e Moderna ======
+
+**Parent**:: 28586
+**RootParent**:: 27963
+**UnitTitle**:: Referências bibliográficas sobre História Antiga e Moderna
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28275
+**LangMaterial**:: Português
+**PhysLoc**:: AS 133  - cx. 3
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28275

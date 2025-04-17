@@ -1,0 +1,16 @@
+====== 20085 - UI - Registo de atestados ======
+
+**Parent**:: 20084
+**RootParent**:: 20048
+**UnitTitle**:: Registo de atestados
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-01-18
+**UnitDateFinal**:: 1929-04-08
+**ScopeContent**:: Termo de abertura: "Este livro tem de servir para o registo dos Atestados passados por esta Administração …”.
+Contém dados: ano, mês e dia, conteúdo do atestado, observações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20085
+**LangMaterial**:: Português
+**PhysLoc**:: AC 41
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20085

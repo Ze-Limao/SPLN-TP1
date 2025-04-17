@@ -1,0 +1,14 @@
+====== 30089 - DC - Jaime da Silva Campos ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Jaime da Silva Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1972-01-05
+**UnitDateFinal**:: 1972-01-05
+**ScopeContent**:: Regedor efetivo da freguesia de Lousado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30089
+**LangMaterial**:: Português
+**PhysLoc**:: f. 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30089

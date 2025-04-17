@@ -1,0 +1,16 @@
+====== 25809 - DC - Carta ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-05-31
+**UnitDateFinal**:: 1891-05-31
+**ScopeContent**:: Carta manuscrita assinada, de Penafiel no dia 31 de maio, em papel de luto. Joaquim de Araújo solicita quando pode enviar um artigo sobre Camilo Castelo Branco para o próximo número da Nova Alvorada, número de homenagem ao escritor no 1º aniversário da morte do escritor.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25809
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 742 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25809

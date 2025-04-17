@@ -1,0 +1,16 @@
+====== 28496 - DC - Mem de Sá o povoador do Rio de Janeiro ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Mem de Sá o povoador do Rio de Janeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: «Recordando sumariamente os homens mais representativos que se lançaram em tão aventurosas empresas [os descobrimentos] - perdoe-me a memória dos esquecidos! - ficou na penumbra a grande multidão anónima que por força os havia de acompanhar. […] / Do movimento nem sequer escapou o próprio poeta: apesar de viver retirado da corte e representar a reacção contra tamanho desgoverno e o desbarato impensado de tantas forças mal dirigidas, ele deixara partir o primogénito que morreu em Ceuta na idade de 16 anos. Os filhos dos seus amigos partiam também, e seu irmão, Mem de Sá, começava a povoação do Rio de Janeiro.». Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, pp. 421-422). Referência bibliográfica: Rebelo da Silva - História de Portugal nos séculos XVII e XVIII.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28496
+**LangMaterial**:: Português
+**PhysLoc**:: AS 86 - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28496

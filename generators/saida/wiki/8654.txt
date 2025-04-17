@@ -1,0 +1,18 @@
+====== 8654 - DC - Termo do exame de Manuel José de Miranda ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel José de Miranda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-08-03
+**UnitDateFinal**:: 1889-08-03
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - João José de Miranda
+Naturalidade - Calendário
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8654
+**LangMaterial**:: Português
+**PhysLoc**:: f. 78
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8654

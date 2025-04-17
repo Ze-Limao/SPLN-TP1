@@ -1,0 +1,18 @@
+====== 28021 - DC - Maria ======
+
+**Parent**:: 27976
+**RootParent**:: 27963
+**UnitTitle**:: Maria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-01-12
+**UnitDateFinal**:: 1864-01-12
+**ScopeContent**:: Cópia manuscrita de um dos sonetos de Alberto Sampaio, escrito em Coimbra no álbum de João Machado de Faria e Maia, datado de 12 de Janeiro de 1864. A cópia foi enviada, por correio, do Porto para Famalicão, em finais de Março de 1931, pelo filho (1868-1937) de Vicente Machado Faria e Maia (1838-1917), com o mesmo nome e apelidos do pai, ao sobrinho de Alberto Sampaio, António Vicente Leal Sampaio, então juiz do Tribunal do Comércio, no Porto. Para fazer a cópia foi utilizada uma folha de um bloco, como facilmente se percebe pelo picotado que apresenta. 
+João Machado de Faria e Maia (1846-1915), a quem pertencia o álbum onde Alberto Sampaio escreveu o soneto, era filho do 1.º Visconde de Faria e Maia e irmão de Francisco e Vicente Machado Faria e Maia, também amigo de Alberto Sampaio. Conheceram-se na Universidade de Coimbra. João Faria e Maia foi poeta e jornalista. 
+No verso da folha Vicente Machado Faria e Maia escreveu: «Com saud.sas lembranças do Vicente Machado». Envelope com timbre do Grande Hotel do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28021
+**LangMaterial**:: Português
+**PhysLoc**:: AS 150 - cx. 3
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28021

@@ -1,0 +1,16 @@
+====== 24704 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-01-10
+**UnitDateFinal**:: 1910-01-10
+**ScopeContent**:: António Ferraz informa sobre o trabalho de consulta sobre um vínculo de Guilhomil, com base no Nobiliário de Gayo. Dá elementos sobre os Ferins. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24704
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 205 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24704

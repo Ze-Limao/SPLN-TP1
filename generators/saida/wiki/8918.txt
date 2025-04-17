@@ -1,0 +1,18 @@
+====== 8918 - DC - Termo do exame de Augusto Alves da Silva ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Augusto Alves da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-24
+**UnitDateFinal**:: 1894-07-24
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - Pedro Alves da Silva
+Naturalidade - Avidos
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8918
+**LangMaterial**:: Português
+**PhysLoc**:: f. 65
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8918

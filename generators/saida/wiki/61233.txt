@@ -1,0 +1,16 @@
+====== 61233 - UI - Américo de Castro ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Américo de Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1942
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61233
+
+===== Filhos =====
+  * [[61234.txt|61234 - DC - Carta para Elzira Dantas]]
+  * [[61269.txt|61269 - DC - Nota do advogado Americo de Castro]]

@@ -1,0 +1,16 @@
+====== 8053 - DC - Termo de Florêncio Andião ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Florêncio Andião
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-05-27
+**UnitDateFinal**:: 1878-05-27
+**ScopeContent**:: Declaração para ser considerado cidadão espanhol
+Filiação - Domingos António Andião e Margarida Rosa
+Naturalidade - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8053
+**LangMaterial**:: Português
+**PhysLoc**:: f. 24
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8053

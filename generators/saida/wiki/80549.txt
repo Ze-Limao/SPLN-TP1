@@ -1,0 +1,17 @@
+====== 80549 - SR - Autos de Execução por Dívida de Contribuições ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Execução por Dívida de Contribuições
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1972-12-16
+**UnitDateFinal**:: 1977-04-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80549
+
+===== Filhos =====
+  * [[80550.txt|80550 - UI - Processo nº 393]]
+  * [[80551.txt|80551 - UI - Processo nº 198]]
+  * [[80555.txt|80555 - UI - Processo nº 178]]
+  * [[80559.txt|80559 - UI - Processo nº 400]]

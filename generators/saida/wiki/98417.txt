@@ -1,0 +1,17 @@
+====== 98417 - DC - Certidão de aforamento de terras pedida por Vicente Machado de Melo Pinheiro ======
+
+**Parent**:: 31302
+**RootParent**:: 31258
+**UnitTitle**:: Certidão de aforamento de terras pedida por Vicente Machado de Melo Pinheiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1858-02-04
+**UnitDateFinal**:: 1875-03-24
+**ScopeContent**:: Manuscrito em papel azul.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12947 - cx. 80
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98417

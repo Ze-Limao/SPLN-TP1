@@ -1,0 +1,17 @@
+====== 67153 - DC - Comedias representadas pelos meus Filhos na sala de Pindela ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Comedias representadas pelos meus Filhos na sala de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Folhas manuscritas num envelope com o título.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56728
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3057 - cx. 24
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67153

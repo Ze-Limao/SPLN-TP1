@@ -1,0 +1,27 @@
+====== 33865 - UI - Anselmo José Braamcamp de Almeida Castelo Branco ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Anselmo José Braamcamp de Almeida Castelo Branco
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33865
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33865
+
+===== Filhos =====
+  * [[33866.txt|33866 - DC - Carta]]
+  * [[33867.txt|33867 - DC - Carta]]
+  * [[33868.txt|33868 - DC - Carta]]
+  * [[33869.txt|33869 - DC - Carta]]
+  * [[33870.txt|33870 - DC - Carta]]
+  * [[33871.txt|33871 - DC - Carta]]
+  * [[33872.txt|33872 - DC - Carta]]
+  * [[33873.txt|33873 - DC - Carta]]
+  * [[33874.txt|33874 - DC - Carta]]
+  * [[33875.txt|33875 - DC - Carta]]
+  * [[33876.txt|33876 - DC - Carta]]
+  * [[33877.txt|33877 - DC - Carta]]

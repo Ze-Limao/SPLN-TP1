@@ -1,0 +1,16 @@
+====== 21495 - DC - Carta ======
+
+**Parent**:: 21035
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-05-10
+**UnitDateFinal**:: 1903-05-10
+**ScopeContent**:: Alberto Cunha Sampaio envia um exemplar “Les villes do Norte de Portugal”. Pede informações sobre onde se encontra o Visconde de Pindela para lhe enviar um livro. Carta manuscrita assinada, Porto: Rua Formosa 335, 2º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21495
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 22 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21495

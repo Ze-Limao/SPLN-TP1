@@ -1,0 +1,18 @@
+====== 20554 - DC - Registo do recenseamento militar de Casimiro ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Casimiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Avidos
+Filiação - pedro Correia e Luísa Rosa de Sousa
+Naturalidade - Avidos
+Data de nascimento - 1870-01-04
+Residência - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20554
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20554

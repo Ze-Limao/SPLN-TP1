@@ -1,0 +1,17 @@
+====== 56438 - DC - Receita farmacêutica ======
+
+**Parent**:: 56431
+**RootParent**:: 31258
+**UnitTitle**:: Receita farmacêutica
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-04-18
+**UnitDateFinal**:: 1917-04-18
+**ScopeContent**:: Manuscrito para Visconde de Pindela. Este documento está no envelope CP 4781, com CP 4782 a CP 4790.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56438
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4788 - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56438

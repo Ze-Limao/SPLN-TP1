@@ -1,0 +1,18 @@
+====== 52735 - DC - Registo do recenseamento militar de João Ferreira Barroso ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João Ferreira Barroso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-03-11
+Filiação - José António Ferreira e Maria Barroso
+Naturalidade - Requião 
+Profissão - Alfaiate
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52735
+**LangMaterial**:: Português
+**PhysLoc**:: 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52735

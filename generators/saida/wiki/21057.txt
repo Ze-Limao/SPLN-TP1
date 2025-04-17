@@ -1,0 +1,19 @@
+====== 21057 - UI - Antero de Figueiredo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Antero de Figueiredo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-04-30
+**UnitDateFinal**:: 1914-11-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21057
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 89, 90, 91
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21057
+
+===== Filhos =====
+  * [[23935.txt|23935 - DC - Carta]]
+  * [[23936.txt|23936 - DC - Carta]]
+  * [[23937.txt|23937 - DC - Carta]]

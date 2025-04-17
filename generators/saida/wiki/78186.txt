@@ -1,0 +1,17 @@
+====== 78186 - DC - Instrumento de Procuração de António Gonçalves, miliciano do regimento de Vila do Conde, natural de S. Tiago de Mouquim, a João Cardoso, de Guimarães, assistente na Casa de Pindela ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Instrumento de Procuração de António Gonçalves, miliciano do regimento de Vila do Conde, natural de S. Tiago de Mouquim, a João Cardoso, de Guimarães, assistente na Casa de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1801-03-27
+**UnitDateFinal**:: 1801-03-27
+**ScopeContent**:: Manuscrito em papel azul timbrado "10 reis".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4573 - cx. 33
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78186

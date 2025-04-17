@@ -1,0 +1,16 @@
+====== 23311 - DC - Registo do recenseamento eleitoral de José Dias de Azevedo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Dias de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Cirurgião
+Morada - Beleco
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23311
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23311

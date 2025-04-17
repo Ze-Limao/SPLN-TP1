@@ -1,0 +1,15 @@
+====== 20970 - DC - Nº 17/961 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 17/961
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-06-02
+**UnitDateFinal**:: 1961-06-02
+**ScopeContent**:: Contrato de adjudicação da empreitada de 'Abastecimento de água à freguesia de Lousado. Terceira fase. Abastecimento de água por fontenários aos lugares de Ancide, Alto dos Seixos, Poiares, Souto e Garrido
+Outorgante - Mário da Costa Alves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20970
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 3
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20970

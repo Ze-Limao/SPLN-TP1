@@ -1,0 +1,16 @@
+====== 24715 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-01-09
+**UnitDateFinal**:: 1913-01-09
+**ScopeContent**:: António Ferraz desenvolve notas sobre os Farias de acordo com a consulta feita a JAM. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24715
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 216 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24715

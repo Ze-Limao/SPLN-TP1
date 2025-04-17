@@ -1,0 +1,20 @@
+====== 21319 - UI - António Correia Lino Leitão Neto ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Correia Lino Leitão Neto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-10-12
+**UnitDateFinal**:: 1925-11-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21319
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1204, 1205, 1206, 1207, 1208
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21319
+
+===== Filhos =====
+  * [[29795.txt|29795 - DC - Carta]]
+  * [[29796.txt|29796 - DC - Carta]]
+  * [[29797.txt|29797 - DC - Carta]]
+  * [[29798.txt|29798 - DC - Carta]]
+  * [[29799.txt|29799 - DC - Carta]]

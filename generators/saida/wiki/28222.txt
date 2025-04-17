@@ -1,0 +1,16 @@
+====== 28222 - DC - Carta e fatura de "Rebelo Valente Quinta Noval, Porto", assinada por Isaac Newton dirigida a António Vicente de Carvalho Leal e Srª. ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Carta e fatura de "Rebelo Valente Quinta Noval, Porto", assinada por Isaac Newton dirigida a António Vicente de Carvalho Leal e Srª.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-10-14
+**UnitDateFinal**:: 1871-10-14
+**ScopeContent**:: Fatura de diversos materiais de laboratório, destinados a ensaios vinícolas, emitida pela casa “Rebelo Valente Quinta Noval” de M. J. Valente Allen. Da fatura constam os seguintes materiais: dois termómetros, um alambique “Salleroy”, duas provetas graduadas, um alcoómetro “Gay-Lussac”, um gleucómetro, uma cápsula de porcelana e uma pipeta. A fatura encontra-se na 1.ª folha (frente). Na folha seguinte (frente), uma missiva, assinada por Isaac Newton, onde se lê: «Junto tomo a liberdade de remeter a V. Ex.cia a factura junta». No verso desta mesma folha encontra-se o selo, o carimbo da casa que comercializava os materiais de laboratório e o endereço manuscrito. A fatura foi endereçada ao Comendador António Vicente de Carvalho Leal e Sousa, sogro do irmão de Alberto Sampaio, José da Cunha Sampaio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28222
+**LangMaterial**:: Português
+**PhysLoc**:: AS 494 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28222

@@ -1,0 +1,14 @@
+====== 79160 - UI - Presidência do Concelho. Gabinete do Ministro ======
+
+**Parent**:: 79084
+**RootParent**:: 31258
+**UnitTitle**:: Presidência do Concelho. Gabinete do Ministro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1937-11-29
+**UnitDateFinal**:: 1937-11-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79085
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79160
+
+===== Filhos =====
+  * [[59545.txt|59545 - DC - Ofício da Presidência do Concelho. Gabinete do Ministro (Oliveira Salazar)]]

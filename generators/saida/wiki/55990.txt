@@ -1,0 +1,17 @@
+====== 55990 - DC - Cópia de carta ======
+
+**Parent**:: 55980
+**RootParent**:: 31258
+**UnitTitle**:: Cópia de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905
+**UnitDateFinal**:: 1905
+**ScopeContent**:: Este documento está no maço CP 14597, juntamente com CP 14598 a CP 14602.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55990
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14602 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55990

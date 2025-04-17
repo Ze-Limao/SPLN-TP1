@@ -1,0 +1,14 @@
+====== 60586 - UI - António José Soares ======
+
+**Parent**:: 31373
+**RootParent**:: 31258
+**UnitTitle**:: António José Soares
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1873-02
+**UnitDateFinal**:: 1873-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53090
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60586
+
+===== Filhos =====
+  * [[60587.txt|60587 - DC - Recibo]]

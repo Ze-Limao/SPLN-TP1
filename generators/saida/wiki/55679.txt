@@ -1,0 +1,86 @@
+====== 55679 - DC - Maço ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1909-12-23
+**ScopeContent**:: Maço de papel milimétrico com documentos. Contém CP 14293 a CP 14359.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55679
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14292 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55679
+
+===== Filhos =====
+  * [[55680.txt|55680 - DC - África Oriental Alemã]]
+  * [[55681.txt|55681 - DC - Extrait du memoire officiel sur le dévéloppement de Est-Afrique allemand]]
+  * [[55682.txt|55682 - DC - Recorte de jornal Deutsche Kolonialzeitung]]
+  * [[55683.txt|55683 - DC - Cópia de carta de Luís Terra Viana]]
+  * [[55684.txt|55684 - DC - Cópia de telegrama]]
+  * [[55685.txt|55685 - DC - Telegrama do Príncipe Hoenzollern]]
+  * [[55686.txt|55686 - DC - Minuta de carta]]
+  * [[55687.txt|55687 - DC - Telegrama do Príncipe Hoenzollern]]
+  * [[55688.txt|55688 - DC - Minuta de carta]]
+  * [[55689.txt|55689 - DC - Minuta de carta para Carlos Roma du Bocage]]
+  * [[55690.txt|55690 - DC - Cópia de telegrama para Ministro dos Negócios Estrangeiros]]
+  * [[55691.txt|55691 - DC - Minuta de carta]]
+  * [[55692.txt|55692 - DC - Minuta de carta para Ministro dos Negócios Estrangeiros]]
+  * [[55693.txt|55693 - DC - Cópia de telegrama para Ministro dos Negócios Estrangeiros]]
+  * [[55694.txt|55694 - DC - Minuta de carta]]
+  * [[55695.txt|55695 - DC - Minuta de carta]]
+  * [[55696.txt|55696 - DC - Cópia de carta de Luís Terra Viana]]
+  * [[55697.txt|55697 - DC - Minuta de telegrama para Luís Terra Viana]]
+  * [[55698.txt|55698 - DC - Telegrama de Ministro dos Negócios Estrangeiros]]
+  * [[55699.txt|55699 - DC - Minuta de carta]]
+  * [[55700.txt|55700 - DC - Telegrama para Carlos Roma du Bocage]]
+  * [[55701.txt|55701 - DC - Minuta de carta para Venceslau Lima]]
+  * [[55702.txt|55702 - DC - Folha com despesas]]
+  * [[55703.txt|55703 - DC - Carta de Pedro de Avelar]]
+  * [[55704.txt|55704 - DC - Carta]]
+  * [[55705.txt|55705 - DC - Minuta de carta]]
+  * [[55706.txt|55706 - DC - Minuta de carta para Carlos Roma du Bocage]]
+  * [[55707.txt|55707 - DC - Minuta de carta]]
+  * [[55708.txt|55708 - DC - Envelope]]
+  * [[55709.txt|55709 - DC - Telegrama de Carlos Roma du Bocage]]
+  * [[55710.txt|55710 - DC - Telegrama para Carlos Roma du Bocage]]
+  * [[55711.txt|55711 - DC - Telegrama para Carlos Roma du Bocage]]
+  * [[55712.txt|55712 - DC - Telegrama para Carlos Roma du Bocage]]
+  * [[55713.txt|55713 - DC - Telegrama para Carlos Roma du Bocage]]
+  * [[55714.txt|55714 - DC - Cópia de cartão]]
+  * [[55715.txt|55715 - DC - Minuta de carta para Pedro Augusto Figueiredo de Matias de Carvalho Vasconcelos]]
+  * [[55716.txt|55716 - DC - Envelope]]
+  * [[55717.txt|55717 - DC - Carta]]
+  * [[55718.txt|55718 - DC - Telegrama de Madeira Pinto]]
+  * [[55719.txt|55719 - DC - Telegrama de Luís Terra Viana]]
+  * [[55720.txt|55720 - DC - Telegrama de Carlos Roma du Bocage]]
+  * [[55721.txt|55721 - DC - Telegrama de Carlos Roma du Bocage]]
+  * [[55722.txt|55722 - DC - Telegrama de Madeira Pinto]]
+  * [[55723.txt|55723 - DC - Telegrama de Carlos Roma du Bocage]]
+  * [[55724.txt|55724 - DC - Cópia de telegrama]]
+  * [[55725.txt|55725 - DC - Cópia de telegrama]]
+  * [[55726.txt|55726 - DC - Minuta de carta]]
+  * [[55727.txt|55727 - DC - Recorte de jornal Bulletin de l´Étranger]]
+  * [[55728.txt|55728 - DC - Cópia de carta]]
+  * [[55729.txt|55729 - DC - Minuta de carta]]
+  * [[55730.txt|55730 - DC - Minuta de carta]]
+  * [[55731.txt|55731 - DC - Minuta de carta]]
+  * [[55732.txt|55732 - DC - Minuta de carta para Carlos Roma du Bocage]]
+  * [[55733.txt|55733 - DC - Minuta de carta]]
+  * [[55734.txt|55734 - DC - Cópia de carta]]
+  * [[55741.txt|55741 - DC - Cópia de carta]]
+  * [[55742.txt|55742 - DC - Cópia de carta]]
+  * [[55743.txt|55743 - DC - Cópia de carta]]
+  * [[55744.txt|55744 - DC - Cópia de carta]]
+  * [[55745.txt|55745 - DC - Cópia de carta]]
+  * [[55746.txt|55746 - DC - Cópia de carta]]
+  * [[55747.txt|55747 - DC - Cópia de carta]]
+  * [[55748.txt|55748 - DC - Cópia de carta]]
+  * [[55749.txt|55749 - DC - Cópia de carta]]
+  * [[55750.txt|55750 - DC - Cópia de carta]]
+  * [[55751.txt|55751 - DC - Cópia de carta]]
+  * [[55752.txt|55752 - DC - Cópia de carta]]

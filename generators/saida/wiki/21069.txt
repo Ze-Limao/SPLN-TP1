@@ -1,0 +1,25 @@
+====== 21069 - UI - António Marinho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Marinho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-01-08
+**UnitDateFinal**:: 1921-01-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21069
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 688, 745, 777, 341, 1274, 669, 244, 245, 246
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21069
+
+===== Filhos =====
+  * [[24797.txt|24797 - DC - Carta]]
+  * [[24798.txt|24798 - DC - Carta]]
+  * [[24799.txt|24799 - DC - Carta]]
+  * [[24800.txt|24800 - DC - Carta]]
+  * [[24801.txt|24801 - DC - Carta]]
+  * [[24802.txt|24802 - DC - Carta]]
+  * [[24803.txt|24803 - DC - Carta]]
+  * [[24804.txt|24804 - DC - Carta]]
+  * [[24805.txt|24805 - DC - Carta]]

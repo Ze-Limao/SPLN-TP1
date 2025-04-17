@@ -1,0 +1,20 @@
+====== 44977 - UI - Macário de Castro ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Macário de Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1920-04-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD44977
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=44977
+
+===== Filhos =====
+  * [[44978.txt|44978 - DC - Telegrama]]
+  * [[44979.txt|44979 - DC - Cartão de visita]]
+  * [[44980.txt|44980 - DC - Cartão de visita]]

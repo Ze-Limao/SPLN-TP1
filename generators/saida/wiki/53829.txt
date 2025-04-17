@@ -1,0 +1,17 @@
+====== 53829 - DC - Pasta de Januário Godinho C.M.F. Jardim-Luz-Água ======
+
+**Parent**:: 53746
+**RootParent**:: 25851
+**UnitTitle**:: Pasta de Januário Godinho C.M.F. Jardim-Luz-Água
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1956
+**ScopeContent**:: Capa com 1 f. manuscrita em papel quadriculado JG 182(1); 1 desenho jardim e edifício da Câmara em papel vegetal, f. dobrada JG 182(2). A capa tem o logótipo e morada do arquiteto JG.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53829
+**LangMaterial**:: Português
+**PhysLoc**:: JG 182 - cx. 14
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53829

@@ -1,0 +1,16 @@
+====== 24783 - DC - Programa e convite para as festas das Bodas de Ouro dos Bombeiros Voluntários ======
+
+**Parent**:: 24746
+**RootParent**:: 20342
+**UnitTitle**:: Programa e convite para as festas das Bodas de Ouro dos Bombeiros Voluntários
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-10-14
+**UnitDateFinal**:: 1943-10-14
+**ScopeContent**:: Programa e convite para os dias 23 e 24 de outubro 1943. Impresso Typ. Minerva, 200 exemplares a 15-10-1943.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24783
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 5 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24783

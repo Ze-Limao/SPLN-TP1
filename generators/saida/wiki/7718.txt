@@ -1,0 +1,13 @@
+====== 7718 - UI - Livro de Notas Nº 34 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 34
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-07-08
+**UnitDateFinal**:: 1971-08-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7718
+**LangMaterial**:: Português
+**PhysLoc**:: 1.63
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7718

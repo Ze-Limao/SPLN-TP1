@@ -1,0 +1,15 @@
+====== 97512 - UI - Processo nº 6 ======
+
+**Parent**:: 80014
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 6
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-03-18
+**UnitDateFinal**:: 1971-02-27
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 6-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 337 - cx. 19
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97512

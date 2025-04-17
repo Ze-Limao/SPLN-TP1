@@ -1,0 +1,15 @@
+====== 65875 - DC - Procuração de Jorge Pereira a favor de Miguel Vaz ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Procuração de Jorge Pereira a favor de Miguel Vaz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1531-11
+**UnitDateFinal**:: 1531-11
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 590 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65875

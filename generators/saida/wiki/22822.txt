@@ -1,0 +1,16 @@
+====== 22822 - DC - Registo do recenseamento eleitoral de José Pinheiro da Costa ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Pinheiro da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Mouquim
+Profissão - Lavrador
+Morada - Castanheiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22822
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22822

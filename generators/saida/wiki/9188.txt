@@ -1,0 +1,13 @@
+====== 9188 - UI - Recenseamento para o Recrutamento do Exército e Aramada ======
+
+**Parent**:: 8968
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento para o Recrutamento do Exército e Aramada
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1889-01-08
+**UnitDateFinal**:: 1889-02-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9188
+**LangMaterial**:: Português
+**PhysLoc**:: 5.5.28
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9188

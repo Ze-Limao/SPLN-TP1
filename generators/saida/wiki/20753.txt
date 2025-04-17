@@ -1,0 +1,20 @@
+====== 20753 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Filiação - José António de Azevedo e Maria Correia de Magalhães
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1870-09-16
+Emprego - Proprietário
+Estado - Solteiro
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20753
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 69v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20753

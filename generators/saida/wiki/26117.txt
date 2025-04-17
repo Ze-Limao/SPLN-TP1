@@ -1,0 +1,16 @@
+====== 26117 - DC - Carta ======
+
+**Parent**:: 21226
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-10-27
+**UnitDateFinal**:: 1923-10-27
+**ScopeContent**:: Carta manuscrita assinada, da Costa Nova, Ílhavo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26117
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 912 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26117

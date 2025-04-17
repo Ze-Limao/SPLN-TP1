@@ -1,0 +1,16 @@
+====== 23024 - DC - Registo do recenseamento eleitoral de Manuel Luís Pereira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Luís Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Pedome
+Profissão - Lavrador
+Morada - Eiró
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23024
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23024

@@ -1,0 +1,16 @@
+====== 8070 - DC - Termo de declaração que faz Manuel Giesteira ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de declaração que faz Manuel Giesteira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-10-24
+**UnitDateFinal**:: 1878-10-24
+**ScopeContent**:: Declaração para seus filhos Bento, Joaquim, António e Luís serem considerados cidadãos espanhois
+Nacionalidade - Espanhola
+Morada - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8070
+**LangMaterial**:: Português
+**PhysLoc**:: f. 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8070

@@ -1,0 +1,16 @@
+====== 27994 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Francisco de Sousa Costa Lobo ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Manuscrito com juramento de admissão à Sociedade do Raio de Francisco de Sousa Costa Lobo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-12-07
+**UnitDateFinal**:: 1862-12-07
+**ScopeContent**:: José Sampaio assina na qualidade de delegado da Sociedade do Raio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27994
+**LangMaterial**:: Português
+**PhysLoc**:: AS 261 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27994

@@ -1,0 +1,37 @@
+====== 60927 - SR - Fotografias e desenhos ======
+
+**Parent**:: 60550
+**RootParent**:: 60550
+**UnitTitle**:: Fotografias e desenhos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1897-05-08
+**UnitDateFinal**:: 1990
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60927
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60927
+
+===== Filhos =====
+  * [[60938.txt|60938 - DC - A melhoria cambial: Ministro das Finanças: Eis a grande…Victoria]]
+  * [[61239.txt|61239 - DC - A selagem…o Ministro das Finanças: mais vale sêlo que parecelo]]
+  * [[61240.txt|61240 - DC - Daniel Rodrigues vestido com toga]]
+  * [[61242.txt|61242 - DC - Daniel Rodrigues]]
+  * [[61243.txt|61243 - DC - Assembleia Nacional Constituinte]]
+  * [[61244.txt|61244 - DC - Mulher e criança]]
+  * [[61245.txt|61245 - DC - Daniel Rodrigues aos 20 anos]]
+  * [[61246.txt|61246 - DC - A bordo do Avon]]
+  * [[61247.txt|61247 - DC - A bordo do Avon]]
+  * [[61248.txt|61248 - DC - Castelo Arnoia em Celorico de Basto]]
+  * [[61249.txt|61249 - DC - Castelo Arnoia em Celorico de Basto]]
+  * [[61250.txt|61250 - DC - Afonso Costa]]
+  * [[61251.txt|61251 - DC - Daniel Rodrigues vestido com toga]]
+  * [[61252.txt|61252 - DC - Daniel Rodrigues, ministro das Finanças, num almoço.]]
+  * [[61253.txt|61253 - DC - Daniel Rodrigues no jardim em Agra]]
+  * [[61254.txt|61254 - DC - Congresso da República]]
+  * [[61365.txt|61365 - DC - Daniel Rodrigues no jardim em Agra]]
+  * [[61366.txt|61366 - DC - Daniel Rodrigues]]
+  * [[61367.txt|61367 - DC - Daniel Rodrigues]]
+  * [[61368.txt|61368 - DC - Daniel Rodrigues]]
+  * [[61369.txt|61369 - DC - Daniel Rodrigues]]
+  * [[61370.txt|61370 - DC - Daniel Rodrigues]]
+  * [[61371.txt|61371 - DC - Posse de Daniel Rodrigues, novo governador civil de Lisboa]]
+  * [[61372.txt|61372 - DC - Daniel Rodrigues e esposa]]

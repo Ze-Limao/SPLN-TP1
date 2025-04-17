@@ -1,0 +1,20 @@
+====== 20730 - DC - Registo do recenseamento militar de Augusto ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Augusto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Filiação - Emílio Pereira e Teresa Maria
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1868-11-10
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20730
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20730

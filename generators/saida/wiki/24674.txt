@@ -1,0 +1,16 @@
+====== 24674 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-01-31
+**UnitDateFinal**:: 1904-01-31
+**ScopeContent**:: António Ferraz informa que tem uma nefralgia facial e que consultou o Gayo sobre os Pinheiros. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24674
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 176 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24674

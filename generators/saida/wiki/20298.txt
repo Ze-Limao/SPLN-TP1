@@ -1,0 +1,18 @@
+====== 20298 - UI - Adolfo Sampaio de Morais Pinto de Almeida ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Adolfo Sampaio de Morais Pinto de Almeida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1919-08-19
+**UnitDateFinal**:: 1919-10-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20298
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 3, 4
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20298
+
+===== Filhos =====
+  * [[20332.txt|20332 - DC - Carta]]
+  * [[20333.txt|20333 - DC - Carta]]

@@ -1,0 +1,18 @@
+====== 8713 - DC - Termo do exame de José da Costa Oliveira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José da Costa Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-21
+**UnitDateFinal**:: 1890-08-21
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Manuel da Costa Oliveira
+Naturalidade - Santo Tirso
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8713
+**LangMaterial**:: Português
+**PhysLoc**:: f. 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8713

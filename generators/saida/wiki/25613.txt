@@ -1,0 +1,16 @@
+====== 25613 - DC - Carta ======
+
+**Parent**:: 21158
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880
+**UnitDateFinal**:: 1891
+**ScopeContent**:: Carta manuscrita assinada, de Braga do dia 9 sem menção a ano e mês.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25613
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 565 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25613

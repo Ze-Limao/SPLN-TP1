@@ -1,0 +1,16 @@
+====== 25045 - UI - Atestados de pobreza ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Atestados de pobreza
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1955-09-08
+**UnitDateFinal**:: 1960-09-07
+**ScopeContent**:: Os atestados de pobreza serviam para o não pagamento de despesas de transporte de ambulância.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25045
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 147 - cx. 38
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25045

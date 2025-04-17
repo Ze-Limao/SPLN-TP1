@@ -1,0 +1,16 @@
+====== 22568 - DC - Bilhete-postal ======
+
+**Parent**:: 21287
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-12
+**UnitDateFinal**:: 1906-12
+**ScopeContent**:: Bilhete-postal da Índia em que Álvaro de Castelões deseja boas festas. Imagem do monumento Palace Thirumalai Nayak, Madura Índia, do séc.XVII. Enviado quando exercia o cargo de Diretor Geral das Obras Públicas na Índia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22568
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1141 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22568

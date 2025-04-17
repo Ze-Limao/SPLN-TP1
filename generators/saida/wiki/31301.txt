@@ -1,0 +1,14 @@
+====== 31301 - SSC - Vicente Machado de Melo Pinheiro e Carlota Carolina Correia Leite de Almada ======
+
+**Parent**:: 31300
+**RootParent**:: 31258
+**UnitTitle**:: Vicente Machado de Melo Pinheiro e Carlota Carolina Correia Leite de Almada
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1832-04-02
+**UnitDateFinal**:: 1832-07-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31301
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31301
+
+===== Filhos =====
+  * [[31302.txt|31302 - SR - Documentos]]

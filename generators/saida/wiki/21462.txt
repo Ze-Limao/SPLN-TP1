@@ -1,0 +1,16 @@
+====== 21462 - UI - José do Egipto Vieira ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José do Egipto Vieira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-03-31
+**UnitDateFinal**:: 1913-03-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21462
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1471
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21462
+
+===== Filhos =====
+  * [[29993.txt|29993 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 65846 - DC - Carta de confirmação que fez Pero Jorge da Silva, abade da Igreja de S. Tiago e Antas, de uma ração da sua Igreja ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Carta de confirmação que fez Pero Jorge da Silva, abade da Igreja de S. Tiago e Antas, de uma ração da sua Igreja
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1518
+**UnitDateFinal**:: 1518
+**ScopeContent**:: Manuscrito, original, sem selo. No verso texto escrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 281 - cx. P11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65846

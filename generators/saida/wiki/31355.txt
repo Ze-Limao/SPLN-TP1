@@ -1,0 +1,18 @@
+====== 31355 - SC - Bernardo Pinheiro Correia de Melo e Maria José de Melo Abreu Soares Vasconcelos Barbosa e Palha e Matilde Munró dos Anjos ======
+
+**Parent**:: 31354
+**RootParent**:: 31258
+**UnitTitle**:: Bernardo Pinheiro Correia de Melo e Maria José de Melo Abreu Soares Vasconcelos Barbosa e Palha e Matilde Munró dos Anjos
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1870
+**UnitDateFinal**:: 1930
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31355
+**LangMaterial**:: Português
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31355
+
+===== Filhos =====
+  * [[31356.txt|31356 - SSC - Bernardo Pinheiro Correia de Melo]]
+  * [[31358.txt|31358 - SSC - Maria José de Melo Abreu Soares Vasconcelos Barbosa e Palha]]
+  * [[31360.txt|31360 - SSC - Matilde Munró dos Anjos]]

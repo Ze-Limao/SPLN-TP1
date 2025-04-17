@@ -1,0 +1,20 @@
+====== 24776 - UI - Correspondência recebida/expedida ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1987-05-06
+**UnitDateFinal**:: 1990-05-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24776
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 35 - cx. 9
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24776
+
+===== Filhos =====
+  * [[24792.txt|24792 - DC - Bilhete-postal com maqueta do novo Quartel dos B. V. de Famalicão]]
+  * [[24793.txt|24793 - DC - Convite 97º Aniversário dos Bombeiros Voluntários de V. N. de Famalicão]]
+  * [[24794.txt|24794 - DC - Convite I Centenário e inauguração do novo quartel]]

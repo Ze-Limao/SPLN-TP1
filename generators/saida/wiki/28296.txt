@@ -1,0 +1,16 @@
+====== 28296 - DC - Desenho com as marcas das siglas das fábricas colocadas nas peças de faiança e porcelana ======
+
+**Parent**:: 28293
+**RootParent**:: 27963
+**UnitTitle**:: Desenho com as marcas das siglas das fábricas colocadas nas peças de faiança e porcelana
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887
+**UnitDateFinal**:: 1887
+**ScopeContent**:: Desenhos das marcas das faianças e porcelanas a partir das  quais é possível identificar e datar as peças. Estes documentos encontravam-se dentro do Caderno de Apontamentos AS 24.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28296
+**LangMaterial**:: Português
+**PhysLoc**:: AS 26- cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28296

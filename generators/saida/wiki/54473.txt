@@ -1,0 +1,52 @@
+====== 54473 - SR - Documentos ======
+
+**Parent**:: 31351
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1678-05-05
+**UnitDateFinal**:: 1804-08-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54473
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54473
+
+===== Filhos =====
+  * [[54364.txt|54364 - DC - Sentença pela qual se vê que os caseiros da comenda de Malta eram isentos de tributos e outros trabalhos]]
+  * [[65680.txt|65680 - DC - Documento sobre a repartição de um campo do casal dos Eirões, do concelho de Cabeceiras de Basto, intervém o padre Gervásio Cortilho de Magalhães]]
+  * [[65681.txt|65681 - DC - Troca de terras que para evitar dúvidas fazem o capitão Luís de Magalhães com José Magalhães, dos Eirões]]
+  * [[65682.txt|65682 - DC - Justificação de universal herdeira que fez D. Senhorinha Brás por morte de seu marido Francisco de Magalhães, da casa de Lobela (Cabeceiras de Basto)]]
+  * [[65683.txt|65683 - DC - Cessão do prazo de Barrifalcão e casas do Sobrado feita por Francisco de Barros Fabião e sua mulher a favor do reverendo António Ferreira de Abreu Bacelar, abade de Britelo, Basto]]
+  * [[65684.txt|65684 - DC - Escritura de dote que o padre Gervásio Cortilho de Magalhães fez a sua sobrinha D. Clara de Brito para haver de casar com António Leite de Miranda Lobo, sargento-mor e residente na Quinta dos Chãos]]
+  * [[65685.txt|65685 - DC - Cópia da escritura de terceira doação que tornou a fazer Apolónia de Gouveia fez a seu sobrinho Manuel António de Gouveia querendo revogar a primeira que tinha feito a seu irmão António de Andrade]]
+  * [[77695.txt|77695 - DC - Sentença cível  de força do autor Paulo Pinto de Magalhães morador da sua quinta de Refalcão contra os Re. Francisco Gomes e sua mulher e sua filha e seu genro Vicente da Silva todos do lugar das Terças]]
+  * [[77696.txt|77696 - DC - Tombo feito de diversas propriedades de Paulo Pinto de Magalhães da Casa de Refalcão]]
+  * [[77799.txt|77799 - DC - Certidão de uma petição que fez Francisco Pinto de Magalhães, viúvo de Susana Maria, da Casa do Forno a fim de que Senhorinha Pereira, irmã da sua falecida mulher e casada com Alexandre Pinto, declarasse com juramento as dívidas de que sua irmã a encarregou pela terça de que a deixou herdeira]]
+  * [[77835.txt|77835 - DC - Escrito de obrigação que fez o padre Gervário Portilho, morador no concelho de Cabeceiras de Basto, a António Leite Miranda, dos Chãos, depois de lhe fazer a escritura dotal]]
+  * [[78372.txt|78372 - DC - Certidão de várias petições e despachos relativos ao depósito judicial que fez Paulo Pinto de Magalhães da quantia de 6.300 reis importe do próprio e juros da dívida que seu pai Manuel Pinto de Magalhães tinha contraído com o padre Bento Pacheco, de Cavêz]]
+  * [[78373.txt|78373 - DC - Certidão do depósito da quantia de 33.000 reis que fez Manuel Pinto de Magalhães a qual quantia estava devendo aos herdeiros do abade de S. Tiago da Faia]]
+  * [[78374.txt|78374 - DC - Certidão do depósito que da quantia de 234.182 reis fez Paulo Pinto de Magalhães, dinheiro que ele devia a Maria Teresa de Magalhães e que foi embargado na sua mão por parte de João Teixeira, de Lisboa]]
+  * [[78375.txt|78375 - DC - Declaração de Clara de Gouveia sobre um recebimento em dinheiro de Luís Pinto de Magalhães]]
+  * [[78376.txt|78376 - DC - Escritura de Paulo Pinto de Magalhães e Gouveia]]
+  * [[78377.txt|78377 - DC - Reverendo Padre Marcelino Pereira Cleto pagou a D. Bárbara Maria Pinheiro o dinheiro de que tinha ficado por fiador a Diogo de Barros Alvim na remissão de censo de medidas de trigo]]
+  * [[78378.txt|78378 - DC - Paga que dá D. Bárbara Maria Pinheiro do Lago ao padre Marcelino Pereira Cleto da fiança que fez a Diogo de Barros Alvim na remissão de 10 medidas de censo]]
+  * [[78379.txt|78379 - DC - Escritura de remissão do censo que pagava Diogo de Barros Alvim da freguesia de Touvedo a D. Helena e seus parentes da Quinta do Toural na qual composição ficou por fiador o padre Dr. Marcelino Pereira Cleto da casa de Refalcão]]
+  * [[78380.txt|78380 - DC - Marcelino Pereira Cleto, abade de Entre-Ambos-os-Rios pagou a D. Helena Maria da Graça e  a seus sobrinhos 20.000 reis de uma composição que Diogo de Barros Alvim tinha feito sobre a remissão de umas medidas que pagava à dita D. Helena e seus parentes]]
+  * [[78381.txt|78381 - DC - Paga que D. Bárbara Maria Pinheiro o reverendo Marcelino Pereira Cleto, abade de Entre-os-Rios dá quitado 15.000 reis do resto de dez medidas de trigo que pagava Diogo de Barros Alvim, da freguesia de Touvedo]]
+  * [[78382.txt|78382 - DC - Paga que dá D. Bárbara Maria Pinheiro e filha ao padre Marcelino Cleto de uma dívida proveniente de uma composição sobre umas medidas que pagava Diogo de Barros Alvim, de Touvedo]]
+  * [[78383.txt|78383 - DC - Paga que dão D. Helena Maria da Graça e sobrinhos ao reverendo Marcelino Pereira Cleto, da Casa de Refalcão]]
+  * [[78384.txt|78384 - DC - Paga de legítima que deu e pagou Paulo Pinto de Magalhães a sua irmã casada com Manuel Álvares]]
+  * [[78385.txt|78385 - DC - Paga que deu António Maria de Oliveira, de Vila Garcia, a Paulo Pinto de Magalhães da quantia de que este lhe era devedor]]
+  * [[78386.txt|78386 - DC - Paga que João Ribeiro, de Chacim, passou a Francisco de Magalhães da quantia de 170.000 reis que este lhe devia em razão de comprar uma propriedade com este encargo]]
+  * [[78387.txt|78387 - DC - Paga que deu Francisco Pinto de Magalhães, do lugar do Forno, a Paulo Pinto de Magalhães, de Refalcão, porque tinham feito sequestro ao primeiro e o segundo foi depositário e como entregou os bens sequestrados o primeiro lhe passou paga]]
+  * [[78388.txt|78388 - DC - Paga que dá António Pereira e sua mulher Josefa Maria Portillo a Teodósio de Andrade Magalhães e ao padre Gregório Portillo de Magalhães da quantia de 400.000 reis com que os segundos dotaram a primeira outorgante]]
+  * [[78389.txt|78389 - DC - Paga de 100.000 reis que Paulo Pinto de Magalhães pagou a Vicência Leite Vilaça, por os ter pedido a juro]]
+  * [[78390.txt|78390 - DC - Paulo Pinto de Magalhães depositou 437.000 reis na mão de C. viv.ª de Andrade por ordem judicial porque os devia a David Gomes vivª e como ele tinha morrido e não se sabia quem eram seus herdeiros os pôs em depósito]]
+  * [[78391.txt|78391 - DC - Paga que dá Sebastiana de Magalhães, solteira, do lugar do Prado, Britelo da quantia de 20.000 reis que o beneficiado Gregório de Magalhães tinha deixado no seu testamento à mãe dela]]
+  * [[78392.txt|78392 - DC - Obrigação de dívida que fez Paulo Pinto de Magalhães, de 300.000 reis, que lhe emprestou António de Magalhães Rebelo Leite]]
+  * [[78393.txt|78393 - DC - Paga de Maria Martins, viúva de Manuel de Oliveira Basto e de seu filho, por terem recebido de Paulo Pinto de Magalhães, a quantia de 480 reis]]
+  * [[78395.txt|78395 - DC - Obrigação de dinheiro que fez Manuel Pinto de Magalhães da quantia de 480.000 reis que pediu a Manuel de Oliveira Basto]]
+  * [[78396.txt|78396 - DC - Sentença contra Paulo Pinto de Magalhães por 614 reis que pagou]]
+  * [[78397.txt|78397 - DC - Manuel António de Gouveia Chacim recebeu 400.000 que lhe foram deixados no testamento de Teodósio de Andrade e outros dinheiros que tudo lhe era obrigado pagar por Paulo Pinto de Magalhães]]
+  * [[78398.txt|78398 - DC - Casa de Basto. Pagas e escritos de dívidas distratadas]]
+  * [[78406.txt|78406 - DC - Certidão do prazo que do Lameiro dos Prados e suas pertenças, na freguesia de Britelo fez o Mosteiro de Arnoia a Fabiana de Mesquita e marido Luís de Magalhães o quando casassem]]
+  * [[78407.txt|78407 - DC - Prazo da Ribeirinha de Basto que emprazou Jorge Gonçalves Mendes e sua mulher Leonor Afonso, de Guimarães]]

@@ -1,0 +1,14 @@
+====== 7692 - SSC - Notariado ======
+
+**Parent**:: 7691
+**RootParent**:: 7651
+**UnitTitle**:: Notariado
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1881-04-30
+**UnitDateFinal**:: 1982-05-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7692
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7692
+
+===== Filhos =====
+  * [[7693.txt|7693 - SR - Livros de Notas]]

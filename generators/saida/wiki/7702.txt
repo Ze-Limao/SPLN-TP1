@@ -1,0 +1,13 @@
+====== 7702 - UI - Livro de Notas Nº 15 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 15
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1933-10-21
+**UnitDateFinal**:: 1936-06-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7702
+**LangMaterial**:: Português
+**PhysLoc**:: 1.50
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7702

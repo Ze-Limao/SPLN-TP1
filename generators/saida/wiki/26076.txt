@@ -1,0 +1,16 @@
+====== 26076 - DC - Carta ======
+
+**Parent**:: 21218
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-07-02
+**UnitDateFinal**:: 1924-07-02
+**ScopeContent**:: Júlio Dias Costa agradece o envio do relatório e dá parecer sobre a questão da publicação da obra de Camilo e sobre a propriedade literária. Carta manuscrita assinada. Papel carimbado "Relação de Lisboa. Escrivão Dias Costa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26076
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 870 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26076

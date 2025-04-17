@@ -1,0 +1,20 @@
+====== 63724 - DC - Registo do recenseamento militar de Rodrigo ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Rodrigo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Luís Alves e Margarida da Costa
+Naturalidade - Antas
+Morada - Ignora-se
+Data de nascimento - 1866-05-09
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63724

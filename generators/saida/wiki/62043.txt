@@ -1,0 +1,23 @@
+====== 62043 - SR - Material gráfico ======
+
+**Parent**:: 61479
+**RootParent**:: 60551
+**UnitTitle**:: Material gráfico
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1970
+**UnitDateFinal**:: 2020
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**LangMaterial**:: Português, Inglês
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62043
+
+===== Filhos =====
+  * [[62044.txt|62044 - DC - Prova Quádrupla]]
+  * [[62045.txt|62045 - DC - Prova Quádrupla]]
+  * [[62046.txt|62046 - DC - Objectivo do Rotary]]
+  * [[62047.txt|62047 - DC - Declaração para executivos e profissionais rotarianos]]
+  * [[62048.txt|62048 - DC - Bem-vindo Rotary International]]
+  * [[62050.txt|62050 - DC - The Programs of Rotary International]]
+  * [[64151.txt|64151 - DC - Logotipo 70 anos Rotary International]]

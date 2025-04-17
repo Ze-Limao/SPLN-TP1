@@ -1,0 +1,18 @@
+====== 8214 - DC - Termo do exame de Manuel Pereira Alves Carneiro ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Pereira Alves Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-05-23
+**UnitDateFinal**:: 1884-05-23
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - José Pereira Alves Carneiro
+Naturalidade - Seide S. Paio
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8214
+**LangMaterial**:: Português
+**PhysLoc**:: f. 16
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8214

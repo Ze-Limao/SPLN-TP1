@@ -1,0 +1,24 @@
+====== 54035 - DC - Projeto do novo edifício do Tribunal Judicial, conservatórias, notariado, etc. ======
+
+**Parent**:: 53750
+**RootParent**:: 25851
+**UnitTitle**:: Projeto do novo edifício do Tribunal Judicial, conservatórias, notariado, etc.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-06-03
+**UnitDateFinal**:: 1961-06-05
+**ScopeContent**:: Contém 155(1) a (5).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54035
+**LangMaterial**:: Português
+**PhysLoc**:: JG 155 (1-5) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54035
+
+===== Filhos =====
+  * [[54036.txt|54036 - DC - Medição de obras a mais a executar como Segundo Adicional à Empreitada Geral do Novo Edifício Tribunal Judicial de Famalicão…]]
+  * [[54037.txt|54037 - DC - Orçamento das obras a mais a executar como Segundo Adicional à Empreitada Geral do Novo Edifício Tribunal Judicial de Famalicão…]]
+  * [[54038.txt|54038 - DC - Orçamento das obras a menos a deduzir como Segundo Adicional à Empreitada Geral do Novo Edifício Tribunal Judicial de Famalicão…]]
+  * [[54042.txt|54042 - DC - Medição de obras a menos a deduzir como Segundo Adicional à Empreitada Geral do Novo Edifício Tribunal Judicial de Famalicão…]]
+  * [[54044.txt|54044 - DC - Segundo Adicional à Empreitada Geral do Novo Edifício Tribunal Judicial de Famalicão… Câmara Municipal de Famalicão]]

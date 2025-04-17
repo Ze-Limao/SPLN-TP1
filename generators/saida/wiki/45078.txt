@@ -1,0 +1,28 @@
+====== 45078 - UI - Gertrude Coonen ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Gertrude Coonen
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893-01-23
+**UnitDateFinal**:: 1900-05-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45078
+**LangMaterial**:: Francês
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45078
+
+===== Filhos =====
+  * [[45079.txt|45079 - DC - Carta]]
+  * [[45080.txt|45080 - DC - Carta]]
+  * [[45081.txt|45081 - DC - Carta]]
+  * [[45082.txt|45082 - DC - Carta]]
+  * [[45083.txt|45083 - DC - Carta]]
+  * [[45084.txt|45084 - DC - Carta]]
+  * [[45085.txt|45085 - DC - Carta]]
+  * [[45086.txt|45086 - DC - Carta]]
+  * [[45087.txt|45087 - DC - Carta]]
+  * [[45088.txt|45088 - DC - Carta]]
+  * [[45089.txt|45089 - DC - Carta]]
+  * [[45090.txt|45090 - DC - Carta]]

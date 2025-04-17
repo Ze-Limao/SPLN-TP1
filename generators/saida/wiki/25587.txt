@@ -1,0 +1,16 @@
+====== 25587 - DC - Carta ======
+
+**Parent**:: 21155
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-03-19
+**UnitDateFinal**:: 1902-03-19
+**ScopeContent**:: Carta manuscrita assinada, de Paço Vedro (Ponte da Barca).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25587
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 540 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25587

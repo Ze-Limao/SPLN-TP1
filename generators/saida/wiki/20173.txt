@@ -1,0 +1,15 @@
+====== 20173 - UI - Recrutamentos dos anos de 1856-1857-1858-1859-1860-1861-1862-1863 e 1864 ======
+
+**Parent**:: 20168
+**RootParent**:: 20048
+**UnitTitle**:: Recrutamentos dos anos de 1856-1857-1858-1859-1860-1861-1862-1863 e 1864
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1857-02-13
+**UnitDateFinal**:: 1864
+**ScopeContent**:: Termo de abertura ilegível. Contém dados: ano, nome, naturalidade, dia, mês e ano de nascimento, profissão, nº que lhes tocou no sorteamento, idade, data das guias que se passaram para a inspecção, se foram livres ou apurados, se pagaram o preço da remissão ou deram substituto, se assentaram praça, se são refractários ou não, observações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20173
+**LangMaterial**:: Português
+**PhysLoc**:: AC 115
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20173

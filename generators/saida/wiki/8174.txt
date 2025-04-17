@@ -1,0 +1,18 @@
+====== 8174 - DC - Termo do exame de Gabriel Gonçalves de Araújo ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Gabriel Gonçalves de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-05-30
+**UnitDateFinal**:: 1883-05-30
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Salvador Gonçalves de Araújo
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8174
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8174

@@ -1,0 +1,17 @@
+====== 9770 - DC - Famalicão - A Central do Minho. Serração e carpintaria a vapor ======
+
+**Parent**:: 9756
+**RootParent**:: 60698
+**UnitTitle**:: Famalicão - A Central do Minho. Serração e carpintaria a vapor
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1912
+**ScopeContent**:: Bilhete-postal impresso a bege com telhados em tom de vermelho com legenda na frente. Carros de bois e madeira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9770
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 26 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9770

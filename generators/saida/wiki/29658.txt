@@ -1,0 +1,16 @@
+====== 29658 - DC - Carta ======
+
+**Parent**:: 21270
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-05-29
+**UnitDateFinal**:: 1901-05-29
+**ScopeContent**:: Carta manuscrita assinada, de Rua Faria Guimarães, 303 Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29658
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1067 -  cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29658

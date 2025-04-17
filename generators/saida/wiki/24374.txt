@@ -1,0 +1,16 @@
+====== 24374 - DC - Recibo ======
+
+**Parent**:: 21063
+**RootParent**:: 20290
+**UnitTitle**:: Recibo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-11-09
+**UnitDateFinal**:: 1914-11-09
+**ScopeContent**:: Recibo de quotas de JAM como Correspondente da Academia de Sciencias de Portugal, no valor de três escudos. Recibo manuscrito assinado pelo tesoureiro António Cabreira, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24374
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 147 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24374

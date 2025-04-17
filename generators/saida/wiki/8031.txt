@@ -1,0 +1,14 @@
+====== 8031 - DC - Termo de Joaquim José Pereira Borges ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Joaquim José Pereira Borges
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-05-24
+**UnitDateFinal**:: 1876-05-24
+**ScopeContent**:: Mudança de residência de Landim para o Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8031
+**LangMaterial**:: Português
+**PhysLoc**:: 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8031

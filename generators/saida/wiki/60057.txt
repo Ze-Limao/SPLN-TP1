@@ -1,0 +1,75 @@
+====== 60057 - DC - Federação de Sindicatos: Circulares e ofícios ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Federação de Sindicatos: Circulares e ofícios
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1928-10-19
+**UnitDateFinal**:: 1933
+**ScopeContent**:: Circulares e ofícios assinados pelo Conde de Azevedo. Capa que contém o maço com 58 documentos CP 8381 a CP 8439. Os documentos nesta capa são a continuação do maço que contém CP 2908 a CP 2999.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60057
+
+===== Filhos =====
+  * [[60058.txt|60058 - DC - Circular nº41]]
+  * [[60059.txt|60059 - DC - Circular nº40]]
+  * [[60061.txt|60061 - DC - Circular nº39]]
+  * [[60062.txt|60062 - DC - Circular nº38]]
+  * [[60063.txt|60063 - DC - Circular nº37]]
+  * [[60064.txt|60064 - DC - Circular nº36]]
+  * [[60065.txt|60065 - DC - Circular nº35]]
+  * [[60066.txt|60066 - DC - Circular nº34]]
+  * [[60067.txt|60067 - DC - Circular nº33]]
+  * [[60068.txt|60068 - DC - Circular nº32]]
+  * [[60069.txt|60069 - DC - Circular nº31]]
+  * [[60070.txt|60070 - DC - Circular nº39]]
+  * [[60071.txt|60071 - DC - Circular nº29]]
+  * [[60072.txt|60072 - DC - Circular nº28]]
+  * [[60073.txt|60073 - DC - Circular nº27]]
+  * [[60074.txt|60074 - DC - Circular nº26]]
+  * [[60075.txt|60075 - DC - Circular nº21]]
+  * [[60076.txt|60076 - DC - Circular nº20]]
+  * [[60077.txt|60077 - DC - Circular nº19]]
+  * [[60078.txt|60078 - DC - Circular nº17]]
+  * [[60079.txt|60079 - DC - Circular nº16]]
+  * [[60080.txt|60080 - DC - Circular nº15]]
+  * [[60081.txt|60081 - DC - Circular particular]]
+  * [[60082.txt|60082 - DC - Circular nº13]]
+  * [[60083.txt|60083 - DC - Circular nº12]]
+  * [[60084.txt|60084 - DC - Circular nº11]]
+  * [[60085.txt|60085 - DC - Circular nº10]]
+  * [[60086.txt|60086 - DC - Circular nº9]]
+  * [[60087.txt|60087 - DC - Circular nº8]]
+  * [[60088.txt|60088 - DC - Circular nº7]]
+  * [[60089.txt|60089 - DC - Circular nº6]]
+  * [[60090.txt|60090 - DC - Circular nº5]]
+  * [[60091.txt|60091 - DC - Cópia de carta que recebemos da Companhia União Fabril]]
+  * [[60092.txt|60092 - DC - Circular nº4]]
+  * [[60093.txt|60093 - DC - Circular nº3]]
+  * [[60094.txt|60094 - DC - Circular nº2]]
+  * [[60095.txt|60095 - DC - Circular nº1]]
+  * [[60096.txt|60096 - DC - Suplicado Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60097.txt|60097 - DC - Ofício Presidente do Sindicato Agrícola de]]
+  * [[60098.txt|60098 - DC - Ofício Presidente do Sindicato Agrícola de]]
+  * [[60099.txt|60099 - DC - Ofício Presidente do Sindicato Agrícola de]]
+  * [[60100.txt|60100 - DC - Ofício Presidente do Sindicato Agrícola de]]
+  * [[60101.txt|60101 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60102.txt|60102 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60103.txt|60103 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60104.txt|60104 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60105.txt|60105 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60106.txt|60106 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60107.txt|60107 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60108.txt|60108 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60109.txt|60109 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60110.txt|60110 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60111.txt|60111 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60112.txt|60112 - DC - Ofício aos Sindicatos Agrícolas Federados]]
+  * [[60113.txt|60113 - DC - Circular nº25]]
+  * [[60114.txt|60114 - DC - Circular nº24]]
+  * [[60115.txt|60115 - DC - Batata Ingleza]]
+  * [[60116.txt|60116 - DC - Circular nº14]]

@@ -1,0 +1,14 @@
+====== 80484 - UI - Processo nº 210 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 210
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-08-06
+**UnitDateFinal**:: 1975-10-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 175 - cx. 10
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80484

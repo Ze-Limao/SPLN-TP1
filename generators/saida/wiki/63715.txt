@@ -1,0 +1,15 @@
+====== 63715 - UI - José Teixeira de Carvalho Magalhães Carneiro ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: José Teixeira de Carvalho Magalhães Carneiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1922-04-22
+**UnitDateFinal**:: 1922-04-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56771
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63715
+
+===== Filhos =====
+  * [[63716.txt|63716 - DC - Cartão de visita]]
+  * [[79125.txt|79125 - DC - Carta]]

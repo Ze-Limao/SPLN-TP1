@@ -1,0 +1,15 @@
+====== 65886 - DC - Emprazamento do casal de Antas, situado na freguesia de S. Tiago de Antas, feito por Pero Jorge da Silva, abade da Igreja de S.Tiago de Antas, a Pero Gonçalves, lavrador e a sua mulher Catarina Gonçalves e sua filha Cecília Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Antas, situado na freguesia de S. Tiago de Antas, feito por Pero Jorge da Silva, abade da Igreja de S.Tiago de Antas, a Pero Gonçalves, lavrador e a sua mulher Catarina Gonçalves e sua filha Cecília Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1590-05-05
+**UnitDateFinal**:: 1590-05-05
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 599 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65886

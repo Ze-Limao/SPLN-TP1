@@ -1,0 +1,17 @@
+====== 64124 - DC - Rotary Challenge Golf 2023 ======
+
+**Parent**:: 61783
+**RootParent**:: 60551
+**UnitTitle**:: Rotary Challenge Golf 2023
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2023
+**UnitDateFinal**:: 2023
+**ScopeContent**:: Polo de desporto com manga. Apoio Rotary Clun de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 529 - cx. 17
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64124

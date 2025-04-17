@@ -1,0 +1,16 @@
+====== 28779 - DC - Carta ======
+
+**Parent**:: 28778
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-09-11
+**UnitDateFinal**:: 1877-09-11
+**ScopeContent**:: Carta expedida de Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28779
+**LangMaterial**:: Português
+**PhysLoc**:: AS 606 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28779

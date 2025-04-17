@@ -1,0 +1,17 @@
+====== 45024 - DC - Carta para Viscondes ======
+
+**Parent**:: 45022
+**RootParent**:: 31258
+**UnitTitle**:: Carta para Viscondes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-01-26
+**UnitDateFinal**:: 1920-01-26
+**ScopeContent**:: Carta manuscrita assinada António de Carvalho, da Foz do Douro. Papel de luto com nota manuscrita "Respondido 2 dez 1920".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45024
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5033 - cx. 37
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45024

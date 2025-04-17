@@ -1,0 +1,16 @@
+====== 29325 - DC - Recibo de José Joaquim da Silva Guimarães. ======
+
+**Parent**:: 29317
+**RootParent**:: 27963
+**UnitTitle**:: Recibo de José Joaquim da Silva Guimarães.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888
+**UnitDateFinal**:: 1888
+**ScopeContent**:: A loja vendia drogas, produtos químicos, tintas, vidros, espelhos, papel pintado para salas, dito para escrever, e molduras douradas. Situava-se na Rua da Rainha, 29-33. Guimarães. Recibo no valor de 350 réis, respeitante à compra de produtos de drogaria, entre os quais, pez-louro, pez-de-Borgonha (resina do abeto), cera amarela, goma e vermelhão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29325
+**LangMaterial**:: Português
+**PhysLoc**:: AS 221 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29325

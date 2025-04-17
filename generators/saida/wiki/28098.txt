@@ -1,0 +1,16 @@
+====== 28098 - DC - Règlement XII.e Exposition générale des Produits de l’Agriculture, de l’Industrie, des Arts industriels et de l’Art ancien ======
+
+**Parent**:: 28094
+**RootParent**:: 27963
+**UnitTitle**:: Règlement XII.e Exposition générale des Produits de l’Agriculture, de l’Industrie, des Arts industriels et de l’Art ancien
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881-10-01
+**UnitDateFinal**:: 1881-10-01
+**ScopeContent**:: Junto com AS 503 e AS 505. Impresso em Bordeaux- impremerie Nouvelle A. Bellier et Cie.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28098
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 504 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28098

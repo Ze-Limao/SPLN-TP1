@@ -1,0 +1,16 @@
+====== 61283 - DC - Carta ======
+
+**Parent**:: 60925
+**RootParent**:: 60550
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-12-25
+**UnitDateFinal**:: 1934-12-25
+**ScopeContent**:: Carta datilografada de La Guardia, em papel timbrado de Hotel Del Tecla.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 23 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61283

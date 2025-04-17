@@ -1,0 +1,16 @@
+====== 21412 - UI - Gonçalo Pereira (?) ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Gonçalo Pereira (?)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1922-04-22
+**UnitDateFinal**:: 1922-04-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21412
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1390
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21412
+
+===== Filhos =====
+  * [[30242.txt|30242 - DC - Carta]]

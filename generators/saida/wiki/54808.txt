@@ -1,0 +1,17 @@
+====== 54808 - DC - Noticia sobre a Senhora Condessa de Rio Maior ======
+
+**Parent**:: 54476
+**RootParent**:: 31258
+**UnitTitle**:: Noticia sobre a Senhora Condessa de Rio Maior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-04-26
+**UnitDateFinal**:: 1890-04-26
+**ScopeContent**:: Recorte do jornal "Tempo. Anno II", de 26 Abril 1890 sobre a morte e funeral da Condessa de Rio Maior. Nota manuscrita "Notícia sobre a Senhora Condessa de Rio Maior". A 3ª Condessa de Rio Maior foi Isabel de Sousa Botelho Mourão e Vasconcelos (1813-1890-04-24), casada com o 3º Conde de Rio Maior, João Maria de Saldanha Oliveira e Sousa. Tia de Amália.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54808
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12529 - cx. 72
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54808

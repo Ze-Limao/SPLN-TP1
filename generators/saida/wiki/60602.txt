@@ -1,0 +1,14 @@
+====== 60602 - UI - Margarida de Castelo Branco ======
+
+**Parent**:: 31373
+**RootParent**:: 31258
+**UnitTitle**:: Margarida de Castelo Branco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1872-07-02
+**UnitDateFinal**:: 1872-07-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53090
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60602
+
+===== Filhos =====
+  * [[60603.txt|60603 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 29517 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-05
+**UnitDateFinal**:: 1882-05
+**ScopeContent**:: Carta expedida de Vila do Conde. Na f.2 com cópia de um soneto "Na mão de Deus" (AS 758 (2)).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29517
+**LangMaterial**:: Português
+**PhysLoc**:: AS 758 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29517

@@ -1,0 +1,15 @@
+====== 66523 - DC - Pedido de licença de matrimónio de Camilo, da freguesia de S. Salvador de Ruivães com Maria Dias da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de matrimónio de Camilo, da freguesia de S. Salvador de Ruivães com Maria Dias da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1865-11-08
+**UnitDateFinal**:: 1865-11-08
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”. Licença concedida pelo desembargador Drº João Manuel da Cunha da Relação Eclesiástica e juiz dos matrimónios na corte do Arcebispado de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 547 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66523

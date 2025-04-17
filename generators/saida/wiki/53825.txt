@@ -1,0 +1,17 @@
+====== 53825 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas - 4 ======
+
+**Parent**:: 53746
+**RootParent**:: 25851
+**UnitTitle**:: Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas - 4
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954-11
+**UnitDateFinal**:: 1954-11
+**ScopeContent**:: Cópia de planta. Escala: 1/100. Duplicado JG 49, JG 169(6).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53825
+**LangMaterial**:: Português
+**PhysLoc**:: JG 49A - cx. 2
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53825

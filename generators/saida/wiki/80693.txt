@@ -1,0 +1,14 @@
+====== 80693 - UI - Processo nº 25 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 25
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1979-01-19
+**UnitDateFinal**:: 1983-05-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 304 - cx. 16
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80693

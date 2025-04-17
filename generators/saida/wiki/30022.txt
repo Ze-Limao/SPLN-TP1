@@ -1,0 +1,14 @@
+====== 30022 - DC - Comissão Venatória ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Comissão Venatória
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1957-12-01
+**UnitDateFinal**:: 1957-12-01
+**ScopeContent**:: Ata da eleição
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30022
+**LangMaterial**:: Português
+**PhysLoc**:: f. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30022

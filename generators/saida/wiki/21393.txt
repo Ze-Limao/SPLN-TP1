@@ -1,0 +1,16 @@
+====== 21393 - UI - Francisco de Assis de Noronha Morais Pinto de Oliveira Martins ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco de Assis de Noronha Morais Pinto de Oliveira Martins
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1924-07-16
+**UnitDateFinal**:: 1924-07-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21393
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1355
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21393
+
+===== Filhos =====
+  * [[30222.txt|30222 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 80235 - UI - Processo nº 128 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 128
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-04-23
+**UnitDateFinal**:: 1976-10-06
+**ScopeContent**:: Acção Declarativa com Processo Comum. Junto com Autos de Sentença nº 128/73/A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 119 - cx. 7
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80235

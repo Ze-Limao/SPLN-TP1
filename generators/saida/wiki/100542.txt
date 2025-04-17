@@ -1,0 +1,23 @@
+====== 100542 - SR - Fotografias positivos em papel ======
+
+**Parent**:: 60696
+**RootParent**:: 60696
+**UnitTitle**:: Fotografias positivos em papel
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1940
+**ScopeContent**:: 157 documentos fotográficos (positivo, papel, p&b, 13 x 18 cm);
+277 documentos fotográficos (positivos, papel, p&b, 5,5 x 6 cm);
+175 documentos fotográficos (positivos, papel, p&b, 8 x 10,5 cm);
+43 documentos fotográficos (positivos, papel, p&b, 31 x 23 cm);
+335 documentos fotográficos (positivos, papel, p&b, 4,5 x 5,7 cm).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD100542
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100542
+
+===== Filhos =====
+  * [[100430.txt|100430 - UI - Fotografias positivos em papel]]
+  * [[100436.txt|100436 - UI - Provas de contacto positivos em papel]]
+  * [[100442.txt|100442 - UI - Fotografias positivos em papel]]
+  * [[100448.txt|100448 - UI - Fotografias positivos em papel]]
+  * [[100454.txt|100454 - UI - Fotografias positivas em papel]]

@@ -1,0 +1,15 @@
+====== 65776 - DC - Património de António José Monteiro, clerigo in minoribus, que lhe fazerm seus pais Manuel José Monteiro e sua mulher Teresa Maria de Azevedo, moradores da freguesia de Castelões ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Património de António José Monteiro, clerigo in minoribus, que lhe fazerm seus pais Manuel José Monteiro e sua mulher Teresa Maria de Azevedo, moradores da freguesia de Castelões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1819-04-13
+**UnitDateFinal**:: 1819-04-13
+**ScopeContent**:: Manuscrito, instrumento. Folhas cosidas. No canto superior esquerdo "Landim Lº 247, f. 154vº"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 236 - cx. 12
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65776

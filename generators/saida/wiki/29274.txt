@@ -1,0 +1,15 @@
+====== 29274 - DC - Limpamento dos filtros de porcelana ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Limpamento dos filtros de porcelana
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-05-22
+**UnitDateFinal**:: 1897-05-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29274
+**LangMaterial**:: Português
+**PhysLoc**:: AS 185 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29274

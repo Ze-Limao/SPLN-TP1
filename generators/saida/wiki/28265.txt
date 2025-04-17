@@ -1,0 +1,15 @@
+====== 28265 - SSSC - Referências bibliográficas ======
+
+**Parent**:: 28066
+**RootParent**:: 27963
+**UnitTitle**:: Referências bibliográficas
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1883-10-05
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28265
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28265
+
+===== Filhos =====
+  * [[28586.txt|28586 - SR - Temas vários]]
+  * [[28587.txt|28587 - SR - Sobre O Norte Marítimo]]

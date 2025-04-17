@@ -1,0 +1,17 @@
+====== 55450 - DC - Receitas médicas e cartão de farmácia Tiergarten Apotheke ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Receitas médicas e cartão de farmácia Tiergarten Apotheke
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-05-23
+**UnitDateFinal**:: 1909-07-22
+**ScopeContent**:: Cartão de farmácia "Tiergarten Apotheke", em Berlim com anotação manuscrita "Gottas Belladona Amália". Receita manuscrita assinada por médico de Berlim, datada de 1906-05-23. Receita manuscrita de Braga, para o Visconde de Pindela, datada 1909-07-22.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55450
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4553 - cx. 32
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55450

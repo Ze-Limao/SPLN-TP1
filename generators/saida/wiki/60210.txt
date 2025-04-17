@@ -1,0 +1,25 @@
+====== 60210 - DC - Documentos da vida estudantil no Liceu Nacional e Central de Braga enquanto estudante monárquico ======
+
+**Parent**:: 31339
+**RootParent**:: 31258
+**UnitTitle**:: Documentos da vida estudantil no Liceu Nacional e Central de Braga enquanto estudante monárquico
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1910-11-09
+**UnitDateFinal**:: 1911-01
+**ScopeContent**:: Conjunto de documentos CP 8962 a CP 8968. Documentos produzidos pelos alunos monárquicos do Liceu Nacional e Central de Braga em 1910, do qual faz parte João Pinheiro de Figueira Machado, com uma mensagem de felicitações a D. Manuel II, rei no exílio; cartão convite para uma missa por alma do Rei D. Carlos. E ainda um panfleto "Protesto de estudantes Republicanos".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56777
+**LangMaterial**:: Português
+**PhysLoc**:: CP - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60210
+
+===== Filhos =====
+  * [[60211.txt|60211 - DC - Copia da Mensagem de felicitações a D. Manuel II, por ocasião do seu aniversário natalicio, pelos estudantes monarchicos do Liceu Nacional Central de Braga]]
+  * [[60212.txt|60212 - DC - Protesto da Academia do Liceu Nacional e Central de Braga ao povo português e a todos os nossos colegas]]
+  * [[60213.txt|60213 - DC - Resposta à letra ao Protesto dos cidadãos: Francisco Martins Lage, Paulino António da Costa, Mário Conceição Rocha ao povo português e a todos os nossos colegas]]
+  * [[60214.txt|60214 - DC - Resposta à letra ao Protesto dos cidadãos: Francisco Martins Lage, Paulino António da Costa, Mário Conceição Rocha ao povo português e a todos os nossos colegas]]
+  * [[60215.txt|60215 - DC - Resposta à letra ao Protesto dos cidadãos: Francisco Martins Lage, Paulino António da Costa, Mário Conceição Rocha ao povo português e a todos os nossos colegas]]
+  * [[60216.txt|60216 - DC - Convite para missa por alma do Rei D. Carlos I dos estudantes monárquicos do Liceu de Braga]]

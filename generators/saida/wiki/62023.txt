@@ -1,0 +1,20 @@
+====== 62023 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - José da Costa Pereira e Joaquina de Sousa, na freguesia
+Naturalidade - Bairro
+Morada - Ignora-se
+Data de nascimento - 1862-01-28
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 33
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62023

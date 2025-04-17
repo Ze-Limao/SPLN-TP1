@@ -1,0 +1,33 @@
+====== 7922 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886-02-10
+**UnitDateFinal**:: 1886-04-27
+**ScopeContent**:: 'Tem de servir este livro para o recenseamento eleitoral das freguesias que compõem a assembleia primária com sede na igreja matriz de Cabeçudos, nas eleições de deputados da nação, em conformidade com o artigo 33 da lei de 21 de maio de 1884'
+
+Contém dados sobre:
+1- Freguesia
+2- Nome
+3- Censo
+4- Emprego ou profissão
+5- Estado
+6- Morada
+7- Idade
+8- Elegíveis para deputados
+9- Elegíveis para cargos municipais e distritais
+10- Elegíveis para cargos paroquiais
+11- Chefe de família
+12 - Ler e escrever
+13- Quarenta maiores contribuintes da contribuição predial
+14- Quarenta maiores contribuintes da constribuição industrial, sumptuária e renda de casas
+15- Observações
+
+A assembleia eleitoral de Cabeçudos era composta pelas freguesias de Abade de Vermoim, Avidos, Cabeçudos, Esmeriz, Lagoa e Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7922
+**LangMaterial**:: Português
+**PhysLoc**:: 1.2.1.5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7922

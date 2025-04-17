@@ -1,0 +1,20 @@
+====== 32418 - UI - Gustavo Ferreira Borges e Helena Couceiro de Mesquita ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Gustavo Ferreira Borges e Helena Couceiro de Mesquita
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32418
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32418
+
+===== Filhos =====
+  * [[32419.txt|32419 - DC - Cartão de visita]]
+  * [[32420.txt|32420 - DC - Cartão de visita]]
+  * [[32421.txt|32421 - DC - Cartão de visita para Viscondes]]

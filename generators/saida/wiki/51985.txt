@@ -1,0 +1,17 @@
+====== 51985 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-04-13
+Filiação - José Gomes da Silva e Teresa Joaquina
+Naturalidade - Bagunte, Vila do Conde
+Residência - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51985
+**LangMaterial**:: Português
+**PhysLoc**:: 69v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51985

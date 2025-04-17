@@ -1,0 +1,17 @@
+====== 98802 - DC - Certidão predial de inscrição hipotecária sobre prédios do Mosteiro de Arnoso ======
+
+**Parent**:: 54366
+**RootParent**:: 31258
+**UnitTitle**:: Certidão predial de inscrição hipotecária sobre prédios do Mosteiro de Arnoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-08-01
+**UnitDateFinal**:: 1885-08-01
+**ScopeContent**:: Manuscrito com folhas cosidas, em papel azul selado 60 reis. "Pasta nº 6 Cazal 37 RS". Este documento estava na “Caixa 6”, que contém CP 12997 a CP 13016.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12997 - cx. 83
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98802

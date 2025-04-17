@@ -1,0 +1,17 @@
+====== 56258 - DC - Contas de Berlim ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Contas de Berlim
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1914
+**UnitDateFinal**:: 1914-12
+**ScopeContent**:: Envelope com documentos relativos a despesas (recibos, letras, notas manuscritas) do 3º Visconde de Pindela (João Afonso Simão Pinheiro Lobo Figueira Machado de Melo e Almada, 1894-1938) na Alemanha. Este documento estava na “Caixa 15”, que contém CP 13246 a CP 13255.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13248 - cx. 91
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56258

@@ -1,0 +1,16 @@
+====== 25644 - DC - Carta ======
+
+**Parent**:: 21178
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-01-06
+**UnitDateFinal**:: 1914-01-06
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25644
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 596 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25644

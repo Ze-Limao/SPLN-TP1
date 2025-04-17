@@ -1,0 +1,14 @@
+====== 54592 - UI - Ferreira Amaral ======
+
+**Parent**:: 31357
+**RootParent**:: 31258
+**UnitTitle**:: Ferreira Amaral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-08-19
+**UnitDateFinal**:: 1904-08-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54592
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54592
+
+===== Filhos =====
+  * [[54593.txt|54593 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 66334 - DC - Certidão pelo Padre Domingues Dias Correia Fanha, pároco encomendador na Igreja S. Tiago de Antas, a quem foi apresentado uma Sentença cível de execução e liquidação, passada neste juízo, a favor do autor o Drº Rodrigo Joaquim de Menezes, abade que foi na referida freguesia, contra os reús Higino Fernandes de Macedo e mulher ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Certidão pelo Padre Domingues Dias Correia Fanha, pároco encomendador na Igreja S. Tiago de Antas, a quem foi apresentado uma Sentença cível de execução e liquidação, passada neste juízo, a favor do autor o Drº Rodrigo Joaquim de Menezes, abade que foi na referida freguesia, contra os reús Higino Fernandes de Macedo e mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-09-03
+**UnitDateFinal**:: 1877-09-03
+**ScopeContent**:: Manuscrito, original, em papel azul selado de 60 reis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 456 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66334

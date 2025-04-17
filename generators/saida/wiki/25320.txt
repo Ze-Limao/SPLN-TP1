@@ -1,0 +1,28 @@
+====== 25320 - UI - Inauguração e bênção da nova ambulância DA-64-85 com o nome Isabel Carmem ======
+
+**Parent**:: 20387
+**RootParent**:: 20342
+**UnitTitle**:: Inauguração e bênção da nova ambulância DA-64-85 com o nome Isabel Carmem
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1968-06-23
+**UnitDateFinal**:: 1968-06-23
+**ScopeContent**:: Inauguração e benção da nova ambulância DA-64-85 com o nome da neta de Hilário Carvalho "Isabel Carmem".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25320
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 189 - cx. 52
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25320
+
+===== Filhos =====
+  * [[25920.txt|25920 - DC - Batismo da ambulância DA-64-85 com o nome Isabel Carmem pela neta de Hilário de Carvalho]]
+  * [[25921.txt|25921 - DC - Hilário de Carvalho com a neta Isabel Carmem no batismo da ambulância DA-64-85]]
+  * [[25922.txt|25922 - DC - Discurso de José Casimiro no almoço de inauguração da ambulância DA-64-85]]
+  * [[25923.txt|25923 - DC - Discurso de Hilário Carvalho no almoço de inauguração da ambulância DA-64-85]]
+  * [[25924.txt|25924 - DC - Discurso do Padre Benjamim Salgado, Presidente da Câmara Municipal, no almoço de inauguração da ambulância DA-64-85]]
+  * [[25925.txt|25925 - DC - Almoço na inauguração da ambulância DA-64-85]]
+  * [[25927.txt|25927 - DC - Almoço na inauguração da ambulância DA-64-85]]
+  * [[25928.txt|25928 - DC - Retrato de conjunto do Corpo Ativo na inauguração da ambulância DA-64-85]]
+  * [[25929.txt|25929 - DC - Retrato de conjunto do Corpo Ativo e Fanfarra na inauguração da ambulância DA-64-85]]
+  * [[25930.txt|25930 - DC - Retrato de conjunto de bombeiros reformados? na inauguração da ambulância DA-64-85]]

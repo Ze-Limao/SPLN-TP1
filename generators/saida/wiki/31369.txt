@@ -1,0 +1,15 @@
+====== 31369 - SSC - Fernando de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31368
+**RootParent**:: 31258
+**UnitTitle**:: Fernando de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1843
+**UnitDateFinal**:: 1858
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31369
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31369
+
+===== Filhos =====
+  * [[31370.txt|31370 - SR - Correspondência]]
+  * [[60591.txt|60591 - SR - Documentos]]

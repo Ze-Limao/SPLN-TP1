@@ -1,0 +1,15 @@
+====== 98017 - UI - Processo nº 194 ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 194
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-12-04
+**UnitDateFinal**:: 1977-11-11
+**ScopeContent**:: Junto com Autos de Transgressão nº 18.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 701 - cx. 38
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98017

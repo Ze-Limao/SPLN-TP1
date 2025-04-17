@@ -1,0 +1,11 @@
+====== 29594 - SR - 2015 ======
+
+**Parent**:: 29620
+**RootParent**:: 29618
+**UnitTitle**:: 2015
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 2015-01-01
+**UnitDateFinal**:: 2015-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29594
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29594

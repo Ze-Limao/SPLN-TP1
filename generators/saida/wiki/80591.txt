@@ -1,0 +1,15 @@
+====== 80591 - UI - Processo nº 25 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 25
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1977-03-16
+**UnitDateFinal**:: 1979-05-31
+**ScopeContent**:: Junto com Autos de Execução Embargos de Executado nº 25-A e Autos de Caução nº 25-B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 235 - cx. 13
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80591

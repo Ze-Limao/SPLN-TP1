@@ -1,0 +1,15 @@
+====== 66493 - DC - Pedido para licença de batismo de José Marques da Costa, da freguesia de Avidos, para uma criança ser batizada em S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido para licença de batismo de José Marques da Costa, da freguesia de Avidos, para uma criança ser batizada em S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-13
+**UnitDateFinal**:: 1893-07-23
+**ScopeContent**:: Manuscrito, original, em papel azul timbrado “80 reis”. Deferimento do Arcebispo Primaz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 520 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66493

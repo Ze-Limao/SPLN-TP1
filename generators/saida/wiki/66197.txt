@@ -1,0 +1,15 @@
+====== 66197 - DC - Apontamentos sobre as apresentações das rações ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Apontamentos sobre as apresentações das rações
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1624
+**UnitDateFinal**:: 1624
+**ScopeContent**:: Manuscrito, original, sem capa e folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 414 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66197

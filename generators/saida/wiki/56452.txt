@@ -1,0 +1,17 @@
+====== 56452 - DC - Vacuum Oil Cª ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Vacuum Oil Cª
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-03-09
+**UnitDateFinal**:: 1918-03-09
+**ScopeContent**:: Talão de depósito em Braga, vendido a António Paulino de Carvalho, S. Tiago, 29 litros - Atlantic (petróleo), com indicação de pado e assinatura do condutor.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56452
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4793 - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56452

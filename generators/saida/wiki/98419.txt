@@ -1,0 +1,16 @@
+====== 98419 - SR - Correspondência ======
+
+**Parent**:: 31288
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência
+**DescriptionLevel**:: SR
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54469
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98419
+
+===== Filhos =====
+  * [[98896.txt|98896 - UI - Jerónimo Vaz Vieira]]
+  * [[98903.txt|98903 - UI - João Pereira de Sousa]]
+  * [[98922.txt|98922 - UI - António Vaz Vieira]]
+  * [[99010.txt|99010 - UI - António Francisco Valbom]]
+  * [[99015.txt|99015 - UI - Francisco Mendes Galvão]]

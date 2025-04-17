@@ -1,0 +1,18 @@
+====== 48189 - DC - Registo do recenseamento eleitoral de Manuel António Dias ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel António Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Landim
+Profissão - Boticário
+Estado - Casado
+Morada - Travassos
+Idade - 47
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48189
+**LangMaterial**:: Português
+**PhysLoc**:: 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48189

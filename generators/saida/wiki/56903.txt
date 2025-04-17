@@ -1,0 +1,17 @@
+====== 56903 - DC - Comissão de Viticultura da Região dos Vinhos Verdes. 1º Balanço e Inventário ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura da Região dos Vinhos Verdes. 1º Balanço e Inventário
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1928
+**UnitDateFinal**:: 1933-05-15
+**ScopeContent**:: Capa com título manuscrito. Folhas manuscritas e datilografadas. Contém documentos "Serviço Central. Serviço de Contabilidade, Inventários, Mapas e Balanços de 1927 a 1933."; Folhas de vencimentos, Gratificações ao pessoal, Folhas de Balanço, Inventário da Biblioteca, Inventário do Laboratório, Balancetes, Organização da Contabilidade.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56903
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2679 - cx. 21
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56903

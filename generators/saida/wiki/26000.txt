@@ -1,0 +1,16 @@
+====== 26000 - DC - Carta ======
+
+**Parent**:: 21202
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Carta manuscrita assinada sem menção a data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26000
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 794 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26000

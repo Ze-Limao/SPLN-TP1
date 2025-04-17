@@ -1,0 +1,16 @@
+====== 24146 - DC - Registo do recenseamento eleitoral de Domingos José Pereira ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Domingos José Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Brufe e Gemunde
+Profissão - Ferreiro
+Morada - Silvares
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24146
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24146

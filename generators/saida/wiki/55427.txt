@@ -1,0 +1,33 @@
+====== 55427 - DC - Envelope ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Envelope
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Envelope timbrado "In Die Königlich Haus Die Abgeordneten Portugiesische Gefanaltschaft", com nomes manuscritos de diversas Legações europeias e americanas,  que contém CP 1436 a CP 1448.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55427
+**LangMaterial**:: Português e alemão
+**PhysLoc**:: CP 1435 - cx. 100
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55427
+
+===== Filhos =====
+  * [[55428.txt|55428 - DC - Alldeutsche Blatter, nº34]]
+  * [[55429.txt|55429 - DC - Sassungen Alldeutschen Verbandes]]
+  * [[55430.txt|55430 - DC - Max Karfunkel´s Nachrichten-Bureau Argus]]
+  * [[55431.txt|55431 - DC - Max Karfunkel´s Nachrichten-Bureau Argus]]
+  * [[55432.txt|55432 - DC - Max Karfunkel´s Nachrichten-Bureau Argus]]
+  * [[55433.txt|55433 - DC - Max Karfunkel´s Nachrichten-Bureau Argus]]
+  * [[55434.txt|55434 - DC - Max Karfunkel´s Nachrichten-Bureau Argus]]
+  * [[55438.txt|55438 - DC - Max Karfunkel´s Nachrichten-Bureau Argus]]
+  * [[55439.txt|55439 - DC - Max Karfunkel´s Nachrichten-Bureau Argus]]
+  * [[55440.txt|55440 - DC - Hannoverscher Courier]]
+  * [[55446.txt|55446 - DC - Cópia de Telegrama]]
+  * [[55447.txt|55447 - DC - Lista de nomes]]
+  * [[56381.txt|56381 - DC - Carta de Felix Eisenmann]]
+  * [[56382.txt|56382 - DC - Cópia de carta de Conselheiro Beirão]]

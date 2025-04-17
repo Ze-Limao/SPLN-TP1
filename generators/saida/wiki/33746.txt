@@ -1,0 +1,17 @@
+====== 33746 - DC - Cartão de visita ======
+
+**Parent**:: 33742
+**RootParent**:: 31258
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-01-25
+**UnitDateFinal**:: 1920-01-25
+**ScopeContent**:: Dois cartões de visita, com nome e morada impressos, envelope dirigido para Casa de Pindela. Esta carta pertence ao maço “Últimas cartas de varias pessoas que o meu querido Pai recebeu”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33746
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4027 - cx. 29
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33746

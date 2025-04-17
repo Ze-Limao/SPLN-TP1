@@ -1,0 +1,34 @@
+====== 55655 - DC - Envelope ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Envelope
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1907-12-31
+**UnitDateFinal**:: 1910-10-05
+**ScopeContent**:: Envelope que contém CP 14272 a CP 14290.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55655
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14271 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55655
+
+===== Filhos =====
+  * [[55656.txt|55656 - DC - Reichsgesetzblatt]]
+  * [[55657.txt|55657 - DC - Reichsgesetzblatt]]
+  * [[55658.txt|55658 - DC - Lei dos vinhos de 7-4-1909 e Tratado de Comércio com a Alemanha]]
+  * [[55659.txt|55659 - DC - Minuta de carta para Carlos Roma du Bocage]]
+  * [[55660.txt|55660 - DC - Madeira Aktiengesellschaft]]
+  * [[55661.txt|55661 - DC - Minuta de carta]]
+  * [[55662.txt|55662 - DC - Sanatório da Madeira]]
+  * [[55663.txt|55663 - DC - Carta da Presidência do Conselho de Ministros]]
+  * [[55664.txt|55664 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55665.txt|55665 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55666.txt|55666 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55667.txt|55667 - DC - Carta de Oliveira Matos e minuta de resposta de Vicente]]
+  * [[55675.txt|55675 - DC - Carta de P. von Koeren]]
+  * [[55676.txt|55676 - DC - Carta de P. von Koeren]]
+  * [[55677.txt|55677 - DC - Envelope]]

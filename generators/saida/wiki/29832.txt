@@ -1,0 +1,16 @@
+====== 29832 - DC - Carta ======
+
+**Parent**:: 21080
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-02-14
+**UnitDateFinal**:: 1908-02-14
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Sociedade de S. Vicente de Paulo. Conselho Central do Porto".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29832
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1241 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29832

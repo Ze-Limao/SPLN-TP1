@@ -1,0 +1,16 @@
+====== 20075 - SR - Hipotecas ======
+
+**Parent**:: 20058
+**RootParent**:: 20048
+**UnitTitle**:: Hipotecas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1851-08-20
+**UnitDateFinal**:: 1860-05-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20075
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20075
+
+===== Filhos =====
+  * [[20076.txt|20076 - UI - Hipotecas]]
+  * [[20077.txt|20077 - UI - Hipotecas]]

@@ -1,0 +1,17 @@
+====== 57007 - DC - Cópia de ofício para Governador Geral da Província de Angola de António da Penha e Costa ======
+
+**Parent**:: 56945
+**RootParent**:: 31258
+**UnitTitle**:: Cópia de ofício para Governador Geral da Província de Angola de António da Penha e Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934
+**UnitDateFinal**:: 1934
+**ScopeContent**:: Ofício datilografado, sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57007
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 2771 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57007

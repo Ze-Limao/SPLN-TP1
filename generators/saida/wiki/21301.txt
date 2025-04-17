@@ -1,0 +1,29 @@
+====== 21301 - UI - António Augusto Rodrigues ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Augusto Rodrigues
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901
+**UnitDateFinal**:: 1910-02-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21301
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1170, 1171, 1172, 1173, 1174, 1175, 1176, 1177, 1178, 1179, 1180, 1181, 1182, 1183
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21301
+
+===== Filhos =====
+  * [[29761.txt|29761 - DC - Carta]]
+  * [[29762.txt|29762 - DC - Carta]]
+  * [[29763.txt|29763 - DC - Carta]]
+  * [[29764.txt|29764 - DC - Carta]]
+  * [[29765.txt|29765 - DC - Carta]]
+  * [[29766.txt|29766 - DC - Carta]]
+  * [[29767.txt|29767 - DC - Carta]]
+  * [[29768.txt|29768 - DC - Carta]]
+  * [[29769.txt|29769 - DC - Carta]]
+  * [[29770.txt|29770 - DC - Carta]]
+  * [[29771.txt|29771 - DC - Carta]]
+  * [[29772.txt|29772 - DC - Carta]]
+  * [[29773.txt|29773 - DC - Carta]]
+  * [[29774.txt|29774 - DC - Carta]]

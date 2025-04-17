@@ -1,0 +1,18 @@
+====== 51105 - DC - Registo do recenseamento militar de Manuel Vieira ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Vieira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-04-13
+**UnitDateFinal**:: 1864-04-13
+**ScopeContent**:: Data de nascimento - 
+Filiação - 
+Naturalidade - Santo Tirso
+Profissão - Criado de servir
+Residência - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51105
+**LangMaterial**:: Português
+**PhysLoc**:: 62v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51105

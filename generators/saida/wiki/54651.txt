@@ -1,0 +1,16 @@
+====== 54651 - UI - António Vasco de Melo da Silva César e Meneses ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: António Vasco de Melo da Silva César e Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-12
+**UnitDateFinal**:: 1891-05-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54651
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54651
+
+===== Filhos =====
+  * [[54652.txt|54652 - DC - Telegrama]]
+  * [[54779.txt|54779 - DC - Carta]]
+  * [[97440.txt|97440 - DC - Telegrama]]

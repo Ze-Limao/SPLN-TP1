@@ -1,0 +1,16 @@
+====== 25018 - UI - Festa anual de Bombeiros ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Festa anual de Bombeiros
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-05-31
+**UnitDateFinal**:: 1974-02-24
+**ScopeContent**:: Contém: Documentos diversos, recorte de imprensa, contas receita e despesa, faturas, relação de convidados, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25018
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 121 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25018

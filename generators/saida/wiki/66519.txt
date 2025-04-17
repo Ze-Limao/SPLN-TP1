@@ -1,0 +1,15 @@
+====== 66519 - DC - Pedido para celebrar matrimónio de João Silva e Ermelinda Rosa ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido para celebrar matrimónio de João Silva e Ermelinda Rosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1865-12-07
+**UnitDateFinal**:: 1865-12-07
+**ScopeContent**:: Manuscrito, original, em papel azul “XL 40 reis”. Em baixo o deferimento do abade de Requião José de Sousa Coutinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 543 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66519

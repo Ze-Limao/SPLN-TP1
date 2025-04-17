@@ -1,0 +1,16 @@
+====== 21367 - UI - Maria Teresa de Sousa Botelho e Melo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Maria Teresa de Sousa Botelho e Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-08-30
+**UnitDateFinal**:: 1916-08-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21367
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1323
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21367
+
+===== Filhos =====
+  * [[30190.txt|30190 - DC - Carta]]

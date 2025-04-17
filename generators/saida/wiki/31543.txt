@@ -1,0 +1,18 @@
+====== 31543 - UI - Adrienne Allizé ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Adrienne Allizé
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-05
+**UnitDateFinal**:: 1900-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31543
+**LangMaterial**:: Francês
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31543
+
+===== Filhos =====
+  * [[31544.txt|31544 - DC - Carta]]

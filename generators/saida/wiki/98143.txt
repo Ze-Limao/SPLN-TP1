@@ -1,0 +1,15 @@
+====== 98143 - UI - Processo nº 26 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 26
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1983-06-30
+**UnitDateFinal**:: 1983-10-03
+**ScopeContent**:: 2ª Secção. Junto com Autos de Transgressão nº 26 e 27.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 802 - cx. 43
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98143

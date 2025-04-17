@@ -1,0 +1,15 @@
+====== 65717 - DC - Emprazamento do casal de Currais, situado na freguesia de S. Tiago de Antas, feita por Miguel de Ayala Gouveia, abade da Igreja de S. Tiago de Antas, metade a Pero Gonçalves e a sua mulher Maria Gomes, e metade a Martinho Fernandes e a sua mulher ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Currais, situado na freguesia de S. Tiago de Antas, feita por Miguel de Ayala Gouveia, abade da Igreja de S. Tiago de Antas, metade a Pero Gonçalves e a sua mulher Maria Gomes, e metade a Martinho Fernandes e a sua mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1676-08-04
+**UnitDateFinal**:: 1676-08-04
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. No canto superior esquerdo "Nº22".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 95 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65717

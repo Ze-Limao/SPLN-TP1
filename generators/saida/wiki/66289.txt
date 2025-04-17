@@ -1,0 +1,15 @@
+====== 66289 - DC - Sinopse de vários documentos. Carta de emprazamento de Manuel Botelho, padre e Abade do mosteiro de S. Tiago de Antas, que por estar vago a metade do Casal da mesma freguesia de S. Mamede de Ribeirão, empraza João Domingues e sua mulher ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Sinopse de vários documentos. Carta de emprazamento de Manuel Botelho, padre e Abade do mosteiro de S. Tiago de Antas, que por estar vago a metade do Casal da mesma freguesia de S. Mamede de Ribeirão, empraza João Domingues e sua mulher
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1672
+**UnitDateFinal**:: 1672
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas. Na f. 1 frente e verso tem a sinopse.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 429 - cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66289

@@ -1,0 +1,16 @@
+====== 99464 - UI - João Esteves de Carvalho ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: João Esteves de Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-01-29
+**UnitDateFinal**:: 1916-02-07
+**ScopeContent**:: Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99464
+
+===== Filhos =====
+  * [[99465.txt|99465 - DC - Carta]]
+  * [[99493.txt|99493 - DC - Carta]]

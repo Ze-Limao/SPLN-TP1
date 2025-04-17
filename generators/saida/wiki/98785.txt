@@ -1,0 +1,15 @@
+====== 98785 - DC - Homenagem da população de V.N. Famalicão aos seus valorosos Bombeiros Voluntários: 13 de Junho de 1985 ======
+
+**Parent**:: 98787
+**RootParent**:: 7651
+**UnitTitle**:: Homenagem da população de V.N. Famalicão aos seus valorosos Bombeiros Voluntários: 13 de Junho de 1985
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1985-06-13
+**UnitDateFinal**:: 1985-06-13
+**ScopeContent**:: Medalha de Augusto Costa, numa caixa de cartão. Edição da Câmara Municipal de Vila Nova de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98781
+**LangMaterial**:: Português
+**PhysLoc**:: cx. 1
+depósito 1, estante 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98785

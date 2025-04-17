@@ -1,0 +1,28 @@
+====== 31461 - UI - Carlos Lobo de Ávila ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Carlos Lobo de Ávila
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1894-09-11
+**UnitDateFinal**:: 1895-07-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31461
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31461
+
+===== Filhos =====
+  * [[31462.txt|31462 - DC - Carta]]
+  * [[31463.txt|31463 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31465.txt|31465 - DC - Carta]]
+  * [[31466.txt|31466 - DC - Carta]]
+  * [[31467.txt|31467 - DC - Carta]]
+  * [[31472.txt|31472 - DC - Carta]]
+  * [[31473.txt|31473 - DC - Carta]]
+  * [[31474.txt|31474 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31477.txt|31477 - DC - Carta]]
+  * [[31478.txt|31478 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55653.txt|55653 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55654.txt|55654 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

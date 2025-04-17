@@ -1,0 +1,19 @@
+====== 33991 - DC - Registo do recenseamento militar de Narciso Correia ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Narciso Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Pedome
+Data de nascimento - 1852-03-17
+Filiação - António Correia e Joana
+Profissão - Criado de servir
+Estado - Solteiro
+Morada - Candoso, Guimarães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33991
+**LangMaterial**:: Português
+**PhysLoc**:: 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33991

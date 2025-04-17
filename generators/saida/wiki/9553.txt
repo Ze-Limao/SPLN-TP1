@@ -1,0 +1,19 @@
+====== 9553 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-01-27
+**ScopeContent**:: Filiação - Manuel Correia de Sá e Paciência Maria Rosa de Araújo
+Naturalidade - Antas
+Data de nascimento - 1877-09-03
+Profissão - 
+Estado civil - 
+Residência - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9553
+**LangMaterial**:: Português
+**PhysLoc**:: f. 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9553

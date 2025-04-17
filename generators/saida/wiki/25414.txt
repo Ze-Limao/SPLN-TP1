@@ -1,0 +1,16 @@
+====== 25414 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-12-05
+**UnitDateFinal**:: 1916-12-05
+**ScopeContent**:: Eugénio de Castro refere que falou com presidente da Câmara sobre a subscrição camiliana. Carta manuscrita assinada. Papel timbrado da Revista da Universidade de Coimbra, Redacção.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25414
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 393 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25414

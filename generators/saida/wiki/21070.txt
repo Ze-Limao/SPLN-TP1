@@ -1,0 +1,20 @@
+====== 21070 - UI - António de Mendonça Falcão e Póvoas ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António de Mendonça Falcão e Póvoas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1907-07-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21070
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 247, 248, 249
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21070
+
+===== Filhos =====
+  * [[24811.txt|24811 - DC - Carta]]
+  * [[24812.txt|24812 - DC - Carta]]
+  * [[24813.txt|24813 - DC - Carta]]
+  * [[24814.txt|24814 - DC - Carta]]

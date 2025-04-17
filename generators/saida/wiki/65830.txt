@@ -1,0 +1,15 @@
+====== 65830 - DC - Emprazamento do casal do Forno, lugar do Espírito Santo, situado na freguesia de S. Leocádia de Fradelos, por Luís de Moura e Mendonça, abade da Igreja de S. Tiago de Antas, que empraza a Domingos Luís de Azevedo e a sua mulher Ana Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal do Forno, lugar do Espírito Santo, situado na freguesia de S. Leocádia de Fradelos, por Luís de Moura e Mendonça, abade da Igreja de S. Tiago de Antas, que empraza a Domingos Luís de Azevedo e a sua mulher Ana Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1827-11-15
+**UnitDateFinal**:: 1828-06-05
+**ScopeContent**:: Manuscrito, impresso, original. Folhas cosidas. Carta de Vedoria impressa 1827-11-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 246 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65830

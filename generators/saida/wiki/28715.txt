@@ -1,0 +1,15 @@
+====== 28715 - SR - Correspondência expedida ======
+
+**Parent**:: 28713
+**RootParent**:: 27963
+**UnitTitle**:: Correspondência expedida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1908-07-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28715
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28715
+
+===== Filhos =====
+  * [[29094.txt|29094 - UI - António Vicente Leal Sampaio]]
+  * [[29568.txt|29568 - UI - C. Boulanger]]

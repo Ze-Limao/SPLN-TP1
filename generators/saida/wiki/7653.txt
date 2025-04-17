@@ -1,0 +1,14 @@
+====== 7653 - SSC - Câmara Municipal ======
+
+**Parent**:: 7652
+**RootParent**:: 7651
+**UnitTitle**:: Câmara Municipal
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1837-11-08
+**UnitDateFinal**:: 1967-01-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7653
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7653
+
+===== Filhos =====
+  * [[7654.txt|7654 - SR - Livros de Actas da Câmara Municipal]]

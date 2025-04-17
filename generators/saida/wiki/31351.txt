@@ -1,0 +1,14 @@
+====== 31351 - SC - Casa de Refalcão ======
+
+**Parent**:: 31350
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Refalcão
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1678-05-05
+**UnitDateFinal**:: 1804-08-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31351
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31351
+
+===== Filhos =====
+  * [[54473.txt|54473 - SR - Documentos]]

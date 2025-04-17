@@ -1,0 +1,15 @@
+====== 31314 - SSC - Maria Amália de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31312
+**RootParent**:: 31258
+**UnitTitle**:: Maria Amália de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1858
+**UnitDateFinal**:: 1980-05-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31314
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31314
+
+===== Filhos =====
+  * [[31315.txt|31315 - SR - Correspondência recebida e enviada]]
+  * [[54483.txt|54483 - SR - Documentos]]

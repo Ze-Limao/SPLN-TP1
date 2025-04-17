@@ -1,0 +1,18 @@
+====== 8738 - DC - Termo do exame de Plácido Ferreira de Carvalho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Plácido Ferreira de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-14
+**UnitDateFinal**:: 1891-07-14
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Sebastião Manuel de Carvalho
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8738
+**LangMaterial**:: Português
+**PhysLoc**:: f. 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8738

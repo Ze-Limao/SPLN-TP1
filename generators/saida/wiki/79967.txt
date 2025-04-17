@@ -1,0 +1,15 @@
+====== 79967 - UI - Processo nº 18A/68 ======
+
+**Parent**:: 79968
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 18A/68
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1960-12-04
+**UnitDateFinal**:: 1970-05-30
+**ScopeContent**:: Junto com Processo Autos de Execução de Custas nº 18B/68 e Processo de Autos de Acção com Processo Comum nº 112.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 3 - cx. 1
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79967

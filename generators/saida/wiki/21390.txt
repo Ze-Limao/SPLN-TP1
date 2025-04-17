@@ -1,0 +1,17 @@
+====== 21390 - UI - Francisca Angélica Malheiro de Sousa Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisca Angélica Malheiro de Sousa Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1863-01-09
+**UnitDateFinal**:: 1863-01-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21390
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1352
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21390
+
+===== Filhos =====
+  * [[22629.txt|22629 - DC - Carta]]

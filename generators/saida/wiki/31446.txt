@@ -1,0 +1,15 @@
+====== 31446 - SSC - Maria Inácia de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31371
+**RootParent**:: 31258
+**UnitTitle**:: Maria Inácia de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1885
+**UnitDateFinal**:: 1909-02-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31446
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31446
+
+===== Filhos =====
+  * [[31447.txt|31447 - SR - Correspondência recebida]]
+  * [[78597.txt|78597 - SR - Documentos]]

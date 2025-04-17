@@ -1,0 +1,18 @@
+====== 8951 - DC - Termo do exame de Emília do Carmo da Fonseca Ferreira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Emília do Carmo da Fonseca Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-31
+**UnitDateFinal**:: 1894-07-31
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - António da Fonseca Ferreira
+Naturalidade - Calendário
+Classificação - Distinta
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8951
+**LangMaterial**:: Português
+**PhysLoc**:: f. 74
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8951

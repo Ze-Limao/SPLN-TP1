@@ -1,0 +1,17 @@
+====== 98232 - DC - Prazo da Agra da Bouça que fez Ana Isabel de melo Pereira como tutora e administradora de João Machado Pereira Figueira, a João Gomes da freguesia da de S. Tiago Cruz. ======
+
+**Parent**:: 54471
+**RootParent**:: 31258
+**UnitTitle**:: Prazo da Agra da Bouça que fez Ana Isabel de melo Pereira como tutora e administradora de João Machado Pereira Figueira, a João Gomes da freguesia da de S. Tiago Cruz.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1769-11-09
+**UnitDateFinal**:: 1836-09-23
+**ScopeContent**:: Manuscrito com folhas cosidas numa "Pasta nº 3 Cazal Nº 6 C". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 12875 a CP 12958. Junto com CP 12891.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12891 - cx. 79
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98232

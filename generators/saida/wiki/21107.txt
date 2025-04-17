@@ -1,0 +1,22 @@
+====== 21107 - UI - Eduardo de Campos de Castro de Azevedo Soares ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Eduardo de Campos de Castro de Azevedo Soares
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-22
+**UnitDateFinal**:: 1921-07-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21107
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 359, 360, 361, 362, 363, 364
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21107
+
+===== Filhos =====
+  * [[25379.txt|25379 - DC - Carta]]
+  * [[25380.txt|25380 - DC - Carta]]
+  * [[25381.txt|25381 - DC - Carta]]
+  * [[25382.txt|25382 - DC - Carta]]
+  * [[25383.txt|25383 - DC - Carta]]
+  * [[25384.txt|25384 - DC - Carta]]

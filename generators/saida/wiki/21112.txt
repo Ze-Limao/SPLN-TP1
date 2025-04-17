@@ -1,0 +1,16 @@
+====== 21112 - UI - Fernando António de Nazaré de Almeida e Silva Saldanha ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Fernando António de Nazaré de Almeida e Silva Saldanha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-09-04
+**UnitDateFinal**:: 1921-09-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21112
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 418
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21112
+
+===== Filhos =====
+  * [[25462.txt|25462 - DC - Carta]]

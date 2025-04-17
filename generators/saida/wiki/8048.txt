@@ -1,0 +1,16 @@
+====== 8048 - DC - Termo de Maria Dolores Gonçalves ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Maria Dolores Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-08-06
+**UnitDateFinal**:: 1877-08-06
+**ScopeContent**:: Declaração para seu filho Boaventura Gonçalves ser considerado cidadão espanhol
+Nacionalidade - Espanhola
+Naturalidade - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8048
+**LangMaterial**:: Português
+**PhysLoc**:: f. 19
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8048

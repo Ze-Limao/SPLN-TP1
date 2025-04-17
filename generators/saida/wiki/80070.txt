@@ -1,0 +1,15 @@
+====== 80070 - UI - Processo nº 35 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 35
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-09-01
+**UnitDateFinal**:: 1979-12-18
+**ScopeContent**:: Junto com Auto de Execução com Processo nº 31, 32, 34, 36, Autos de Providência Cautelar Inominada nº 52, Autos de Embargos nº 52-A
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 79 - cx. 5
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80070

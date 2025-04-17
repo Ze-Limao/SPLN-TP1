@@ -1,0 +1,15 @@
+====== 24975 - UI - Mapas comparativos das contas 1943-1965 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Mapas comparativos das contas 1943-1965
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1943-03-30
+**UnitDateFinal**:: 1966-01-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24975
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 79
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24975

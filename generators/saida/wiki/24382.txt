@@ -1,0 +1,16 @@
+====== 24382 - DC - Registo do recenseamento eleitoral de Joaquim da Costa Rodrigues ======
+
+**Parent**:: 7880
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim da Costa Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1856-01-26
+**UnitDateFinal**:: 1856-01-26
+**ScopeContent**:: Freguesia - Delães e Oliveira S. Mateus
+Profissão - Lavrador
+Morada - Portela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24382
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24382

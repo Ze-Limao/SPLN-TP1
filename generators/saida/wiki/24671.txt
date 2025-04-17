@@ -1,0 +1,16 @@
+====== 24671 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-05-08
+**UnitDateFinal**:: 1903-05-08
+**ScopeContent**:: António Ferraz lamenta que as melhoras não sejam totais e dá conselhos médicos. Informa sobre os Gouvêas Ferrazes. Analisa elementos recolhidos por JAM na Casa das Hortas que não adiantarão muito sobre os Farias de Barcelos. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24671
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 173 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24671

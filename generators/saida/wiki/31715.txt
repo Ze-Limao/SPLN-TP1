@@ -1,0 +1,17 @@
+====== 31715 - DC - Carta ======
+
+**Parent**:: 31711
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-12-04
+**UnitDateFinal**:: 1914-12-06
+**ScopeContent**:: Carta manuscrita assinada, de S. Venâncio, Leiria, com envelope carimbado e selado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31715
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3539 - cx. 27
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31715

@@ -1,0 +1,16 @@
+====== 31111 - DC - Registo do recenseamento eleitoral de José Gomes Rodrigues ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Gomes Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Lavrador
+Morada - Cachada
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31111
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31111

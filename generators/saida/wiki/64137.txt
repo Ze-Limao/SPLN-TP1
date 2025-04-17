@@ -1,0 +1,17 @@
+====== 64137 - DC - Aniversário Douro e Jantar Casa de Camilo e Visita a Évora do Rotary V.N.Famalicão ======
+
+**Parent**:: 64131
+**RootParent**:: 60551
+**UnitTitle**:: Aniversário Douro e Jantar Casa de Camilo e Visita a Évora do Rotary V.N.Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2007-02-08
+**UnitDateFinal**:: 2007-02-22
+**ScopeContent**:: Contém fotos Aniversário Douro 2007-03; Jantar Casa de Camilo  (Libório). Visita RC a Évora.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 542 - cx. 21
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64137

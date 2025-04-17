@@ -1,0 +1,15 @@
+====== 66494 - DC - Licença para celebração de matrimónio para António de Paiva Gonçalves e de Maria, na freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Licença para celebração de matrimónio para António de Paiva Gonçalves e de Maria, na freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-04-26
+**UnitDateFinal**:: 1867-04-26
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul com selo fiscal colado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 521 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66494

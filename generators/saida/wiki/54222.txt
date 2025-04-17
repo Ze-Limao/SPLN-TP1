@@ -1,0 +1,17 @@
+====== 54222 - DC - Correspondência recebida e enviada e outros documentos relativos a processos de remodelação e ampliação da Câmara Municipal e Tribunal ======
+
+**Parent**:: 53753
+**RootParent**:: 25851
+**UnitTitle**:: Correspondência recebida e enviada e outros documentos relativos a processos de remodelação e ampliação da Câmara Municipal e Tribunal
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-10-27
+**UnitDateFinal**:: 1974-09-09
+**ScopeContent**:: Ofícios, faturas, processos, plantas relativos ao concurso de remodelação e ampliação dos serviços técnicos da Câmara Municipal, estudos de remodelação; rega por aspersão; obras no tribunal; impermeabilização da cobertura do edifício da câmara; envidraçados, reparação de avarias; ascensor da torre; fornecimento e mobiliário.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54222
+**LangMaterial**:: Português
+**PhysLoc**:: JG 176 - cx. 9
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54222

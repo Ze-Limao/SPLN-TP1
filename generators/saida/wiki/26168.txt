@@ -1,0 +1,16 @@
+====== 26168 - DC - Carta ======
+
+**Parent**:: 21239
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-09-29
+**UnitDateFinal**:: 1923-09-29
+**ScopeContent**:: Carta manuscrita assinada, de Soutelo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26168
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 963- cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26168

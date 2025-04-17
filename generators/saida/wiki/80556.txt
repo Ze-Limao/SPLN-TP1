@@ -1,0 +1,15 @@
+====== 80556 - UI - Processo nº 322 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 322
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-09-11
+**UnitDateFinal**:: 1976-10-01
+**ScopeContent**:: Junto com Autos de Embargos de Executado nº 322-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 200 - cx. 11
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80556

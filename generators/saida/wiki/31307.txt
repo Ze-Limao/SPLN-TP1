@@ -1,0 +1,15 @@
+====== 31307 - SSC - Eulália Estelita de Freitas Rangel de Quadros ======
+
+**Parent**:: 31303
+**RootParent**:: 31258
+**UnitTitle**:: Eulália Estelita de Freitas Rangel de Quadros
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1898-02-01
+**UnitDateFinal**:: 1924
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31307
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31307
+
+===== Filhos =====
+  * [[31310.txt|31310 - SR - Correspondência recebida]]
+  * [[60240.txt|60240 - SR - Documentos]]

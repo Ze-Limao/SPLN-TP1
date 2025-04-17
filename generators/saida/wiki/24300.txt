@@ -1,0 +1,16 @@
+====== 24300 - DC - Bilhete-postal ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-08-12
+**UnitDateFinal**:: 1921-08-12
+**ScopeContent**:: António Cabral refere que vai a Lisboa e que tratará do assunto. Postal manuscrito assinado, Granja.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24300
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 136 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24300

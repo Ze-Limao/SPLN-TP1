@@ -1,0 +1,15 @@
+====== 24972 - UI - Livro de caixa nº6 receitas e despesas ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Livro de caixa nº6 receitas e despesas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1954-01
+**UnitDateFinal**:: 1977
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24972
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 76
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24972

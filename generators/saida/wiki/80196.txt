@@ -1,0 +1,15 @@
+====== 80196 - UI - Processo nº 33 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 33
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-06-17
+**UnitDateFinal**:: 1977-04-12
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 33-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 93 - cx. 6
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80196

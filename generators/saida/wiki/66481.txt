@@ -1,0 +1,15 @@
+====== 66481 - DC - Procuração de Domingos Martins Gomes, Abade na paróquia da Igreja de Santa Eulália de Gondariz, concelho dos Arcos de Valdevez, ao Padre Bernardo coadjutor na freguesia de S. Tiago de Antas, para ser padrinho de filho de Bartolomeu e de Carolina Rosa, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Procuração de Domingos Martins Gomes, Abade na paróquia da Igreja de Santa Eulália de Gondariz, concelho dos Arcos de Valdevez, ao Padre Bernardo coadjutor na freguesia de S. Tiago de Antas, para ser padrinho de filho de Bartolomeu e de Carolina Rosa, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-04-24
+**UnitDateFinal**:: 1864-04-24
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 510 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66481

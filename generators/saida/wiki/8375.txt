@@ -1,0 +1,13 @@
+====== 8375 - DC - Ofício ======
+
+**Parent**:: 8374
+**RootParent**:: 8241
+**UnitTitle**:: Ofício
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-07-17
+**UnitDateFinal**:: 1895-07-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8375
+**LangMaterial**:: Português
+**PhysLoc**:: Arquivo Sousa Fernandes, Correspondência, 34, nº 98
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8375

@@ -1,0 +1,13 @@
+====== 7717 - UI - Livro de Notas Nº 33 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 33
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1967-01-21
+**UnitDateFinal**:: 1968-07-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7717
+**LangMaterial**:: Português
+**PhysLoc**:: 1.63
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7717

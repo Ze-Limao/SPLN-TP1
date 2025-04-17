@@ -1,0 +1,13 @@
+====== 9708 - DC - Ofício nº 55 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 55
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-08-16
+**UnitDateFinal**:: 1887-08-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9708
+**LangMaterial**:: Português
+**PhysLoc**:: f. 37
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9708

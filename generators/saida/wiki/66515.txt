@@ -1,0 +1,15 @@
+====== 66515 - DC - Licença de matrimónio de Joaquim Pereira de Oliveira com Joana Bezerra ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Licença de matrimónio de Joaquim Pereira de Oliveira com Joana Bezerra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-02-15
+**UnitDateFinal**:: 1862-02-15
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 540 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66515

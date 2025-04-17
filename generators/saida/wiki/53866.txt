@@ -1,0 +1,17 @@
+====== 53866 - DC - C.M.F. - P 46 - Pormenor da Escada de Acesso ao Arquivo da Secretaria da Câmara ======
+
+**Parent**:: 53747
+**RootParent**:: 25851
+**UnitTitle**:: C.M.F. - P 46 - Pormenor da Escada de Acesso ao Arquivo da Secretaria da Câmara
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1961
+**ScopeContent**:: Cópia de planta. Pormenores - Escalas: 1/20 e Tamanho Natural. Ver P47.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53866
+**LangMaterial**:: Português
+**PhysLoc**:: JG 86 - cx. 3
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53866

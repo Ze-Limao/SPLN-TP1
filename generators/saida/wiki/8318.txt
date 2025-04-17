@@ -1,0 +1,20 @@
+====== 8318 - UI - José da Silva Ferro ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: José da Silva Ferro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-01-01
+**UnitDateFinal**:: 1895-10-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8318
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.22
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8318
+
+===== Filhos =====
+  * [[8319.txt|8319 - DC - Carta]]
+  * [[8320.txt|8320 - DC - Carta]]
+  * [[8321.txt|8321 - DC - Carta]]
+  * [[8322.txt|8322 - DC - Carta]]
+  * [[8323.txt|8323 - DC - Carta]]

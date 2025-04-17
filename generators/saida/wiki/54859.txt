@@ -1,0 +1,17 @@
+====== 54859 - DC - Mappa geral da receita e despeza das provincias ultramarinas do anno economico 1884-1885 ======
+
+**Parent**:: 54476
+**RootParent**:: 31258
+**UnitTitle**:: Mappa geral da receita e despeza das provincias ultramarinas do anno economico 1884-1885
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-11-29
+**UnitDateFinal**:: 1884-12-13
+**ScopeContent**:: Recorte do Diário do Governo impresso página 3179 e 3180.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54859
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12842 - cx. 78
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54859

@@ -1,0 +1,15 @@
+====== 97702 - UI - Processo nº 167-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 167-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-10-03
+**UnitDateFinal**:: 1979-06-18
+**ScopeContent**:: Junto com Autos de Transgressão nº 167, Autos de Reclamação de Créditos nº 167-B, Autos de Reclamação de Créditos nº 167-B
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 445 - cx. 28
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97702

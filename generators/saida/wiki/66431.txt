@@ -1,0 +1,15 @@
+====== 66431 - DC - Resposta à petição o abade de S. Tiago de Antas João Soares de Brito ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Resposta à petição o abade de S. Tiago de Antas João Soares de Brito
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1657-03-03
+**UnitDateFinal**:: 1657-03-03
+**ScopeContent**:: Manuscrito, original, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 482 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66431

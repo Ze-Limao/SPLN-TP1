@@ -1,0 +1,16 @@
+====== 20329 - UI - Registo de correspondência recebida na Tesouraria ======
+
+**Parent**:: 20221
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida na Tesouraria
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1941-02-01
+**UnitDateFinal**:: 1961-10-11
+**ScopeContent**:: Termo de abertura impresso: “Hade servir este livro para nele se registar a correspondência recebida na Tesouraria Municipal…”
+Contém dados: nº de entrada, número do ofício, data do ofício, data da receção, designação da entidade expedidora, extracto do conteúdo, observações. Em 1941 tem 9 registos de entrada, em 1952 tem 1 entrada, em 1961 2 entradas. Tem só 3 folhas com registos.
+Contém: Ofício do Tribunal Privativo da 1ª Instância do Contencioso das C. e Impostos dirigido ao Tesoureiro da Fazenda Pública do Concelho de V.N. de Famalicão, 1961-10-11, 1 f.; papel. Ofício do Tribunal Privativo da 1ª Instância do Contencioso das C. e Impostos dirigido ao Tesoureiro da Fazenda Pública do Concelho de V.N. de Famalicão, 1961-07-04, 1 f.; papel. Cópia da Circular da Câmara Municipal dirigido ao Regedor da freguesia de…, 1943-08-12, 1 f. ; papel. Cópia da Circular da Câmara Municipal dirigido ao Regedor da freguesia de…, 1944-08-10, 1 f. ; papel . Ofício da Regisconta dirigido à tesouraria da Câmara Municipal de Vila Nova de Famalicão, 1962-07-05, 1 f.; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20329
+**LangMaterial**:: Português
+**PhysLoc**:: 1629
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20329

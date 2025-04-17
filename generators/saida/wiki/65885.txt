@@ -1,0 +1,15 @@
+====== 65885 - DC - Treslado do emprazamento de uma quinta e um casal, na freguesia de S.Miguel de Chorente (concelho de Barcelos), feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas e Álvaro Dias, raçoeiro da dita Igreja, a João Gabriel e a sua mulher Maria Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Treslado do emprazamento de uma quinta e um casal, na freguesia de S.Miguel de Chorente (concelho de Barcelos), feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas e Álvaro Dias, raçoeiro da dita Igreja, a João Gabriel e a sua mulher Maria Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1499-04-26
+**UnitDateFinal**:: 1499-04-26
+**ScopeContent**:: Manuscrito, original. Traslado do pergaminho CSTA 13.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 598 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65885

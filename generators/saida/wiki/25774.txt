@@ -1,0 +1,16 @@
+====== 25774 - DC - Bilhete-postal ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-12-10
+**UnitDateFinal**:: 1905-12-13
+**ScopeContent**:: Bilhete-postal manuscrito assinado e carimbado, de Génova. Cartolina Postale Italiana.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25774
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 706 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25774

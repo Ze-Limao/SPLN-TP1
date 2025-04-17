@@ -1,0 +1,16 @@
+====== 52561 - DC - Registo do recenseamento militar de Manuel de Araújo ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-11-09
+Filiação - Custódio de Araújo e Ana Fernandes
+Naturalidade - Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52561
+**LangMaterial**:: Português
+**PhysLoc**:: 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52561

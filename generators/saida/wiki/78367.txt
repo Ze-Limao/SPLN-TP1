@@ -1,0 +1,17 @@
+====== 78367 - DC - Requerimentos de Manuel Velho do Couto para a receção de 100 mil reis anuais que prestou ao Duque de Bragança o bispo de Cabo Verde ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Requerimentos de Manuel Velho do Couto para a receção de 100 mil reis anuais que prestou ao Duque de Bragança o bispo de Cabo Verde
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1686
+**UnitDateFinal**:: 1687
+**ScopeContent**:: Manuscrito com folhas cosidas,  numerado nº 2.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54363
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4983 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78367

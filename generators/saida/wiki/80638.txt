@@ -1,0 +1,15 @@
+====== 80638 - UI - Processo nº 43/80 ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 43/80
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-09-02
+**UnitDateFinal**:: 1982-02-29
+**ScopeContent**:: 2ª Secção. Junto com Autos de Execução Sumária nº 206, Autos de Execução Sumária nº 206-A e Autos de Transgressão nº 409/80.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 269 - cx. 14
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80638

@@ -1,0 +1,15 @@
+====== 66499 - DC - Licença para celebração de matrimónio de António Gonçalves com Camila de Sá Brandão ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Licença para celebração de matrimónio de António Gonçalves com Camila de Sá Brandão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-10-20
+**UnitDateFinal**:: 1864-10-20
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 525 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66499

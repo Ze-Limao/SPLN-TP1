@@ -1,0 +1,20 @@
+====== 21261 - UI - Francisco José da Rocha Martins ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco José da Rocha Martins
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21261
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1023, 1024, 1035, 1026
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21261
+
+===== Filhos =====
+  * [[27929.txt|27929 - DC - Carta]]
+  * [[27930.txt|27930 - DC - Carta]]
+  * [[27931.txt|27931 - DC - Carta]]
+  * [[27932.txt|27932 - DC - Carta]]

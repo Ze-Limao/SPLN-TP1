@@ -1,0 +1,19 @@
+====== 9472 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - António da Costa Araújo e Maria da Purificação
+Naturalidade - Lemenhe
+Data de nascimento - 1877-10-13
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - Lemenhe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9472
+**LangMaterial**:: Português
+**PhysLoc**:: f. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9472

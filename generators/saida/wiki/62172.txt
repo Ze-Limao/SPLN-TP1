@@ -1,0 +1,19 @@
+====== 62172 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Joaquim da Costa e Maria Alves, na freguesia
+Naturalidade - Gavião
+Morada - Outiz
+Data de nascimento - 1861-01-31
+Emprego - Criado de servir
+Estado - Outiz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62172

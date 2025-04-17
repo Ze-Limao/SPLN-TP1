@@ -1,0 +1,14 @@
+====== 99532 - UI - José Manuel dos Reis? ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: José Manuel dos Reis?
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-02-20
+**UnitDateFinal**:: 1917-02-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99532
+
+===== Filhos =====
+  * [[99533.txt|99533 - DC - Carta]]

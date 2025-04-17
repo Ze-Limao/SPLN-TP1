@@ -1,0 +1,20 @@
+====== 62315 - DC - Registo do recenseamento militar de Domingos ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Manuel Simões e Maria Ferreira, na freguesia
+Naturalidade - Arnoso Santa Eulália
+Morada - Ignora-se
+Data de nascimento - 1856-04-19
+Emprego - Estudante
+Estado - Solteiro
+Residência acidental - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 13v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62315

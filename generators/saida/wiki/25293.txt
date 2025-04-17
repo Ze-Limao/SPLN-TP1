@@ -1,0 +1,13 @@
+====== 25293 - UI - Recenseamento Militar aos 17 Anos ======
+
+**Parent**:: 25291
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Militar aos 17 Anos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-03-06
+**UnitDateFinal**:: 1913-03-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25293
+**LangMaterial**:: Português
+**PhysLoc**:: 5.6.2
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25293

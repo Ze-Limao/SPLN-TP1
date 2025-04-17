@@ -1,0 +1,25 @@
+====== 60550 - F - Daniel Rodrigues ======
+
+**Parent**:: 0
+**RootParent**:: 60550
+**UnitTitle**:: Daniel Rodrigues
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1890-06-21
+**UnitDateFinal**:: 1990
+**ScopeContent**:: Doação da família em 12 de novembro 1987 à Câmara Municipal de V.N. Famalicão. Fundo organizado em oito séries.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60550
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60550
+
+===== Filhos =====
+  * [[60924.txt|60924 - SR - Correspondência recebida]]
+  * [[60926.txt|60926 - SR - Documentos pessoais]]
+  * [[60927.txt|60927 - SR - Fotografias e desenhos]]
+  * [[60928.txt|60928 - SR - Cartas e diplomas]]
+  * [[60929.txt|60929 - SR - Livros e impressos]]
+  * [[60930.txt|60930 - SR - Recortes de imprensa e jornais]]
+  * [[60931.txt|60931 - SR - Documentos manuscritos e datilografados]]
+  * [[60932.txt|60932 - SR - Carimbos]]

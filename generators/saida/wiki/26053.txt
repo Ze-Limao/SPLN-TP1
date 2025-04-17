@@ -1,0 +1,16 @@
+====== 26053 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Júlio Brandão refere que o Museu de Seide está fechado e em obras e que se encontra doente. Carta manuscrita assinada, do Porto. Carta de 18 junho, sem menção ao ano. Papel timbrado "Câmara Municipal do Porto. Museu. Gabinete do Director".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26053
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 847 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26053

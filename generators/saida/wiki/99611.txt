@@ -1,0 +1,17 @@
+====== 99611 - DC - Plantas Americanas. Catalogo para 1907 a 1908 dos viveiros de Antonio Christino propretario-viticultor ======
+
+**Parent**:: 99380
+**RootParent**:: 60695
+**UnitTitle**:: Plantas Americanas. Catalogo para 1907 a 1908 dos viveiros de Antonio Christino propretario-viticultor
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Impresso. Um maço com muitos cartões. Catálogo das castas cultivadas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99390
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 206 - cx. 5
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99611

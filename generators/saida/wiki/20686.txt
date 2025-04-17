@@ -1,0 +1,20 @@
+====== 20686 - DC - Registo do recenseamento militar de Augusto ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Augusto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Antas
+Filiação - Francisco Maria José de Carvalho e Rosa Dias
+Naturalidade - Antas
+Data de nascimento - 1870-11-16
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20686
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20686

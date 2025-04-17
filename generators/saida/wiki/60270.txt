@@ -1,0 +1,17 @@
+====== 60270 - DC - Carta para Júlia Leonor, para seus pais e avó ======
+
+**Parent**:: 48477
+**RootParent**:: 31258
+**UnitTitle**:: Carta para Júlia Leonor, para seus pais e avó
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-08-23
+**UnitDateFinal**:: 1899-08-23
+**ScopeContent**:: Carta pelo aniversário de Júlia Leonor, enviada de Cascais em papel timbrado da casa. Carta assinada pelo Conde de Arnoso, Matilde Munró dos Anjos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48478
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3104 - cx. 24
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60270

@@ -1,0 +1,18 @@
+====== 49321 - DC - Registo do recenseamento eleitoral de Francisco Gomes Simões ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Gomes Simões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Sezures
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Igreja
+Idade - 25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49321
+**LangMaterial**:: Português
+**PhysLoc**:: 76v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49321

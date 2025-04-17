@@ -1,0 +1,15 @@
+====== 64176 - DC - Certidão de compra e venda que fez Josefa Baptista de Landim, e sua irmã Maria Josefa Baptista de Avidos, vendem certos bens, na freguesia de Avidos, a José Correia de Faria, negociante da cidade do Porto ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Certidão de compra e venda que fez Josefa Baptista de Landim, e sua irmã Maria Josefa Baptista de Avidos, vendem certos bens, na freguesia de Avidos, a José Correia de Faria, negociante da cidade do Porto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1844-09-25
+**UnitDateFinal**:: 1844-09-25
+**ScopeContent**:: Manuscrito em papel azul, pública-forma, folhas cosidas sem capa. O papel azul timbrado do “Tesouro Publico XL”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 254 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64176

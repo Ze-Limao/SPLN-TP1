@@ -1,0 +1,16 @@
+====== 26014 - DC - Carta ======
+
+**Parent**:: 21204
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-09-04
+**UnitDateFinal**:: 1923-09-04
+**ScopeContent**:: Carta manuscrita assinada, de Rua do Outeiro, Avanca.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26014
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 807 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26014

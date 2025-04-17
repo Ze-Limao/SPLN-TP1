@@ -1,0 +1,15 @@
+====== 21022 - DC - Contrato de compra e venda ======
+
+**Parent**:: 7706
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de compra e venda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1948-08-05
+**UnitDateFinal**:: 1948-08-05
+**ScopeContent**:: Venda de um terreno para construção na nova rua Vasconcelos e Castro
+Outorgante - Felisberto de Freitas Valentim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21022
+**LangMaterial**:: Português
+**PhysLoc**:: f. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21022

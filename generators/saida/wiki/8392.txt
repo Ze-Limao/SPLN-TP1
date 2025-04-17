@@ -1,0 +1,16 @@
+====== 8392 - UI - Gaspar Queirós Ribeiro ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Gaspar Queirós Ribeiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-04-20
+**UnitDateFinal**:: 1895-04-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8392
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.41
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8392
+
+===== Filhos =====
+  * [[8393.txt|8393 - DC - Carta]]

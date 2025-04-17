@@ -1,0 +1,16 @@
+====== 25433 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-11-25
+**UnitDateFinal**:: 1925-11-25
+**ScopeContent**:: Carta manuscrita assinada, de Coimbra. Papel timbrado da Universidade de Coimbra, Faculdade de Letras.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25433
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 412 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25433

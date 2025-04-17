@@ -1,0 +1,15 @@
+====== 60714 - DC - Emprazamento do casal do Monte e herdades, na freguesia de Custóias, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, a João Vaz e a sua mulher Margarida Anes ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal do Monte e herdades, na freguesia de Custóias, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, a João Vaz e a sua mulher Margarida Anes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1504-01-17
+**UnitDateFinal**:: 1504-01-17
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 15 - cx. P28
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60714

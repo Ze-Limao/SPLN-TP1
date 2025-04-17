@@ -1,0 +1,18 @@
+====== 50394 - DC - Registo do recenseamento militar de José António ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-06-03
+Filiação - Manuel de Oliveira e Ana de Oliveira
+Naturalidade - Arnoso Santa Maria
+Profissão - Mendigo
+Residência - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50394
+**LangMaterial**:: Português
+**PhysLoc**:: 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50394

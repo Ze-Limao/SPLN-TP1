@@ -1,0 +1,16 @@
+====== 28725 - DC - Carta ======
+
+**Parent**:: 28724
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-11-02
+**UnitDateFinal**:: 1908-11-02
+**ScopeContent**:: Carta expedida de Santo Tirso. Nota a lápis "tudo respondido".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28725
+**LangMaterial**:: Português
+**PhysLoc**:: AS 585 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28725

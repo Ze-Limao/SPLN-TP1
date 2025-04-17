@@ -1,0 +1,22 @@
+====== 32985 - UI - Abílio de Magalhães Brandão ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Abílio de Magalhães Brandão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1919-09-23
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32985
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32985
+
+===== Filhos =====
+  * [[32986.txt|32986 - DC - Cartão de visita]]
+  * [[32987.txt|32987 - DC - Cartão de visita]]
+  * [[32988.txt|32988 - DC - Cartão de visita]]
+  * [[32989.txt|32989 - DC - Cartão de visita]]
+  * [[56729.txt|56729 - DC - Carta de Gaspar Ribeiro Vilas a Abílio de Magalhães Brandão]]

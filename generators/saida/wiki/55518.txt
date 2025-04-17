@@ -1,0 +1,17 @@
+====== 55518 - DC - Carta para Visconde de Pindela ======
+
+**Parent**:: 56384
+**RootParent**:: 31258
+**UnitTitle**:: Carta para Visconde de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-12-08
+**UnitDateFinal**:: 1896-12-08
+**ScopeContent**:: Carta manuscrita assinada de Hamburgo, com envelope selado e carimbado para o Visconde de Pindela, Berlim, de assunto comercial. Junto com CP 2507 a CP 2525.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55518
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2512 - cx. 19
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55518

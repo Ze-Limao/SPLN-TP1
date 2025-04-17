@@ -1,0 +1,16 @@
+====== 31231 - DC - Registo do recenseamento eleitoral de Manuel do Couto ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel do Couto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Mogege
+Profissão - Almocreve
+Morada - Cornide
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31231
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 49v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31231

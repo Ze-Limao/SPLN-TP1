@@ -1,0 +1,16 @@
+====== 25640 - DC - Carta ======
+
+**Parent**:: 21178
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-03-05
+**UnitDateFinal**:: 1913-03-05
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25640
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 592 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25640

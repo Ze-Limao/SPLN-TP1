@@ -1,0 +1,18 @@
+====== 21455 - UI - José António da Cruz ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José António da Cruz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-02-20
+**UnitDateFinal**:: 1924-04-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21455
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1458, 1459, 1460
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21455
+
+===== Filhos =====
+  * [[30299.txt|30299 - DC - Carta]]
+  * [[30300.txt|30300 - DC - Carta]]
+  * [[30301.txt|30301 - DC - Carta]]

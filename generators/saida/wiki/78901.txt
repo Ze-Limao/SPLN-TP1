@@ -1,0 +1,17 @@
+====== 78901 - DC - Cartas da tia Murça, Maria José e Mariana depois da morte da irmã ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Cartas da tia Murça, Maria José e Mariana depois da morte da irmã
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885
+**UnitDateFinal**:: 1886
+**ScopeContent**:: Papel do maço com título manuscrito. Contém CP 7622 a CP 7629.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56654
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7621 - cx. 48
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78901

@@ -1,0 +1,20 @@
+====== 62956 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - António Correia de Figueiredo e Maria Veloso, ele na freguesia e ela falecida
+Naturalidade - Requião
+Morada - Ignora-se
+Data de nascimento - 1863-05-17
+Emprego - Caixeiro
+Estado - Solteiro
+Residência acidental - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62956

@@ -1,0 +1,15 @@
+====== 31345 - SSSC - Funções na Companhia dos Caminhos-de-Ferro do Norte de Portugal ======
+
+**Parent**:: 31331
+**RootParent**:: 31258
+**UnitTitle**:: Funções na Companhia dos Caminhos-de-Ferro do Norte de Portugal
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1927
+**UnitDateFinal**:: 1936-03-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31345
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31345
+
+===== Filhos =====
+  * [[31346.txt|31346 - SR - Documentos]]
+  * [[79083.txt|79083 - SR - Correspondência]]

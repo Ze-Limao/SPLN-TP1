@@ -1,0 +1,14 @@
+====== 30116 - DC - Afonso da Costa Rebelo ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Afonso da Costa Rebelo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-17
+**UnitDateFinal**:: 1974-10-17
+**ScopeContent**:: Regedor efetivo da freguesia de Cruz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30116
+**LangMaterial**:: Português
+**PhysLoc**:: f. 59
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30116

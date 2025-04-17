@@ -1,0 +1,16 @@
+====== 60595 - SR - Documentos ======
+
+**Parent**:: 31378
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1867-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31379
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60595
+
+===== Filhos =====
+  * [[60593.txt|60593 - DC - Pulaski´s Banner]]
+  * [[60594.txt|60594 - DC - Private exhibiton - Nepos Class]]
+  * [[60596.txt|60596 - DC - St. Marys College, Oscott Festival of St. Cecilia]]

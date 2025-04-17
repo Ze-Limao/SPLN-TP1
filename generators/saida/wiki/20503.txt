@@ -1,0 +1,20 @@
+====== 20503 - DC - Registo do recenseamento militar de Álvaro ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Álvaro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Landim
+Filiação - Francisco da Silva Pinheiro e Emília de Paiva
+Naturalidade - Landim
+Data de nascimento - 1869-01-11
+Emprego - Caixeiro
+Estado - Solteiro
+Residência - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20503
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20503

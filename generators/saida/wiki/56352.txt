@@ -1,0 +1,17 @@
+====== 56352 - DC - Lisboa 1909 - 1910 (cartas do Fernando sobre a quinta do Alto) ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Lisboa 1909 - 1910 (cartas do Fernando sobre a quinta do Alto)
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Manuscritos e impressos. Cartas de Fernando Lobo sobre a Quinta do Alto; Recibos do Real Colégio Militar relativo a João Afonso e de outras despesas; recortes de jornal; Contém 12533 (1) a 12533 (155).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56352
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12533 (1) a 12533 (155) - cx. 73
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56352

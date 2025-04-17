@@ -1,0 +1,14 @@
+====== 7775 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 4 ======
+
+**Parent**:: 7766
+**RootParent**:: 7651
+**UnitTitle**:: Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 4
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1696-10-08
+**UnitDateFinal**:: 1824-10-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7775
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF - cx. 1200
+depósito 1, estante 43
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7775

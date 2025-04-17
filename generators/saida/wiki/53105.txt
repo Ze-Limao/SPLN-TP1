@@ -1,0 +1,17 @@
+====== 53105 - DC - Carta para Viscondes ======
+
+**Parent**:: 32505
+**RootParent**:: 31258
+**UnitTitle**:: Carta para Viscondes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912-07-19
+**UnitDateFinal**:: 1912-07-19
+**ScopeContent**:: Carta manuscrita assinada, de Vigo. Papel timbrado "Vigo Continental Hotel...".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53105
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1661 - cx. 11
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53105

@@ -1,0 +1,16 @@
+====== 29474 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-04-24
+**UnitDateFinal**:: 1876-04-24
+**ScopeContent**:: Carta expedida de Lisboa?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29474
+**LangMaterial**:: Português
+**PhysLoc**:: AS 715 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29474

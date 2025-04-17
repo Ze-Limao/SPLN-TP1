@@ -1,0 +1,16 @@
+====== 25329 - DC - Elementos compilados dos seus livros de Actas da Direcção da Associação dos B.V. de Famalicão por Hilário Carvalho ======
+
+**Parent**:: 25019
+**RootParent**:: 20342
+**UnitTitle**:: Elementos compilados dos seus livros de Actas da Direcção da Associação dos B.V. de Famalicão por Hilário Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-02-23
+**UnitDateFinal**:: 1958-02-23
+**ScopeContent**:: Na capa depois do título "com o fim de publicação dum livro sobre os serviços dos Bombeiros V. de Famalicão." Cópia de atas a partir de 30 junho de 1890.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25329
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 122 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25329

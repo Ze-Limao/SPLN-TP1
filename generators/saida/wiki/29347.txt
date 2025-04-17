@@ -1,0 +1,16 @@
+====== 29347 - DC - 2º Pomada de precipitado branco ======
+
+**Parent**:: 29344
+**RootParent**:: 27963
+**UnitTitle**:: 2º Pomada de precipitado branco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-03-19
+**UnitDateFinal**:: 1909-03-19
+**ScopeContent**:: Assinado com local de Felgueiras.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29347
+**LangMaterial**:: Português
+**PhysLoc**:: AS 239 (2) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29347

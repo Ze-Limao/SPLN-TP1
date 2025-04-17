@@ -1,0 +1,20 @@
+====== 44989 - UI - Maria Emília de Saldanha e Castro ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria Emília de Saldanha e Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886-02-04
+**UnitDateFinal**:: 1887-03-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD44989
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=44989
+
+===== Filhos =====
+  * [[44990.txt|44990 - DC - Carta]]
+  * [[44991.txt|44991 - DC - Carta]]
+  * [[44992.txt|44992 - DC - Carta]]

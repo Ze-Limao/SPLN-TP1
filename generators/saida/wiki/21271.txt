@@ -1,0 +1,18 @@
+====== 21271 - UI - Aloisi Masella ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Aloisi Masella
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-11-11
+**UnitDateFinal**:: 1918-12-27
+**ScopeContent**:: Aloisi Masella foi padre e monsenhor diplomata da Nunciatura Apostólica, em Lisboa até 1918.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21271
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1115, 1116
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21271
+
+===== Filhos =====
+  * [[29706.txt|29706 - DC - Carta]]
+  * [[29707.txt|29707 - DC - Carta]]

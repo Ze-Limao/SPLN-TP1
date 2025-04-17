@@ -1,0 +1,19 @@
+====== 9516 - DC - Registo do recenseamento militar de Casimiro ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Casimiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Gomes da Costa e Maria Pinheiro da Costa
+Naturalidade - Mouquim
+Data de nascimento - 1877-04-30
+Profissão - Alfaiate
+Estado civil - Casado
+Residência - Cruz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9516
+**LangMaterial**:: Português
+**PhysLoc**:: f. 41v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9516

@@ -1,0 +1,15 @@
+====== 97529 - UI - Processo nº 214-B ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 214-B
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-02-03
+**UnitDateFinal**:: 1972-01-31
+**ScopeContent**:: Junto com Autos de Acção Emergente de Contrato de Trabalho Ordinário nº 20, Execução de Sentença nº 214-C, Autos de Execução por Custas nº 20-A, Autos de Habilitação de Herdeiros nº 20-A/68/69.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 350 - cx. 20
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97529

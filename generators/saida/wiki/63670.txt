@@ -1,0 +1,19 @@
+====== 63670 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Bernardino da Costa Macedo e Maria Joaquina
+Naturalidade - Louro
+Morada - Louro
+Data de nascimento - 1866-07-05
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63670

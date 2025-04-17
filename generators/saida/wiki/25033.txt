@@ -1,0 +1,16 @@
+====== 25033 - UI - Processo Obra Construção do Quartel de Bombeiros Voluntários de Famalicão ======
+
+**Parent**:: 20371
+**RootParent**:: 20342
+**UnitTitle**:: Processo Obra Construção do Quartel de Bombeiros Voluntários de Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1960-03-12
+**UnitDateFinal**:: 1968-02-28
+**ScopeContent**:: Contém: Apreciação de anteprojeto; auto de aberturas de propostas; autos de medição, correspondência com Ministério das Obras Públicas; orçamentos; planta, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25033
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 135 - cx. 34
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25033

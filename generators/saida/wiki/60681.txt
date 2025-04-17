@@ -1,0 +1,16 @@
+====== 60681 - DC - Livro de Conciliaçoens para a Freguezia de Ruivaens para o Anno de 1834 pª o de 1835 ======
+
+**Parent**:: 60680
+**RootParent**:: 60543
+**UnitTitle**:: Livro de Conciliaçoens para a Freguezia de Ruivaens para o Anno de 1834 pª o de 1835
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1835-01-09
+**UnitDateFinal**:: 1836-01-09
+**ScopeContent**:: Manuscrito. Livro encadernado a capas de cartão forradas a papel de fantasia, etiqueta com o título. No início: "Servirá este livro para o registo das Conciliaçoens, e mais termos necessarios no Juizo de Conciliação da Freguezia de Ruivaens, Commarca de Barcelos, e vai por mim numerado e rubricado com o cognome de que uzo. Freguezia de Ruivaens nove de Janeiro de Mil oitocentos e trinta e cinco. Bernardino Dias Alves Pimenta."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60676
+**LangMaterial**:: Português
+**PhysLoc**:: JPR - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60681

@@ -1,0 +1,19 @@
+====== 20162 - SR - Termos de fiança ao serviço militar ======
+
+**Parent**:: 20050
+**RootParent**:: 20048
+**UnitTitle**:: Termos de fiança ao serviço militar
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1868-12-31
+**UnitDateFinal**:: 1911-01-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20162
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20162
+
+===== Filhos =====
+  * [[20163.txt|20163 - UI - Termos de fiança ao serviço militar]]
+  * [[20164.txt|20164 - UI - Termos de fiança ao serviço militar]]
+  * [[20165.txt|20165 - UI - Termos de fiança ao serviço militar]]
+  * [[20166.txt|20166 - UI - Termos de fiança ao serviço militar]]
+  * [[20167.txt|20167 - UI - Termos de fiança ao serviço militar]]

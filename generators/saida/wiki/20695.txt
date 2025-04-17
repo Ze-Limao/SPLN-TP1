@@ -1,0 +1,20 @@
+====== 20695 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Antas
+Filiação - José Ferreira Marques e Ana Ferreira
+Naturalidade - Antas
+Data de nascimento - 1870-09-17
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20695
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20695

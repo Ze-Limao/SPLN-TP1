@@ -1,0 +1,15 @@
+====== 65772 - DC - Carta de sentença para celebração da escritura de emprazamento do terço dos casal do Eiral, situado na freguesia de S. Martinho de Brufe, feita por Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas, a José Ferreira ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Carta de sentença para celebração da escritura de emprazamento do terço dos casal do Eiral, situado na freguesia de S. Martinho de Brufe, feita por Luís de Moura Mendonça, abade da Igreja de S. Tiago de Antas, a José Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1805-10-19
+**UnitDateFinal**:: 1805-10-19
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 227 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65772

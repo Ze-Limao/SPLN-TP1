@@ -1,0 +1,20 @@
+====== 20383 - SSC - Serviço de ambulância ======
+
+**Parent**:: 20375
+**RootParent**:: 20342
+**UnitTitle**:: Serviço de ambulância
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1954-07-27
+**UnitDateFinal**:: 1986-04-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20383
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20383
+
+===== Filhos =====
+  * [[25068.txt|25068 - UI - Serviço de ambulância]]
+  * [[25069.txt|25069 - UI - Serviço de ambulância]]
+  * [[25070.txt|25070 - UI - Serviço de ambulância]]
+  * [[25071.txt|25071 - UI - Serviço de ambulância]]
+  * [[25072.txt|25072 - UI - Serviço de ambulância]]

@@ -1,0 +1,14 @@
+====== 30063 - DC - José de Castro Machado ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: José de Castro Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1967-05-29
+**UnitDateFinal**:: 1967-05-29
+**ScopeContent**:: Regedor efetivo da freguesia de Bairro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30063
+**LangMaterial**:: Português
+**PhysLoc**:: f. 32v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30063

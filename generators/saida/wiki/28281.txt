@@ -1,0 +1,15 @@
+====== 28281 - DC - Referências bibliográficas sobre Minerologia e Geologia ======
+
+**Parent**:: 28586
+**RootParent**:: 27963
+**UnitTitle**:: Referências bibliográficas sobre Minerologia e Geologia
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28281
+**LangMaterial**:: Português
+**PhysLoc**:: AS 139  - cx. 3
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28281

@@ -1,0 +1,52 @@
+====== 54470 - SR - Documentos ======
+
+**Parent**:: 31291
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1695-10-27
+**UnitDateFinal**:: 1762
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54470
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54470
+
+===== Filhos =====
+  * [[100681.txt|100681 - DC - Certidão de reconhecimento pedida por Vicente Pinheiro Lobo da Guerra sobre o Campo do Salgueiral, em Creixomil a Amaro Antunes e sua mulher]]
+  * [[100733.txt|100733 - DC - Provisão a Vicente Pinheiro Lobo da Guerra para se fazer o Tombo do Morgado de Pindela]]
+  * [[100734.txt|100734 - DC - Petição de Vicente Pinheiro Lobo e mulher relativa a uns campos da Castanheira, dos Chãos e da Junqueira, em Mouquim]]
+  * [[54270.txt|54270 - DC - Escritura de dinheiro a juros que deu Manuel Gomes Vilas Boas, de Vila Nova de Famalicão a Vicente Pinheiro da Figueira Lobo da Guerra da freguesia de S. Tiago da Cruz]]
+  * [[65668.txt|65668 - DC - Dizem D. Mariana Josefa de Castro, viúva de João Machado Fagundes e seu filho Vicente Pinheiro Lobo da Guerra, assistentes em sua Quinta de Pindela, termo desta vila, que querem fazer emprazar uma força a António Soares de Miranda pároco da Igreja de S. Salvador de Arnoso de Baixo]]
+  * [[65670.txt|65670 - DC - Relação de foros pagos]]
+  * [[77701.txt|77701 - DC - Escritura de dívida em que outorga D. Mariana Josefa de Castro e seu filho Vicente Pinheiro e Figueira Lobo da Guerra]]
+  * [[77866.txt|77866 - DC - Escritura de venda do prazo de Balazar que estava obrigado ao dote de Mariana Josefa de Castro]]
+  * [[78419.txt|78419 - DC - Sentença cível de Vicente Pinheiro e Figueira Lobo da Guerra contra a viúva e filhos de Veríssimo Machado Fagundes]]
+  * [[78528.txt|78528 - DC - Certidão pedida pelo Vicente Pinheiro Lobo da Guerra sobre caminheiros e a satisfação do legado de Pindela]]
+  * [[78531.txt|78531 - DC - Certidão pedida pelo Vicente Lobo da Guerra da penhora dos frutos e rendimentos em Guimarães]]
+  * [[78535.txt|78535 - DC - Requerimento apresentado por Vicente Pinheiro da Guerra na demanda com Veríssimo Machado Fagundes]]
+  * [[78536.txt|78536 - DC - Requerimento apresentado por Vicente Pinheiro da Guerra na demanda com Veríssimo Machado Fagundes]]
+  * [[78538.txt|78538 - DC - Requerimento de Vicente Pinheiro Lobo da Guerra numa demanda com João Rodrigues, da freguesia de São Tiago da Cruz]]
+  * [[78539.txt|78539 - DC - Certidão de nascimento de Paulo, filho de Vicente Pinheiro e Figueira Lobo da Guerra]]
+  * [[78545.txt|78545 - DC - Sentença a favor de Vicente Pinheiro Lobo da Guerra contra Veríssimo Machado Fagundes]]
+  * [[78548.txt|78548 - DC - Certidão de óbito de Veríssimo Machado Fagundes]]
+  * [[78550.txt|78550 - DC - Alegação de recurso e ação de alimentos proposta por Veríssimo Machado Fagundes contra Vicente Pinheiro Lobo da Guerra]]
+  * [[78630.txt|78630 - DC - Index dos morgados e prazos administrados pela Casa de Pindela]]
+  * [[78633.txt|78633 - DC - Certidão do prazo pedida por Mariana Josefa de Castro, viúva de João Machado Fagundes da Guerra sobre o casal da Justa, em Arnoso, feito a António Lopes e sua mulher Justa Fernandes]]
+  * [[78638.txt|78638 - DC - Autos cíveis entre Vicente Pinheiro da Figueira Lobo da Guerra contra António Gomes e mulher, de Jesufrei]]
+  * [[78640.txt|78640 - DC - Relação de documentos do arquivo de Pindela feito pelo Vicente Pinheiro Lobo da Guerra]]
+  * [[78664.txt|78664 - DC - Contrato de José de Carvalho, de Ribela, dinheiro a juros distratada, outorgando Maria Josefa de Castro e seu filho Vicente Pinheiro]]
+  * [[98187.txt|98187 - DC - Carta de Sentença cível de Vicente Pinheiro Machado da Guerra contra Manuel Carvalho e mulher sobre os bens de Soutelo]]
+  * [[98463.txt|98463 - DC - Confissão de simples colónia do Casal do Muro Mouquim]]
+  * [[98464.txt|98464 - DC - Sentença do autor Vicente Pinheiro Figueira Lobo contra Manuel de Azevedo, de Mouquim]]
+  * [[98538.txt|98538 - DC - Advertencias para se executar o manejo das Armas de infantrª e algumas evoluçoens da mesma]]
+  * [[98809.txt|98809 - DC - Escritura de nomeação que fez do prazo do Mosteiro de Arnozo D. Mariana Josefa de Castro a seu filho Vicente Pinheiro Lobo]]
+  * [[98812.txt|98812 - DC - Sentença contra Joaquim Vaz Viera relativa ao prazo do Mosteiro]]
+  * [[98824.txt|98824 - DC - Certidão de sentença que reconheceu direito a João Fagundes da Guerra do prazo de Arnoso]]
+  * [[98850.txt|98850 - DC - Instrumento a favor de Vicente Pinheiro Figueira contra Teresa Costa, de Mouquim, sobre o Campo do Grandal]]
+  * [[98851.txt|98851 - DC - Autos civeis contra Mariana Gomes Veloso da fregª de Mouquim]]
+  * [[98857.txt|98857 - DC - Autos de Vicente e réu Domingos Martins e mulher, do Campo do Gordigo em Sezures]]
+  * [[98861.txt|98861 - DC - Sentença cível de Vicente Pinheiro e Figueira Lobo da Guerra contra João Gomes, sobre Mariz]]
+  * [[98977.txt|98977 - DC - Autenticam Jerónimo Vaz Vieira de Mello, Alvim Pinto que Jerónimo Vaz Vieira comprou a João Machado Fagundes, morador na quinta de Pindela, de terras da sua quinta de S. Salvador de Arnoso, com o Padroado desta Igreja.]]
+  * [[99025.txt|99025 - DC - Pedido de certidão que Vicente Pinheiro e Figueira Lobo da Guerra, administrador do Morgado de Pindela, em como neste juízo corre um litígio com Jerónimo Vaz Vieira, da Vila de G. sobre este querer tomar posse do Prazo do Mosteiro de Arnoso em virtude de uma escritura de venda do prazo que dispôs o pai do suplicante]]
+  * [[99072.txt|99072 - DC - Dote e casamento que fazem Vicente Pinheiro Lobo da Guerra e sua mãe D. Marianna Josepha de Castro, desta freguesia de S. Tiado da Cruz, e D. Anna Maria Isabel de Mello Pereira de Sampaio filha legítima de Paulo Luís de Mello]]
+  * [[99073.txt|99073 - DC - Despensa e Sentença matrimonial a favor de Vicente Pinheiro e sua mulher D. Anna]]
+  * [[99074.txt|99074 - DC - Testamento de Vicente Pinheiro Lobo da Guerra]]

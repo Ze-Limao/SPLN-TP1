@@ -1,0 +1,17 @@
+====== 53069 - DC - Minuta de carta e telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 53061
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta e telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-08-10
+**UnitDateFinal**:: 1909-08-11
+**ScopeContent**:: Minuta de carta e telegrama manuscrita por Vicente. Esta carta está dentro do envelope "1909 Copias pertencentes ao Vicente. Questão de Thoratier. Importante".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53069
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12557 - cx. 75
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53069

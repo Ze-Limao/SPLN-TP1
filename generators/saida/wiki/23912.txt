@@ -1,0 +1,16 @@
+====== 23912 - DC - Registo do recenseamento eleitoral de Francisco Carvalho ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-03-04
+**UnitDateFinal**:: 1871-03-04
+**ScopeContent**:: Freguesia - Oliveira Santa Maria
+Profissão - Lavrador
+Morada - S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23912
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 92v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23912

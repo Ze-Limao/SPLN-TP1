@@ -1,0 +1,16 @@
+====== 29040 - DC - Carta ======
+
+**Parent**:: 29039
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-03-29
+**UnitDateFinal**:: 1904-03-29
+**ScopeContent**:: Carta expedida de Lisboa?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29040
+**LangMaterial**:: Português
+**PhysLoc**:: AS 651 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29040

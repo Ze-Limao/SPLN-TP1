@@ -1,0 +1,16 @@
+====== 28040 - DC - Carta de Alberto Sampaio ======
+
+**Parent**:: 28033
+**RootParent**:: 27963
+**UnitTitle**:: Carta de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-07-13
+**UnitDateFinal**:: 1864-07-13
+**ScopeContent**:: Carta expedida de Boamense? para José da Cunha Sampaio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28040
+**LangMaterial**:: Português
+**PhysLoc**:: AS 549 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28040

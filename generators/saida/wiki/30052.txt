@@ -1,0 +1,14 @@
+====== 30052 - DC - José Horácio Moreira de Carvalho ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: José Horácio Moreira de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-05-29
+**UnitDateFinal**:: 1962-05-29
+**ScopeContent**:: Regedor efetivo da freguesia de Mouquim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30052
+**LangMaterial**:: Português
+**PhysLoc**:: F. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30052

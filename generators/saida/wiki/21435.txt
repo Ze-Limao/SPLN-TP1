@@ -1,0 +1,16 @@
+====== 21435 - UI - Joaquim António Martins ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim António Martins
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-09-21
+**UnitDateFinal**:: 1903-09-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21435
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1423
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21435
+
+===== Filhos =====
+  * [[30271.txt|30271 - DC - Carta]]

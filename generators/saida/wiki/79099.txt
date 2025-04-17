@@ -1,0 +1,17 @@
+====== 79099 - DC - Ofício nº1800/037-1 ======
+
+**Parent**:: 79098
+**RootParent**:: 31258
+**UnitTitle**:: Ofício nº1800/037-1
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1937-07-19
+**UnitDateFinal**:: 1937-07-19
+**ScopeContent**:: Datilografado, assinado pelo Secretário Geral. Nota "Confidencial".  Na f. 2 Cópia do cadastro político de Joaquim Rodrigues.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58180
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8462 - cx. 52
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79099

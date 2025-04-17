@@ -1,0 +1,15 @@
+====== 65699 - DC - Emprazamento do casal de Fraião, situado na freguesia de S. Tiago de Antas, feita por Bernardo Silva, abade da Igreja de S. Tiago de Antas, a João Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Fraião, situado na freguesia de S. Tiago de Antas, feita por Bernardo Silva, abade da Igreja de S. Tiago de Antas, a João Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1595-04-05
+**UnitDateFinal**:: 1595-04-05
+**ScopeContent**:: Manuscrito, original. No canto superior esquerdo "Nº50"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 72 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65699

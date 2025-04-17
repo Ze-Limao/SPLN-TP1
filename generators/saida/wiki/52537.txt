@@ -1,0 +1,17 @@
+====== 52537 - DC - Registo do recenseamento militar de José Gomes ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1849-01-08
+Filiação - Manuel Joaquim Gomes e Ana Ferreira
+Naturalidade - Ribeirão
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52537
+**LangMaterial**:: Português
+**PhysLoc**:: 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52537

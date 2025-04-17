@@ -1,0 +1,15 @@
+====== 31363 - SSC - Vicente Miguel de Paula Pinheiro de Melo ======
+
+**Parent**:: 31362
+**RootParent**:: 31258
+**UnitTitle**:: Vicente Miguel de Paula Pinheiro de Melo
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1916-04-13
+**UnitDateFinal**:: 1916-08-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31363
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31363
+
+===== Filhos =====
+  * [[31365.txt|31365 - SR - Correspondência recebida]]
+  * [[54569.txt|54569 - SR - Documentos]]

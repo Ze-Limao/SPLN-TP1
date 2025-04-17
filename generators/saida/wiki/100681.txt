@@ -1,0 +1,17 @@
+====== 100681 - DC - Certidão de reconhecimento pedida por Vicente Pinheiro Lobo da Guerra sobre o Campo do Salgueiral, em Creixomil a Amaro Antunes e sua mulher ======
+
+**Parent**:: 54470
+**RootParent**:: 31258
+**UnitTitle**:: Certidão de reconhecimento pedida por Vicente Pinheiro Lobo da Guerra sobre o Campo do Salgueiral, em Creixomil a Amaro Antunes e sua mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1642-03-02
+**UnitDateFinal**:: 1642-03-02
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº 12 Cazal nº 120 H". Este documento estava na “Caixa 12”, que contém CP 13143 a CP 13169.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13154 - cx. 87
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100681

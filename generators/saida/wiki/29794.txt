@@ -1,0 +1,16 @@
+====== 29794 - DC - Carta ======
+
+**Parent**:: 21318
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-20
+**UnitDateFinal**:: 1882-02-20
+**ScopeContent**:: Carta manuscrita assinada, da Terra de Santa Maria de Abade de Vermoim. O autor solicita para deslocar os jazigos de João Esteves e mulher, morgados de Pouve, da Igreja de Abade de Vermoim para a casa de Pouve de que JAM é proprietário.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29794
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1203 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29794

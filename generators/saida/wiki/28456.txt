@@ -1,0 +1,16 @@
+====== 28456 - DC - Gomes Eanes na Crónica do Conde D. Pedro ======
+
+**Parent**:: 28452
+**RootParent**:: 27963
+**UnitTitle**:: Gomes Eanes na Crónica do Conde D. Pedro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Referências ao milho na Crónica do Conde D. Pedro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28456
+**LangMaterial**:: Português
+**PhysLoc**:: AS 66 (4) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28456

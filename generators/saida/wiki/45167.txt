@@ -1,0 +1,17 @@
+====== 45167 - DC - Carta ======
+
+**Parent**:: 45153
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-04-22
+**UnitDateFinal**:: 1921-04-22
+**ScopeContent**:: Carta manuscrita assinada. Junto com papel manuscrito CP 3868. Nota manuscrita "Respondi".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45167
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5021 - cx. 37
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45167

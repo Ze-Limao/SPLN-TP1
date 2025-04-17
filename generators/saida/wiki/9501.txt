@@ -1,0 +1,19 @@
+====== 9501 - DC - Registo do recenseamento militar de Augusto ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Augusto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Manuel Pereira Sampaio e Maria Miquelina da Conceição Teixeira
+Naturalidade - Lagoa
+Data de nascimento - 1875-10-26
+Profissão - Artista
+Estado civil - Solteiro
+Residência - Lagoa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9501
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9501

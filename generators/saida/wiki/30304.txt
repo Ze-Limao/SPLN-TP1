@@ -1,0 +1,16 @@
+====== 30304 - DC - Carta ======
+
+**Parent**:: 21458
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-02-03
+**UnitDateFinal**:: 1899-02-03
+**ScopeContent**:: Carta manuscrita e assinada, Rua S. Margarida.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30304
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1463 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30304

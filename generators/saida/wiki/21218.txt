@@ -1,0 +1,24 @@
+====== 21218 - UI - Júlio Dias da Costa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Júlio Dias da Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-04-27
+**UnitDateFinal**:: 1925-01-29
+**ScopeContent**:: Júlio Dias da Costa nasceu em 1878 e morreu em 1935. Foi um camilianista. Reuniu as obras de Camilo Castelo Branco em vários volumes "Dispersos de Camilo", publicados
+em 1925 e 1926, em Coimbra, pela Imprensa da Universidade. desempenhou funções de escrivão do Tribunal da relação de Lisboa e doi secretário (1912-13) do Ministro das Finanças, chefe de Gabinete 81917-18) do Ministro da Justiça.
+CASTELO BRANCO, Camilo, 1924-1926, Dispersos de Camilo, compilação e notas de Júlio Dias da Costa, Coimbra, Imprensa da Universidade, vols. I, II, III.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21218
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 868, 869, 870, 871, 872, 873
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21218
+
+===== Filhos =====
+  * [[26074.txt|26074 - DC - Carta]]
+  * [[26075.txt|26075 - DC - Carta]]
+  * [[26076.txt|26076 - DC - Carta]]
+  * [[26077.txt|26077 - DC - Carta]]
+  * [[26078.txt|26078 - DC - Carta]]
+  * [[26079.txt|26079 - DC - Carta]]

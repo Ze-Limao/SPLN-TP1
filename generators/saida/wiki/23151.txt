@@ -1,0 +1,16 @@
+====== 23151 - DC - Carta ======
+
+**Parent**:: 21040
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-12-31
+**UnitDateFinal**:: 1908-12-31
+**ScopeContent**:: Alberto Pinheiro Torres agradece a carta e diz que quando for a Braga avisa-o. Felicita pelo novo trabalho de propaganda e deseja que o filho Francisco também colabore. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23151
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 40 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23151

@@ -1,0 +1,16 @@
+====== 61390 - DC - O 5 de Outubro de 1937 ======
+
+**Parent**:: 60929
+**RootParent**:: 60550
+**UnitTitle**:: O 5 de Outubro de 1937
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1937-10-15
+**UnitDateFinal**:: 1937-10-15
+**ScopeContent**:: Documento impresso de autoria de Bernardino Machado. Separata do Unir.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 167 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61390

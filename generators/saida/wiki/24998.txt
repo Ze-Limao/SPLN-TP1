@@ -1,0 +1,15 @@
+====== 24998 - UI - Conselhos Disciplinares 1891 a 1934 ======
+
+**Parent**:: 20363
+**RootParent**:: 20342
+**UnitTitle**:: Conselhos Disciplinares 1891 a 1934
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-06-28
+**UnitDateFinal**:: 1934-07-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24998
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 195 - cx. 45
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24998

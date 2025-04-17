@@ -1,0 +1,18 @@
+====== 8715 - DC - Albino Carvalho de Araújo Rodrigues ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Albino Carvalho de Araújo Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-21
+**UnitDateFinal**:: 1890-08-21
+**ScopeContent**:: Grau - Elementar
+Idade - 16
+Filiação - Manuel Carvalho de Araújo
+Naturalidade - Louro
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8715
+**LangMaterial**:: Português
+**PhysLoc**:: f. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8715

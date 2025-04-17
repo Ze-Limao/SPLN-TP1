@@ -1,0 +1,16 @@
+====== 30278 - DC - Carta ======
+
+**Parent**:: 21444
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-05-02
+**UnitDateFinal**:: 1915-05-02
+**ScopeContent**:: Carta manuscrita e assinada, de R. de Quelhas, 67 3º. Papel timbrado "Liga Naval - Museu da Marinha - Secção de Oceonagraphia D. Carlos I. Direcção".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30278
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1437 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30278

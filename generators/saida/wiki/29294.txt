@@ -1,0 +1,16 @@
+====== 29294 - DC - Pintura sobre madeira ao ar livre ======
+
+**Parent**:: 29293
+**RootParent**:: 27963
+**UnitTitle**:: Pintura sobre madeira ao ar livre
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Transcrição em inglês de uma preparação para pintar madeira ao ar livre, publicada na revista «The World’s Work» (ver cartas Jaime de Magalhães Lima). No verso da folha surge a indicação de alguns factores de conversão do sistema métrico inglês para o sistema c.g.s., designadamente de galão para litro e de libra para grama.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29294
+**LangMaterial**:: Inglês
+**PhysLoc**:: AS 202 (1) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29294

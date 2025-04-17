@@ -1,0 +1,36 @@
+====== 31337 - SR - Correspondência recebida ======
+
+**Parent**:: 31336
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31337
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31337
+
+===== Filhos =====
+  * [[31403.txt|31403 - UI - Adelaide Brito do Rio Abreu]]
+  * [[56732.txt|56732 - UI - Maria José Albuquerque]]
+  * [[56739.txt|56739 - UI - Maria Lívia Ferrari Schindler]]
+  * [[56741.txt|56741 - UI - Fernando de Almeida Cardoso de Albuquerque]]
+  * [[56743.txt|56743 - UI - José de Brito]]
+  * [[56745.txt|56745 - UI - Vicente Miguel de Paula Pinheiro de Melo]]
+  * [[56748.txt|56748 - UI - João Afonso Simão Pinheiro Lobo de Figueira Machado]]
+  * [[56752.txt|56752 - UI - Carlos Gardé Alfaro Cardoso]]
+  * [[56754.txt|56754 - UI - Raul Augusto da Silva Guardado]]
+  * [[56756.txt|56756 - UI - Sebastião Lobo Pereira da Silva Cardoso de Meneses]]
+  * [[56758.txt|56758 - UI - José Joaquim da Costa Lima]]
+  * [[56760.txt|56760 - UI - Jacinto]]
+  * [[56762.txt|56762 - UI - Comissão de Senhoras do Porto]]
+  * [[56764.txt|56764 - UI - Francisco Mourão]]
+  * [[56766.txt|56766 - UI - Assinaturas não legíveis e sem assinatura]]
+  * [[56768.txt|56768 - UI - José Vasco Fonseca]]
+  * [[56771.txt|56771 - UI - E. Pinto Basto & Cª Lda.]]
+  * [[60814.txt|60814 - UI - Alberto Eça e Queirós]]
+  * [[63715.txt|63715 - UI - José Teixeira de Carvalho Magalhães Carneiro]]
+  * [[66826.txt|66826 - UI - Luís Polo de Bernabé]]
+  * [[79147.txt|79147 - UI - José Eça de Queirós]]
+  * [[79222.txt|79222 - UI - José Domingues de Oliveira]]
+  * [[79226.txt|79226 - UI - Tia (Maria Inácia Sousa Botelho Mourõ e Vasconcelos?)]]

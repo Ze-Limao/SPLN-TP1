@@ -1,0 +1,15 @@
+====== 21009 - DC - Nº 6/963 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 6/963
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1963-03-08
+**UnitDateFinal**:: 1963-03-08
+**ScopeContent**:: Contrato de arrendamento da loja exterior número um do Mercado Municipal
+Outorgante - Manuel José Rodrigues da Costa Vale
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21009
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 92
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21009

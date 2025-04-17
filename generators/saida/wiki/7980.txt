@@ -1,0 +1,14 @@
+====== 7980 - DC - Termo de António da Costa, Francisco José Gomes e José Joaquim da Costa Moreira ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António da Costa, Francisco José Gomes e José Joaquim da Costa Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1861-04-21
+**UnitDateFinal**:: 1861-04-21
+**ScopeContent**:: Fiança pela arrematação de alguns impostos municipais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7980
+**LangMaterial**:: Português
+**PhysLoc**:: f. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7980

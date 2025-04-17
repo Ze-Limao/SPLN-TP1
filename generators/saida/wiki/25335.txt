@@ -1,0 +1,16 @@
+====== 25335 - DC - Panfleto Arraial Minhoto ======
+
+**Parent**:: 25019
+**RootParent**:: 20342
+**UnitTitle**:: Panfleto Arraial Minhoto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1969-05-22
+**UnitDateFinal**:: 1969-05-22
+**ScopeContent**:: Os Bombeiros Voluntários de Famalicão organizam um arraial minhoto em comemoração do dia de Santo António. A festa ao santo tinha sido extinta e este arraial serve para reviver as festas Antoninas e dar nome à corporação. Impresso 1000 exemplares no Centro Gráfico de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25335
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 122 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25335

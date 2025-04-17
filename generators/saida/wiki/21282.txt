@@ -1,0 +1,16 @@
+====== 21282 - UI - Albino Belino ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Albino Belino
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-02-19
+**UnitDateFinal**:: 1901-02-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21282
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1131
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21282
+
+===== Filhos =====
+  * [[29722.txt|29722 - DC - Carta]]

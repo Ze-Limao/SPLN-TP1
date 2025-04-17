@@ -1,0 +1,16 @@
+====== 98604 - DC - Discurso lido na sessão de 7 de março da Liga Patriotica do Norte pelo seu presidente Anthero de Quental ======
+
+**Parent**:: 27975
+**RootParent**:: 27963
+**UnitTitle**:: Discurso lido na sessão de 7 de março da Liga Patriotica do Norte pelo seu presidente Anthero de Quental
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-03
+**UnitDateFinal**:: 1890-03
+**ScopeContent**:: Impresso. Em março 1890 publica-se em folha volante, mas não foi lido na sessão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29377
+**LangMaterial**:: Português
+**PhysLoc**:: AS 892 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98604

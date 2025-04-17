@@ -1,0 +1,15 @@
+====== 66511 - DC - Certidão de celebração de matrimónio de Manuel da Costa Sampaio com Margarida Rosa, da freguesia de S. Tiago de Antas pelo Arcebispo Primaz ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Certidão de celebração de matrimónio de Manuel da Costa Sampaio com Margarida Rosa, da freguesia de S. Tiago de Antas pelo Arcebispo Primaz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1852-11-30
+**UnitDateFinal**:: 1852-11-30
+**ScopeContent**:: Manuscrito, original, em papel azul XL 40 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 536 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66511

@@ -1,0 +1,20 @@
+====== 20666 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Cavalões
+Filiação - António Gonçalves Macedo e Rosa Ferreira
+Naturalidade - Cavalões
+Data de nascimento - 1868-10-30
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Gemunde
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20666
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20666

@@ -1,0 +1,20 @@
+====== 54214 - DC - Processo Concurso para o fornecimento e assentamento do mobiliário destinado às dependências reservadas no novo edifício dos Paços de concelho para a Biblioteca Municipal. Câmara Municipal de Vila Nova de Famalicão ======
+
+**Parent**:: 54200
+**RootParent**:: 25851
+**UnitTitle**:: Processo Concurso para o fornecimento e assentamento do mobiliário destinado às dependências reservadas no novo edifício dos Paços de concelho para a Biblioteca Municipal. Câmara Municipal de Vila Nova de Famalicão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-03-29
+**UnitDateFinal**:: 1961-04-21
+**ScopeContent**:: Contém proposta, propostas de Fábrica de móveis Magol, António Pereira da Costa, Lda.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54214
+**LangMaterial**:: Português
+**PhysLoc**:: JG 201 - cx. 15
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54214
+
+===== Filhos =====
+  * [[54236.txt|54236 - DC - Fatura da Fábrica de móveis Magol para a Biblioteca Municipal]]

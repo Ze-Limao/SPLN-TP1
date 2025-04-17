@@ -1,0 +1,14 @@
+====== 9941 - DC - Registo do pagamento a Silvério Ferreira de Macedo ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a Silvério Ferreira de Macedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-01-05
+**UnitDateFinal**:: 1882-01-05
+**ScopeContent**:: Aquisição de material de expediente para a secretaria da Câmara Municipal
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9941
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9941

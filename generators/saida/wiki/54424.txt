@@ -1,0 +1,16 @@
+====== 54424 - UI - José Vicente Barbosa do Bocage ======
+
+**Parent**:: 31323
+**RootParent**:: 31258
+**UnitTitle**:: José Vicente Barbosa do Bocage
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1884
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54424
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54424
+
+===== Filhos =====
+  * [[54425.txt|54425 - DC - Carta]]
+  * [[54442.txt|54442 - DC - Carta]]
+  * [[54443.txt|54443 - DC - Carta]]

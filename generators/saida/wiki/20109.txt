@@ -1,0 +1,28 @@
+====== 20109 - UI - Registo da correspondência expedida para os Regedores ======
+
+**Parent**:: 20108
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida para os Regedores
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-05-01
+**UnitDateFinal**:: 1917-12-06
+**ScopeContent**:: Termo de abertura: “Este livro tem de servir de copiador da correspondência expedida para os Termo de abertura: “Este livro tem de servir de copiador da correspondência expedida para os Regedores da parochia do concelho …”.
+O conteúdo da correspondência está resumido. 
+Contém: 
+Circular nº45 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Cidadão Regedor da freguesia de…, 1916-03-03, 1 f. impressa e colada; papel.
+Circular nº70 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Cidadão Regedor da freguesia de…, 1916-03-17, 1 f. impressa e colada; papel.
+Circular nº 81 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Snr. Regedor da freguesia de…, 1916-03-31, 1 f. impressa e colada; papel.
+Circular nº 196 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao “Cidadão Regedor da freguesia de…”, 1916-07-19, 1 f. impressa e colada; papel.
+Circular nº 205 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao “Cidadão Regedor da freguesia de…”, 1916-07-31, 1 f. impressa e colada; papel.
+Circular nº 263 do Administrador do Concelho de Vila Nova de Famalicão dirigida a todos os Regedores das freguesias do Concelho, 1916-09-09, 1 f. impressa colada; papel.
+Circular nº 352 do Administrador do Concelho de Vila Nova de Famalicão dirigida a todos os Regedores das freguesias do Concelho, 1916-11-16, 1 f. impressa colada; papel.
+Circular nº 30 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Cidadão Regedor da freguesia de…, 1917-02-09, 1 f. impressa colada; papel.
+Circular nº 132 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Snr. Regedor da freguesia de…,, 1917-04-24, 1 f. impressa colada; papel.
+Circular nº 139 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Snr. Regedor da freguesia de…,, 1917-05-04, 1 f. impressa colada; papel.
+Circular nº 417 do Administrador do Concelho de Vila Nova de Famalicão dirigida a todos os Regedores das freguesias do Concelho, 1917-11-07, 1 f. impressa colada; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20109
+**LangMaterial**:: Português
+**PhysLoc**:: AC 14
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20109

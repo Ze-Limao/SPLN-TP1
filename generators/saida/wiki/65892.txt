@@ -1,0 +1,15 @@
+====== 65892 - DC - Escritura de contrato de emprazamento perpétuo do campo de Carnido e da Ribeira, situado no Monte de S. Tiago, feita por Leandro Rodrigues Cardoso e sua mulher Domingas Gomes, do lugar do Pelhe, Calendário a António José Carvalho e a sua mulher Agostinha Maria Soares. Sub emprazamento de casas de Leandro Rodrigues Cardoso a Josefa Luísa, viúva da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de contrato de emprazamento perpétuo do campo de Carnido e da Ribeira, situado no Monte de S. Tiago, feita por Leandro Rodrigues Cardoso e sua mulher Domingas Gomes, do lugar do Pelhe, Calendário a António José Carvalho e a sua mulher Agostinha Maria Soares. Sub emprazamento de casas de Leandro Rodrigues Cardoso a Josefa Luísa, viúva da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1774-12-24
+**UnitDateFinal**:: 1776-01-05
+**ScopeContent**:: Manuscrito, original. A data 1776-01-05 é do segundo documento, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 606 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65892

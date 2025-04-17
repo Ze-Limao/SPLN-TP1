@@ -1,0 +1,15 @@
+====== 25834 - DC - Convite da Sociedade Columbófila de Famalicão para a II exposição Concelhia de Pombos Correios ======
+
+**Parent**:: 24763
+**RootParent**:: 20342
+**UnitTitle**:: Convite da Sociedade Columbófila de Famalicão para a II exposição Concelhia de Pombos Correios
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1971-01
+**UnitDateFinal**:: 1971-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25834
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 22 - cx. 5
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25834

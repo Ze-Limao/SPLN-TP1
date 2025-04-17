@@ -1,0 +1,11 @@
+====== 29581 - SR - 2002 ======
+
+**Parent**:: 29620
+**RootParent**:: 29618
+**UnitTitle**:: 2002
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 2002-01-01
+**UnitDateFinal**:: 2002-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29581
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29581

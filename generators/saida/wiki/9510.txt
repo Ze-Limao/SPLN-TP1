@@ -1,0 +1,19 @@
+====== 9510 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Manuel Mesquita da Costa e Maria Joaquina da Silva
+Naturalidade - Cavalões
+Data de nascimento - 1877-06-22
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - Cavalões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9510
+**LangMaterial**:: Português
+**PhysLoc**:: f. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9510

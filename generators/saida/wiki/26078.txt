@@ -1,0 +1,16 @@
+====== 26078 - DC - Carta ======
+
+**Parent**:: 21218
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-01-29
+**UnitDateFinal**:: 1925-01-29
+**ScopeContent**:: Júlio Dias Costa solicita uma obra que está no Museu de Seide e que consta do Camilo Homenageado para emprestar ao Ricardo Jorge. Carta manuscrita assinada. Papel carimbado "Relação de Lisboa. Escrivão Dias Costa. Morada R. de Heliodoro Salgado, 13,3º".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26078
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 872 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26078

@@ -1,0 +1,17 @@
+====== 99468 - UI - Reis & Lima ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Reis & Lima
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-04-17
+**UnitDateFinal**:: 1917-04-23
+**ScopeContent**:: Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99468
+
+===== Filhos =====
+  * [[99469.txt|99469 - DC - Bilhete-postal]]
+  * [[99485.txt|99485 - DC - Bilhete-postal]]
+  * [[99486.txt|99486 - DC - Bilhete-postal]]

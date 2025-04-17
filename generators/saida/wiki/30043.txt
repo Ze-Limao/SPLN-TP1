@@ -1,0 +1,14 @@
+====== 30043 - DC - Manuel da Costa Reis Ferreira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Manuel da Costa Reis Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1960-02-18
+**UnitDateFinal**:: 1960-02-18
+**ScopeContent**:: Regedor efetivo da freguesia de Lousado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30043
+**LangMaterial**:: Português
+**PhysLoc**:: f. 21
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30043

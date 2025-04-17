@@ -1,0 +1,14 @@
+====== 80009 - UI - Processo nº 61 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 61
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-12-05
+**UnitDateFinal**:: 1970-03-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 26 - cx. 2
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80009

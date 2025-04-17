@@ -1,0 +1,17 @@
+====== 55621 - DC - Modus Vivendi Commercial ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Modus Vivendi Commercial
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1905-11-27
+**UnitDateFinal**:: 1906-08-31
+**ScopeContent**:: Maço que contém 48 documentos: cópia de correspondência enviada, recorte de imprensa. Este documento está no envelope CP 12756, junto com CP 12757 a 12763.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55621
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12759 - cx. 77
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55621

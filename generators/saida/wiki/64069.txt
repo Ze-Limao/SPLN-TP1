@@ -1,0 +1,15 @@
+====== 64069 - DC - Recibo do secretário da Câmara Arquiepiscopal ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo do secretário da Câmara Arquiepiscopal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-04-18
+**UnitDateFinal**:: 1882-04-18
+**ScopeContent**:: Manuscrito e impresso. Recebidos e arquivados os assentos paroquiais de 1881, da freguesia de S. Tiago de Antas, na Câmara Eclesiástica do Arcebispado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 382 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64069

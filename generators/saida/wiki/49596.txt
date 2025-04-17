@@ -1,0 +1,18 @@
+====== 49596 - DC - Registo do recenseamento eleitoral de João Marcelino Rodrigues ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de João Marcelino Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Amanuense
+Estado - Solteiro
+Morada - Rua Direita
+Idade - 29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49596
+**LangMaterial**:: Português
+**PhysLoc**:: 91v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49596

@@ -1,0 +1,15 @@
+====== 66163 - DC - Colação (?) de Miguel Soares Pereira, clérigo beneficiário perpétuo paroquial igreja de S. Tiago de Antas ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Colação (?) de Miguel Soares Pereira, clérigo beneficiário perpétuo paroquial igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1626-06-26
+**UnitDateFinal**:: 1626-06-26
+**ScopeContent**:: Manuscrito, original, folhas cosidas com capa em branco.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Latim e Português
+**PhysLoc**:: CSTA 322 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66163

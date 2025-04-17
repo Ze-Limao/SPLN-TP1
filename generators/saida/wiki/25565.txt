@@ -1,0 +1,16 @@
+====== 25565 - DC - Carta ======
+
+**Parent**:: 21146
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-11-25
+**UnitDateFinal**:: 1917-11-25
+**ScopeContent**:: Carta manuscrita assinada, de R. de Quelhas, 81,2º Lisboa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25565
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1488 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25565

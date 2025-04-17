@@ -1,0 +1,18 @@
+====== 50669 - DC - Registo do recenseamento militar de José de Jesus ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José de Jesus
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 1842-10-02
+Filiação - 
+Naturalidade - Vila Nova de Famalicão
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50669
+**LangMaterial**:: Português
+**PhysLoc**:: 106v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50669

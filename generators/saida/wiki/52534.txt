@@ -1,0 +1,18 @@
+====== 52534 - DC - Registo do recenseamento militar de Gabriel dos Santos ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Gabriel dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-09-05
+Filiação - Joaquim Dias dos Santos e Ana Dias do Couto
+Naturalidade - Ribeirão
+Profissão - Lavrador
+Residência - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52534
+**LangMaterial**:: Português
+**PhysLoc**:: 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52534

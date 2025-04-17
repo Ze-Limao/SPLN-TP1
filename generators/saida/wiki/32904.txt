@@ -1,0 +1,17 @@
+====== 32904 - DC - Carta ======
+
+**Parent**:: 32802
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-09-08
+**UnitDateFinal**:: 1915-09-08
+**ScopeContent**:: Carta manuscrita assinada, de Mateus. Papel timbrado com monograma "B.V.". Esta carta pertence ao maço "1915".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32904
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7201 - cx. 47
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32904

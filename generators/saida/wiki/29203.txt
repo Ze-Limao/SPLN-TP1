@@ -1,0 +1,16 @@
+====== 29203 - DC - Plantação de Eucaliptos ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Plantação de Eucaliptos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-03
+**UnitDateFinal**:: 1879-03
+**ScopeContent**:: Identificação dos locais e variedades de uma plantação de eucaliptos na zona florestal da Quinta de Boamense.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29203
+**LangMaterial**:: Português
+**PhysLoc**:: AS 318 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29203

@@ -1,0 +1,19 @@
+====== 34301 - DC - Registo do recenseamento militar de Joaquim Sampaio ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Lagoa
+Data de nascimento - 1852-02-29
+Filiação - Tomás Sampaio e Teresa Moreira
+Profissão - Sapateiro
+Estado - Solteiro
+Morada - Lagoa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34301
+**LangMaterial**:: Português
+**PhysLoc**:: 92v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34301

@@ -1,0 +1,14 @@
+====== 9832 - SR - Livros de Atas das Sessões do Conselho Municipal ======
+
+**Parent**:: 7783
+**RootParent**:: 7651
+**UnitTitle**:: Livros de Atas das Sessões do Conselho Municipal
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1952-08-31
+**UnitDateFinal**:: 1974-04-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9832
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9832
+
+===== Filhos =====
+  * [[9833.txt|9833 - UI - Livro de Atas das Sessões do Conselho Municipal Nº 2]]

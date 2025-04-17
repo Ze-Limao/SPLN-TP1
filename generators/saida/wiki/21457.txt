@@ -1,0 +1,16 @@
+====== 21457 - UI - José Carlos Lopes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Carlos Lopes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1926-04-26
+**UnitDateFinal**:: 1926-04-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21457
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1462
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21457
+
+===== Filhos =====
+  * [[30303.txt|30303 - DC - Carta]]

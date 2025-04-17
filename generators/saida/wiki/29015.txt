@@ -1,0 +1,16 @@
+====== 29015 - DC - Carta ======
+
+**Parent**:: 29013
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-08-20
+**UnitDateFinal**:: 1906-08-20
+**ScopeContent**:: Carta expedida de Lisboa. Anexa à carta o rascunho da carta enviada por Alberto Sampaio com data de 11 de Agosto [1906] (AS 638).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29015
+**LangMaterial**:: Português
+**PhysLoc**:: AS 639 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29015

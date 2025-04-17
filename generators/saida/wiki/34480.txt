@@ -1,0 +1,19 @@
+====== 34480 - DC - Registo do recenseamento militar de Narciso ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Narciso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Pedome
+Data de nascimento - 1862-07-07
+Filiação - António Ferreira e Maria Sampaio
+Profissão - 
+Estado - 
+Morada - Riba de Ave
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34480
+**LangMaterial**:: Português
+**PhysLoc**:: 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34480

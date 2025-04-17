@@ -1,0 +1,16 @@
+====== 28173 - DC - Sobre a engarrafagem ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Sobre a engarrafagem
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Informações diversas sobre engarrafamento e rolhas. Relativamente ao engarrafamento, é dito que a capacidade total de uma garrafa de champagne é de 80 centilitros. Indica também a composição que o vinho deverá ter no ato do engarrafamento ao nível do teor de açúcar, grau alcoólico e ácidos livres, os quais, acrescenta influem de forma significativa no gosto do vinho e «portanto na dose do licor a ajuntar na expedição. À margem Alberto Sampaio anotou números de páginas de uma publicação, antecedidas de um M. Poderá tratar-se de Jules Maumené, autor cujas obras Sampaio consultava. Quanto às rolhas, a obra citada no engarrafamento, sobre a qual Aberto Sampaio não revela o título, continua a ser mencionada nesta parte, remetendo para o número das páginas. No essencial é referido que a rolha deve ser de «cortiça, de primeira qualidade: fina, flexível e sem fendas.»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28173
+**LangMaterial**:: Português
+**PhysLoc**:: AS 445 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28173

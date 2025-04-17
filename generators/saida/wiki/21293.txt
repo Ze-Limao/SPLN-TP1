@@ -1,0 +1,16 @@
+====== 21293 - UI - Ana José Guedes da Costa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Ana José Guedes da Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-20
+**UnitDateFinal**:: 1913-02-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21293
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1155
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21293
+
+===== Filhos =====
+  * [[29744.txt|29744 - DC - Carta]]

@@ -1,0 +1,15 @@
+====== 65816 - DC - Apegação, medição e confrontação do casal de Beiriz, situado na freguesia de Beiriz, concelho de Póvoa de Varzim, por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, que empraza a Manuel, filho de Manuel Gonçalves, com o consentimento de Bento Nunes, raçoeiro da Igreja de S. Tiago de Antas, a cujo benefício o casal pertencia ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal de Beiriz, situado na freguesia de Beiriz, concelho de Póvoa de Varzim, por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, que empraza a Manuel, filho de Manuel Gonçalves, com o consentimento de Bento Nunes, raçoeiro da Igreja de S. Tiago de Antas, a cujo benefício o casal pertencia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1691-02-03
+**UnitDateFinal**:: 1691-02-03
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. Para passar Carta de Vedoria.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 128 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65816

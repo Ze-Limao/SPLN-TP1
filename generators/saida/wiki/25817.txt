@@ -1,0 +1,16 @@
+====== 25817 - DC - Estudo para impressão do Livro de Registo das Condecorações recebidas pela AHBVF ======
+
+**Parent**:: 24751
+**RootParent**:: 20342
+**UnitTitle**:: Estudo para impressão do Livro de Registo das Condecorações recebidas pela AHBVF
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1954
+**UnitDateFinal**:: 1954
+**ScopeContent**:: Documento preparatório para imprimir o Livro de Registo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25817
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 10 - cx. 2
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25817

@@ -1,0 +1,15 @@
+====== 97692 - UI - Processo nº 526 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 526
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-11-06
+**UnitDateFinal**:: 1971-11-30
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 526-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 437 - cx. 27
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97692

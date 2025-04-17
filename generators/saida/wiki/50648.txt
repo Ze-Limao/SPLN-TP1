@@ -1,0 +1,18 @@
+====== 50648 - DC - Registo do recenseamento militar de Gaudêncio ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Gaudêncio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 1843-01-24
+Filiação - 
+Naturalidade - Bairro
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50648
+**LangMaterial**:: Português
+**PhysLoc**:: 99v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50648

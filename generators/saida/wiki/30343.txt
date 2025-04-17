@@ -1,0 +1,16 @@
+====== 30343 - DC - Árvore genealógica de Pedro Machado 3º senhor da quinta de Geraz na Póvoa de Lanhoso, Solar dos Machados, e de Joana, filha de Afonso Mendes de Pandorga? e sua descendência ======
+
+**Parent**:: 20336
+**RootParent**:: 20290
+**UnitTitle**:: Árvore genealógica de Pedro Machado 3º senhor da quinta de Geraz na Póvoa de Lanhoso, Solar dos Machados, e de Joana, filha de Afonso Mendes de Pandorga? e sua descendência
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Apontamentos manuscritos da investigação efetuada por António Ferraz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30343
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1537 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30343

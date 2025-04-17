@@ -1,0 +1,16 @@
+====== 21429 - UI - João Bento Leite Pereira ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Bento Leite Pereira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-05-19
+**UnitDateFinal**:: 1911-05-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21429
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1413
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21429
+
+===== Filhos =====
+  * [[30259.txt|30259 - DC - Carta]]

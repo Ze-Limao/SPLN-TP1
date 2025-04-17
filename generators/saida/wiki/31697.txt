@@ -1,0 +1,24 @@
+====== 31697 - UI - Joaquim Augusto Mouzinho de Albuquerque ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Joaquim Augusto Mouzinho de Albuquerque
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1900-06-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31697
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8184, 8336, 8337, 8338, 8339, 8340
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31697
+
+===== Filhos =====
+  * [[31512.txt|31512 - DC - Cartão de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31513.txt|31513 - DC - Carta]]
+  * [[31514.txt|31514 - DC - Carta]]
+  * [[31515.txt|31515 - DC - Carta]]
+  * [[31516.txt|31516 - DC - Carta]]
+  * [[31517.txt|31517 - DC - Carta]]
+  * [[31518.txt|31518 - DC - Carta]]

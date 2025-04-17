@@ -1,0 +1,15 @@
+====== 65905 - DC - Declaração de confrontação de terras em Lagoa ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Declaração de confrontação de terras em Lagoa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1500
+**UnitDateFinal**:: 1600
+**ScopeContent**:: Manuscrito, original. Documento em mau estado, sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 641 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65905

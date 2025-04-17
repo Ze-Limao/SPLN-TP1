@@ -1,0 +1,16 @@
+====== 8416 - UI - Astier de Villate ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Astier de Villate
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-04-16
+**UnitDateFinal**:: 1895-04-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8416
+**LangMaterial**:: Francês
+**PhysLoc**:: 3.5.52
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8416
+
+===== Filhos =====
+  * [[8417.txt|8417 - DC - Carta]]

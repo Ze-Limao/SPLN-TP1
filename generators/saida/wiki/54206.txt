@@ -1,0 +1,17 @@
+====== 54206 - DC - Guias e ofícios-requerimentos à Câmara em branco ======
+
+**Parent**:: 54200
+**RootParent**:: 25851
+**UnitTitle**:: Guias e ofícios-requerimentos à Câmara em branco
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961
+**UnitDateFinal**:: 1961-03-16
+**ScopeContent**:: 4 tipo de requerimentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54206
+**LangMaterial**:: Português
+**PhysLoc**:: JG 180(11) - cx. 13
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54206

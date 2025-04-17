@@ -1,0 +1,16 @@
+====== 26171 - DC - Carta ======
+
+**Parent**:: 21242
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-05-25
+**UnitDateFinal**:: 1925-05-25
+**ScopeContent**:: Carta manuscrita assinada, de Rua da Bandeirinha, 76 Porto. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26171
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 967- cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26171

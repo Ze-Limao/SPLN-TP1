@@ -1,0 +1,16 @@
+====== 28087 - SSSC - Participação no Congresso Vinícola do Palácio de Cristal ======
+
+**Parent**:: 28067
+**RootParent**:: 27963
+**UnitTitle**:: Participação no Congresso Vinícola do Palácio de Cristal
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1880
+**UnitDateFinal**:: 1880-02-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28087
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28087
+
+===== Filhos =====
+  * [[28091.txt|28091 - DC - Ofício da Comissão de Vinhos para organizar o Congresso Viticola de 2 a 7 maio de 1880 dirigido a Alberto Sampaio]]
+  * [[28092.txt|28092 - DC - Congresso Viticola que se hade realizar no Palacio de Crystal Portuense em Maio de 1880: Regulamento do Congresso]]
+  * [[28093.txt|28093 - DC - Programma para o Congresso Viticola que se há de realizar no Palacio de Crystal Portuense em Maio de 1880]]

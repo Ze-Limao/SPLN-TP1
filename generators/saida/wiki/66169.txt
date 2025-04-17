@@ -1,0 +1,15 @@
+====== 66169 - DC - Colação de Joaquim Manuel de Moura e Mendonça numa ração da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Colação de Joaquim Manuel de Moura e Mendonça numa ração da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1799-05-16
+**UnitDateFinal**:: 1799-05-16
+**ScopeContent**:: Manuscrito, original, sem capa. Selo timbrado. Atribuição de ração por falecimento do reverendo Monsenhor Luís Pedro de Brito Caldeira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 327 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66169

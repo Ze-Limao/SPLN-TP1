@@ -1,0 +1,15 @@
+====== 63991 - DC - Escritura de compra do casal de Fontelo, em Calendário, foreiro à Igreja de S. Tiago de Antas, que fez Rosa Joaquina de Oliveira, mulher de Joaquim José do Babo Machado moradora na freguesia de S. Pedro de Esmeriz, a Custódio Luís da Silva Leão, pela quantia de um conto e cem mil reis ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra do casal de Fontelo, em Calendário, foreiro à Igreja de S. Tiago de Antas, que fez Rosa Joaquina de Oliveira, mulher de Joaquim José do Babo Machado moradora na freguesia de S. Pedro de Esmeriz, a Custódio Luís da Silva Leão, pela quantia de um conto e cem mil reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1784-02-28
+**UnitDateFinal**:: 1784-02-28
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas. No canto superior esquerdo "L. 52 af. 42vº".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 205 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63991

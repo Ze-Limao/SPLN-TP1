@@ -1,0 +1,16 @@
+====== 99449 - UI - Manuel António Pinto de Resende ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Manuel António Pinto de Resende
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-01-10
+**UnitDateFinal**:: 1916-01-15
+**ScopeContent**:: Juiz de Direito em Marco de Canaveses.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99449
+
+===== Filhos =====
+  * [[99450.txt|99450 - DC - Cartão de visita]]
+  * [[99492.txt|99492 - DC - Carta]]

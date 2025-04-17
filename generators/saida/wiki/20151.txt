@@ -1,0 +1,15 @@
+====== 20151 - UI - Registo da correspondência recebida ======
+
+**Parent**:: 20133
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912-09-30
+**UnitDateFinal**:: 1914-06-12
+**ScopeContent**:: Não tem termo de abertura. Do ofício nº404/1912 ao nº167/1914. Contém dados: nº ordem ofício, data do ofício, data de entrada, designação da autoridade, extracto do seu conteúdo, expediente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20151
+**LangMaterial**:: Português
+**PhysLoc**:: AC 48
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20151

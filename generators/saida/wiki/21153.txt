@@ -1,0 +1,19 @@
+====== 21153 - UI - João Franco ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Franco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-12-30
+**UnitDateFinal**:: 1909-04-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21153
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 533, 534, 535
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21153
+
+===== Filhos =====
+  * [[25580.txt|25580 - DC - Carta para Vicente Pinheiro, 2º Visconde de Pindela]]
+  * [[25581.txt|25581 - DC - Carta]]
+  * [[25582.txt|25582 - DC - Carta]]

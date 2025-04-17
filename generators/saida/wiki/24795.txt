@@ -1,0 +1,15 @@
+====== 24795 - DC - Convite do Presidente da Câmara de V.N. de Famalicão para a inauguração do monumento ao Bombeiro Voluntário ======
+
+**Parent**:: 24774
+**RootParent**:: 20342
+**UnitTitle**:: Convite do Presidente da Câmara de V.N. de Famalicão para a inauguração do monumento ao Bombeiro Voluntário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1985-05
+**UnitDateFinal**:: 1985-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24795
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 33 - cx. 7
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24795

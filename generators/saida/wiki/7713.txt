@@ -1,0 +1,13 @@
+====== 7713 - UI - Livro de Notas Nº 29 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 29
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1959-11-03
+**UnitDateFinal**:: 1961-05-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7713
+**LangMaterial**:: Português
+**PhysLoc**:: 1.60
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7713

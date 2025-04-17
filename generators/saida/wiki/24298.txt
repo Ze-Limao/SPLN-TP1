@@ -1,0 +1,16 @@
+====== 24298 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-06-25
+**UnitDateFinal**:: 1921-06-25
+**ScopeContent**:: António Cabral agradece as palavras elogiosas acerca do seu livro “Terras longínquas”. Explicita melhor o que pretendeu com o livro. Carta manuscrita assinada, Lisboa, r. de S. Vicente à Guia - 45-2º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24298
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 134 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24298

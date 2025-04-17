@@ -1,0 +1,18 @@
+====== 46856 - DC - Registo do recenseamento eleitoral de Joaquim de Azevedo e Silva ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim de Azevedo e Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Ferreiros
+Idade - 28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46856
+**LangMaterial**:: Português
+**PhysLoc**:: 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46856

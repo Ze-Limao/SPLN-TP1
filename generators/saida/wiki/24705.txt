@@ -1,0 +1,16 @@
+====== 24705 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-03-01
+**UnitDateFinal**:: 1910-03-01
+**ScopeContent**:: António Ferraz comunica que tem pronto o trabalho e dá elementos sobre os Farias realizado com base no Nobiliário de Gayo. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24705
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 206 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24705

@@ -1,0 +1,16 @@
+====== 24834 - DC - Carta ======
+
+**Parent**:: 21075
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-11-13
+**UnitDateFinal**:: 1905-11-13
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Papel timbrado da Direcção Fiscal de Exploração de Caminhos de Ferro - Divisão Fiscal de Via e Obras. Esta carta continua o assunto sobre sobre a construção da linha de caminho-de-ferro do Porto para a Póvoa de Varzim que atravessa terrenos em Famalicão da posse de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24834
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 267 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24834

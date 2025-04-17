@@ -1,0 +1,36 @@
+====== 56384 - DC - Documentos comerciais da estadia em Berlim ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Documentos comerciais da estadia em Berlim
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Contém documentos CP 2507 a CP 2525.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56384
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56384
+
+===== Filhos =====
+  * [[55513.txt|55513 - DC - José Joaquim Vieira de Castro]]
+  * [[55514.txt|55514 - DC - F. Schneider & Co.]]
+  * [[55515.txt|55515 - DC - Notas sobre livros a adquirir]]
+  * [[55516.txt|55516 - DC - Carta de P. Henrion para Visconde de Pindela]]
+  * [[55517.txt|55517 - DC - Carta, panfleto e faturas]]
+  * [[55518.txt|55518 - DC - Carta para Visconde de Pindela]]
+  * [[55519.txt|55519 - DC - M. Lewin & Comp.]]
+  * [[55520.txt|55520 - DC - Notas sobre Monsieur le Kubler, professeur et directeur du Gymnase Royal de Guillaume Berlin]]
+  * [[55521.txt|55521 - DC - F. Hengstmann]]
+  * [[55522.txt|55522 - DC - Drº Von Walther-Sdersen]]
+  * [[55523.txt|55523 - DC - Jules Bister Chemesier de Paris]]
+  * [[55524.txt|55524 - DC - Passagier liste Hamburg Sud-Amerikanische]]
+  * [[55525.txt|55525 - DC - G. Heiniche]]
+  * [[55526.txt|55526 - DC - G. Heiniche]]
+  * [[55527.txt|55527 - DC - Heinr. Pfaff & Co.]]
+  * [[55529.txt|55529 - DC - R. Otto]]
+  * [[55530.txt|55530 - DC - Recibo]]
+  * [[55531.txt|55531 - DC - E. Bieber, C. Pietzner]]
+  * [[55532.txt|55532 - DC - Hengstamann]]

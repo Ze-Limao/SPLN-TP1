@@ -1,0 +1,15 @@
+====== 66564 - DC - Inventário de pagamentos de rações de casais de Frazães, Portela de Cima, Portela de Baixo, real, S. Cláudio, freguesia de Cabeçudos, Requião, S. Paio de Seide, Castelões, Avidos ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Inventário de pagamentos de rações de casais de Frazães, Portela de Cima, Portela de Baixo, real, S. Cláudio, freguesia de Cabeçudos, Requião, S. Paio de Seide, Castelões, Avidos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1700
+**UnitDateFinal**:: 1800
+**ScopeContent**:: Manuscrito, original, sem capa. O documento 426 tem título “2” e o 338 é continuação e tem título “3”. Documentos sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 582 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66564

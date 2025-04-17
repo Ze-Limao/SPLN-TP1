@@ -1,0 +1,14 @@
+====== 30093 - DC - Ernesto Ferreira de Oliveira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Ernesto Ferreira de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1973-10-30
+**UnitDateFinal**:: 1973-10-30
+**ScopeContent**:: Regedor efetivo da freguesia de Lemenhe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30093
+**LangMaterial**:: Português
+**PhysLoc**:: f. 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30093

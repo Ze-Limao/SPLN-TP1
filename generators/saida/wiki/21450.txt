@@ -1,0 +1,16 @@
+====== 21450 - UI - Joaquim Moniz ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Moniz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1932-11-30
+**UnitDateFinal**:: 1932-11-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21450
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1444
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21450
+
+===== Filhos =====
+  * [[30284.txt|30284 - DC - Carta]]

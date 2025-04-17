@@ -1,0 +1,16 @@
+====== 28155 - DC - 1903 Observações ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1903 Observações
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-09-21
+**UnitDateFinal**:: 1903-10-10
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Diversas informações sobre a vindima de 1903. Nas observações Alberto Sampaio anotou as condições climatéricas, dias de vindima, qualidade das uvas e produção em cestos de uvas vindimadas. Tabela com a indicação das castas, dias de observação da densidade, valores de densidades dos mostos registadas pelo gleucómetro Cadet de Vaux e ainda registo dos valores de temperatura à sombra. Anotações da mão-de-obra utilizada para vindimar, colheita de uvas expressa em número de cestos e cântaros de mosto em bruto e desemborrado: «Vindima do clarete no dia 25. Empregaram-se 6 mulheres e 1 homem, a vindimar e trazer as uvas e 2 no barracão. O Torquato não se empregou, porque esta doente dum [?]. Vindimaram 50 cestos, com 3 ½ da véspera = 53 ½. Desta totalidade, foram 3 ½ de bastardo, e quanto muito uns 7 cestos das outras qualidades, o resto, 43 cestos eram de Alvarelhão. Portanto o clarete deste ano pode-se julgar como feito desta última casta. Produto em vinho, ao sair das dornas = 32 alm.».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28155
+**LangMaterial**:: Português
+**PhysLoc**:: AS 428 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28155

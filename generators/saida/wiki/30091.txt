@@ -1,0 +1,14 @@
+====== 30091 - DC - Lino da Silva Couto ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Lino da Silva Couto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1972-10-18
+**UnitDateFinal**:: 1972-10-18
+**ScopeContent**:: Regedor substituto da freguesia de Brufe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30091
+**LangMaterial**:: Português
+**PhysLoc**:: f. 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30091

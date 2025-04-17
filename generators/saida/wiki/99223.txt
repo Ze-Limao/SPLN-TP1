@@ -1,0 +1,15 @@
+====== 99223 - SR - Uso e costumes ======
+
+**Parent**:: 99217
+**RootParent**:: 99217
+**UnitTitle**:: Uso e costumes
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1770-03-08
+**UnitDateFinal**:: 1816-07-25
+**ScopeContent**:: Relatos das práticas habituais da localidade de Gavião (Vila Nova de Famalicão).
+**Repository**:: Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99223
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99223
+
+===== Filhos =====
+  * [[99234.txt|99234 - DC - Livro de uzo e costumes desta igreja e fregª de S. Thiago de Gavião]]

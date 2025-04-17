@@ -1,0 +1,34 @@
+====== 32998 - UI - Fernando Teixeira Homem de Brederode ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Fernando Teixeira Homem de Brederode
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1889-02-25
+**UnitDateFinal**:: 1918-01-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32998
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32998
+
+===== Filhos =====
+  * [[32999.txt|32999 - DC - Carta]]
+  * [[33000.txt|33000 - DC - Carta]]
+  * [[33001.txt|33001 - DC - Carta]]
+  * [[33002.txt|33002 - DC - Carta]]
+  * [[33003.txt|33003 - DC - Bilhete-postal]]
+  * [[33004.txt|33004 - DC - Carta]]
+  * [[33005.txt|33005 - DC - Carta]]
+  * [[33006.txt|33006 - DC - Carta]]
+  * [[33007.txt|33007 - DC - Carta]]
+  * [[33008.txt|33008 - DC - Carta]]
+  * [[33009.txt|33009 - DC - Postal ilustrado para Viscondes]]
+  * [[33010.txt|33010 - DC - Bilhete-postal para Viscondes]]
+  * [[33011.txt|33011 - DC - Carta]]
+  * [[33012.txt|33012 - DC - Carta]]
+  * [[33013.txt|33013 - DC - Cartão]]
+  * [[33014.txt|33014 - DC - Postal ilustrado]]
+  * [[33015.txt|33015 - DC - Postal ilustrado]]

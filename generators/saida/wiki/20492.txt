@@ -1,0 +1,20 @@
+====== 20492 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Bairro
+Filiação - António de Araújo e Josefina Correia
+Naturalidade - Bairro
+Data de nascimento - 1870-09-16
+Emprego - Lavoura
+Estado - Solteiro
+Residência - Carreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20492
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20492

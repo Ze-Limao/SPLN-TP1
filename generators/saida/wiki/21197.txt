@@ -1,0 +1,18 @@
+====== 21197 - UI - José da Cunha Sampaio ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José da Cunha Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1896-06-08
+**UnitDateFinal**:: 1897-09-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21197
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 766, 767
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21197
+
+===== Filhos =====
+  * [[21912.txt|21912 - DC - Carta]]
+  * [[21919.txt|21919 - DC - Carta]]

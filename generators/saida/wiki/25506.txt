@@ -1,0 +1,16 @@
+====== 25506 - DC - Carro Mayback ======
+
+**Parent**:: 25083
+**RootParent**:: 20342
+**UnitTitle**:: Carro Mayback
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933-06-16
+**UnitDateFinal**:: 1933-06-16
+**ScopeContent**:: Nota datilografada na f. com a fotografia: "Desastre com o Maybach em 16 de Junho de 1933 guiado pelo Joaquim Fonseca. Embate com o carro do Snr. José Graça, de Braga. Houve julgamento do caso sendo o Fonseca condenado em um ano de prisão suspensa. A associação nada sofreu. O outro carro estava (Berliet) também avariado na ocasião. Foto na oficina do Fonseca." Assinado Hilário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25506
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 181 - cx. 46
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25506

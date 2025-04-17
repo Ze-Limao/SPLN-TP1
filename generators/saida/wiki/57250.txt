@@ -1,0 +1,17 @@
+====== 57250 - DC - Comissão de Viticultura. Archivo especial. Minha atitude depois que sahi da C .Executiva. Minha passagem à reserva como vogal concelhio ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Archivo especial. Minha atitude depois que sahi da C .Executiva. Minha passagem à reserva como vogal concelhio
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1934-06-13
+**UnitDateFinal**:: 1934-06-13
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes com 2 documentos: nota manuscrita e ofício datilografado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57250
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9517 - cx. 59
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57250

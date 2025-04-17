@@ -1,0 +1,18 @@
+====== 50734 - DC - Registo do recenseamento militar de Jacinto ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Jacinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-07-16
+Filiação - Domingos Barbosa e Ana de Sousa Machado
+Naturalidade - Bairro
+Profissão - Criado de servir
+Residência - Bairro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50734
+**LangMaterial**:: Português
+**PhysLoc**:: 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50734

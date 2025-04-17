@@ -1,0 +1,29 @@
+====== 29047 - UI - José Leite de Vasconcelos ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: José Leite de Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1906-06-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29047
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29047
+
+===== Filhos =====
+  * [[29048.txt|29048 - DC - Carta]]
+  * [[29551.txt|29551 - DC - Carta]]
+  * [[29552.txt|29552 - DC - Bilhete-postal]]
+  * [[29553.txt|29553 - DC - Bilhete-postal]]
+  * [[29554.txt|29554 - DC - Bilhete-postal]]
+  * [[29555.txt|29555 - DC - Carta]]
+  * [[29556.txt|29556 - DC - Bilhete-postal]]
+  * [[29557.txt|29557 - DC - Bilhete-postal]]
+  * [[29558.txt|29558 - DC - Bilhete-postal]]
+  * [[29559.txt|29559 - DC - Carta]]
+  * [[29560.txt|29560 - DC - Carta]]
+  * [[29561.txt|29561 - DC - Bilhete-postal]]
+  * [[29562.txt|29562 - DC - Bilhete-postal]]
+  * [[29563.txt|29563 - DC - Carta]]
+  * [[29564.txt|29564 - DC - Carta]]
+  * [[29565.txt|29565 - DC - Cartão de visita]]

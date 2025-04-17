@@ -1,0 +1,16 @@
+====== 21297 - UI - António de Abreu Guimarães ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António de Abreu Guimarães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1922-04-28
+**UnitDateFinal**:: 1922-04-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21297
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1164
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21297
+
+===== Filhos =====
+  * [[29754.txt|29754 - DC - Carta]]

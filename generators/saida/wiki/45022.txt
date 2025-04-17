@@ -1,0 +1,19 @@
+====== 45022 - UI - António Carvalho Rebelo de Meneses Teixeira de Sousa Cirne ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Carvalho Rebelo de Meneses Teixeira de Sousa Cirne
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-04-02
+**UnitDateFinal**:: 1920-01-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45022
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45022
+
+===== Filhos =====
+  * [[45023.txt|45023 - DC - Carta]]
+  * [[45024.txt|45024 - DC - Carta para Viscondes]]

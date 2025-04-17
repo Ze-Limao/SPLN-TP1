@@ -1,0 +1,18 @@
+====== 25833 - DC - Ofício da Sociedade Columbófila de Famalicão à Direção dos Bombeiros Voluntários ======
+
+**Parent**:: 24763
+**RootParent**:: 20342
+**UnitTitle**:: Ofício da Sociedade Columbófila de Famalicão à Direção dos Bombeiros Voluntários
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1971-01-30
+**UnitDateFinal**:: 1971-01-30
+**ScopeContent**:: Transcrição:
+Proteger o pombo-correio é defender um soldado ao serviço da Pátria.
+«Apresentando a V. Exas. os n/ respeitosos cumprimentos, vem a Direção desta Coletividade, em seu nome e de todos os Associados, agradecer a gentileza que tiveram em nos ceder os v/ magníficos salões para realização da n/ Exposição de Pombos Correios, que tanto êxito alcançou. / É com compreensão, com carinho, por tão simpáticas quão úteis aves que se pode fazer alguma coisa pelo engrandecimento do desporto a que nos dedicamos, desporto este dos chamados pobres, mas que, no entanto, não deixa de ser um dos mais puros e nobres...»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25833
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 22 - cx. 5
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25833

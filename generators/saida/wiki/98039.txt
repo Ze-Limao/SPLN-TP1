@@ -1,0 +1,15 @@
+====== 98039 - UI - Processo nº 596 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 596
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-12-10
+**UnitDateFinal**:: 1982-07-29
+**ScopeContent**:: Junto com Autos de Reclamação de Créditos nº 171-A e Auto de Execução por Custas nº 171.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 705 - cx. 39
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98039

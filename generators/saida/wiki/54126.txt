@@ -1,0 +1,17 @@
+====== 54126 - DC - Estrela do Minho, ano 61, nº3146 ======
+
+**Parent**:: 54108
+**RootParent**:: 25851
+**UnitTitle**:: Estrela do Minho, ano 61, nº3146
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1956-04-15
+**UnitDateFinal**:: 1956-04-15
+**ScopeContent**:: Contém publicação do Edital concurso público Construção do Edifício para Paços de Concelho, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54126
+**LangMaterial**:: Português
+**PhysLoc**:: JG 171(8) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54126

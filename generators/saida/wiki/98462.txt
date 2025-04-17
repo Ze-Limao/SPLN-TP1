@@ -1,0 +1,17 @@
+====== 98462 - DC - Certidão de foro em benefício de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Certidão de foro em benefício de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-05-20
+**UnitDateFinal**:: 1886-05-20
+**ScopeContent**:: Manuscrito em papel azul timbrado 80 reis. Junto com CP 12966(1). Documento da Conservatória de Registo Predial da Comarca de Vila Nova de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12966(2) - cx. 81
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98462

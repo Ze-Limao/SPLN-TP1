@@ -1,0 +1,13 @@
+====== 25304 - UI - Recenseamento Militar aos 17 Anos ======
+
+**Parent**:: 25291
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Militar aos 17 Anos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1925-03-15
+**UnitDateFinal**:: 1925-03-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25304
+**LangMaterial**:: Português
+**PhysLoc**:: 5.6.13
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25304

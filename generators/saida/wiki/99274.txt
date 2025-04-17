@@ -1,0 +1,16 @@
+====== 99274 - UI - Alipio Moutinho ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Alipio Moutinho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-01-21
+**UnitDateFinal**:: 1916-02-01
+**ScopeContent**:: Comissões e consignações, Rua Fernandes Tomás, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99274
+
+===== Filhos =====
+  * [[99275.txt|99275 - DC - Memorandum]]
+  * [[99445.txt|99445 - DC - Bilhete-postal]]

@@ -1,0 +1,16 @@
+====== 31361 - SR - Correspondência recebida ======
+
+**Parent**:: 31360
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1904-01
+**UnitDateFinal**:: 1930
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31361
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31361
+
+===== Filhos =====
+  * [[54565.txt|54565 - UI - António Cândido]]
+  * [[58770.txt|58770 - UI - Eulália Estelista Rangel de Quadros]]
+  * [[60399.txt|60399 - UI - Teresa Maria Pinheiro de Melo]]

@@ -1,0 +1,15 @@
+====== 60515 - UI - Maria Inácia de Sousa Botelho Mourão e Vasconcelos ======
+
+**Parent**:: 31370
+**RootParent**:: 31258
+**UnitTitle**:: Maria Inácia de Sousa Botelho Mourão e Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1843
+**UnitDateFinal**:: 1858
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31444
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60515
+
+===== Filhos =====
+  * [[60516.txt|60516 - DC - Carta]]
+  * [[60517.txt|60517 - DC - Minuta de carta]]

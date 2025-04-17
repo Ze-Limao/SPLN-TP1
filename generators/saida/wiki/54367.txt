@@ -1,0 +1,25 @@
+====== 54367 - SR - Documentos ======
+
+**Parent**:: 31316
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1869-07-12
+**UnitDateFinal**:: 1879
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54367
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54367
+
+===== Filhos =====
+  * [[54368.txt|54368 - DC - Apontamentos de leitura]]
+  * [[54370.txt|54370 - DC - Caderno de apontamentos com contas]]
+  * [[54371.txt|54371 - DC - Cadernos de apontamentos com contas]]
+  * [[54372.txt|54372 - DC - Caderno de apontamento de Ciências]]
+  * [[54373.txt|54373 - DC - Apontamentos de História]]
+  * [[54374.txt|54374 - DC - Apontamentos sobre o campo elétrico]]
+  * [[54375.txt|54375 - DC - Capa de couro sem caderno]]
+  * [[54880.txt|54880 - DC - Poema "Oh! meu Portugal!..." de Caetano Bragança]]
+  * [[54881.txt|54881 - DC - Cópia de carta dirigida ao Presidente do Conselho da Academia Dramática da Universidade de Coimbra]]
+  * [[54882.txt|54882 - DC - Cópia de uma petição de estudantes dirigida à Universidade de Coimbra]]
+  * [[54883.txt|54883 - DC - Versos "Aos annos do Exmo Sr. José Ribeiro da Cunha"]]
+  * [[54884.txt|54884 - DC - Poema]]

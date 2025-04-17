@@ -1,0 +1,18 @@
+====== 47166 - DC - Registo do recenseamento eleitoral de Vitorino Rodrigues Veloso ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Vitorino Rodrigues Veloso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vilarinho das Cambas
+Profissão - Lavrador
+Estado - Casado
+Morada - Igreja
+Idade - 53
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47166
+**LangMaterial**:: Português
+**PhysLoc**:: 70v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47166

@@ -1,0 +1,30 @@
+====== 55991 - DC - Maço Como e porque se deu a Grã-Cruz da Torre e Espada ao Conde de Bulow por ocasião da celebração do 2º centenário do Reino da Prússia em 18 de janeiro de 1901 ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço Como e porque se deu a Grã-Cruz da Torre e Espada ao Conde de Bulow por ocasião da celebração do 2º centenário do Reino da Prússia em 18 de janeiro de 1901
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1901
+**UnitDateFinal**:: 1901
+**ScopeContent**:: Maço que contém cópia de cartas e telegramas e cartas do Conselheiro Arroio a Vicente Almada, CP 14615 a CP 14625. Conselheiro Arroio é José Diogo Arroyo. Karl Wilhelm Paul von Bülow (Berlim, 24 de abril de 1846 - Berlim, 31 de agosto de 1921) foi um marechal-de-campo e comandante do segundo exército alemão durante a Primeira Guerra Mundial. Nascido em Berlim numa tradicional família prussiana, Bülow serviu na Guerra Austro-prussiana e na Guerra franco-prussiana. Era capitão do estado-maior em 1877 e foi promovido coronel, integrando o 9º regimento da infantaria de guarda em 1849. No ano de 1897 Bülow tornou-se diretor do departamento central do Ministério da Guerra. Comandou o 3º corpo-de-exército de 1903 até a sua indicação a oficial do terceiro exército alemão em 1912. 
+Ver CP 14538 a 14545.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55991
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14615 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55991
+
+===== Filhos =====
+  * [[55992.txt|55992 - DC - Minuta de carta]]
+  * [[55993.txt|55993 - DC - Minuta de carta]]
+  * [[55994.txt|55994 - DC - Minuta de carta]]
+  * [[55995.txt|55995 - DC - Minuta de carta]]
+  * [[55996.txt|55996 - DC - Minuta de carta]]
+  * [[55997.txt|55997 - DC - Minuta de carta]]
+  * [[55998.txt|55998 - DC - Minuta de carta]]
+  * [[55999.txt|55999 - DC - Minuta de carta]]
+  * [[56000.txt|56000 - DC - Minuta de carta]]
+  * [[56001.txt|56001 - DC - Minuta de carta]]

@@ -1,0 +1,31 @@
+====== 33878 - UI - Camilo Castelo Branco ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Camilo Castelo Branco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1872-10-28
+**UnitDateFinal**:: 1890
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33878
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33878
+
+===== Filhos =====
+  * [[33879.txt|33879 - DC - Carta]]
+  * [[33880.txt|33880 - DC - Carta]]
+  * [[33881.txt|33881 - DC - Carta]]
+  * [[33882.txt|33882 - DC - Carta]]
+  * [[33883.txt|33883 - DC - Carta]]
+  * [[33884.txt|33884 - DC - Carta]]
+  * [[33885.txt|33885 - DC - Carta]]
+  * [[33886.txt|33886 - DC - Carta]]
+  * [[33887.txt|33887 - DC - Carta]]
+  * [[33888.txt|33888 - DC - Carta]]
+  * [[33889.txt|33889 - DC - Carta]]
+  * [[33890.txt|33890 - DC - Carta]]
+  * [[33891.txt|33891 - DC - Carta]]
+  * [[33892.txt|33892 - DC - Varias cartas de C. Castello Branco]]

@@ -1,0 +1,17 @@
+====== 28260 - SR - Recensões a diversas obras ======
+
+**Parent**:: 28237
+**RootParent**:: 27963
+**UnitTitle**:: Recensões a diversas obras
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1906
+**UnitDateFinal**:: 1908-07-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28260
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28260
+
+===== Filhos =====
+  * [[28261.txt|28261 - DC - Recensão de Alberto Sampaio à obra de Adolf Schulten "Numantia: Eine topographisch-historische Untersuchung".]]
+  * [[28262.txt|28262 - DC - Recensão de Alberto Sampaio à obra de João Gomes de Oliveira Guimarães (Abade de Tagilde) Vimaranis Monumenta Historica: a saeculo nono post Christum usque ad vicesimum.]]
+  * [[29460.txt|29460 - DC - Recensão de Alberto Sampaio à obra de João Gomes de Oliveira Guimarães (Abade de Tagilde) Vimaranis Monumenta Historica: a saeculo nono post Christum usque ad vicesimum.]]
+  * [[29461.txt|29461 - DC - Recensão de Alberto Sampaio à obra de João Gomes de Oliveira Guimarães (Abade de Tagilde) Vimaranis Monumenta Historica: a saeculo nono post Christum usque ad vicesimum.]]

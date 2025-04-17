@@ -1,0 +1,21 @@
+====== 54111 - DC - Processo sobre o fornecimento de pedra e sobre as fundações das paredes ======
+
+**Parent**:: 54109
+**RootParent**:: 25851
+**UnitTitle**:: Processo sobre o fornecimento de pedra e sobre as fundações das paredes
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1956-10-03
+**UnitDateFinal**:: 1956-10-19
+**ScopeContent**:: Contém ofícios do empreiteiro Joaquim de Sousa para Presidente C.M.V.N.F. sobre a escolha da pedra para o edifício; documento sobre as fundações de paredes; cópia de planta C.M.V.N.F. Fundações, escala 1/20, Eng. Evangelista Rodrigues; ofício do arquiteto Januário Godinho a Presidente e parecer.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54111
+**LangMaterial**:: Português
+**PhysLoc**:: JG 172(3) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54111
+
+===== Filhos =====
+  * [[54230.txt|54230 - DC - Ofício de Joaquim Sousa dirigido ao Presidente da Câmara de V.N. de Famalicão]]
+  * [[54238.txt|54238 - DC - Ofício do arquiteto Januário Godinho a Presidente da Câmara Municipal V.N. Famalicão]]

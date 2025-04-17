@@ -1,0 +1,14 @@
+====== 60354 - UI - Mélanie Côrte-Real ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Mélanie Côrte-Real
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60354
+
+===== Filhos =====
+  * [[60355.txt|60355 - DC - Carta]]

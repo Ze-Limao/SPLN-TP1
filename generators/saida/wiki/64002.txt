@@ -1,0 +1,15 @@
+====== 64002 - DC - Certidão que confirma Pedro Alves como raçoeiro da Igreja de S. Tiago de Antas, passada por Luís Moura Mendonça, abade da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Certidão que confirma Pedro Alves como raçoeiro da Igreja de S. Tiago de Antas, passada por Luís Moura Mendonça, abade da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1798-12-07
+**UnitDateFinal**:: 1798-12-07
+**ScopeContent**:: Manuscrito, original, folhas cosidas. Papel timbrado "Causa Publica 5 reis".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 222 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64002

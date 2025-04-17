@@ -1,0 +1,9 @@
+====== 7764 - SSC - Inventário dos Bens ======
+
+**Parent**:: 7697
+**RootParent**:: 7651
+**UnitTitle**:: Inventário dos Bens
+**DescriptionLevel**:: SSC
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7764
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7764

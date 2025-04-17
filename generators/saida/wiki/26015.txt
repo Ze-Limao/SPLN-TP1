@@ -1,0 +1,16 @@
+====== 26015 - DC - Carta ======
+
+**Parent**:: 21205
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-08-31
+**UnitDateFinal**:: 1917-08-31
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26015
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 808 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26015

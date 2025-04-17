@@ -1,0 +1,15 @@
+====== 25052 - DC - Desastre rodoviário ocorrido na estrada Porto-Braga ======
+
+**Parent**:: 25046
+**RootParent**:: 20342
+**UnitTitle**:: Desastre rodoviário ocorrido na estrada Porto-Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1953-11-24
+**UnitDateFinal**:: 1953-11-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25052
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 148 - cx. 38
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25052

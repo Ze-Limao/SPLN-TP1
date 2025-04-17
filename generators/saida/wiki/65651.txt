@@ -1,0 +1,15 @@
+====== 65651 - DC - Manuel Correia Sampaio e sua mulher Josefa Maria Correia, moradores na freguesia de Avidos doam a seu filho Manuel José Correia de Sampaio, clérigo de ordens menores, parte do seu património, para ele receber as ordens sacras ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Manuel Correia Sampaio e sua mulher Josefa Maria Correia, moradores na freguesia de Avidos doam a seu filho Manuel José Correia de Sampaio, clérigo de ordens menores, parte do seu património, para ele receber as ordens sacras
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1783-03-07
+**UnitDateFinal**:: 1783-03-07
+**ScopeContent**:: Manuscrito, instrumento, sem capa, folhas cosidas. A doação era válida apenas no caso de a Igreja a que fosse colado, depois de ordenado, não ter rendimentos suficientes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 212 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65651

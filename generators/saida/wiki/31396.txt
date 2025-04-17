@@ -1,0 +1,20 @@
+====== 31396 - UI - Maria da Conceição Emauz Abranches ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Maria da Conceição Emauz Abranches
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-05-19
+**UnitDateFinal**:: 1918-04-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31396
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2038, CP 12012, CP 12038.
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31396
+
+===== Filhos =====
+  * [[31398.txt|31398 - DC - Cartão]]
+  * [[31400.txt|31400 - DC - Carta]]
+  * [[31401.txt|31401 - DC - Carta]]

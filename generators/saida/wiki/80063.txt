@@ -1,0 +1,15 @@
+====== 80063 - UI - Processo nº 44-B ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 44-B
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-01-20
+**UnitDateFinal**:: 1973-01-30
+**ScopeContent**:: Junto com Auto de Execução  com Processo Comum nº 44, Autos de Execução por Custas nº 44-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 74 - cx. 5
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80063

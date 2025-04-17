@@ -1,0 +1,19 @@
+====== 34231 - DC - Registo do recenseamento militar de José Pereira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Cruz
+Data de nascimento - 1852-11-07
+Filiação - Manuel José Pereira e Benta da Silva
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34231
+**LangMaterial**:: Português
+**PhysLoc**:: 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34231

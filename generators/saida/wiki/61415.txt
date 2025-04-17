@@ -1,0 +1,16 @@
+====== 61415 - DC - Doutor Caturra especialista em doenças da língua…portuguesa ======
+
+**Parent**:: 60930
+**RootParent**:: 60550
+**UnitTitle**:: Doutor Caturra especialista em doenças da língua…portuguesa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-07
+**UnitDateFinal**:: 1911-07
+**ScopeContent**:: Gravura impressa do Varões assinalados. Valença, Nº44, ano 2.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 197 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61415

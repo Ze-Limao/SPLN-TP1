@@ -1,0 +1,15 @@
+====== 32464 - UI - Vicente Pinheiro Lobo Machado de Melo e Almada, 2º Visconde de Pindela ======
+
+**Parent**:: 31379
+**RootParent**:: 31258
+**UnitTitle**:: Vicente Pinheiro Lobo Machado de Melo e Almada, 2º Visconde de Pindela
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-07-25
+**UnitDateFinal**:: 1891-07-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32464
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32464
+
+===== Filhos =====
+  * [[32465.txt|32465 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[32466.txt|32466 - DC - Bilhete-postal]]

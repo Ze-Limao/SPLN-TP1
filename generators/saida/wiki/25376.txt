@@ -1,0 +1,16 @@
+====== 25376 - DC - Carta ======
+
+**Parent**:: 21106
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882
+**UnitDateFinal**:: 1917
+**ScopeContent**:: Carta manuscrita assinada Duarte Huet.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25376
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 356 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25376

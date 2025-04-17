@@ -1,0 +1,16 @@
+====== 23797 - DC - Registo do recenseamento eleitoral de José Diogo da Silva ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Diogo da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Sapateiro
+Morada - Rua Direita
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23797
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 86v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23797

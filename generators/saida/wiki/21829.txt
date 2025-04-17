@@ -1,0 +1,16 @@
+====== 21829 - DC - Registo do recenseamento eleitoral de António da Silva Lobo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António da Silva Lobo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Bente
+Profissão - Lavrador
+Morada - Cabo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21829
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21829

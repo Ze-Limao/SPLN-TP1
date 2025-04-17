@@ -1,0 +1,38 @@
+====== 31258 - F - Arquivo Casa de Pindela ======
+
+**Parent**:: 0
+**RootParent**:: 31258
+**UnitTitle**:: Arquivo Casa de Pindela
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1538-03
+**UnitDateFinal**:: 1980-05-28
+**ScopeContent**:: O Arquivo Casa de Pindela está organizado em 15 gerações da família. Organizado por secções, subsecções, séries e ordenado cronologicamente dentro das mesmas. Fazem parte deste sistema outros subsistemas de famílias: António Machado da Guerra e Ana Fagundes de Mendanha; Casa Refalcão; Condes de Arnoso; Casa de Vila Real; Braamcamp de Almeida Castelo-Branco; Rangel e Quadros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31258
+**LangMaterial**:: Português, Latim, Francês, Alemão, Inglês, Castelhano, etc.
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31258
+
+===== Filhos =====
+  * [[31259.txt|31259 - SC - Luís de Carvalho e Beatriz de Almeida]]
+  * [[31262.txt|31262 - SC - Simão Pinheiro e Leonor Almeida e Helena Dias]]
+  * [[31267.txt|31267 - SC - Ana Pinheiro e Manuel Figueira]]
+  * [[31272.txt|31272 - SC - Miguel Pinheiro Figueira]]
+  * [[31275.txt|31275 - SC - Baltazar Pinheiro Lobo e Maria Fagundes Portocarreiro]]
+  * [[31278.txt|31278 - SC - José Pinheiro Lobo]]
+  * [[31281.txt|31281 - SC - Baltasar Pinheiro Lobo]]
+  * [[31284.txt|31284 - SC - Veríssimo Pinheiro Lobo]]
+  * [[31287.txt|31287 - SC - João Machado Fagundes da Guerra Pinheiro e Figueira e Mariana Josefa de Castro]]
+  * [[31290.txt|31290 - SC - Vicente Pinheiro e Figueira Lobo da Guerra e Ana Maria Isabel de Melo Pereira de Sampaio]]
+  * [[31295.txt|31295 - SC - João Machado de Melo Pinheiro e Figueira e Maria Angélica Rita Pinto Pereira de Magalhães e Gouveia]]
+  * [[31300.txt|31300 - SC - Vicente Machado de Melo Pinheiro e Carlota Carolina Correia de Morais Leite de Almada]]
+  * [[31303.txt|31303 - SC - João Machado Pinheiro Correia de Melo e Maria do Carmo Cardoso de Meneses Barreto e Eulália Estelita de Freitas Rangel de Quadros]]
+  * [[31312.txt|31312 - SC - Vicente Pinheiro Lobo Machado de Melo e Almada e Maria Amália de Sousa Botelho Mourão e Vasconcelos]]
+  * [[31330.txt|31330 - SC - João Afonso Simão Pinheiro Lobo de Figueira Machado e Margarida Helena Cardoso Martins de Meneses e suas irmãs Júlia Leonor Pinheiro Machado de Melo, Grácia Maria Eulália Pinheiro de Melo]]
+  * [[31347.txt|31347 - SF - António Machado da Guerra e Ana Fagundes de Mendanha]]
+  * [[31350.txt|31350 - SF - Casa de Refalcão]]
+  * [[31354.txt|31354 - SF - Condes de Arnoso]]
+  * [[31367.txt|31367 - SF - Casa de Vila Real]]
+  * [[31385.txt|31385 - SF - Braamcamp de Almeida Castelo-Branco]]
+  * [[31392.txt|31392 - SF - Rangel de Quadros]]

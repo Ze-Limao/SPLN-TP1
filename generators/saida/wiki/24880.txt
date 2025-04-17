@@ -1,0 +1,16 @@
+====== 24880 - DC - Carta ======
+
+**Parent**:: 21082
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-05-20
+**UnitDateFinal**:: 1903-05-20
+**ScopeContent**:: Carta manuscrita assinada, de Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24880
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 313 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24880

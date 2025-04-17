@@ -1,0 +1,17 @@
+====== 53968 - SR - Correspondência para outros familiares de JAM ======
+
+**Parent**:: 20290
+**RootParent**:: 20290
+**UnitTitle**:: Correspondência para outros familiares de JAM
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1919-04-07
+**UnitDateFinal**:: 1919-04-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53968
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53968
+
+===== Filhos =====
+  * [[21036.txt|21036 - UI - Alberto Osório de Castro]]
+  * [[54068.txt|54068 - UI - Gustavo de Matos Sequeira e Figueiredo da Fonseca]]

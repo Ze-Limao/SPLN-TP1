@@ -1,0 +1,16 @@
+====== 24657 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-03-07
+**UnitDateFinal**:: 1899-03-07
+**ScopeContent**:: António Ferraz informa sobre dados genealógicos sobre a família Mariz Pinheiro, nomeadamente Pedro Mariz Pinheiro (Pedro de Barcelos). Carta manuscrita assinada, Barcelinhos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24657
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 158 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24657

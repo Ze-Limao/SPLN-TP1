@@ -1,0 +1,18 @@
+====== 49561 - DC - Registo do recenseamento eleitoral de António José da Gama ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António José da Gama
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Oficial
+Estado - Casado
+Morada - Rua Direita
+Idade - 58
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49561
+**LangMaterial**:: Português
+**PhysLoc**:: 89v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49561

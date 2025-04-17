@@ -1,0 +1,15 @@
+====== 80073 - UI - Processo nº 52 ======
+
+**Parent**:: 80072
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 52
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-07-29
+**UnitDateFinal**:: 1979-12-18
+**ScopeContent**:: Junto com Auto de Execução com Processo nº 31, 32, 34, 35, 36, Autos de Embargos nº 52-A
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 81 - cx. 5
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80073

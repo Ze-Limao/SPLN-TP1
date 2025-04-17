@@ -1,0 +1,15 @@
+====== 66484 - DC - Pedido de licença dos mesários da Confraria da Nossa Senhora da freguesia de S. Tiago de Antas, para fazer festa à mesma Senhora com exposição e procissão ao cruzeiro ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença dos mesários da Confraria da Nossa Senhora da freguesia de S. Tiago de Antas, para fazer festa à mesma Senhora com exposição e procissão ao cruzeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-12-07
+**UnitDateFinal**:: 1883-12-07
+**ScopeContent**:: Manuscrito, original, em papel azul timbrado “60 reis” com selo colado. Em baixo o deferimento do Abade da freguesia de Gavião.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 512 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66484

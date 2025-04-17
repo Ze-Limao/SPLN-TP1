@@ -1,0 +1,17 @@
+====== 45186 - DC - Cartão de visita ======
+
+**Parent**:: 45180
+**RootParent**:: 31258
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921
+**UnitDateFinal**:: 1921
+**ScopeContent**:: Cartão de visita do casal manuscrito, sem datação. Esta carta pertence ao maço “Últimas cartas de varias pessoas que o meu querido Pai recebeu”. Cartão de pêsames.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45186
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3973 - cx. 29
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45186

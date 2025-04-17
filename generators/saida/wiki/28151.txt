@@ -1,0 +1,16 @@
+====== 28151 - DC - Vindima de 1900  Densidade dos mostos ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vindima de 1900  Densidade dos mostos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-09-12
+**UnitDateFinal**:: 1900-10-07
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Diversas informações sobre a vindima de 1900. Observações diversas referentes à produção, dias de vindima e condições climatéricas verificadas durante a vindima. No canto superior esquerdo, uma anotação curiosa sobre a correspondência dos graus do gleucómetro Cadet de Vaux e os graus Baumé: «Os graus do gleuco-oenometro Cadet de Vaux são os mesmos de Baumé (v. Maumené pg. 551) Q. à correspondência das densidades, expressas pelo densímetro, e a quantidade de açúcar, segundo os graus do Gleuco-oenometro V. Ibid. Tabela pg. 553, e pg. 302 a 307.» Tabela com a indicação das castas e valores de densidades dos mostos registadas pelo gleucómetro Cadet de Vaux.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28151
+**LangMaterial**:: Português
+**PhysLoc**:: AS 424 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28151

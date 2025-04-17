@@ -1,0 +1,24 @@
+====== 61456 - SR - Documentos multimédia ======
+
+**Parent**:: 61191
+**RootParent**:: 60551
+**UnitTitle**:: Documentos multimédia
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1968
+**UnitDateFinal**:: 2020
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61456
+
+===== Filhos =====
+  * [[61457.txt|61457 - DC - Toward a Better World]]
+  * [[61831.txt|61831 - DC - Foundation for Understanding]]
+  * [[61832.txt|61832 - DC - Drº Alcino Cardoso]]
+  * [[61833.txt|61833 - DC - Humanidade em Ação / Rotary International]]
+  * [[61834.txt|61834 - DC - We are the Guardians / Rotary International]]
+  * [[61835.txt|61835 - DC - Rotary e a Juventude em movimento – XIII Conferência Distrito 1970 em Guimarães]]
+  * [[61836.txt|61836 - DC - Jovens Líderes em ação. Registo fotográfico]]
+  * [[61837.txt|61837 - DC - A Prova Quádrupla]]
+  * [[61838.txt|61838 - DC - Governadoria 2004-05 Distrito 1970]]
+  * [[61839.txt|61839 - DC - Resumo das Emendas propostas Conselho de Legislação de 2001/Rotary International]]
+  * [[61840.txt|61840 - DC - Nosso lema é servir]]

@@ -1,0 +1,16 @@
+====== 25691 - DC - Carta ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-05-11
+**UnitDateFinal**:: 1902-05-11
+**ScopeContent**:: Carta manuscrita assinada, de Génova.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25691
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 641 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25691

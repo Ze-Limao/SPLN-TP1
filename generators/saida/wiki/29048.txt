@@ -1,0 +1,16 @@
+====== 29048 - DC - Carta ======
+
+**Parent**:: 29047
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-01-06
+**UnitDateFinal**:: 1892-01-06
+**ScopeContent**:: Carta expedida do Baixo Douro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29048
+**LangMaterial**:: Português
+**PhysLoc**:: AS 656 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29048

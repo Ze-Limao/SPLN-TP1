@@ -1,0 +1,17 @@
+====== 25409 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-03-26
+**UnitDateFinal**:: 1915-03-26
+**ScopeContent**:: Eugénio de Castro refere o incêndio da Casa de Camilo e a necessidade de reconstrução. refere ainda a genealogia dos Pinheiros.
+Carta manuscrita assinada, de Coimbra. 35, rua do Norte. Papel timbrado da Universidade de Coimbra, Faculdade de Letras.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25409
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 388 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25409

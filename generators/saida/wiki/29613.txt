@@ -1,0 +1,11 @@
+====== 29613 - SSR - Ciclo de Concertos de Ano Novo - Banda Famalicão ======
+
+**Parent**:: 29596
+**RootParent**:: 29618
+**UnitTitle**:: Ciclo de Concertos de Ano Novo - Banda Famalicão
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 2017-01-07
+**UnitDateFinal**:: 2017-01-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29613
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29613

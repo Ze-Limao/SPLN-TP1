@@ -1,0 +1,18 @@
+====== 29458 - SSSC - Companhia do Caminho de Ferro de Guimarães ======
+
+**Parent**:: 28068
+**RootParent**:: 27963
+**UnitTitle**:: Companhia do Caminho de Ferro de Guimarães
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1886-02-18
+**UnitDateFinal**:: 1886-02-18
+**ScopeContent**:: Companhia do Caminho de Ferro de Guimarães − constituída por decreto de 18 de Agosto de 1880, recebeu a concessão feita pelo Governo por decreto de 16 de Abril de 1879 a António de Moura Soares Veloso e ao visconde da Ermida, da construção e exploração da Linha de Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29458
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29458
+
+===== Filhos =====
+  * [[28077.txt|28077 - DC - Ofício da Companhia do Caminho de Ferro de Guimarães.]]
+  * [[28078.txt|28078 - DC - Ofício da Companhia do Caminho de Ferro de Guimarães.]]

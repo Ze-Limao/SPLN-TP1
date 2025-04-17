@@ -1,0 +1,16 @@
+====== 28914 - DC - Cartão ======
+
+**Parent**:: 28913
+**RootParent**:: 27963
+**UnitTitle**:: Cartão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903
+**UnitDateFinal**:: 1903
+**ScopeContent**:: Cartão com timbre da "Real Bibliotheca Publica Municipal do Porto."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28914
+**LangMaterial**:: Português
+**PhysLoc**:: AS 634 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28914

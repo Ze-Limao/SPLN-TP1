@@ -1,0 +1,16 @@
+====== 28520 - DC - Pelo doc. publ. por J. P. Ribeiro ======
+
+**Parent**:: 28507
+**RootParent**:: 27963
+**UnitTitle**:: Pelo doc. publ. por J. P. Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Anotações a lápis. «[…] dos nossos portos se comerciava activamente com a Inglaterra, Holanda, Flandres e França. Em toda a província vendiam-se fazendas provenientes desses países, as quais eram importadas por via de mar e trocadas por outras, produzidas aqui […]. / Este comércio com o norte era feito em grande parte diretamente pelos próprios burgueses do Porto e por isso devemos supor que os navios lhes pertencessem; sabemos que em França andavam muitos portugueses excomungados desde Sancho II, pois pela composição de 1248, o bispo Pedro Salvadores ficou de providenciar sobre a sua absolvição. / A venda dos artigos estrangeiros subentendia um trabalho local correlativo, de modo que os produtos importados pudessem ser pagos por equivalentes de produção interna, sendo os pagamentos a dinheiro proibidos com todo o rigor.». Referência bibliográfica: O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923, pp. 386-387.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28520
+**LangMaterial**:: Português
+**PhysLoc**:: AS 90 (13) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28520

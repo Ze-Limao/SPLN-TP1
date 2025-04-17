@@ -1,0 +1,17 @@
+====== 98805 - DC - Prazo de Montalvão do Mosteiro de Arnoso que fez a Camara de Villa Nova de Famalicão a João Machado de Mello Pinheiro Figueira ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Prazo de Montalvão do Mosteiro de Arnoso que fez a Camara de Villa Nova de Famalicão a João Machado de Mello Pinheiro Figueira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1836-02-04
+**UnitDateFinal**:: 1836-02-20
+**ScopeContent**:: Manuscrito com folhas cosidas em papel timbrado "Causa publica 40 reis". "Pasta nº 6 Cazal 37 Q". Este documento estava na “Caixa 6”, que contém CP 12997 a CP 13016. Junto com CP 13001.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13000 - cx. 83
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98805

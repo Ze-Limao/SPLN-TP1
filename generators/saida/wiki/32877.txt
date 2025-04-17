@@ -1,0 +1,17 @@
+====== 32877 - DC - Postal ilustrado ======
+
+**Parent**:: 32802
+**RootParent**:: 31258
+**UnitTitle**:: Postal ilustrado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912-12-23
+**UnitDateFinal**:: 1912-12-24
+**ScopeContent**:: Postal manuscrito assinado de França para Casa de Pindela. Postal ilustrado a preto e branco com uma vista panorâmica do porto de Saint Jean de Luz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32877
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1515 - cx. 10
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32877

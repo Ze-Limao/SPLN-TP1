@@ -1,0 +1,14 @@
+====== 80001 - UI - Processo nº 11 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 11
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1966-05-26
+**UnitDateFinal**:: 1969-04-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 21 - cx. 2
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80001

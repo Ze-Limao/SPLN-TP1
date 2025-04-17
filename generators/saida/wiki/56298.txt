@@ -1,0 +1,17 @@
+====== 56298 - DC - Casa de Pindella. Recibos e documentos relativos ao S. Miguel de 1895 a 1896 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Pindella. Recibos e documentos relativos ao S. Miguel de 1895 a 1896
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1896
+**ScopeContent**:: Maço que contém CP 10884 a CP 10954. Contém 70 documentos manuscritos e impressos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56298
+**LangMaterial**:: Português
+**PhysLoc**:: CP 10884  a 10954 - cx. 63
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56298

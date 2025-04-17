@@ -1,0 +1,16 @@
+====== 100756 - UI - Fotografias sobre a História da Associação ======
+
+**Parent**:: 20387
+**RootParent**:: 20342
+**UnitTitle**:: Fotografias sobre a História da Associação
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1999
+**ScopeContent**:: Contém: 20 fotografias de retratos de dirigentes, 7 negativos de dirigentes, 21 fotografias história da associação, corpo de voluntários, carros, desfiles).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25324
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 195 - cx. 57
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100756

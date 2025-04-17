@@ -1,0 +1,13 @@
+====== 9141 - DC - Ofício nº 41 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 41
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-08-24
+**UnitDateFinal**:: 1886-08-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9141
+**LangMaterial**:: Português
+**PhysLoc**:: f. 22
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9141

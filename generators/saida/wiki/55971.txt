@@ -1,0 +1,17 @@
+====== 55971 - DC - Cópia de carta de Von Koenr ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Cópia de carta de Von Koenr
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1904
+**ScopeContent**:: Cópia de carta datilografada com instruções dadas ao Conde Tattenbach sobre tratado do comércio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55971
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14583 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55971

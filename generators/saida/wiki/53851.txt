@@ -1,0 +1,17 @@
+====== 53851 - DC - Edifício dos Paços do Concelho de Vila Nova de Famalicão - Pormenores P34, P50, P51, P52, P54, P55 ======
+
+**Parent**:: 53747
+**RootParent**:: 25851
+**UnitTitle**:: Edifício dos Paços do Concelho de Vila Nova de Famalicão - Pormenores P34, P50, P51, P52, P54, P55
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1960-08-02
+**UnitDateFinal**:: 1960-08-02
+**ScopeContent**:: Original. Memória. Assinado pelo arquiteto Januário Godinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53851
+**LangMaterial**:: Português
+**PhysLoc**:: JG 72(1) - cx. 3
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53851

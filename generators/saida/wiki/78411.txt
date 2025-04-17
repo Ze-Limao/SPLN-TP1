@@ -1,0 +1,15 @@
+====== 78411 - UI - Marcelino Inácio Sousa e Melo ======
+
+**Parent**:: 31297
+**RootParent**:: 31258
+**UnitTitle**:: Marcelino Inácio Sousa e Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1811-10-06
+**UnitDateFinal**:: 1811-10-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54355
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78411
+
+===== Filhos =====
+  * [[78415.txt|78415 - DC - Carta para José Maria de Melo Machado]]

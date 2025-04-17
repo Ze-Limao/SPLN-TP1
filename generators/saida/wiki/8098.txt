@@ -1,0 +1,15 @@
+====== 8098 - DC - Termo de Josefa Pereira Martins ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Josefa Pereira Martins
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-07-16
+**UnitDateFinal**:: 1879-07-16
+**ScopeContent**:: Vedação de terreno
+Local - Mouquim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8098
+**LangMaterial**:: Português
+**PhysLoc**:: f. 27
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8098

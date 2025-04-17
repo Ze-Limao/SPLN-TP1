@@ -1,0 +1,23 @@
+====== 31346 - SR - Documentos ======
+
+**Parent**:: 31345
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1923
+**UnitDateFinal**:: 1936-03-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31346
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31346
+
+===== Filhos =====
+  * [[57323.txt|57323 - DC - Comp. Cª de Ferro. Notas de viveiros]]
+  * [[57397.txt|57397 - DC - Relatórios e pareceres]]
+  * [[57680.txt|57680 - DC - Visitas de propaganda agrícola]]
+  * [[59403.txt|59403 - DC - Cultura mecanica do milho]]
+  * [[59452.txt|59452 - DC - Fotografia no campo de milho nas Fontainhas]]
+  * [[59453.txt|59453 - DC - Trafego de productos agrícolas: reunião de 13 de outubro de 1930]]
+  * [[59454.txt|59454 - DC - Oferta de um prémio para a 1ª exposição do milho]]
+  * [[59455.txt|59455 - DC - Chemins de Fer de Paris a Lyon a la Mediteranée: mesures prises pour la compagnie des Chemins de Fer de Paris à Lyon et à la Méditerranée en faveur de l´Agriculture]]
+  * [[59456.txt|59456 - DC - Le Role des Chemins de Fer dans la production agricole françoise par M. Pohner]]
+  * [[59457.txt|59457 - DC - La Propagande agricole au reseau de l´État]]

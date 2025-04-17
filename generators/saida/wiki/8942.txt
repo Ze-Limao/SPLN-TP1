@@ -1,0 +1,18 @@
+====== 8942 - DC - Paulo de Moura Coutinho de Almeida d'Eça ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Paulo de Moura Coutinho de Almeida d'Eça
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-30
+**UnitDateFinal**:: 1894-07-30
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - Vicente Maria de Moura Coutinho de Almeida d'Eça
+Naturalidade - Lisboa
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8942
+**LangMaterial**:: Português
+**PhysLoc**:: f. 71v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8942

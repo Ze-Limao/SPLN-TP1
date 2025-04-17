@@ -1,0 +1,14 @@
+====== 7967 - DC - Termo de José Francisco da Cruz Trovisqueira ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José Francisco da Cruz Trovisqueira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-01-13
+**UnitDateFinal**:: 1860-01-13
+**ScopeContent**:: Mudança de residência de Vila Nova de Famalicão para Lisboa
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7967
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7967

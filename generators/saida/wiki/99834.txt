@@ -1,0 +1,17 @@
+====== 99834 - DC - Sala capela da Casa de Sacais no Porto ======
+
+**Parent**:: 99378
+**RootParent**:: 60695
+**UnitTitle**:: Sala capela da Casa de Sacais no Porto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-04
+**UnitDateFinal**:: 1914-04
+**ScopeContent**:: Fotografia colada numa cartolina. Deverá ter sido fotografada na receção dada a D. António Barroso, no regresso do exílio, na Quinta de Sacais, na Rua do Heroísmo no Porto, casa que foi adaptada a residência do Prelado e instalações dos serviços da diocese.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99409
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 239 - cx. 7
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99834

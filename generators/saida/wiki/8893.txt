@@ -1,0 +1,18 @@
+====== 8893 - DC - Termo do exame de Manuel José de Azevedo ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel José de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-19
+**UnitDateFinal**:: 1894-07-19
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - José Joaquim de Azevedo
+Naturalidade - Gavião
+Classificação - Distinto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8893
+**LangMaterial**:: Português
+**PhysLoc**:: f. 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8893

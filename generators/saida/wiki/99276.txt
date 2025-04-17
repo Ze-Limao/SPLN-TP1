@@ -1,0 +1,18 @@
+====== 99276 - UI - Hercules Lambertini Magalhães ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Hercules Lambertini Magalhães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-01-03
+**UnitDateFinal**:: 1916-06-28
+**ScopeContent**:: Vila Nova de Gaia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99276
+
+===== Filhos =====
+  * [[99277.txt|99277 - DC - Memorandum]]
+  * [[99296.txt|99296 - DC - Ofício]]
+  * [[99297.txt|99297 - DC - Ofício]]
+  * [[99352.txt|99352 - DC - Memorandum]]

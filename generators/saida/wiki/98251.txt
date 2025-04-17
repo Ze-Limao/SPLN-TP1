@@ -1,0 +1,17 @@
+====== 98251 - DC - Escritura que fizeram as freiras de Vale de Pereira porque desistiram das demandas que trariam de metade da quinta da Ribela ======
+
+**Parent**:: 54464
+**RootParent**:: 31258
+**UnitTitle**:: Escritura que fizeram as freiras de Vale de Pereira porque desistiram das demandas que trariam de metade da quinta da Ribela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1611-01-31
+**UnitDateFinal**:: 1611-01-31
+**ScopeContent**:: Manuscrito com folhas cosidas numa "Pasta nº 3 Cazal Nº 7 H". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 12875 a CP 12958.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54256
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12900 - cx. 80
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98251

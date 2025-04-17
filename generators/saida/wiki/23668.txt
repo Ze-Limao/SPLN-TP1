@@ -1,0 +1,16 @@
+====== 23668 - DC - Registo do recenseamento eleitoral de José Inácio de Sequeira Lobo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Inácio de Sequeira Lobo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vermoim
+Profissão - Proprietário
+Morada - Igreja Velha
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23668
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 81v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23668

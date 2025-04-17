@@ -1,0 +1,16 @@
+====== 28010 - DC - Não fugi, mariposa! ======
+
+**Parent**:: 27975
+**RootParent**:: 27963
+**UnitTitle**:: Não fugi, mariposa!
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 186
+**UnitDateFinal**:: 186
+**ScopeContent**:: Manuscrito do poema de Antero de Quental.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28010
+**LangMaterial**:: Português
+**PhysLoc**:: AS 278 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28010

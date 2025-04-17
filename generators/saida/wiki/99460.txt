@@ -1,0 +1,15 @@
+====== 99460 - UI - Hotel Sul-Americano de José Pinto de Sousa Castro ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Hotel Sul-Americano de José Pinto de Sousa Castro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912-05-15
+**UnitDateFinal**:: 1912-05-15
+**ScopeContent**:: Vizela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99460
+
+===== Filhos =====
+  * [[99461.txt|99461 - DC - Cartão]]

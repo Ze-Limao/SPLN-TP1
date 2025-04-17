@@ -1,0 +1,28 @@
+====== 21140 - UI - Hipólito Maia ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Hipólito Maia
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21140
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 480 a 491
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21140
+
+===== Filhos =====
+  * [[25526.txt|25526 - DC - Carta]]
+  * [[25527.txt|25527 - DC - Carta para Vicente Almada, 2º Visconde de Pindela?]]
+  * [[25528.txt|25528 - DC - Carta]]
+  * [[25529.txt|25529 - DC - Carta]]
+  * [[25530.txt|25530 - DC - Carta]]
+  * [[25531.txt|25531 - DC - Carta]]
+  * [[25532.txt|25532 - DC - Carta]]
+  * [[25533.txt|25533 - DC - Carta]]
+  * [[25534.txt|25534 - DC - Carta]]
+  * [[25535.txt|25535 - DC - Carta]]
+  * [[25536.txt|25536 - DC - Carta]]
+  * [[25537.txt|25537 - DC - Carta]]

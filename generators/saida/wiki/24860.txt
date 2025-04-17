@@ -1,0 +1,16 @@
+====== 24860 - DC - Carta ======
+
+**Parent**:: 21078
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-04-27
+**UnitDateFinal**:: 1922-04-27
+**ScopeContent**:: Augusto Gama agradece as referências de obras dadas por JAM. Brevemente irá a Seide e  procurará JAM para o elucidar sobre o seu estudo. Carta manuscrita assinada, do Rosal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24860
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 293 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24860

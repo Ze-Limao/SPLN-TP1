@@ -1,0 +1,18 @@
+====== 28708 - DC - Separata A Bajlya da Poboa Noua de Varazim e nota ======
+
+**Parent**:: 28594
+**RootParent**:: 27963
+**UnitTitle**:: Separata A Bajlya da Poboa Noua de Varazim e nota
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28708
+**LangMaterial**:: Português
+**PhysLoc**:: AS 123 (1) a 123 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28708
+
+===== Filhos =====
+  * [[28709.txt|28709 - DC - A Bajlya da Poboa Noua de Varazim]]
+  * [[28710.txt|28710 - DC - Envelope]]

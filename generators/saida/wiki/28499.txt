@@ -1,0 +1,18 @@
+====== 28499 - DC - Notas sobre a conquista de Arzila e Tânger por D. Afonso V ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre a conquista de Arzila e Tânger por D. Afonso V
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28499
+**LangMaterial**:: Português
+**PhysLoc**:: AS 88 (1) a 88 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28499
+
+===== Filhos =====
+  * [[28500.txt|28500 - DC - D. Afonso V]]
+  * [[28501.txt|28501 - DC - Conquista d’Arzila e Tanger]]

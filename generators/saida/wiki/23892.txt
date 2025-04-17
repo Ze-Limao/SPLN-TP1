@@ -1,0 +1,16 @@
+====== 23892 - DC - Registo do recenseamento eleitoral de José Joaquim Marques ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Joaquim Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-03-04
+**UnitDateFinal**:: 1871-03-04
+**ScopeContent**:: Freguesia - Aves
+Profissão - Carpinteiro
+Morada - Quinta
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23892
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 91v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23892

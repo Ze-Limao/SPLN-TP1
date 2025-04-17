@@ -1,0 +1,17 @@
+====== 99740 - DC - A Vinha Portuguesa: revista mensal de Agricultura ======
+
+**Parent**:: 99382
+**RootParent**:: 60695
+**UnitTitle**:: A Vinha Portuguesa: revista mensal de Agricultura
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-09
+**UnitDateFinal**:: 1911-09
+**ScopeContent**:: Revista impressa, editor F. d´Almeida e Brito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99390
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 228 - cx. 6
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99740

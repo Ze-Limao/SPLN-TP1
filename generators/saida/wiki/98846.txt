@@ -1,0 +1,14 @@
+====== 98846 - SSC - Serviços Financeiros ======
+
+**Parent**:: 60668
+**RootParent**:: 60539
+**UnitTitle**:: Serviços Financeiros
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1878-12-29
+**UnitDateFinal**:: 1896-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98846
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98846
+
+===== Filhos =====
+  * [[98847.txt|98847 - DC - Livro de Receita e Despesa da Junta de Paróquia]]

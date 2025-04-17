@@ -1,0 +1,19 @@
+====== 63006 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Manuel da Silva e Joaquina Fernandes, ele falecido e ela na Lagoa
+Naturalidade - Abade de Vermoim
+Morada - Abade de Vermoim
+Data de nascimento - 1863-03-25
+Emprego - Criado de servir
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 63v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63006

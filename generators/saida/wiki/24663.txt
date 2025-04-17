@@ -1,0 +1,16 @@
+====== 24663 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-02-23
+**UnitDateFinal**:: 1902-02-23
+**ScopeContent**:: António Ferraz felicita JAM pelo artigo na "Palavra" e refere que os compositores introduziram erros e cortes. Comenta a pouca importância que se dá aos linhagistas, citando Camilo Castelo Branco. Faz comentários ao artigo dos Farias. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24663
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 164 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24663

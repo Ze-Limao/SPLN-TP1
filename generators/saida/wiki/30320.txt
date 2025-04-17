@@ -1,0 +1,16 @@
+====== 30320 - DC - Acrescentamentos na Sinopse Genealógica, anexa ao livro Ninharias do Exmo. Sr. J. A. Meneses (Vinhal). Grupo de tábuas V a IX ======
+
+**Parent**:: 20336
+**RootParent**:: 20290
+**UnitTitle**:: Acrescentamentos na Sinopse Genealógica, anexa ao livro Ninharias do Exmo. Sr. J. A. Meneses (Vinhal). Grupo de tábuas V a IX
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-04
+**UnitDateFinal**:: 1914-04
+**ScopeContent**:: Apontamentos manuscritos de J. Mancelos Sampaio com acrescentos às tábuas referentes aos Brandões da Casa da Torre da Marca (Porto) do Nº 1 Farias Gaios, Morgados da Madre de Deus na Póvoa de Varzim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30320
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1531 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30320

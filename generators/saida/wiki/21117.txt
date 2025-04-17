@@ -1,0 +1,19 @@
+====== 21117 - UI - Francisco Martins Sarmento ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco Martins Sarmento
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880-02-02
+**UnitDateFinal**:: 1897-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21117
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 425, 426, 427
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21117
+
+===== Filhos =====
+  * [[25469.txt|25469 - DC - Carta]]
+  * [[25470.txt|25470 - DC - Carta]]
+  * [[25471.txt|25471 - DC - Carta]]

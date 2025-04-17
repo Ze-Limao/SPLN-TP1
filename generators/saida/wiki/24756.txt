@@ -1,0 +1,15 @@
+====== 24756 - UI - Correspondência recebida/expedida à Legião Portuguesa ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida à Legião Portuguesa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1962-11-27
+**UnitDateFinal**:: 1965-02-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24756
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 15 - cx. 4
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24756

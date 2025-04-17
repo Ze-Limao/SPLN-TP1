@@ -1,0 +1,16 @@
+====== 27985 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Francisco Lopes de Sousa Gama ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Manuscrito com juramento de admissão à Sociedade do Raio de Francisco Lopes de Sousa Gama
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1862
+**ScopeContent**:: Antero de Quental assina na qualidade de delegado da Sociedade do Raio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27985
+**LangMaterial**:: Português
+**PhysLoc**:: AS 252 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27985

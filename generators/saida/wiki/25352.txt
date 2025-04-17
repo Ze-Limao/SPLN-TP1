@@ -1,0 +1,16 @@
+====== 25352 - DC - Hino da Associação dos Bombeiros Voluntários de Famalicão por Joaq. Jacinto Figueiras ======
+
+**Parent**:: 25040
+**RootParent**:: 20342
+**UnitTitle**:: Hino da Associação dos Bombeiros Voluntários de Famalicão por Joaq. Jacinto Figueiras
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-11-26
+**UnitDateFinal**:: 1922-11-26
+**ScopeContent**:: Partitura para a banda com todas as partes dos instrumentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25352
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 142 - cx. 35
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25352

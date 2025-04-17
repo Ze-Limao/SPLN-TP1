@@ -1,0 +1,15 @@
+====== 99503 - UI - Carlos Teixeira ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Carlos Teixeira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1915-05-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99503
+
+===== Filhos =====
+  * [[99504.txt|99504 - DC - Carta]]
+  * [[99505.txt|99505 - DC - Carta]]

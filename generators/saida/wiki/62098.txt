@@ -1,0 +1,19 @@
+====== 62098 - DC - Registo do recenseamento militar de Justino ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Justino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Domingos de Oliveira e Josefa Maria, na freguesia
+Naturalidade - Avidos
+Morada - Seide S. Miguel
+Data de nascimento - 1861-03-30
+Emprego - Pedreiro
+Estado - Casado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62098

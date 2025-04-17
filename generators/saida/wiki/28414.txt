@@ -1,0 +1,24 @@
+====== 28414 - DC - Notas sobre gado e questões relativas ======
+
+**Parent**:: 28381
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre gado e questões relativas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28414
+**LangMaterial**:: Português
+**PhysLoc**:: AS 60 (1) a 60 (8)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28414
+
+===== Filhos =====
+  * [[28415.txt|28415 - DC - Gado e questões relativas]]
+  * [[29861.txt|29861 - DC - Sobre a história dos gados]]
+  * [[29862.txt|29862 - DC - Sobre a superioridade da raça Jersey]]
+  * [[29863.txt|29863 - DC - Sobre a acção que a polícia deve ter]]
+  * [[29864.txt|29864 - DC - Manuel de l’ Eleveur de Chevaux par Félix Villeroy]]
+  * [[29865.txt|29865 - DC - Ce sont généralement les enfants ou les jeunes filles, les pastoures]]
+  * [[29866.txt|29866 - DC - Imposto Ordem das terras]]
+  * [[29867.txt|29867 - DC - Sobre as coudelarias]]

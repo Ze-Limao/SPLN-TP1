@@ -1,0 +1,19 @@
+====== 9423 - DC - Registo do recenseamento militar de Lino ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Lino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Francisco de Araújo Alves e Maria Ribeiro
+Naturalidade - Seide S. Paio
+Data de nascimento - 1876-03-24
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - Seide S. Paio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9423
+**LangMaterial**:: Português
+**PhysLoc**:: f. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9423

@@ -1,0 +1,17 @@
+====== 46057 - UI - António Jorge de Almeida Coutinho Lemos Ferreira e Maria Ana de Meneses Pereira da Cunha ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Jorge de Almeida Coutinho Lemos Ferreira e Maria Ana de Meneses Pereira da Cunha
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46057
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46057
+
+===== Filhos =====
+  * [[46058.txt|46058 - DC - Carta]]
+  * [[46059.txt|46059 - DC - Carta]]

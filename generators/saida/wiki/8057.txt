@@ -1,0 +1,16 @@
+====== 8057 - DC - Termo de Joaquim Sandão ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Joaquim Sandão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-06-06
+**UnitDateFinal**:: 1878-06-06
+**ScopeContent**:: Declaração para seu filho António Sandão ser considerado cidadão espanhol
+Nacionalidade - Espanhola
+Morada - Mogege
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8057
+**LangMaterial**:: Português
+**PhysLoc**:: f. 29
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8057

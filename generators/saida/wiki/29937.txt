@@ -1,0 +1,16 @@
+====== 29937 - DC - Populo meam villam de Gayam ======
+
+**Parent**:: 28665
+**RootParent**:: 27963
+**UnitTitle**:: Populo meam villam de Gayam
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Transcrição de documentos das Leges et Consuetudines, um dos volumes da obra Portugaliae Monumenta Histórica.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29937
+**LangMaterial**:: Português
+**PhysLoc**:: AS 118 (16) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29937

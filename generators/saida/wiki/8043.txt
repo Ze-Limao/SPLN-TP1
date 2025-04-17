@@ -1,0 +1,16 @@
+====== 8043 - DC - Termo de Manuel Real ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel Real
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-12-16
+**UnitDateFinal**:: 1876-12-16
+**ScopeContent**:: Declaração para seus filhos José, Joaquim e Francisco serem considerados cidadãos espanhois
+Nacionalidade - Espanhola
+Morada - Cavalões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8043
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8043

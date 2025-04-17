@@ -1,0 +1,16 @@
+====== 25812 - DC - Para a história dos bombeiros e para a história da terra: uma festa emocionante no velho quartel dos bombeiros voluntários de Famalicão ======
+
+**Parent**:: 25084
+**RootParent**:: 20342
+**UnitTitle**:: Para a história dos bombeiros e para a história da terra: uma festa emocionante no velho quartel dos bombeiros voluntários de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-09-14
+**UnitDateFinal**:: 1958-09-14
+**ScopeContent**:: Recorte do Jornal Estrela do Minho de autoria de J.C. Notícia que relata pormenorizadamente a cerimónia de despedida do quartel na Rua Adriano Pinto Basto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25812
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 182 - cx. 46
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25812

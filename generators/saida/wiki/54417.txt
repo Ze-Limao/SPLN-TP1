@@ -1,0 +1,16 @@
+====== 54417 - SR - Documentos ======
+
+**Parent**:: 31320
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1884-12-24
+**UnitDateFinal**:: 1886-03-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54417
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54417
+
+===== Filhos =====
+  * [[54454.txt|54454 - DC - Manuscrito dirigido ao Redactor do Tribunal sobre a intriga contra o Governador Geral de Angola Conselheiro Francisco Joaquim Ferreira do Amaral]]
+  * [[54455.txt|54455 - DC - Ata do duelo entre António Enes e Emídio Navarro]]
+  * [[54456.txt|54456 - DC - Jornal Alvorada: publicação mensal. 1ª Série, nº10]]

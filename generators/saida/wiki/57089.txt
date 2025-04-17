@@ -1,0 +1,17 @@
+====== 57089 - DC - Questão da entrada dos vinhos do Douro. Protestos da Região ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Questão da entrada dos vinhos do Douro. Protestos da Região
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1932
+**UnitDateFinal**:: 1933
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes com 13 documentos datilografados e manuscritos: Correspondência.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57089
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9471/3 - cx. 56
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57089

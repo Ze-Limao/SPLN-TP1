@@ -1,0 +1,15 @@
+====== 65970 - DC - Emprazamento (?) ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento (?)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1528
+**UnitDateFinal**:: 1528
+**ScopeContent**:: Manuscrito, original, sem selo. Documento ilegível.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 292 - cx. P24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65970

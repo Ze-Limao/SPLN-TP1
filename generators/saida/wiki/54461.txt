@@ -1,0 +1,21 @@
+====== 54461 - SR - Documentos ======
+
+**Parent**:: 31263
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1538-03
+**UnitDateFinal**:: 1795-08-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54461
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54461
+
+===== Filhos =====
+  * [[100768.txt|100768 - DC - Vínculo que instituiu D. João da Guarda deão de Braga com um Drº que deu El rei e recebeu seja pelo rendimento da siza da Casa dos ? de Lisboa]]
+  * [[54258.txt|54258 - DC - Treslado do Tombo do Morgadio de Pindela de 1792]]
+  * [[65662.txt|65662 - DC - Documento judicial numa demanda entre o abade de Santa Maria de Arnoso e moradores da freguesia de Jesufrei]]
+  * [[65675.txt|65675 - DC - Trata das terras de Pousada em Jesufrei]]
+  * [[78517.txt|78517 - DC - Carta de arrematação das herdades do casal do Bairro que eram de uma órfãs que arrematou Belchior Fernandes, sapateiro]]
+  * [[78644.txt|78644 - DC - Compra de uma bouça que fez Belchior Fernandes a Martim Gonçalves e mulher]]
+  * [[98468.txt|98468 - DC - Prazo da Mamoa feito por Simão Pinheiro a João Álvares e sua mulher por 40 alqueires]]
+  * [[99052.txt|99052 - DC - Escritura de casamento]]

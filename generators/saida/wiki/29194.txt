@@ -1,0 +1,16 @@
+====== 29194 - DC - Sementeira de castanheiros ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Sementeira de castanheiros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-01-31
+**UnitDateFinal**:: 1908-01-31
+**ScopeContent**:: Identificação, por regos e secções, do tipo de castanhas e respetiva proveniência, semeadas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29194
+**LangMaterial**:: Português
+**PhysLoc**:: AS 309 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29194

@@ -1,0 +1,15 @@
+====== 24979 - UI - Razão anos de 1927 a 1931 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Razão anos de 1927 a 1931
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1927-01-01
+**UnitDateFinal**:: 1931-05-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24979
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 83
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24979

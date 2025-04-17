@@ -1,0 +1,16 @@
+====== 61243 - DC - Assembleia Nacional Constituinte ======
+
+**Parent**:: 60927
+**RootParent**:: 60550
+**UnitTitle**:: Assembleia Nacional Constituinte
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-12-02
+**UnitDateFinal**:: 1913-12-02
+**ScopeContent**:: Afonso Costa foi Presidente do Ministério de Portugal de 9 de Janeiro de 1913 a 9 de Fevereiro de 1914 (acumulando a pasta das finanças), formando o primeiro governo partidário da República, integrado por democráticos e pelos independentes agrupados, então liderados por António Maria da Silva. Foi nesta altura que se conteve o défice público e se equilibraram as contas públicas, nomeadamente nos orçamentos de 1912 e 1913. Fotografia com Notas manuscritas no verso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 142 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61243

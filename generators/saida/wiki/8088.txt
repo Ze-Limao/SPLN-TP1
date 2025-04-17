@@ -1,0 +1,15 @@
+====== 8088 - DC - Termo de António Simões ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António Simões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-05-19
+**UnitDateFinal**:: 1879-05-19
+**ScopeContent**:: Mudança de um caminho público
+Local - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8088
+**LangMaterial**:: Português
+**PhysLoc**:: f. 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8088

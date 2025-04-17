@@ -1,0 +1,21 @@
+====== 21141 - UI - Inácio de Vilhena Barbosa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Inácio de Vilhena Barbosa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1887-03-17
+**UnitDateFinal**:: 1887-06-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21141
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 492, 493, 494, 495, 496
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21141
+
+===== Filhos =====
+  * [[25538.txt|25538 - DC - Carta]]
+  * [[25539.txt|25539 - DC - Carta]]
+  * [[25540.txt|25540 - DC - Carta]]
+  * [[25541.txt|25541 - DC - Carta]]
+  * [[25542.txt|25542 - DC - Carta]]

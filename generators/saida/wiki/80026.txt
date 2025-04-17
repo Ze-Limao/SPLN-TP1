@@ -1,0 +1,15 @@
+====== 80026 - UI - Processo nº 3-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 3-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-06-12
+**UnitDateFinal**:: 1969-11-25
+**ScopeContent**:: Junto com Autos de Acção de Processo Comum nº 3.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 39 - cx. 3
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80026

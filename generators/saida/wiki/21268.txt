@@ -1,0 +1,16 @@
+====== 21268 - UI - Teófilo Braga ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Teófilo Braga
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-23
+**UnitDateFinal**:: 1913-02-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21268
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1054
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21268
+
+===== Filhos =====
+  * [[29646.txt|29646 - DC - Carta]]

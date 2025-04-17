@@ -1,0 +1,20 @@
+====== 20576 - DC - Registo do recenseamento militar de Gabriel ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Gabriel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Fradelos
+Filiação - Joaquim Domingues Ferreira e Maria da Costa Azevedo
+Naturalidade - Fradelos
+Data de nascimento - 1868-01-12
+Emprego - Estudante
+Estado - Solteiro
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20576
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20576

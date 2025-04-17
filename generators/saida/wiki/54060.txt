@@ -1,0 +1,17 @@
+====== 54060 - DC - Câmara Municipal de V.N. de Famalicão: Estudo de implantação para os novos Paços de Concelho ======
+
+**Parent**:: 54058
+**RootParent**:: 25851
+**UnitTitle**:: Câmara Municipal de V.N. de Famalicão: Estudo de implantação para os novos Paços de Concelho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1952-05
+**UnitDateFinal**:: 1952-05
+**ScopeContent**:: Cópia de planta. MOP de Braga. Tem legenda. Junta com 164(1).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54060
+**LangMaterial**:: Português
+**PhysLoc**:: JG 164(1) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54060

@@ -1,0 +1,16 @@
+====== 8067 - DC - Termo de Ana Gomes de Faria ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Ana Gomes de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-09-09
+**UnitDateFinal**:: 1878-09-09
+**ScopeContent**:: Vedação de terreno
+Local - Arnoso Santa Maria
+Morada - Arentim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8067
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39 v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8067

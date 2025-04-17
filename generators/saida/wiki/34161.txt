@@ -1,0 +1,20 @@
+====== 34161 - DC - Registo do recenseamento militar de Manuel de Azevedo ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Seide S. Miguel
+Data de nascimento - 1852-07-31
+Filiação - João de Azevedo e Josefa Maria
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34161
+**LangMaterial**:: Português
+**PhysLoc**:: 58v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34161

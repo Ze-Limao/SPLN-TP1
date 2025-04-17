@@ -1,0 +1,16 @@
+====== 25609 - DC - Carta ======
+
+**Parent**:: 21158
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-05-12
+**UnitDateFinal**:: 1885-05-12
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25609
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 561 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25609

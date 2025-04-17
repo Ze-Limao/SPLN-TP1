@@ -1,0 +1,15 @@
+====== 61420 - DC - Carta de Deputado…a Daniel José Rodrigues...pelo círculo nº28 – Lisboa Ocidental ======
+
+**Parent**:: 60928
+**RootParent**:: 60550
+**UnitTitle**:: Carta de Deputado…a Daniel José Rodrigues...pelo círculo nº28 – Lisboa Ocidental
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-12-09
+**UnitDateFinal**:: 1925-12-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 210 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61420

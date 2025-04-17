@@ -1,0 +1,15 @@
+====== 65732 - DC - Emprazamento do casal da Bouça, situado na freguesia do Louro, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, a João Rodrigues e sua mulher Maria Luís ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal da Bouça, situado na freguesia do Louro, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, a João Rodrigues e sua mulher Maria Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1673-03-03
+**UnitDateFinal**:: 1673-03-03
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. Foreiro do benefício João Gomes da Silva, raçoeiro da Igreja de S. Tiago de Antas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 112 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65732

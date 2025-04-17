@@ -1,0 +1,20 @@
+====== 63246 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - José Gomes da Costa e Silva e Luísa da Silva Porto, ele na freguesia e ela falecida
+Naturalidade - Nine
+Morada - Ignora-se
+Data de nascimento - 1864-05-13
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63246

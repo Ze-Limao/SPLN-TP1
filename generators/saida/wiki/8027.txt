@@ -1,0 +1,15 @@
+====== 8027 - DC - Termo de Francisco Lourenço Rodrigues ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Francisco Lourenço Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-11-27
+**UnitDateFinal**:: 1875-11-27
+**ScopeContent**:: Vedação de terrenos
+Local - Castelões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8027
+**LangMaterial**:: Português
+**PhysLoc**:: f. 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8027

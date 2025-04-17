@@ -1,0 +1,16 @@
+====== 24654 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-04-03
+**UnitDateFinal**:: 1899-04-03
+**ScopeContent**:: António Ferraz agradece as referências num artigo publicado na "Palavra". Informa que saiu um artigo no Primeiro de Janeiro, 17 dezembro 1893, sobre a chegada de Pedro de Barcelos à terra de Lavrador em abril de 1472. Noticia um documento na posse de Ernesto do Canto que provaria que em dezembro de 1492 partiram da Ilha da Terceira Valladão e João Fernandes que aportaram à Terra Nova em abril, antes da partida de Colombo de Pallos. Informa que o nome da família da esposa de Afonso Nunes da Maia era Carrilho. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24654
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 155 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24654

@@ -1,0 +1,13 @@
+====== 9843 - DC - Ofício nº 10 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 10
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-03-16
+**UnitDateFinal**:: 1888-03-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9843
+**LangMaterial**:: Português
+**PhysLoc**:: f. 43
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9843

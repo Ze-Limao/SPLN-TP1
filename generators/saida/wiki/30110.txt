@@ -1,0 +1,14 @@
+====== 30110 - DC - Joaquim de Sá Gonçalves ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim de Sá Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-15
+**UnitDateFinal**:: 1974-10-15
+**ScopeContent**:: Regedor efetivo da freguesia de Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30110
+**LangMaterial**:: Português
+**PhysLoc**:: f. 56
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30110

@@ -1,0 +1,15 @@
+====== 60718 - DC - Emprazamento do campo do Poído e outras leiras, pertencentes aos raçoeiros, situadas na freguesia de S. Julião do Calendário, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, com o consentimento dos raçoeiros da dita Igreja, a António Ramires, lavrador ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do campo do Poído e outras leiras, pertencentes aos raçoeiros, situadas na freguesia de S. Julião do Calendário, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, com o consentimento dos raçoeiros da dita Igreja, a António Ramires, lavrador
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1508-11-18
+**UnitDateFinal**:: 1508-11-18
+**ScopeContent**:: Manuscrito, original, sem selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 19 - cx. P12
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60718

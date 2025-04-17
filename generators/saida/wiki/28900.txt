@@ -1,0 +1,14 @@
+====== 28900 - UI - Joaquim José de Meira ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Joaquim José de Meira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-10-10
+**UnitDateFinal**:: 1899-10-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28900
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28900
+
+===== Filhos =====
+  * [[28901.txt|28901 - DC - Carta]]

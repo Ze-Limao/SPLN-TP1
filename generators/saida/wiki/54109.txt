@@ -1,0 +1,29 @@
+====== 54109 - UI - Empreitada de construção do edifício para Paços do Concelho, serviços municipais, secção de Finanças e tesouraria da fazenda Pública e do corpo destinado a Tribunal Judicial e mais serviços da Justiça e urbanização da Praça da República 1956 ======
+
+**Parent**:: 54196
+**RootParent**:: 25851
+**UnitTitle**:: Empreitada de construção do edifício para Paços do Concelho, serviços municipais, secção de Finanças e tesouraria da fazenda Pública e do corpo destinado a Tribunal Judicial e mais serviços da Justiça e urbanização da Praça da República 1956
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1956
+**UnitDateFinal**:: 1956-12-27
+**ScopeContent**:: Contém JG 172(1) a (9). Processo com propostas para empreitada; Resumo final dos autos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54109
+**LangMaterial**:: Português
+**PhysLoc**:: JG 172(1) - cx. 16 e JG 172(2) a (9) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54109
+
+===== Filhos =====
+  * [[54110.txt|54110 - DC - Processo de adjudicação da empreitada de construção do Novo Edifício dos Paços de Concelho, Tribunal de Justiça, etc. de Joaquim de Sousa]]
+  * [[54111.txt|54111 - DC - Processo sobre o fornecimento de pedra e sobre as fundações das paredes]]
+  * [[54112.txt|54112 - DC - Proposta para Concurso de adjudicação da empreitada de construção do Novo Edifício dos Paços de Concelho, Tribunal de Justiça, etc. de Arnaldo de Oliveira]]
+  * [[54113.txt|54113 - DC - Proposta para Concurso de adjudicação da empreitada de construção do Novo Edifício dos Paços de Concelho, Tribunal de Justiça, etc. de José Moreira da Silva - Sociedade Cooperativa de Produção dos Operários Pedreiros Portuenses]]
+  * [[54114.txt|54114 - DC - Proposta para Concurso de adjudicação da empreitada de construção do Novo Edifício dos Paços de Concelho, Tribunal de Justiça, etc. de Joaquim de Sousa]]
+  * [[54115.txt|54115 - DC - Proposta para Concurso de adjudicação da empreitada de construção do Novo Edifício dos Paços de Concelho, Tribunal de Justiça, etc. de Manuel Ferreira Martins]]
+  * [[54116.txt|54116 - DC - Proposta para Concurso de adjudicação da empreitada de construção do Novo Edifício dos Paços de Concelho, Tribunal de Justiça, etc. de Joaquim Pereira Viana]]
+  * [[54117.txt|54117 - DC - Proposta para Concurso de adjudicação da empreitada de construção do Novo Edifício dos Paços de Concelho, Tribunal de Justiça, etc. de Domingos Ferreira da Costa]]
+  * [[54118.txt|54118 - DC - Proposta para Concurso de adjudicação da empreitada de construção do Novo Edifício dos Paços de Concelho, Tribunal de Justiça, etc. de Serafim da Silva Lopes]]
+  * [[54119.txt|54119 - DC - Resumo final dos Autos nº6]]

@@ -1,0 +1,17 @@
+====== 61850 - DC - This certificate that the Rotary Club of Vila Nova de Famalicão…is now a duly admited member of Rotary International ======
+
+**Parent**:: 61458
+**RootParent**:: 60551
+**UnitTitle**:: This certificate that the Rotary Club of Vila Nova de Famalicão…is now a duly admited member of Rotary International
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1970-02-21
+**UnitDateFinal**:: 1970-02-21
+**ScopeContent**:: Certificado emoldurado de grandes dimensões.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 522 - sem caixa
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61850

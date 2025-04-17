@@ -1,0 +1,15 @@
+====== 65743 - DC - Emprazamento do casal de Ribeiro, situado na freguesia de Creixomil, concelho de Barcelos, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, com o consentimento do raçoeiro Bento Mendes da Silva, foreiro de uma das Rações da Igreja de Antas, a Ana Teixeira e a seu filho Bento ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Ribeiro, situado na freguesia de Creixomil, concelho de Barcelos, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, com o consentimento do raçoeiro Bento Mendes da Silva, foreiro de uma das Rações da Igreja de Antas, a Ana Teixeira e a seu filho Bento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1705-01-23
+**UnitDateFinal**:: 1705-01-23
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 136 - cx. 5
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65743

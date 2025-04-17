@@ -1,0 +1,16 @@
+====== 26133 - DC - Carta ======
+
+**Parent**:: 21229
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-01-24
+**UnitDateFinal**:: 1904-01-24
+**ScopeContent**:: Carta manuscrita assinada, do Porto. Papel timbrado "A Palavra. Diário Catholico. Porto".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26133
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 928 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26133

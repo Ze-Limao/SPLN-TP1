@@ -1,0 +1,16 @@
+====== 28135 - DC - 1894 Densidades ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1894 Densidades
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-10-02
+**UnitDateFinal**:: 1894-10-10
+**ScopeContent**:: Valores de densidade do mosto de diversas castas das ramadas e da vinha. Indicação das castas vindimadas, valores de densidades dos mostos registadas pelo gleucómetro Dr. J. Guyot (Gleuc. Guyot) e pelo gleucómetro e da temperatura em casa nos dias da vindima. Em 1894 vindimaram-se na Quinta de Boamense as primeiras castas francesas, muito conhecidas, sobretudo uma delas, na actualidade: Cabernet Sauvignon e Cabernet Franc. Ambas as castas, a primeira plantada na vinha, e a segunda na ramada da estrebaria, apresentavam uvas imperfeitas».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28135
+**LangMaterial**:: Português
+**PhysLoc**:: AS 408 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28135

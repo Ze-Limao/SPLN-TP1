@@ -1,0 +1,17 @@
+====== 77797 - DC - Requerimento sobre uma compra que fez o reitor João Francisco Antunes de Oliveira Leal, de Mouquim a António José da Silva e mulher ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Requerimento sobre uma compra que fez o reitor João Francisco Antunes de Oliveira Leal, de Mouquim a António José da Silva e mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1805-12-10
+**UnitDateFinal**:: 1805-12-10
+**ScopeContent**:: Manuscrito numerado nº9, com folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4046 - cx. 30
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77797

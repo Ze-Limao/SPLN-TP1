@@ -1,0 +1,16 @@
+====== 25504 - DC - Carta ======
+
+**Parent**:: 21130
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Carta sem data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25504
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1481 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25504

@@ -1,0 +1,17 @@
+====== 100781 - DC - Certidão de siza da Quinta da Silva em Gonça ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Certidão de siza da Quinta da Silva em Gonça
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1621-03-08
+**UnitDateFinal**:: 1621-04-15
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº 14 Cazal nº 124 F". Este documento estava na “Caixa 14”, que contém CP 13194 a CP 13210. Junto com CP 13201A e CP 13201C.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13201B - cx. 88
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100781

@@ -1,0 +1,17 @@
+====== 53935 - DC - Projecto da Câmara Municipal de Famalicão 2A - Planta do 1º Piso - Aditamento Mobiliário ======
+
+**Parent**:: 53748
+**RootParent**:: 25851
+**UnitTitle**:: Projecto da Câmara Municipal de Famalicão 2A - Planta do 1º Piso - Aditamento Mobiliário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-01
+**UnitDateFinal**:: 1959-01
+**ScopeContent**:: Cópia de planta. Sobre Tribunal: Arquivo do registo civil, registo predial e arquivo notarial. Escalas: 1/100.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53935
+**LangMaterial**:: Português
+**PhysLoc**:: JG 142 - cx. 4
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53935

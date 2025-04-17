@@ -1,0 +1,17 @@
+====== 53950 - DC - Câmara Municipal de Famalicão - Cofre forte ======
+
+**Parent**:: 53749
+**RootParent**:: 25851
+**UnitTitle**:: Câmara Municipal de Famalicão - Cofre forte
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1968-02-27
+**UnitDateFinal**:: 1968-02-27
+**ScopeContent**:: Cópia de planta. Exemplar igual JG 151B.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53950
+**LangMaterial**:: Português
+**PhysLoc**:: JG 151A - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53950

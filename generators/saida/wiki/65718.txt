@@ -1,0 +1,15 @@
+====== 65718 - DC - Emprazamento do casal de Mões de Baixo, situado na freguesia de S. Tiago de Gavião, feita por António Fernandes, abade da Igreja de S. Tiago de Antas, a Domingos Gonçalves e a sua mulher Isabel Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Mões de Baixo, situado na freguesia de S. Tiago de Gavião, feita por António Fernandes, abade da Igreja de S. Tiago de Antas, a Domingos Gonçalves e a sua mulher Isabel Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1607-06-19
+**UnitDateFinal**:: 1607-06-19
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. No canto superior esquerdo "Nº19".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 81 - cx. 3
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65718

@@ -1,0 +1,15 @@
+====== 98041 - UI - Processo nº 171 ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 171
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-11-26
+**UnitDateFinal**:: 1983-10-07
+**ScopeContent**:: Junto com Autos de Transgressão nº 596 e Autos de Reclamação de Créditos nº 171-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 707 - cx. 39
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98041

@@ -1,0 +1,38 @@
+====== 33439 - UI - Maria Teresa de Sousa Botelho, Condessa da Ponte ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria Teresa de Sousa Botelho, Condessa da Ponte
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878-12-28
+**UnitDateFinal**:: 1899-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33439
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33439
+
+===== Filhos =====
+  * [[33440.txt|33440 - DC - Carta]]
+  * [[33441.txt|33441 - DC - Carta]]
+  * [[33442.txt|33442 - DC - Carta]]
+  * [[33443.txt|33443 - DC - Carta]]
+  * [[33444.txt|33444 - DC - Carta]]
+  * [[33445.txt|33445 - DC - Carta]]
+  * [[33446.txt|33446 - DC - Carta]]
+  * [[33447.txt|33447 - DC - Carta]]
+  * [[33448.txt|33448 - DC - Carta]]
+  * [[33449.txt|33449 - DC - Carta]]
+  * [[33450.txt|33450 - DC - Carta]]
+  * [[33451.txt|33451 - DC - Carta]]
+  * [[33452.txt|33452 - DC - Cartão de visita]]
+  * [[33453.txt|33453 - DC - Carta]]
+  * [[33454.txt|33454 - DC - Carta]]
+  * [[33455.txt|33455 - DC - Carta]]
+  * [[33456.txt|33456 - DC - Carta]]
+  * [[33457.txt|33457 - DC - Carta]]
+  * [[33458.txt|33458 - DC - Carta]]
+  * [[33459.txt|33459 - DC - Cartão de visita]]
+  * [[33460.txt|33460 - DC - Carta]]

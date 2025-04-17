@@ -1,0 +1,13 @@
+====== 9671 - DC - Ofício nº 26 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 26
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-04-23
+**UnitDateFinal**:: 1887-04-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9671
+**LangMaterial**:: Português
+**PhysLoc**:: f. 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9671

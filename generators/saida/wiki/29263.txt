@@ -1,0 +1,16 @@
+====== 29263 - DC - Apontamento bibliográfico ======
+
+**Parent**:: 29261
+**RootParent**:: 27963
+**UnitTitle**:: Apontamento bibliográfico
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899
+**UnitDateFinal**:: 1899
+**ScopeContent**:: Apontamento manuscrito com uma referência da companhia “Garton’s Limited, seed-griwers and merchants, Washington”, extraída da revista «The World’s Work» de Março de 1907, pp. 429-437.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29263
+**LangMaterial**:: Português
+**PhysLoc**:: AS 371 (2) - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29263

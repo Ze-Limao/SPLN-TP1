@@ -1,0 +1,16 @@
+====== 99332 - UI - Bernardino José Ferreira ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Bernardino José Ferreira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-02-28
+**UnitDateFinal**:: 1916-09-01
+**ScopeContent**:: Pico de Regalados, Vila Verde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99332
+
+===== Filhos =====
+  * [[99333.txt|99333 - DC - Ofício]]
+  * [[99448.txt|99448 - DC - Bilhete-postal]]

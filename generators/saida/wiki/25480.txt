@@ -1,0 +1,16 @@
+====== 25480 - DC - Carta ======
+
+**Parent**:: 21121
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922
+**UnitDateFinal**:: 1922
+**ScopeContent**:: Francisco Veloso solicita artigos sobre Camilo e Santo Tirso para publicar  nos Ecos do Ave. Carta manuscrita assinada. Papel timbrado "Francisco Velloso. Advogado. Santo Thyrso". Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25480
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 437 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25480

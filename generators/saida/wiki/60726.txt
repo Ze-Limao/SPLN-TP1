@@ -1,0 +1,15 @@
+====== 60726 - DC - Apegação, medição e confrontação do casal do Bom Nome, situado na freguesia de Santa Maria de Arnoso, feita por Pedro Álvares, raçoeiro da Igreja de S. Tiago de Antas, a cuja ração o dito casal pertencia, queria emprazar a Maria Novais, mulher de Rui Fernandes ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Apegação, medição e confrontação do casal do Bom Nome, situado na freguesia de Santa Maria de Arnoso, feita por Pedro Álvares, raçoeiro da Igreja de S. Tiago de Antas, a cuja ração o dito casal pertencia, queria emprazar a Maria Novais, mulher de Rui Fernandes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1533-03-04
+**UnitDateFinal**:: 1533-03-04
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 27 - cx. 1
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60726

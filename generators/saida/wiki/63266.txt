@@ -1,0 +1,19 @@
+====== 63266 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - José Joaquim Pereira e Joaquina Rosa, ignoram-se
+Naturalidade - Louro
+Morada - Ignora-se
+Data de nascimento - 1864-11-19
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63266

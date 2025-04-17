@@ -1,0 +1,16 @@
+====== 30245 - DC - Carta ======
+
+**Parent**:: 21415
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-08-29
+**UnitDateFinal**:: 1885-08-29
+**ScopeContent**:: Carta manuscrita assinada, da Póvoa de Varzim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30245
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1393 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30245

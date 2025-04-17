@@ -1,0 +1,20 @@
+====== 27973 - SSSC - Colaborador na Imprensa Académica ======
+
+**Parent**:: 27967
+**RootParent**:: 27963
+**UnitTitle**:: Colaborador na Imprensa Académica
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1860-03-20
+**UnitDateFinal**:: 1860-05
+**ScopeContent**:: Publicação periódica «O Académico». Publicação mensal, científica e literária.
+Coimbra, Imprensa da Universidade. n.º 1 (Mar. 1860) - n. º3 (Maio 1860).
+Redatores: João de Deus Ramos, Eduardo José Coelho, Antero Tarquínio do Quental, Eugénio Arnaldo de Barros Ribeiro, Alberto da Cunha Sampaio, Alberto Teles Utra-Machado, Francisco Fernandes de Guimarães Fonseca, Severino de Sousa Azevedo e José Maria da Cunha Seixas.
+Formato: 18,5 x 26,8 cm. Periodicidade: Mensal. Preço: Avulso: 240 réis ● Ano: 1$800
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27973
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27973
+
+===== Filhos =====
+  * [[28012.txt|28012 - DC - O Academico: Publicação mensal, scientifica e litteraria (Volume 1, nº1)]]
+  * [[29378.txt|29378 - DC - O Academico: Publicação mensal, scientifica e litteraria (Volume 1, nº2).]]
+  * [[29379.txt|29379 - DC - O Academico: Publicação mensal, scientifica e litteraria (Volume 1, nº 3).]]

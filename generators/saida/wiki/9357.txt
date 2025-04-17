@@ -1,0 +1,19 @@
+====== 9357 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José de Carvalho e Maria da Rocha
+Naturalidade - Bairro
+Data de nascimento - 1877-01-25
+Profissão - Lavoura
+Estado civil - Solteiro
+Residência - Delães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9357
+**LangMaterial**:: Português
+**PhysLoc**:: f. 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9357

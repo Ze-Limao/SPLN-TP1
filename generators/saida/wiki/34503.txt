@@ -1,0 +1,19 @@
+====== 34503 - DC - Registo do recenseamento militar de Bernardino ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Ribeirão
+Data de nascimento - 1862-09-07
+Filiação - Jerónimo Domingues de Paiva e Juliana Dias do Couto
+Profissão - Carpinteiro
+Estado - Solteiro
+Morada - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34503
+**LangMaterial**:: Português
+**PhysLoc**:: 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34503

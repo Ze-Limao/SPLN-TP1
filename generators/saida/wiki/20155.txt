@@ -1,0 +1,15 @@
+====== 20155 - UI - Registo das guias conferidas para assentamento de praça ======
+
+**Parent**:: 20154
+**RootParent**:: 20048
+**UnitTitle**:: Registo das guias conferidas para assentamento de praça
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893-11-13
+**UnitDateFinal**:: 1896-02-10
+**ScopeContent**:: Cabeçalho: “Relação das guias conferidas aos mancebos para assentamento de praça por virtude da lei de 12 de Setembro de 1887”. Contém dados: Data da expedição das guias, nomes e apelidos dos recrutas, filiação, naturalidade, ano a que pertencem, em que qualidade se apresentam para a (Armada, Exército activo, Reserva), data da apresentação no corpo, observações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20155
+**LangMaterial**:: Português
+**PhysLoc**:: AC 4
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20155

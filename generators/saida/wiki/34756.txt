@@ -1,0 +1,19 @@
+====== 34756 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Antas
+Data de nascimento - 1862-12-02
+Filiação - Manuel Rodrigues de Araújo e Claudina Rosa de Sampaio
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34756
+**LangMaterial**:: Português
+**PhysLoc**:: 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34756

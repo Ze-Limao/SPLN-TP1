@@ -1,0 +1,15 @@
+====== 60699 - DC - Emprazamento do campo de Condensal, situado na freguesia de Vila Nova de Famalicão, feito por João Peres, e sua mulher, a Lourenço Peres e sua mulher ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do campo de Condensal, situado na freguesia de Vila Nova de Famalicão, feito por João Peres, e sua mulher, a Lourenço Peres e sua mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1418
+**UnitDateFinal**:: 1418
+**ScopeContent**:: Manuscrito, original, sem selo. Foi restaurado e acondicionado em 2021.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 1 - cx. P27
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60699

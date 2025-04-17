@@ -1,0 +1,24 @@
+====== 54079 - DC - Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de Concelho. Câmara Municipal de Famalicão ======
+
+**Parent**:: 54071
+**RootParent**:: 25851
+**UnitTitle**:: Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de Concelho. Câmara Municipal de Famalicão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961
+**UnitDateFinal**:: 1961-03
+**ScopeContent**:: Contém JG 167(1) a (5) na cx. 5. Documentos assinados pelo arquiteto Januário Godinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54079
+**LangMaterial**:: Português
+**PhysLoc**:: JG 167 - cx. 16
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54079
+
+===== Filhos =====
+  * [[54080.txt|54080 - DC - Guia para preenchimento]]
+  * [[54081.txt|54081 - DC - Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de Concelho: Programa do concurso. Câmara Municipal de Famalicão]]
+  * [[54082.txt|54082 - DC - Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de Concelho. Câmara Municipal de Famalicão]]
+  * [[54083.txt|54083 - DC - Empreitada geral de fornecimento e assentamento de candeeiros e lâmpadas… Câmara Municipal de Famalicão]]
+  * [[54084.txt|54084 - DC - Cópia de desenhos de tipos de candeeiros]]

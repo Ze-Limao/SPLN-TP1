@@ -1,0 +1,18 @@
+====== 8450 - DC - Terrmo do exame de Maria da Graça Vasconcelos e Freitas ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Terrmo do exame de Maria da Graça Vasconcelos e Freitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-05-06
+**UnitDateFinal**:: 1885-06-05
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Joaquim de Freitas Pedrosa
+Naturalidade - Vila Nova de Famalicão
+Classificação - Aprovada
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8450
+**LangMaterial**:: Português
+**PhysLoc**:: f. 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8450

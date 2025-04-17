@@ -1,0 +1,15 @@
+====== 61421 - DC - Carta de Deputado…a Daniel José Rodrigues...eleito pelo círculo nº12 - Penafiel ======
+
+**Parent**:: 60928
+**RootParent**:: 60550
+**UnitTitle**:: Carta de Deputado…a Daniel José Rodrigues...eleito pelo círculo nº12 - Penafiel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-12-02
+**UnitDateFinal**:: 1913-12-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 203 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61421

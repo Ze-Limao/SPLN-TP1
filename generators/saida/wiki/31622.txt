@@ -1,0 +1,19 @@
+====== 31622 - UI - Matilde Lindpaintner de Almeida ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Matilde Lindpaintner de Almeida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-05-25
+**UnitDateFinal**:: 1910
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31622
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31622
+
+===== Filhos =====
+  * [[31623.txt|31623 - DC - Carta]]
+  * [[31625.txt|31625 - DC - Postal ilustrado]]

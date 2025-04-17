@@ -1,0 +1,16 @@
+====== 97489 - SR - Autos de Prestação e Caução ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Prestação e Caução
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1970-03-05
+**UnitDateFinal**:: 1982-02-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97489
+
+===== Filhos =====
+  * [[80611.txt|80611 - UI - Processo nº 143-B]]
+  * [[80666.txt|80666 - UI - Processo nº 39/B/78]]
+  * [[97490.txt|97490 - UI - Processo nº 13/68]]

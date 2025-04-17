@@ -1,0 +1,14 @@
+====== 46725 - UI - Eugénia Xavier Teles da Gama ======
+
+**Parent**:: 31447
+**RootParent**:: 31258
+**UnitTitle**:: Eugénia Xavier Teles da Gama
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885-09-03
+**UnitDateFinal**:: 1885-09-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46725
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46725
+
+===== Filhos =====
+  * [[46726.txt|46726 - DC - Bilhete-postal]]

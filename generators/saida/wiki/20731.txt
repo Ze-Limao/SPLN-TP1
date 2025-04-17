@@ -1,0 +1,17 @@
+====== 20731 - DC - Registo do recenseamento militar de Aires ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Aires
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Filiação - José Lopes de Lemos e Tomásia Rosa
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1870-01-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20731
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20731

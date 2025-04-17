@@ -1,0 +1,20 @@
+====== 62971 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Francisco Pereira de Melo e Joaquina Maria Gomes, ele falecido e ela na freguesia
+Naturalidade - Vilarinho das Cambas
+Morada - 
+Data de nascimento - 1863-05-31
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62971

@@ -1,0 +1,18 @@
+====== 8574 - DC - Termo do exame de Heitor Magalhães Vasconcelos ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Heitor Magalhães Vasconcelos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-07-20
+**UnitDateFinal**:: 1888-07-20
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Manuel António Vasconcelos
+Naturalidade - Delães
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8574
+**LangMaterial**:: Português
+**PhysLoc**:: f. 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8574

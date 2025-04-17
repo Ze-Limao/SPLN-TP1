@@ -1,0 +1,17 @@
+====== 55492 - DC - Notas de viagem de Portugal a Berlim ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Notas de viagem de Portugal a Berlim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1896-09
+**UnitDateFinal**:: 1903-11
+**ScopeContent**:: Envelope com notas manuscritas com total de despesas de 3 viagens setembro 1896, outubro 19101, novembro 1903. Contém  folhas manuscritas CP 2480 a CP 2483.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55492
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2478 - cx. 19
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55492

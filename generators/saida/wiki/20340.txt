@@ -1,0 +1,20 @@
+====== 20340 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Riba de Ave
+Filiação - Rodrigo José Ribeiro e Ana da Cunha
+Naturalidade - Serzedelo
+Data de nascimento - 1870-10-04
+Emprego - Tecelão
+Estado - Solteiro
+Residência - Riba de Ave
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20340
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20340

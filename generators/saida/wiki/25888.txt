@@ -1,0 +1,16 @@
+====== 25888 - DC - Grupo dos 29 ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Grupo dos 29
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1909
+**ScopeContent**:: O Grupo dos 29 pertence à AHBVF.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25888
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25888

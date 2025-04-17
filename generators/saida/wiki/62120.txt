@@ -1,0 +1,20 @@
+====== 62120 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - João José de Carvalho e Josefa Maria da Costa, ele falecido e ela na freguesia
+Naturalidade - Mouquim
+Morada - 
+Data de nascimento - 1861-02-12
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62120

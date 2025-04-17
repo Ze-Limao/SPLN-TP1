@@ -1,0 +1,15 @@
+====== 20993 - DC - Nº 13/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 13/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-07-11
+**UnitDateFinal**:: 1962-07-11
+**ScopeContent**:: Contrato de adjudicação da empreitada de 'Adaptação e beneficiação do edifício destinado a Posto da Guarda Nacional Republicana, em Joane'
+Outorgante - António de Sousa Queirós
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20993
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 60
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20993

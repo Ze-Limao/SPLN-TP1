@@ -1,0 +1,19 @@
+====== 62539 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Manuel Joaquim Ferreira e Maria de Sousa, na freguesia
+Naturalidade - Brufe e anexa
+Morada - Ignora-se
+Data de nascimento - 1856-04-10
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62539

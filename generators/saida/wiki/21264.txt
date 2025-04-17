@@ -1,0 +1,18 @@
+====== 21264 - UI - S. D. de Oliveira ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: S. D. de Oliveira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1903-12-03
+**UnitDateFinal**:: 1903-12-03
+**ScopeContent**:: S. D. de Oliveira era da Quinta do Souto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21264
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1029
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21264
+
+===== Filhos =====
+  * [[27936.txt|27936 - DC - Carta]]

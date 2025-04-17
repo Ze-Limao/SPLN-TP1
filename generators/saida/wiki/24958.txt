@@ -1,0 +1,15 @@
+====== 24958 - UI - Orçamentos (aprovados pelo Governo Civil) ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Orçamentos (aprovados pelo Governo Civil)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1941-08-23
+**UnitDateFinal**:: 1963-01-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24958
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 62 - cx. 22
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24958

@@ -1,0 +1,21 @@
+====== 21120 - UI - Francisco de Paula Peixoto da Silva e Bourbon ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco de Paula Peixoto da Silva e Bourbon
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1917-12-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21120
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 429, 430, 431, 432, 433, 434
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21120
+
+===== Filhos =====
+  * [[25473.txt|25473 - DC - Carta]]
+  * [[25474.txt|25474 - DC - Carta]]
+  * [[25475.txt|25475 - DC - Carta]]
+  * [[25476.txt|25476 - DC - Carta]]
+  * [[25477.txt|25477 - DC - Carta]]
+  * [[25478.txt|25478 - DC - Carta]]

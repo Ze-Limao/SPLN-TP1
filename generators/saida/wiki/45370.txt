@@ -1,0 +1,28 @@
+====== 45370 - UI - Carlos Malheiro Dias ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Carlos Malheiro Dias
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911
+**UnitDateFinal**:: 1913-10-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45370
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45370
+
+===== Filhos =====
+  * [[45371.txt|45371 - DC - Cartão de visita]]
+  * [[45372.txt|45372 - DC - Carta]]
+  * [[45373.txt|45373 - DC - Carta]]
+  * [[45374.txt|45374 - DC - Carta]]
+  * [[45375.txt|45375 - DC - Carta]]
+  * [[45376.txt|45376 - DC - Carta]]
+  * [[45377.txt|45377 - DC - Carta]]
+  * [[45378.txt|45378 - DC - Carta]]
+  * [[45379.txt|45379 - DC - Carta]]
+  * [[45380.txt|45380 - DC - Carta]]
+  * [[45381.txt|45381 - DC - Carta]]

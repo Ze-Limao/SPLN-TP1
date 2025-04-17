@@ -1,0 +1,12 @@
+====== 60409 - UI - Maria Antónia ======
+
+**Parent**:: 31366
+**RootParent**:: 31258
+**UnitTitle**:: Maria Antónia
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54571
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60409
+
+===== Filhos =====
+  * [[60410.txt|60410 - DC - Carta]]

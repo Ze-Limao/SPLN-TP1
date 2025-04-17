@@ -1,0 +1,19 @@
+====== 34293 - DC - Registo do recenseamento militar de Joaquim Pereira de Matos ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Pereira de Matos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Cavalões
+Data de nascimento - 1852-04-28
+Filiação - Joaquim Pereira de Matos e Rosa Ferreira
+Profissão - Carpinteiro
+Estado - Solteiro
+Morada - Cavalões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34293
+**LangMaterial**:: Português
+**PhysLoc**:: 90v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34293

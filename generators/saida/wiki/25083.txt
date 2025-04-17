@@ -1,0 +1,23 @@
+====== 25083 - UI - Documentos diversos sobre desastres com carros da AHBVF ======
+
+**Parent**:: 20386
+**RootParent**:: 20342
+**UnitTitle**:: Documentos diversos sobre desastres com carros da AHBVF
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1933-06-16
+**UnitDateFinal**:: 1937-10
+**ScopeContent**:: Contém: Correspondência recebida, recortes de imprensa, edital, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25083
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 181 - cx. 46
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25083
+
+===== Filhos =====
+  * [[25505.txt|25505 - DC - Minuta manuscrita da exposição da Direcção da AHBVF ao Presidente do Conselho Oliveira Salazar sobre a dissolução das direções das duas associações de bombeiros por motivo do desastre de Moço Morto redigida e escrita por Alexandrino Costa]]
+  * [[25506.txt|25506 - DC - Carro Mayback]]
+  * [[25507.txt|25507 - DC - Minuta datilografada da exposição da Direcção da AHBVF ao Presidente do Conselho Oliveira Salazar sobre a dissolução das direcções das duas associações de bombeiros por motivo do desastre de Moço Morto]]
+  * [[25508.txt|25508 - DC - Minuta datilografada do ofício da Comissão Administrativa dirigida ao Presidente da Direcção da AHBVF]]
+  * [[25848.txt|25848 - DC - Carta aberta ao Presidente da Câmara Municipal de Vila Nova de Famalicão]]

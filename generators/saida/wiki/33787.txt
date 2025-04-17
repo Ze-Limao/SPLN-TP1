@@ -1,0 +1,17 @@
+====== 33787 - DC - Carta ======
+
+**Parent**:: 33786
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-08-13
+**UnitDateFinal**:: 1905-08-13
+**ScopeContent**:: Carta manuscrita assinada, da Travessa de S. Paulo 8, Vila Real.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33787
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2199 - cx. 15
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33787

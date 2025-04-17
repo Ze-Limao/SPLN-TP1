@@ -1,0 +1,19 @@
+====== 63517 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - José Martins e Teresa Fernandes
+Naturalidade - Sezures
+Morada - Sezures
+Data de nascimento - 1866-11-01
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 10v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63517

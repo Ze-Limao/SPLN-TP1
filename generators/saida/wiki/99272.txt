@@ -1,0 +1,15 @@
+====== 99272 - UI - H. Klein ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: H. Klein
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-11-13
+**UnitDateFinal**:: 1911-11-13
+**ScopeContent**:: Vila Nova de Gaia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99272
+
+===== Filhos =====
+  * [[99273.txt|99273 - DC - Memorandum]]

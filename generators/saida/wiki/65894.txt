@@ -1,0 +1,15 @@
+====== 65894 - DC - Emprazamento casal do Paço, feito António Fernandes, abade de S. Tiago de Antas, a Margarida mulher de António Domingos, de S. Tiago de Bougados. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento casal do Paço, feito António Fernandes, abade de S. Tiago de Antas, a Margarida mulher de António Domingos, de S. Tiago de Bougados.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1607
+**UnitDateFinal**:: 1629
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 606 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65894

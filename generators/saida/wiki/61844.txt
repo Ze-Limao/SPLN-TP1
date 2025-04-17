@@ -1,0 +1,17 @@
+====== 61844 - DC - Menção Presencial de 2014-15 outorgada a Rotary Club de Vila Nova de Famalicão ======
+
+**Parent**:: 61458
+**RootParent**:: 60551
+**UnitTitle**:: Menção Presencial de 2014-15 outorgada a Rotary Club de Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2015
+**UnitDateFinal**:: 2015
+**ScopeContent**:: Certificado emoldurado, 24 x 32 cm.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 516 - cx. 15
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61844

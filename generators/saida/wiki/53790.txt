@@ -1,0 +1,17 @@
+====== 53790 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso - 4 ======
+
+**Parent**:: 53746
+**RootParent**:: 25851
+**UnitTitle**:: Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso - 4
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1956-03
+**UnitDateFinal**:: 1956-04-09
+**ScopeContent**:: Cópia de planta. Planta Parcial de 3º Piso - 1º Aditamento. Escala: 1/100. Carimbo: Aprovado em Reunião de Câmara a 9 abril 1956 e assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53790
+**LangMaterial**:: Português
+**PhysLoc**:: JG 22 - cx. 1
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53790

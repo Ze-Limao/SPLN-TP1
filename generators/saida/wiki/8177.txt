@@ -1,0 +1,18 @@
+====== 8177 - DC - Termo do exame de Leopoldo Ângelo da Silva Araújo ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Leopoldo Ângelo da Silva Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-05-30
+**UnitDateFinal**:: 1883-05-30
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Manuel José da Silva Araújo
+Naturalidade - Vila Nova de Famalicão
+Classificação - Distinto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8177
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8177

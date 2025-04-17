@@ -1,0 +1,20 @@
+====== 25044 - UI - Folhas com total dos serviços e comparências durante os meses/ano ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Folhas com total dos serviços e comparências durante os meses/ano
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1951-04-30
+**UnitDateFinal**:: 1952-08
+**ScopeContent**:: Documentos datilografados com o nº de voluntário aos serviços a incêndios, instruções, formaturas e representações, piquetes e cinema, serviço noturno, faltas, etc. por mês e ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25044
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 146 - cx. 38
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25044
+
+===== Filhos =====
+  * [[25357.txt|25357 - DC - Nota dos serviços feitos desde o dia 23 de Março a 30 de Abril e voluntarios que a eles compareceram]]
+  * [[25358.txt|25358 - DC - Total de serviços e comparências durante o mês de Agosto de 1952]]

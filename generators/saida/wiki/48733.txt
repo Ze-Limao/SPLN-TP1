@@ -1,0 +1,17 @@
+====== 48733 - DC - Carta ======
+
+**Parent**:: 48730
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-03-28
+**UnitDateFinal**:: 1902-03-28
+**ScopeContent**:: Carta manuscrita assinada Rio Branco, de Berlim. Contém 1 folha com os nomes dos portugueses retratados na Galeria dos Uffizi em Florença, Itália.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48733
+**LangMaterial**:: Português
+**PhysLoc**:: CP 71 - cx. 1
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48733

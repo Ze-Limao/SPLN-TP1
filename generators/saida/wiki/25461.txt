@@ -1,0 +1,18 @@
+====== 25461 - DC - Obrigações de empréstimo à Real Associação H. dos Bombeiros Voluntários de Villa Nova de Famalicão ======
+
+**Parent**:: 25079
+**RootParent**:: 20342
+**UnitTitle**:: Obrigações de empréstimo à Real Associação H. dos Bombeiros Voluntários de Villa Nova de Famalicão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1901-05-01
+**UnitDateFinal**:: 1901-05-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25461
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 177 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25461
+
+===== Filhos =====
+  * [[25103.txt|25103 - DC - Obrigação nº3 de 10$000 de empréstimo à AHBVF em nome de António Rodrigues Ribeiro Viegas]]

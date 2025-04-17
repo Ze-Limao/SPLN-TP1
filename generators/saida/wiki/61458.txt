@@ -1,0 +1,24 @@
+====== 61458 - SR - Quadros ======
+
+**Parent**:: 61191
+**RootParent**:: 60551
+**UnitTitle**:: Quadros
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1970-02-21
+**UnitDateFinal**:: 2018
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61458
+
+===== Filhos =====
+  * [[61459.txt|61459 - DC - Citation d´honneur du Président Rêver le Rotary du Futur décernée au Rotary Club de Vila Nova de Famalicão]]
+  * [[61841.txt|61841 - DC - Rotary International Distrito Rotárico 197 ano 1990-1991]]
+  * [[61842.txt|61842 - DC - Fundação Rotária Portuguesa subscritor de Mérito conferido a Rotary Club de Vila Nova de Famalicão]]
+  * [[61843.txt|61843 - DC - Rotary International DR 1970 Diploma de reconhecimento outorgado ao Rotary Club de Vila Nova de Famalicão]]
+  * [[61844.txt|61844 - DC - Menção Presencial de 2014-15 outorgada a Rotary Club de Vila Nova de Famalicão]]
+  * [[61845.txt|61845 - DC - Menção Presidencial Torne Real o seu sonho de Rotary outorgado ao Rotary Club de Vila Nova de Famalicão por excepcional envolvimento com as quatro avenidas de serviços]]
+  * [[61846.txt|61846 - DC - Presidential Citation program Distinguished Club Citation 1989-90]]
+  * [[61847.txt|61847 - DC - Menção do Rotary 2017-2018 outorgada ao Rotary Club de Vila Nova de Famalicão]]
+  * [[61848.txt|61848 - DC - Diploma Fundação Rotária Portuguesa. Subscritor de Mérito conferido a Rotary Club de Vila Nova de Famalicão]]
+  * [[61849.txt|61849 - DC - Menção Presidencial de 2004-05. Celebremos Rotary conferida ao Rotary Club de Vila Nova de Famalicão]]
+  * [[61850.txt|61850 - DC - This certificate that the Rotary Club of Vila Nova de Famalicão…is now a duly admited member of Rotary International]]

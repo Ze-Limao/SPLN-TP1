@@ -1,0 +1,16 @@
+====== 29969 - DC - Carta ======
+
+**Parent**:: 21362
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-01-05
+**UnitDateFinal**:: 1894-01-05
+**ScopeContent**:: Carta manuscrita assinada, do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29969
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1299 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29969

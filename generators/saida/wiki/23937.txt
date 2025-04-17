@@ -1,0 +1,16 @@
+====== 23937 - DC - Carta ======
+
+**Parent**:: 21057
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-11-11
+**UnitDateFinal**:: 1914-11-11
+**ScopeContent**:: Antero de Figueiredo agradece as informações e refere que agradecerá em público. Pergunta sobre a sua ideia de fazer um museu Camiliano na casa de Seide. Carta manuscrita assinada, Cadouços, Foz do Douro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23937
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 91 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23937

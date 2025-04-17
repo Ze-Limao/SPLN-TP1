@@ -1,0 +1,17 @@
+====== 32710 - DC - Carta ======
+
+**Parent**:: 32525
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-02-09
+**UnitDateFinal**:: 1915-02-09
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Grand Hotel Central Lisbonne". Esta carta pertence ao maço "1915".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32710
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7242 - cx. 47
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32710

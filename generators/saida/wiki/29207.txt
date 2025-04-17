@@ -1,0 +1,16 @@
+====== 29207 - DC - Sementeira de Eucalyptus globulus ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Sementeira de Eucalyptus globulus
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-04-14
+**UnitDateFinal**:: 1904-04-14
+**ScopeContent**:: Identificação da localização e variedade do eucalipto a partir do qual se colheram as sementes usadas numa sementeira. Marca de água: desenho de um pavilhão com cúpula, ladeado por duas pequenas construções circulares, também com cúpula. Nas cúpulas bandeiras flamejantes. À frente da construção principal o desenho de uma fonte.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29207
+**LangMaterial**:: Português
+**PhysLoc**:: AS 322 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29207

@@ -1,0 +1,18 @@
+====== 8134 - DC - António Martins Ribeiro ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: António Martins Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1883-11-14
+**ScopeContent**:: Escola - Delães
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Santo Tirso
+Data de posse - 1879-12-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8134
+**LangMaterial**:: Português
+**PhysLoc**:: f. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8134

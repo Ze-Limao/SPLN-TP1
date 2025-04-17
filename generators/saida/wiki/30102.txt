@@ -1,0 +1,14 @@
+====== 30102 - DC - Isidro Alves da Silva ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Isidro Alves da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-11
+**UnitDateFinal**:: 1974-10-11
+**ScopeContent**:: Regedor efetivo da freguesia de Lousado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30102
+**LangMaterial**:: Português
+**PhysLoc**:: f. 52
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30102

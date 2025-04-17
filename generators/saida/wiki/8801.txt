@@ -1,0 +1,18 @@
+====== 8801 - DC - Termo do exame de Albino da Silva Faria ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Albino da Silva Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-08-18
+**UnitDateFinal**:: 1892-08-18
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - António da Silva Faria
+Naturalidade - Requião
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8801
+**LangMaterial**:: Português
+**PhysLoc**:: f. 34
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8801

@@ -1,0 +1,16 @@
+====== 25580 - DC - Carta para Vicente Pinheiro, 2º Visconde de Pindela ======
+
+**Parent**:: 21153
+**RootParent**:: 20290
+**UnitTitle**:: Carta para Vicente Pinheiro, 2º Visconde de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-12-30
+**UnitDateFinal**:: 1892-12-30
+**ScopeContent**:: Carta manuscrita assinada de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25580
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 533 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25580

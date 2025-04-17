@@ -1,0 +1,23 @@
+====== 28546 - DC - Notas de investigação sobre reinado D. João I (1385-1433) ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas de investigação sobre reinado D. João I (1385-1433)
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28546
+**LangMaterial**:: Português
+**PhysLoc**:: AS 97 (1) a 97 (7)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28546
+
+===== Filhos =====
+  * [[28547.txt|28547 - DC - D. João I]]
+  * [[28548.txt|28548 - DC - Começou então neste reino (tempo de D. João I]]
+  * [[28549.txt|28549 - DC - D. João I, o qual sendo ainda defensor do Reino]]
+  * [[28550.txt|28550 - DC - Contingente do Porto para a expugnação de Ceuta]]
+  * [[28551.txt|28551 - DC - Armada que foi a Ceuta]]
+  * [[28552.txt|28552 - DC - Para a carta de D. Duarte]]
+  * [[28553.txt|28553 - DC - Quando em 1384 D. João de Castelo chegou ao Lumiar para cercar Lisboa.]]

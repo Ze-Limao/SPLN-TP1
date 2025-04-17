@@ -1,0 +1,16 @@
+====== 20200 - UI - Matrícula das toleradas ======
+
+**Parent**:: 20199
+**RootParent**:: 20048
+**UnitTitle**:: Matrícula das toleradas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-05-05
+**UnitDateFinal**:: 1924-06-28
+**ScopeContent**:: Termo de abertura: “Este livro tem de servir para a matricula das toleradas desta Villa e concelho…”.
+Contém dados: nº, data, nome, filiação, idade, estado, profissão, naturalidade (concelho e freguesia), morada, data e causa em que se deram à prostituição, sinais característicos (cabelos, olhos, nariz, boca e altura), sinais particulares, data de inspecções sifilíticas sofridas, mudança de residência e observações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20200
+**LangMaterial**:: Português
+**PhysLoc**:: AC 69
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20200

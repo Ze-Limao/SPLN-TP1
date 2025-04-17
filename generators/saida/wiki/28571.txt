@@ -1,0 +1,21 @@
+====== 28571 - DC - Notas sobre o reinado D. João III (1521-1557) ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre o reinado D. João III (1521-1557)
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28571
+**LangMaterial**:: Português
+**PhysLoc**:: AS 100 (1) a 100 (5)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28571
+
+===== Filhos =====
+  * [[28572.txt|28572 - DC - D. João III 1521-1557]]
+  * [[28573.txt|28573 - DC - D. João III  As Ciências Náuticas e as Artes de Construção]]
+  * [[28574.txt|28574 - DC - João II organizou uma Junta chamada a Junta de Matthematicos]]
+  * [[28575.txt|28575 - DC - Ficou el Rey Dom João (III) tam falto de cabedais e drogas]]
+  * [[28576.txt|28576 - DC - Dificuldades financeiras de D. Jo. III]]

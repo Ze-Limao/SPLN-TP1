@@ -1,0 +1,16 @@
+====== 23272 - DC - Registo do recenseamento eleitoral de David de Azevedo Oliveira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de David de Azevedo Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Morada - Cabanas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23272
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 66v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23272

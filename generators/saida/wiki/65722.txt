@@ -1,0 +1,15 @@
+====== 65722 - DC - Sentença cível de emprazamento do casal de Real, situado na freguesia de de S. Tiago de Antas, feita por Pedro Mendonça Barata Moura, abade da Igreja de S. Tiago de Antas, a André Ribeiro e a sua mulher Isabel da Fonseca ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal de Real, situado na freguesia de de S. Tiago de Antas, feita por Pedro Mendonça Barata Moura, abade da Igreja de S. Tiago de Antas, a André Ribeiro e a sua mulher Isabel da Fonseca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1721-04-21
+**UnitDateFinal**:: 1721-04-21
+**ScopeContent**:: Manuscrito, original, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 91 - cx. 3
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65722

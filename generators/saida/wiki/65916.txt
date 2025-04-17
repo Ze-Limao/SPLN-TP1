@@ -1,0 +1,15 @@
+====== 65916 - DC - Renovação de prazo do casal de Codoceira, feito por Rodrigo de Mendonça, abade de S. Tiago de Antas, a Teresa Joaquina de Meneses. Carta de Vedoria ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Renovação de prazo do casal de Codoceira, feito por Rodrigo de Mendonça, abade de S. Tiago de Antas, a Teresa Joaquina de Meneses. Carta de Vedoria
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1779-06-28
+**UnitDateFinal**:: 1779-06-28
+**ScopeContent**:: Manuscrito e impresso, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 651 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65916

@@ -1,0 +1,17 @@
+====== 60806 - DC - V. N. Famalicão Câmara Municipal ======
+
+**Parent**:: 60805
+**RootParent**:: 60698
+**UnitTitle**:: V. N. Famalicão Câmara Municipal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1980
+**UnitDateFinal**:: 1990
+**ScopeContent**:: Bilhete-postal impresso, No verso a legenda e "Costa Verde Portugal".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9798
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 142 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60806

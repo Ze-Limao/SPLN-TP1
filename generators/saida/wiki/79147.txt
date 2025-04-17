@@ -1,0 +1,12 @@
+====== 79147 - UI - José Eça de Queirós ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: José Eça de Queirós
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56771
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79147
+
+===== Filhos =====
+  * [[56803.txt|56803 - DC - Postal]]

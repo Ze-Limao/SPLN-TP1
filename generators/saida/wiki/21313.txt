@@ -1,0 +1,16 @@
+====== 21313 - UI - António Dias Costa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Dias Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-07-29
+**UnitDateFinal**:: 1902-07-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21313
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1195
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21313
+
+===== Filhos =====
+  * [[29786.txt|29786 - DC - Carta]]

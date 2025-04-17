@@ -1,0 +1,15 @@
+====== 8055 - DC - Termo de Bernardino Dias Sequeira ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Bernardino Dias Sequeira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-05-29
+**UnitDateFinal**:: 1878-05-29
+**ScopeContent**:: Integração de caminho em terreno particular e construção de um novo
+Local - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8055
+**LangMaterial**:: Português
+**PhysLoc**:: f. 26v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8055

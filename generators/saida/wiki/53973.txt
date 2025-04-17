@@ -1,0 +1,15 @@
+====== 53973 - DC - Desfile de carros da corporação à frente do quartel na Homenagem ao Comandante Fernando Soares ======
+
+**Parent**:: 25316
+**RootParent**:: 20342
+**UnitTitle**:: Desfile de carros da corporação à frente do quartel na Homenagem ao Comandante Fernando Soares
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1992-01-10
+**UnitDateFinal**:: 1992-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53973
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 185 - cx. 49
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53973

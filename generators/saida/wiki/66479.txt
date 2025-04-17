@@ -1,0 +1,15 @@
+====== 66479 - DC - Pedido de licença para Manuel Correia de Sá, morador S. Tiago de Antas, festejar a festa dos milagres de S. Sebastião, com missa cantada e procissão ao cruzeiro ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença para Manuel Correia de Sá, morador S. Tiago de Antas, festejar a festa dos milagres de S. Sebastião, com missa cantada e procissão ao cruzeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-01-28
+**UnitDateFinal**:: 1882-01-28
+**ScopeContent**:: Manuscrito, original, em papel azul timbrado “60reis” com selo colado. Com deferimento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 508 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66479

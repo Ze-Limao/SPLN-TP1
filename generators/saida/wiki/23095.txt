@@ -1,0 +1,16 @@
+====== 23095 - DC - Carta ======
+
+**Parent**:: 21033
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-12-31
+**UnitDateFinal**:: 1921-12-31
+**ScopeContent**:: Afonso Pereira Cabral pede esclarecimentos sobre a publicação do livro do seu irmão Padre Cabral numa tipografia de Famalicão. Carta manuscrita assinada, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23095
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 20 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23095

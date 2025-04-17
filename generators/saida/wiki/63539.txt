@@ -1,0 +1,20 @@
+====== 63539 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - António José da Costa e Balbina Marques
+Naturalidade - Bairro
+Morada - Ignora-se
+Data de nascimento - 1867-01-19
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63539

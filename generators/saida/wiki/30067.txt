@@ -1,0 +1,14 @@
+====== 30067 - DC - Francisco Monteiro Torres ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Francisco Monteiro Torres
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1968-02-29
+**UnitDateFinal**:: 1968-02-29
+**ScopeContent**:: Regedor substituto da freguesia de Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30067
+**LangMaterial**:: Português
+**PhysLoc**:: f. 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30067

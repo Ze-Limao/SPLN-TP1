@@ -1,0 +1,16 @@
+====== 54430 - UI - José Maria Brinche Carvalho ======
+
+**Parent**:: 31323
+**RootParent**:: 31258
+**UnitTitle**:: José Maria Brinche Carvalho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1884-02-19
+**UnitDateFinal**:: 1884-12-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54430
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54430
+
+===== Filhos =====
+  * [[54431.txt|54431 - DC - Carta]]
+  * [[54446.txt|54446 - DC - Carta]]
+  * [[54447.txt|54447 - DC - Carta]]

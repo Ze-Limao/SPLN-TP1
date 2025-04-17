@@ -1,0 +1,13 @@
+====== 7710 - UI - Livro de Notas Nº 25 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 25
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1952-08-05
+**UnitDateFinal**:: 1953-07-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7710
+**LangMaterial**:: Português
+**PhysLoc**:: 1.59
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7710

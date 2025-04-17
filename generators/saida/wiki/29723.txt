@@ -1,0 +1,16 @@
+====== 29723 - DC - Carta ======
+
+**Parent**:: 21283
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-11-21
+**UnitDateFinal**:: 1923-11-21
+**ScopeContent**:: Alberto Veloso de Araújo dá explicações sobre as obras no Monte do Facho, o escultor Alberto Morais do Vale (?-1956) fará a maquete, serão reproduzidas imagens da Senhora da Paz. Dá conhecimento destas iniciativas visto que JAM é o presidente da comissão promotora do Monte do Facho. Carta manuscrita assinada, da Pensão Açoriana-Madeirense, Pampulha Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29723
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1132 -  cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29723

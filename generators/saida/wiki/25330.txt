@@ -1,0 +1,16 @@
+====== 25330 - DC - Apontamentos colhidos nos "Copiadores" da associação por Hilário Carvalho ======
+
+**Parent**:: 25019
+**RootParent**:: 20342
+**UnitTitle**:: Apontamentos colhidos nos "Copiadores" da associação por Hilário Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1960-01
+**UnitDateFinal**:: 1960-01
+**ScopeContent**:: Na capa depois do título "indicam-se as páginas do copiador para verificação...".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25330
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 122 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25330

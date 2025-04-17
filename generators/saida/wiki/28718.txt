@@ -1,0 +1,16 @@
+====== 28718 - DC - Carta ======
+
+**Parent**:: 28717
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-06-23
+**UnitDateFinal**:: 1906-06-23
+**ScopeContent**:: Carta expedida de Lisboa, Rua do Castilho, 34.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28718
+**LangMaterial**:: Português
+**PhysLoc**:: AS 581 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28718

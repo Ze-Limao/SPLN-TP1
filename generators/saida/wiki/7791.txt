@@ -1,0 +1,13 @@
+====== 7791 - UI - Livro de Registo de Mercês ======
+
+**Parent**:: 7789
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Registo de Mercês
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1841
+**UnitDateFinal**:: 1860
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7791
+**LangMaterial**:: Português
+**PhysLoc**:: 1.110
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7791

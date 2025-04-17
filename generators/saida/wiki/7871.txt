@@ -1,0 +1,16 @@
+====== 7871 - SC - Eleições ======
+
+**Parent**:: 7651
+**RootParent**:: 7651
+**UnitTitle**:: Eleições
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1842-07-15
+**UnitDateFinal**:: 1904
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7871
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7871
+
+===== Filhos =====
+  * [[7872.txt|7872 - SR - Atas da Comissão do Recenseamento Eleitoral]]
+  * [[7873.txt|7873 - SR - Correspondência Expedida pela Comissão do Recenseamento Eleitoral]]
+  * [[7874.txt|7874 - SR - Recenseamento Eleitoral]]

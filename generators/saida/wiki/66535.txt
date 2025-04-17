@@ -1,0 +1,15 @@
+====== 66535 - DC - Pedido de licença de matrimónio Francisco Pereira, da freguesia de S. António Burgães(?) com Emília da Costa, da freguesia de Mouquim ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de matrimónio Francisco Pereira, da freguesia de S. António Burgães(?) com Emília da Costa, da freguesia de Mouquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-04
+**UnitDateFinal**:: 1893-07-04
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”. concedido pelo desembargador Drº Domingos Maria Guimarães da Relação Eclesiástica e juiz dos matrimónios na corte do Arcebispado de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 556 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66535

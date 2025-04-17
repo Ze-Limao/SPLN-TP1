@@ -1,0 +1,17 @@
+====== 56475 - DC - D. Miguel von Bragança ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: D. Miguel von Bragança
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-02
+**UnitDateFinal**:: 1911-02
+**ScopeContent**:: Livreto impresso na Alemanha sobre D. Miguel de Bragança.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56475
+**LangMaterial**:: Alemão
+**PhysLoc**:: CP 6856 - cx. 46
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56475

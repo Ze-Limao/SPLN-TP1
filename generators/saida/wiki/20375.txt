@@ -1,0 +1,21 @@
+====== 20375 - SC - Comando ======
+
+**Parent**:: 20342
+**RootParent**:: 20342
+**UnitTitle**:: Comando
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1890-06-22
+**UnitDateFinal**:: 1992-12-09
+**ScopeContent**:: Contém: Subsecção A Serviços Administrativos; Subsecção B Material especializado para bombeiros; Subsecção C Registo de incêndios; Subsecção D Serviço de ambulância; Subsecção E Exercícios de simulacros de incêndio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20375
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20375
+
+===== Filhos =====
+  * [[20376.txt|20376 - SSC - Serviços Administrativos]]
+  * [[20377.txt|20377 - SSC - Material especializado para bombeiros]]
+  * [[20381.txt|20381 - SSC - Registo de incêndios]]
+  * [[20383.txt|20383 - SSC - Serviço de ambulância]]
+  * [[20384.txt|20384 - SSC - Exercícios de simulacros de incêndio]]

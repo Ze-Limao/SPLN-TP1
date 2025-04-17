@@ -1,0 +1,18 @@
+====== 52763 - DC - Registo do recenseamento militar de Manuel dos Santos ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-03-26
+Filiação - Manuel Lopes dos Santos e Maria Teixeira
+Naturalidade - Vale S. Cosme
+Profissão - Tamanqueiro
+Residência - Vale S. Cosme
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52763
+**LangMaterial**:: Português
+**PhysLoc**:: 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52763

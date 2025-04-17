@@ -1,0 +1,16 @@
+====== 25969 - DC - Carta ======
+
+**Parent**:: 21199
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-12-06
+**UnitDateFinal**:: 1886-12-06
+**ScopeContent**:: Carta manuscrita assinada, de Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25969
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 770 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25969

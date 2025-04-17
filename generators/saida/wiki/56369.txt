@@ -1,0 +1,17 @@
+====== 56369 - DC - Pindella. Documentos 1º/905,  nº 94 a 101 ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Pindella. Documentos 1º/905,  nº 94 a 101
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1905-01-17
+**UnitDateFinal**:: 1905-06-23
+**ScopeContent**:: Maço que contém 13 documentos: faturas e cartas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56369
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12781 (1) a (13) - cx. 78
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56369

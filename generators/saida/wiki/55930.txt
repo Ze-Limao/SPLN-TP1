@@ -1,0 +1,27 @@
+====== 55930 - DC - Maço Documentos originais dos telegramas do Conselheiro Arroio na questão da Grã-Cruz da Torre e Espada concedida ao Conde de Bulow ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço Documentos originais dos telegramas do Conselheiro Arroio na questão da Grã-Cruz da Torre e Espada concedida ao Conde de Bulow
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Maço que contém CP 14539 a CP 14545. Conselheiro Arroio  é José Diogo Arroyo. Karl Wilhelm Paul von Bülow (Berlim, 24 de abril de 1846 - Berlim, 31 de agosto de 1921) foi um marechal-de-campo e comandante do segundo exército alemão durante a Primeira Guerra Mundial. Nascido em Berlim numa tradicional família prussiana, Bülow serviu na Guerra Austro-prussiana e na Guerra franco-prussiana. Era capitão do estado-maior em 1877 e foi promovido coronel, integrando o 9º regimento da infantaria de guarda em 1849. No ano de 1897 Bülow tornou-se diretor do departamento central do Ministério da Guerra. Comandou o 3º corpo-de-exército de 1903 até a sua indicação a oficial do terceiro exército alemão em 1912. 
+Ver CO 14615 a 14625.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55930
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14538 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55930
+
+===== Filhos =====
+  * [[55931.txt|55931 - DC - Telegrama de José Diogo Arroyo]]
+  * [[55932.txt|55932 - DC - Telegrama de José Diogo Arroyo]]
+  * [[55933.txt|55933 - DC - Telegrama de José Diogo Arroyo]]
+  * [[55934.txt|55934 - DC - Telegrama de José Diogo Arroyo]]
+  * [[55935.txt|55935 - DC - Telegrama de José Diogo Arroyo]]
+  * [[55936.txt|55936 - DC - Telegrama de José Diogo Arroyo]]
+  * [[55937.txt|55937 - DC - Telegrama de José Diogo Arroyo]]

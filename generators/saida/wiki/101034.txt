@@ -1,0 +1,15 @@
+====== 101034 - UI - Postais de várias coleções ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Postais de várias coleções
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 2010
+**ScopeContent**:: Postais repetidos em várias quantidades, já representados nas séries.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD101034
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF - cx. 3
+depósito 2, estante 1
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=101034

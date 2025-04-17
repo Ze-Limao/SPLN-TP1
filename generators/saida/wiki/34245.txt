@@ -1,0 +1,19 @@
+====== 34245 - DC - Registo do recenseamento militar de Francisco de Oliveira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vale S. Martinho
+Data de nascimento - 1852-09-09
+Filiação - Joaquim Ferreira de Oliveira e Joaquina Rosa
+Profissão - 
+Estado - 
+Morada - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34245
+**LangMaterial**:: Português
+**PhysLoc**:: 78v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34245

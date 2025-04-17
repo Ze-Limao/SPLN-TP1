@@ -1,0 +1,13 @@
+====== 8356 - DC - Ofício ======
+
+**Parent**:: 8355
+**RootParent**:: 8241
+**UnitTitle**:: Ofício
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-04-16
+**UnitDateFinal**:: 1895-04-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8356
+**LangMaterial**:: Português
+**PhysLoc**:: Arquivo Sousa Fernandes, Correspondência, 34, nº 83
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8356

@@ -1,0 +1,22 @@
+====== 60200 - DC - Processo guarda florestal Casa e Quinta de Pindela ======
+
+**Parent**:: 57357
+**RootParent**:: 31258
+**UnitTitle**:: Processo guarda florestal Casa e Quinta de Pindela
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1926
+**UnitDateFinal**:: 1926
+**ScopeContent**:: Processo guarda florestal Alberto Pereira. Contém CP 14812 a CP 14814.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57358
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14811 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60200
+
+===== Filhos =====
+  * [[60201.txt|60201 - DC - Processo]]
+  * [[60202.txt|60202 - DC - Processo]]
+  * [[60203.txt|60203 - DC - Processo]]

@@ -1,0 +1,43 @@
+====== 27972 - SSSC - Atividade na Sociedade do Raio ======
+
+**Parent**:: 27967
+**RootParent**:: 27963
+**UnitTitle**:: Atividade na Sociedade do Raio
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1862-12-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27972
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27972
+
+===== Filhos =====
+  * [[27979.txt|27979 - DC - Manuscrito com juramentos de admissão à Sociedade do Raio]]
+  * [[27980.txt|27980 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de António Joaquim de Matos Pinto]]
+  * [[27981.txt|27981 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de António José Ferreira Pinto da Cunha]]
+  * [[27982.txt|27982 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Joaquim Gaspar da Câmara Manuel.]]
+  * [[27983.txt|27983 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Manuel Tomás Pereira Pimenta de Castro]]
+  * [[27984.txt|27984 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Tomé de Brito]]
+  * [[27985.txt|27985 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Francisco Lopes de Sousa Gama]]
+  * [[27986.txt|27986 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de José de Elvas Leitão]]
+  * [[27987.txt|27987 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Augusto César Moutinho de Andrade]]
+  * [[27989.txt|27989 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Sebastião António Ribeiro Nogueira]]
+  * [[27990.txt|27990 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de José António Bastos Pinho]]
+  * [[27991.txt|27991 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de José Taibner Crespo de Morais]]
+  * [[27992.txt|27992 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Gaspar da Costa Pereira de Vilhena]]
+  * [[27993.txt|27993 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de António Pedro Xavier de Oliveira Barros Leite]]
+  * [[27994.txt|27994 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Francisco de Sousa Costa Lobo]]
+  * [[27995.txt|27995 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de António Augusto Faroia]]
+  * [[27996.txt|27996 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Félix Loureiro da Rocha Páris]]
+  * [[27997.txt|27997 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Francisco José Lopes de Matos Viegas e António Mendes Soares de Vasconcelos]]
+  * [[27998.txt|27998 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Genésio (?) Pereira Seões]]
+  * [[27999.txt|27999 - DC - Subscrição da viúva]]
+  * [[28000.txt|28000 - DC - Lista de nomes de estudantes]]
+  * [[28001.txt|28001 - DC - Relação e Indice Alphabetico dos Estudantes Matriculados na Universidade de Coimbra e no Lyceu no Anno Lectivo de 1861 para 1862...]]
+  * [[28002.txt|28002 - DC - Documento de afirmação da Sociedade do Raio escrito por Antero de Quental]]
+  * [[28003.txt|28003 - DC - Primeira versão do Manifesto dos Estudantes da Universidade de Coimbra]]
+  * [[28004.txt|28004 - DC - Manifesto dos Estudantes da Universidade de Coimbra - 1862-1863: À oppinião illustrada do paíz.]]
+  * [[28005.txt|28005 - DC - Primeira versão da saudação proferida por Antero de Quental em nome da Academia de Coimbra, ao príncipe Humberto de Sabóia]]
+  * [[28006.txt|28006 - DC - Saudação proferida por Antero de Quental em nome da Academia de Coimbra, ao príncipe Humberto de Sabóia]]
+  * [[28007.txt|28007 - DC - Manuscrito do poema "À Itália" de Antero Quental]]
+  * [[28008.txt|28008 - DC - À Itália Poesia d’Anthero de Quental, recitada no Theatro Académico por A. Fialho de Machado, na noite de 22 d’outubro de 1862.]]
+  * [[29372.txt|29372 - DC - Manuscrito com juramento de admissão à Sociedade do Raio de Paulo Xavier de Rocha Viana]]

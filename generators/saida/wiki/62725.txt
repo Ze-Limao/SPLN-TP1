@@ -1,0 +1,19 @@
+====== 62725 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Manuel Joaquim Rodrigues e Teresa de Freitas, na freguesia
+Naturalidade - Telhado
+Morada - Ignora-se
+Data de nascimento - 1863-11-21
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62725

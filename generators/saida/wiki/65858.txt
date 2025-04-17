@@ -1,0 +1,15 @@
+====== 65858 - DC - Renovação do prazo de Pedro Sá ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Renovação do prazo de Pedro Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1735-01-19
+**UnitDateFinal**:: 1735-01-19
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 621 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65858

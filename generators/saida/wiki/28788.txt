@@ -1,0 +1,16 @@
+====== 28788 - DC - Carta ======
+
+**Parent**:: 28787
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-12-23
+**UnitDateFinal**:: 1907-12-23
+**ScopeContent**:: Carta expedida de Tagilde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28788
+**LangMaterial**:: Português
+**PhysLoc**:: AS 611 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28788

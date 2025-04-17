@@ -1,0 +1,15 @@
+====== 25002 - UI - Registo de castigos e actas ======
+
+**Parent**:: 20363
+**RootParent**:: 20342
+**UnitTitle**:: Registo de castigos e actas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1927-06-04
+**UnitDateFinal**:: 1929-10-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25002
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 105
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25002

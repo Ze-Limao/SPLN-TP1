@@ -1,0 +1,23 @@
+====== 46427 - UI - Anselmo Braamcamp Freire ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Anselmo Braamcamp Freire
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-06-06
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46427
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46427
+
+===== Filhos =====
+  * [[46428.txt|46428 - DC - Carta]]
+  * [[46429.txt|46429 - DC - Carta]]
+  * [[46430.txt|46430 - DC - Carta]]
+  * [[46431.txt|46431 - DC - Carta]]
+  * [[46432.txt|46432 - DC - Carta]]
+  * [[46433.txt|46433 - DC - Cartão de visita]]

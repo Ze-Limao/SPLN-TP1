@@ -1,0 +1,16 @@
+====== 21454 - UI - José de Almeida Couto Amorim ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José de Almeida Couto Amorim
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21454
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1457
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21454
+
+===== Filhos =====
+  * [[30298.txt|30298 - DC - Carta]]

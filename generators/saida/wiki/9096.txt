@@ -1,0 +1,13 @@
+====== 9096 - DC - Ofício nº 11 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 11
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-03-31
+**UnitDateFinal**:: 1886-03-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9096
+**LangMaterial**:: Português
+**PhysLoc**:: f. 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9096

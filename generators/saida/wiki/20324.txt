@@ -1,0 +1,14 @@
+====== 20324 - UI - Registo de correspondência recebida nº 9 ======
+
+**Parent**:: 20220
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº 9
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1957-11-22
+**UnitDateFinal**:: 1958-07-04
+**ScopeContent**:: Termo de abertura impresso: “Neste livro, que contém duzentas folhas, todas elas numeradas e por mim rubricadas, se registará, exclusivamente, a correspondência recebida, nos precisos termos do nº9 do artº 137 do Código Administrativo e da Circ. da DGAPC nº L-4/11, Lv º 5-A, de 6-5-1951…”. Contém dados: nº de entrada, data de entrada e do documento, remetente ou signatário, assunto, expediente, observações. Inicia com o registo nº 2452 até ao registo nº 2801. O ano 1958 tem 1342 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20324
+**LangMaterial**:: Português
+**PhysLoc**:: 571
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20324

@@ -1,0 +1,17 @@
+====== 54169 - DC - Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício do Tribunal Judicial. Câmara Municipal de Famalicão. Concurso. ======
+
+**Parent**:: 54163
+**RootParent**:: 25851
+**UnitTitle**:: Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício do Tribunal Judicial. Câmara Municipal de Famalicão. Concurso.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-03
+**UnitDateFinal**:: 1961-03
+**ScopeContent**:: Tem notas manuscritas e coladas e assinado pelo arquiteto Januário Godinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54169
+**LangMaterial**:: Português
+**PhysLoc**:: JG 174(3) - cx. 7
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54169

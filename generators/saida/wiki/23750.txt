@@ -1,0 +1,16 @@
+====== 23750 - DC - Registo do recenseamento eleitoral de Francisco José Alves Barbosa ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco José Alves Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Escrivão de Paz
+Morada - Bandeirinha
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23750
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 84v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23750

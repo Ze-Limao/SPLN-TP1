@@ -1,0 +1,19 @@
+====== 9452 - DC - Registo do recenseamento militar de Aires ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Aires
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Ferreira de Campos e Teresa maria Pereira
+Naturalidade - Louro
+Data de nascimento - 1877-08-13
+Profissão - Lavrador
+Estado civil - Solteiro
+Residência - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9452
+**LangMaterial**:: Português
+**PhysLoc**:: f. 33v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9452

@@ -1,0 +1,18 @@
+====== 46041 - DC - Registo do recenseamento eleitoral de José Joaquim Lopes ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Joaquim Lopes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Fradelos
+Profissão - Lavrador
+Estado - Casado
+Morada - Cerejeira
+Idade - 37
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46041
+**LangMaterial**:: Português
+**PhysLoc**:: 25v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46041

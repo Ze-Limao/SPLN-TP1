@@ -1,0 +1,16 @@
+====== 26031 - DC - Carta ======
+
+**Parent**:: 21180
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-08-16
+**UnitDateFinal**:: 1916-08-16
+**ScopeContent**:: Carta manuscrita assinada, de Póvoa de Varzim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26031
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 825 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26031

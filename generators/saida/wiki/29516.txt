@@ -1,0 +1,16 @@
+====== 29516 - DC - Carta ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03
+**UnitDateFinal**:: 1882-04
+**ScopeContent**:: Carta expedida de Vila do Conde, numa 5ª feira. Na f.2 com cópia de um soneto (AS 757 (2)).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29516
+**LangMaterial**:: Português
+**PhysLoc**:: AS 757 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29516

@@ -1,0 +1,17 @@
+====== 56645 - DC - Ma Chérie ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Ma Chérie
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-12-25
+**UnitDateFinal**:: 1910-12-25
+**ScopeContent**:: Manuscrito com desenhos e as armas de Pindela e poema de Grácia dedicado à mãe.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56645
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 7373 - cx. 48
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56645

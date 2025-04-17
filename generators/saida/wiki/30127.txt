@@ -1,0 +1,16 @@
+====== 30127 - DC - Postal ======
+
+**Parent**:: 21351
+**RootParent**:: 20290
+**UnitTitle**:: Postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-06-15
+**UnitDateFinal**:: 1920-06-15
+**ScopeContent**:: Cândido de Figueiredo agradece o livro "Camilo Homenageado" e felicita o autor. Postal manuscrito selado e carimbado, assinado, de Lisboa. Postal timbrado "Direcção Geral da Justiça e dos Cultos. Gabinete do Secretário. Director Geral. Particular".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30127
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1262 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30127

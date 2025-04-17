@@ -1,0 +1,14 @@
+====== 56752 - UI - Carlos Gardé Alfaro Cardoso ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Carlos Gardé Alfaro Cardoso
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56752
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56752
+
+===== Filhos =====
+  * [[56753.txt|56753 - DC - Cartão de visita]]

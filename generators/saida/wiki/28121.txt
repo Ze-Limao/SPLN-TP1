@@ -1,0 +1,16 @@
+====== 28121 - DC - 1888 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1888
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-05
+**UnitDateFinal**:: 1888-09
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Diversas informações sobre a vindima de 1888. Indicação dos dias de vindimas, castas vindimadas, valores de densidades dos mostos registadas pelo gleucómetro Dr. J. Guyot (Gleuc. J. G.) e pelo gleuco-oenometro (Gl. oen.) e temperatura do mosto. Informações adicionais sobre as condições climatéricas verificadas nos dias de vindima.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28121
+**LangMaterial**:: Português
+**PhysLoc**:: AS 394 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28121

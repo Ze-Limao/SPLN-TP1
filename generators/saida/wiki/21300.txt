@@ -1,0 +1,17 @@
+====== 21300 - UI - António Augusto Fiúza de Melo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Augusto Fiúza de Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1933-08-30
+**UnitDateFinal**:: 1933-08-30
+**ScopeContent**:: António Augusto Fiúza de Melo foi o 1º Comandante da Associação Humanitária de Bombeiros Voluntários de Famalicão, eleito em 1901 a 1905, 1906 a 1924.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21300
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1169
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21300
+
+===== Filhos =====
+  * [[29760.txt|29760 - DC - Carta]]

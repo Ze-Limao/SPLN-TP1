@@ -1,0 +1,14 @@
+====== 30062 - DC - Adelino Ferreira Borges da Costa ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Adelino Ferreira Borges da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1967-05-16
+**UnitDateFinal**:: 1967-05-16
+**ScopeContent**:: Regedor efetivo da freguesia de Telhado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30062
+**LangMaterial**:: Português
+**PhysLoc**:: f. 32
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30062

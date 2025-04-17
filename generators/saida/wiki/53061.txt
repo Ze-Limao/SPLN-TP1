@@ -1,0 +1,50 @@
+====== 53061 - UI - Carlos Roma du Bocage ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Carlos Roma du Bocage
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-08-06
+**UnitDateFinal**:: 1910-02-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53061
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53061
+
+===== Filhos =====
+  * [[53062.txt|53062 - DC - Minutas de carta e telegrama de Carlos Bocage e de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53063.txt|53063 - DC - Copias e papeis pertencentes a Vicente. Questão Thoratier. Importante]]
+  * [[53064.txt|53064 - DC - Minutas de carta de Carlos Bocage e de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53065.txt|53065 - DC - Minutas de carta de Carlos Bocage e de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53066.txt|53066 - DC - Carta]]
+  * [[53067.txt|53067 - DC - Minutas de carta de Carlos Bocage e de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53068.txt|53068 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53069.txt|53069 - DC - Minuta de carta e telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53070.txt|53070 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53071.txt|53071 - DC - Carta]]
+  * [[53072.txt|53072 - DC - Minutas de telegramas de Carlos Bocage]]
+  * [[53073.txt|53073 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53074.txt|53074 - DC - Minuta de telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53075.txt|53075 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53077.txt|53077 - DC - Carta]]
+  * [[53078.txt|53078 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53079.txt|53079 - DC - Cartão]]
+  * [[53080.txt|53080 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53081.txt|53081 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53082.txt|53082 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53083.txt|53083 - DC - Minuta de telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53084.txt|53084 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53085.txt|53085 - DC - Cópia da carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[53086.txt|53086 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55585.txt|55585 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55586.txt|55586 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55587.txt|55587 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55588.txt|55588 - DC - Minutas de cartas de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55589.txt|55589 - DC - Envelope Minutas de carta sobre "Marcas de phantasia"]]
+  * [[55590.txt|55590 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55591.txt|55591 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55592.txt|55592 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55593.txt|55593 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[56098.txt|56098 - DC - Minuta de ofício de Vicente Pinheiro Lobo Machado de Melo e Almada]]

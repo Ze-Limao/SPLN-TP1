@@ -1,0 +1,15 @@
+====== 29875 - DC - Sobre a cultura forraginosa ======
+
+**Parent**:: 28430
+**RootParent**:: 27963
+**UnitTitle**:: Sobre a cultura forraginosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1884
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29875
+**LangMaterial**:: Português
+**PhysLoc**:: AS 63 (4) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29875

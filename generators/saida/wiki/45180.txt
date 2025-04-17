@@ -1,0 +1,23 @@
+====== 45180 - UI - Júlia Maria de Noronha Paiva Couceiro ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Júlia Maria de Noronha Paiva Couceiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1889-03-23
+**UnitDateFinal**:: 1921-09-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45180
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45180
+
+===== Filhos =====
+  * [[45181.txt|45181 - DC - Carta]]
+  * [[45182.txt|45182 - DC - Carta]]
+  * [[45183.txt|45183 - DC - Postal ilustrado para Viscondes]]
+  * [[45184.txt|45184 - DC - Carta]]
+  * [[45185.txt|45185 - DC - Cartão]]
+  * [[45186.txt|45186 - DC - Cartão de visita]]

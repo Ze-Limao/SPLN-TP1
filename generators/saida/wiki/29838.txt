@@ -1,0 +1,16 @@
+====== 29838 - DC - É conveniente examinar ======
+
+**Parent**:: 28361
+**RootParent**:: 27963
+**UnitTitle**:: É conveniente examinar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: As memórias referidas na nota, publicadas nas Memórias da literatura portuguesa, são: António Ribeiro dos Santos - “Memorias historicas sobre alguns Mathematicos Portuguezes, e Estrangeiros Domiciliarios em Portugal, ou nas Conquistas” (Tomo VIII, Parte 1, 1812); António Ribeiro dos Santos - “Memória sobre dois antigos Mapas Geográficos do Infante D. Pedro, e do Cartório de Alcobaça” (Tomo VIII, Parte 2, 1818); Sebastião Francisco de Mendo Trigoso - “Ensaio Sobre os Descobrimentos, e Comércio dos Portugueses em as Terras Setentrionais da América” (Tomo VIII, Parte 2, 1818).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29838
+**LangMaterial**:: Português
+**PhysLoc**:: AS 47 (7) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29838

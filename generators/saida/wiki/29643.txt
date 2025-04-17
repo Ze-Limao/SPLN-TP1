@@ -1,0 +1,16 @@
+====== 29643 - DC - Conviria experimentar o Pez de Borgonha ======
+
+**Parent**:: 29270
+**RootParent**:: 27963
+**UnitTitle**:: Conviria experimentar o Pez de Borgonha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: "Conviria experimentar o Pez de Borgonha (designação dada à resina do abeto) fundido com a (?) do sebo, em pequena dose, para administrar no fim de tudo a ver se lhe dava o aspecto do couro envernizado - talvez fundido em glicerina."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29643
+**LangMaterial**:: Português
+**PhysLoc**:: AS 181 (3) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29643

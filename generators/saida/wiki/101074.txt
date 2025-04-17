@@ -1,0 +1,17 @@
+====== 101074 - DC - Sentença cívelautores António Machado da Guerra e mulher Ana Fagundes contra Francisco Martins com o morgadio de António Jorge da Guerra, sobre as casas de Guimarães ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Sentença cívelautores António Machado da Guerra e mulher Ana Fagundes contra Francisco Martins com o morgadio de António Jorge da Guerra, sobre as casas de Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1673
+**UnitDateFinal**:: 1679
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº 12 Cazal nº 110 A". Este documento estava na “Caixa 11”, que contém CP 13211 a CP 13245.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54258
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13229 - cx. 90
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=101074

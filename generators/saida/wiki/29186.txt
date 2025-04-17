@@ -1,0 +1,16 @@
+====== 29186 - DC - 1906 Macieira “Bravo de Esmolfe" ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: 1906 Macieira “Bravo de Esmolfe"
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-02-28
+**UnitDateFinal**:: 1906-02-28
+**ScopeContent**:: Proveniência e plantação de uma macieira da variedade “Bravo de Esmolfe”. Maria da Conceição Lemos era mulher de Luís de Magalhães, proprietário da Quinta de Moreira, na Maia (Porto), um dos amigos mais próximos de Alberto Sampaio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29186
+**LangMaterial**:: Português
+**PhysLoc**:: AS 301 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29186

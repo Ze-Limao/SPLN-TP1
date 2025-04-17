@@ -1,0 +1,14 @@
+====== 80649 - UI - Processo nº 291 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 291
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-06-09
+**UnitDateFinal**:: 1978-12-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 277 - cx. 15
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80649

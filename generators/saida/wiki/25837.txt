@@ -1,0 +1,16 @@
+====== 25837 - DC - Carta ======
+
+**Parent**:: 21186
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-09-30
+**UnitDateFinal**:: 1914-09-30
+**ScopeContent**:: Joaquim Costa declina o convite para visitar a casa de Seide na comitiva de Eugénio de Castro por motivos de doença da mulher. Carta manuscrita assinada, do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25837
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 743 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25837

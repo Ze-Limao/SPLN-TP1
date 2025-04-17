@@ -1,0 +1,16 @@
+====== 25102 - DC - Subscrição para o jazigo do Padre Bernardo da Costa Pinto ======
+
+**Parent**:: 25079
+**RootParent**:: 20342
+**UnitTitle**:: Subscrição para o jazigo do Padre Bernardo da Costa Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1932
+**UnitDateFinal**:: 1932
+**ScopeContent**:: Processo que contém a lista da Comissão de Honra, Comissão Executiva, a lista dos subscritores do peditório e valores oferecidos e as faturas e recibos das despesas efetuadas. O peditório foi feito exclusivamente por Hilário de Carvalho e António de Carvalho Faria Júnior. O jazigo foi inaugurado a 3 maio de 1932, 30º dia do seu falecimento com uma cerimónia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25102
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 177 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25102

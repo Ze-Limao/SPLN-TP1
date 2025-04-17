@@ -1,0 +1,17 @@
+====== 55531 - DC - E. Bieber, C. Pietzner ======
+
+**Parent**:: 56384
+**RootParent**:: 31258
+**UnitTitle**:: E. Bieber, C. Pietzner
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Panfleto publicitário de casa e atelier de retratos fotográficos e quadros, de Berlim. Junto com CP 2507 a CP 2525.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55531
+**LangMaterial**:: Alemão
+**PhysLoc**:: CP 2524 - cx. 20
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55531

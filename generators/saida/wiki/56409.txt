@@ -1,0 +1,37 @@
+====== 56409 - DC - Casa de Pindela ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Casa de Pindela
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1916-02-07
+**UnitDateFinal**:: 1917-09-09
+**ScopeContent**:: Envelope com manuscrito "Casa de Pindela", contém receitas da farmácia Magalhães Brandão, 18 documentos CP 4524 a CP 4541.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56409
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4523 - cx. 32
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56409
+
+===== Filhos =====
+  * [[56410.txt|56410 - DC - Receita farmacêutica]]
+  * [[56411.txt|56411 - DC - Receita farmacêutica]]
+  * [[56412.txt|56412 - DC - Receita farmacêutica]]
+  * [[56413.txt|56413 - DC - Receita farmacêutica]]
+  * [[56414.txt|56414 - DC - Receita farmacêutica]]
+  * [[56415.txt|56415 - DC - Receita farmacêutica]]
+  * [[56416.txt|56416 - DC - Receita farmacêutica]]
+  * [[56417.txt|56417 - DC - Receita farmacêutica]]
+  * [[56418.txt|56418 - DC - Receita farmacêutica]]
+  * [[56419.txt|56419 - DC - Receita farmacêutica]]
+  * [[56420.txt|56420 - DC - Receita farmacêutica]]
+  * [[56421.txt|56421 - DC - Receita farmacêutica]]
+  * [[56422.txt|56422 - DC - Receita farmacêutica]]
+  * [[56423.txt|56423 - DC - Receita farmacêutica]]
+  * [[56424.txt|56424 - DC - Receita farmacêutica]]
+  * [[56425.txt|56425 - DC - Receita farmacêutica]]
+  * [[56426.txt|56426 - DC - Receita farmacêutica]]
+  * [[56427.txt|56427 - DC - Receita farmacêutica]]

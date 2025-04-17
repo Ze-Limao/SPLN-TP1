@@ -1,0 +1,19 @@
+====== 34103 - DC - Registo do recenseamento militar de Domingos Gonçalves ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Ruivães e Novais
+Data de nascimento - 1852-03-15
+Filiação - Manuel José Gonçalves e Inês Rosa
+Profissão - 
+Estado - 
+Morada - Maia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34103
+**LangMaterial**:: Português
+**PhysLoc**:: 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34103

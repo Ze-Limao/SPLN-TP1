@@ -1,0 +1,17 @@
+====== 61821 - DC - Rotary Club Guimarães e Rotary Club V.N. Famalicão ======
+
+**Parent**:: 61783
+**RootParent**:: 60551
+**UnitTitle**:: Rotary Club Guimarães e Rotary Club V.N. Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2020-02-21
+**UnitDateFinal**:: 2020-02-21
+**ScopeContent**:: Placa num num estojo forrado a veludo. Reconhecimento do clube padrinho ao seu afilhado pelos 50 anos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 491 - cx. 12
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61821

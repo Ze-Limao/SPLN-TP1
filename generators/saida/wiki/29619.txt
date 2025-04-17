@@ -1,0 +1,14 @@
+====== 29619 - SC - Fotografias Câmara Municipal de V. N. de Famalicão ======
+
+**Parent**:: 29618
+**RootParent**:: 29618
+**UnitTitle**:: Fotografias Câmara Municipal de V. N. de Famalicão
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1920-01-01
+**UnitDateFinal**:: 2001-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29619
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29619
+
+===== Filhos =====
+  * [[101127.txt|101127 - DC - Inauguração do Memorial aos Soldados Famalicenses]]

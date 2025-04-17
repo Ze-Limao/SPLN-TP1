@@ -1,0 +1,15 @@
+====== 65741 - DC - Emprazamento do Casal de Arnoso, situado na freguesia de Santa Maria de Arnoso, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, a Domingos Francisco e a sua mulher Luísa Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do Casal de Arnoso, situado na freguesia de Santa Maria de Arnoso, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, a Domingos Francisco e a sua mulher Luísa Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1696-04-05
+**UnitDateFinal**:: 1696-04-05
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 133 - cx. 5
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65741

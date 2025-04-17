@@ -1,0 +1,15 @@
+====== 65890 - DC - Emprazamento do casal da Quintã de Fontelo, situado na freguesia de S. Julião de Calendário, a Miguel Pereira e sua mulher ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal da Quintã de Fontelo, situado na freguesia de S. Julião de Calendário, a Miguel Pereira e sua mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1400
+**UnitDateFinal**:: 1500
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 603 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65890

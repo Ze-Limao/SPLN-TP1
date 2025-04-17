@@ -1,0 +1,18 @@
+====== 8517 - DC - António Ferreira Barroso ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: António Ferreira Barroso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-07-25
+**UnitDateFinal**:: 1887-07-25
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Luís Ferreira Barroso
+Naturalidade - Vila Nova de Famalicão
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8517
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8517

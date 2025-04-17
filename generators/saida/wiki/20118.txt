@@ -1,0 +1,27 @@
+====== 20118 - UI - Registo da correspondência expedida para os regedores ======
+
+**Parent**:: 20108
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida para os regedores
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1926-12-31
+**UnitDateFinal**:: 1927-08-18
+**ScopeContent**:: Termo de abertura: “Tem de servir o presente livro para nele sir copiando toda a correspondencia dirigida aos regedores das freguesias deste concelho…”.
+O primeiro registo é de 1917-01-03.
+O conteúdo da correspondência está resumido. 
+Contém: 
+Edital do Administrador do Concelho de Vila Nova de Famalicão, 1027-01-27, 1 f. impressa, colada; papel.
+Cópia Circular nº 218 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Regedor da, 1927-03-26, 1 f. policopiada, colada; papel.
+Edital do Administrador do Concelho de Vila Nova de Famalicão, 1927-04-01, 1 f. policopiada, colada; papel.
+Cópia da Circular nº 264 do Administrador do Concelho de Vila Nova de Famalicão dirigida a todos os Regedores - Edital, 1927-04-21, 1 f. policopiada, colada; papel.
+Cópia da Circular nº 265 do Administrador do Concelho de Vila Nova de Famalicão dirigida a todos os Regedores, 1927-04-21, 1 f. policopiada, colada; papel.
+Cópia da Circular nº 265 do Administrador do Concelho de Vila Nova de Famalicão dirigida a todos os Regedores- Edital, 1927-04-21, 1 f. policopiada, colada; papel.
+Cópia da Circular nº 347 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Regedor da freguesia, 1927-05-27, 1 f. policopiada, colada; papel.
+Cópia da Circular nº 408 do Administrador do Concelho de Vila Nova de Famalicão dirigida ao Regedor da freguesia, 1927-06-27, 1 f. policopiada, colada; papel.
+Edital do Administrador do Concelho de Vila Nova de Famalicão, 1927-07-08, 1 f. policopiada, colada; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20118
+**LangMaterial**:: Português
+**PhysLoc**:: AC 52
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20118

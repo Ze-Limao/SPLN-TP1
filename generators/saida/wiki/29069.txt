@@ -1,0 +1,14 @@
+====== 29069 - UI - Eduardo Vieira ======
+
+**Parent**:: 28714
+**RootParent**:: 27963
+**UnitTitle**:: Eduardo Vieira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-06-29
+**UnitDateFinal**:: 1908-06-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29069
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29069
+
+===== Filhos =====
+  * [[29070.txt|29070 - DC - Postal ilustrado]]

@@ -1,0 +1,16 @@
+====== 21031 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7707
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1948-12-17
+**UnitDateFinal**:: 1948-12-17
+**ScopeContent**:: Empreitada de construção de uma rua de ligação da EN204 (Rua Capitão Manuel Carvalho) à EN206. Segundo lanço
+Outorgante - Joaquim Tinoco Osório
+Toponímia - Avenida Marechal Humberto Delgado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21031
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 63
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21031

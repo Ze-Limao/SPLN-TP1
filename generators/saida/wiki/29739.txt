@@ -1,0 +1,16 @@
+====== 29739 - DC - Carta ======
+
+**Parent**:: 21289
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-06-23
+**UnitDateFinal**:: 1917-06-23
+**ScopeContent**:: Alves de Azevedo diz que está a tratar da emissão da apólice de seguro onde se incluiu o prédio, livros, etc.. Esta apólice foi subscrita por 42 companhia de seguros contra incêndio a casa e seu recheio, e a acácia, onde vivera o escritor Camilo Castelo Branco e família. Sobre este assunto ver JAM 1519. Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29739
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1150 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29739

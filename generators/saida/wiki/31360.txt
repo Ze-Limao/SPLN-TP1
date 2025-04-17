@@ -1,0 +1,15 @@
+====== 31360 - SSC - Matilde Munró dos Anjos ======
+
+**Parent**:: 31355
+**RootParent**:: 31258
+**UnitTitle**:: Matilde Munró dos Anjos
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1904-01
+**UnitDateFinal**:: 1930
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31360
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31360
+
+===== Filhos =====
+  * [[31361.txt|31361 - SR - Correspondência recebida]]
+  * [[54567.txt|54567 - SR - Documentos]]

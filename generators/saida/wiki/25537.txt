@@ -1,0 +1,16 @@
+====== 25537 - DC - Carta ======
+
+**Parent**:: 21140
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Carta manuscrita no dia 14 maio, de Viseu. Carta incompleta e sem o ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25537
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 491 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25537

@@ -1,0 +1,16 @@
+====== 24669 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-04-03
+**UnitDateFinal**:: 1915-06-25
+**ScopeContent**:: António Ferraz dá informações sobre o brasão de Barcelos. Transcrições de livros e desenhos. Carta manuscrita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24669
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 171 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24669

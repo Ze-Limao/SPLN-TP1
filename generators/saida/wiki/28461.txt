@@ -1,0 +1,18 @@
+====== 28461 - DC - Notas sobre a lenda de Santiago ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre a lenda de Santiago
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28461
+**LangMaterial**:: Português
+**PhysLoc**:: AS 67 (1) a 67 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28461
+
+===== Filhos =====
+  * [[28462.txt|28462 - DC - Legenda da revelação do Corpo de Santiago]]
+  * [[28463.txt|28463 - DC - Santiago depois de ter vindo à Galiza]]

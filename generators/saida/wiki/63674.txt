@@ -1,0 +1,20 @@
+====== 63674 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - José da Costa Ferreira e Joaquina Gonçalves
+Naturalidade - Louro
+Morada - Ignora-se
+Data de nascimento - 1866-12-21
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63674

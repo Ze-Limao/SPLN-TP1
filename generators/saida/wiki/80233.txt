@@ -1,0 +1,15 @@
+====== 80233 - UI - Processo nº 54 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 54
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-01-12
+**UnitDateFinal**:: 1973-10-06
+**ScopeContent**:: Acção Declarativa com Processo Comum.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 118 - cx. 7
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80233

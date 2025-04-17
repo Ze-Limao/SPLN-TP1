@@ -1,0 +1,14 @@
+====== 20268 - UI - Registo de correspondência recebida nº42 ======
+
+**Parent**:: 20218
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº42
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-06-07
+**UnitDateFinal**:: 1973-01-04
+**ScopeContent**:: Termo de abertura não está preenchido. Contém dados: nº de ordem, nº e data do documento, data do registo, remetente ou signatário, natureza do documento e respectivo assunto, resolução, destino, observação. Inicia com o nº 2405 até ao registo nº 4375. O ano 1973 tem 19 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20268
+**LangMaterial**:: Português
+**PhysLoc**:: 667
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20268

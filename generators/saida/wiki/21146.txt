@@ -1,0 +1,19 @@
+====== 21146 - UI - Jaime Pereira Forjaz Serpa Pimentel ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Jaime Pereira Forjaz Serpa Pimentel
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-08-06
+**UnitDateFinal**:: 1917-11-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21146
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 517, 518, 1488
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21146
+
+===== Filhos =====
+  * [[25563.txt|25563 - DC - Carta]]
+  * [[25564.txt|25564 - DC - Carta]]
+  * [[25565.txt|25565 - DC - Carta]]

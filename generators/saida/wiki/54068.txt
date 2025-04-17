@@ -1,0 +1,17 @@
+====== 54068 - UI - Gustavo de Matos Sequeira e Figueiredo da Fonseca ======
+
+**Parent**:: 53968
+**RootParent**:: 20290
+**UnitTitle**:: Gustavo de Matos Sequeira e Figueiredo da Fonseca
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-08-18
+**UnitDateFinal**:: 1915-08-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54068
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 466
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54068
+
+===== Filhos =====
+  * [[54070.txt|54070 - DC - Carta para um filho de José de Azevedo e Menezes]]

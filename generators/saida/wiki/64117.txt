@@ -1,0 +1,17 @@
+====== 64117 - DC - Mérito Municipal de V.N. de Famalicão de Benemerência ao Rotary Club V.N. Famalicão ======
+
+**Parent**:: 61781
+**RootParent**:: 60551
+**UnitTitle**:: Mérito Municipal de V.N. de Famalicão de Benemerência ao Rotary Club V.N. Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2023
+**UnitDateFinal**:: 2023
+**ScopeContent**:: Medalha circular com brasão do município de V.N. Famalicão e fita de cor verde amarela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 523 - cx. 11
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64117

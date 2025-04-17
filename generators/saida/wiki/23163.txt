@@ -1,0 +1,16 @@
+====== 23163 - DC - Carta ======
+
+**Parent**:: 21044
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-06-11
+**UnitDateFinal**:: 1905-06-11
+**ScopeContent**:: Alexandre Amaral agradece a carta e o favor prometido. Carta manuscrita assinada, L.c. de Sequeiros, Ancêde.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23163
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 52 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23163

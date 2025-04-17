@@ -1,0 +1,16 @@
+====== 29715 - DC - Carta ======
+
+**Parent**:: 21276
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-09-08
+**UnitDateFinal**:: 1887-09-08
+**ScopeContent**:: Carta manuscrita assinada, de Fermil (Celorico de Basto). Papel impresso com monograma. Convida JAM para uma visita à sua quinta para debaterem a questão da vinha baixa, já levantada por carta de JAM à redação do Agricultor Português (19/08/1887), para substituição da vinha em latada ou de enforcado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29715
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1124 -  cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29715

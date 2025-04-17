@@ -1,0 +1,13 @@
+====== 9178 - UI - Recenseamento para o Recrutamento do Exército ======
+
+**Parent**:: 8968
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento para o Recrutamento do Exército
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1879-02-08
+**UnitDateFinal**:: 1879-03-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9178
+**LangMaterial**:: Português
+**PhysLoc**:: 5.5.18
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9178

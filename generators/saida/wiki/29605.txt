@@ -1,0 +1,11 @@
+====== 29605 - SSR - Obras de Restauro da Igreja Matriz ======
+
+**Parent**:: 29595
+**RootParent**:: 29618
+**UnitTitle**:: Obras de Restauro da Igreja Matriz
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 2016-01-04
+**UnitDateFinal**:: 2016-01-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29605
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29605

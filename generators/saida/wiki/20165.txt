@@ -1,0 +1,18 @@
+====== 20165 - UI - Termos de fiança ao serviço militar ======
+
+**Parent**:: 20162
+**RootParent**:: 20048
+**UnitTitle**:: Termos de fiança ao serviço militar
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886-01-02
+**UnitDateFinal**:: 1887-11-10
+**ScopeContent**:: Termo de abertura: “Há de servir para nelle se lançar os termos de fiança no recrutamento…”.
+Contém: Procuração, 1886-10-03, 1 f.; papel.
+Procuração, 1886-10-08, 1 f.; papel.
+Procuração, 1887-10-01, 1 f.; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20165
+**LangMaterial**:: Português
+**PhysLoc**:: AC 32
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20165

@@ -1,0 +1,13 @@
+====== 9883 - DC - Edital ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Edital
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-06-20
+**UnitDateFinal**:: 1888-06-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9883
+**LangMaterial**:: Português
+**PhysLoc**:: f. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9883

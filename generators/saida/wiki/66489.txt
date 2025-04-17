@@ -1,0 +1,15 @@
+====== 66489 - DC - Autorização para o pároco da freguesia de S. Tiago de Antas assistir ao matrimónio de Manuel Gonçalves da Costa com Eugénia Alves Ferreira Chaves, paroquianos do Louro ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Autorização para o pároco da freguesia de S. Tiago de Antas assistir ao matrimónio de Manuel Gonçalves da Costa com Eugénia Alves Ferreira Chaves, paroquianos do Louro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-05-14
+**UnitDateFinal**:: 1867-05-14
+**ScopeContent**:: Manuscrito, original, com selo colado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 516 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66489

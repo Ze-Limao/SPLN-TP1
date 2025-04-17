@@ -1,0 +1,16 @@
+====== 21290 - UI - Amélia Carlota Valente de Miranda Alcoforado ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Amélia Carlota Valente de Miranda Alcoforado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907-12-03
+**UnitDateFinal**:: 1907-12-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21290
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1152
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21290
+
+===== Filhos =====
+  * [[29741.txt|29741 - DC - Carta]]

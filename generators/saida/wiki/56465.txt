@@ -1,0 +1,17 @@
+====== 56465 - DC - Carta de Visconde de Pindela a Alberto Pimentel ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Carta de Visconde de Pindela a Alberto Pimentel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1922
+**ScopeContent**:: Recorte de imprensa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56465
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5780A - cx. 41
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56465

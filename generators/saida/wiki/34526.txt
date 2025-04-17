@@ -1,0 +1,19 @@
+====== 34526 - DC - Registo do recenseamento militar de António José ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Arnoso Santa Eulália
+Data de nascimento - 1862-04-23
+Filiação - Domingos José Ferreira e Ana de Faria
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34526
+**LangMaterial**:: Português
+**PhysLoc**:: 18v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34526

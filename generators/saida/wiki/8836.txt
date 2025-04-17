@@ -1,0 +1,18 @@
+====== 8836 - DC - Termo do exame de Luís Carvalho Martins de Araújo ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Luís Carvalho Martins de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-31
+**UnitDateFinal**:: 1893-07-31
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Luís Carvalho Martins de Araújo
+Naturalidade - Louro
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8836
+**LangMaterial**:: Português
+**PhysLoc**:: f. 43v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8836

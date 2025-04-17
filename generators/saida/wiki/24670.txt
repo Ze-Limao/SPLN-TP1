@@ -1,0 +1,16 @@
+====== 24670 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-04-03
+**UnitDateFinal**:: 1915-06-25
+**ScopeContent**:: António Ferraz fala de Camilo Castelo Branco e de Vieira de Castro. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24670
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 172 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24670

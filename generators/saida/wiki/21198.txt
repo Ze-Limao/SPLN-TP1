@@ -1,0 +1,17 @@
+====== 21198 - UI - Joaquim Dinis da Fonseca ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Dinis da Fonseca
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1923
+**UnitDateFinal**:: 1923-06-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21198
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 768, 769
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21198
+
+===== Filhos =====
+  * [[25967.txt|25967 - DC - Carta]]
+  * [[25968.txt|25968 - DC - Carta]]

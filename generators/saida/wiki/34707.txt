@@ -1,0 +1,19 @@
+====== 34707 - DC - Registo do recenseamento militar de Januário ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Januário
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Vale S. Martinho
+Data de nascimento - 1862-04-15
+Filiação - Bernardino Ferreira Capelo e Maria Rosa
+Profissão - Barbeiro
+Estado - Casado
+Morada - Requião
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34707
+**LangMaterial**:: Português
+**PhysLoc**:: 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34707

@@ -1,0 +1,16 @@
+====== 25873 - DC - As Bodas de Ouro dos Bombeiros V. de Famalicão prometem revestir-se de grande luzimento ======
+
+**Parent**:: 25085
+**RootParent**:: 20342
+**UnitTitle**:: As Bodas de Ouro dos Bombeiros V. de Famalicão prometem revestir-se de grande luzimento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-10-17
+**UnitDateFinal**:: 1943-10-17
+**ScopeContent**:: Recorte de jornal Estrela da Minho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25873
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 183 - cx. 47
+depósito 3, estante
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25873

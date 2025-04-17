@@ -1,0 +1,22 @@
+====== 8345 - UI - Henrique Ferreira Machado ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Henrique Ferreira Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1895
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8345
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.27
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8345
+
+===== Filhos =====
+  * [[8346.txt|8346 - DC - Carta]]
+  * [[8347.txt|8347 - DC - Carta]]
+  * [[8348.txt|8348 - DC - Carta]]
+  * [[8349.txt|8349 - DC - Carta]]
+  * [[8350.txt|8350 - DC - Carta]]
+  * [[8351.txt|8351 - DC - Carta]]
+  * [[8352.txt|8352 - DC - Carta]]

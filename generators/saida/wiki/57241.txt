@@ -1,0 +1,17 @@
+====== 57241 - DC - Comissão de Viticultura. Serviço Central. Assumptos tratados. Nossa representação sobre o Decreto 19.253 do Fomento Vitivinicola ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Assumptos tratados. Nossa representação sobre o Decreto 19.253 do Fomento Vitivinicola
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1931-03
+**UnitDateFinal**:: 1931-03
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes que contém 13 documentos: Cópias datilografadas de of´cicios enviados
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57241
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9508 - cx. 58
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57241

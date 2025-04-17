@@ -1,0 +1,14 @@
+====== 30001 - DC - Adélio Gomes Moreira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Adélio Gomes Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1952-10-29
+**UnitDateFinal**:: 1952-10-29
+**ScopeContent**:: Regedor substituto da freguesia da Carreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30001
+**LangMaterial**:: Português
+**PhysLoc**:: f. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30001

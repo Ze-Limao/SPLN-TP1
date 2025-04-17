@@ -1,0 +1,13 @@
+====== 9687 - DC - Ofício nº 42 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 42
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-06-08
+**UnitDateFinal**:: 1887-06-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9687
+**LangMaterial**:: Português
+**PhysLoc**:: f. 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9687

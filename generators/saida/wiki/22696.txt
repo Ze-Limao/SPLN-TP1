@@ -1,0 +1,16 @@
+====== 22696 - DC - Registo do recenseamento eleitoral de Luís de Carvalho Martins ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Luís de Carvalho Martins
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Louro
+Profissão - Lavrador
+Morada - Aldeia do Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22696
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 47v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22696

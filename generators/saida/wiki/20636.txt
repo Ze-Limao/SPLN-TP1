@@ -1,0 +1,20 @@
+====== 20636 - DC - Registo do recenseamento militar de Luís ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Requião
+Filiação - António Monteiro da Silva e Engrácia Rosa
+Naturalidade - Requião
+Data de nascimento - 1869-11-14
+Emprego - Caixeiro
+Estado - Solteiro
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20636
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 48v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20636

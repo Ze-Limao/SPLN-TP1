@@ -1,0 +1,16 @@
+====== 61774 - DC - Conferência do Distrito 1970 realizado em Guimarães com a participação de Armando Moura da Silva ======
+
+**Parent**:: 61452
+**RootParent**:: 60551
+**UnitTitle**:: Conferência do Distrito 1970 realizado em Guimarães com a participação de Armando Moura da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1996-05-05
+**UnitDateFinal**:: 1996-05-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 446 - cx. 9
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61774

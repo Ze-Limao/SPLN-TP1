@@ -1,0 +1,16 @@
+====== 29179 - DC - Perus - água chalada para beberem ======
+
+**Parent**:: 29178
+**RootParent**:: 27963
+**UnitTitle**:: Perus - água chalada para beberem
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Receita para alimentação de perus.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29179
+**LangMaterial**:: Português
+**PhysLoc**:: AS 327 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29179

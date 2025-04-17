@@ -1,0 +1,11 @@
+====== 7872 - SR - Atas da Comissão do Recenseamento Eleitoral ======
+
+**Parent**:: 7871
+**RootParent**:: 7651
+**UnitTitle**:: Atas da Comissão do Recenseamento Eleitoral
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1901
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7872
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7872

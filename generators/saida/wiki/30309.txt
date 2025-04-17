@@ -1,0 +1,16 @@
+====== 30309 - DC - Carta ======
+
+**Parent**:: 21461
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-01-05
+**UnitDateFinal**:: 1918-01-05
+**ScopeContent**:: Carta manuscrita e assinada, de Rua Costa Cabral, 707.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30309
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1468 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30309

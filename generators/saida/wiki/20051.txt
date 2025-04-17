@@ -1,0 +1,16 @@
+====== 20051 - SC - Segurança Pública ======
+
+**Parent**:: 20048
+**RootParent**:: 20048
+**UnitTitle**:: Segurança Pública
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1882-07-08
+**UnitDateFinal**:: 1928-07-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20051
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20051
+
+===== Filhos =====
+  * [[20055.txt|20055 - SSC - Polícia em geral]]
+  * [[20198.txt|20198 - SSC - Polícia sanitária]]

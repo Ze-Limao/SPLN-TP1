@@ -1,0 +1,24 @@
+====== 55125 - UI - Luís de Magalhães ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Luís de Magalhães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-12-21
+**UnitDateFinal**:: 1907-12-22
+**ScopeContent**:: Cartas enquanto Ministro dos Negócios Estrangeiros, 1906-05-19 a 1907-05-02.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55125
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55125
+
+===== Filhos =====
+  * [[55126.txt|55126 - DC - Carta]]
+  * [[55395.txt|55395 - DC - Carta]]
+  * [[55396.txt|55396 - DC - Carta]]
+  * [[55636.txt|55636 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55637.txt|55637 - DC - Minuta de telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55638.txt|55638 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55639.txt|55639 - DC - Telegrama]]
+  * [[55640.txt|55640 - DC - Telegrama]]
+  * [[55641.txt|55641 - DC - Minuta de telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55642.txt|55642 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

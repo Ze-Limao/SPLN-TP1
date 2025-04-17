@@ -1,0 +1,17 @@
+====== 21244 - UI - Mário Magalhães ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Mário Magalhães
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-04-02
+**UnitDateFinal**:: 1902-05-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21244
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 969, 970
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21244
+
+===== Filhos =====
+  * [[26173.txt|26173 - DC - Carta]]
+  * [[26174.txt|26174 - DC - Carta]]

@@ -1,0 +1,19 @@
+====== 9369 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Maria da Silva
+Naturalidade - Bente
+Data de nascimento - 1877-02-13
+Profissão - Barbeiro
+Estado civil - Solteiro
+Residência - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9369
+**LangMaterial**:: Português
+**PhysLoc**:: f. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9369

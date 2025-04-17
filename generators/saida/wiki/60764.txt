@@ -1,0 +1,15 @@
+====== 60764 - DC - Emprazamento do casal do Carvalho, situado na freguesia de Avidos, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Gaspar (?) e a sua mulher Aldonsa Martins ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal do Carvalho, situado na freguesia de Avidos, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Gaspar (?) e a sua mulher Aldonsa Martins
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1542-05-25
+**UnitDateFinal**:: 1542-05-25
+**ScopeContent**:: Manuscrito, original, com selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 34 - cx. P28
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60764

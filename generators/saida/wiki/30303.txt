@@ -1,0 +1,16 @@
+====== 30303 - DC - Carta ======
+
+**Parent**:: 21457
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926-04-26
+**UnitDateFinal**:: 1926-04-26
+**ScopeContent**:: José Carlos Lopes agradece a oferta dos livros Ninharias e Camilo Homenageado. Carta manuscrita e assinada, do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30303
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1462 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30303

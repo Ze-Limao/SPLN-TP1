@@ -1,0 +1,17 @@
+====== 79294 - DC - Sem Comentários e para que a Lavoura e a Industria nacionaes conheçam a Obra de Fomento do Ministro da Agricultura Dr. Joaquim António de Mello e Castro Ribeiro e alguns feitos...dos seus collaboradores ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Sem Comentários e para que a Lavoura e a Industria nacionaes conheçam a Obra de Fomento do Ministro da Agricultura Dr. Joaquim António de Mello e Castro Ribeiro e alguns feitos...dos seus collaboradores
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924
+**UnitDateFinal**:: 1924
+**ScopeContent**:: Livreto impresso na Imprensa Líbanio da Silva, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56811
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9498 - cx. 58
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79294

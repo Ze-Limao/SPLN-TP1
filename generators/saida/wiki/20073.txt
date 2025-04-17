@@ -1,0 +1,15 @@
+====== 20073 - SR - Registo de passaportes ======
+
+**Parent**:: 20057
+**RootParent**:: 20048
+**UnitTitle**:: Registo de passaportes
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1885-10-22
+**UnitDateFinal**:: 1895-06-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20073
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20073
+
+===== Filhos =====
+  * [[20074.txt|20074 - UI - Registo de passaportes]]

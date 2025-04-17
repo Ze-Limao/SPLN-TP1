@@ -1,0 +1,16 @@
+====== 22762 - DC - Cartão de visita de José de Azevedo e Menezes ======
+
+**Parent**:: 22760
+**RootParent**:: 20290
+**UnitTitle**:: Cartão de visita de José de Azevedo e Menezes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1938
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Documento sem data. Nome, Casa do Vinhal, V.N. Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22762
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1528 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22762

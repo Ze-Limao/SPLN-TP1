@@ -1,0 +1,14 @@
+====== 54649 - UI - José Martins de Queirós ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: José Martins de Queirós
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-05-11
+**UnitDateFinal**:: 1891-05-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54649
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54649
+
+===== Filhos =====
+  * [[54650.txt|54650 - DC - Carta]]

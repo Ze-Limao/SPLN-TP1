@@ -1,0 +1,15 @@
+====== 65861 - DC - Treslado de emprazamento do casal de Fraião, da leira da Pedra e da vinha de Cacavelos, situados na freguesia de S. Tiago de Antas, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, a Pero Anes e a sua mulher Maria Anes ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Treslado de emprazamento do casal de Fraião, da leira da Pedra e da vinha de Cacavelos, situados na freguesia de S. Tiago de Antas, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, a Pero Anes e a sua mulher Maria Anes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1495-12-21
+**UnitDateFinal**:: 1495-12-21
+**ScopeContent**:: Manuscrito, cópia. Transcrição do pergaminho CSTA 10.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 624 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65861

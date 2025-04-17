@@ -1,0 +1,15 @@
+====== 65883 - DC - Renovação de prazo antigo de um casal para Lutuosa ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Renovação de prazo antigo de um casal para Lutuosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1700
+**UnitDateFinal**:: 1800
+**ScopeContent**:: Manuscrito, original. Documento sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 596 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65883

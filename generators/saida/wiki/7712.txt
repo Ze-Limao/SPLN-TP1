@@ -1,0 +1,13 @@
+====== 7712 - UI - Livro de Notas Nº 27 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 27
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1953-09-19
+**UnitDateFinal**:: 1955-06-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7712
+**LangMaterial**:: Português
+**PhysLoc**:: 1.59
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7712

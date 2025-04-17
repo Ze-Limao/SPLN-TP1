@@ -1,0 +1,16 @@
+====== 29246 - DC - Plantação de uma trepadeira Clematis ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Plantação de uma trepadeira Clematis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-04-20
+**UnitDateFinal**:: 1903-04-20
+**ScopeContent**:: Indicação do dia e local de plantação da trepadeira Clematis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29246
+**LangMaterial**:: Português
+**PhysLoc**:: AS 363 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29246

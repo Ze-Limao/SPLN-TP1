@@ -1,0 +1,16 @@
+====== 28030 - DC - Carta ======
+
+**Parent**:: 28024
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-12
+**UnitDateFinal**:: 1866-12
+**ScopeContent**:: Carta expedida de Paris. Recebida em janeiro 1867.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28030
+**LangMaterial**:: Português
+**PhysLoc**:: AS 699 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28030

@@ -1,0 +1,19 @@
+====== 9408 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - António Alves e Mariana Gomes
+Naturalidade - Cruz
+Data de nascimento - 1877-04-02
+Profissão - 
+Estado civil - 
+Residência - Mouquim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9408
+**LangMaterial**:: Português
+**PhysLoc**:: f. 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9408

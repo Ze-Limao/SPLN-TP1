@@ -1,0 +1,16 @@
+====== 27913 - DC - Carta ======
+
+**Parent**:: 21256
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-10-27
+**UnitDateFinal**:: 1924-10-27
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "A Epoca... Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27913
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1007 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27913

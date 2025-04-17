@@ -1,0 +1,16 @@
+====== 28096 - DC - Ofício de George Collins Levey, secretário da International Exhibition of Arts, Manufactures and Agricultural and Industrial Products of all Nations, a realizar em Melbourne, Australia de 1 de Outubro de 1880 a 31 de Março de 1881. ======
+
+**Parent**:: 28094
+**RootParent**:: 27963
+**UnitTitle**:: Ofício de George Collins Levey, secretário da International Exhibition of Arts, Manufactures and Agricultural and Industrial Products of all Nations, a realizar em Melbourne, Australia de 1 de Outubro de 1880 a 31 de Março de 1881.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880
+**UnitDateFinal**:: 1880
+**ScopeContent**:: Ofício impresso com informações aos expositores da International Exhibition of Arts, Manufactures and Agricultural and Industrial Products of all Nations.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28096
+**LangMaterial**:: Inglês
+**PhysLoc**:: AS 502 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28096

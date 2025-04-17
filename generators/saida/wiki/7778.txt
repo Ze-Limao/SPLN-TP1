@@ -1,0 +1,15 @@
+====== 7778 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 7 ======
+
+**Parent**:: 7766
+**RootParent**:: 7651
+**UnitTitle**:: Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos Nº 7
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1803-10-11
+**UnitDateFinal**:: 1830-05-10
+**ScopeContent**:: Freguesias de Vermoim, Joane, Ruivães, Novais, Castelões, Aves, Sobrado, Romão, Riba de Ave, Bairro e Sanfins.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7778
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF - cx. 49
+depósito 1, estante 43
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7778

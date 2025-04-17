@@ -1,0 +1,19 @@
+====== 34339 - DC - Registo do recenseamento militar de José Alves da Silva ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Alves da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Calendário
+Data de nascimento - 1852-09-11
+Filiação - João Alves da Silva e Clementina da Silva
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34339
+**LangMaterial**:: Português
+**PhysLoc**:: 101
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34339

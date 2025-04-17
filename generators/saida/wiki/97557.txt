@@ -1,0 +1,15 @@
+====== 97557 - UI - Processo nº 7-A ======
+
+**Parent**:: 79994
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 7-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-12-16
+**UnitDateFinal**:: 1972-10-31
+**ScopeContent**:: Junto com Autos de Acção de Processo Comum (Ordinário) nº 7, Autos de Reclamação de Créditos nº 7-B e Autos de Execução de Custas nº 7-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 378 - cx. 22
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97557

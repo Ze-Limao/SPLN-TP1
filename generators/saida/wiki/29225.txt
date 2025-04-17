@@ -1,0 +1,17 @@
+====== 29225 - DC - Fatura da Real Companhia Horticolo-Agrícola Portuense ======
+
+**Parent**:: 29176
+**RootParent**:: 27963
+**UnitTitle**:: Fatura da Real Companhia Horticolo-Agrícola Portuense
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-09-25
+**UnitDateFinal**:: 1897-09-25
+**ScopeContent**:: Fatura da Real Companhia Horticolo-Agrícola Portuense, com sede na Rua dos Fogueteiros, 5 - Porto. Factura n. 15974, no valor de 1290 réis, respeitante à compra de 6 Bouvardias, grade e carreto.
+Anotação a tinta, feita por Alberto Sampaio: «Paga por um vale de correio, passado em Guim.es no dia 27 de Set.º».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29225
+**LangMaterial**:: Português
+**PhysLoc**:: AS 342 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29225

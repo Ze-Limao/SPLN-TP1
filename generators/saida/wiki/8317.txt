@@ -1,0 +1,13 @@
+====== 8317 - DC - Ofício ======
+
+**Parent**:: 8316
+**RootParent**:: 8241
+**UnitTitle**:: Ofício
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-06-27
+**UnitDateFinal**:: 1895-06-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8317
+**LangMaterial**:: Português
+**PhysLoc**:: Arquivo Sousa Fernandes, Correspondência, 34, nº 53
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8317

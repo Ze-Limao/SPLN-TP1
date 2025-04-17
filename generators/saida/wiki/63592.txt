@@ -1,0 +1,19 @@
+====== 63592 - DC - Registo do recenseamento militar de Bernardo ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - António de Azevedo e Anastácia Monteiro
+Naturalidade - Castelões
+Morada - Castelões
+Data de nascimento - 1866-11-26
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63592

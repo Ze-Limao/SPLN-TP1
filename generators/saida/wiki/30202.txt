@@ -1,0 +1,16 @@
+====== 30202 - DC - Carta ======
+
+**Parent**:: 21378
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927-09-12
+**UnitDateFinal**:: 1927-09-12
+**ScopeContent**:: Carta manuscrita e assinada de Lisboa. Papel timbrado com nome e morada "Av. Duque de Loulé, 70 Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30202
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1334 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30202

@@ -1,0 +1,17 @@
+====== 55615 - DC - O Primeiro de Janeiro ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: O Primeiro de Janeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-03-17
+**UnitDateFinal**:: 1892-03-17
+**ScopeContent**:: Nota manuscrita "Lisboa. S. Domingos à Lapa. Exmo Sr. Visconde de Pindela".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55615
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12734 - cx. 76
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55615

@@ -1,0 +1,16 @@
+====== 22126 - DC - Postal ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-06-18
+**UnitDateFinal**:: 1908-06-19
+**ScopeContent**:: Postal do Lido-Veneza. Postal ilustrado com a praia do Lido e cabanas. Dá indicações sobre uma publicação no Archivo sobre o ex-libris de Dinis Lencastre.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22126
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 721 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22126

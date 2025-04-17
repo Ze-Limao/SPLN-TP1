@@ -1,0 +1,16 @@
+====== 24842 - DC - Carta ======
+
+**Parent**:: 21077
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-11-09
+**UnitDateFinal**:: 1916-11-09
+**ScopeContent**:: Agradece a remessa de fotografias para o artigo que está a escrever para a Ilustração Portuguesa. Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24842
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 275 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24842

@@ -1,0 +1,15 @@
+====== 24941 - UI - Processo de contas Caixa 1969 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Processo de contas Caixa 1969
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-01-01
+**UnitDateFinal**:: 1969-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24941
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 51 - cx. 18
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24941

@@ -1,0 +1,16 @@
+====== 21436 - UI - Joaquim Augusto da Fonseca Pedrosa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Augusto da Fonseca Pedrosa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-09-16
+**UnitDateFinal**:: 1916-09-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21436
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1424
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21436
+
+===== Filhos =====
+  * [[30272.txt|30272 - DC - Carta]]

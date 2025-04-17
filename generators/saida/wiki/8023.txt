@@ -1,0 +1,16 @@
+====== 8023 - DC - Termo de Daniel Augusto dos Santos e Balbina Cândida Nunes Veloso ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Daniel Augusto dos Santos e Balbina Cândida Nunes Veloso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1875-04-12
+**UnitDateFinal**:: 1875-04-12
+**ScopeContent**:: Expropriação de terreno para alargamento da Rua das Lameiras
+Toponímia - Rua Alves Roçadas
+Local - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8023
+**LangMaterial**:: Português
+**PhysLoc**:: f. 44
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8023

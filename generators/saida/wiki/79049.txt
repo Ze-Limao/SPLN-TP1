@@ -1,0 +1,17 @@
+====== 79049 - DC - 1912 Correspondencia com o Moreira d´Almeida ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: 1912 Correspondencia com o Moreira d´Almeida
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1912
+**ScopeContent**:: Envelope com título manuscrito que contém cartas CP 8176 a CP 8186.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56728
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8175 - cx. 50
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79049

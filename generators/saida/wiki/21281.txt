@@ -1,0 +1,16 @@
+====== 21281 - UI - Albano Portocarrero de Almeida Coutinho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Albano Portocarrero de Almeida Coutinho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907-07-08
+**UnitDateFinal**:: 1907-07-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21281
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1130
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21281
+
+===== Filhos =====
+  * [[29721.txt|29721 - DC - Carta]]

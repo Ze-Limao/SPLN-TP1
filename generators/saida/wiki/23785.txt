@@ -1,0 +1,16 @@
+====== 23785 - DC - Registo do recenseamento eleitoral de José António de Oliveira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José António de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Escrivão de Fazenda
+Morada - Feira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23785
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 86v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23785

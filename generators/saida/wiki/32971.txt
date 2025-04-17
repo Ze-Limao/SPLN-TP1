@@ -1,0 +1,20 @@
+====== 32971 - UI - Ana de Jesus Maria de Bragança ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Ana de Jesus Maria de Bragança
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-08-12
+**UnitDateFinal**:: 1911-05-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32971
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32971
+
+===== Filhos =====
+  * [[32972.txt|32972 - DC - Carta para os Viscondes]]
+  * [[32973.txt|32973 - DC - Cartão de visita para Viscondes]]
+  * [[32974.txt|32974 - DC - Carta]]

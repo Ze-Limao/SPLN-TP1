@@ -1,0 +1,16 @@
+====== 23136 - DC - Carta ======
+
+**Parent**:: 21039
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-08-18
+**UnitDateFinal**:: 1898-08-18
+**ScopeContent**:: Alberto Pimentel pede informações e esclarecimentos sobre o filho de Camilo - Nuno, a respeito do seu casamento e rapto de Maria Isabel da Costa Macedo "o brilhante negro". Alberto Pimentel solicita a reprodução de uma fotografia da mocidade de Ana Plácido. Todos os pedidos tem a razão de ser pelo facto de AP estar a escrever o livro "Os Amores de Camilo" (publicado em 1899). Carta manuscrita assinada, Lisboa, Rua de S. Roque, 81 3º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23136
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 25 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23136

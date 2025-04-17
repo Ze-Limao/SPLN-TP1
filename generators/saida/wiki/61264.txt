@@ -1,0 +1,16 @@
+====== 61264 - DC - Bilhete-postal ======
+
+**Parent**:: 60925
+**RootParent**:: 60550
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1931-09-01
+**UnitDateFinal**:: 1931-09-02
+**ScopeContent**:: Bilhete-postal de Paredes de Coura para Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 5 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61264

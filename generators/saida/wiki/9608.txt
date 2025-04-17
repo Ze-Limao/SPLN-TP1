@@ -1,0 +1,19 @@
+====== 9608 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Maria Rosa Monteiro
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1877-04-12
+Profissão - 
+Estado civil - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9608
+**LangMaterial**:: Português
+**PhysLoc**:: f. 52v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9608

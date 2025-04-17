@@ -1,0 +1,17 @@
+====== 32982 - DC - Carta ======
+
+**Parent**:: 32975
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-12-21
+**UnitDateFinal**:: 1921-12-22
+**ScopeContent**:: Carta manuscrita assinada em papel de luto, do Palácio do Grilo, Calçada Duque de Lafões, 1, Lisboa. Envelope selado e carimbado dirigido para a Casa de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32982
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3937 - cx. 29
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução. Esta carta pertence ao maço "Últimas cartas de varias pessoas que o meu querido Pai recebeu".
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32982

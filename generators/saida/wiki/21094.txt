@@ -1,0 +1,15 @@
+====== 21094 - DC - Termo de Manuel Lopes e Ana Ferreira ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel Lopes e Ana Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-08-22
+**UnitDateFinal**:: 1879-08-22
+**ScopeContent**:: Construção de portal
+Local - Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21094
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21094

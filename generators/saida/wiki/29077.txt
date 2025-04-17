@@ -1,0 +1,16 @@
+====== 29077 - DC - Carta ======
+
+**Parent**:: 29075
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868-03-31
+**UnitDateFinal**:: 1868-03-31
+**ScopeContent**:: Carta expedida de Paris. No verso a direção, selos e carimbos do correio.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29077
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 678 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29077

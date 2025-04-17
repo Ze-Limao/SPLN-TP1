@@ -1,0 +1,18 @@
+====== 8443 - DC - Termo do exame de Joaquim Luís Pereira Palhares ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim Luís Pereira Palhares
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-05-05
+**UnitDateFinal**:: 1885-05-05
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - José Luís Pereira
+Naturalidade - Jesufrei
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8443
+**LangMaterial**:: Português
+**PhysLoc**:: f. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8443

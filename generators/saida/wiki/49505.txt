@@ -1,0 +1,18 @@
+====== 49505 - DC - Registo do recenseamento eleitoral de Aires da Silva Castro ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Aires da Silva Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vermoim
+Profissão - Lavrador
+Estado - Solteiro
+Morada - Outeiro
+Idade - 42
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49505
+**LangMaterial**:: Português
+**PhysLoc**:: 87v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49505

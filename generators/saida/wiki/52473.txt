@@ -1,0 +1,18 @@
+====== 52473 - DC - Registo do recenseamento militar de Manuel Carvalho ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-07-15
+Filiação - Joaquim Carvalho e Joaquina Coelho
+Naturalidade - Pousada de Saramagos
+Profissão - Lavrador
+Residência - Pousada de Saramagos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52473
+**LangMaterial**:: Português
+**PhysLoc**:: 15v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52473

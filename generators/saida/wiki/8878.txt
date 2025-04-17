@@ -1,0 +1,18 @@
+====== 8878 - DC - Termo do exame de Olímpia de Araújo Pacheco ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Olímpia de Araújo Pacheco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-08
+**UnitDateFinal**:: 1893-08-08
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - António José Pacheco
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8878
+**LangMaterial**:: Português
+**PhysLoc**:: f. 54 v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8878

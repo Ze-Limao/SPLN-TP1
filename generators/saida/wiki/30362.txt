@@ -1,0 +1,16 @@
+====== 30362 - DC - Registo do recenseamento eleitoral de António de Sousa Magalhães ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de António de Sousa Magalhães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Abade de Vermoim
+Profissão - Abade
+Morada - Residência
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30362
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30362

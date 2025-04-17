@@ -1,0 +1,15 @@
+====== 25949 - DC - Inauguração do monumento ao bombeiro ======
+
+**Parent**:: 25322
+**RootParent**:: 20342
+**UnitTitle**:: Inauguração do monumento ao bombeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1992
+**UnitDateFinal**:: 1992
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25949
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 191 - cx. 53
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25949

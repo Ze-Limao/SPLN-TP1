@@ -1,0 +1,78 @@
+====== 31635 - UI - José Maria de Alpoim ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: José Maria de Alpoim
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-05-13
+**UnitDateFinal**:: 1916
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31635
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31635
+
+===== Filhos =====
+  * [[31636.txt|31636 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31637.txt|31637 - DC - Carta]]
+  * [[31638.txt|31638 - DC - Carta]]
+  * [[31639.txt|31639 - DC - Carta]]
+  * [[31640.txt|31640 - DC - Carta]]
+  * [[31641.txt|31641 - DC - Carta]]
+  * [[31642.txt|31642 - DC - Carta]]
+  * [[31643.txt|31643 - DC - Carta]]
+  * [[31644.txt|31644 - DC - Carta]]
+  * [[31645.txt|31645 - DC - Carta]]
+  * [[31646.txt|31646 - DC - Carta]]
+  * [[31647.txt|31647 - DC - Carta]]
+  * [[31648.txt|31648 - DC - Carta]]
+  * [[31649.txt|31649 - DC - Carta]]
+  * [[31650.txt|31650 - DC - Carta]]
+  * [[31651.txt|31651 - DC - Carta]]
+  * [[31652.txt|31652 - DC - Carta]]
+  * [[31653.txt|31653 - DC - Carta]]
+  * [[31654.txt|31654 - DC - Carta]]
+  * [[31655.txt|31655 - DC - Carta]]
+  * [[31656.txt|31656 - DC - Carta]]
+  * [[31657.txt|31657 - DC - Carta]]
+  * [[31658.txt|31658 - DC - Carta]]
+  * [[31659.txt|31659 - DC - Carta]]
+  * [[31660.txt|31660 - DC - Carta]]
+  * [[31661.txt|31661 - DC - Carta]]
+  * [[31662.txt|31662 - DC - Carta]]
+  * [[31663.txt|31663 - DC - Carta]]
+  * [[31664.txt|31664 - DC - Carta]]
+  * [[31665.txt|31665 - DC - Carta]]
+  * [[31666.txt|31666 - DC - Carta]]
+  * [[31667.txt|31667 - DC - Carta]]
+  * [[31668.txt|31668 - DC - Carta]]
+  * [[31669.txt|31669 - DC - Carta]]
+  * [[31670.txt|31670 - DC - Carta]]
+  * [[31671.txt|31671 - DC - Carta]]
+  * [[31672.txt|31672 - DC - Carta]]
+  * [[31673.txt|31673 - DC - Carta]]
+  * [[31674.txt|31674 - DC - Carta]]
+  * [[31675.txt|31675 - DC - Carta]]
+  * [[31676.txt|31676 - DC - Carta]]
+  * [[31677.txt|31677 - DC - Carta]]
+  * [[31678.txt|31678 - DC - Carta]]
+  * [[31679.txt|31679 - DC - Carta]]
+  * [[31680.txt|31680 - DC - Carta]]
+  * [[31681.txt|31681 - DC - Carta]]
+  * [[31682.txt|31682 - DC - Carta]]
+  * [[31683.txt|31683 - DC - Carta]]
+  * [[31684.txt|31684 - DC - Carta]]
+  * [[31685.txt|31685 - DC - Carta]]
+  * [[31686.txt|31686 - DC - Carta]]
+  * [[31687.txt|31687 - DC - Carta]]
+  * [[31688.txt|31688 - DC - Carta]]
+  * [[31689.txt|31689 - DC - Carta]]
+  * [[31690.txt|31690 - DC - Carta]]
+  * [[31691.txt|31691 - DC - Carta]]
+  * [[31692.txt|31692 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31693.txt|31693 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31694.txt|31694 - DC - Telegrama]]
+  * [[31695.txt|31695 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[31696.txt|31696 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

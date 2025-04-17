@@ -1,0 +1,16 @@
+====== 29641 - DC - Enceradura impermeavel para calçado ======
+
+**Parent**:: 29270
+**RootParent**:: 27963
+**UnitTitle**:: Enceradura impermeavel para calçado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Composição: sebo puro, banha de porco, cera amarela, azeite, terebintina, pós pretos ou pós de marfim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29641
+**LangMaterial**:: Português
+**PhysLoc**:: AS 181 (1) - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29641

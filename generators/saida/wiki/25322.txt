@@ -1,0 +1,19 @@
+====== 25322 - UI - Fotografias diversas ======
+
+**Parent**:: 20387
+**RootParent**:: 20342
+**UnitTitle**:: Fotografias diversas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1992
+**UnitDateFinal**:: 1992
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25322
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 191 - cx. 53
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25322
+
+===== Filhos =====
+  * [[25949.txt|25949 - DC - Inauguração do monumento ao bombeiro]]
+  * [[53972.txt|53972 - DC - Corpo dos Bombeiros em formatura, a fanfarra e carros]]

@@ -1,0 +1,25 @@
+====== 21040 - UI - Alberto Pinheiro Torres ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alberto Pinheiro Torres
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-11-28
+**UnitDateFinal**:: 1919-09-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21040
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 39, 40, 41, 42, 43, 44, 45, 46, 47
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21040
+
+===== Filhos =====
+  * [[23150.txt|23150 - DC - Carta]]
+  * [[23151.txt|23151 - DC - Carta]]
+  * [[23152.txt|23152 - DC - Carta]]
+  * [[23153.txt|23153 - DC - Carta]]
+  * [[23154.txt|23154 - DC - Carta]]
+  * [[23155.txt|23155 - DC - Carta]]
+  * [[23156.txt|23156 - DC - Carta]]
+  * [[23157.txt|23157 - DC - Carta]]
+  * [[23158.txt|23158 - DC - Carta]]

@@ -1,0 +1,18 @@
+====== 60570 - UI - José de Morais ======
+
+**Parent**:: 31373
+**RootParent**:: 31258
+**UnitTitle**:: José de Morais
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1872
+**UnitDateFinal**:: 1872-11-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53090
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60570
+
+===== Filhos =====
+  * [[60571.txt|60571 - DC - Carta e recibo]]
+  * [[60576.txt|60576 - DC - Carta de Francisco Pereira Torres Coelho para José de Morais]]
+  * [[60583.txt|60583 - DC - Carta de Francisco Pereira Torres Coelho para José de Morais]]
+  * [[60584.txt|60584 - DC - Recibo]]
+  * [[60585.txt|60585 - DC - Recibo]]

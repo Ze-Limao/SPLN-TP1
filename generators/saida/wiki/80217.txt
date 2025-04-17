@@ -1,0 +1,15 @@
+====== 80217 - UI - Processo nº 90 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 90
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-02-26
+**UnitDateFinal**:: 1976-09-01
+**ScopeContent**:: Junto com Autos de Processo Comum Sumário nº 88, 89, 103, 104, 121.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 106 - cx. 7
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80217

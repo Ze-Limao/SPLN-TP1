@@ -1,0 +1,15 @@
+====== 24973 - UI - Livro Contas correntes com as despesas orçamentais ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Livro Contas correntes com as despesas orçamentais
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1952-01-07
+**UnitDateFinal**:: 1960-12-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24973
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 78
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24973

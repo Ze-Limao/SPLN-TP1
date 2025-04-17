@@ -1,0 +1,16 @@
+====== 30357 - DC - Cartão de visita ======
+
+**Parent**:: 21336
+**RootParent**:: 20290
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921
+**UnitDateFinal**:: 1921
+**ScopeContent**:: Cartão de visita manuscrita e assinado, enviado da Casa de Pindela no ano das Bodas de Ouro de casamento de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30357
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1555 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30357

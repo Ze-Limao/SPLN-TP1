@@ -1,0 +1,15 @@
+====== 65753 - DC - Emprazamento do casal das Bouças, situado na freguesia de Mouquim, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a António de Araújo e a sua mulher Rosa de Carvalho ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal das Bouças, situado na freguesia de Mouquim, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a António de Araújo e a sua mulher Rosa de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1764-06-20
+**UnitDateFinal**:: 1764-06-20
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 178 - cx. 9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65753

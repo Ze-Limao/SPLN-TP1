@@ -1,0 +1,16 @@
+====== 99796 - DC - Livro de Actas da Comissão Municipal de Arte e Arqueologia ======
+
+**Parent**:: 99793
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Actas da Comissão Municipal de Arte e Arqueologia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1967-04-15
+**UnitDateFinal**:: 1976-02-20
+**ScopeContent**:: Livro manuscrito (13 f.) com capas em cartão. Contém documentos: 
+732 (1 a 23) documentos correspondência, certidões, cópia de atas e notas. de 1968 a 1977.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98781
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 732 - cx. 732
+depósito 1, estante 38
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99796

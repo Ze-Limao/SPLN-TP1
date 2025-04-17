@@ -1,0 +1,18 @@
+====== 8777 - DC - Termo do exame de Manuel José de Macedo ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel José de Macedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-08-12
+**UnitDateFinal**:: 1892-08-12
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Desidério José de Macedo
+Naturalidade - Lousado
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8777
+**LangMaterial**:: Português
+**PhysLoc**:: f. 28
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8777

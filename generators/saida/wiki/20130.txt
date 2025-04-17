@@ -1,0 +1,17 @@
+====== 20130 - UI - Copiador da correspondência expedida ======
+
+**Parent**:: 20123
+**RootParent**:: 20048
+**UnitTitle**:: Copiador da correspondência expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1926-07-13
+**UnitDateFinal**:: 1927-03-28
+**ScopeContent**:: Não tem termo de abertura. Copiador de ofícios nº337/1926 a nº 598/1927.
+Contém:
+Cópia circular nº 183 do Administrador do Concelho ao Presidente da Comissão Administrativa da Câmara Municipal de Vila Nova de Famalicão, 1927-03-21, 1 f.; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20130
+**LangMaterial**:: Português
+**PhysLoc**:: AC 68
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20130

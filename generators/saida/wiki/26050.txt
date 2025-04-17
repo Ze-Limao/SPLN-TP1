@@ -1,0 +1,16 @@
+====== 26050 - DC - Carta ======
+
+**Parent**:: 21215
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Júlio Brandão refere não ter recebido a nota sobre Seide que lhe fora prometida. Carta manuscrita assinada, do Porto, R. Costa Cabral, 290. Carta de 23 dezembro, sem menção ao ano. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26050
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 844 - cx. 9
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26050

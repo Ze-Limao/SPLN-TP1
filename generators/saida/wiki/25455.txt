@@ -1,0 +1,16 @@
+====== 25455 - DC - Notícias de Famalicão ======
+
+**Parent**:: 25080
+**RootParent**:: 20342
+**UnitTitle**:: Notícias de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-10-21
+**UnitDateFinal**:: 1966-10-21
+**ScopeContent**:: Ano XII (XXXI), nº 558 (1371). Artigos sobre as Bodas de Diamante dos bombeiros.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25455
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 178 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25455

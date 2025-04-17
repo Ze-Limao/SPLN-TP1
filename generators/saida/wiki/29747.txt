@@ -1,0 +1,16 @@
+====== 29747 - DC - Carta ======
+
+**Parent**:: 21295
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-09-19
+**UnitDateFinal**:: 1900-09-19
+**ScopeContent**:: Carta manuscrita assinada, de Castelo Branco. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29747
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1158 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29747

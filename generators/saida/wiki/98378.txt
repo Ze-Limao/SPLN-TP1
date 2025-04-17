@@ -1,0 +1,17 @@
+====== 98378 - DC - Compra de José Custódio de Magalhães e mulher Teresa Lopes de Carvalho, da Casa de Soutelo, da freguesia de Santa Senhorinha, julgado de Cabeceiras de Basto ======
+
+**Parent**:: 31302
+**RootParent**:: 31258
+**UnitTitle**:: Compra de José Custódio de Magalhães e mulher Teresa Lopes de Carvalho, da Casa de Soutelo, da freguesia de Santa Senhorinha, julgado de Cabeceiras de Basto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1861-01-23
+**UnitDateFinal**:: 1861-01-23
+**ScopeContent**:: Manuscrito em papel azul em folha seladas de 40 reis. Este documento está na capa "Documento nº4", que contém CP 12912 a CP 12936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12931- cx. 80
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98378

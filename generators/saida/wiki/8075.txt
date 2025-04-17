@@ -1,0 +1,15 @@
+====== 8075 - DC - Termo de Ana Dias de Azevedo ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Ana Dias de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-12-11
+**UnitDateFinal**:: 1878-12-11
+**ScopeContent**:: Vedação de terreno
+Local - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8075
+**LangMaterial**:: Português
+**PhysLoc**:: f. 2
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8075

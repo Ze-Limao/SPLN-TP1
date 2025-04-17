@@ -1,0 +1,21 @@
+====== 62295 - DC - Carta ======
+
+**Parent**:: 33795
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-01-14
+**UnitDateFinal**:: 1908-01-14
+**ScopeContent**:: Carta manuscrita assinada. A resposta à carta de pêsames de Vicente Pinheiro.
+Transcrição da carta:
+«Meu caro Visconde, prezadissimo amigo.
+Era uma nossa companheira desde a infância, e vê-la partir para sempre custou-nos muito, muito. O pior é a passagem: depois as almas lá seguem, na sua evolução pelo infinito, o caminho que Deus lhes traçou. Os que cá ficam, ficam esperando a sua vez.Tudo isto é majestoso e triste, e o melhor é resignarmo-nos. Ainda cá me ficam seis. Há muitos anos que em minha casa não há senão mulheres: é uma espécie de convento de freiras, de que eu, o único macho, sou o guardião. Quem me diria, noutros tempos! Muito obrigado pelas suas palavras de deferência e consolação. Todos nós, eu e minhas irmãs, lhas agradecemos, enviando os nossos cumprimentos respeitosos para a Sra. Viscondessa e para toda a ex.ma família. O meu bom amigo não precisa de mim, mas se precisar já se vê que é só mandar. Com infinita consideração subscrevo-me, meu caro Vicente, muito amigo e admirador
+João Penha»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33793
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4666 - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62295

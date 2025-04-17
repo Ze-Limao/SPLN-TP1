@@ -1,0 +1,18 @@
+====== 99319 - UI - British Cooperative Stores ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: British Cooperative Stores
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-04-06
+**UnitDateFinal**:: 1917-03-22
+**ScopeContent**:: Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99319
+
+===== Filhos =====
+  * [[99320.txt|99320 - DC - Ofício]]
+  * [[99323.txt|99323 - DC - Ofício]]
+  * [[99334.txt|99334 - DC - Ofício]]
+  * [[99484.txt|99484 - DC - Bilhete-postal]]

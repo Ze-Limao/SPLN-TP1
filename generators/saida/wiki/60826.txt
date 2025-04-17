@@ -1,0 +1,17 @@
+====== 60826 - DC - Carta para Viscondes ======
+
+**Parent**:: 31765
+**RootParent**:: 31258
+**UnitTitle**:: Carta para Viscondes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-03-25
+**UnitDateFinal**:: 1916-03-25
+**ScopeContent**:: Carta manuscrita assinada, sem menção ao ano. Refere o casamento de Ana Maria Isabel do Carmo Pinheiro de Melo, filha do 1º casamento do Conde de Arnoso, a 25 de março de 1916, com José de Arruela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51883
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5984 - cx. 41
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60826

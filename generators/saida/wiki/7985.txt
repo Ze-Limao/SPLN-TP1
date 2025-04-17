@@ -1,0 +1,15 @@
+====== 7985 - DC - Termo de responsabilidade de António Vicente de Carvalho Leal e Sousa ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de responsabilidade de António Vicente de Carvalho Leal e Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-07-01
+**UnitDateFinal**:: 1863-07-01
+**ScopeContent**:: Ampliação de uma mina de água
+Local - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7985
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7985

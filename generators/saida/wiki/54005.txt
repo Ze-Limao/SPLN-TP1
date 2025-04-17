@@ -1,0 +1,28 @@
+====== 54005 - DC - Projecto do novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc.- Segundo Adicional da construção civil e Primeiro Adicional da urbanização 1961. Câmara Municipal de Famalicão ======
+
+**Parent**:: 53750
+**RootParent**:: 25851
+**UnitTitle**:: Projecto do novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc.- Segundo Adicional da construção civil e Primeiro Adicional da urbanização 1961. Câmara Municipal de Famalicão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-06-03
+**UnitDateFinal**:: 1961-06-03
+**ScopeContent**:: Contém 160(1) a (9).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54005
+**LangMaterial**:: Português
+**PhysLoc**:: JG 160(1) - cx. 16
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54005
+
+===== Filhos =====
+  * [[54006.txt|54006 - DC - Medição de obras a mais a executar como Segundo Adicional à empreitada geral do novo edifício dos Paços do Concelho…]]
+  * [[54007.txt|54007 - DC - Orçamento das obras a mais a executar como Segundo Adicional à empreitada geral do novo edifício dos Paços do Concelho…]]
+  * [[54008.txt|54008 - DC - Orçamento das obras a menos a deduzir como Segundo Adicional à empreitada geral do novo edifício dos Paços do Concelho…]]
+  * [[54009.txt|54009 - DC - Medição de obras a mais a executar como Primeiro Adicional à empreitada geral da urbanização da praça do novo edifício do Tribunal…]]
+  * [[54010.txt|54010 - DC - Orçamento das obras a mais a executar como Primeiro Adicional à empreitada geral da urbanização da praça do novo edifício do Tribunal]]
+  * [[54011.txt|54011 - DC - Orçamento das obras a menos a deduzir como Primeiro Adicional à empreitada geral da urbanização da praça do novo edifício do Tribunal]]
+  * [[54012.txt|54012 - DC - Medição de obras a menos a deduzir como Segundo Adicional à empreitada geral do novo edifício dos Paços do Concelho…]]
+  * [[54013.txt|54013 - DC - Medição de obras a menos a deduzir como Primeiro Adicional à empreitada geral da urbanização da praça anexa ao edifício do Tribunal…]]
+  * [[54014.txt|54014 - DC - Segundo Adicional à empreitada geral do novo edifício dos Paços do Concelho e Primeiro Adicional à empreitada geral de urbanização em volta dos novos Paços do Concelho… Câmara Municipal de Famalicão]]

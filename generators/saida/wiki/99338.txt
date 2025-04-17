@@ -1,0 +1,15 @@
+====== 99338 - UI - Francisco H. Castanheira & Cª. ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Francisco H. Castanheira & Cª.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-07-12
+**UnitDateFinal**:: 1916-07-12
+**ScopeContent**:: Cereais e legumes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99338
+
+===== Filhos =====
+  * [[99339.txt|99339 - DC - Ofício]]

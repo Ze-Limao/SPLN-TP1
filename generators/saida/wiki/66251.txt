@@ -1,0 +1,15 @@
+====== 66251 - DC - Certidão de António Fernandes, abade de S. Tiago de Antas, a Bernardo Silva ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Certidão de António Fernandes, abade de S. Tiago de Antas, a Bernardo Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1592-10-08
+**UnitDateFinal**:: 1592-10-08
+**ScopeContent**:: Manuscrito, original, sem capa e folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 417 - cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66251

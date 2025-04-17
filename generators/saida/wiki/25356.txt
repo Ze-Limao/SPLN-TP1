@@ -1,0 +1,16 @@
+====== 25356 - DC - Aldegalega ======
+
+**Parent**:: 25040
+**RootParent**:: 20342
+**UnitTitle**:: Aldegalega
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1930
+**ScopeContent**:: Parte para flautim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25356
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 142 - cx. 35
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25356

@@ -1,0 +1,17 @@
+====== 31492 - DC - Ofício e Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 31412
+**RootParent**:: 31258
+**UnitTitle**:: Ofício e Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-05-29
+**UnitDateFinal**:: 1918-05-29
+**ScopeContent**:: Ofício datilografado em papel timbrado da "Biblioteca Academia das Sciências", assinado pelo 2º oficial, com envelope. Minuta de carta manuscrita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31492
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1972 - cx. 14
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31492

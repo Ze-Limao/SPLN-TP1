@@ -1,0 +1,17 @@
+====== 52792 - DC - Registo do recenseamento militar de Lino Joaquim ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Lino Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-05-09
+Filiação - Sebastião Silvério Moreira de Faria e Maria Barbosa
+Naturalidade - Vila Nova de Famalicão
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52792
+**LangMaterial**:: Português
+**PhysLoc**:: 69v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52792

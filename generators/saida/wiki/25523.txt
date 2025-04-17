@@ -1,0 +1,16 @@
+====== 25523 - DC - Carta ======
+
+**Parent**:: 21136
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-08-05
+**UnitDateFinal**:: 1924-08-05
+**ScopeContent**:: Henrique Coutinho agradece o relatório e informa que a Companhia Editora do Porto continua a editar o Amor de Perdição sem autorização dos herdeiros. Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25523
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 477 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25523

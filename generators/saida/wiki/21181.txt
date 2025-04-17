@@ -1,0 +1,19 @@
+====== 21181 - UI - João Dinis Pinto Coelho Guedes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Dinis Pinto Coelho Guedes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-03-09
+**UnitDateFinal**:: 1910-03-09
+**ScopeContent**:: João Dinis Pinto Coelho Guedes, assina João Pinto Simães, nasceu a 26.10.1836, faleceu a 16.11.1912. Refere na carta que o seu avô é José Pinto Coelho Cardoso de Macedo. Filho de José Pinto Coelho Guedes de Simães (21.08.1797) e de Leonarda Rosa Branca Pereira de Miranda (1809).
+Fonte: Geneall.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21181
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 608
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21181
+
+===== Filhos =====
+  * [[25658.txt|25658 - DC - Carta]]

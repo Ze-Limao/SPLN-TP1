@@ -1,0 +1,17 @@
+====== 57136 - DC - Comissão de Viticultura. Serviço Central. Serviço de Estatística. Estatísticas do movimento de vinhos no continente de 1927, 1928, 1929 e 1930 ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Serviço Central. Serviço de Estatística. Estatísticas do movimento de vinhos no continente de 1927, 1928, 1929 e 1930
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1927
+**UnitDateFinal**:: 1930
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes. Capa contida no CP 9491, junto com CP 9492, CP 9493, CP 9495. Contém 4 documentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57136
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9494 - cx. 57
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57136

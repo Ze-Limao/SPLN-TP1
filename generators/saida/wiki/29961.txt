@@ -1,0 +1,16 @@
+====== 29961 - DC - Carta ======
+
+**Parent**:: 21356
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-03-20
+**UnitDateFinal**:: 1909-03-20
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Câmara dos Pares, Gabinete da Presidência, Particular".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29961
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1269 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29961

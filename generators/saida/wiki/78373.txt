@@ -1,0 +1,17 @@
+====== 78373 - DC - Certidão do depósito da quantia de 33.000 reis que fez Manuel Pinto de Magalhães a qual quantia estava devendo aos herdeiros do abade de S. Tiago da Faia ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Certidão do depósito da quantia de 33.000 reis que fez Manuel Pinto de Magalhães a qual quantia estava devendo aos herdeiros do abade de S. Tiago da Faia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1720
+**UnitDateFinal**:: 1720
+**ScopeContent**:: Manuscrito com folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4989 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78373

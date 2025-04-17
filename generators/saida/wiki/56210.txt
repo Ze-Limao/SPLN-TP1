@@ -1,0 +1,27 @@
+====== 56210 - DC - Letra de 4000#000 que me devem minha cunhada Condessa de Arnoso e meus sobrinhos Ana e Vicente Pinheiro ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Letra de 4000#000 que me devem minha cunhada Condessa de Arnoso e meus sobrinhos Ana e Vicente Pinheiro
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1911
+**UnitDateFinal**:: 1917
+**ScopeContent**:: Envelope com "Lettra de 4:000#000 de reis que me devem minha cunhada Condessa de Arnoso e meus sobrinhos Anna e Vicente Pinheiro…1911". Contém cartas CP 13636 a 13643.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56210
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13635 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56210
+
+===== Filhos =====
+  * [[56211.txt|56211 - DC - Carta para Afonso Lopes Vieira]]
+  * [[56212.txt|56212 - DC - Carta de Matilde Munró dos Anjos para irmãos]]
+  * [[56213.txt|56213 - DC - Envelope Sobre a letra dos 4 contos da minha cunhada e sobrinhos Ana e Vicente]]
+  * [[56214.txt|56214 - DC - Carta de Vicente Miguel de Paula Pinheiro de Melo para Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[56215.txt|56215 - DC - Carta de Matilde Munró dos Anjos para irmãos]]
+  * [[56216.txt|56216 - DC - Recibo]]
+  * [[56217.txt|56217 - DC - Recibo da Conservatória da Comarca de Guimarães]]
+  * [[56218.txt|56218 - DC - Letra 4000$00]]

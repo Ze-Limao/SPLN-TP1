@@ -1,0 +1,19 @@
+====== 21179 - UI - João Antonino da Ascensão de Paiva de Faria Leite Brandão ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Antonino da Ascensão de Paiva de Faria Leite Brandão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-12-15
+**UnitDateFinal**:: 1921-12-15
+**ScopeContent**:: João Antonino da Ascensão de Paiva de Faria Leite Brandão nasceu em Braga a 10.05.1877 e faleceu a 15.12.1975. Foi Oficial da Armada Real, Governador civil do Funchal (1908-1910), Vereador da Câmara Municipal do Porto, senhor das Casas do Pomar, em Lanhoso, do Rio, em Gondizalves, Braga e do Campo de São Tiago, em Braga.
+Fonte: Geneall.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21179
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 606
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21179
+
+===== Filhos =====
+  * [[25656.txt|25656 - DC - Carta]]

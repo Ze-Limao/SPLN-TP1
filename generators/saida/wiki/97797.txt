@@ -1,0 +1,15 @@
+====== 97797 - UI - Processo nº 255 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 255
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1979-11-05
+**UnitDateFinal**:: 1980-07-21
+**ScopeContent**:: Junto com Autos de Transgressão nº 61.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 524 - cx. 31
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97797

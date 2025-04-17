@@ -1,0 +1,16 @@
+====== 21456 - UI - José Augusto R. Ribeiro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Augusto R. Ribeiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-01-15
+**UnitDateFinal**:: 1902-01-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21456
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1461
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21456
+
+===== Filhos =====
+  * [[30302.txt|30302 - DC - Carta]]

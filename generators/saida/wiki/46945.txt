@@ -1,0 +1,24 @@
+====== 46945 - UI - Maria Constança de Saldanha da Gama ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria Constança de Saldanha da Gama
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46945
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46945
+
+===== Filhos =====
+  * [[46946.txt|46946 - DC - Carta]]
+  * [[46947.txt|46947 - DC - Carta]]
+  * [[46948.txt|46948 - DC - Carta]]
+  * [[46949.txt|46949 - DC - Carta]]
+  * [[46950.txt|46950 - DC - Carta]]
+  * [[46951.txt|46951 - DC - Carta]]
+  * [[46952.txt|46952 - DC - Carta]]
+  * [[46953.txt|46953 - DC - Carta]]
+  * [[46954.txt|46954 - DC - Carta]]

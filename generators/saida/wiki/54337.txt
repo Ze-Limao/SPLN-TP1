@@ -1,0 +1,15 @@
+====== 54337 - UI - Frei Manuel Luís da Conceição ======
+
+**Parent**:: 31297
+**RootParent**:: 31258
+**UnitTitle**:: Frei Manuel Luís da Conceição
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1822-04-18
+**UnitDateFinal**:: 1822-08-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54337
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54337
+
+===== Filhos =====
+  * [[54338.txt|54338 - DC - Carta para Frei Manuel Luís da Conceição]]

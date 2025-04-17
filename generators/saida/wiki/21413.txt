@@ -1,0 +1,16 @@
+====== 21413 - UI - Gonçalo Duarte Cláudio Huet de Bacelar Sotto Mayor Pinto Guedes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Gonçalo Duarte Cláudio Huet de Bacelar Sotto Mayor Pinto Guedes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-06-01
+**UnitDateFinal**:: 1916-06-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21413
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1391
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21413
+
+===== Filhos =====
+  * [[30243.txt|30243 - DC - Carta]]

@@ -1,0 +1,20 @@
+====== 25835 - DC - Ofício do Presidente da Liga dos Bombeiros Portugueses, António de Moura e Silva, dirigida ao Presidente da Associação Humanitária dos Bombeiros Voluntários de Vila Nova de Famalicão ======
+
+**Parent**:: 24764
+**RootParent**:: 20342
+**UnitTitle**:: Ofício do Presidente da Liga dos Bombeiros Portugueses, António de Moura e Silva, dirigida ao Presidente da Associação Humanitária dos Bombeiros Voluntários de Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1972-06-29
+**UnitDateFinal**:: 1972-06-29
+**ScopeContent**:: Transcrição:
+«Iniciais hoje mais um ano da vossa atividade, toda ela consagrada à prática do Bem e ao Serviço da Zona que vos está entregue. / E, revendo toda a vida já passada havemos de nos mostrar agradecidos aos homens que, num dia, pensaram e levaram a efeito a criação da vossa Corporação. / Que magnífico exemplo nos deixaram e como eles, numa época em que tudo se podia planificar a longa distância souberam dar largas à generosidade do seu coração e acautelar os interesses e a defesa da vida e dos haveres das populações e de tal forma, que ainda hoje são as Corporações de Bombeiros, o esteio da defesa do património nacional, apesar da evolução rápida que toda a vida sofreu. […] / 	Bem hajam todos os vossos voluntários, o Comando e os Corpos Diretivos, que sacrificando-se pelos outros, se realizam inteiramente na vida, dando ao seu semelhante o melhor que têm e tantas vezes até a própria vida. / Que este dia, festivamente comemorado, seja o prenúncio de um novo ano sem preocupações de maior e que durante ele, possais continuar a servir, tão nobre e dignamente como o tendes feito até aqui.
+A Bem da Humanidade
+O Presidente,
+António de Moura e Silva»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25835
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 23 - cx. 6
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25835

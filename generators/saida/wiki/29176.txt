@@ -1,0 +1,44 @@
+====== 29176 - SSC - Atividade no jardim da Quinta de Boamense ======
+
+**Parent**:: 27965
+**RootParent**:: 27963
+**UnitTitle**:: Atividade no jardim da Quinta de Boamense
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1903-04-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29176
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29176
+
+===== Filhos =====
+  * [[29177.txt|29177 - DC - Plantações no terreiro]]
+  * [[29223.txt|29223 - DC - Notas de plantas obtidas a partir da consulta de L’Illustration Horticole]]
+  * [[29224.txt|29224 - DC - Listas com informação de preços de plantas]]
+  * [[29225.txt|29225 - DC - Fatura da Real Companhia Horticolo-Agrícola Portuense]]
+  * [[29226.txt|29226 - DC - Bilhete-postal]]
+  * [[29227.txt|29227 - DC - Fatura da Real Companhia Horticolo-Agrícola Portuense]]
+  * [[29228.txt|29228 - DC - Talão de recibo de emissão de um vale]]
+  * [[29229.txt|29229 - DC - Bilhete-postal]]
+  * [[29230.txt|29230 - DC - Bilhete-postal]]
+  * [[29231.txt|29231 - DC - Fatura da Real Companhia Horticolo-Agrícola Portuense]]
+  * [[29232.txt|29232 - DC - Talão de recibo de emissão de um vale]]
+  * [[29233.txt|29233 - DC - Bilhete-postal]]
+  * [[29234.txt|29234 - DC - Fatura da Real Companhia Horticolo-Agrícola Portuense]]
+  * [[29235.txt|29235 - DC - Envelope]]
+  * [[29236.txt|29236 - DC - Bilhete-postal]]
+  * [[29237.txt|29237 - DC - Plantações]]
+  * [[29238.txt|29238 - DC - Fatura da Real Companhia Horticolo-Agrícola Portuense]]
+  * [[29239.txt|29239 - DC - Bilhete-postal]]
+  * [[29240.txt|29240 - DC - Jardim Plantação]]
+  * [[29241.txt|29241 - DC - Variedades d’ Aster]]
+  * [[29242.txt|29242 - DC - Lista de variedades de roseiras]]
+  * [[29243.txt|29243 - DC - Sementeira de Amaryllis]]
+  * [[29244.txt|29244 - DC - Bilhete-postal]]
+  * [[29245.txt|29245 - DC - Lista de diversas plantas com flor]]
+  * [[29246.txt|29246 - DC - Plantação de uma trepadeira Clematis]]
+  * [[29247.txt|29247 - DC - Lista de variedades de plantas]]
+  * [[29248.txt|29248 - DC - Lista de plantas]]
+  * [[29249.txt|29249 - DC - Lista de plantas]]
+  * [[29250.txt|29250 - DC - Agaveamericana]]
+  * [[29251.txt|29251 - DC - Lista de sementes de flores]]
+  * [[60961.txt|60961 - DC - Bilhete-postal e Fatura da Real Companhia Horticolo-Agrícola Portuense]]

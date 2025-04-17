@@ -1,0 +1,17 @@
+====== 66636 - DC - 1892. Depois da partida de Haia ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: 1892. Depois da partida de Haia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1892
+**ScopeContent**:: Papel do maço de correspondência que contém 39 cartas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58466
+**LangMaterial**:: Português
+**PhysLoc**:: CP 741A - cx. 5
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66636

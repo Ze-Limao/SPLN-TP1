@@ -1,0 +1,19 @@
+====== 63690 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - António Lopes e Maria Teresa do Rosário
+Naturalidade - Vale S. Martinho
+Morada - Vale S. Martinho
+Data de nascimento - 1866-07-03
+Emprego - Lavoura
+Estado - Casado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63690

@@ -1,0 +1,20 @@
+====== 21142 - UI - Isidoro de Magalhães Marques da Costa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Isidoro de Magalhães Marques da Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-06-03
+**UnitDateFinal**:: 1913-06-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21142
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 497, 498, 499, 500
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21142
+
+===== Filhos =====
+  * [[25543.txt|25543 - DC - Carta]]
+  * [[25544.txt|25544 - DC - Carta]]
+  * [[25545.txt|25545 - DC - Carta]]
+  * [[25546.txt|25546 - DC - Carta]]

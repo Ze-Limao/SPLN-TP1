@@ -1,0 +1,16 @@
+====== 21350 - UI - Câmara Municipal de Famalicão ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Câmara Municipal de Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1922-08-31
+**UnitDateFinal**:: 1922-08-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21350
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1261
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21350
+
+===== Filhos =====
+  * [[30126.txt|30126 - DC - Ofício]]

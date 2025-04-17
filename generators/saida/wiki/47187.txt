@@ -1,0 +1,18 @@
+====== 47187 - DC - Registo do recenseamento eleitoral de Joaquim Pereira de Azevedo ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Pereira de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vermoim
+Profissão - Vendeiro
+Estado - Casado
+Morada - Breia
+Idade - 26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47187
+**LangMaterial**:: Português
+**PhysLoc**:: 71v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47187

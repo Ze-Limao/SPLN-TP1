@@ -1,0 +1,16 @@
+====== 28807 - DC - Cartão ======
+
+**Parent**:: 28803
+**RootParent**:: 27963
+**UnitTitle**:: Cartão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-11-05
+**UnitDateFinal**:: 1908-11-05
+**ScopeContent**:: Cartão expedido da Quinta do Mosteiro, Moreira da Maia. Nota manuscrita a lápis no envelope "R. 9-11-1908".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28807
+**LangMaterial**:: Português
+**PhysLoc**:: AS 623 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28807

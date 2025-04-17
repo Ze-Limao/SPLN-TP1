@@ -1,0 +1,15 @@
+====== 78856 - DC - Emprazamento dos casais de Freitas e Quintão, situados na freguesia de S. Tiago de Rebordões (concelho de S. Tirso), feita por Sebastião Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento dos casais de Freitas e Quintão, situados na freguesia de S. Tiago de Rebordões (concelho de S. Tirso), feita por Sebastião Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1563
+**UnitDateFinal**:: 1593
+**ScopeContent**:: Manuscrito, original, com selo em madeira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 658 - cx. 28
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78856

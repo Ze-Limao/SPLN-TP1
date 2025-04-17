@@ -1,0 +1,19 @@
+====== 63584 - DC - Registo do recenseamento militar de Félix ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Félix
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Francisco Inácio de Aguiar Pimenta Carneiro e Maria da Glória Magalhães
+Naturalidade - Vermoim
+Morada - Vermoim
+Data de nascimento - 1866-10-20
+Emprego - Estudante
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63584

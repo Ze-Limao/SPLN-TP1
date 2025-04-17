@@ -1,0 +1,14 @@
+====== 60686 - SC - Administração financeira ======
+
+**Parent**:: 60547
+**RootParent**:: 60547
+**UnitTitle**:: Administração financeira
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1873
+**UnitDateFinal**:: 1898
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60686
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60686
+
+===== Filhos =====
+  * [[60687.txt|60687 - SR - Receitas e Despesas]]

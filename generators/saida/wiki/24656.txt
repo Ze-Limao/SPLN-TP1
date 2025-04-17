@@ -1,0 +1,16 @@
+====== 24656 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-05-11
+**UnitDateFinal**:: 1901-05-11
+**ScopeContent**:: António Ferraz envia notas sobre os Farias que podem ter interesse para o trabalho de JAM. Combina uma viagem à Franqueira, itinerário e visitas, incluíndo a ermida de Egas Moniz. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24656
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 157 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24656

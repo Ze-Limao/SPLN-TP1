@@ -1,0 +1,18 @@
+====== 8941 - DC - Termo do exame de Manuel Gonçalves Ferreira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Gonçalves Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-28
+**UnitDateFinal**:: 1894-07-28
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - António Gonçalves Ferreira
+Naturalidade - Fradelos
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8941
+**LangMaterial**:: Português
+**PhysLoc**:: f. 71v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8941

@@ -1,0 +1,17 @@
+====== 100537 - SR - Material fotográfico ======
+
+**Parent**:: 60696
+**RootParent**:: 60696
+**UnitTitle**:: Material fotográfico
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1940
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD100537
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100537
+
+===== Filhos =====
+  * [[100420.txt|100420 - UI - Caixas de placas secas]]
+  * [[100534.txt|100534 - UI - Caixas de placas secas]]
+  * [[100535.txt|100535 - UI - Caixas de placas secas]]
+  * [[100536.txt|100536 - UI - Caixas de placas secas e outras]]

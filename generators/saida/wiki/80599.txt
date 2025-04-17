@@ -1,0 +1,15 @@
+====== 80599 - UI - Processo nº 67 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 67
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1977-05-05
+**UnitDateFinal**:: 1982-03-19
+**ScopeContent**:: Junto com Autos de Execução por Custas nº 128-A e nº 128-B, Autos de Contrato Individual de Trabalho nº 128.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 242 - cx. 13
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80599

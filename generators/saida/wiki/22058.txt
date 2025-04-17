@@ -1,0 +1,16 @@
+====== 22058 - DC - Registo do recenseamento eleitoral de Manuel António Ribeiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel António Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Castelões
+Profissão - Lavrador
+Morada - Campo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22058
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22058

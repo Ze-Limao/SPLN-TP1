@@ -1,0 +1,17 @@
+====== 78168 - DC - Documento judicial replicando a ação referente a benfeitorias na leira do Campo do Moinho, no cortelho do Linhar e em Tarrio, com Ana Maria Isabel de Melo Pereira de Sampaio ======
+
+**Parent**:: 54471
+**RootParent**:: 31258
+**UnitTitle**:: Documento judicial replicando a ação referente a benfeitorias na leira do Campo do Moinho, no cortelho do Linhar e em Tarrio, com Ana Maria Isabel de Melo Pereira de Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1780-06-15
+**UnitDateFinal**:: 1780-06-15
+**ScopeContent**:: Manuscrito com folhas cosidas. Ana Isabel de Melo Pereira de Sampaio neste documento está como tutora do seu filho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4569 - cx. 33
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78168

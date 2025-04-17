@@ -1,0 +1,16 @@
+====== 24297 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-06-19
+**UnitDateFinal**:: 1921-06-19
+**ScopeContent**:: António Cabral refere o falecimento de Francisco Barbosa de Sottomayor, seu antigo colega na Câmara dos Deputados e pede a JAM para transmitir os pêsames a toda a família. Envia o livro “Terras longínquas”, impressões de uma viagem e notas históricas. Dá notícia que está na luta eleitoral pelo círculo da sua naturalidade e o Centro Católico apoia-o. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24297
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 133 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24297

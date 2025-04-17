@@ -1,0 +1,15 @@
+====== 66161 - DC - Emprazamento do Padre João Gomes da Silva, raçoeiro da Igreja de S. Tiago de Antas, com o consentimento de Bento Mendes da Silva, por vagar por resignação que dele fez ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do Padre João Gomes da Silva, raçoeiro da Igreja de S. Tiago de Antas, com o consentimento de Bento Mendes da Silva, por vagar por resignação que dele fez
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1671-02-06
+**UnitDateFinal**:: 1671-02-14
+**ScopeContent**:: Manuscrito, original, folhas cosidas, com selo timbrado. O reverendo Bento Mendes da Silva, clérigo de ordens menores, da freguesia de Santa Maria de Telhado da diocese de Braga,… foi instituído e confirmado em um benefício perpétuo, ração na paroquial igreja de S. Tiago de Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 321 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66161

@@ -1,0 +1,26 @@
+====== 20387 - SC - Iconografia ======
+
+**Parent**:: 20342
+**RootParent**:: 20342
+**UnitTitle**:: Iconografia
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1999
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20387
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20387
+
+===== Filhos =====
+  * [[100756.txt|100756 - UI - Fotografias sobre a História da Associação]]
+  * [[25315.txt|25315 - UI - Estudo para o monumento do Bombeiro Voluntário do escultor Augusto Costa]]
+  * [[25316.txt|25316 - UI - Homenagem ao Comandante Fernando Soares no dia da sua passagem ao quadro honorário e do seu 80º aniversário]]
+  * [[25317.txt|25317 - UI - Recordações da festa dos 74 anos da Associação]]
+  * [[25318.txt|25318 - UI - Recordações das Festas dos 75 anos]]
+  * [[25319.txt|25319 - UI - Recordações da inauguração oficial do novo quartel feita Sr. Ministro do Interior Srº Santos Júnior e condecoração oficial de Hilário Carvalho e Fernando Soares]]
+  * [[25320.txt|25320 - UI - Inauguração e bênção da nova ambulância DA-64-85 com o nome Isabel Carmem]]
+  * [[25321.txt|25321 - UI - Bombeiros, atividades de Bombeiros, festas, etc.]]
+  * [[25322.txt|25322 - UI - Fotografias diversas]]
+  * [[25323.txt|25323 - UI - Fotografias diversas]]
+  * [[25324.txt|25324 - UI - Fotografias diversas]]

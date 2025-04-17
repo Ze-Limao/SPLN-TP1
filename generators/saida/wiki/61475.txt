@@ -1,0 +1,20 @@
+====== 61475 - SR - Publicações periódicas ======
+
+**Parent**:: 61460
+**RootParent**:: 60551
+**UnitTitle**:: Publicações periódicas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1957-06
+**UnitDateFinal**:: 2023-07
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**LangMaterial**:: Português, Inglês
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61475
+
+===== Filhos =====
+  * [[61476.txt|61476 - DC - Carta Mensal do Governador Distrito 1970]]
+  * [[61901.txt|61901 - DC - Rotary Portugal Rotário nº246 a nº278, nº281 e nº300]]
+  * [[61902.txt|61902 - DC - Boletim do Rotary Club da Senhora da Hora]]
+  * [[61903.txt|61903 - DC - Portugal d´Aquem e d´Alem Mar: Revista Ilustrada, Ano XX, nº 80]]

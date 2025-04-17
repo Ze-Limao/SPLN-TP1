@@ -1,0 +1,16 @@
+====== 21512 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-06-17
+**UnitDateFinal**:: 1914-06-17
+**ScopeContent**:: António Cabral agradece a intervenção de JAM junto da família de Camilo Castelo Branco para obter a autorização da publicação das notas. Diz que recebeu as indicações do Nuno Plácido quanto à omissão de algumas notas que vai cumprir, nomeadamente as notas alusivas a Eça de Queirós e Sampaio Bruno. Mostra admiração por JAM possuir cartas inéditas de Camilo (13 cartas e dois bilhetes) que gostaria de ter publicado (JAM ofereceu-as ao Museu Camilo). Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21512
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 107 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21512

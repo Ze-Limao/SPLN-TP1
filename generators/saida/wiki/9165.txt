@@ -1,0 +1,13 @@
+====== 9165 - UI - Recenseamento para o Recrutamento do Exército ======
+
+**Parent**:: 8968
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento para o Recrutamento do Exército
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1865-02-04
+**UnitDateFinal**:: 1865-02-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9165
+**LangMaterial**:: Português
+**PhysLoc**:: 5.5.5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9165

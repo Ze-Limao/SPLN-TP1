@@ -1,0 +1,17 @@
+====== 25435 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-09-04
+**UnitDateFinal**:: 1914-09-04
+**ScopeContent**:: Pede a JAM para marcar visita à casa de Seide.
+Carta manuscrita assinada, de Carregosa.Tem o brasão timbrado a vermelho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25435
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 414 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25435

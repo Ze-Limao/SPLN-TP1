@@ -1,0 +1,16 @@
+====== 21336 - UI - Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921
+**UnitDateFinal**:: 1921
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21336
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1555
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21336
+
+===== Filhos =====
+  * [[30357.txt|30357 - DC - Cartão de visita]]

@@ -1,0 +1,15 @@
+====== 25017 - UI - Duplicados do Boletim de Estatística para o INE e correspondência ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Duplicados do Boletim de Estatística para o INE e correspondência
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1950-02-17
+**UnitDateFinal**:: 1977-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25017
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 120 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25017

@@ -1,0 +1,16 @@
+====== 25676 - DC - Bilhete-postal ======
+
+**Parent**:: 21185
+**RootParent**:: 20290
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-04-28
+**UnitDateFinal**:: 1891-04-30
+**ScopeContent**:: Bilhete-postal manuscrito assinado e carimbado. Joaquim de Araújo refere-se ao discurso laudatório proferido no funeral de Camilo Castelo Branco, publicado "Sobre o túmulo de Camilo: palavras pronunciadas nos funerais do eminente escritor".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25676
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 626 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25676

@@ -1,0 +1,16 @@
+====== 8090 - DC - Termo de Domingos Dias ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Domingos Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-05-21
+**UnitDateFinal**:: 1879-05-21
+**ScopeContent**:: Declaração para seus filhos António e Carlos serem considerados cidadãos espanhois
+Nacionalidade - Espanhola
+Morada - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8090
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8090

@@ -1,0 +1,14 @@
+====== 30069 - DC - Joaquim Machado Campos ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Machado Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1968-03-13
+**UnitDateFinal**:: 1968-03-13
+**ScopeContent**:: Regedor efetivo da freguesia de Bente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30069
+**LangMaterial**:: Português
+**PhysLoc**:: f. 35v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30069

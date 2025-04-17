@@ -1,0 +1,16 @@
+====== 24692 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-05-28
+**UnitDateFinal**:: 1906-05-28
+**ScopeContent**:: António Ferraz informa da viagem ao Porto que o impediu de comparecer no Vinhal. Faz a análise do brasão que lhe parece confuso. Comunica que já recebeu o alvará do seu foro. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24692
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 194 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24692

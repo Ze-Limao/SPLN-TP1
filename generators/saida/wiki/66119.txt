@@ -1,0 +1,15 @@
+====== 66119 - DC - Escritura de transição amigável composição que faz Luís de Moura e Mendonça, Abade do mosteiro de S. Tiago de Antas, com o bacharel Dionísio da Silva Castro e sua mulher Joana Maria Coelho de Araújo e Sá ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de transição amigável composição que faz Luís de Moura e Mendonça, Abade do mosteiro de S. Tiago de Antas, com o bacharel Dionísio da Silva Castro e sua mulher Joana Maria Coelho de Araújo e Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1804-03-12
+**UnitDateFinal**:: 1804-03-12
+**ScopeContent**:: Manuscrito, original, folhas cosidas sem capa. Papel timbrado “Cauza publica. 40 reis”. Dionísio da Silva Castro e sua mulher demanda de força nova intentado por eles no juízo da vila de Barcelos contra o abade Luís Moura Mendonça que pende despacho por apelação na Relação do Porto sobre o modo de alinhamento do canal ou aqueduto que corre por entre as terras.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 305 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66119

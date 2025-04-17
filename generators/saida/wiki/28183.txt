@@ -1,0 +1,16 @@
+====== 28183 - DC - Cavagem da terra para o acréscimo da vinha de cima ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Cavagem da terra para o acréscimo da vinha de cima
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-12-31
+**UnitDateFinal**:: 1900-02-09
+**ScopeContent**:: Trabalhos e despesas com a preparação de terreno para aumento da área de vinha.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28183
+**LangMaterial**:: Português
+**PhysLoc**:: AS 455 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28183

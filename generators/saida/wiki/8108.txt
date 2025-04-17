@@ -1,0 +1,62 @@
+====== 8108 - UI - Matrícula dos professores de instrução primária ======
+
+**Parent**:: 8107
+**RootParent**:: 7651
+**UnitTitle**:: Matrícula dos professores de instrução primária
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1892-05-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8108
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 123
+Depósito 2, estante
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8108
+
+===== Filhos =====
+  * [[8109.txt|8109 - DC - António José da Rocha]]
+  * [[8110.txt|8110 - DC - Tomás de Aquino Correia de Araújo]]
+  * [[8111.txt|8111 - DC - Joaquim José Alves Pimenta]]
+  * [[8112.txt|8112 - DC - Manuel Carneiro Alves]]
+  * [[8113.txt|8113 - DC - Manuel José Rodrigues]]
+  * [[8114.txt|8114 - DC - Camilo Dias Pereira]]
+  * [[8115.txt|8115 - DC - Maria Ludovina Salgado Pinheiro de Lacerda]]
+  * [[8116.txt|8116 - DC - Maria das Dores da Costa e Sá]]
+  * [[8117.txt|8117 - DC - Josefina Augusta de Oliveira Botelho]]
+  * [[8118.txt|8118 - DC - Manuel Jaselino Dias da Costa]]
+  * [[8119.txt|8119 - DC - Luís Francisco da Silva Marques]]
+  * [[8120.txt|8120 - DC - José Francisco Correia]]
+  * [[8121.txt|8121 - DC - Manuel Joaquim da Costa Moreira Pinto]]
+  * [[8122.txt|8122 - DC - António Gonçalves da Cruz]]
+  * [[8123.txt|8123 - DC - Teodoro de Almeida]]
+  * [[8124.txt|8124 - DC - Manuel de Azevedo Monteiro]]
+  * [[8125.txt|8125 - DC - Joaquim José Alves Pimenta]]
+  * [[8126.txt|8126 - DC - António José Gonçalves da Costa]]
+  * [[8127.txt|8127 - DC - Teodoro de Almeida]]
+  * [[8128.txt|8128 - DC - Maria da Conceição e Sá]]
+  * [[8129.txt|8129 - DC - Domingos da Rocha Pinheiro]]
+  * [[8130.txt|8130 - DC - Joaquim Lopes Coelho de Alvim Barroso]]
+  * [[8131.txt|8131 - DC - José António de Oliveira]]
+  * [[8132.txt|8132 - DC - Joaquim Vieira de Araújo Braga]]
+  * [[8133.txt|8133 - DC - Bento Joaquim de Lemos Leite]]
+  * [[8134.txt|8134 - DC - António Martins Ribeiro]]
+  * [[8135.txt|8135 - DC - Lino Gonçalves Ferreira dos Santos]]
+  * [[8136.txt|8136 - DC - Domingos José da Silva Graça]]
+  * [[8137.txt|8137 - DC - Joaquim Carneiro da Silva Saldanha]]
+  * [[8138.txt|8138 - DC - Manuel de Araújo Carvalho]]
+  * [[8139.txt|8139 - DC - Gertrudes Maria da Conceição Carvalho]]
+  * [[8140.txt|8140 - DC - Domingos Pereira Marques Viana]]
+  * [[8141.txt|8141 - DC - Joaquim Carneiro de Azevedo Costa]]
+  * [[8142.txt|8142 - DC - Arnaldo Augusto Ferreira Coelho]]
+  * [[8143.txt|8143 - DC - Bernardino António dos Santos]]
+  * [[8144.txt|8144 - DC - Joaquim Alves Pinto]]
+  * [[8145.txt|8145 - DC - Joaquim Correia de Araújo Rebelo]]
+  * [[8146.txt|8146 - DC - Carolina Augusta de Oliveira Botelho]]
+  * [[8147.txt|8147 - DC - Joaquim Alves de Sousa]]
+  * [[8148.txt|8148 - DC - Joana Henriqueta do Nascimento Brito]]
+  * [[8149.txt|8149 - DC - Manuel Custódio Rodrigues Saraiva da Cruz]]
+  * [[8150.txt|8150 - DC - Manuel Correia de Sá]]
+  * [[8151.txt|8151 - DC - Teotónio José Gonçalves]]
+  * [[8152.txt|8152 - DC - Manuel de Araújo Carvalho]]
+  * [[8153.txt|8153 - DC - João José de Araújo]]
+  * [[8154.txt|8154 - DC - Severino António Lobo do Vale]]

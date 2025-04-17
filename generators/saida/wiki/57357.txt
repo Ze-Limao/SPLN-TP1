@@ -1,0 +1,39 @@
+====== 57357 - SR - Documentos ======
+
+**Parent**:: 57356
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57357
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57357
+
+===== Filhos =====
+  * [[56358.txt|56358 - DC - Archivo da Casa de Pindela]]
+  * [[56360.txt|56360 - DC - Documentos da casa da Rua do Norte Lisboa herança do Tio José Augusto Braamcamp]]
+  * [[56820.txt|56820 - DC - Declaração de Gilberto da Costa Peliteiro de compra de um penedo na mata de Pindela]]
+  * [[57358.txt|57358 - DC - Documentos de administração da casa]]
+  * [[60167.txt|60167 - DC - Contra-minuta do recorrido]]
+  * [[60179.txt|60179 - DC - Documentos da administração da casa]]
+  * [[60180.txt|60180 - DC - Mapas do ano agrícola]]
+  * [[60181.txt|60181 - DC - Mapa do ano agrícola]]
+  * [[60182.txt|60182 - DC - Mapas da exploração agrícola e comprovativos de despesas]]
+  * [[60183.txt|60183 - DC - Mapas da exploração agrícola e comprovativos de despesas]]
+  * [[60184.txt|60184 - DC - Processo da Caixa]]
+  * [[60185.txt|60185 - DC - Questão da Caixa Geral de Depósitos. Recurso para o pleno do Supremo Tribunal Administrativo]]
+  * [[60186.txt|60186 - DC - Questão da Caixa Geral de Depósitos. Recurso para o pleno do Supremo Tribunal Administrativo]]
+  * [[60187.txt|60187 - DC - Maço de documentos sobre o guarda florestal da Casa e Quinta de Pindela]]
+  * [[60197.txt|60197 - DC - Declaração do advogado Ruben de Carvalho e contas]]
+  * [[60198.txt|60198 - DC - Declaração de quitação]]
+  * [[60199.txt|60199 - DC - Apontamento manuscrito]]
+  * [[60200.txt|60200 - DC - Processo guarda florestal Casa e Quinta de Pindela]]
+  * [[60204.txt|60204 - DC - Envelope Contas da casa de cima e cozinha]]
+  * [[60207.txt|60207 - DC - Contas cozinha e várias casa de cima]]
+  * [[60208.txt|60208 - DC - Contas]]
+  * [[60209.txt|60209 - DC - Archivo Casa de Pindela]]
+  * [[60235.txt|60235 - DC - Minuta de revista]]
+  * [[60238.txt|60238 - DC - Archivo da Casa de Pindella. Normas dos novos arrendamentos dos 5 caseiros da Casa e Quinta de Pindela que começaram em 1923]]
+  * [[79123.txt|79123 - DC - A poder-se plantar em 1937 no viveiro de Pindela]]
+  * [[79946.txt|79946 - DC - Casa da Rua da Madalena em Lisboa]]

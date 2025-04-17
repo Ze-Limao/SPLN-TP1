@@ -1,0 +1,16 @@
+====== 25047 - UI - Serviço para avisar o pessoal ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Serviço para avisar o pessoal
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-01
+**UnitDateFinal**:: 1977-12-26
+**ScopeContent**:: Indicação dos dias em que saiu a ambulância para avisar o pessoal, quer para instruções, representações ou funerais e outros serviços.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25047
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 149
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25047

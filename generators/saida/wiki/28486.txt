@@ -1,0 +1,16 @@
+====== 28486 - DC - Os moradores d’ Aveiro ======
+
+**Parent**:: 28482
+**RootParent**:: 27963
+**UnitTitle**:: Os moradores d’ Aveiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Sobre a matéria em questão, objeto de investigação de Alberto Sampaio, Oliveira Freire escreveu: «Os seus moradores [de Aveiro], que pelos annos de 1550. contavaõ mais de cento e cincoenta embarcaçoens de proprio commercio, foraõ os descubridores da terra nova, e pescarias do bacalhao, e por incuria as largaraõ aos Inglezes, que tiraõ deste trafico o lucro, que he notorio.» (António de Oliveira Freire − Descripçam corografica do reyno de Portugal. Lisboa : na Officina de Miguel Rodrigues, 1739, p. 55). Referências bibliográficas: António de Oliveira Freire − Descripçam Corografica do Reyno de Portugal. 1739; Francisco de S. Luís Saraiva − Obras completas do Cardeal Saraiva (D. Francisco de S. Luiz) Patriarcha de Lisboa - precedidas de uma introducção pelo Marquez de Rezende. 1872-1883, 10 vols.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28486
+**LangMaterial**:: Português
+**PhysLoc**:: AS 76 (4) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28486

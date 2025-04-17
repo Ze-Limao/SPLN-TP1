@@ -1,0 +1,14 @@
+====== 9982 - DC - Registo do pagamento a Augusto Teixeira Folhadela ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a Augusto Teixeira Folhadela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-30
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Reparação da bomba de incêndios e respetivos utensílios
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9982
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9982

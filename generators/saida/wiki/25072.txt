@@ -1,0 +1,15 @@
+====== 25072 - UI - Serviço de ambulância ======
+
+**Parent**:: 20383
+**RootParent**:: 20342
+**UnitTitle**:: Serviço de ambulância
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1986-03-17
+**UnitDateFinal**:: 1986-04-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25072
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 171
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25072

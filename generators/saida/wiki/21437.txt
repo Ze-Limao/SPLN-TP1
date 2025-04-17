@@ -1,0 +1,16 @@
+====== 21437 - UI - João da Silveira ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João da Silveira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907-03-15
+**UnitDateFinal**:: 1907-03-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21437
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1425
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21437
+
+===== Filhos =====
+  * [[30273.txt|30273 - DC - Carta]]

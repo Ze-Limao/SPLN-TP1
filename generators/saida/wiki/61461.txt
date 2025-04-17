@@ -1,0 +1,67 @@
+====== 61461 - SR - Documentos ======
+
+**Parent**:: 61460
+**RootParent**:: 60551
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1951-05-20
+**UnitDateFinal**:: 2020
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**LangMaterial**:: Português, Inglês
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61461
+
+===== Filhos =====
+  * [[61474.txt|61474 - DC - Calendário definitivo das visitas do Governador]]
+  * [[61851.txt|61851 - DC - Quem governou Rotary em Portugal]]
+  * [[61852.txt|61852 - DC - Bolseiros dos quais terminaram cursos no ano lectivo]]
+  * [[61853.txt|61853 - DC - Voluntários do Rotary em acção]]
+  * [[61854.txt|61854 - DC - Paul Harris Fundador do Rotary]]
+  * [[61855.txt|61855 - DC - Fundação Rotária Portuguesa Orgãos Sociais 1999]]
+  * [[61856.txt|61856 - DC - Manual da Assembleia Distrital]]
+  * [[61857.txt|61857 - DC - Logotipos Rotary International; The Rotary Foundation, Interact; Rotary Club de Braga]]
+  * [[61858.txt|61858 - DC - Rotariano visitante]]
+  * [[61859.txt|61859 - DC - Cartão identificação Celebremos Rotary 100 anos]]
+  * [[61860.txt|61860 - DC - Seminário para presidentes eleitos, org. Rotary Club de Ermesinde]]
+  * [[61861.txt|61861 - DC - Actas Assembleia Distrital. Seminário para presidentes, org. Rotary Club de Póvoa de Varzim]]
+  * [[61862.txt|61862 - DC - Ofício da Presidente da Fundação Rotária de Portugal dirigido a Júlio Sá, Rotary Club de Vila Nova de Famalicão, e convocatória para Assembleia de Representantes]]
+  * [[61863.txt|61863 - DC - Relatório e Contas 2015 Fundação Rotária Portuguesa]]
+  * [[61864.txt|61864 - DC - Os actuais Clubes de D.R. 197]]
+  * [[61865.txt|61865 - DC - Hotel Turismo]]
+  * [[61866.txt|61866 - DC - Estatutos do Rotary Clube de…]]
+  * [[61867.txt|61867 - DC - Regimento Interno do Rotary Club de…]]
+  * [[61868.txt|61868 - DC - Dr. Manuel Monteiro. Rotary Club de Braga]]
+  * [[61869.txt|61869 - DC - Rotary Club de Braga]]
+  * [[61870.txt|61870 - DC - 8ª Conferência do Distrito Rotário 197]]
+  * [[61871.txt|61871 - DC - Governadoria 1995/96 Distrito 1970]]
+  * [[61872.txt|61872 - DC - None]]
+  * [[61873.txt|61873 - DC - Culto ecuménico II, Conferência Interdistrital]]
+  * [[61874.txt|61874 - DC - II Conferência Interdistrital- Participação islâmica]]
+  * [[61875.txt|61875 - DC - Logotipo do Rotary Internacional; 3 autocolantes Rotary Club de Braga 1946-1996]]
+  * [[61876.txt|61876 - DC - Logotipo Rotary International]]
+  * [[61877.txt|61877 - DC - Fundação Rotária Portuguesa]]
+  * [[61878.txt|61878 - DC - Ao Rotary Club… do bispo Eurico Dias Nogueira]]
+  * [[61879.txt|61879 - DC - Braga planta da cidade]]
+  * [[61880.txt|61880 - DC - O que é o Rotary, Rotary International]]
+  * [[61881.txt|61881 - DC - A Prova Quádrupla]]
+  * [[61882.txt|61882 - DC - Passaporte Rotário Distrito 1970]]
+  * [[61883.txt|61883 - DC - Intercâmbio rotário da Amizade]]
+  * [[61884.txt|61884 - DC - Celebremos Rotary 100 anos]]
+  * [[61885.txt|61885 - DC - Rotary Club de Braga Transmissão de Tarefas 2002]]
+  * [[61886.txt|61886 - DC - Trampolim para a liderança RYLA, Prêmios Rotários de Liderança Juvenil]]
+  * [[61887.txt|61887 - DC - Quem são os Leões?]]
+  * [[61888.txt|61888 - DC - Rotary Club de Ermesinde ano 1994-1995]]
+  * [[61889.txt|61889 - DC - Transmissão de tarefas 2006/2007 e 2º aniversário Rotary Clube da Trofa]]
+  * [[61890.txt|61890 - DC - Rotary Clube da Póvoa de Varzim reunião conjunta com Rotary Clube de Famalicão]]
+  * [[61891.txt|61891 - DC - Grandes Festas Rotárias no Bom Jesus do Monte Braga]]
+  * [[61892.txt|61892 - DC - Grandes festas Rotárias no Bom Jesus do Monte Braga 1951]]
+  * [[61893.txt|61893 - DC - Entrega da Carta Constitucional Rotary Club de Santo Tirso]]
+  * [[61894.txt|61894 - DC - Transmissão de tarefas Rotary Club de Braga, etc.]]
+  * [[61895.txt|61895 - DC - Objetivos para o ano Rotário e Conselho Social e Conselho Director, Rotary Club de Braga]]
+  * [[61896.txt|61896 - DC - Mensagem do Governador, Rotary Club de Viana do Castelo – 1 folha do Boletim do Rotary Club de Viana do Castelo]]
+  * [[61897.txt|61897 - DC - Polícia de Segurança Pública aconselha protecção de mulheres]]
+  * [[61898.txt|61898 - DC - Site Probus]]
+  * [[61899.txt|61899 - DC - Lista contactos CIP Portugal-Brasil]]
+  * [[61900.txt|61900 - DC - Fotografia do documento de assinatura de protocolo CIP Portugal/Brasil]]

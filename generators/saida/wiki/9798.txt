@@ -1,0 +1,17 @@
+====== 9798 - DC - Famalicão - Monumento aos Mortos da Grande Guerra ======
+
+**Parent**:: 9796
+**RootParent**:: 60698
+**UnitTitle**:: Famalicão - Monumento aos Mortos da Grande Guerra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927
+**UnitDateFinal**:: 1927
+**ScopeContent**:: Na frente do bilhete-postal tem a legenda e manuscrito "em frente a egreja de Santo António". Bilhete postal de edição da Tipografia Minerva - Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9798
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 57 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9798

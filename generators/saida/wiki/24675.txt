@@ -1,0 +1,16 @@
+====== 24675 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-02-24
+**UnitDateFinal**:: 1904-02-24
+**ScopeContent**:: António Ferraz dá conta das suas melhoras. Notifica sobre as relações do Drº Pedro Esteves - Desembargador dos Privilégios da vila de Chaves. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24675
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 177 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24675

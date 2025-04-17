@@ -1,0 +1,15 @@
+====== 66534 - DC - Pedido de licença de matrimónio Manuel José ?, viúvo, da freguesia de S. Tiago de Antas com Maria Vidal, da freguesia de Mouquim ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de matrimónio Manuel José ?, viúvo, da freguesia de S. Tiago de Antas com Maria Vidal, da freguesia de Mouquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-05-06
+**UnitDateFinal**:: 1898-05-06
+**ScopeContent**:: Impresso e manuscrito, original, em papel azul “XL 40 reis”. concedido pelo desembargador Drº Domingos Maria Guimarães da Relação Eclesiástica e juiz dos matrimónios na corte do Arcebispado de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 555 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66534

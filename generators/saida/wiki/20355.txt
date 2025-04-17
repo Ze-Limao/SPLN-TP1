@@ -1,0 +1,15 @@
+====== 20355 - UI - Copiador de correspondência expedida ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Copiador de correspondência expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-07-01
+**UnitDateFinal**:: 1921-09-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20355
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20355

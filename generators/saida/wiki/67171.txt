@@ -1,0 +1,17 @@
+====== 67171 - DC - Pela 1ª Comunhão de Grácia 15-08-11 ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Pela 1ª Comunhão de Grácia 15-08-11
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-08-15
+**UnitDateFinal**:: 1911-08-15
+**ScopeContent**:: Envelope timbrado com título manuscrito, contém cartas CP 3228 a CP 3232.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58466
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3227 - cx. 25
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67171

@@ -1,0 +1,15 @@
+====== 65901 - DC - Emprazamento do casal da Portela, feito por Pero Jorge da Silva, abade de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal da Portela, feito por Pero Jorge da Silva, abade de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1530
+**UnitDateFinal**:: 1581
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 613 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65901

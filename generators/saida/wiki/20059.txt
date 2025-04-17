@@ -1,0 +1,15 @@
+====== 20059 - SSC - Pessoal ======
+
+**Parent**:: 20049
+**RootParent**:: 20048
+**UnitTitle**:: Pessoal
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1873-10-20
+**UnitDateFinal**:: 1926-07-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20059
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20059
+
+===== Filhos =====
+  * [[20078.txt|20078 - SR - Autos de posse e juramento dos funcionários]]

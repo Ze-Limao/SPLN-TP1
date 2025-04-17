@@ -1,0 +1,46 @@
+====== 61781 - SSR - Medalhas ======
+
+**Parent**:: 61454
+**RootParent**:: 60551
+**UnitTitle**:: Medalhas
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1973
+**UnitDateFinal**:: 2023
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61780
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61781
+
+===== Filhos =====
+  * [[61782.txt|61782 - DC - Rotary Club de Braga Distrito 1970, nos 50 anos Rotary International 1946-1996]]
+  * [[61786.txt|61786 - DC - Santa Casa da Misericórdia de Vila Nova de Famalicão 1ºCentenário]]
+  * [[61787.txt|61787 - DC - Rotary Club de Viseu 70 anos]]
+  * [[61788.txt|61788 - DC - Assembleia Distrital Rotária Tomar]]
+  * [[61789.txt|61789 - DC - Rotary Club V.N. Gaia. 2ª Conferência do Distrito 197]]
+  * [[61790.txt|61790 - DC - Bodas de Prata do Rotary Clube de Coimbra 1953-1978]]
+  * [[61791.txt|61791 - DC - III Conferência do Distrito 197 Viana do Castelo]]
+  * [[61792.txt|61792 - DC - VIII Conferência Rotária do Distrito 197 Rotary Club de Espinho]]
+  * [[61793.txt|61793 - DC - XXXVII Conferência do Distrito Rotário 196 Peniche]]
+  * [[61794.txt|61794 - DC - 2º Plenário del Comité Luso-Espanhol Vigo]]
+  * [[61795.txt|61795 - DC - Quinquagésimo aniversário do Rotary Club de Guimarães 50 anos de serviço 1948-1998]]
+  * [[61796.txt|61796 - DC - I Conferência do Distrito Rotário 197 50º Aniversário do Rotary Club de Viseu 1934-1984]]
+  * [[61797.txt|61797 - DC - VI Aniversário Rotary Clube de Guimarães 1948-1973]]
+  * [[61798.txt|61798 - DC - IX Assembleia Rotária Distrito 197 Bracara Augusta 1991]]
+  * [[61799.txt|61799 - DC - Paul Harris XXXIV Conferência dos Districtos Rotários 196  Póvoa de Varzim 1980]]
+  * [[61800.txt|61800 - DC - Rotary International Comité Luso-Espanhol 5º Plenário Guimarães 1987]]
+  * [[61801.txt|61801 - DC - VI Conferência do Distrito 197. VII Assembleia do Distrito 197 Póvoa do Varzim]]
+  * [[61802.txt|61802 - DC - 7ª Conferência do Distrito 197 Rotary International Aveiro]]
+  * [[61803.txt|61803 - DC - XXXI Conferência do Distrito Rotário 176 Braga]]
+  * [[61804.txt|61804 - DC - 5ª Assembleia do Distrito 197 Guimarães]]
+  * [[61805.txt|61805 - DC - 33ª Conferência do Distrito Rotário 196 Rotary Club de Albufeira]]
+  * [[61806.txt|61806 - DC - 1ª Conferência Interdistrital 1960, 1970 Centro Cultural de Belém Lisboa]]
+  * [[61807.txt|61807 - DC - 30ª Conferência Distrito 176 Rotary International]]
+  * [[61808.txt|61808 - DC - XXV Aniversário Carta Constitucional 1954 Rotary Club de Matosinhos]]
+  * [[61809.txt|61809 - DC - XXIX Conferência do Distrito 176 Rotary Club Cascais Estoril]]
+  * [[61810.txt|61810 - DC - 25º Aniversário Rotary Almada]]
+  * [[61811.txt|61811 - DC - XIII Conferência Distrito 1970 Guimarães]]
+  * [[61812.txt|61812 - DC - Entrega da Carta Institucional R.C. Vizela]]
+  * [[61813.txt|61813 - DC - A Família]]
+  * [[61814.txt|61814 - DC - XXXV Conferência Troia Rotary Club Setúbal]]
+  * [[61815.txt|61815 - DC - 10ª Conferência do Distrito Rotário 1970 Rotary Club Coimbra]]
+  * [[61816.txt|61816 - DC - Encontro de amizade e companheirismo do Rotary Club de Évora ao Rotary Club de V.N. Famalicão]]
+  * [[64117.txt|64117 - DC - Mérito Municipal de V.N. de Famalicão de Benemerência ao Rotary Club V.N. Famalicão]]

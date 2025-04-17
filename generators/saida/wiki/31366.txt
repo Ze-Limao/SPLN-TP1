@@ -1,0 +1,15 @@
+====== 31366 - SR - Correspondência recebida ======
+
+**Parent**:: 31364
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1904-01
+**UnitDateFinal**:: 1908
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31366
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31366
+
+===== Filhos =====
+  * [[54571.txt|54571 - UI - Eulália Estelista de Freitas Rangel de Quadros]]
+  * [[60409.txt|60409 - UI - Maria Antónia]]

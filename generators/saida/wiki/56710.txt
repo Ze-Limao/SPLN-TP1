@@ -1,0 +1,17 @@
+====== 56710 - DC - La dentelle moderne ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: La dentelle moderne
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889
+**UnitDateFinal**:: 1918
+**ScopeContent**:: Recorte de revista impressa. Junto com CP 7809 e CP 7810.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56710
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7811 - cx. 49
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56710

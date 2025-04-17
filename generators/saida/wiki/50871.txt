@@ -1,0 +1,18 @@
+====== 50871 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-31
+**ScopeContent**:: Data de nascimento - 1843-09-13
+Filiação - Manuel Correia Carvalho e Ana Joaquina
+Naturalidade - Landim
+Profissão - Moleiro
+Residência - Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50871
+**LangMaterial**:: Português
+**PhysLoc**:: v128
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50871

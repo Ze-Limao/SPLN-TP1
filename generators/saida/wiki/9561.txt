@@ -1,0 +1,19 @@
+====== 9561 - DC - Registo do recenseamento militar de Augusto ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Augusto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Manuel de Sá Pinheiro e Emília Rosa Moreira de Miranda
+Naturalidade - Calendário
+Data de nascimento - 1876-06-27
+Profissão - Lavrador
+Estado civil - Solteiro
+Residência - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9561
+**LangMaterial**:: Português
+**PhysLoc**:: f. 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9561

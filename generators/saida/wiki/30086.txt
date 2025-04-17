@@ -1,0 +1,14 @@
+====== 30086 - DC - Luís da Silva Magalhães ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Luís da Silva Magalhães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1971-05-13
+**UnitDateFinal**:: 1971-05-13
+**ScopeContent**:: Regedor efetivo da freguesia de Pedome
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30086
+**LangMaterial**:: Português
+**PhysLoc**:: f. 44
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30086

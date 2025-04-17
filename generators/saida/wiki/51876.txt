@@ -1,0 +1,18 @@
+====== 51876 - DC - Registo do recenseamento militar de Adão ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Adão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-10-13
+Filiação - João Carvalho e Maria Rosa
+Naturalidade - Vilarinho das Cambas
+Profissão - Criado de servir
+Residência - Lousado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51876
+**LangMaterial**:: Português
+**PhysLoc**:: 51v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51876

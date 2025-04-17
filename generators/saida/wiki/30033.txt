@@ -1,0 +1,14 @@
+====== 30033 - DC - António da Costa Maia ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: António da Costa Maia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-11-05
+**UnitDateFinal**:: 1958-11-05
+**ScopeContent**:: Regedor efetivo da freguesia de Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30033
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30033

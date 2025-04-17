@@ -1,0 +1,17 @@
+====== 60163 - DC - Federação. Secção F. Assumptos pendentes em estudo. As tarifas ferroviárias ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Federação. Secção F. Assumptos pendentes em estudo. As tarifas ferroviárias
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1931-07
+**UnitDateFinal**:: 1931-07
+**ScopeContent**:: Capa com 4 documentos: ofícios datilografados; Comparação de preços de adubos agrícolas na rede ferroviária.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9535 - cx. 59
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60163

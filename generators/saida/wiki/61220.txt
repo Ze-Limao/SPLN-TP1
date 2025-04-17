@@ -1,0 +1,15 @@
+====== 61220 - UI - Bento Machado ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Bento Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1935-08-31
+**UnitDateFinal**:: 1935-08-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61220
+
+===== Filhos =====
+  * [[61221.txt|61221 - DC - Telegrama]]

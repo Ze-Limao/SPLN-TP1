@@ -1,0 +1,15 @@
+====== 7981 - DC - Termo de José Gomes Rodrigues e Manuel Luís Pereira ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de José Gomes Rodrigues e Manuel Luís Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1861-06-30
+**UnitDateFinal**:: 1861-06-30
+**ScopeContent**:: Arrematação de obras no Campo da Feira
+Local - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7981
+**LangMaterial**:: Português
+**PhysLoc**:: f. 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7981

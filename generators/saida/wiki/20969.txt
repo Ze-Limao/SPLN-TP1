@@ -1,0 +1,15 @@
+====== 20969 - DC - Nº 16/961 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 16/961
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-05-20
+**UnitDateFinal**:: 1961-05-20
+**ScopeContent**:: Contrato de adjudicação da empreitada de 'Urbanização do bairro para as classes pobres em Vila Nova de Famalicão'
+Outorgante - Gabriel Alves Sampaio Couto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20969
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20969

@@ -1,0 +1,15 @@
+====== 66118 - DC - Escritura de compra que faz o Padre João António da Silva Correia, do Calendário, a António José Moreira de Miranda, viúvo, da mesma freguesia ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra que faz o Padre João António da Silva Correia, do Calendário, a António José Moreira de Miranda, viúvo, da mesma freguesia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-11-20
+**UnitDateFinal**:: 1862-11-20
+**ScopeContent**:: Manuscrito em papel azul, pública-forma, folhas cosidas sem capa. O papel azul timbrado do “Tesouro Publico XL”. No canto direito superior “Nota nº12. Af. 68”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 304 - cx. 17
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66118

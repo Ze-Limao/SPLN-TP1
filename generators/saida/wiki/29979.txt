@@ -1,0 +1,16 @@
+====== 29979 - DC - Carta ======
+
+**Parent**:: 21463
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-05-30
+**UnitDateFinal**:: 1915-05-30
+**ScopeContent**:: Jorge de Faria refere que falou com presidentes de câmaras para a subscrição camiliana. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29979
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1473 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29979

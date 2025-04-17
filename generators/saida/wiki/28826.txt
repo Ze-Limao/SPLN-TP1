@@ -1,0 +1,16 @@
+====== 28826 - DC - Carta ======
+
+**Parent**:: 28811
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-03
+**UnitDateFinal**:: 1886-03
+**ScopeContent**:: Carta expedida do Porto?. Nota manuscrita a lápis "recebida ...10".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28826
+**LangMaterial**:: Português
+**PhysLoc**:: AS 806 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28826

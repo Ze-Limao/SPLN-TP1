@@ -1,0 +1,16 @@
+====== 25522 - DC - Carta ======
+
+**Parent**:: 21136
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-09-06
+**UnitDateFinal**:: 1917-09-06
+**ScopeContent**:: Henrique Coutinho diz que foi muito amigo de Camilo Castelo Branco e que lhe ofereceu um tinteiro de prata. A víuva do escritor deu-lhe um chapéu do marido (ofertado pelo Henrique Coutinho) que este devolve para o Museu Camiliano. Carta manuscrita assinada, de Av. Almirante Reis 66, 4º dt., Lisboa ou para o escritório R. Arco Bandeira 135.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25522
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 476 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25522

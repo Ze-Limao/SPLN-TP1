@@ -1,0 +1,15 @@
+====== 97532 - UI - Processo nº 10 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 10
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1970-03-02
+**UnitDateFinal**:: 1972-09-30
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 10-B e Autos de Execução de Sentença nº 10-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 354 - cx. 20
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97532

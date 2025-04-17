@@ -1,0 +1,16 @@
+====== 29021 - DC - Bilhete-postal ======
+
+**Parent**:: 29019
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-08-22
+**UnitDateFinal**:: 1907-08-22
+**ScopeContent**:: Bilhete-postal expedido de Guimarães. Possui imagens das Festas Gualterianas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29021
+**LangMaterial**:: Português
+**PhysLoc**:: AS 641 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29021

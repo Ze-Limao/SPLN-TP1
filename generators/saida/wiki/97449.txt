@@ -1,0 +1,16 @@
+====== 97449 - UI - Carta de Bernardo Pinheiro Correia de Melo a Bernardino (Machado?) ======
+
+**Parent**:: 29157
+**RootParent**:: 27963
+**UnitTitle**:: Carta de Bernardo Pinheiro Correia de Melo a Bernardino (Machado?)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1893-07-28
+**UnitDateFinal**:: 1893-07-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28731
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97449
+
+===== Filhos =====
+  * [[97450.txt|97450 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 29735 - DC - Carta ======
+
+**Parent**:: 21288
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-06-05
+**UnitDateFinal**:: 1913-06-05
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa. Papel timbrado "Arquivo Nacional da Torre do Tombo".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29735
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1146 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29735

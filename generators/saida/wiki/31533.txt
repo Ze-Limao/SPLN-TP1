@@ -1,0 +1,21 @@
+====== 31533 - UI - Maria José Vanzeler Guedes de Albuquerque ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria José Vanzeler Guedes de Albuquerque
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-08-29
+**UnitDateFinal**:: 1917-11-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31533
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31533
+
+===== Filhos =====
+  * [[31534.txt|31534 - DC - Carta]]
+  * [[31535.txt|31535 - DC - Carta]]
+  * [[31536.txt|31536 - DC - Carta]]
+  * [[31537.txt|31537 - DC - Carta]]

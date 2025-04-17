@@ -1,0 +1,29 @@
+====== 21202 - UI - José Machado ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21202
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 785, 786, 787, 788, 789, 790, 791, 792, 793, 794, 795, 796, 797, 1496
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21202
+
+===== Filhos =====
+  * [[25991.txt|25991 - DC - Carta]]
+  * [[25992.txt|25992 - DC - Carta]]
+  * [[25993.txt|25993 - DC - Carta]]
+  * [[25994.txt|25994 - DC - Carta]]
+  * [[25995.txt|25995 - DC - Carta]]
+  * [[25996.txt|25996 - DC - Carta]]
+  * [[25997.txt|25997 - DC - Carta]]
+  * [[25998.txt|25998 - DC - Carta]]
+  * [[25999.txt|25999 - DC - Carta]]
+  * [[26000.txt|26000 - DC - Carta]]
+  * [[26001.txt|26001 - DC - Carta]]
+  * [[26002.txt|26002 - DC - Carta]]
+  * [[26003.txt|26003 - DC - Carta]]
+  * [[26004.txt|26004 - DC - Carta]]

@@ -1,0 +1,19 @@
+====== 33949 - DC - Registo do recenseamento militar de Joaquim Pereira Pimenta ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Pereira Pimenta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Aves
+Data de nascimento - 1852-05-17
+Filiação - António Pereira Pimenta e Maria Pimenta
+Profissão - Caixeiro
+Estado - Solteiro
+Morada - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33949
+**LangMaterial**:: Português
+**PhysLoc**:: 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33949

@@ -1,0 +1,16 @@
+====== 25917 - DC - Romagem ao cemitério durante as comemorações dos 75 anos da Associação ======
+
+**Parent**:: 25318
+**RootParent**:: 20342
+**UnitTitle**:: Romagem ao cemitério durante as comemorações dos 75 anos da Associação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-10-16
+**UnitDateFinal**:: 1966-10-16
+**ScopeContent**:: Romagem ao cemitério com Hilário Carvalho e outras personalidades.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25917
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 187 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25917

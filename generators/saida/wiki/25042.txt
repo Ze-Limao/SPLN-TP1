@@ -1,0 +1,16 @@
+====== 25042 - UI - Tabela de piquetes de bombeiros Voluntários de Vila Nova de Famalicão ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Tabela de piquetes de bombeiros Voluntários de Vila Nova de Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1927-07-13
+**UnitDateFinal**:: 1932-12-17
+**ScopeContent**:: Contém: Tabela de piquetes de bombeiros Voluntários de Vila Nova de Famalicão 1931; Tabela de piquetes 1932; Folha auxiliar do Voluntariado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25042
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 144 - cx. 37
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25042

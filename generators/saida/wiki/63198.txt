@@ -1,0 +1,19 @@
+====== 63198 - DC - Registo do recenseamento militar de Bernardo ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Manuel da Silva e Balbina Dias, ele na freguesia e ela falecida
+Naturalidade - Ruivães
+Morada - Seide S. Miguel
+Data de nascimento - 1864-09-08
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63198

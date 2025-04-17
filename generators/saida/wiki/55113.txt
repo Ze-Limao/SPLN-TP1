@@ -1,0 +1,29 @@
+====== 55113 - UI - Henrique Barros Gomes ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Henrique Barros Gomes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-09-03
+**UnitDateFinal**:: 1890-09-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55113
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55113
+
+===== Filhos =====
+  * [[55114.txt|55114 - DC - Carta]]
+  * [[55200.txt|55200 - DC - Carta]]
+  * [[55201.txt|55201 - DC - Carta]]
+  * [[55202.txt|55202 - DC - Carta]]
+  * [[55203.txt|55203 - DC - Carta]]
+  * [[55204.txt|55204 - DC - Carta]]
+  * [[55205.txt|55205 - DC - Carta]]
+  * [[55206.txt|55206 - DC - Carta]]
+  * [[55207.txt|55207 - DC - Carta]]
+  * [[55208.txt|55208 - DC - Carta]]
+  * [[55209.txt|55209 - DC - Carta]]
+  * [[55210.txt|55210 - DC - Carta]]
+  * [[55211.txt|55211 - DC - Carta]]
+  * [[55212.txt|55212 - DC - Carta]]
+  * [[55213.txt|55213 - DC - Carta]]
+  * [[55214.txt|55214 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

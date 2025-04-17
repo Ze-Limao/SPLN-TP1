@@ -1,0 +1,16 @@
+====== 24691 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-04-28
+**UnitDateFinal**:: 1906-04-28
+**ScopeContent**:: António Ferraz comunica ter optado pelo foro de Fidalgo Cavalheiro dando conta do desenvolvimento do processo. Envia fotografias do solar dos Pinheiros e algumas observações sobre os elementos decorativos do Barbado e as chaves. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24691
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 193 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24691

@@ -1,0 +1,16 @@
+====== 23026 - DC - Registo do recenseamento eleitoral de Miguel Sequeira ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Miguel Sequeira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Pedome
+Profissão - Tecelão
+Morada - Ponte de Serves
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23026
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23026

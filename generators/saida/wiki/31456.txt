@@ -1,0 +1,17 @@
+====== 31456 - DC - Telegrama ======
+
+**Parent**:: 31455
+**RootParent**:: 31258
+**UnitTitle**:: Telegrama
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885
+**UnitDateFinal**:: 1885
+**ScopeContent**:: Este telegrama pertence ao maço 1885 sobre doença da Viscondessa Maria Amália.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31456
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6909 - cx. 46
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31456

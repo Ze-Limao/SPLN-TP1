@@ -1,0 +1,17 @@
+====== 54411 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 54403
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881-11-29
+**UnitDateFinal**:: 1881-11-29
+**ScopeContent**:: Minuta de carta manuscrita. Minuta de carta manuscrita da Província de S. Tomé e Príncipe. Esta minuta de carta está dentro do envelope com nota manuscrita "Correspondência particular com Ministro da Marinha (J. de Vilhena), CP 13982.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54411
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13900 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54411

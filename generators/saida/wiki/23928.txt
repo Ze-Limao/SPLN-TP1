@@ -1,0 +1,16 @@
+====== 23928 - DC - Carta ======
+
+**Parent**:: 21054
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924-09-08
+**UnitDateFinal**:: 1924-09-08
+**ScopeContent**:: Álvaro Neves solicita elementos para um catálogo de cartas publicadas e inéditas de Camilo, no âmbito do centenário, das 15 cartas de Camilo Castelo Branco que JAM cedeu. Carta manuscrita assinada, Lisboa. Carimbo com "Álvaro Neves. Rua S. Bernardo, 98 1º Lisboa".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23928
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 82 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23928

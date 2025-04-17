@@ -1,0 +1,12 @@
+====== 60397 - SR - Documentos ======
+
+**Parent**:: 31333
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31334
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60397
+
+===== Filhos =====
+  * [[56361.txt|56361 - DC - Documentação fiscal e seguros da casa da Rua do Norte nº 29 a 33 de Lisboa]]

@@ -1,0 +1,16 @@
+====== 8246 - UI - Gracinda de Azevedo ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Gracinda de Azevedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-10-23
+**UnitDateFinal**:: 1895-10-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8246
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.2
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8246
+
+===== Filhos =====
+  * [[8247.txt|8247 - DC - Carta]]

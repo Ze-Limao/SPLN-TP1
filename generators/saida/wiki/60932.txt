@@ -1,0 +1,23 @@
+====== 60932 - SR - Carimbos ======
+
+**Parent**:: 60550
+**RootParent**:: 60550
+**UnitTitle**:: Carimbos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1950
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60932
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60932
+
+===== Filhos =====
+  * [[60942.txt|60942 - DC - Velha Lucerna]]
+  * [[61426.txt|61426 - DC - Almanaque do Zé Povinho]]
+  * [[61427.txt|61427 - DC - Almanaque do Zé Povinho]]
+  * [[61428.txt|61428 - DC - Almanaque do Zé Povinho]]
+  * [[61429.txt|61429 - DC - Almanaque do Zé Povinho]]
+  * [[61430.txt|61430 - DC - Carimbo]]
+  * [[61431.txt|61431 - DC - Castelo de Arnoia]]
+  * [[61432.txt|61432 - DC - Castelo de Arnoia]]
+  * [[61433.txt|61433 - DC - Terras de Basto, etc]]
+  * [[61434.txt|61434 - DC - Terras de Basto, etc]]

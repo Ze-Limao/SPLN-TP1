@@ -1,0 +1,16 @@
+====== 24687 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-02-02
+**UnitDateFinal**:: 1906-02-02
+**ScopeContent**:: António Ferraz agradece os favores a JAM. Informa que vai a Braga falar com João Nespereira para obter uma carta para o Conde Tarouca que acompanha o seu memorial. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24687
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 189 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24687

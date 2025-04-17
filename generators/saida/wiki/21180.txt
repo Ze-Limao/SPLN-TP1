@@ -1,0 +1,28 @@
+====== 21180 - UI - José Maria da Silva Pessanha ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Maria da Silva Pessanha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-12-17
+**UnitDateFinal**:: 1925-01-09
+**ScopeContent**:: José Maria da Silva Pessanha (nasceu em Benfica, Lisboa em 1865 e faleceu em S.Sebastião da Pedreira, Lisboa em 1939), aristocrata historiador de arte e arqueólogo. Publicou em 1904 a "História das Indústrias Artísticas em Portugal". Filho de D. Sebastião da Silva Pessanha ( 05.06.1833) e Ernestina Luisa Martin (10.12.1825). Casou a 24.05.1888 com Maria Adelaide Caminha (06.02.1862). Exerceu funções de conservador da Torre do Tombo e foi professor na Escola de Belas Artes de Lisboa. Foi historiador de Arte.
+Fonte: Geneall.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21180
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 607, 823, 824, 825, 826, 827, 828, 829, 830, 831.
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21180
+
+===== Filhos =====
+  * [[25657.txt|25657 - DC - Carta]]
+  * [[26029.txt|26029 - DC - Carta]]
+  * [[26030.txt|26030 - DC - Carta]]
+  * [[26031.txt|26031 - DC - Carta]]
+  * [[26032.txt|26032 - DC - Carta]]
+  * [[26033.txt|26033 - DC - Carta]]
+  * [[26034.txt|26034 - DC - Carta]]
+  * [[26035.txt|26035 - DC - Carta]]
+  * [[26036.txt|26036 - DC - Carta]]
+  * [[26037.txt|26037 - DC - Carta]]

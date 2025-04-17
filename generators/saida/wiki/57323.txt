@@ -1,0 +1,17 @@
+====== 57323 - DC - Comp. Cª de Ferro. Notas de viveiros ======
+
+**Parent**:: 31346
+**RootParent**:: 31258
+**UnitTitle**:: Comp. Cª de Ferro. Notas de viveiros
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1929-05-27
+**UnitDateFinal**:: 1935-10-10
+**ScopeContent**:: Capa com título manuscrito a cores respeitante à Companhia dos Caminhos de Ferro do Norte de Portugal. Contém documentos manuscritos e datilografados com apontamentos sobre os viveiros de Vizela e Senhora da Hora, com nomes das árvores, plantas, quantidades, mapa de plantações; ofício datilografado para o Engenheiro Director da Exploração da Companhia dos Caminhos de Ferro do Norte de Portugal de Visconde Pindela, engenheiro silvicultor e agrónomo; minutas e carta; folhas datilografadas com índice de livro de arboricultura.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57323
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2356 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57323

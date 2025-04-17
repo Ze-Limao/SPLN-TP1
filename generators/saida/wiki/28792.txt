@@ -1,0 +1,16 @@
+====== 28792 - DC - Carta ======
+
+**Parent**:: 28790
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907-07-03
+**UnitDateFinal**:: 1907-07-03
+**ScopeContent**:: Carta expedida de Aveiro. Nota manuscrita a lápis "Respondido em Julho 9". Cartas com textos manuscritos "Escola de Riquezaa", e os poemas "O Sonhador", "A Vida e a morte".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28792
+**LangMaterial**:: Português
+**PhysLoc**:: AS 613 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28792

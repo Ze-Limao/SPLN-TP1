@@ -1,0 +1,17 @@
+====== 61907 - DC - Selections from My road to Rotary by Paul Harris ======
+
+**Parent**:: 61484
+**RootParent**:: 60551
+**UnitTitle**:: Selections from My road to Rotary by Paul Harris
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1984
+**UnitDateFinal**:: 1984
+**ScopeContent**:: Publicação de Rotary International.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Inglês
+**PhysLoc**:: RCF 385 - cx. 6
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61907

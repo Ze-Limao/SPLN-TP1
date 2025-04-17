@@ -1,0 +1,17 @@
+====== 99556 - UI - Sindicato Agrícola de Famalicão ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Sindicato Agrícola de Famalicão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-07-03
+**UnitDateFinal**:: 1917-05-03
+**ScopeContent**:: Campo Mousinho. Depósito Rua Santos Viegas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99556
+
+===== Filhos =====
+  * [[99557.txt|99557 - DC - Cartão]]
+  * [[99570.txt|99570 - DC - Cartão]]
+  * [[99572.txt|99572 - DC - Cartão]]

@@ -1,0 +1,16 @@
+====== 29732 - DC - Carta ======
+
+**Parent**:: 21287
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-04-11
+**UnitDateFinal**:: 1915-04-11
+**ScopeContent**:: Álvaro de Castelões refere na carta que esta pode ser lida na reunião do Olympia (teatro em Famalicão) para ser deliberado sobre a reconstrução da casa de S. Miguel de Seide em favor de um museu e monumento sobre o escritor Camilo Castelo Branco. Carta manuscrita assinada, de Castelões (V.N.Famalicão).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29732
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1142 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29732

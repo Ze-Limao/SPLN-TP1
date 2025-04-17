@@ -1,0 +1,16 @@
+====== 21419 - UI - Hugo de Noronha ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Hugo de Noronha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-07-18
+**UnitDateFinal**:: 1902-07-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21419
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1398
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21419
+
+===== Filhos =====
+  * [[30250.txt|30250 - DC - Carta]]

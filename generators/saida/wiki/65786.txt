@@ -1,0 +1,15 @@
+====== 65786 - DC - Sentença cível de emprazamento do casal do Fontelo, situado na freguesia de S. Julião do Calendário, feita por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Manuel da Costa e a sua mulher Maria Francisca ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal do Fontelo, situado na freguesia de S. Julião do Calendário, feita por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Manuel da Costa e a sua mulher Maria Francisca
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1734-11-20
+**UnitDateFinal**:: 1734-11-20
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 157 - cx. 7
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65786

@@ -1,0 +1,59 @@
+====== 31335 - SR - Correspondência recebida ======
+
+**Parent**:: 31332
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1897-08-24
+**UnitDateFinal**:: 1920-11-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31335
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31335
+
+===== Filhos =====
+  * [[48477.txt|48477 - UI - Bernardo Pinheiro Correia de Melo]]
+  * [[60266.txt|60266 - UI - Maria Ana do Patrocínio de Melo Sampaio]]
+  * [[60268.txt|60268 - UI - Maria do Carmo Barros Vasconcelos da Cruz Soveral]]
+  * [[60271.txt|60271 - UI - Maria Inácia de Sousa Botelho de Brederode]]
+  * [[60273.txt|60273 - UI - Francisco Manuel Cardoso de Menezes Barreto Pinheiro de Azevedo]]
+  * [[60275.txt|60275 - UI - José de Azevedo e Menezes]]
+  * [[60277.txt|60277 - UI - Maria Carolina de Magalhães]]
+  * [[60280.txt|60280 - UI - Else Werner]]
+  * [[60283.txt|60283 - UI - Christine]]
+  * [[60286.txt|60286 - UI - Helena]]
+  * [[60289.txt|60289 - UI - Maria Antónia Guedes de Queirós]]
+  * [[60294.txt|60294 - UI - Ana Pinheiro de Melo]]
+  * [[60299.txt|60299 - UI - Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[60304.txt|60304 - UI - Vera Dirkien]]
+  * [[60306.txt|60306 - UI - Marie Cotti]]
+  * [[60308.txt|60308 - UI - Grácia Maria Eulália Pinheiro de Melo]]
+  * [[60310.txt|60310 - UI - Teresa Maria de Melo]]
+  * [[60312.txt|60312 - UI - João Gomes de Abreu]]
+  * [[60315.txt|60315 - UI - Palmira Augusta Pedrosa de Azevedo]]
+  * [[60321.txt|60321 - UI - António Vasco de Melo da Silva César e Meneses e Berta Munró dos Anjos]]
+  * [[60327.txt|60327 - UI - Georges]]
+  * [[60329.txt|60329 - UI - Matilde Munró dos Anjos]]
+  * [[60331.txt|60331 - UI - Maria da Glória de Abreu]]
+  * [[60333.txt|60333 - UI - None]]
+  * [[60335.txt|60335 - UI - Ana José Guedes da Costa]]
+  * [[60337.txt|60337 - UI - António Rodrigues]]
+  * [[60340.txt|60340 - UI - José?]]
+  * [[60343.txt|60343 - UI - Luísa da Conceição Cardoso de Menezes]]
+  * [[60346.txt|60346 - UI - Maria Rita de Castro Sampaio]]
+  * [[60350.txt|60350 - UI - Maria Francisca de Sousa e Silva Alcoforado]]
+  * [[60354.txt|60354 - UI - Mélanie Côrte-Real]]
+  * [[60356.txt|60356 - UI - João Gualberto Sá Pinto Abreu Sottomaior]]
+  * [[60358.txt|60358 - UI - Júlio Augusto Sousa Teixeira Vasconcelos]]
+  * [[60360.txt|60360 - UI - Maria Joaquina Costa Teixeira]]
+  * [[60363.txt|60363 - UI - Francisco de Assis Ribeiro Costa]]
+  * [[60366.txt|60366 - UI - Cristina]]
+  * [[60368.txt|60368 - UI - Maria Cândida do Patrocínio Malheiro Reymão Teles Calheiros de Menezes e Sá]]
+  * [[60370.txt|60370 - UI - Maria Vitória]]
+  * [[60372.txt|60372 - UI - Maria da Felicidade de Abreu Lima]]
+  * [[60374.txt|60374 - UI - Constança Martins da Costa]]
+  * [[60376.txt|60376 - UI - Maria Maximiana Malheiro Reymão Teles de Meneses]]
+  * [[60378.txt|60378 - UI - Emília Maria]]
+  * [[60380.txt|60380 - UI - G. Lázaro dos Santos]]
+  * [[60382.txt|60382 - UI - Isabel Maria de Sousa Botelho Mourão e Vasconcelos Noronha]]
+  * [[60385.txt|60385 - UI - António Cândido Nogueira]]
+  * [[60387.txt|60387 - UI - Reis, Filhos, Lda.]]

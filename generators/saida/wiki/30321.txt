@@ -1,0 +1,16 @@
+====== 30321 - DC - Família dos Falcões Marinhos extrahido da História Genealógica Manuscripta Tomo nº4 fl. 372 existe. no importe. Archivo Dr. Ernesto do Canto da Ilha de S. Miguel em Ponta Delgada ======
+
+**Parent**:: 20336
+**RootParent**:: 20290
+**UnitTitle**:: Família dos Falcões Marinhos extrahido da História Genealógica Manuscripta Tomo nº4 fl. 372 existe. no importe. Archivo Dr. Ernesto do Canto da Ilha de S. Miguel em Ponta Delgada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899
+**UnitDateFinal**:: 1915
+**ScopeContent**:: Caderno manuscrito sem capa de papel quadriculado bege.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30321
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1532 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30321

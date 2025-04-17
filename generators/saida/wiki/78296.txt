@@ -1,0 +1,17 @@
+====== 78296 - DC - Declaração de António Gomes de Carvalho e sua mulher Josefa da Cruz, do lugar da Bouça, Mouquim, para arrendamento do campo de Sequeiro com João Machado de Melo Pinheiro ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Declaração de António Gomes de Carvalho e sua mulher Josefa da Cruz, do lugar da Bouça, Mouquim, para arrendamento do campo de Sequeiro com João Machado de Melo Pinheiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1795-10-09
+**UnitDateFinal**:: 1795-10-09
+**ScopeContent**:: Manuscrito em papel azul.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4617A - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78296

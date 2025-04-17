@@ -1,0 +1,17 @@
+====== 100683 - DC - Manuel António de Magalhães, secretário da junta da Paróquia da freguesia de S. Tiago da Cruz, passa certidão sobre um requerimento de Joaquim Pinto Leite, do Porto, como testamenteiro de José da Costa Pires, em 1866-08-26 ======
+
+**Parent**:: 54366
+**RootParent**:: 31258
+**UnitTitle**:: Manuel António de Magalhães, secretário da junta da Paróquia da freguesia de S. Tiago da Cruz, passa certidão sobre um requerimento de Joaquim Pinto Leite, do Porto, como testamenteiro de José da Costa Pires, em 1866-08-26
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-04-25
+**UnitDateFinal**:: 1867-04-25
+**ScopeContent**:: Manuscrito em papel azul em folha selada de 40 reis. Este documento estava na “Caixa 12”, que contém CP 13143 a CP 13169.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13155 - cx. 87
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100683

@@ -1,0 +1,15 @@
+====== 24954 - UI - Conta Corrente: notas dos credores da casa ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Conta Corrente: notas dos credores da casa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1932-06-01
+**UnitDateFinal**:: 1941-10-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24954
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 58 - cx. 21
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24954

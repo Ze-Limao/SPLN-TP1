@@ -1,0 +1,17 @@
+====== 65670 - DC - Relação de foros pagos ======
+
+**Parent**:: 54470
+**RootParent**:: 31258
+**UnitTitle**:: Relação de foros pagos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1695-10-27
+**UnitDateFinal**:: 1762
+**ScopeContent**:: Folhas cosidas. Este documento estava na “Caixa 12”, que contém CP 3800 a CP 3826 embrulhados em jornais do ano 1936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54270
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3812 - cx. 28
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65670

@@ -1,0 +1,17 @@
+====== 98536 - DC - Prazo feito a favor de João Machado de Mello e sua mulher a José Gomes Martins, da freguesia  de Arnozo ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Prazo feito a favor de João Machado de Mello e sua mulher a José Gomes Martins, da freguesia  de Arnozo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1820-01-25
+**UnitDateFinal**:: 1820-01-25
+**ScopeContent**:: Manuscrito com folhas cosidas "Pasta nº 7 Cazal 53 B". Este documento estava na “Caixa 7”, que contém CP 12977 a CP 12996. Junto com notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12992 - cx. 82
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98536

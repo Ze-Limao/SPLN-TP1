@@ -1,0 +1,16 @@
+====== 54220 - DC - Ofícios do arquiteto Januário Godinho e faturas diversas ======
+
+**Parent**:: 53753
+**RootParent**:: 25851
+**UnitTitle**:: Ofícios do arquiteto Januário Godinho e faturas diversas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1956-03-14
+**UnitDateFinal**:: 1959-10-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54220
+**LangMaterial**:: Português
+**PhysLoc**:: JG 165 - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54220

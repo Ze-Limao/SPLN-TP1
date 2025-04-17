@@ -1,0 +1,16 @@
+====== 21394 - UI - Francisco Lopes de Calheiros e Menezes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco Lopes de Calheiros e Menezes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1926-12-23
+**UnitDateFinal**:: 1926-12-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21394
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1356
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21394
+
+===== Filhos =====
+  * [[30223.txt|30223 - DC - Carta]]

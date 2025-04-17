@@ -1,0 +1,16 @@
+====== 24668 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-04-28
+**UnitDateFinal**:: 1903-04-28
+**ScopeContent**:: António Ferraz dá notas sobre a família e sobre a origem dos Gouvêas, que é duvidosa apesar da numerosa documentação consultada, inclusive na Torre do Tombo. Informa sobre os Ferrazes de Gusmão. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24668
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 170 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24668

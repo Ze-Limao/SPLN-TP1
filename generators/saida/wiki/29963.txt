@@ -1,0 +1,16 @@
+====== 29963 - DC - Carta ======
+
+**Parent**:: 21356
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-08-13
+**UnitDateFinal**:: 1914-08-13
+**ScopeContent**:: Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29963
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1271 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29963

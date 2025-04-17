@@ -1,0 +1,17 @@
+====== 56951 - DC - Telegramas ======
+
+**Parent**:: 56945
+**RootParent**:: 31258
+**UnitTitle**:: Telegramas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-11-06
+**UnitDateFinal**:: 1934-11-06
+**ScopeContent**:: Telegrama de Paris para o Porto, informando da doença de Noel Dorville. Minuta de telegrama para Dorville, com nota manuscrita com a morada de Dorville.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56951
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 2714 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56951

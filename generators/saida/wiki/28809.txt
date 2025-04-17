@@ -1,0 +1,15 @@
+====== 28809 - UI - Francisco Machado de Faria e Maia ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Francisco Machado de Faria e Maia
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1868-09-24
+**UnitDateFinal**:: 1870
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28809
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28809
+
+===== Filhos =====
+  * [[28810.txt|28810 - DC - Carta]]
+  * [[60955.txt|60955 - DC - Carta]]

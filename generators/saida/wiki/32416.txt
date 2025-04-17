@@ -1,0 +1,19 @@
+====== 32416 - UI - Carlos Roma du Bocage ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Carlos Roma du Bocage
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-07-23
+**UnitDateFinal**:: 1909-05-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32416
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32416
+
+===== Filhos =====
+  * [[32417.txt|32417 - DC - Telegrama]]
+  * [[32422.txt|32422 - DC - Telegrama]]

@@ -1,0 +1,16 @@
+====== 28138 - DC - 1895 Densidade das uvas da vinha e ramadas ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1895 Densidade das uvas da vinha e ramadas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-09-11
+**UnitDateFinal**:: 1895-09-25
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Indicação das castas e valores de densidades dos mostos registadas pelo gleucómetro Dr. J. Guyot (Gl.. Guyot) e pelo gleucómetro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28138
+**LangMaterial**:: Português
+**PhysLoc**:: AS 411 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28138

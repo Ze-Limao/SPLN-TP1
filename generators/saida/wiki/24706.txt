@@ -1,0 +1,16 @@
+====== 24706 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-03-28
+**UnitDateFinal**:: 1910-03-28
+**ScopeContent**:: António Ferraz informa que concluíu o trabalho sobre os Farias e dá informações complementares. Considera publicar em livro o trabalho de JAM. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24706
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 207 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24706

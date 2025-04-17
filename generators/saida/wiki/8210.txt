@@ -1,0 +1,18 @@
+====== 8210 - DC - Termo do exame de Aires de Oliveira Campos ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Aires de Oliveira Campos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-05-21
+**UnitDateFinal**:: 1884-05-21
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - José Joaquim de Oliveira Campos
+Naturalidade - Nine
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8210
+**LangMaterial**:: Português
+**PhysLoc**:: f. 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8210

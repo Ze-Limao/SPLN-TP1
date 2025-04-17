@@ -1,0 +1,16 @@
+====== 29088 - DC - Bilhete-postal que António Vicente Leal Sampaio recebeu de Alberto Sampaio ======
+
+**Parent**:: 29087
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal que António Vicente Leal Sampaio recebeu de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-11-21
+**UnitDateFinal**:: 1900-11-21
+**ScopeContent**:: Bilhete-postal carimbado e selado expedido do Porto, R. Formosa, 335,2º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29088
+**LangMaterial**:: Português
+**PhysLoc**:: AS 516, cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29088

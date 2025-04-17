@@ -1,0 +1,15 @@
+====== 60706 - DC - Emprazamento do casal de Prazins, situado na freguesia de Avidos, feito por Álvaro de Sá, procurador da Igreja de S.Tiago de Antas, a João de Carvalho e a sua mulher Maria Gil ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Prazins, situado na freguesia de Avidos, feito por Álvaro de Sá, procurador da Igreja de S.Tiago de Antas, a João de Carvalho e a sua mulher Maria Gil
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1486-02-01
+**UnitDateFinal**:: 1486-02-01
+**ScopeContent**:: Manuscrito, original, sem selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 7 - cx. P21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60706

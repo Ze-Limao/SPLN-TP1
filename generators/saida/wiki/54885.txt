@@ -1,0 +1,14 @@
+====== 54885 - UI - Pedro Lencastre ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Pedro Lencastre
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891
+**UnitDateFinal**:: 1891
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54885
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54885
+
+===== Filhos =====
+  * [[54886.txt|54886 - DC - Carta]]

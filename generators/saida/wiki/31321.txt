@@ -1,0 +1,15 @@
+====== 31321 - SSSC - Ministro plenipotenciário de Portugal na Legação de Haia (Países Baixos) ======
+
+**Parent**:: 31313
+**RootParent**:: 31258
+**UnitTitle**:: Ministro plenipotenciário de Portugal na Legação de Haia (Países Baixos)
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1884-11-29
+**UnitDateFinal**:: 1894-07-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31321
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31321
+
+===== Filhos =====
+  * [[31322.txt|31322 - SR - Correspondência recebida]]
+  * [[54476.txt|54476 - SR - Documentos]]

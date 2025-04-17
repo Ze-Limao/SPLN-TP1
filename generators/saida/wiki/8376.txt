@@ -1,0 +1,16 @@
+====== 8376 - UI - José Pinheiro ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: José Pinheiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-07-10
+**UnitDateFinal**:: 1895-07-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8376
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.34
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8376
+
+===== Filhos =====
+  * [[8377.txt|8377 - DC - Carta]]

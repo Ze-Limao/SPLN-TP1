@@ -1,0 +1,18 @@
+====== 51751 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9167
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-02-06
+**UnitDateFinal**:: 1867-04-03
+**ScopeContent**:: Data de nascimento - 1846-09-09
+Filiação - Manuel de Barros e Joaquina Moutinho
+Naturalidade - Landim
+Profissão - Pedreiro
+Residência - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51751
+**LangMaterial**:: Português
+**PhysLoc**:: 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51751

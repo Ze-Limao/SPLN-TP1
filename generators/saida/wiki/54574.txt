@@ -1,0 +1,14 @@
+====== 54574 - UI - Maria Emília Freitas Rangel ======
+
+**Parent**:: 54573
+**RootParent**:: 31258
+**UnitTitle**:: Maria Emília Freitas Rangel
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1851-07-04
+**UnitDateFinal**:: 1851-07-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54574
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54574
+
+===== Filhos =====
+  * [[54575.txt|54575 - DC - Carta para amiga]]

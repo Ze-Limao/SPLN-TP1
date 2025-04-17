@@ -1,0 +1,16 @@
+====== 28003 - DC - Primeira versão do Manifesto dos Estudantes da Universidade de Coimbra ======
+
+**Parent**:: 27972
+**RootParent**:: 27963
+**UnitTitle**:: Primeira versão do Manifesto dos Estudantes da Universidade de Coimbra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862
+**UnitDateFinal**:: 1862
+**ScopeContent**:: Primeira versão do "Manifesto dos Estudantes da Universidade de Coimbra / 1862-1863 / À opinião ilustrada do País”, reduzida à parte final do texto. No fim, apresenta as assinaturas de 13 estudantes universitários, seguidas do ano e respetiva identificação do curso, e de 4 estudantes do liceu.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28003
+**LangMaterial**:: Português
+**PhysLoc**:: AS 270 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28003

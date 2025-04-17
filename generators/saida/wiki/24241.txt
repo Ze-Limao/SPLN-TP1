@@ -1,0 +1,16 @@
+====== 24241 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-03-15
+**UnitDateFinal**:: 1916-03-15
+**ScopeContent**:: António Cabral participa que é o presidente da Comissão Nacional de Assistência aos Monárquicos Necessitados e solicita ajuda para angariar donativos. Informa que não é preciso agradecer-lhe pelo pequeno donativo que fez para a reconstrução da casa do escritor Camilo Castelo Branco. Refere a sua situação financeira devido à demissão do cargo que exercia e ao não pagamento de juros de título estrangeiros devido à guerra. Congratula-se com as informações sobre o futuro Museu de Seide. Junto com a circular JAM 116. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24241
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 115 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24241

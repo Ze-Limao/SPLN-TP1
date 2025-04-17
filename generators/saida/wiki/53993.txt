@@ -1,0 +1,17 @@
+====== 53993 - DC - Orçamento das obras a mais a executar como Primeiro Adicional à empreitada geral da urbanização da praça do novo edifício do Tribunal… ======
+
+**Parent**:: 53982
+**RootParent**:: 25851
+**UnitTitle**:: Orçamento das obras a mais a executar como Primeiro Adicional à empreitada geral da urbanização da praça do novo edifício do Tribunal…
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-06-03
+**UnitDateFinal**:: 1961-06-03
+**ScopeContent**:: Original. Exemplar igual JG 159(8) e JG 160(8).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53993
+**LangMaterial**:: Português
+**PhysLoc**:: JG 153(8) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53993

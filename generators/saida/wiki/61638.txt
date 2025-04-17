@@ -1,0 +1,19 @@
+====== 61638 - DC - Registo do recenseamento militar de Gabriel ======
+
+**Parent**:: 9181
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Gabriel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-01
+**UnitDateFinal**:: 1882-03-30
+**ScopeContent**:: Filiação - Joaquim da Rocha e Maria Joaquina Ferreira, em Delães
+Naturalidade - Oliveira Santa Maria
+Morada - Delães
+Data de nascimento - 1861-10-27
+Emprego - Lavoura
+Estado - Delães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61635
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 2v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61638

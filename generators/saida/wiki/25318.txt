@@ -1,0 +1,25 @@
+====== 25318 - UI - Recordações das Festas dos 75 anos ======
+
+**Parent**:: 20387
+**RootParent**:: 20342
+**UnitTitle**:: Recordações das Festas dos 75 anos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1966-10-16
+**UnitDateFinal**:: 1966-10-16
+**ScopeContent**:: Nota colada no início do álbum: "Recordação das festas dos 75 anos da Associação (já com 76) no dia 16 de outubro de 1966. Assistiram 39 corporações com 39 estandartes, 54 viaturas, 39 diretores de associações, 35 comandantes e desfilaram na rua da vila 430 bombeiros."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25318
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 187 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25318
+
+===== Filhos =====
+  * [[25914.txt|25914 - DC - Desfile dos bombeiros na Praça 9 de Abril em Vila Nova de Famalicão]]
+  * [[25915.txt|25915 - DC - Benção do Arcebispo de Braga na festa dos 75 anos da Associação]]
+  * [[25916.txt|25916 - DC - Discurso de Hiário Carvalho na festa dos 75 anos da Associação]]
+  * [[25917.txt|25917 - DC - Romagem ao cemitério durante as comemorações dos 75 anos da Associação]]
+  * [[25918.txt|25918 - DC - Colocação de medalha num bombeiro nas comemorações dos 75 anos da Associação]]
+  * [[25919.txt|25919 - DC - Formatura do Corpo Ativo no quartel nas comemorações dos 75 anos da Associação]]
+  * [[53975.txt|53975 - DC - Desfile dos carros de bombeiros na Praça 9 de Abril em Vila Nova de Famalicão]]

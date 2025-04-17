@@ -1,0 +1,17 @@
+====== 99555 - DC - Memorandum ======
+
+**Parent**:: 99451
+**RootParent**:: 60695
+**UnitTitle**:: Memorandum
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-07-12
+**UnitDateFinal**:: 1914-07-12
+**ScopeContent**:: Carta manuscrita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54262
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 113 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99555

@@ -1,0 +1,16 @@
+====== 28590 - DC - Revisão do estudo Norte Marítimo publicado na «Revista de Portugal» ======
+
+**Parent**:: 28589
+**RootParent**:: 27963
+**UnitTitle**:: Revisão do estudo Norte Marítimo publicado na «Revista de Portugal»
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1890-05
+**ScopeContent**:: Impresso com as correções manuscritas a tinta e a lápis feitas por Alberto Sampaio ao artigo publicado pela «Revista de Portugal» nos números de Maio e Junho de 1890 sugerem que a fixação final do texto a adotar em futuras publicações seria esta versão. Nas páginas 597 a 603 estão assinaladas pequenas correções, tais como alterações e eliminações de palavras, e uma outra, esta substancial, dado tratar-se da introdução de um texto impresso, recortado de um jornal. Deduz-se, a partir dos elementos de que dispomos, que Alberto Sampaio já tinha feito uma revisão ao texto inicial, tendo este sido objeto de publicação num periódico. Páginas 597 a 603 do artigo “O Norte Marítimo”, publicado na «Revista de Portugal», Maio 1890. Na página 600 encontra-se um recorte de jornal colado na parte superior. O referido recorte diz respeito a uma parte do artigo “O Norte Marítimo” publicado num periódico, não identificado, entretanto acrescentado à versão apresentada na «Revista de Portugal».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28590
+**LangMaterial**:: Português
+**PhysLoc**:: AS 105 (1) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28590

@@ -1,0 +1,16 @@
+====== 25838 - DC - Carta ======
+
+**Parent**:: 21186
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-05-02
+**UnitDateFinal**:: 1921-05-02
+**ScopeContent**:: Joaquim Costa agradece o envio da obra sobre Camilo Castelo Branco. Carta manuscrita assinada. Papel timbrado "Biblioteca Pública Municipal do Porto".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25838
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 744 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25838

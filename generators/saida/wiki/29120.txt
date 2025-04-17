@@ -1,0 +1,15 @@
+====== 29120 - UI - Joaquim Pedro de Oliveira Martins ======
+
+**Parent**:: 28716
+**RootParent**:: 27963
+**UnitTitle**:: Joaquim Pedro de Oliveira Martins
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886
+**UnitDateFinal**:: 1886-03-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29120
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29120
+
+===== Filhos =====
+  * [[29121.txt|29121 - DC - Rascunho de carta]]
+  * [[29122.txt|29122 - DC - Rascunho de carta]]

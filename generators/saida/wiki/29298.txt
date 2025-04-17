@@ -1,0 +1,16 @@
+====== 29298 - DC - Argamassa hydraulica:  para fundo de lagos, presas, etc ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Argamassa hydraulica:  para fundo de lagos, presas, etc
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Composição: cal hidráulica ou cal magra (provém de calcários contendo 5 a 10 % de argila) da de Ovar, areia, saibro, pozzolana dos Açores, cascalho britado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29298
+**LangMaterial**:: Português
+**PhysLoc**:: AS 205 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29298

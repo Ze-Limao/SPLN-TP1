@@ -1,0 +1,16 @@
+====== 46134 - UI - António Osório Sarmento de Figueiredo e Maria Ludovina de Sousa Horta e Osório ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Osório Sarmento de Figueiredo e Maria Ludovina de Sousa Horta e Osório
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46134
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46134
+
+===== Filhos =====
+  * [[46135.txt|46135 - DC - Carta]]

@@ -1,0 +1,21 @@
+====== 98831 - DC - Orçamento de receita e despesa da Junta de Parochia de S. Thiago de Antas ======
+
+**Parent**:: 60673
+**RootParent**:: 60671
+**UnitTitle**:: Orçamento de receita e despesa da Junta de Parochia de S. Thiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1862-07-06
+**UnitDateFinal**:: 1876-10-08
+**ScopeContent**:: Manuscrito em folhas soltas:
+1862-1862 - 1 f.
+1866-1867 - 1 f.
+1871-1873 - 1 f.
+1875-1876 - 1 f.
+1 f. com anotação 1873-1874.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60670
+**LangMaterial**:: Português
+**PhysLoc**:: JPA 2 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98831

@@ -1,0 +1,16 @@
+====== 28591 - DC - Manuscrito relacionado com o Norte Marítimo ======
+
+**Parent**:: 28589
+**RootParent**:: 27963
+**UnitTitle**:: Manuscrito relacionado com o Norte Marítimo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1890
+**ScopeContent**:: O excerto apresentado está relacionado com o episódio da defesa da cidade do Porto pelo prior do Hospital, Álvaro Gonçalves Pereira, por incumbência do rei D. Afonso IV, quando seu filho D. Pedro, em perseguição dos assassinos de D. Inês de Castro, arrasava os lugares do reino por onde passava. As páginas impressas de parte do artigo publicado pela «Revista de Portugal» correspondem às páginas 389-396, do 1.º volume dos Estudos Históricos e Económicos, edição de 1923.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28591
+**LangMaterial**:: Português
+**PhysLoc**:: AS 105 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28591

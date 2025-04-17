@@ -1,0 +1,16 @@
+====== 8390 - UI - António Luís do Rego ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: António Luís do Rego
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-11
+**UnitDateFinal**:: 1895-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8390
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.40
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8390
+
+===== Filhos =====
+  * [[8391.txt|8391 - DC - Carta]]

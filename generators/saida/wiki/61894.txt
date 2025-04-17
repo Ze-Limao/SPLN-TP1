@@ -1,0 +1,17 @@
+====== 61894 - DC - Transmissão de tarefas Rotary Club de Braga, etc. ======
+
+**Parent**:: 61461
+**RootParent**:: 60551
+**UnitTitle**:: Transmissão de tarefas Rotary Club de Braga, etc.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 2003-07-01
+**UnitDateFinal**:: 2003-07-01
+**ScopeContent**:: Um envelope com 1 fotografia de reunião; 1 fotografia de João Esteves da Silva; 1 cartão de João Esteves da Silva
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 350 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61894

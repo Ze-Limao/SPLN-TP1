@@ -1,0 +1,15 @@
+====== 8030 - DC - Termo de Frutuoso de Araújo ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Frutuoso de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-05-10
+**UnitDateFinal**:: 1876-05-10
+**ScopeContent**:: Construção de uma ramada sobre um caminho público
+Local - Bairro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8030
+**LangMaterial**:: Português
+**PhysLoc**:: f. 50
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8030

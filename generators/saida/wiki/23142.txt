@@ -1,0 +1,16 @@
+====== 23142 - DC - Carta ======
+
+**Parent**:: 21039
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-09-19
+**UnitDateFinal**:: 1900-09-19
+**ScopeContent**:: Alberto Pimentel agradece a resposta e informa que publicou no jornal "O Popular" (19 setembro 1990) a carta de JAM que achou muito interessante, que remete também pelo correio. Essa carta foi escrita antes da morte de Jorge e relata os últimos momentos do filho do Camilo Castelo Branco. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23142
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 31 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23142

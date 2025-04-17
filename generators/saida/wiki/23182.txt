@@ -1,0 +1,16 @@
+====== 23182 - DC - Carta ======
+
+**Parent**:: 21052
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-07-27
+**UnitDateFinal**:: 1911-07-27
+**ScopeContent**:: Alfredo Pons informa das investigações sobre Gonçalo Nunes de Faria e Ruy Pereira no reinado de D. Pedro e D. Afonso V e ainda sobre as custas da busca e selo. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23182
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 71 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23182

@@ -1,0 +1,16 @@
+====== 28106 - DC - 1879 Densidade dos mostos ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: 1879 Densidade dos mostos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-09-26
+**UnitDateFinal**:: 1879-10-15
+**ScopeContent**:: No final do tetxo a nota: «Esta densidade parece-me mais exacta q. as outras q.to à comparação entre o Gl.oen. e densi.tro». / «Densímetro do Dr. Guyot - Açúcar de uva em centésimas de peso».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28106
+**LangMaterial**:: Português
+**PhysLoc**:: AS 379 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28106

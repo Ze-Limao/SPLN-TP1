@@ -1,0 +1,14 @@
+====== 54563 - UI - Maria das Dores Sousa Coutinho ======
+
+**Parent**:: 31359
+**RootParent**:: 31258
+**UnitTitle**:: Maria das Dores Sousa Coutinho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1877
+**UnitDateFinal**:: 1882
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54563
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54563
+
+===== Filhos =====
+  * [[54564.txt|54564 - DC - Carta]]

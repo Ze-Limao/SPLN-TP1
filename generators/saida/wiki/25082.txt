@@ -1,0 +1,28 @@
+====== 25082 - UI - Documentos diversos sobre Bodas de Ouro e de outras festas da AHBVF ======
+
+**Parent**:: 20386
+**RootParent**:: 20342
+**UnitTitle**:: Documentos diversos sobre Bodas de Ouro e de outras festas da AHBVF
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1943-10
+**UnitDateFinal**:: 1943-11
+**ScopeContent**:: Contém: Convites, correspondência recebida, relação de convidados, recortes de imprensa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25082
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 180 - cx. 45
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25082
+
+===== Filhos =====
+  * [[25439.txt|25439 - DC - Jornal "Estrela do Minho"]]
+  * [[25440.txt|25440 - DC - Minuta do ofício da AHBVF dirigido a Manoel Alves Correia de Araújo]]
+  * [[25441.txt|25441 - DC - Minuta do ofício da AHBVF dirigido ao Presidente e demais Vogais da Câmara Municipal de Vila Nova de Famalicão]]
+  * [[25442.txt|25442 - DC - Poema "Os Bombeiros" de Álvaro Pinheiro]]
+  * [[25443.txt|25443 - DC - Programa e convite para as festas das Bodas de Ouro dos Bombeiros Voluntários]]
+  * [[25444.txt|25444 - DC - Minuta do ofício da AHBVF dirigido ao Governador Civil do Districto de Braga]]
+  * [[25445.txt|25445 - DC - Lista de corporações convidadas]]
+  * [[25446.txt|25446 - DC - Vida por vida]]
+  * [[25447.txt|25447 - DC - Bombeiros Voluntários de Famalicão]]
+  * [[25449.txt|25449 - DC - Ofício de A Boa Reguladora J. Carvalho Irmão, Lda dirigido à Direcção da AHBVF]]

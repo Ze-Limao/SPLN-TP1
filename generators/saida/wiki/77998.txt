@@ -1,0 +1,17 @@
+====== 77998 - DC - Pedido de certidão de registo de títulos e atestações da Igreja de Salvador do Mosteiro de Arnoso ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Pedido de certidão de registo de títulos e atestações da Igreja de Salvador do Mosteiro de Arnoso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1791-08-20
+**UnitDateFinal**:: 1791-08-20
+**ScopeContent**:: Manuscrito numerado nº15, faz parte do maço CP 4560 intitulado "Casa de Pindela".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4560(14) - cx. 33
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77998

@@ -1,0 +1,18 @@
+====== 21100 - UI - Carolina de Almeida Coutinho e Lemos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Carolina de Almeida Coutinho e Lemos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907-12-07
+**UnitDateFinal**:: 1913-07-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21100
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 347, 348
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21100
+
+===== Filhos =====
+  * [[24911.txt|24911 - DC - Carta]]
+  * [[24912.txt|24912 - DC - Carta]]

@@ -1,0 +1,18 @@
+====== 8569 - DC - Termo do exame de Luís Ferreira da Cruz ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Luís Ferreira da Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888-07-20
+**UnitDateFinal**:: 1888-07-20
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - António Ferreira da Cruz
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8569
+**LangMaterial**:: Português
+**PhysLoc**:: f. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8569

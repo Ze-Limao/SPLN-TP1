@@ -1,0 +1,12 @@
+====== 54580 - UI - Manuel António Gomes da Mata de Sousa Coutinho ======
+
+**Parent**:: 31357
+**RootParent**:: 31258
+**UnitTitle**:: Manuel António Gomes da Mata de Sousa Coutinho
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54580
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54580
+
+===== Filhos =====
+  * [[54581.txt|54581 - DC - Carta]]

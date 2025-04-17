@@ -1,0 +1,15 @@
+====== 51571 - DC - Registo do recenseamento militar de Eduardo ======
+
+**Parent**:: 9166
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Eduardo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-06-20
+**UnitDateFinal**:: 1866-06-20
+**ScopeContent**:: Data de nascimento - 1845-05-27
+Naturalidade - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51571
+**LangMaterial**:: Português
+**PhysLoc**:: 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51571

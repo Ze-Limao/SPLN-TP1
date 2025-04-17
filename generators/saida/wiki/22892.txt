@@ -1,0 +1,16 @@
+====== 22892 - DC - Registo do recenseamento eleitoral de José da Costa Pinto ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José da Costa Pinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Nine
+Profissão - Eclesiástico
+Morada - Vilar d'Este
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22892
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 54v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22892

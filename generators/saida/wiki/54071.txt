@@ -1,0 +1,24 @@
+====== 54071 - SSR - Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de Concelho. Câmara Municipal de Famalicão ======
+
+**Parent**:: 53752
+**RootParent**:: 25851
+**UnitTitle**:: Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de Concelho. Câmara Municipal de Famalicão
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1961
+**UnitDateFinal**:: 1961-03-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54071
+**LangMaterial**:: Português
+**PhysLoc**:: JG 166(1) - cx. 16; JG 166(2) A (5) - cx. 5; JG 167(1) - cx. 16, JG 166(2) a (5) - cx. 5; JG 170(1) a (11) - cx. 6; Contém JG 174 (1) - cx. 16, JG 174(2) a (4)- cx. 7.; JG 180(6); JG 198 - cx. 15.
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54071
+
+===== Filhos =====
+  * [[54079.txt|54079 - DC - Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de Concelho. Câmara Municipal de Famalicão]]
+  * [[54107.txt|54107 - DC - Processo Contrato de fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de Concelho e Tribunal Judicial]]
+  * [[54161.txt|54161 - DC - Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de Concelho. Câmara Municipal de Famalicão. Documentos de Januário Godinho.]]
+  * [[54163.txt|54163 - DC - Concurso para o fornecimento e assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício do Tribunal Judicial. Câmara Municipal de Famalicão]]
+  * [[54171.txt|54171 - DC - Concurso para o fornecimento de assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze destinados ao novo edifício dos Paços de concelho: programa de concurso. Câmara Municipal de Vila Nova de Famalicão]]
+  * [[54175.txt|54175 - DC - Edifício Tribunal Judicial: Candeeiros. Câmara Municipal de Famalicão. Concurso para o fornecimento de assentamento de candeeiros, armaduras, lanternas, lâmpadas e letreiros de bronze para o novo edifício do Tribunal Judicial. Câmara Municipal de Vila Nova de Famalicão]]

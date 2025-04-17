@@ -1,0 +1,17 @@
+====== 55489 - DC - Gazette Allemande, Le Bruit nous vient de Lisbonne ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Gazette Allemande, Le Bruit nous vient de Lisbonne
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-05-07
+**UnitDateFinal**:: 1904-05-07
+**ScopeContent**:: Manuscrito "Parte final do artigo Revolta dos Hereros, nº107, 7 maio 1904, Deutsche Zeitung. Documento igual 2465(8).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55489
+**LangMaterial**:: Português e Francês
+**PhysLoc**:: CP 2503 - cx. 19
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55489

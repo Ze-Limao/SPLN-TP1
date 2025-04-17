@@ -1,0 +1,16 @@
+====== 25338 - DC - Programa do Sarau do Orfeão Universitário do Porto ======
+
+**Parent**:: 25019
+**RootParent**:: 20342
+**UnitTitle**:: Programa do Sarau do Orfeão Universitário do Porto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1963-05-18
+**UnitDateFinal**:: 1963-05-18
+**ScopeContent**:: Programa do sarau efetuado no Cine-Teatro Famalicense a favor da AHBVF.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25338
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 122 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25338

@@ -1,0 +1,19 @@
+====== 9386 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Francisco José da Rocha e Luísa Pereira
+Naturalidade - Landim
+Data de nascimento - 1877-03-26
+Profissão - Caixeiro
+Estado civil - Solteiro
+Residência - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9386
+**LangMaterial**:: Português
+**PhysLoc**:: f. 24v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9386

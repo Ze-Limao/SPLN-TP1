@@ -1,0 +1,21 @@
+====== 60216 - DC - Convite para missa por alma do Rei D. Carlos I dos estudantes monárquicos do Liceu de Braga ======
+
+**Parent**:: 60210
+**RootParent**:: 31258
+**UnitTitle**:: Convite para missa por alma do Rei D. Carlos I dos estudantes monárquicos do Liceu de Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-01
+**UnitDateFinal**:: 1911-01
+**ScopeContent**:: Cartão de luto impresso. Os estudantes monárquicos do Liceu de Braga convidam para uma missa por alma do D. Carlos I, no dia 1 de fevereiro 1911, na Igreja de Santa Cruz em Braga.
+Transcrição do documento:
+«Ex.mº Snr.
+Os alunos monárquicos do Liceu de Braga, reunindo em assembleia geral, determinaram mandar celebrar no templo de Santa Cruz, solenes exéquias por alma do chorado Rei de Portugal D. Carlos I e o seu malogrado filho D. Luís Filipe. Por esse motivo vêm pedir a V. Ex.ª o especial obséquio de os auxiliar com o seu óbulo, convidando desde já a V. Ex.ª e ilustre família, a comparecer no referido templo às 9 e meia horas da manhã, em ponto, do dia 1 de Fevereiro.
+A Comissão»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56777
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8963- cx. 55
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60216

@@ -1,0 +1,16 @@
+====== 26174 - DC - Carta ======
+
+**Parent**:: 21244
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-05-15
+**UnitDateFinal**:: 1902-05-15
+**ScopeContent**:: Carta manuscrita assinada, de Tomar. A carta não tem em anexo as fotografias que são mencionadas na carta dos medalhões de Santa Maria dos Olivais em Tomar e que o autor enviou a pedido de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26174
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 970- cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26174

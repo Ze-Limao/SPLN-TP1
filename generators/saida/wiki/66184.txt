@@ -1,0 +1,15 @@
+====== 66184 - DC - Lista de raçoeiros ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Lista de raçoeiros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1609-01-08
+**UnitDateFinal**:: 1609-07-15
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 408 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66184

@@ -1,0 +1,18 @@
+====== 50585 - DC - Registo do recenseamento militar de Alexandre ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Alexandre
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-10-01
+Filiação - António José Correia e Maria Emília
+Naturalidade - Abade de Vermoim
+Profissão - Lavrador
+Residência - Abade de Vermoim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50585
+**LangMaterial**:: Português
+**PhysLoc**:: 77v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50585

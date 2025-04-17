@@ -1,0 +1,16 @@
+====== 63945 - SR - Bens ======
+
+**Parent**:: 60536
+**RootParent**:: 60536
+**UnitTitle**:: Bens
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1707-11-03
+**UnitDateFinal**:: 1896-02-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60704
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63945
+
+===== Filhos =====
+  * [[63946.txt|63946 - UI - Livro dos bens e móveis pertencentes à Igreja de S. Tiago de Antas, feito no ano de 1709]]
+  * [[64105.txt|64105 - DC - Inventário de bens orfanológico por morte de Maria Gomes de Azevedo, moradora na freguesia de Fradelos]]
+  * [[66329.txt|66329 - DC - Certidão ..do requerimento e despachos que alcançou o Reverendo António Costa para levantar do depósito geral certa quantia que dizia lá  parava  do rendimento de um Beneficiário, na freguesia de S. Tiago de Antas]]

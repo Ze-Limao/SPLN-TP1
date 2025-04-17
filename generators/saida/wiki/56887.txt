@@ -1,0 +1,17 @@
+====== 56887 - DC - Comissão de Viticultura da Região dos Vinhos Verdes. Serviço Central. Colecção de editaes ======
+
+**Parent**:: 54532
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura da Região dos Vinhos Verdes. Serviço Central. Colecção de editaes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927-10-01
+**UnitDateFinal**:: 1931-10-01
+**ScopeContent**:: Capa com título manuscrito a cores. Contém 5 editais impressos do "Ministério da Cultura. Comissão de Viticultura da Região dos Vinhos Verdes", assinados pelo Presidente Conde de Azevedo, dos anos  1927, 1928, 1929, 1930 e 1931.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56887
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2347 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56887

@@ -1,0 +1,15 @@
+====== 97801 - UI - Processo nº 163 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 163
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1979-06-08
+**UnitDateFinal**:: 1986-06-24
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 163-A/79.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 528 - cx. 31
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97801

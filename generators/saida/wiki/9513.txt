@@ -1,0 +1,19 @@
+====== 9513 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - João Correia de Faria e Joaquina Maria da Silva
+Naturalidade - Cavalões
+Data de nascimento - 1877-08-07
+Profissão - Alfaiate
+Estado civil - Casado
+Residência - Gondifelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9513
+**LangMaterial**:: Português
+**PhysLoc**:: f. 40v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9513

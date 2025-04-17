@@ -1,0 +1,18 @@
+====== 51026 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9164
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-02-04
+**UnitDateFinal**:: 1864-03-21
+**ScopeContent**:: Data de nascimento - 1843-10-24
+Filiação - José Carneiro e Maria Dias
+Naturalidade - Abade de Vermoim
+Profissão - Criado de servir
+Residência - Abade de Vermoim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51026
+**LangMaterial**:: Português
+**PhysLoc**:: 50v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51026

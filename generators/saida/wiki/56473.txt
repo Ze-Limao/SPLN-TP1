@@ -1,0 +1,17 @@
+====== 56473 - DC - Notas sobre temperaturas e dias na doença de Júlia Leonor ======
+
+**Parent**:: 60396
+**RootParent**:: 31258
+**UnitTitle**:: Notas sobre temperaturas e dias na doença de Júlia Leonor
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1922
+**ScopeContent**:: Notas manuscritas a lápis de cor vom temperaturas de 22 a 29 de julho. Este documento está no maço "Doença da minha Júlia Leonor em Worishfen", junto com CP 6853 e CP 6855.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56473
+**LangMaterial**:: Português e Francês.
+**PhysLoc**:: CP 6854 - cx. 46
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56473

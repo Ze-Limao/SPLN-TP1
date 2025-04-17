@@ -1,0 +1,17 @@
+====== 51402 - DC - Carta para Vicente ======
+
+**Parent**:: 31765
+**RootParent**:: 31258
+**UnitTitle**:: Carta para Vicente
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-12-05
+**UnitDateFinal**:: 1917-12-05
+**ScopeContent**:: Carta manuscrita assinada. Esta carta pertence ao envelope "Tarrio".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51402
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1175 - cx. 8
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51402

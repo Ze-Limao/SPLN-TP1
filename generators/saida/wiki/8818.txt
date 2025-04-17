@@ -1,0 +1,18 @@
+====== 8818 - DC - Termo do exame de António da Paixão dos Reis Barreira ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António da Paixão dos Reis Barreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-08-22
+**UnitDateFinal**:: 1892-08-22
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - Francisco António Barreira
+Naturalidade - Esmeriz
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8818
+**LangMaterial**:: Português
+**PhysLoc**:: f. 39
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8818

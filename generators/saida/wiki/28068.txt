@@ -1,0 +1,17 @@
+====== 28068 - SSC - Atividade associativa e empresarial ======
+
+**Parent**:: 27965
+**RootParent**:: 27963
+**UnitTitle**:: Atividade associativa e empresarial
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1882-12-07
+**UnitDateFinal**:: 1896
+**ScopeContent**:: Participação em atividades na Companhia de Banhos de Vizela, Companhia do Caminho de Ferro de Guimarães e Associação Comercial de Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28068
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28068
+
+===== Filhos =====
+  * [[29457.txt|29457 - SSSC - Companhia dos Banhos de Vizela]]
+  * [[29458.txt|29458 - SSSC - Companhia do Caminho de Ferro de Guimarães]]
+  * [[29459.txt|29459 - SSSC - Associação Comercial de Guimarães]]

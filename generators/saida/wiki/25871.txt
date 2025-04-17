@@ -1,0 +1,16 @@
+====== 25871 - DC - O novo-pronto-socorro dos Bombeiros de Famalicão ======
+
+**Parent**:: 25085
+**RootParent**:: 20342
+**UnitTitle**:: O novo-pronto-socorro dos Bombeiros de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1953-08
+**UnitDateFinal**:: 1953-08
+**ScopeContent**:: Recorte de jornal Diário do Norte (Porto) com notas manuscritas por Hilário Carvalho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25871
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 183 - cx. 47
+depósito 3, estante
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25871

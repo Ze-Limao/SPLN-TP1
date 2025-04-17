@@ -1,0 +1,18 @@
+====== 21354 - UI - Carlos de Azevedo Botelho Mascarenhas ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Carlos de Azevedo Botelho Mascarenhas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1925-04-02
+**UnitDateFinal**:: 1926-09-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21354
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1265, 1266, 1267
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21354
+
+===== Filhos =====
+  * [[30129.txt|30129 - DC - Carta]]
+  * [[30130.txt|30130 - DC - Carta]]
+  * [[30131.txt|30131 - DC - Carta]]

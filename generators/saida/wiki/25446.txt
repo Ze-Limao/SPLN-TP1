@@ -1,0 +1,16 @@
+====== 25446 - DC - Vida por vida ======
+
+**Parent**:: 25082
+**RootParent**:: 20342
+**UnitTitle**:: Vida por vida
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-10-24
+**UnitDateFinal**:: 1943-10-24
+**ScopeContent**:: Artigo de José Casimiro publicado no Jornal "Estrela do Minho", na p. 1
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25446
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 180 - cx. 45
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25446

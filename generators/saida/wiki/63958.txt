@@ -1,0 +1,15 @@
+====== 63958 - UI - Livro do recebimento dos foros, da igreja de S. Tiago de Antas, dos anos 1693 a 1704 ======
+
+**Parent**:: 63952
+**RootParent**:: 60536
+**UnitTitle**:: Livro do recebimento dos foros, da igreja de S. Tiago de Antas, dos anos 1693 a 1704
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1693
+**UnitDateFinal**:: 1704
+**ScopeContent**:: Manuscrito, original, encadernado a pele com atilhos. Na capa título a lápis "Livro de recebimento de foros 1693-1704".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 132 - cx. 5
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63958

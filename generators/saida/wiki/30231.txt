@@ -1,0 +1,16 @@
+====== 30231 - DC - Carta ======
+
+**Parent**:: 21397
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-06-04
+**UnitDateFinal**:: 1878-06-04
+**ScopeContent**:: Carta manuscrita e assinada, São Jorge de Selho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30231
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1364 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30231

@@ -1,0 +1,16 @@
+====== 29558 - DC - Bilhete-postal ======
+
+**Parent**:: 29047
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-05-01
+**UnitDateFinal**:: 1895-05-01
+**ScopeContent**:: Dois Bilhetes-postal carimbados e selados expedidos de Lisboa, são um único em termos de conteúdo, no primeiro está designado "1º" e no segundo "2º". Carimbados e selados-
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29558
+**LangMaterial**:: Português
+**PhysLoc**:: AS 664 (1) (2) - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29558

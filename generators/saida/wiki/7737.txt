@@ -1,0 +1,13 @@
+====== 7737 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 13 ======
+
+**Parent**:: 7726
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Termos de Obrigação e Sujeição ao Município Nº 13
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1897-03-22
+**UnitDateFinal**:: 1901-12-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7737
+**LangMaterial**:: Português
+**PhysLoc**:: 1.80
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7737

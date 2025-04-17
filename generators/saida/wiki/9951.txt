@@ -1,0 +1,14 @@
+====== 9951 - DC - Registo do pagamento ao Barão de Trovisqueira ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento ao Barão de Trovisqueira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-02-17
+**UnitDateFinal**:: 1882-02-17
+**ScopeContent**:: Aluguer da casa da Repartição de Fazenda pelo ano de 1882
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9951
+**LangMaterial**:: Português
+**PhysLoc**:: f. 4
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9951

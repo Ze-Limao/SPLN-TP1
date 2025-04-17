@@ -1,0 +1,40 @@
+====== 21215 - UI - Júlio Brandão ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Júlio Brandão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21215
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 834 a 858
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21215
+
+===== Filhos =====
+  * [[26040.txt|26040 - DC - Carta]]
+  * [[26041.txt|26041 - DC - Carta]]
+  * [[26042.txt|26042 - DC - Carta]]
+  * [[26043.txt|26043 - DC - Carta]]
+  * [[26044.txt|26044 - DC - Carta]]
+  * [[26045.txt|26045 - DC - Carta]]
+  * [[26046.txt|26046 - DC - Carta]]
+  * [[26047.txt|26047 - DC - Carta]]
+  * [[26048.txt|26048 - DC - Carta]]
+  * [[26049.txt|26049 - DC - Carta]]
+  * [[26050.txt|26050 - DC - Carta]]
+  * [[26051.txt|26051 - DC - Carta]]
+  * [[26052.txt|26052 - DC - Carta]]
+  * [[26053.txt|26053 - DC - Carta]]
+  * [[26054.txt|26054 - DC - Carta]]
+  * [[26055.txt|26055 - DC - Carta]]
+  * [[26056.txt|26056 - DC - Carta]]
+  * [[26057.txt|26057 - DC - Carta]]
+  * [[26058.txt|26058 - DC - Carta]]
+  * [[26059.txt|26059 - DC - Carta]]
+  * [[26060.txt|26060 - DC - Carta]]
+  * [[26061.txt|26061 - DC - Carta]]
+  * [[26062.txt|26062 - DC - Carta]]
+  * [[26063.txt|26063 - DC - Carta]]
+  * [[26064.txt|26064 - DC - Carta]]

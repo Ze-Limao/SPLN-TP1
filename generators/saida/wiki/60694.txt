@@ -1,0 +1,16 @@
+====== 60694 - DC - Livro de receita e despesa da Confraria do Santíssimo Sacramento ======
+
+**Parent**:: 60693
+**RootParent**:: 60548
+**UnitTitle**:: Livro de receita e despesa da Confraria do Santíssimo Sacramento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881
+**UnitDateFinal**:: 1894
+**ScopeContent**:: Livro encadernado com capas de cartão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60688
+**LangMaterial**:: Português
+**PhysLoc**:: CSSL - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60694

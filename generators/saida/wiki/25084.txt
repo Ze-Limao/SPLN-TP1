@@ -1,0 +1,26 @@
+====== 25084 - UI - Apontamentos de Vasco de Carvalho sobre AHBVF ======
+
+**Parent**:: 20386
+**RootParent**:: 20342
+**UnitTitle**:: Apontamentos de Vasco de Carvalho sobre AHBVF
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1965-04-08
+**ScopeContent**:: Contém: Recortes de imprensa; documentos manuscritos e dactilografados; Estatutos 1928; livreto “Estatutos dos Bombeiros Voluntários Famalicenses, 1930; 1 livreto “Coração de Bombeiro” de Daniel Correia, 1929; 1 livreto “Pela verdade”, 1904.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25084
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 182 - cx. 46
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25084
+
+===== Filhos =====
+  * [[25104.txt|25104 - DC - Estatutos da Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão]]
+  * [[25105.txt|25105 - DC - Estatutos da Associação Humanitária dos Bombeiros Voluntários Famalicenses]]
+  * [[25106.txt|25106 - DC - Coração de bombeiro: drama em 1 acto]]
+  * [[25810.txt|25810 - DC - Pela verdade: Protesto e desaffronta]]
+  * [[25811.txt|25811 - DC - Em Vila Nova de Famalicão um violento incêndio destruiu duas fábricas e um prédio causando mais de 2 mil contos de prejuizos]]
+  * [[25812.txt|25812 - DC - Para a história dos bombeiros e para a história da terra: uma festa emocionante no velho quartel dos bombeiros voluntários de Famalicão]]
+  * [[25813.txt|25813 - DC - O Incêndio no Guedes: apontamentos de meu irmão Vasco Cesar de Carvalho sobre o chamado incêndio do Guedes em 3 de Março de 1890, antes da fundação dos Bombeiros V. de Famalicão que foi a 6 de Maio de 1890 (Hilário Carvalho)]]
+  * [[25847.txt|25847 - DC - Bombeiros Voluntários de Famalicão]]

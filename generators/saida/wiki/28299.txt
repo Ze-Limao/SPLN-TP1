@@ -1,0 +1,22 @@
+====== 28299 - DC - Caderno de notas de investigação com documentos soltos ======
+
+**Parent**:: 28292
+**RootParent**:: 27963
+**UnitTitle**:: Caderno de notas de investigação com documentos soltos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1887
+**UnitDateFinal**:: 1887
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28299
+**LangMaterial**:: Português
+**PhysLoc**:: AS 29, 29 (1), 30, 31, 32 - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28299
+
+===== Filhos =====
+  * [[28300.txt|28300 - DC - Caderno de notas de investigação.]]
+  * [[28301.txt|28301 - DC - Prazo feito pela mesa abacial de Paço de Sousa a Manuel Francisco e mulher]]
+  * [[28302.txt|28302 - DC - As propriedades regalengas, isto é do património do rei e da coroa]]
+  * [[28303.txt|28303 - DC - No projecto ultimamente apresentado ao parlamento pelo Sr. Oliveira Martins…]]
+  * [[29383.txt|29383 - DC - Os morgados parecem um reflexo...]]

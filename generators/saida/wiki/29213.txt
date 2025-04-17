@@ -1,0 +1,16 @@
+====== 29213 - DC - Ração para cavalos ======
+
+**Parent**:: 29178
+**RootParent**:: 27963
+**UnitTitle**:: Ração para cavalos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Nota sobre a composição de ração a dar a um cavalo “sem serviço” ou “com serviço”. Nota sobre a produção em leite, convertida para libras de manteiga, de uma vaca leiteira. No verso da folha, a transcrição em inglês, extraída do periódico «American Agriculturist» (Fev. 1872, pág. 47), de um preparado para pavimentos, feito à base de pedras e alcatrão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29213
+**LangMaterial**:: Português
+**PhysLoc**:: AS 329 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29213

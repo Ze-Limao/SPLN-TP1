@@ -1,0 +1,15 @@
+====== 8080 - DC - Termo de António Joaquim de Campos Miranda ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António Joaquim de Campos Miranda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-02-19
+**UnitDateFinal**:: 1879-02-19
+**ScopeContent**:: Vedação de terreno
+Local - Lousado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8080
+**LangMaterial**:: Português
+**PhysLoc**:: f. 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8080

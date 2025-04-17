@@ -1,0 +1,16 @@
+====== 25437 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914-10-25
+**UnitDateFinal**:: 1914-10-25
+**ScopeContent**:: Eugénio de Castro faz votos para que as negociações entre o Presidente da Câmara de Famalicão e os herdeiros de Camilo deem resultado. Carta manuscrita assinada, de Coimbra.Tem o brasão timbrado a vermelho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25437
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 416 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25437

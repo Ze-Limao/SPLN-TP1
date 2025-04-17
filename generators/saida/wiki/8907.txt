@@ -1,0 +1,18 @@
+====== 8907 - DC - Termo do exame de Joaquim Correia de Sá ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim Correia de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-21
+**UnitDateFinal**:: 1894-07-21
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação - Alexandre José Correia
+Naturalidade - Abade de Vermoim
+Classificação - Distinto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8907
+**LangMaterial**:: Português
+**PhysLoc**:: f. 62
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8907

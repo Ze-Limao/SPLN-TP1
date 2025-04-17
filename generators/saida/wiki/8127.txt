@@ -1,0 +1,18 @@
+====== 8127 - DC - Teodoro de Almeida ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Teodoro de Almeida
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-22
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Escola - Cabeçudos
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Fundão
+Data de posse - 1879-11-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8127
+**LangMaterial**:: Português
+**PhysLoc**:: f. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8127

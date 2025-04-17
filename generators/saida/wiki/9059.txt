@@ -1,0 +1,13 @@
+====== 9059 - DC - Ofício nº 81 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 81
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-09-21
+**UnitDateFinal**:: 1885-09-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9059
+**LangMaterial**:: Português
+**PhysLoc**:: f. 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9059

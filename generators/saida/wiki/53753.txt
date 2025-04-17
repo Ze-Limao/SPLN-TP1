@@ -1,0 +1,27 @@
+====== 53753 - SR - Correspondência recebida e expedida referente ao Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. ======
+
+**Parent**:: 25851
+**RootParent**:: 25851
+**UnitTitle**:: Correspondência recebida e expedida referente ao Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc.
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1952-05-06
+**UnitDateFinal**:: 1974-10-31
+**ScopeContent**:: Nesta série encontram-se maços de correspondência com ofícios recebidos/expedidos pela Câmara Municipal, fornecedores, ministérios e arquiteto Januário Godinho, etc. Contém JG 168 - cx. 5; JG 175 - cx. 8; JG 176 - cx. 9; JG 177 - cx. 10; JG 178 - cx. 11; JG 179 - cx. 12; JG 180(13) - cx. 13; JG 185 - cx. 14; JG 187 - cx. 14.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53753
+**LangMaterial**:: Português
+**PhysLoc**:: JG
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53753
+
+===== Filhos =====
+  * [[54220.txt|54220 - DC - Ofícios do arquiteto Januário Godinho e faturas diversas]]
+  * [[54221.txt|54221 - DC - Correspondência enviada e recebida e outros documentos]]
+  * [[54222.txt|54222 - DC - Correspondência recebida e enviada e outros documentos relativos a processos de remodelação e ampliação da Câmara Municipal e Tribunal]]
+  * [[54223.txt|54223 - DC - Correspondência recebida e enviada e outros documentos relativos a processos de remodelação e ampliação da Câmara Municipal e Tribunal]]
+  * [[54224.txt|54224 - DC - Correspondência recebida e enviada sobre Processo de instalação de aquecimento central do Novo Edifício dos Paços do Concelho]]
+  * [[54225.txt|54225 - DC - Correspondência recebida e envida sobre a construção do Novo Edifício dos Paços do Concelho e Tribunal Judicial]]
+  * [[54226.txt|54226 - DC - Correspondência recebida e enviada do Ministério da Justiça e Câmara Municipal sobre as casas para os magistrados da comarca]]
+  * [[54227.txt|54227 - DC - Correspondência enviada e recebida sobre projetores, armaduras iluminação do espelho de água]]
+  * [[54228.txt|54228 - DC - Correspondência recebida e enviada do Ministério da Justiça. Construção do edifício para Tribunal Judicial.]]

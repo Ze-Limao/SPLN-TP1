@@ -1,0 +1,46 @@
+====== 29171 - SSC - Atividade de arboricultura na Quinta de Boamense ======
+
+**Parent**:: 27965
+**RootParent**:: 27963
+**UnitTitle**:: Atividade de arboricultura na Quinta de Boamense
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1879-03
+**UnitDateFinal**:: 1908-01-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29171
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29171
+
+===== Filhos =====
+  * [[29172.txt|29172 - DC - Árvores no Souto plantadas em Fevereiro de 1902]]
+  * [[29180.txt|29180 - DC - A tília, que foi plantada no souto]]
+  * [[29181.txt|29181 - DC - Relação das fructeiras plantadas nos pomares e nos campos]]
+  * [[29182.txt|29182 - DC - Macieiras plantadas em 4 de Janeiro de 1889]]
+  * [[29183.txt|29183 - DC - As três estacas de figueira]]
+  * [[29184.txt|29184 - DC - Fruteiras plantadas em Fevereiro de 1902]]
+  * [[29185.txt|29185 - DC - Plantação de fruteiras]]
+  * [[29186.txt|29186 - DC - 1906 Macieira “Bravo de Esmolfe"]]
+  * [[29187.txt|29187 - DC - Sementeira de damasqueiros]]
+  * [[29188.txt|29188 - DC - Sementeira de pereiras]]
+  * [[29189.txt|29189 - DC - Plantação de 3 castanheiros no Campo grande]]
+  * [[29190.txt|29190 - DC - Beurré d’Arenberg]]
+  * [[29191.txt|29191 - DC - Linha de Macieiras defronte da ramada pequena da vinha do alto]]
+  * [[29192.txt|29192 - DC - 1908 2 enxertos da ameixieira]]
+  * [[29193.txt|29193 - DC - 1908 Olival, perto do castanhal]]
+  * [[29194.txt|29194 - DC - Sementeira de castanheiros]]
+  * [[29195.txt|29195 - DC - Pereiras do pomar de cima]]
+  * [[29196.txt|29196 - DC - Uma phoenix melanocarpa]]
+  * [[29197.txt|29197 - DC - A figueira q. está no terreiro]]
+  * [[29198.txt|29198 - DC - Ananases]]
+  * [[29199.txt|29199 - DC - As oliveiras estão cobertas de ferrugem]]
+  * [[29200.txt|29200 - DC - Lavagem da resina da madeira resinosa]]
+  * [[29201.txt|29201 - DC - Agricultura popular: Moléstia dos castanheiros e o remédio infalível para os salvar]]
+  * [[29202.txt|29202 - DC - Recorte de imprensa - Boletim da Direção Geral de Agricultura]]
+  * [[29203.txt|29203 - DC - Plantação de Eucaliptos]]
+  * [[29204.txt|29204 - DC - Nota]]
+  * [[29205.txt|29205 - DC - Plantação dos Eucaliptos na bouça debaixo da serra de Vila Verde]]
+  * [[29206.txt|29206 - DC - Eucaliptos plantados na Bouça da Serra]]
+  * [[29207.txt|29207 - DC - Sementeira de Eucalyptus globulus]]
+  * [[29208.txt|29208 - DC - Eucaliptos para Capela]]
+  * [[29209.txt|29209 - DC - Época da colheita das sementes dos eucaliptos]]
+  * [[29210.txt|29210 - DC - Carta de Jaime de Magalhães Lima a Alberto Sampaio]]
+  * [[29211.txt|29211 - DC - Catalpa Speciosa]]

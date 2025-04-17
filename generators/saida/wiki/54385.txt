@@ -1,0 +1,17 @@
+====== 54385 - DC - Carta para Custódio Manuel de Borja ======
+
+**Parent**:: 54384
+**RootParent**:: 31258
+**UnitTitle**:: Carta para Custódio Manuel de Borja
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-06-05
+**UnitDateFinal**:: 1884-06-05
+**ScopeContent**:: Carta manuscrita, de S. Tomé, dirigida ao Governador de S. Tomé e Príncipe, Custódio Miguel de Borja (Seixal, 25 de dezembro de 1849 - ?, 21 de novembro de 1911) foi um militar e administrador colonial português. Capitão-tenente da armada real portuguesa, quando assumiu como 45.º Governador representante e depois Governador de São Tomé e Príncipe de 28 de Dezembro de 1879 a 3 de Janeiro de 1880 e novamente 49.º Governador de São Tomé e Príncipe de 24 de Maio de 1884 a 25 de Agosto de 1886. Exerceu o cargo de Governador de Macau, de 16 de Outubro de 1890 a 24 de Março de 1894. Nesta época, passou a ser encarregado de negócios (outubro de 1890) e Ministro plenipotenciário de Portugal na China (Abril de 1891), Japão e Tailândia (Julho de 1891). Exerceu o cargo de 34.º Governador-Geral da Província de Angola, de 17 de Março a Dezembro de 1904, tendo sido antecedido pelo 1.º mandato de Eduardo Augusto Ferreira da Costa e sucedido pelo 2.º mandato de António Duarte Ramada Curto. De 1903 a 1904 foi o 3.º e último Soberano Grande Comendador do Supremo Conselho afecto ao Grande Oriente de Portugal e o 3.º e último Grão-Mestre do Grande Oriente de Portugal, antes de estes se reunirem ao Grande Oriente Lusitano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54385
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13827 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54385

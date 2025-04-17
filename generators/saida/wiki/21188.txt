@@ -1,0 +1,17 @@
+====== 21188 - UI - Joaquim Maria de Campos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Maria de Campos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1925-11-30
+**UnitDateFinal**:: 1925-11-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21188
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 749
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21188
+
+===== Filhos =====
+  * [[25950.txt|25950 - DC - Carta]]

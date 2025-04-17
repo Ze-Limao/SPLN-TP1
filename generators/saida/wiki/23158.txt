@@ -1,0 +1,16 @@
+====== 23158 - DC - Carta ======
+
+**Parent**:: 21040
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-09-06
+**UnitDateFinal**:: 1919-09-06
+**ScopeContent**:: Alberto Pinheiro Torres agradece os sentimentos pela morte da cunhada. Carta manuscrita assinada, Casa de Sandim, Roriz - Negrellos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23158
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 47 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23158

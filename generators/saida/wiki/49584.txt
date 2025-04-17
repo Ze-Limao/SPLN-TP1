@@ -1,0 +1,18 @@
+====== 49584 - DC - Registo do recenseamento eleitoral de Francisco Inácio de Aguiar ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco Inácio de Aguiar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Proprietário
+Estado - Solteiro
+Morada - Praça da Mota
+Idade - 42
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49584
+**LangMaterial**:: Português
+**PhysLoc**:: 90v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49584

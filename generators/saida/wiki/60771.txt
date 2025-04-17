@@ -1,0 +1,15 @@
+====== 60771 - DC - Emprazamento do casal de Vilar, situado na freguesia de 5. Tiago de Antas, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Aires Dias ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Vilar, situado na freguesia de 5. Tiago de Antas, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, a Aires Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1544-05-06
+**UnitDateFinal**:: 1544-05-06
+**ScopeContent**:: Manuscrito, original, com selo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 40 - cx. P27
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60771

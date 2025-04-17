@@ -1,0 +1,14 @@
+====== 56771 - UI - E. Pinto Basto & Cª Lda. ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: E. Pinto Basto & Cª Lda.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1937-12-11
+**UnitDateFinal**:: 1937-12-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56771
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56771
+
+===== Filhos =====
+  * [[56772.txt|56772 - DC - Carta]]

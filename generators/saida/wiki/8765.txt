@@ -1,0 +1,18 @@
+====== 8765 - DC - Termo do exame de Joaquim José de Carvalho ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim José de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-18
+**UnitDateFinal**:: 1891-07-18
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Miquelina Rodrigues Carvalho
+Naturalidade - Antas
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8765
+**LangMaterial**:: Português
+**PhysLoc**:: f. 25
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8765

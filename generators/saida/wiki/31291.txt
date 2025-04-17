@@ -1,0 +1,14 @@
+====== 31291 - SSC - Vicente Pinheiro e Figueira Lobo da Guerra ======
+
+**Parent**:: 31290
+**RootParent**:: 31258
+**UnitTitle**:: Vicente Pinheiro e Figueira Lobo da Guerra
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1695-10-27
+**UnitDateFinal**:: 1762
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31291
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31291
+
+===== Filhos =====
+  * [[54470.txt|54470 - SR - Documentos]]

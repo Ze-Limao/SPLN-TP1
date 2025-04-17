@@ -1,0 +1,16 @@
+====== 8405 - UI - José G. Santos ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: José G. Santos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-06-08
+**UnitDateFinal**:: 1895-06-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8405
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.47
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8405
+
+===== Filhos =====
+  * [[8406.txt|8406 - DC - Carta]]

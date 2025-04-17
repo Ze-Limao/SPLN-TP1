@@ -1,0 +1,20 @@
+====== 21224 - UI - Luís Cardoso Martins da Costa Macedo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Luís Cardoso Martins da Costa Macedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1907-02-08
+**UnitDateFinal**:: 1926-03-06
+**ScopeContent**:: Luís Cardoso Martins da Costa Macedo, 1º conde de Margaride, nasceu em  Guimarães, Azurém, Casa da Veiga, em 08.01.1836. Morreu em Guimarães, (Oliveira do Castelo), Casa do Carmo a 30.07.1919. Filho de Henrique Cardoso de Macedo e Luísa Ludovina de Araújo Martins da Costa. Casou com Ana Júlia Rebelo Cardoso Rebelo. Bacharel em Filosofia (UC). Grande proprietário em Guimarães. Governador civil de Braga. Fidalgo cavaleiro da Casa Real. Do Conselho de SMF. Governador Civil do Porto (1878-79). Comendador da Ordem de Nª Sª da Conceição de Vila Viçosa (14.9.1876). Grã-Cruz da Ordem de Cristo (8.1.1881). Par do Reino (29.12.1881). 9º Senhor da Casa de Margaride. Senhor da Casa da Veiga. Senhor da Casa do Carmo. Presidente da Câmara Municipal de Guimarães. Grande proprietário em Vila do Conde. Cavaleiro da Ordem de Cristo. Comendadores da Ordem de Nossa Senhora da Conceição de Vila Viçosa (1444) - 14.9.1876. Foi Fidalgo-Cavaleiro da Casa Real, Membro do Conselho de Sua Majestade Fidelíssima, Comendador da Ordem de Nossa Senhora da Conceição de Vila Viçosa, Grã-Cruz da Ordem Militar de Cristo e Par do Reino (por Carta-Régia, de 1881). Foram visita da sua Casa do Carmo, 3 Reis (Dom Luís I, Dom Carlos I e Dom Manuel II), 2 Rainhas (Dona Maria Pia e Dona Amélia), 1 Príncipe (Dom Carlos, antes de ser Rei) e 2 Infantes (Dom Augusto e Dom Afonso). A sumptuosidade das suas receções e a opulência das suas mesas eram tais, que tanto Ramalho Ortigão como Camilo Castelo Branco as descreveram nas suas obras (respetivamente nas "Farpas" e nas “Noites de Insónia").
+Fonte: Geni.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21224
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 886, 887, 888
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21224
+
+===== Filhos =====
+  * [[26092.txt|26092 - DC - Carta]]
+  * [[26093.txt|26093 - DC - Carta]]
+  * [[26094.txt|26094 - DC - Cartão]]

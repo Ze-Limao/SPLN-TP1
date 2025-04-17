@@ -1,0 +1,19 @@
+====== 34217 - DC - Registo do recenseamento militar de Luís Ferreira Machado ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Luís Ferreira Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Landim
+Data de nascimento - 1852-11-13
+Filiação - Francisco Ferreira Machao e Ana Maria
+Profissão - Carpinteiro
+Estado - Solteiro
+Morada - Landim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34217
+**LangMaterial**:: Português
+**PhysLoc**:: 71v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34217

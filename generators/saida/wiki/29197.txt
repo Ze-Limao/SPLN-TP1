@@ -1,0 +1,16 @@
+====== 29197 - DC - A figueira q. está no terreiro ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: A figueira q. está no terreiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Identificação botânica de uma figueira plantada na Quinta de Boamense.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29197
+**LangMaterial**:: Português
+**PhysLoc**:: AS 312 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29197

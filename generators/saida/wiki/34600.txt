@@ -1,0 +1,19 @@
+====== 34600 - DC - Registo do recenseamento militar de Bernardino ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Fradelos
+Data de nascimento - 1862-09-06
+Filiação - António dos Santos e Maria Rosa
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34600
+**LangMaterial**:: Português
+**PhysLoc**:: 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34600

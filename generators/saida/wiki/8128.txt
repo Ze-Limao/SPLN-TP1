@@ -1,0 +1,18 @@
+====== 8128 - DC - Maria da Conceição e Sá ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Maria da Conceição e Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-04-05
+**UnitDateFinal**:: 1884-04-05
+**ScopeContent**:: Escola - Cabeçudos
+Cargo - Professora
+Vínculo - Temporário
+Naturalidade - Cabeçudos
+Data de posse - 1884-04-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8128
+**LangMaterial**:: Português
+**PhysLoc**:: f. 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8128

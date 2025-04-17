@@ -1,0 +1,19 @@
+====== 8309 - UI - Aires Joaquim de Sousa Fernandes ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Aires Joaquim de Sousa Fernandes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-01-16
+**UnitDateFinal**:: 1895-03-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8309
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.19
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8309
+
+===== Filhos =====
+  * [[8310.txt|8310 - DC - Carta]]
+  * [[8311.txt|8311 - DC - Carta]]
+  * [[8312.txt|8312 - DC - Carta]]
+  * [[8313.txt|8313 - DC - Carta]]

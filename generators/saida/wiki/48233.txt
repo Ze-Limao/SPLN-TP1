@@ -1,0 +1,16 @@
+====== 48233 - UI - António José Marques Gomes ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António José Marques Gomes
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48233
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48233
+
+===== Filhos =====
+  * [[48234.txt|48234 - DC - Carta]]

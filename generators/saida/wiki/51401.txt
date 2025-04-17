@@ -1,0 +1,17 @@
+====== 51401 - DC - Carta para Viscondes ======
+
+**Parent**:: 31765
+**RootParent**:: 31258
+**UnitTitle**:: Carta para Viscondes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-11-24
+**UnitDateFinal**:: 1917-11-24
+**ScopeContent**:: Carta manuscrita assinada. Esta carta pertence ao envelope "Tarrio".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD51401
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1176 - cx. 8
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=51401

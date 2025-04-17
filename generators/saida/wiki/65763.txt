@@ -1,0 +1,15 @@
+====== 65763 - DC - Subemprazamento de uma propriedade no lugar de Carinha, situado na freguesia S. Tiago de Rebordões, concelho de S. Tirso, por Francisco José Alves Marinho e sua mulher Rosa Monteiro de Barros, moradores na freguesia de S. Marinho de Seidões, concelho de Celorico de Bastos, a Umbelina Rosa de Sousa e a seu marido, moradores na freguesia de Sequeirô, concelho de Santo Tirso. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Subemprazamento de uma propriedade no lugar de Carinha, situado na freguesia S. Tiago de Rebordões, concelho de S. Tirso, por Francisco José Alves Marinho e sua mulher Rosa Monteiro de Barros, moradores na freguesia de S. Marinho de Seidões, concelho de Celorico de Bastos, a Umbelina Rosa de Sousa e a seu marido, moradores na freguesia de Sequeirô, concelho de Santo Tirso.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1854-09-27
+**UnitDateFinal**:: 1854-09-27
+**ScopeContent**:: Manuscrito, instrumento. Folhas cosidas. No canto superior esquerdo "Notta nº13, f. 64 vº".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 258 - cx. 13
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65763

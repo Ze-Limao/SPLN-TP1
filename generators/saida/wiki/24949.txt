@@ -1,0 +1,15 @@
+====== 24949 - UI - Processo de contas Caixa 1974 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Processo de contas Caixa 1974
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-01-01
+**UnitDateFinal**:: 1974-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24949
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 55 - cx. 20
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24949

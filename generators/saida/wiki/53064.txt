@@ -1,0 +1,17 @@
+====== 53064 - DC - Minutas de carta de Carlos Bocage e de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 53061
+**RootParent**:: 31258
+**UnitTitle**:: Minutas de carta de Carlos Bocage e de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-08-06
+**UnitDateFinal**:: 1906-08-07
+**ScopeContent**:: Minutas de cartas manuscritas por Vicente. Estas minutas de cartas estão dentro do envelope "1909 Copias pertencentes ao Vicente. Questão de Thoratier. Importante".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53064
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12553 - cx. 75
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53064

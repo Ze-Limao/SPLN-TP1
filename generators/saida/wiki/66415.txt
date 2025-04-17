@@ -1,0 +1,15 @@
+====== 66415 - DC - Sentença contra Gonçalo Antão e seu filho que largue o casal e rendas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença contra Gonçalo Antão e seu filho que largue o casal e rendas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1690-03-15
+**UnitDateFinal**:: 1690-03-15
+**ScopeContent**:: Manuscrito, original, sem capa. No canto esquerdo em cima “Num. 6”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 470 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66415

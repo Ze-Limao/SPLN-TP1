@@ -1,0 +1,20 @@
+====== 20741 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Filiação - José Maria de Melo e Ângela Maria de Azevedo e Melo
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1870-01-25
+Emprego - Proprietário
+Estado - Casado
+Residência - Régua
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20741
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 67v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20741

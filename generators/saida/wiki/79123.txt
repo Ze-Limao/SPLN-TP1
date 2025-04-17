@@ -1,0 +1,17 @@
+====== 79123 - DC - A poder-se plantar em 1937 no viveiro de Pindela ======
+
+**Parent**:: 57357
+**RootParent**:: 31258
+**UnitTitle**:: A poder-se plantar em 1937 no viveiro de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1937
+**UnitDateFinal**:: 1937
+**ScopeContent**:: Manuscrito a lápis com lista de quantidade de de árvores e plantas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57358
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8486 - cx. 52
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79123

@@ -1,0 +1,18 @@
+====== 60548 - F - Confraria do Santíssimo Sacramento da freguesia do Louro ======
+
+**Parent**:: 0
+**RootParent**:: 60548
+**UnitTitle**:: Confraria do Santíssimo Sacramento da freguesia do Louro
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1881
+**UnitDateFinal**:: 1894
+**ScopeContent**:: Este fundo é composto pelo Livro de receita e despesa da Confraria dos anos 1881 a 1894.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60548
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60548
+
+===== Filhos =====
+  * [[60692.txt|60692 - SC - Administração financeira]]

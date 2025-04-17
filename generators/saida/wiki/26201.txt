@@ -1,0 +1,16 @@
+====== 26201 - DC - Carta ======
+
+**Parent**:: 21252
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881
+**UnitDateFinal**:: 1894
+**ScopeContent**:: Carta manuscrita assinada sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26201
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 997 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26201

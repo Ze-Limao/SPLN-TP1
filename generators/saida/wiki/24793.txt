@@ -1,0 +1,16 @@
+====== 24793 - DC - Convite 97º Aniversário dos Bombeiros Voluntários de V. N. de Famalicão ======
+
+**Parent**:: 24776
+**RootParent**:: 20342
+**UnitTitle**:: Convite 97º Aniversário dos Bombeiros Voluntários de V. N. de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1987-05-06
+**UnitDateFinal**:: 1987-05-06
+**ScopeContent**:: Convite da direção e comando, no interior tem o programa para o dia 6 e 7 de maio e 1987.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24793
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 35 - cx. 9
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24793

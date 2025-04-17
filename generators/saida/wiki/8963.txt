@@ -1,0 +1,18 @@
+====== 8963 - DC - Termo do exame de Elpídio Barndão Peixoto ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Elpídio Barndão Peixoto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-08-03
+**UnitDateFinal**:: 1894-08-03
+**ScopeContent**:: Grau - Complementar
+Idade - 11
+Filiação - Manuel de Sá Peixoto
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8963
+**LangMaterial**:: Português
+**PhysLoc**:: f. 77
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8963

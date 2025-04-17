@@ -1,0 +1,28 @@
+====== 53984 - DC - Segundo Adicional à empreitada geral de construção do novo edifício dos Paços do Concelho e Primeiro Adicional à empreitada geral de urbanização em volta dos novos Paços do Concelho…Câmara Municipal de Famalicão ======
+
+**Parent**:: 53982
+**RootParent**:: 25851
+**UnitTitle**:: Segundo Adicional à empreitada geral de construção do novo edifício dos Paços do Concelho e Primeiro Adicional à empreitada geral de urbanização em volta dos novos Paços do Concelho…Câmara Municipal de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-06-03
+**UnitDateFinal**:: 1961-06-03
+**ScopeContent**:: Original. Exemplar assinado pelo Arquiteto Januário Godinho. Exemplar igual JG 159(1), JG 160(1) e JG 157(1).
+Transcrição:
+"O segundo adicional relativo à empreitada geral de construção civil compreende diversos trabalhos complementares da empreitada base, não previstos no respectivo contrato. A medição descrimina em pormenor e por ordem de pisos a natureza e quantidades de trabalhos executados a mais e a menos, destacando-se entre as verbas mais importantes a instalação de um ascensor, a casa da máquinas, relógios da torre, iluminação da arcada com cátodo frio, substituição de lambris de marmorite por azulejo decorativo, azulejo especial na galeria dos passos perdidos, encargos gerais, etc., etc. […]
+Trabalhos de urbanização:
+Também a empreitada geral de urbanização dos espaços exteriores sofrem diversas alterações impostas pela própria evolução dos trabalhos de construção civil, nomeadamente, reconstrução de muros de suporte, monumento a Camilo, jardinagem, aumento das redes de rega e de iluminação, encargos gerais, etc., etc. […]
+Resumindo:
+	a) construção civil		777.743$10
+	b) urbanização			244.650$80
+	    Total			           1.022.393$90	
+Porto, 3 de Junho de 1961
+O ARQUITECTO,
+Januário Godinho"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53984
+**LangMaterial**:: Português
+**PhysLoc**:: JG 153(1) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53984

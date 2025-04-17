@@ -1,0 +1,53 @@
+====== 20336 - SR - Documentos de investigação histórica ======
+
+**Parent**:: 20290
+**RootParent**:: 20290
+**UnitTitle**:: Documentos de investigação histórica
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**ScopeContent**:: JAM solicitou a António Ferraz para retirar apontamentos do manuscrito "Nobiliário de Famílias de Portugal" de autoria de Felgueiras Gaio que estava depositado na Santa Casa da Misericórdia de Barcelos.
+"Nobiliário de Famílias de Portugal" é o título de um trabalho de genealogia escrito por Manuel José da Costa Felgueiras Gaio (1750-1831). É composto de 33 volumes e trata de famílias de Portugal. Esta importante obra, ainda em formato manuscrito, foi legada à Santa Casa da Misericórdia de Barcelos e só veio a ser impressa a partir de 1938, sem qualquer revisão ou reordenamento do material recolhido por aquele autor.
+Nobiliário de famílias de Portugal / Felgueiras Gaio. - [Braga] : Agostinho de Azevedo Meirelles : Domingos de Araújo Affonso, 1938-1941 (Braga: Pax). - 17 v. : il. ; 30 cm.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20336
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20336
+
+===== Filhos =====
+  * [[30319.txt|30319 - DC - Notas soltas sobre os Cogominhos]]
+  * [[30320.txt|30320 - DC - Acrescentamentos na Sinopse Genealógica, anexa ao livro Ninharias do Exmo. Sr. J. A. Meneses (Vinhal). Grupo de tábuas V a IX]]
+  * [[30321.txt|30321 - DC - Família dos Falcões Marinhos extrahido da História Genealógica Manuscripta Tomo nº4 fl. 372 existe. no importe. Archivo Dr. Ernesto do Canto da Ilha de S. Miguel em Ponta Delgada]]
+  * [[30322.txt|30322 - DC - Notas sobre o concelho de Barcelos]]
+  * [[30323.txt|30323 - DC - Notas sobre emendas ao livro Ninharias]]
+  * [[30324.txt|30324 - DC - Notas sobre Cardeal D. Henrique e o Condado dos Arcos]]
+  * [[30325.txt|30325 - DC - Árvore genealógica de Vasco Afonso de Faria]]
+  * [[30326.txt|30326 - DC - Árvore genealógica da descendência de Afonso Nunes de Mariz]]
+  * [[30327.txt|30327 - DC - Notas elucidativas sobre Beças de Barcelos e ligação aos Pinheiros]]
+  * [[30328.txt|30328 - DC - Árvore genealógica da descendência dos Côrreas de Faulães]]
+  * [[30329.txt|30329 - DC - Notas sobre os Aboim e os Barbosas (Barcelos)]]
+  * [[30330.txt|30330 - DC - Condes de Barcellos da família Telles Menezes segundo Brancamp Freire no seu livro Brasões da sala de Cintra]]
+  * [[30331.txt|30331 - DC - Pedido de cópias das cartas da Chancelaria de el-rei D. Pedro 1º e de D. Fernando 1º]]
+  * [[30332.txt|30332 - DC - Gayos de Barcelos, Vila do Conde e Porto]]
+  * [[30333.txt|30333 - DC - Árvore genealógica dos Azevedos da Lama]]
+  * [[30334.txt|30334 - DC - Farias]]
+  * [[30335.txt|30335 - DC - Notas sobre João Feio de Azevedo Coutinho e descendência]]
+  * [[30336.txt|30336 - DC - Algumas notas a propósito dos Super-libris ornamentais do Conde de Castro Sola]]
+  * [[30337.txt|30337 - DC - Notas sobre o lugar de Fão]]
+  * [[30338.txt|30338 - DC - Esboço para um brasão de armas]]
+  * [[30339.txt|30339 - DC - Nota sobre Manoel Caetano Mascarenhas de Mancellos]]
+  * [[30340.txt|30340 - DC - Nota nº1 no livro Breve resumo dos Privilégios da Nobreza dedicado ao el rei D. Pedro, 5º por Francisco António Martins Basto, impresso em Lisboa, ano de 1854]]
+  * [[30341.txt|30341 - DC - Nota sobre Maria da Cunha, mulher de Luis Freire de Andrade, senhor de Bobadilha]]
+  * [[30342.txt|30342 - DC - Notas elucidativas sobre os Beças de Barcelos]]
+  * [[30343.txt|30343 - DC - Árvore genealógica de Pedro Machado 3º senhor da quinta de Geraz na Póvoa de Lanhoso, Solar dos Machados, e de Joana, filha de Afonso Mendes de Pandorga? e sua descendência]]
+  * [[30344.txt|30344 - DC - Regimento dos Oficiais da Casa do Duque de Bragança Dom Teodósio 1º (6º Conde Barcelos). Notas e árvores genealógicas dos Farias]]
+  * [[30345.txt|30345 - DC - Notas sobre a família Faria do Nobiliário do Abade de Esmeriz (1º ramo primogénito, 2º ramo dos alcaides-mores de Palmela e 3º ramo dos almotacéis-mores)]]
+  * [[30346.txt|30346 - DC - Inquirições reais ao apelido Faria]]
+  * [[30347.txt|30347 - DC - Apontamentos sobre os Farias]]
+  * [[30348.txt|30348 - DC - Árvore genealógica de Nuno Gonçalves de Faria]]
+  * [[30349.txt|30349 - DC - Árvore genealógica (ligação de Farias a Azevedo)]]
+  * [[30350.txt|30350 - DC - Documento nº 2 Livro das Areias 1827]]
+  * [[30351.txt|30351 - DC - Árvore genealógica dos Farias de Barcelos nº 1]]
+  * [[30352.txt|30352 - DC - Emprazamento do casal de Espezes?, na freguesia de S. Romão de Milhases (Barcelos)]]
+  * [[30353.txt|30353 - DC - Notas para introduzir emendas no livro Ninharias]]
+  * [[30354.txt|30354 - DC - Desenho do rio Cávado desde a ponte do Prado até Fão com a designação de pontes, açudes e nascentes de águas minerais existentes nas margens]]
+  * [[30355.txt|30355 - DC - Notas retiradas do Nobiliário de Felgueiras Gayo sobre os avós de José de Azevedo e Menezes]]

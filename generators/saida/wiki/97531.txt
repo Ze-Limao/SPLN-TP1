@@ -1,0 +1,14 @@
+====== 97531 - UI - Processo nº 12 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 12
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-05-02
+**UnitDateFinal**:: 1970-07-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 352 - cx. 20
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97531

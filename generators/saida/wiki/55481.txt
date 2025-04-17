@@ -1,0 +1,17 @@
+====== 55481 - DC - St. Katharinen-Bazar: Programm ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: St. Katharinen-Bazar: Programm
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-12-02
+**UnitDateFinal**:: 1904-12-03
+**ScopeContent**:: Impresso. Programa de concerto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55481
+**LangMaterial**:: Alemão
+**PhysLoc**:: CP 7405 - cx. 48
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55481

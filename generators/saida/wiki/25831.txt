@@ -1,0 +1,17 @@
+====== 25831 - DC - Correspondência com condolências pela morte de Hilário Carvalho ======
+
+**Parent**:: 24761
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência com condolências pela morte de Hilário Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1969-12-12
+**UnitDateFinal**:: 1969-12-13
+**ScopeContent**:: Transcrição do ofício da Associação Humanitária dos Bombeiros Voluntários de Vila Nova de Ourém:
+«Lamentamos profundamente a perda de tão grande elemento dessa Corporação e nosso grande amigo. […] / Entretanto devem ter-lhe comunicado ...»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25831
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 20 - cx. 5
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25831

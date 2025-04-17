@@ -1,0 +1,14 @@
+====== 30087 - DC - Casimiro de Almeida ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Casimiro de Almeida
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1971-06-16
+**UnitDateFinal**:: 1971-06-16
+**ScopeContent**:: Regedor efetivo da freguesia de Oliveira S. Mateus
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30087
+**LangMaterial**:: Português
+**PhysLoc**:: f. 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30087

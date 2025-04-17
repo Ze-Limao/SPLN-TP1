@@ -1,0 +1,15 @@
+====== 24935 - UI - Processo de contas Caixa 1966 Maço nº 12 a 17 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Processo de contas Caixa 1966 Maço nº 12 a 17
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1966-01-01
+**UnitDateFinal**:: 1966-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24935
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 48 - cx. 17
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24935

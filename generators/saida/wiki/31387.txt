@@ -1,0 +1,14 @@
+====== 31387 - SC - António Machado da Guerra e Ana Fagundes de Mendanha ======
+
+**Parent**:: 31347
+**RootParent**:: 31258
+**UnitTitle**:: António Machado da Guerra e Ana Fagundes de Mendanha
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1612-03-07
+**UnitDateFinal**:: 1775
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31387
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31387
+
+===== Filhos =====
+  * [[54472.txt|54472 - SR - Documentos]]

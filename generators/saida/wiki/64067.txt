@@ -1,0 +1,15 @@
+====== 64067 - DC - Fatura da Semana Religiosa Bracarense ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Fatura da Semana Religiosa Bracarense
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-05-20
+**UnitDateFinal**:: 1879-05-20
+**ScopeContent**:: Manuscrito e impresso. Assinatura do jornal volume 4º, de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 386 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64067

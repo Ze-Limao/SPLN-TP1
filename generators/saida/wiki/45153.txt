@@ -1,0 +1,39 @@
+====== 45153 - UI - Miguel Maria de Sousa Horta e Costa ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Miguel Maria de Sousa Horta e Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1921-12-12
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45153
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45153
+
+===== Filhos =====
+  * [[45154.txt|45154 - DC - Carta]]
+  * [[45155.txt|45155 - DC - Carta]]
+  * [[45156.txt|45156 - DC - Carta]]
+  * [[45157.txt|45157 - DC - Carta]]
+  * [[45158.txt|45158 - DC - Carta]]
+  * [[45159.txt|45159 - DC - Carta]]
+  * [[45160.txt|45160 - DC - Carta]]
+  * [[45161.txt|45161 - DC - Carta com agravo criminal]]
+  * [[45162.txt|45162 - DC - Nota manuscrita]]
+  * [[45163.txt|45163 - DC - Carta]]
+  * [[45164.txt|45164 - DC - Telegrama]]
+  * [[45165.txt|45165 - DC - Carta]]
+  * [[45166.txt|45166 - DC - Carta]]
+  * [[45167.txt|45167 - DC - Carta]]
+  * [[45168.txt|45168 - DC - Carta]]
+  * [[45169.txt|45169 - DC - Carta]]
+  * [[45170.txt|45170 - DC - Carta]]
+  * [[45171.txt|45171 - DC - Cartão de visita]]
+  * [[45172.txt|45172 - DC - Bilhete-postal]]
+  * [[45173.txt|45173 - DC - Carta]]
+  * [[45174.txt|45174 - DC - Carta]]
+  * [[64107.txt|64107 - DC - Carta]]

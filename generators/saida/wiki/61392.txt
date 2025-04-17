@@ -1,0 +1,16 @@
+====== 61392 - DC - A Velha Lucerna: (últimos lampejos) versos de Daniel Salgado ======
+
+**Parent**:: 60929
+**RootParent**:: 60550
+**UnitTitle**:: A Velha Lucerna: (últimos lampejos) versos de Daniel Salgado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-05-19
+**UnitDateFinal**:: 1950-05-19
+**ScopeContent**:: Provas tipográficas de livro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 168 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61392

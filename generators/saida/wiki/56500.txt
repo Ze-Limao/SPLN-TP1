@@ -1,0 +1,17 @@
+====== 56500 - DC - Participação do casamento da Condessa Isabel de Almeida com o Conde Rodolphe van der Straten Ponthoz ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Participação do casamento da Condessa Isabel de Almeida com o Conde Rodolphe van der Straten Ponthoz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1915
+**ScopeContent**:: Impresso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56500
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8271 - cx. 51
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56500

@@ -1,0 +1,16 @@
+====== 25349 - DC - Resoluções da Direcção nº2 ======
+
+**Parent**:: 24746
+**RootParent**:: 20342
+**UnitTitle**:: Resoluções da Direcção nº2
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-10-01
+**UnitDateFinal**:: 1943-10-01
+**ScopeContent**:: Transcrição: "Resoluções da Direção / Criar o Grémio dos Jogos e nomear seus diretores os Srs. Alberto Graça, António Ribeiro da Silva, Filipe Monteiro da Costa, Luís do Rego Ferreira e Armando Veloso, que terão as atribuições que lhe foram consignadas: / Realizar a FESTA DA CASA nos próximos dias 23 e 24 do corrente, com programa a elaborar estando já assente a fazer parte desse programa um exercício de aplicação na casa escola, uma ceia de confraternização, com assistência de corporações de fora deste concelho e uma reunião dançante para os sócios, oferecida pelas Senhoras de Famalicão. Serão também impostas as condecorações aos voluntários que a elas tenham direito.» Assinado P´a Direcção Hilário Carvalho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25349
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 5 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25349

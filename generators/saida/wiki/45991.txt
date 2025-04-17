@@ -1,0 +1,18 @@
+====== 45991 - DC - Registo do recenseamento eleitoral de José Rodrigues da Cruz e Freitas ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Rodrigues da Cruz e Freitas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Esmeriz
+Profissão - Eclesiástico
+Estado - Solteiro
+Morada - Igreja
+Idade - 53
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45991
+**LangMaterial**:: Português
+**PhysLoc**:: 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45991

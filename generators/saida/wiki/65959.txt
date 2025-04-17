@@ -1,0 +1,15 @@
+====== 65959 - DC - Carta de confirmação e instituição de benefícios simples ao Reverendo  Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 63976
+**RootParent**:: 60536
+**UnitTitle**:: Carta de confirmação e instituição de benefícios simples ao Reverendo  Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1768
+**UnitDateFinal**:: 1768
+**ScopeContent**:: Manuscrito, original. Recuperado e acondicionado em 2021. Documento sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 294 -  Capa 12
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65959

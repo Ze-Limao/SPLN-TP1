@@ -1,0 +1,18 @@
+====== 8449 - DC - Termo do exame de Maria Carolina Terroso ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Maria Carolina Terroso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-06-05
+**UnitDateFinal**:: 1885-06-05
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Luís José dos Santos Terroso
+Naturalidade - Vila Nova de Famalicão
+Classificação - Aprovada
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8449
+**LangMaterial**:: Português
+**PhysLoc**:: f. 25
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8449

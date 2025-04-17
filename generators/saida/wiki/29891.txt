@@ -1,0 +1,15 @@
+====== 29891 - DC - Gados Risler ======
+
+**Parent**:: 29884
+**RootParent**:: 27963
+**UnitTitle**:: Gados Risler
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29891
+**LangMaterial**:: Português
+**PhysLoc**:: AS 62 (7) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29891

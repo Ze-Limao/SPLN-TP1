@@ -1,0 +1,15 @@
+====== 25049 - UI - Posse Comandante Júlio Sousa Freitas ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Posse Comandante Júlio Sousa Freitas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1990-02-10
+**UnitDateFinal**:: 1992-12-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25049
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 151 - cx. 39
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25049

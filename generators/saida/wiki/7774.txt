@@ -1,0 +1,15 @@
+====== 7774 - UI - Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos (3º) ======
+
+**Parent**:: 7766
+**RootParent**:: 7651
+**UnitTitle**:: Prazos dos terrenos do concelho feitos pelo extinto Senado de Barcelos (3º)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1685-09-15
+**UnitDateFinal**:: 1801-02-27
+**ScopeContent**:: Freguesias de Riba de Ave, Sanfins, Oliveira S. Mateus, Delães, Bairro, Carreira, Novais, Ruivães, Sobrado, Castelões, Cruz, Gavião, Vale S. Martinho e Mouquim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7774
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF - cx. 47
+depósito 1, estante 43
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7774

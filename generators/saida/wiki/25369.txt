@@ -1,0 +1,16 @@
+====== 25369 - DC - Carta ======
+
+**Parent**:: 21101
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-12-03
+**UnitDateFinal**:: 1894-12-03
+**ScopeContent**:: Carta manuscrita assinada em papel de luto, enviada do Porto, Rua do Rosário 159.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25369
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 349 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25369

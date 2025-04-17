@@ -1,0 +1,15 @@
+====== 64005 - DC - Registo de Mandado de Capienda possessione da Paroquial Igreja de S. Tiago de Antas em que o reverendo Pedro de Mendonça Barata de Moura, Abade da Igreja de S. Tiago de Antas, resigna a favor do Reverendo Rodrigo de Mendonça de Vasconcelos e Sousa, do Bispado da Guarda ======
+
+**Parent**:: 63976
+**RootParent**:: 60536
+**UnitTitle**:: Registo de Mandado de Capienda possessione da Paroquial Igreja de S. Tiago de Antas em que o reverendo Pedro de Mendonça Barata de Moura, Abade da Igreja de S. Tiago de Antas, resigna a favor do Reverendo Rodrigo de Mendonça de Vasconcelos e Sousa, do Bispado da Guarda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1758-07-08
+**UnitDateFinal**:: 1758-09-06
+**ScopeContent**:: Manuscrito, original, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português e Latim
+**PhysLoc**:: CSTA 174 - cx. 8
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64005

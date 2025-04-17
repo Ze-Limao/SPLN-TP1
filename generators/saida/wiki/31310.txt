@@ -1,0 +1,16 @@
+====== 31310 - SR - Correspondência recebida ======
+
+**Parent**:: 31307
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1898-02-01
+**UnitDateFinal**:: 1916-05-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31310
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31310
+
+===== Filhos =====
+  * [[48326.txt|48326 - UI - Ana Maria Isabel do Carmo Pinheiro de Melo]]
+  * [[48472.txt|48472 - UI - Bernardo Pinheiro Correia de Melo]]
+  * [[49199.txt|49199 - UI - Manuel de Freitas Aguiar]]

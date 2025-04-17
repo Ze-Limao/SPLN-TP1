@@ -1,0 +1,22 @@
+====== 28714 - SR - Correspondência recebida ======
+
+**Parent**:: 28713
+**RootParent**:: 27963
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1908
+**UnitDateFinal**:: 1908-11-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28714
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28714
+
+===== Filhos =====
+  * [[28724.txt|28724 - UI - José António Maria de Sousa Azevedo]]
+  * [[28734.txt|28734 - UI - Pedro Vicente de Morais Sarmento Campilho]]
+  * [[28793.txt|28793 - UI - Jaime de Magalhães Lima]]
+  * [[28796.txt|28796 - UI - João Gomes de Abreu Lima]]
+  * [[28803.txt|28803 - UI - Luís de Magalhães]]
+  * [[29028.txt|29028 - UI - Ricardo Severo]]
+  * [[29036.txt|29036 - UI - José de Macedo Souto Maior]]
+  * [[29069.txt|29069 - UI - Eduardo Vieira]]
+  * [[60959.txt|60959 - UI - Alfredo Moreira da Silva]]

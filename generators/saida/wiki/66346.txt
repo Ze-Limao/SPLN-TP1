@@ -1,0 +1,15 @@
+====== 66346 - DC - Afonso Torcato de Mendonça Deão de na cidade de Lisboa e juiz de comissário apóstolo do negócio ======
+
+**Parent**:: 63976
+**RootParent**:: 60536
+**UnitTitle**:: Afonso Torcato de Mendonça Deão de na cidade de Lisboa e juiz de comissário apóstolo do negócio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1618-05-08
+**UnitDateFinal**:: 1618-05-08
+**ScopeContent**:: Manuscrito, original, sem capa. No canto esquerdo em cima “Num. 8”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 466 -  cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66346

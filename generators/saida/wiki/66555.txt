@@ -1,0 +1,15 @@
+====== 66555 - DC - Pedido de licença José Carvalho Ribeiro, da freguesia de S. Tiago de Antas, tesoureiro da confraria de N. Senhora da Conceição para celebrar com missa cantada, sermão e solenidades do costume ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença José Carvalho Ribeiro, da freguesia de S. Tiago de Antas, tesoureiro da confraria de N. Senhora da Conceição para celebrar com missa cantada, sermão e solenidades do costume
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-12-07
+**UnitDateFinal**:: 1886-12-07
+**ScopeContent**:: Manuscrito, original, em papel azul “80 reis”, com selo colado. Em baixo o deferimento do Arcipreste Mesquita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 575 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66555

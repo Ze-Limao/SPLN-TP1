@@ -1,0 +1,14 @@
+====== 31276 - SSC - Baltasar Pinheiro Lobo e Maria Fagundes Portocarreiro ======
+
+**Parent**:: 31275
+**RootParent**:: 31258
+**UnitTitle**:: Baltasar Pinheiro Lobo e Maria Fagundes Portocarreiro
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1646
+**UnitDateFinal**:: 1652
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31276
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31276
+
+===== Filhos =====
+  * [[54465.txt|54465 - SR - Documentos]]

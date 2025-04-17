@@ -1,0 +1,17 @@
+====== 60238 - DC - Archivo da Casa de Pindella. Normas dos novos arrendamentos dos 5 caseiros da Casa e Quinta de Pindela que começaram em 1923 ======
+
+**Parent**:: 57357
+**RootParent**:: 31258
+**UnitTitle**:: Archivo da Casa de Pindella. Normas dos novos arrendamentos dos 5 caseiros da Casa e Quinta de Pindela que começaram em 1923
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1923
+**UnitDateFinal**:: 1923
+**ScopeContent**:: Manuscrito. Composto por 6 documentos: arrendamentos, Norma geral dos arrendamentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57358
+**LangMaterial**:: Português
+**PhysLoc**:: CP 11727 (1) a 11727 (6) - cx. 68
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60238

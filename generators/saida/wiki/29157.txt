@@ -1,0 +1,16 @@
+====== 29157 - SR - Correspondência de terceiros ======
+
+**Parent**:: 28064
+**RootParent**:: 27963
+**UnitTitle**:: Correspondência de terceiros
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1875-07-16
+**UnitDateFinal**:: 1877-10-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29157
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29157
+
+===== Filhos =====
+  * [[29158.txt|29158 - UI - Cartas de Antero de Quental a Germano Vieira de Meireles]]
+  * [[29165.txt|29165 - UI - Carta de Antero de Quental a Stern]]
+  * [[97449.txt|97449 - UI - Carta de Bernardo Pinheiro Correia de Melo a Bernardino (Machado?)]]

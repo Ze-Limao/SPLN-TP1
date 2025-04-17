@@ -1,0 +1,16 @@
+====== 28133 - DC - Clarete de 1893 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Clarete de 1893
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-09
+**UnitDateFinal**:: 1894-10-21
+**ScopeContent**:: Diversas informações sobre a produção do vinho clarete. 1893 foi o primeiro ano de tratamento das vinhas com calda bordalesa, um fungicida cúprico usado para combater o míldio na vinha.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28133
+**LangMaterial**:: Português
+**PhysLoc**:: AS 406 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28133

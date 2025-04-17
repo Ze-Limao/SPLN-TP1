@@ -1,0 +1,16 @@
+====== 28550 - DC - Contingente do Porto para a expugnação de Ceuta ======
+
+**Parent**:: 28546
+**RootParent**:: 27963
+**UnitTitle**:: Contingente do Porto para a expugnação de Ceuta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Com esta anotação, Alberto Sampaio cruza a informação de obras de dois autores sobre o mesmo assunto: a composição da esquadra que partiu do Porto para a tomada de Ceuta. Ver nota 1, p. 397 e nota 1, p. 400 de O Norte Marítimo in Estudos Históricos e Económicos, ed. 1923. Referências bibliográficas: Inácio da Costa Quintela - Annaes da Marinha Portugueza; Manuel Severim de Faria - Notícias de Portugal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28550
+**LangMaterial**:: Português
+**PhysLoc**:: AS 97 (4) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28550

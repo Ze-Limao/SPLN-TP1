@@ -1,0 +1,19 @@
+====== 62377 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - José Joaquim de Oliveira e Maria Dias, na freguesia
+Naturalidade - Cabeçudos
+Morada - Ignora-se
+Data de nascimento - 1856-09-23
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62377

@@ -1,0 +1,14 @@
+====== 98788 - SR - Medalhas não editadas pela Câmara Municipal ======
+
+**Parent**:: 98779
+**RootParent**:: 7651
+**UnitTitle**:: Medalhas não editadas pela Câmara Municipal
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1991
+**UnitDateFinal**:: 1991
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98788
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98788
+
+===== Filhos =====
+  * [[98789.txt|98789 - DC - Manuel Faria 1916-1983, S. Miguel de Seide, sacerdote, compositor, musicólogo]]

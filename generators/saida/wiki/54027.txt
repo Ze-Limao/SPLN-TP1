@@ -1,0 +1,17 @@
+====== 54027 - DC - Segundo Adicional à Empreitada Geral do Novo Edifício Tribunal Judicial de Famalicão… Câmara Municipal de Famalicão ======
+
+**Parent**:: 54025
+**RootParent**:: 25851
+**UnitTitle**:: Segundo Adicional à Empreitada Geral do Novo Edifício Tribunal Judicial de Famalicão… Câmara Municipal de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-06-03
+**UnitDateFinal**:: 1961-06-05
+**ScopeContent**:: Original. Memória assinada pelo Arquiteto Januário Godinho. Nota manuscrita "Aprovado em reunião de 5-6-1961, selado com lacre. Exemplar igual JG 155(1).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54027
+**LangMaterial**:: Português
+**PhysLoc**:: JG 154(4) - cx. 16
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54027

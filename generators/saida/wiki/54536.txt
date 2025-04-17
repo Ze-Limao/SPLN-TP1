@@ -1,0 +1,17 @@
+====== 54536 - DC - Federação Archivo Especial. Minha sahida da Federação de Sindicatos Agrícolas do Norte de Portugal: uma carta minha. Nº6 ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Federação Archivo Especial. Minha sahida da Federação de Sindicatos Agrícolas do Norte de Portugal: uma carta minha. Nº6
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933-06-04
+**UnitDateFinal**:: 1935-03
+**ScopeContent**:: Este documento está contido na capa CP 2339. Tem 2 documentos: Nota importante manuscrita do Visconde de Pindela; minuta de ofício para Prof. António de Oliveira Salazar 1933-06-04.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54536
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2345 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54536

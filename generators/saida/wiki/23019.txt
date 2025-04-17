@@ -1,0 +1,16 @@
+====== 23019 - DC - Registo do recenseamento eleitoral de Manuel Custódio de Sousa ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Custódio de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Pedome
+Profissão - Lavrador
+Morada - Bouça
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23019
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23019

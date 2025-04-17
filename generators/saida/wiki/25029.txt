@@ -1,0 +1,16 @@
+====== 25029 - UI - Material existente no Quartel em 30 de junho de 1953; Material existente na arrecadação do fardamento, etc., resumo dos haveres e de outros bens móveis ======
+
+**Parent**:: 20367
+**RootParent**:: 20342
+**UnitTitle**:: Material existente no Quartel em 30 de junho de 1953; Material existente na arrecadação do fardamento, etc., resumo dos haveres e de outros bens móveis
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1953
+**UnitDateFinal**:: 1963-12-31
+**ScopeContent**:: As folhas soltas de outros bens móveis datada de 31 dezembro 1963.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25029
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 131 - cx. 31
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25029

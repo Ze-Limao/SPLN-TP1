@@ -1,0 +1,17 @@
+====== 9755 - DC - Nº 1 Famalicão - Vida na aldeia ======
+
+**Parent**:: 9754
+**RootParent**:: 60698
+**UnitTitle**:: Nº 1 Famalicão - Vida na aldeia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Bilhete-postal com casa com telhado de colmo, duas mulheres a fazerem meadas de lã a partir de fusos, em duas rodas de fiar com sarilhos, crianças e homens. Legenda na frente do bilhete-postal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9755
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 11 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9755

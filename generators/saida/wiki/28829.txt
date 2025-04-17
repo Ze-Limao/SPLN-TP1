@@ -1,0 +1,16 @@
+====== 28829 - DC - Carta ======
+
+**Parent**:: 28811
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-04
+**UnitDateFinal**:: 1886-04
+**ScopeContent**:: Carta expedida da Rua da Bella Vista à Lapa, 77 1º Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28829
+**LangMaterial**:: Português
+**PhysLoc**:: AS 809 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28829

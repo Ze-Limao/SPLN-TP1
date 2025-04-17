@@ -1,0 +1,16 @@
+====== 25982 - DC - Carta ======
+
+**Parent**:: 21199
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-11-07
+**UnitDateFinal**:: 1901-11-07
+**ScopeContent**:: Carta manuscrita assinada, de Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25982
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 776 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25982

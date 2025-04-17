@@ -1,0 +1,19 @@
+====== 34275 - DC - Registo do recenseamento militar de António Salgado ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Salgado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Requião
+Data de nascimento - 1852-02-09
+Filiação - Joaquim Salgado e Mariana Fernandes
+Profissão - 
+Estado - 
+Morada -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34275
+**LangMaterial**:: Português
+**PhysLoc**:: 85v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34275

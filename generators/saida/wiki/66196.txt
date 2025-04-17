@@ -1,0 +1,15 @@
+====== 66196 - DC - Pagamento do laudémio a raçoeiros da igreja S. Tiago de Antas ======
+
+**Parent**:: 60773
+**RootParent**:: 60536
+**UnitTitle**:: Pagamento do laudémio a raçoeiros da igreja S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1597
+**UnitDateFinal**:: 1690
+**ScopeContent**:: Manuscrito, original, sem capa e sem data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 413 - cx. 19
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66196

@@ -1,0 +1,19 @@
+====== 33952 - DC - Registo do recenseamento militar de José Carneiro ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Aves
+Data de nascimento - 1852-07-24
+Filiação - António Carneiro e Margarida Rosa
+Profissão - Caixeiro
+Estado - Solteiro
+Morada - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33952
+**LangMaterial**:: Português
+**PhysLoc**:: 4v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33952

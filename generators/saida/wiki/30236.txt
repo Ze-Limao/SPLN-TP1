@@ -1,0 +1,16 @@
+====== 30236 - DC - Carta ======
+
+**Parent**:: 21404
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-08-22
+**UnitDateFinal**:: 1880-08-22
+**ScopeContent**:: Carta manuscrita e assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30236
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1372 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30236

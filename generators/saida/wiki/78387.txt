@@ -1,0 +1,17 @@
+====== 78387 - DC - Paga que deu Francisco Pinto de Magalhães, do lugar do Forno, a Paulo Pinto de Magalhães, de Refalcão, porque tinham feito sequestro ao primeiro e o segundo foi depositário e como entregou os bens sequestrados o primeiro lhe passou paga ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Paga que deu Francisco Pinto de Magalhães, do lugar do Forno, a Paulo Pinto de Magalhães, de Refalcão, porque tinham feito sequestro ao primeiro e o segundo foi depositário e como entregou os bens sequestrados o primeiro lhe passou paga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1755-04-20
+**UnitDateFinal**:: 1755-04-20
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5003 - cx. 36
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78387

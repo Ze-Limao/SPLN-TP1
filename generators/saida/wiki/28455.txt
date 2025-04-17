@@ -1,0 +1,16 @@
+====== 28455 - DC - Do Cours d’agriculture ======
+
+**Parent**:: 28452
+**RootParent**:: 27963
+**UnitTitle**:: Do Cours d’agriculture
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Transcrição de uma passagem do livro do Conde de Gasparin, Do Cours d’agriculture, Tom. 5º, 3ª edição: “Suponhamos que existisse só a pequena cultura neste país…”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28455
+**LangMaterial**:: Português
+**PhysLoc**:: AS 66 (3) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28455

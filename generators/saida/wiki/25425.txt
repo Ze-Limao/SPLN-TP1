@@ -1,0 +1,16 @@
+====== 25425 - DC - Carta ======
+
+**Parent**:: 21111
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-03-06
+**UnitDateFinal**:: 1925-03-06
+**ScopeContent**:: Carta manuscrita assinada, de Coimbra.Tem o brasão timbrado a vermelho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25425
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 404 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25425

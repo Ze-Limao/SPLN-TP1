@@ -1,0 +1,22 @@
+====== 66746 - DC - General Simaens, Barão de Sendal ======
+
+**Parent**:: 54529
+**RootParent**:: 31258
+**UnitTitle**:: General Simaens, Barão de Sendal
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1911
+**UnitDateFinal**:: 1913
+**ScopeContent**:: Envelope com título manuscrito. Contém CP 1941, CP 1942 e CP 1943.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56881
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1944 - cx. 13
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66746
+
+===== Filhos =====
+  * [[66748.txt|66748 - DC - Postal ilustrado do Barão de Sendal para João Afonso]]
+  * [[66749.txt|66749 - DC - Cartão de visita]]
+  * [[66750.txt|66750 - DC - Participação falecimento Barão de Sendal]]

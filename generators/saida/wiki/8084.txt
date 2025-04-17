@@ -1,0 +1,15 @@
+====== 8084 - DC - Termo de Félix da Silva ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Félix da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-03-05
+**UnitDateFinal**:: 1879-03-05
+**ScopeContent**:: Vedação de terreno
+Local - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8084
+**LangMaterial**:: Português
+**PhysLoc**:: f. 11v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8084

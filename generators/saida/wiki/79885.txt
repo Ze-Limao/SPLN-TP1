@@ -1,0 +1,17 @@
+====== 79885 - SSR - João Plácido Valongo ======
+
+**Parent**:: 79837
+**RootParent**:: 60698
+**UnitTitle**:: João Plácido Valongo
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1934
+**UnitDateFinal**:: 1934
+**ScopeContent**:: Reprodução de postais em papel de fotografia e fotocópias em papel: Monumento aos Mortos da Grande Guerra (269, 270); Paços do Concelho (271); Um aspecto da feira semanal (272); Rua Adriano Pinto Basto (273); Campo Mouzinho de Albuquerque (274); Rua 5 de Outubro (275); Vista Geral (276); S. Miguel de Siede - Museu de Camilo C. Branco (277).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79839
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 269 a CPVNF 277 - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79885

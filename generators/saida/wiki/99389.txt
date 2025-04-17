@@ -1,0 +1,17 @@
+====== 99389 - SR - Diplomas ======
+
+**Parent**:: 60695
+**RootParent**:: 60695
+**UnitTitle**:: Diplomas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1903
+**UnitDateFinal**:: 1912-06-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99060
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99389
+
+===== Filhos =====
+  * [[99390.txt|99390 - DC - Diploma de Medalha de Ouro a António Cristino no concurso nº 2 lote A Frutos de caroço, lote B - frutos de espinho, lote C -  frutos de pevide, na Exposição de Pomologia e produtos de horta e jardim em 1907 atribuído pelo Palácio de Cristal Portuense]]
+  * [[99391.txt|99391 - DC - Diploma da Medalha de Prata de classe 3ª - pelos seus vinhos branco, clarete e leve a António Cristino na Exposição Agrícola e de produtos mineralógicos em 1903-1904, atribuído pelo Palácio de Cristal Portuense]]
+  * [[99394.txt|99394 - DC - Diploma de Honra pelo carro de propaganda na Parada Agrícola e Industrial a António Cristino, atribuído pela Associação Agrícola e pela Associação Comercial de Famalicão]]
+  * [[99398.txt|99398 - DC - Diploma de Medalha de Bronze a António José de Sousa Cristino Vinhos, atribuído pela United States of America Universal Exposition, Saint Louis 1904 commemorating the acquisition of the Louisiana territory]]

@@ -1,0 +1,18 @@
+====== 8932 - DC - Termo do exame de António Gonçalves de Castro ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de António Gonçalves de Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-27
+**UnitDateFinal**:: 1894-07-27
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Francisco Gonçalves de Castro
+Naturalidade - Cavalões
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8932
+**LangMaterial**:: Português
+**PhysLoc**:: f. 69
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8932

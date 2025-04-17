@@ -1,0 +1,16 @@
+====== 29331 - DC - N.º 30838 Sulfato ======
+
+**Parent**:: 29327
+**RootParent**:: 27963
+**UnitTitle**:: N.º 30838 Sulfato
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-10-17
+**UnitDateFinal**:: 1876-10-17
+**ScopeContent**:: Composição da receita: sulfato [?], água destilada, [?]. Local Guimarães. Carimbo da Farmácia do Hospital da Misericórdia de Guimarães.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29331
+**LangMaterial**:: Português
+**PhysLoc**:: AS 226 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29331

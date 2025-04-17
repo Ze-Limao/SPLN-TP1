@@ -1,0 +1,15 @@
+====== 20205 - SR - Registo das côngruas aos párocos do concelho ======
+
+**Parent**:: 20052
+**RootParent**:: 20048
+**UnitTitle**:: Registo das côngruas aos párocos do concelho
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1871-06-03
+**UnitDateFinal**:: 1874
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20205
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20205
+
+===== Filhos =====
+  * [[20206.txt|20206 - UI - Registo das côngruas aos párocos do concelho]]

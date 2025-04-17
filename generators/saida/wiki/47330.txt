@@ -1,0 +1,18 @@
+====== 47330 - DC - Registo do recenseamento eleitoral de Manuel José da Silva Braga ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel José da Silva Braga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Barbeiro
+Estado - Casado
+Morada - Rua de Santo António
+Idade - 47
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47330
+**LangMaterial**:: Português
+**PhysLoc**:: 76v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47330

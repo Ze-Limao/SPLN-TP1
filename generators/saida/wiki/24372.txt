@@ -1,0 +1,16 @@
+====== 24372 - DC - Carta ======
+
+**Parent**:: 21063
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-12-30
+**UnitDateFinal**:: 1913-12-30
+**ScopeContent**:: António Cabreira agradece as referências honrosas na carta, o presente enviado e encontra-se muito grato. Em representação da Academia de Ciências de Portugal afirma que JAM é merecedor da candidatura de entrada. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24372
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 145 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24372

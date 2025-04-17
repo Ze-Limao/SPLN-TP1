@@ -1,0 +1,16 @@
+====== 28132 - DC - Ensaio feito no dia 6 de Set.º 1893 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Ensaio feito no dia 6 de Set.º 1893
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-09-06
+**UnitDateFinal**:: 1893-09-14
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Indicação das densidades dos mostos das castas Vinhão e Souzão das ramadas registadas pelo gleucómetro Dr. J. Guyot e pelo gleucómetro nos dias 6 e 14 de Setembro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28132
+**LangMaterial**:: Português
+**PhysLoc**:: AS 405 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28132

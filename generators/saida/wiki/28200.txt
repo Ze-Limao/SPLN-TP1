@@ -1,0 +1,16 @@
+====== 28200 - DC - Vinhos italianos ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vinhos italianos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Listagem de vinhos italianos e das castas que entram nas suas composições. Listagem de castas de uvas de mesa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28200
+**LangMaterial**:: Português
+**PhysLoc**:: AS 472 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28200

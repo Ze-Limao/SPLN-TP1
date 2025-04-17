@@ -1,0 +1,13 @@
+====== 7695 - UI - Livro de Notas Nº 8 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 8
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1922-12-30
+**UnitDateFinal**:: 1925-05-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7695
+**LangMaterial**:: Português
+**PhysLoc**:: 1.41
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7695

@@ -1,0 +1,20 @@
+====== 34091 - DC - Registo do recenseamento militar de Pedro Ferreira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Pedro Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vermoim
+Data de nascimento - 1852-04-28
+Filiação - Jerónimo António Ferreira e Teresa Clara
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34091
+**LangMaterial**:: Português
+**PhysLoc**:: 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34091

@@ -1,0 +1,15 @@
+====== 60941 - DC - Diploma do Sup. Cons. Do 33º Gr. Do Rito Escoces Antigo e aceite para Portugal seus domínios e jurisdição a todos os maçons regulares… a Daniel Rodrigues obr. da Resp. Loj. Cândido reis nº368 ao valº de Lisboa ======
+
+**Parent**:: 60928
+**RootParent**:: 60550
+**UnitTitle**:: Diploma do Sup. Cons. Do 33º Gr. Do Rito Escoces Antigo e aceite para Portugal seus domínios e jurisdição a todos os maçons regulares… a Daniel Rodrigues obr. da Resp. Loj. Cândido reis nº368 ao valº de Lisboa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929-12-29
+**UnitDateFinal**:: 1929-12-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 209 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60941

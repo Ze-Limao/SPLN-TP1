@@ -1,0 +1,15 @@
+====== 97437 - UI - Conde de Castelo de Paiva ======
+
+**Parent**:: 31322
+**RootParent**:: 31258
+**UnitTitle**:: Conde de Castelo de Paiva
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1892
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55151
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97437
+
+===== Filhos =====
+  * [[97438.txt|97438 - DC - Telegrama]]

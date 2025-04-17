@@ -1,0 +1,15 @@
+====== 98781 - DC - Homenagem Nacional a Bernardino Machado: 5 de Outubro de 1983 ======
+
+**Parent**:: 98787
+**RootParent**:: 7651
+**UnitTitle**:: Homenagem Nacional a Bernardino Machado: 5 de Outubro de 1983
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1983-10-05
+**UnitDateFinal**:: 1983-10-05
+**ScopeContent**:: Medalha de C. Alves, numa caixa de cartão. Edição da Câmara Municipal de Vila Nova de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98781
+**LangMaterial**:: Português
+**PhysLoc**:: cx. 1
+depósito 1, estante 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98781

@@ -1,0 +1,16 @@
+====== 21042 - DC - Contrato de compra e venda ======
+
+**Parent**:: 7708
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de compra e venda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1950-07-27
+**UnitDateFinal**:: 1950-07-27
+**ScopeContent**:: Compra de terreno para a obra de prolongamento da Rua Manuel Pinto de Sousa
+Outorgantes - Firmino Pinto Pereira e Júlia Tavares Campinho Pereira, residentes no Rio de Janeiro
+Toponímia - Rua S. João de Deus
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21042
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 27
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21042

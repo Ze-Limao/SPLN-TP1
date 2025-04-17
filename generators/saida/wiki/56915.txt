@@ -1,0 +1,17 @@
+====== 56915 - DC - Comissão de Viticultura: Circulares ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura: Circulares
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1927-04-05
+**UnitDateFinal**:: 1933-04-05
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes que contém 171 minutas de circulares da Comissão de Viticultura da Região dos Vinhos Verdes CP 9470 (1) A CP 9470 (171).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56915
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9470 (1) a (171) - cx. 56
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56915

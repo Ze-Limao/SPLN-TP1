@@ -1,0 +1,15 @@
+====== 25041 - UI - Ordens de serviço do Comando ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Ordens de serviço do Comando
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-01-06
+**UnitDateFinal**:: 1981-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25041
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 143 - cx. 36
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25041

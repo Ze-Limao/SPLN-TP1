@@ -1,0 +1,16 @@
+====== 29595 - SR - 2016 ======
+
+**Parent**:: 29620
+**RootParent**:: 29618
+**UnitTitle**:: 2016
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 2016-01-04
+**UnitDateFinal**:: 2016-01-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29595
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29595
+
+===== Filhos =====
+  * [[29605.txt|29605 - SSR - Obras de Restauro da Igreja Matriz]]
+  * [[29606.txt|29606 - SSR - Projeto “Integra-te”]]
+  * [[29617.txt|29617 - SSR - Cantar dos Reis da Escola de Lagarinhos]]

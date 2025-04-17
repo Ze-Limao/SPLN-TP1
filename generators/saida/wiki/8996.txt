@@ -1,0 +1,13 @@
+====== 8996 - DC - Ofício nº 20 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 20
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-06-03
+**UnitDateFinal**:: 1885-06-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8996
+**LangMaterial**:: Português
+**PhysLoc**:: f. 5v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8996

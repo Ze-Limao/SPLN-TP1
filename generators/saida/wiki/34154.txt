@@ -1,0 +1,19 @@
+====== 34154 - DC - Registo do recenseamento militar de Manuel Dias Moreira ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel Dias Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Ribeirão
+Data de nascimento - 1852-04-04
+Filiação - António Dias Moreira e Ana da Costa Dias
+Profissão - Carpinteiro
+Estado - Solteiro
+Morada - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34154
+**LangMaterial**:: Português
+**PhysLoc**:: 55v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34154

@@ -1,0 +1,13 @@
+====== 9076 - DC - Ofício ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-02-04
+**UnitDateFinal**:: 1886-02-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9076
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9076

@@ -1,0 +1,17 @@
+====== 66981 - UI - R. Leuker ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: R. Leuker
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1899-01
+**UnitDateFinal**:: 1899-03-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66981
+
+===== Filhos =====
+  * [[66982.txt|66982 - DC - Carta]]
+  * [[66984.txt|66984 - DC - Carta]]
+  * [[66985.txt|66985 - DC - Carta]]
+  * [[66986.txt|66986 - DC - Carta]]

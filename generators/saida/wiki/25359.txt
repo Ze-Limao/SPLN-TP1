@@ -1,0 +1,17 @@
+====== 25359 - UI - Ministério da Instrução Pública ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Ministério da Instrução Pública
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1818-03-09
+**UnitDateFinal**:: 1818-03-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25359
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1497
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25359
+
+===== Filhos =====
+  * [[30315.txt|30315 - DC - Carta]]

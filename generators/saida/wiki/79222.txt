@@ -1,0 +1,14 @@
+====== 79222 - UI - José Domingues de Oliveira ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: José Domingues de Oliveira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920-07-30
+**UnitDateFinal**:: 1922-07-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56771
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79222
+
+===== Filhos =====
+  * [[56736.txt|56736 - DC - Carta]]

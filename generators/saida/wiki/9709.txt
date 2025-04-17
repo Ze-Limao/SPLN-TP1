@@ -1,0 +1,13 @@
+====== 9709 - DC - Ofício nº 56 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 56
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-08-25
+**UnitDateFinal**:: 1887-08-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9709
+**LangMaterial**:: Português
+**PhysLoc**:: f. 37v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9709

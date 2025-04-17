@@ -1,0 +1,18 @@
+====== 60577 - UI - J.P. Pedaing d´Oguel ======
+
+**Parent**:: 31373
+**RootParent**:: 31258
+**UnitTitle**:: J.P. Pedaing d´Oguel
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869-06-21
+**UnitDateFinal**:: 1870-03-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53090
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60577
+
+===== Filhos =====
+  * [[60578.txt|60578 - DC - Carta]]
+  * [[60579.txt|60579 - DC - Carta e Recibo da Escola Franceza]]
+  * [[60580.txt|60580 - DC - Bulletin de la semaine finie le 5 fevrier 1870]]
+  * [[60581.txt|60581 - DC - Bulletin de la semaine finie le 12 fevrier 1870]]
+  * [[60582.txt|60582 - DC - Bulletin de la semaine finie le 5 Mars 1870]]

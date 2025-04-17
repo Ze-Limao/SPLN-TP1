@@ -1,0 +1,14 @@
+====== 56756 - UI - Sebastião Lobo Pereira da Silva Cardoso de Meneses ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Sebastião Lobo Pereira da Silva Cardoso de Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1922-04-27
+**UnitDateFinal**:: 1922-04-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56756
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56756
+
+===== Filhos =====
+  * [[56757.txt|56757 - DC - Carta]]

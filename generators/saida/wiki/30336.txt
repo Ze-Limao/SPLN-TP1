@@ -1,0 +1,17 @@
+====== 30336 - DC - Algumas notas a propósito dos Super-libris ornamentais do Conde de Castro Sola ======
+
+**Parent**:: 20336
+**RootParent**:: 20290
+**UnitTitle**:: Algumas notas a propósito dos Super-libris ornamentais do Conde de Castro Sola
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Apontamentos manuscritos de António Ferraz a partir da revista "Ex Libris Portugueses". É uma revista ilustrada com estampas, contendo divisas de bibliófilos, bibliotecas e Instituições. Fundada por A. J. Tavares e Amadeu de Castro e Sola, Conde de Castro e Sola e editada em vários volumes por A. J. Tavares entre 1916 - 1927.
+Castro e Sola, A. de; LIMA, Henrique de C. Ferreira. Revista de EX-LIBRIS Portugueses, A. J. Tavares, I a VI Vol., Porto 1916 - 1927.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30336
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1517 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30336

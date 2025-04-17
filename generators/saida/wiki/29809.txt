@@ -1,0 +1,16 @@
+====== 29809 - DC - Cópia de cartas ======
+
+**Parent**:: 21325
+**RootParent**:: 20290
+**UnitTitle**:: Cópia de cartas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-06-04
+**UnitDateFinal**:: 1901-06-11
+**ScopeContent**:: Cópia de carta manuscrita, da Guarda de António Mendonça, datada de 11 junho 1901. Cópia de carta de Luís Augusto de Andrade, 4 junho 1901, do Fundão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29809
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1218 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29809

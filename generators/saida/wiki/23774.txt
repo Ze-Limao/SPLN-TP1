@@ -1,0 +1,16 @@
+====== 23774 - DC - Registo do recenseamento eleitoral de Joaquim José da Silva Machado ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim José da Silva Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Oficial
+Morada - Rua Direita
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23774
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 85v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23774

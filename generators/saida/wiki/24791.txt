@@ -1,0 +1,16 @@
+====== 24791 - DC - O novo quartel dos Bombeiros Voluntários de Famalicão será modelar no seu género ======
+
+**Parent**:: 24753
+**RootParent**:: 20342
+**UnitTitle**:: O novo quartel dos Bombeiros Voluntários de Famalicão será modelar no seu género
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-04-30
+**UnitDateFinal**:: 1961-04-30
+**ScopeContent**:: Recorte do Jornal de Notícias.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24791
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 12 - cx. 3
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24791

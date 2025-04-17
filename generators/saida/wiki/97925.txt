@@ -1,0 +1,15 @@
+====== 97925 - UI - Processo nº 628-B ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 628-B
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-04-11
+**UnitDateFinal**:: 1978-11-03
+**ScopeContent**:: Junto com Autos de Transgressão nº 628 e Autos de Execução por Custas nº 628-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 644 - cx. 36
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97925

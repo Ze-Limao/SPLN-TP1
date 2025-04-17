@@ -1,0 +1,17 @@
+====== 79762 - DC - Cartas de Alexandre 1877 e outros annos ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: Cartas de Alexandre 1877 e outros annos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868
+**UnitDateFinal**:: 1878
+**ScopeContent**:: Papel do maço com título manuscrito. Contém cartas CP 12306 a CP 12319.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56820
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12305 - cx. 71
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79762

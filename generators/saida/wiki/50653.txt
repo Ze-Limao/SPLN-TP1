@@ -1,0 +1,18 @@
+====== 50653 - DC - Registo do recenseamento militar de António Ribeiro ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-05-04
+**UnitDateFinal**:: 1863-05-04
+**ScopeContent**:: Data de nascimento - 
+Filiação - 
+Naturalidade - Cavalões
+Profissão - Criado de servir
+Residência - Louro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50653
+**LangMaterial**:: Português
+**PhysLoc**:: 101v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50653

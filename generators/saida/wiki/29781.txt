@@ -1,0 +1,16 @@
+====== 29781 - DC - Carta ======
+
+**Parent**:: 21309
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927-06-17
+**UnitDateFinal**:: 1927-06-17
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Dr. A.C. Ferreira de Castro...R. da Boavista, 418 Porto."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29781
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1190 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29781

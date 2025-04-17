@@ -1,0 +1,15 @@
+====== 80205 - UI - Processo nº 2-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 2-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-05-05
+**UnitDateFinal**:: 1972-05-31
+**ScopeContent**:: Junto com Autos de Acção de Processo Comum nº 2.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 102 - cx. 6
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80205

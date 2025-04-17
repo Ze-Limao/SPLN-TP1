@@ -1,0 +1,17 @@
+====== 57488 - DC - Relatório do Conselho de Administração e Parecer do Conselho Fiscal referentes ao ano de 1928 da Companhia de Caminhos de Ferro do Norte de Portugal ======
+
+**Parent**:: 57397
+**RootParent**:: 31258
+**UnitTitle**:: Relatório do Conselho de Administração e Parecer do Conselho Fiscal referentes ao ano de 1928 da Companhia de Caminhos de Ferro do Norte de Portugal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929
+**UnitDateFinal**:: 1929
+**ScopeContent**:: Livro impresso em Lisboa, na Gráfica Ldt, nº 41. Tem assinatura do Visconde de Pindela no canto superior direito. Só tem digital a capa e folha de rosto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57488
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2866 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57488

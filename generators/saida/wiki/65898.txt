@@ -1,0 +1,15 @@
+====== 65898 - DC - Emprazamento casal da Vila, situado na freguesia de S. Tiago de Antas, feito por Pedro da Silva, abade de S. Tiago de Antas, a João Pires e a sua mulher Isabel Álvares ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento casal da Vila, situado na freguesia de S. Tiago de Antas, feito por Pedro da Silva, abade de S. Tiago de Antas, a João Pires e a sua mulher Isabel Álvares
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1512
+**UnitDateFinal**:: 1580
+**ScopeContent**:: Manuscrito, original. Nota manuscrita no verso "Prazo da Villa - Hoje de Manoel J. Ferrª Araújo". Sem datação. Cópia?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 610 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65898

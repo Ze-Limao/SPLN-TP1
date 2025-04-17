@@ -1,0 +1,15 @@
+====== 65645 - DC - Dote e património de António da Costa Moreira, clérigo in minoribus, morador na freguesia de Mouquim ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Dote e património de António da Costa Moreira, clérigo in minoribus, morador na freguesia de Mouquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1777-08-07
+**UnitDateFinal**:: 1777-08-07
+**ScopeContent**:: Manuscrito, instrumento, sem capa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 186 - cx. 9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65645

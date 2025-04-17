@@ -1,0 +1,16 @@
+====== 23092 - DC - Carta ======
+
+**Parent**:: 20335
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1956
+**ScopeContent**:: Alberto de Gusmão Navarro informa que não sabe das duas famílias só com um escudo de armas. Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23092
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 17 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23092

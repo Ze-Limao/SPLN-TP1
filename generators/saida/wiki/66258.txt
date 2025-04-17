@@ -1,0 +1,15 @@
+====== 66258 - DC - Documentos sobre a instituição de premissas das bulas concedidas a favor do Doutor João Soares de Brito da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 63976
+**RootParent**:: 60536
+**UnitTitle**:: Documentos sobre a instituição de premissas das bulas concedidas a favor do Doutor João Soares de Brito da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1644-06-21
+**UnitDateFinal**:: 1651-03-12
+**ScopeContent**:: Manuscrito, original, sem capa. Contém 12 documentos entre 1644 a 1651.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 422 -  cx. 20
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66258

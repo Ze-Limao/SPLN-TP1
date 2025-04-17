@@ -1,0 +1,19 @@
+====== 63728 - DC - Registo do recenseamento militar de Domingos ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Francisco da Rocha e Joaquina Rosa
+Naturalidade - Brufe
+Morada - Ignora-se
+Data de nascimento - 1866-07-23
+Emprego - Ignora-se
+Estado - Ignora-se
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63728

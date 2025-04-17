@@ -1,0 +1,16 @@
+====== 25048 - UI - Funerais ======
+
+**Parent**:: 20376
+**RootParent**:: 20342
+**UnitTitle**:: Funerais
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-01-16
+**UnitDateFinal**:: 1982-09-19
+**ScopeContent**:: Contém: Saídas dos carros para funerais, data e hora, kms percorridos, nomes dos falecidos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25048
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 150
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25048

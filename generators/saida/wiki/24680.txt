@@ -1,0 +1,16 @@
+====== 24680 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-08-09
+**UnitDateFinal**:: 1904-08-09
+**ScopeContent**:: António Ferraz congratula-se por JAM ter fugido ao intenso calor de Famalicão para a praia e dá notícias da saúde da mãe. Pergunta pelos contactos com José Caldas que será um erudito publicita e pede para ver a possibilidade de obter informações sobre João Velho que vivia em Viana em 1463. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24680
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 182 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24680

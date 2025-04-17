@@ -1,0 +1,19 @@
+====== 34264 - DC - Registo do recenseamento militar de Domingos Gonçalves ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Gondifelos
+Data de nascimento - 1852-02-04
+Filiação - Manuel Gonçalves e Felicidade Veloso de Araújo
+Profissão - Lavoura
+Estado - Solteiro
+Morada - Gondifelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34264
+**LangMaterial**:: Português
+**PhysLoc**:: 82v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34264

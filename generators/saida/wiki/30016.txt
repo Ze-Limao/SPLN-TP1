@@ -1,0 +1,14 @@
+====== 30016 - DC - Jorge Ferreira de Aguiar ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Jorge Ferreira de Aguiar
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1955-01-25
+**UnitDateFinal**:: 1955-01-25
+**ScopeContent**:: Regedor efetivo da freguesia de Cavalões
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30016
+**LangMaterial**:: Português
+**PhysLoc**:: f. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30016

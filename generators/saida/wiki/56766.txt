@@ -1,0 +1,13 @@
+====== 56766 - UI - Assinaturas não legíveis e sem assinatura ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Assinaturas não legíveis e sem assinatura
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56766
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56766
+
+===== Filhos =====
+  * [[56767.txt|56767 - DC - Carta]]
+  * [[79124.txt|79124 - DC - Telegrama]]

@@ -1,0 +1,16 @@
+====== 25608 - DC - Carta ======
+
+**Parent**:: 21158
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-12-24
+**UnitDateFinal**:: 1884-12-24
+**ScopeContent**:: Carta manuscrita assinada, de Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25608
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 560 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25608

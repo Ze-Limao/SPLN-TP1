@@ -1,0 +1,16 @@
+====== 25928 - DC - Retrato de conjunto do Corpo Ativo na inauguração da ambulância DA-64-85 ======
+
+**Parent**:: 25320
+**RootParent**:: 20342
+**UnitTitle**:: Retrato de conjunto do Corpo Ativo na inauguração da ambulância DA-64-85
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1968-06-23
+**UnitDateFinal**:: 1968-06-23
+**ScopeContent**:: Retrato com o Comandante Soares.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25928
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 189 - cx. 52
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25928

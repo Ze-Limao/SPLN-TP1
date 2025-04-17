@@ -1,0 +1,18 @@
+====== 100146 - UI - Álbum de Fotografias ======
+
+**Parent**:: 99411
+**RootParent**:: 60695
+**UnitTitle**:: Álbum de Fotografias
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1876
+**UnitDateFinal**:: 1914
+**ScopeContent**:: Fotografias tiradas entre 1876-1914, retratando a vivência da família "Sousa Cristino" e dos que desfrutaram da sua companhia, tanto nos afazeres e praticas quotidianas como em ambiente de festa e outras fotografias noutros locais (Brasil).
+O álbum tem 43 folhas sem fotografias.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99376
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 536/1 a 536/68 - cx. 14
+Depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100146

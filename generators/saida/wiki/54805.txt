@@ -1,0 +1,17 @@
+====== 54805 - DC - Lista das pessoas a quem se deu parte do ajuste de casamento ======
+
+**Parent**:: 54476
+**RootParent**:: 31258
+**UnitTitle**:: Lista das pessoas a quem se deu parte do ajuste de casamento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889
+**UnitDateFinal**:: 1889
+**ScopeContent**:: Este documento pertençe ao maço "Casamento dos 2ºs Viscondes de Pindela, 1889". Contém CP 6199 a CP 6240.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54805
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6237 - cx. 43
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54805

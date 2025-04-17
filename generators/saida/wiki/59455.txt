@@ -1,0 +1,17 @@
+====== 59455 - DC - Chemins de Fer de Paris a Lyon a la Mediteranée: mesures prises pour la compagnie des Chemins de Fer de Paris à Lyon et à la Méditerranée en faveur de l´Agriculture ======
+
+**Parent**:: 31346
+**RootParent**:: 31258
+**UnitTitle**:: Chemins de Fer de Paris a Lyon a la Mediteranée: mesures prises pour la compagnie des Chemins de Fer de Paris à Lyon et à la Méditerranée en faveur de l´Agriculture
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1927-12
+**UnitDateFinal**:: 1927-12
+**ScopeContent**:: Folhas datilografadas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57680
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 2904 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=59455

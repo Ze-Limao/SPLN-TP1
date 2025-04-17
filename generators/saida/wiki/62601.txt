@@ -1,0 +1,20 @@
+====== 62601 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Zeferino Rodrigues e Ana Maria, na freguesia
+Naturalidade - Requião
+Morada - 
+Data de nascimento - 1857-01-18
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 62v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62601

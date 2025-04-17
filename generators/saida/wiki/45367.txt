@@ -1,0 +1,18 @@
+====== 45367 - UI - Teresa Maria de Meneses Pereira da Cunha ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Teresa Maria de Meneses Pereira da Cunha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-04-18
+**UnitDateFinal**:: 1918-04-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45367
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45367
+
+===== Filhos =====
+  * [[45366.txt|45366 - DC - Carta]]

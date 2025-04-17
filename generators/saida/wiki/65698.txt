@@ -1,0 +1,15 @@
+====== 65698 - DC - Emprazamento do casal das Cortinhas, situado na freguesia de S. Tiago de Antas, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, metade a João Afonso e sua mulher Maria Gonçalves e outra metade a Helena, filha de António Anes ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal das Cortinhas, situado na freguesia de S. Tiago de Antas, feita por Pero Jorge da Silva, abade da Igreja de S. Tiago de Antas, metade a João Afonso e sua mulher Maria Gonçalves e outra metade a Helena, filha de António Anes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1571-07-18
+**UnitDateFinal**:: 1571-07-18
+**ScopeContent**:: Manuscrito, original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 67 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65698

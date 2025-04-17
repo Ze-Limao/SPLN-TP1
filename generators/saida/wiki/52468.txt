@@ -1,0 +1,17 @@
+====== 52468 - DC - Registo do recenseamento militar de Bernardo de Faria ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardo de Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-04-05
+Filiação - Gaspar de Faria e Sabina Dias Ribeiro
+Naturalidade - Castelões
+Profissão - Criado de servir
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52468
+**LangMaterial**:: Português
+**PhysLoc**:: 14v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52468

@@ -1,0 +1,14 @@
+====== 56762 - UI - Comissão de Senhoras do Porto ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Senhoras do Porto
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1932-03-02
+**UnitDateFinal**:: 1932-03-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56762
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56762
+
+===== Filhos =====
+  * [[56763.txt|56763 - DC - Circular]]

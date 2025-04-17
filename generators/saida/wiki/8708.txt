@@ -1,0 +1,18 @@
+====== 8708 - DC - Joaquim da Silva Ramos ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim da Silva Ramos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-20
+**UnitDateFinal**:: 1890-08-20
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - João de Deus
+Naturalidade - Vila Nova de Famalicão
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8708
+**LangMaterial**:: Português
+**PhysLoc**:: f. 11
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8708

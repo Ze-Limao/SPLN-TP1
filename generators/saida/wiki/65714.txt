@@ -1,0 +1,15 @@
+====== 65714 - DC - Sentença cível da relação de Braga a favor do autor Jerónimo de Oliveira Carvalho, abade da Igreja de S. Tiago de Antas, que acusava o réu Leandro Gomes Correia, abade de Lousado, aproveitando-se da ausência do autor ter retirado a divisória entre duas propriedades, situadas na freguesia de Antas, pertencentes a um e a outro e de ter entrado nas terras do autor ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível da relação de Braga a favor do autor Jerónimo de Oliveira Carvalho, abade da Igreja de S. Tiago de Antas, que acusava o réu Leandro Gomes Correia, abade de Lousado, aproveitando-se da ausência do autor ter retirado a divisória entre duas propriedades, situadas na freguesia de Antas, pertencentes a um e a outro e de ter entrado nas terras do autor
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1719-02-10
+**UnitDateFinal**:: 1719-02-13
+**ScopeContent**:: Manuscrito, original, com capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 146 - cx. 6
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65714

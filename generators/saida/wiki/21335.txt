@@ -1,0 +1,16 @@
+====== 21335 - UI - António de Queirós Pereira Pimenta de Lacerda ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António de Queirós Pereira Pimenta de Lacerda
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-09-18
+**UnitDateFinal**:: 1915-09-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21335
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1231
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21335
+
+===== Filhos =====
+  * [[29822.txt|29822 - DC - Carta]]

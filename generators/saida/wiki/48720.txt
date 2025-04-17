@@ -1,0 +1,17 @@
+====== 48720 - UI - Instituto Bacteriológico Câmara Pestana ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Instituto Bacteriológico Câmara Pestana
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48720
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48720
+
+===== Filhos =====
+  * [[48721.txt|48721 - DC - Carta]]
+  * [[48722.txt|48722 - DC - Carta]]

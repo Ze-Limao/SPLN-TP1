@@ -1,0 +1,65 @@
+====== 53746 - SR - Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Arquitectura ======
+
+**Parent**:: 25851
+**RootParent**:: 25851
+**UnitTitle**:: Projeto do Novo Edifício dos Paços de Concelho, Tribunal, etc. - Arquitectura
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1950
+**UnitDateFinal**:: 1959-05
+**ScopeContent**:: Série constituída por peças escritas em folhas A4 e peças desenhadas em folhas de grandes formatos. Encontram-se em falta os documentos: 2 - Planta da Cave e Alicerces; 4 - Planta do 3º Piso 5 - Planta dos Arquivos Gerais 4º Piso; Esta série constitui o projeto base do Edifício da Câmara Municipal de Vila Nova de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53746
+**LangMaterial**:: Português
+**PhysLoc**:: JG
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53746
+
+===== Filhos =====
+  * [[53781.txt|53781 - DC - Projecto do novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc.. - Peças Desenhadas 1954]]
+  * [[53782.txt|53782 - DC - Projecto da Câmara Municipal de Famalicão - Índice - Peças desenhadas 1954]]
+  * [[53783.txt|53783 - DC - Projecto da Câmara Municipal de Famalicão - Planta Geral - 1]]
+  * [[53784.txt|53784 - DC - Projecto da Câmara Municipal de Famalicão - Planta Geral - 1]]
+  * [[53785.txt|53785 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 1º Piso - Aditamento - 2]]
+  * [[53786.txt|53786 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 2º Piso - 3]]
+  * [[53787.txt|53787 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 2º Piso - 3]]
+  * [[53788.txt|53788 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 2º Piso - 3]]
+  * [[53789.txt|53789 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 2º Piso - 3]]
+  * [[53790.txt|53790 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso - 4]]
+  * [[53791.txt|53791 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso - 2º Aditamento - 4]]
+  * [[53792.txt|53792 - DC - Projecto da Câmara Municipal de Famalicão - Fachada Principal - 6]]
+  * [[53793.txt|53793 - DC - Projecto da Câmara Municipal de Famalicão - Fachada Principal - Aditamento - 6 A]]
+  * [[53794.txt|53794 - DC - Projecto da Câmara Municipal de Famalicão - Fachada Lateral Norte - 7]]
+  * [[53795.txt|53795 - DC - Projecto da Câmara Municipal de Famalicão - Fachada Posterior - 8]]
+  * [[53796.txt|53796 - DC - Projecto da Câmara Municipal de Famalicão - Fachada Lateral Sul - 9]]
+  * [[53797.txt|53797 - DC - Projecto da Câmara Municipal de Famalicão - Fachada Corte do Tribunal - 10]]
+  * [[53798.txt|53798 - DC - Projecto da Câmara Municipal de Famalicão - Corte Longitudinal A-B - 11]]
+  * [[53799.txt|53799 - DC - Projecto da Câmara Municipal de Famalicão - Corte Transversal C-D - 12]]
+  * [[53802.txt|53802 - DC - Projecto da Câmara Municipal de Famalicão - Corte Longitudinal E-F - 13]]
+  * [[53803.txt|53803 - DC - Projecto da Câmara Municipal de Famalicão - Corte Transversal G-H - 14]]
+  * [[53804.txt|53804 - DC - Projecto da Câmara Municipal de Famalicão - Pormenores de Cantaria - 15]]
+  * [[53805.txt|53805 - DC - Projecto da Câmara Municipal de Famalicão - Pormenor das portas interiores envidraçadas e almofadadas - 16]]
+  * [[53806.txt|53806 - DC - Projecto da Câmara Municipal de Famalicão - Pormenores da Caixilharia - 17]]
+  * [[53807.txt|53807 - DC - Projecto da Câmara Municipal de Famalicão - Pormenores da Escada e do Tecto do Salão Nobre - 18]]
+  * [[53808.txt|53808 - DC - Projecto da Câmara Municipal de Famalicão - Planta Geral 1E]]
+  * [[53809.txt|53809 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 1º Piso 2E]]
+  * [[53810.txt|53810 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 2º Piso 3E]]
+  * [[53811.txt|53811 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso 4E]]
+  * [[53812.txt|53812 - DC - Projecto da Câmara Municipal de Famalicão - Planta dos Arquivos gerais e cobertura 5E]]
+  * [[53813.txt|53813 - DC - Projecto da Câmara Municipal de Famalicão - Corte Transversal G-H 14E]]
+  * [[53814.txt|53814 - DC - Esquema Geral da Instalação da Câmara Municipal]]
+  * [[53815.txt|53815 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 1º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas 2]]
+  * [[53816.txt|53816 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 1º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas 2]]
+  * [[53817.txt|53817 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 1º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas 2]]
+  * [[53818.txt|53818 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 1º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas 2A]]
+  * [[53819.txt|53819 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 1º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas 2A]]
+  * [[53820.txt|53820 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 2º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas - 3]]
+  * [[53821.txt|53821 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 2º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas - 3]]
+  * [[53822.txt|53822 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 2º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas - 3A]]
+  * [[53823.txt|53823 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 2º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas - 3A]]
+  * [[53824.txt|53824 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas - 4]]
+  * [[53825.txt|53825 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas - 4]]
+  * [[53826.txt|53826 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas - 4A]]
+  * [[53827.txt|53827 - DC - Projecto da Câmara Municipal de Famalicão - Planta do 3º Piso - Esquema do Aquecimento Central e Rede de Abastecimento de Águas - 4A]]
+  * [[53828.txt|53828 - DC - Vila Nova de Famalicão Esquema da Rêde de distribuição de água rectificada de acordo com as alterações superiormente aprovadas]]
+  * [[53829.txt|53829 - DC - Pasta de Januário Godinho C.M.F. Jardim-Luz-Água]]

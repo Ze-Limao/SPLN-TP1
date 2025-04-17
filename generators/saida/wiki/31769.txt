@@ -1,0 +1,17 @@
+====== 31769 - DC - Carta para Viscondes ======
+
+**Parent**:: 31765
+**RootParent**:: 31258
+**UnitTitle**:: Carta para Viscondes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-08-28
+**UnitDateFinal**:: 1900-08-28
+**ScopeContent**:: Carta manuscrita assinada de Matilde e enteados João e Vicente, de Cascais. Esta carta pertence ao maço "1900". Papel timbrado com desenho da Casa de Cascais.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31769
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3163 - cx. 25
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31769

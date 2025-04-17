@@ -1,0 +1,17 @@
+====== 99057 - DC - Testamento de Cecília Cardoso, filha de Francisco Cardoso e de Francisca Machado, de Lisboa no convento de Almoster, termo da vila de Santarém, sobrinha de Manuel Machado da Fonseca, prior de S. Cristovão em Lisboa ======
+
+**Parent**:: 54463
+**RootParent**:: 31258
+**UnitTitle**:: Testamento de Cecília Cardoso, filha de Francisco Cardoso e de Francisca Machado, de Lisboa no convento de Almoster, termo da vila de Santarém, sobrinha de Manuel Machado da Fonseca, prior de S. Cristovão em Lisboa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1592-05-20
+**UnitDateFinal**:: 1592-05-20
+**ScopeContent**:: Manuscrito com folhas cosidas numa "Pasta nº 2 Cazal nº 1 V". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 13108 a CP 13142.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31266
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13122 - cx. 86
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99057

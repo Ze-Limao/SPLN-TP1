@@ -1,0 +1,17 @@
+====== 31555 - DC - Carta ======
+
+**Parent**:: 31554
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-06-28
+**UnitDateFinal**:: 1917-06-28
+**ScopeContent**:: Carta manuscrita assinada. Minuta de carta de resposta datada de 1917-06-29.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31555
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2031 - cx. 14
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31555

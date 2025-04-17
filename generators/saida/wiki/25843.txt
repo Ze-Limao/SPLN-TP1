@@ -1,0 +1,16 @@
+====== 25843 - DC - Declaração de adjudicação das empreitadas de construção do Quartel-Sede dos Bombeiros Voluntários de Vila Nova de Famalicão ======
+
+**Parent**:: 24775
+**RootParent**:: 20342
+**UnitTitle**:: Declaração de adjudicação das empreitadas de construção do Quartel-Sede dos Bombeiros Voluntários de Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1988-12-02
+**UnitDateFinal**:: 1988-12-02
+**ScopeContent**:: A declaração, assinada no Porto por Agostinho Silva (Presidente da Direcção da Associação Humanitária dos Bombeiros Voluntários de Vila Nova de Famalicão) com data de 2 de Dezembro de 1988, informa que a Associação dos Bombeiros Voluntários de Vila Nova de Famalicão adjudicou à Firma NORGESTE CONSTRUÇÕES LDA., com sede na Rua Capitão Pombeiro, Porto, a empreitada da construção do quartel e sede dos Bombeiros Voluntários de Vila Nova de Famalicão, por o valor de 95 000 contos, acrescidos de IVA. Refere ainda que a decisão de adjudicar a esta firma se deveu à «sua capacidade técnica e idoneidade».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25843
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 34 - cx. 8
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25843

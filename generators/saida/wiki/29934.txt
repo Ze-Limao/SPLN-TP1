@@ -1,0 +1,15 @@
+====== 29934 - DC - Referências bibliográficas ======
+
+**Parent**:: 28665
+**RootParent**:: 27963
+**UnitTitle**:: Referências bibliográficas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29934
+**LangMaterial**:: Português
+**PhysLoc**:: AS 118 (13) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29934

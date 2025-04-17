@@ -1,0 +1,14 @@
+====== 20228 - UI - Registo de correspondência recebida ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1887-11-29
+**UnitDateFinal**:: 1890-11-29
+**ScopeContent**:: Termo de abertura: Contém dados: nº de entrada, data de entrada, qualidade, data da correspondência, por quem expedida, assunto, destino dado à correspondência recebida. Inicia com o registo nº 274 até ao registo nº 303. No ano 1888 tem 166 registos, em 1899 tem 98 registos  e em 1890 tem 70 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20228
+**LangMaterial**:: Português
+**PhysLoc**:: A15-332
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20228

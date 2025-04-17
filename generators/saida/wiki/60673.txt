@@ -1,0 +1,17 @@
+====== 60673 - SSC - Contabilidade ======
+
+**Parent**:: 60672
+**RootParent**:: 60671
+**UnitTitle**:: Contabilidade
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1854-09-13
+**UnitDateFinal**:: 1876-10-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60669
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60673
+
+===== Filhos =====
+  * [[60674.txt|60674 - DC - Livro de Recibos da Junta de Paróquia]]
+  * [[98831.txt|98831 - DC - Orçamento de receita e despesa da Junta de Parochia de S. Thiago de Antas]]
+  * [[98832.txt|98832 - DC - Liquidação dos foros e laudemios]]
+  * [[98833.txt|98833 - DC - Dívida de azeite]]

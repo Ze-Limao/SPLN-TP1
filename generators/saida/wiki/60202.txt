@@ -1,0 +1,16 @@
+====== 60202 - DC - Processo ======
+
+**Parent**:: 60200
+**RootParent**:: 31258
+**UnitTitle**:: Processo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1926
+**UnitDateFinal**:: 1926
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57358
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14813 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60202

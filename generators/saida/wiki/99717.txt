@@ -1,0 +1,17 @@
+====== 99717 - DC - Exposição Industrial Portuguesa promovida pelo Real Centro Portuguez de Santos ======
+
+**Parent**:: 99382
+**RootParent**:: 60695
+**UnitTitle**:: Exposição Industrial Portuguesa promovida pelo Real Centro Portuguez de Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1905
+**ScopeContent**:: Catálogo impresso em Santos (Brasil), na Typographia Imprensa Popular, 1904.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99390
+**LangMaterial**:: Português
+**PhysLoc**:: CSC 214 - cx. 6
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99717

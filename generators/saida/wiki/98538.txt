@@ -1,0 +1,17 @@
+====== 98538 - DC - Advertencias para se executar o manejo das Armas de infantrª e algumas evoluçoens da mesma ======
+
+**Parent**:: 54470
+**RootParent**:: 31258
+**UnitTitle**:: Advertencias para se executar o manejo das Armas de infantrª e algumas evoluçoens da mesma
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1739
+**UnitDateFinal**:: 1765
+**ScopeContent**:: Manuscrito com folhas cosidas sem datação. Na capa tem nota "Pertence ao melitar: he do Vicente Pinheiro quando leva o ferial de guarda". Este documento estava na “Caixa 4”, que contém CP 12559 a CP 12976.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12994 - cx. 82
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98538

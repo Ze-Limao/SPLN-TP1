@@ -1,0 +1,14 @@
+====== 31403 - UI - Adelaide Brito do Rio Abreu ======
+
+**Parent**:: 31337
+**RootParent**:: 31258
+**UnitTitle**:: Adelaide Brito do Rio Abreu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1922-04-18
+**UnitDateFinal**:: 1922-04-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31403
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31403
+
+===== Filhos =====
+  * [[31404.txt|31404 - DC - Cartão de visita]]

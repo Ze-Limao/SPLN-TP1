@@ -1,0 +1,16 @@
+====== 24902 - DC - Carta ======
+
+**Parent**:: 21096
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-11-05
+**UnitDateFinal**:: 1918-11-05
+**ScopeContent**:: Carta manuscrita assinada, de R. do Sol de Santa Catarina, 42 A, 2º esq., Lisboa. Papel timbrado da Biblioteca Pública da Figueira da Foz e riscado. A carta é o próprio envelope que está carimbado e selado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24902
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 337 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24902

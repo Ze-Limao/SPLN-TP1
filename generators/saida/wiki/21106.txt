@@ -1,0 +1,21 @@
+====== 21106 - UI - Duarte Huet de Bacelar Sotto Mayor Pinto Guedes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Duarte Huet de Bacelar Sotto Mayor Pinto Guedes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1882
+**UnitDateFinal**:: 1917-01-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21106
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 354, 355, 356, 357, 358
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21106
+
+===== Filhos =====
+  * [[25374.txt|25374 - DC - Carta]]
+  * [[25375.txt|25375 - DC - Carta]]
+  * [[25376.txt|25376 - DC - Carta]]
+  * [[25377.txt|25377 - DC - Carta]]
+  * [[25378.txt|25378 - DC - Carta]]

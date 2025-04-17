@@ -1,0 +1,14 @@
+====== 29145 - SSR - Albano Caldeira Pinto de Albuquerque ======
+
+**Parent**:: 29144
+**RootParent**:: 27963
+**UnitTitle**:: Albano Caldeira Pinto de Albuquerque
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 186
+**UnitDateFinal**:: 186
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29145
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29145
+
+===== Filhos =====
+  * [[29146.txt|29146 - DC - Carta]]

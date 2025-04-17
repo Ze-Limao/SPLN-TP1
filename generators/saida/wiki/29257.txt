@@ -1,0 +1,15 @@
+====== 29257 - DC - Material pulverizante que mandei para Capela em 1899 ======
+
+**Parent**:: 29254
+**RootParent**:: 27963
+**UnitTitle**:: Material pulverizante que mandei para Capela em 1899
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899
+**UnitDateFinal**:: 1899
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29257
+**LangMaterial**:: Português
+**PhysLoc**:: AS 369 (4) - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29257

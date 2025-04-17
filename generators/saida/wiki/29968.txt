@@ -1,0 +1,16 @@
+====== 29968 - DC - Carta ======
+
+**Parent**:: 21362
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-11
+**UnitDateFinal**:: 1892-11
+**ScopeContent**:: Carta manuscrita assinada, do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29968
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1298 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29968

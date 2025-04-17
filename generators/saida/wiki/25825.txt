@@ -1,0 +1,19 @@
+====== 25825 - DC - Os Bombeiros Voluntários de Famalicão vão ter um novo quartel ======
+
+**Parent**:: 24753
+**RootParent**:: 20342
+**UnitTitle**:: Os Bombeiros Voluntários de Famalicão vão ter um novo quartel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-07-27
+**UnitDateFinal**:: 1958-07-27
+**ScopeContent**:: Recorte do Estrela do Minho.
+Transcrição:
+"...Os Bombeiros Voluntários de Famalicão vão ter um novo quartel
+Feita uma visita ao quartel e Associação dos Bombeiros, o diretor da Escola Industrial, Sr. Engenheiro Manuel A. de Oliveira Duarte, foi de parecer que ele serviria admiravelmente para o fim em vista e comunicado o facto à respetiva vereação Municipal, através do seu digno vice-presidente, deliberou esta adquirir por compra o edifício daquela Corporação e Associação. / Para tratar de tão importante assunto, a Direção dos Bombeiros convocou uma Assembleia Geral extraordinária que terá lugar no próximo dia 30, a quem apresentará o seu ponto de vista: vender o seu imóvel e adquirir terreno, possivelmente junto do projetado novo Cinema, para ali fazer erguer imediatamente o seu novo quartel e sede associativa...»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25825
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 12  - cx. 3
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25825

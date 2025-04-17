@@ -1,0 +1,22 @@
+====== 28423 - DC - Notas sobre propriedade ======
+
+**Parent**:: 28381
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre propriedade
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28423
+**LangMaterial**:: Português
+**PhysLoc**:: AS 61 (1) a 61 (6)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28423
+
+===== Filhos =====
+  * [[28424.txt|28424 - DC - Propriedade Extensão, maneira de ?, etc.”]]
+  * [[29868.txt|29868 - DC - Classificação das águas]]
+  * [[29869.txt|29869 - DC - Ano de 1886]]
+  * [[29870.txt|29870 - DC - Desenho com medições de campo]]
+  * [[29871.txt|29871 - DC - Desenho com medições de campo]]
+  * [[29872.txt|29872 - DC - Casal de Dentro - Boamense]]

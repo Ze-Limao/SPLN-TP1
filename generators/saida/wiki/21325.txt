@@ -1,0 +1,16 @@
+====== 21325 - UI - António Mendonça ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Mendonça
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1901-06-04
+**UnitDateFinal**:: 1901-06-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21325
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1218
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21325
+
+===== Filhos =====
+  * [[29809.txt|29809 - DC - Cópia de cartas]]

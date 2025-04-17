@@ -1,0 +1,17 @@
+====== 7662 - UI - Livro de Actas da Câmara Municipal Nº 19 ======
+
+**Parent**:: 7654
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Actas da Câmara Municipal Nº 19
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1884-03-01
+**UnitDateFinal**:: 1885-08-08
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7662
+**LangMaterial**:: Português
+**PhysLoc**:: CMVNF 11
+depósito 2, estante 18
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7662

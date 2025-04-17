@@ -1,0 +1,15 @@
+====== 31455 - UI - Isabel da Câmara Aranha ======
+
+**Parent**:: 31447
+**RootParent**:: 31258
+**UnitTitle**:: Isabel da Câmara Aranha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885
+**UnitDateFinal**:: 1885-01-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31455
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31455
+
+===== Filhos =====
+  * [[31456.txt|31456 - DC - Telegrama]]
+  * [[52392.txt|52392 - DC - Bilhete-postal]]

@@ -1,0 +1,17 @@
+====== 98895 - DC - Escritura de licença para tirar uma mina de água que pedem Domingos Gomes e mulher, de S. Tiago da Cruz, a João Machado de Melo ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Escritura de licença para tirar uma mina de água que pedem Domingos Gomes e mulher, de S. Tiago da Cruz, a João Machado de Melo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1831-10-12
+**UnitDateFinal**:: 1831-10-12
+**ScopeContent**:: Manuscrito com folhas cosidas em papel timbrado "Causa publica 20 reis", na "Pasta nº 2 Cazal nº 1 O". Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 13108 a CP 13142.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54475
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13119 - cx. 85
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98895

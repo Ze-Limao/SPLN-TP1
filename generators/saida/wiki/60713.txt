@@ -1,0 +1,15 @@
+====== 60713 - DC - Emprazamento de um casal, situado na freguesia de S. Julião do Calendário, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, a Gonçalo Dias de Fontelo e a sua mulher Maria Pais ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento de um casal, situado na freguesia de S. Julião do Calendário, feita por Diogo Afonso, abade da Igreja de S. Tiago de Antas, a Gonçalo Dias de Fontelo e a sua mulher Maria Pais
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1503-03-09
+**UnitDateFinal**:: 1503-03-09
+**ScopeContent**:: Manuscrito, original. Ilegível.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 14 - cx. P10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60713

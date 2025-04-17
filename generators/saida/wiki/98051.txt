@@ -1,0 +1,15 @@
+====== 98051 - UI - Processo nº 406 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 406
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-07-10
+**UnitDateFinal**:: 1984-11-08
+**ScopeContent**:: Junto com Autos de Transgressão nº 407, Autos de Reclamação de Créditos nº 89-A e Auto de Execução por Custas nº 89.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 717 - cx. 39
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98051

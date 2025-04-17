@@ -1,0 +1,16 @@
+====== 21329 - UI - António Nunes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Nunes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21329
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1222
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21329
+
+===== Filhos =====
+  * [[29813.txt|29813 - DC - Carta]]

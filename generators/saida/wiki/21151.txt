@@ -1,0 +1,18 @@
+====== 21151 - UI - João Caetano da Silva Campos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Caetano da Silva Campos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1921-05-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21151
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 528, 529
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21151
+
+===== Filhos =====
+  * [[25575.txt|25575 - DC - Carta]]
+  * [[25576.txt|25576 - DC - Ofício]]

@@ -1,0 +1,16 @@
+====== 20399 - SSR - Relatórios ======
+
+**Parent**:: 20361
+**RootParent**:: 20342
+**UnitTitle**:: Relatórios
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1932
+**UnitDateFinal**:: 1962
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20399
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20399
+
+===== Filhos =====
+  * [[24996.txt|24996 - UI - Relatórios e contas do Conselho Administrativo e Técnico da Liga dos Bombeiros Portugueses e de outras corporações]]

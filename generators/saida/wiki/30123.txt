@@ -1,0 +1,14 @@
+====== 30123 - DC - Joaquim Machado Pontes ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Machado Pontes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-11-18
+**UnitDateFinal**:: 1974-11-18
+**ScopeContent**:: Regedor efetivo da freguesia de Bairro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30123
+**LangMaterial**:: Português
+**PhysLoc**:: f. 62v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30123

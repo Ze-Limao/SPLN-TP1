@@ -1,0 +1,16 @@
+====== 29942 - DC - Bullettin des Nouveautés ======
+
+**Parent**:: 28290
+**RootParent**:: 27963
+**UnitTitle**:: Bullettin des Nouveautés
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-06
+**UnitDateFinal**:: 1895-06
+**ScopeContent**:: Impresso em Paris: G. Masson, Éditeur - Libraire de l’Académie de Médecine. Nº 113.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29942
+**LangMaterial**:: Francês
+**PhysLoc**:: As 148 (4)  - cx. 3
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29942

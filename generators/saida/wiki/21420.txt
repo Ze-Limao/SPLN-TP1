@@ -1,0 +1,16 @@
+====== 21420 - UI - J. Bernardino ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: J. Bernardino
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-03-15
+**UnitDateFinal**:: 1913-03-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21420
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1399
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21420
+
+===== Filhos =====
+  * [[30251.txt|30251 - DC - Carta]]

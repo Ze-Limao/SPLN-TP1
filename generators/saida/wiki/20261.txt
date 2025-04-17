@@ -1,0 +1,14 @@
+====== 20261 - UI - Registo de correspondência recebida nº35 ======
+
+**Parent**:: 20218
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº35
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-07-07
+**UnitDateFinal**:: 1969-11-15
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir este livro para nele se registar (manuscrito) correspondência recebida nesta Câmara Municipal…”. Contém dados: nº de ordem, nº e data do documento, data do registo, remetente ou signatário, natureza do documento e respectivo assunto, resolução, destino, observação. Inicia com o registo nº 3785 até ao registo nº 7926.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20261
+**LangMaterial**:: Português
+**PhysLoc**:: 654
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20261

@@ -1,0 +1,18 @@
+====== 45128 - UI - António Francisco da Costa ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Francisco da Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-02-23
+**UnitDateFinal**:: 1906-02-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45128
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45128
+
+===== Filhos =====
+  * [[45129.txt|45129 - DC - Carta]]

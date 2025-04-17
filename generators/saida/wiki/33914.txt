@@ -1,0 +1,22 @@
+====== 33914 - UI - José Ferrão Castelo Branco ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: José Ferrão Castelo Branco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1919-06-14
+**UnitDateFinal**:: 1920-01-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33914
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33914
+
+===== Filhos =====
+  * [[33915.txt|33915 - DC - Carta]]
+  * [[33916.txt|33916 - DC - Minuta de carta de Vicente Pinheiro]]
+  * [[33917.txt|33917 - DC - Cartão]]
+  * [[33918.txt|33918 - DC - Carta]]
+  * [[33919.txt|33919 - DC - Telegrama]]

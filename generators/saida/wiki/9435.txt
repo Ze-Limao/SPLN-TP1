@@ -1,0 +1,19 @@
+====== 9435 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Joaquim Gonçalves de Sá e Clementina Rosa da Costa
+Naturalidade - Fradelos
+Data de nascimento - 1877-09-10
+Profissão - Lavrador
+Estado civil - Solteiro
+Residência - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9435
+**LangMaterial**:: Português
+**PhysLoc**:: f. 31v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9435

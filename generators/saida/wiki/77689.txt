@@ -1,0 +1,17 @@
+====== 77689 - DC - Ordem de pagamento do Ministério da Fazenda, Direcção Geral da Thesouraria, Repartição Central ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Ordem de pagamento do Ministério da Fazenda, Direcção Geral da Thesouraria, Repartição Central
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902-08-26
+**UnitDateFinal**:: 1902-08-26
+**ScopeContent**:: Ordem de pagamento de ordenado de Agosto de 1902 a Visconde de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56728
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3904  - cx. 29
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77689

@@ -1,0 +1,27 @@
+====== 28762 - UI - Camilo Castelo Branco ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Camilo Castelo Branco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1868
+**UnitDateFinal**:: 1890
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28762
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28762
+
+===== Filhos =====
+  * [[28763.txt|28763 - DC - Carta]]
+  * [[29394.txt|29394 - DC - Carta]]
+  * [[29395.txt|29395 - DC - Carta]]
+  * [[29396.txt|29396 - DC - Carta]]
+  * [[29398.txt|29398 - DC - Carta]]
+  * [[29399.txt|29399 - DC - Carta]]
+  * [[29400.txt|29400 - DC - Carta]]
+  * [[29401.txt|29401 - DC - Carta]]
+  * [[29402.txt|29402 - DC - Carta]]
+  * [[29403.txt|29403 - DC - Carta]]
+  * [[29404.txt|29404 - DC - Carta]]
+  * [[29405.txt|29405 - DC - Carta]]
+  * [[29407.txt|29407 - DC - Carta]]
+  * [[97448.txt|97448 - DC - Carta]]

@@ -1,0 +1,20 @@
+====== 20358 - DC - Registo do recenseamento militar de Torcato ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Torcato
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Pedome
+Filiação - Manuel Mendes Pinto e Mariana Rosa
+Naturalidade - Pedome
+Data de nascimento - 1870-11-05
+Emprego - 
+Estado - Solteiro
+Residência - Ronfe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20358
+**LangMaterial**:: Português
+**PhysLoc**:: f. 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20358

@@ -1,0 +1,14 @@
+====== 9984 - DC - Registo do pagamento a António Ferreira Janga ======
+
+**Parent**:: 9923
+**RootParent**:: 7651
+**UnitTitle**:: Registo do pagamento a António Ferreira Janga
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-03-31
+**UnitDateFinal**:: 1882-03-31
+**ScopeContent**:: Ordenado de acendedor da iluminação pública da vila
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9984
+**LangMaterial**:: Português
+**PhysLoc**:: f. 6
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9984

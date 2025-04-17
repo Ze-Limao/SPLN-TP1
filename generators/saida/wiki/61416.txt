@@ -1,0 +1,16 @@
+====== 61416 - DC - Passport Diplomatique Le ministre des Affaires Etrangères de la République Portuguaise… a Daniel Rodrigues, ancien Ministre des Finances, Administrateur de la Caixa Geral dos Depósitos ======
+
+**Parent**:: 60926
+**RootParent**:: 60550
+**UnitTitle**:: Passport Diplomatique Le ministre des Affaires Etrangères de la République Portuguaise… a Daniel Rodrigues, ancien Ministre des Finances, Administrateur de la Caixa Geral dos Depósitos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-04-14
+**UnitDateFinal**:: 1927-05-20
+**ScopeContent**:: Passaporte diplomático.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 207 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61416

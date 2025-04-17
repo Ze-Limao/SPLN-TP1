@@ -1,0 +1,16 @@
+====== 24819 - DC - Carta ======
+
+**Parent**:: 21073
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-10-20
+**UnitDateFinal**:: 1916-10-20
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24819
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 255 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24819

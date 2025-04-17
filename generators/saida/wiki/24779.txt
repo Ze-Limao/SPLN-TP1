@@ -1,0 +1,16 @@
+====== 24779 - DC - Panfleto Noite de S. João ======
+
+**Parent**:: 24746
+**RootParent**:: 20342
+**UnitTitle**:: Panfleto Noite de S. João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1937-06-23
+**UnitDateFinal**:: 1937-06-23
+**ScopeContent**:: Panfleto que anuncia a inauguração da nova parada dos Bombeiros Voluntários de Famalicão com a apresentação dos melhores grupos corais do Norte.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24779
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 5 - cx. 1
+depósito 3, estante 11
+**AccessRestrict**:: Em regular estado de conservação.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24779

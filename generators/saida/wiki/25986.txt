@@ -1,0 +1,16 @@
+====== 25986 - DC - Carta para António Ferraz ======
+
+**Parent**:: 21200
+**RootParent**:: 20290
+**UnitTitle**:: Carta para António Ferraz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-07-29
+**UnitDateFinal**:: 1909-07-29
+**ScopeContent**:: Carta manuscrita assinada dirigida a António Ferraz, da Biblioteca Nacional Lisboa. José Leite de Vasconcelos esclarece o significado de Doneza e Paço.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25986
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 780 - cx. 8
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25986

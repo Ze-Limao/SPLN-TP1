@@ -1,0 +1,16 @@
+====== 25890 - DC - Desfile do corpo ativo no Largo do Terreiro ======
+
+**Parent**:: 25321
+**RootParent**:: 20342
+**UnitTitle**:: Desfile do corpo ativo no Largo do Terreiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1898
+**ScopeContent**:: Desfile do corpo ativo no Largo do Terreiro, atual Praça 9 de Abril.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25890
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25890

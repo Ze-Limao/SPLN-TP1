@@ -1,0 +1,15 @@
+====== 8006 - DC - Termo de António Luís Machado Guimarães ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António Luís Machado Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-01-16
+**UnitDateFinal**:: 1869-01-16
+**ScopeContent**:: Condução de água atravessando caminho público
+Local - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8006
+**LangMaterial**:: Português
+**PhysLoc**:: f. 29v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8006

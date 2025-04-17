@@ -1,0 +1,17 @@
+====== 99080 - DC - Procuração de Baltasar Pinheiro Lobo e mulher Maria Fagundes Portocarreiro, moradores na cidade de Braga, para administração do campo do Gordigo, em Sezures ======
+
+**Parent**:: 54465
+**RootParent**:: 31258
+**UnitTitle**:: Procuração de Baltasar Pinheiro Lobo e mulher Maria Fagundes Portocarreiro, moradores na cidade de Braga, para administração do campo do Gordigo, em Sezures
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1652-11-09
+**UnitDateFinal**:: 1652-11-09
+**ScopeContent**:: Manuscrito. Este documento estava na caixa “Pasta nº2 Anno 1841”, que contém CP 13108 a CP 13142. Junto com CP 13135A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13135 - cx. 86
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99080

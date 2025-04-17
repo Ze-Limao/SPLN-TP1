@@ -1,0 +1,16 @@
+====== 29350 - DC - Bilhete-postal de dez réis com D. Carlos. ======
+
+**Parent**:: 29153
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal de dez réis com D. Carlos.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Inteiro postal. Em filatelia denominam-se inteiros postais os «objetos postais que comportam um selo impresso oficialmente autorizado ou uma marca ou inscrição indicando que um determinado valor facial, referente a um serviço postal ou relacionado, foi previamente pago».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29350
+**LangMaterial**:: Português
+**PhysLoc**:: AS 243 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29350

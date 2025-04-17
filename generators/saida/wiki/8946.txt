@@ -1,0 +1,18 @@
+====== 8946 - DC - Termo do exame de Adelaide da Silva Marques ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Adelaide da Silva Marques
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-30
+**UnitDateFinal**:: 1894-07-30
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - Manuel José da Silva Marques
+Naturalidade - Lemenhe
+Classificação - Distinta
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8946
+**LangMaterial**:: Português
+**PhysLoc**:: f. 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8946

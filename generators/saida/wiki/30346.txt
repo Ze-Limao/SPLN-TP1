@@ -1,0 +1,16 @@
+====== 30346 - DC - Inquirições reais ao apelido Faria ======
+
+**Parent**:: 20336
+**RootParent**:: 20290
+**UnitTitle**:: Inquirições reais ao apelido Faria
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869
+**UnitDateFinal**:: 1938
+**ScopeContent**:: Apontamentos manuscritos da investigação efetuada por António Ferraz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30346
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1540 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30346

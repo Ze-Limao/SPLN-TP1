@@ -1,0 +1,16 @@
+====== 26152 - DC - Carta ======
+
+**Parent**:: 21230
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-07-18
+**UnitDateFinal**:: 1922-07-18
+**ScopeContent**:: Carta manuscrita assinada, da Rua da Bandeirinha, 76, Porto. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26152
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 947 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26152

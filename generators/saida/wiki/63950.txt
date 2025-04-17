@@ -1,0 +1,15 @@
+====== 63950 - UI - Livro da Confraria da freguesia de S. Tiago de Antas, dos anos de 1701-1738 ======
+
+**Parent**:: 63949
+**RootParent**:: 60536
+**UnitTitle**:: Livro da Confraria da freguesia de S. Tiago de Antas, dos anos de 1701-1738
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1701
+**UnitDateFinal**:: 1739
+**ScopeContent**:: Manuscrito, original, encadernado a pele. Na capa título a lápis "Livro de contas e de condenações por abuso na freguesia de S. Thiago d´Antas 1701". Datas no interior do documento de 1701 a 1739-10-16. No inventário o título "Livro da Confraria do Subsino".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 134 - cx. 5
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63950

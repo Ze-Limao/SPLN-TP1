@@ -1,0 +1,17 @@
+====== 57251 - DC - Comissão de Viticultura. Archivo especial. Minha atitude depois que sahi da C. Executiva. Indigna atitude do Gaspar Couto e do Azevedo para com o pessoal após a minha sahida ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Archivo especial. Minha atitude depois que sahi da C. Executiva. Indigna atitude do Gaspar Couto e do Azevedo para com o pessoal após a minha sahida
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1933-02-16
+**UnitDateFinal**:: 1934-11-26
+**ScopeContent**:: Capa da Comissão de Viticultura da Região dos Vinhos Verdes com 8 documentos manuscritos: Memorandum; notas; ofícios; contra-fé, ordenados em dívida datilografados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57251
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9518 - cx. 59
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57251

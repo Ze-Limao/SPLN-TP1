@@ -1,0 +1,21 @@
+====== 28063 - SSC - Atividade pessoal ======
+
+**Parent**:: 27965
+**RootParent**:: 27963
+**UnitTitle**:: Atividade pessoal
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1864
+**UnitDateFinal**:: 1909-03-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28063
+**LangMaterial**:: Português, Inglês
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28063
+
+===== Filhos =====
+  * [[28064.txt|28064 - SSSC - Correspondência]]
+  * [[29153.txt|29153 - SSSC - Atividades diversas]]
+  * [[29252.txt|29252 - SSSC - Gestão patrimonial]]
+  * [[29268.txt|29268 - SSSC - Preparação de aplicações diversas]]
+  * [[29317.txt|29317 - SSSC - Gestão financeira]]
+  * [[29327.txt|29327 - SSSC - Preparação de composições farmacêuticas e receitas médicas]]

@@ -1,0 +1,16 @@
+====== 26114 - DC - Carta ======
+
+**Parent**:: 21226
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-06-15
+**UnitDateFinal**:: 1921-06-15
+**ScopeContent**:: Luís de Magalhães agradece o livro Camilo Homenageado. Carta manuscrita assinada, de Quinta do Mosteiro, Moreira da Maia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26114
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 909 - cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26114

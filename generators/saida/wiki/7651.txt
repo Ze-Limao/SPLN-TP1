@@ -1,0 +1,29 @@
+====== 7651 - F - Câmara Municipal de Vila Nova de Famalicão ======
+
+**Parent**:: 0
+**RootParent**:: 7651
+**UnitTitle**:: Câmara Municipal de Vila Nova de Famalicão
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1685-09-13
+**UnitDateFinal**:: 2017-01-11
+**ScopeContent**:: Documentação produzida e acumulada, no âmbito das atividades e das competências de gestão autárquica exercidas pela Câmara Municipal de Vila Nova de Famalicão. 
+Consultar o Inventário do Fundo da Câmara Municipal (Histórico):
+https://www.arquivoalbertosampaio.org/
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7651
+**LangMaterial**:: Português
+**AccessRestrict**:: O acesso às instalações do Arquivo Municipal é livre e gratuito, para todos os cidadãos,
+bem como o acesso à documentação em formato digital, disponível no sítio web do arquivo. O acesso à sala de leitura, para consulta de documentação, efetua-se através de pedido, de forma presencial ou por agendamento prévio, mediante a apresentação de documento de identificação válido, sendo que a documentação com restrições de acesso e de utilização, por motivos legais, contratuais ou de conservação, está sujeita a acesso condicionado ou proibido.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7651
+
+===== Filhos =====
+  * [[53740.txt|53740 - SC - Obras Municipais]]
+  * [[7652.txt|7652 - SC - Órgãos do Município]]
+  * [[7691.txt|7691 - SC - Serviços Administrativos]]
+  * [[7697.txt|7697 - SC - Património]]
+  * [[7826.txt|7826 - SC - Serviços Financeiros]]
+  * [[7871.txt|7871 - SC - Eleições]]
+  * [[8105.txt|8105 - SC - Educação]]
+  * [[8967.txt|8967 - SC - Funções Militares]]
+  * [[98672.txt|98672 - SC - Cultura]]
+  * [[9914.txt|9914 - SC - Urbanismo]]

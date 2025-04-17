@@ -1,0 +1,15 @@
+====== 64167 - DC - Sentença apostólica pela qual se dá licença para dizer missa votiva de Nossa Senhora, nos dias santos e de defuntos, nos dias feriados, por espaço de três anos, dada a favor de Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 63976
+**RootParent**:: 60536
+**UnitTitle**:: Sentença apostólica pela qual se dá licença para dizer missa votiva de Nossa Senhora, nos dias santos e de defuntos, nos dias feriados, por espaço de três anos, dada a favor de Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1793-12-02
+**UnitDateFinal**:: 1793-12-02
+**ScopeContent**:: Manuscrito, original, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 219 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64167

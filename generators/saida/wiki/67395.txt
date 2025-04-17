@@ -1,0 +1,17 @@
+====== 67395 - DC - Cartão ======
+
+**Parent**:: 55129
+**RootParent**:: 31258
+**UnitTitle**:: Cartão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1909
+**ScopeContent**:: Cartão manuscrito por Morais Ferreira, em nome do Ministro. Papel timbrado "Ministro dos Negocios Estrangeiros Ecclesiasticos e de Justiça. Gabinete do Ministro."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55412
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2324 - cx. 16
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=67395

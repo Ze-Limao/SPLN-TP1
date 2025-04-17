@@ -1,0 +1,16 @@
+====== 60399 - UI - Teresa Maria Pinheiro de Melo ======
+
+**Parent**:: 31361
+**RootParent**:: 31258
+**UnitTitle**:: Teresa Maria Pinheiro de Melo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917
+**UnitDateFinal**:: 1930
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58770
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60399
+
+===== Filhos =====
+  * [[60400.txt|60400 - DC - Carta]]
+  * [[60401.txt|60401 - DC - Carta]]
+  * [[60402.txt|60402 - DC - Postal para Teresa]]

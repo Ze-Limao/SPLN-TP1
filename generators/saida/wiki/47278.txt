@@ -1,0 +1,18 @@
+====== 47278 - DC - Registo do recenseamento eleitoral de Francisco José Alves Barbosa ======
+
+**Parent**:: 7890
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Francisco José Alves Barbosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-04-15
+**UnitDateFinal**:: 1863-04-15
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Escrivão de Paz
+Estado - Casado
+Morada - Bandeira
+Idade - 71
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47278
+**LangMaterial**:: Português
+**PhysLoc**:: 74v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47278

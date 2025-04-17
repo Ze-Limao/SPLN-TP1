@@ -1,0 +1,16 @@
+====== 21359 - UI - Alberto de Monsaraz ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alberto de Monsaraz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914
+**UnitDateFinal**:: 1915
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21359
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1292
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21359
+
+===== Filhos =====
+  * [[30154.txt|30154 - DC - Carta]]

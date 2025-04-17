@@ -1,0 +1,44 @@
+====== 47060 - UI - Maria Joaquina de Saldanha da Gama ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria Joaquina de Saldanha da Gama
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD47060
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=47060
+
+===== Filhos =====
+  * [[47061.txt|47061 - DC - Carta]]
+  * [[47062.txt|47062 - DC - Carta]]
+  * [[47063.txt|47063 - DC - Carta]]
+  * [[47064.txt|47064 - DC - Carta]]
+  * [[47065.txt|47065 - DC - Carta]]
+  * [[47066.txt|47066 - DC - Carta]]
+  * [[47067.txt|47067 - DC - Carta]]
+  * [[47068.txt|47068 - DC - Carta]]
+  * [[47069.txt|47069 - DC - Carta]]
+  * [[47070.txt|47070 - DC - Carta]]
+  * [[47071.txt|47071 - DC - Carta]]
+  * [[47072.txt|47072 - DC - Carta]]
+  * [[47073.txt|47073 - DC - Carta]]
+  * [[47074.txt|47074 - DC - Carta]]
+  * [[47075.txt|47075 - DC - Carta]]
+  * [[47076.txt|47076 - DC - Carta]]
+  * [[47077.txt|47077 - DC - Carta]]
+  * [[47078.txt|47078 - DC - Carta]]
+  * [[47079.txt|47079 - DC - Carta]]
+  * [[47080.txt|47080 - DC - Carta]]
+  * [[47081.txt|47081 - DC - Carta]]
+  * [[47082.txt|47082 - DC - Carta]]
+  * [[47083.txt|47083 - DC - Carta]]
+  * [[47084.txt|47084 - DC - Carta]]
+  * [[47085.txt|47085 - DC - Carta]]
+  * [[47086.txt|47086 - DC - Carta]]
+  * [[47087.txt|47087 - DC - Carta]]
+  * [[47088.txt|47088 - DC - Carta]]
+  * [[47089.txt|47089 - DC - Carta]]

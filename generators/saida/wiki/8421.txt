@@ -1,0 +1,18 @@
+====== 8421 - DC - Termo do exame de Alexandre de Castro e Silva ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Alexandre de Castro e Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-05-02
+**UnitDateFinal**:: 1885-05-02
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - Jerónimo Francisco de Castro
+Naturalidade - Novais
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8421
+**LangMaterial**:: Português
+**PhysLoc**:: f. 18
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8421

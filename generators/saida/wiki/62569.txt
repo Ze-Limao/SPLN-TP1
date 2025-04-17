@@ -1,0 +1,20 @@
+====== 62569 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - José da Rocha e Inácia Maria, em Antas
+Naturalidade - Calendário
+Morada - 
+Data de nascimento - 1856-10-03
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 57
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62569

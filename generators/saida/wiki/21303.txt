@@ -1,0 +1,16 @@
+====== 21303 - UI - António Augusto de Azevedo e Silva ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Augusto de Azevedo e Silva
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1925-04-09
+**UnitDateFinal**:: 1925-04-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21303
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1185
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21303
+
+===== Filhos =====
+  * [[29776.txt|29776 - DC - Bilhete-postal]]

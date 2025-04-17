@@ -1,0 +1,16 @@
+====== 21049 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7708
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1951-06-30
+**UnitDateFinal**:: 1951-06-30
+**ScopeContent**:: Empreitada da obra de prolongamento da Rua Manuel Pinto de Sousa até à EN206. Segunda fase. Pavimentação
+Outorgante - Joaquim Tinoco Osório
+Toponímia - Rua S. João de Deus
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21049
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 65v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21049

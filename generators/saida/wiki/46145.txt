@@ -1,0 +1,25 @@
+====== 46145 - UI - Maria Folque ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Maria Folque
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-06-14
+**UnitDateFinal**:: 1913-06-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46145
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46145
+
+===== Filhos =====
+  * [[46146.txt|46146 - DC - Carta]]
+  * [[46147.txt|46147 - DC - Carta]]
+  * [[46148.txt|46148 - DC - Carta]]
+  * [[46149.txt|46149 - DC - Carta]]
+  * [[46155.txt|46155 - DC - Carta]]
+  * [[46156.txt|46156 - DC - Carta]]
+  * [[46157.txt|46157 - DC - Carta]]
+  * [[46158.txt|46158 - DC - Carta]]

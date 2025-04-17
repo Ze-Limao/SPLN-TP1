@@ -1,0 +1,16 @@
+====== 28141 - DC - Nota sobre o bastardo ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Nota sobre o bastardo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-09-12
+**UnitDateFinal**:: 1895-09-12
+**ScopeContent**:: Informação respeitante à vindima do bastardo.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28141
+**LangMaterial**:: Português
+**PhysLoc**:: AS 414 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28141

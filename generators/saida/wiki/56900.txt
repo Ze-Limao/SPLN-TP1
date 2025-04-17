@@ -1,0 +1,17 @@
+====== 56900 - DC - Comissão de Viticultura da Região dos Vinhos Verdes. Instruções para a Organização dos Serviços Concelhios ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura da Região dos Vinhos Verdes. Instruções para a Organização dos Serviços Concelhios
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929-09
+**UnitDateFinal**:: 1929-09
+**ScopeContent**:: Na 1º f.  título manuscrito a cores, 29 f.  datilografadas "Serviços Concelhios", da Comissão de Viticultura da Região dos Vinhos Verdes.assinado pelo Presidente Conde de Azevedo e pelo Vogal Visconde de Pindela.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56900
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2358 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56900

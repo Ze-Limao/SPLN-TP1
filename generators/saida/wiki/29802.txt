@@ -1,0 +1,16 @@
+====== 29802 - DC - Carta ======
+
+**Parent**:: 21321
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-06-17
+**UnitDateFinal**:: 1899-06-17
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado "Revista Agricola. Administrador e Director Dr. António Magalhães. Redacção e administração. Praça do Marques de Pombal, 111. Porto". O autor convida JAM a colaborar com a revista com artigos, mas JAM nunca publicou nesta revista.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29802
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1211 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29802

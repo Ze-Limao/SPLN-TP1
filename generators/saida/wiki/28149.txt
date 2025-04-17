@@ -1,0 +1,16 @@
+====== 28149 - DC - Densidades ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Densidades
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-08-28
+**UnitDateFinal**:: 1899-08-30
+**ScopeContent**:: Valores de densidade (Gleuco-oenometro Cadet de Vaux) do mosto de diversas castas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28149
+**LangMaterial**:: Português
+**PhysLoc**:: AS 422- cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28149

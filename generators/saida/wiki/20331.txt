@@ -1,0 +1,14 @@
+====== 20331 - UI - Correspondência recebida ======
+
+**Parent**:: 20223
+**RootParent**:: 7651
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1952-07-31
+**UnitDateFinal**:: 1952-09-30
+**ScopeContent**:: Ofícios de entidades coletivas e particulares  (julho 1 ofício; agosto 86 ofícios; setembro 90 ofícios)
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20331
+**LangMaterial**:: Português
+**PhysLoc**:: 4084
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20331

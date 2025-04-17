@@ -1,0 +1,15 @@
+====== 20234 - UI - Registo de correspondência recebida nº6 ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº6
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1951-09-17
+**UnitDateFinal**:: 1953-09-10
+**ScopeContent**:: Termo de abertura impresso: “Há de servir êste livro para se registar a correspondência recebida nesta Câmara Municipal”.
+Contém dados: nº de entrada, data de entrada, qualidade, nº da correspondência, data da correspondência, por quem expedida, assunto, destino dado à correspondência recebida, nº do ofício de resposta se o tem. Inicia com o registo nº 1020 ao registo nº 1296. O ano 1952 tem 1584 registos, o ano 1953 tem 1038 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20234
+**LangMaterial**:: Português
+**PhysLoc**:: 578
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20234

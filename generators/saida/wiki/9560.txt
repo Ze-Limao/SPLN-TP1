@@ -1,0 +1,19 @@
+====== 9560 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - António Gomes de Faria e Maria Moreira
+Naturalidade - Calendário
+Data de nascimento - 1877-10-15
+Profissão - 
+Estado civil - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9560
+**LangMaterial**:: Português
+**PhysLoc**:: f. 46v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9560

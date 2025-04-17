@@ -1,0 +1,15 @@
+====== 66929 - SSR - Minutas de telegramas ======
+
+**Parent**:: 66928
+**RootParent**:: 31258
+**UnitTitle**:: Minutas de telegramas
+**DescriptionLevel**:: SSR
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD66929
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66929
+
+===== Filhos =====
+  * [[66930.txt|66930 - DC - Minuta de telegrama]]
+  * [[66931.txt|66931 - DC - Minuta de telegrama]]
+  * [[66932.txt|66932 - DC - Minuta de telegrama]]
+  * [[66943.txt|66943 - DC - Minutas de telegramas]]

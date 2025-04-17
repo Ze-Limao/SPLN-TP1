@@ -1,0 +1,20 @@
+====== 34319 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Abade de Vermoim
+Data de nascimento - 1852-12-24
+Filiação - João António Gomes do Couto e Rufina Rosa
+Profissão - 
+Estado - 
+Morada - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34319
+**LangMaterial**:: Português
+**PhysLoc**:: 96v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34319

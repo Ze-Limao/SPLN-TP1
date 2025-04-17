@@ -1,0 +1,17 @@
+====== 54138 - DC - O Século ======
+
+**Parent**:: 54176
+**RootParent**:: 25851
+**UnitTitle**:: O Século
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-04-05
+**UnitDateFinal**:: 1958-04-05
+**ScopeContent**:: Jornal incompleto. Contém publicação do Edital concurso público para instalação de aquecimento central do Edifício para Paços de Concelho, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54138
+**LangMaterial**:: Português
+**PhysLoc**:: JG 173(8) - cx. 6
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54138

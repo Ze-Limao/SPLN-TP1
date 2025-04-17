@@ -1,0 +1,15 @@
+====== 65891 - DC - Emprazamento de metade do casal de Prazins, situado na freguesia de Avidos, feito por Manuel Botelho Pereira, abade de S. Tiago de Antas, a Maria Gomes e ao seu marido ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento de metade do casal de Prazins, situado na freguesia de Avidos, feito por Manuel Botelho Pereira, abade de S. Tiago de Antas, a Maria Gomes e ao seu marido
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1693
+**UnitDateFinal**:: 1693
+**ScopeContent**:: Manuscrito, original, em papel azul pautado, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 604 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65891

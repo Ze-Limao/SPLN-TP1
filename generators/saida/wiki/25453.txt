@@ -1,0 +1,16 @@
+====== 25453 - DC - Notícias de Famalicão ======
+
+**Parent**:: 25080
+**RootParent**:: 20342
+**UnitTitle**:: Notícias de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-09-30
+**UnitDateFinal**:: 1966-09-30
+**ScopeContent**:: Ano XII (XXXI), nº 555 (1368). Artigos sobre a inauguração do Quartel dos B.V. de Famalicão; Festivas inaugurações com a presença do Ministro do Interior; Confraternização de Bombeiros, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25453
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 178 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25453

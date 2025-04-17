@@ -1,0 +1,25 @@
+====== 27968 - SF - Alberto Sampaio (1841-1908) ======
+
+**Parent**:: 27963
+**RootParent**:: 27963
+**UnitTitle**:: Alberto Sampaio (1841-1908)
+**DescriptionLevel**:: SF
+**UnitDateInitial**:: 1855
+**UnitDateFinal**:: 1941
+**ScopeContent**:: Alberto Sampaio nasceu em Guimarães, a 15 de novembro de 1841. Matriculou-se na Faculdade de Direito da Universidade de Coimbra, concluindo o bacharelato em 1863. Durante os cinco anos que passou na Lusa Atenas - onde conviveu com algumas figuras notáveis da sua geração, entre as quais Antero de Quental, José Falcão, Teófilo Braga, Manuel de Arriaga, António de Azevedo Castelo Branco e Alberto Teles -, foi um ativo participante das correntes de renovação que agitaram a sociedade estudantil coimbrã, intervindo como colaborador e redator de várias publicações académicas. Recém-diplomado, procurou iniciar uma carreira de advogado em Lisboa, tentativa que a inadaptação à vida cosmopolita da capital frustrou, trazendo-o de regresso ao Minho, à Quinta de Boamense, propriedade dos seus pais, situada na freguesia de Cabeçudos, concelho de Vila Nova de Famalicão. 
+Em 1869, integrou a filial de Guimarães da Associação Arqueológica de Lisboa e, quatro anos mais tarde, o núcleo de fundadores da Companhia dos Banhos de Vizela. O seu nome está também ligado à fundação da Sociedade Martins Sarmento, a qual o distinguiu como sócio honorário em 1881. 
+Considerado, no seu tempo, um profundo conhecedor do mundo rural, especialmente no domínio da vitivinicultura, área em que a excelência dos vinhos verdes produzidos em Boamense foram internacionalmente premiados, os seus serviços de aconselhamento foram, por esse motivo, frequentemente solicitados. De entre eles, destaca-se pela sua importância, a extensa colaboração que, a pedido de Oliveira Martins, prestou na elaboração do Projeto de Lei de Fomento Rural, o qual, embora nunca tenha sido votado, seria por este apresentado na Câmara dos Deputados, em abril de 1887. 
+Antes disso, já Alberto Sampaio tinha publicado, em 1884, O Presente e o Futuro da Viticultura no Minho, o seu primeiro grande contributo para o conhecimento da economia rural do norte do país, e desempenhado, nesse mesmo ano, com assinalável brilho, as funções de diretor técnico da 1.ª Exposição Industrial de Guimarães. 
+No entanto, seria com As Vilas do Norte de Portugal e, mais tarde, As Póvoas Marítimas, duas obras-primas, das quais a última, sobre as origens da nossa aventura marítima, ficaria, infelizmente, inacabada, que Alberto Sampaio viria a revelar, em toda a plenitude, o seu excecional talento para a investigação histórica, afirmando-se como pioneiro da história económica em Portugal. Quer estes, quer outros trabalhos, foram publicados nalgumas das revistas de maior prestígio literário e científico da época, tais como a «Revista de Portugal», dirigida por Eça de Queirós, e a «Portugália», editada por Ricardo Severo e Rocha Peixoto. 
+Morreu na sua Casa de Boamense em 1 de dezembro de 1908. Em 1923, por iniciativa o seu grande amigo Luís de Magalhães, a Livraria Chardron Lello & Irmão publicou parte da sua obra sob o título Estudos Históricos e Económicos.
+Fonte: Faria, E. N.; Martins, A. org., introd., notas (2008). Cartas a Alberto Sampaio. Porto: Campo das Letras.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27968
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27968
+
+===== Filhos =====
+  * [[27964.txt|27964 - SC - Jovem (1858-01-01 a 1867-11-29)]]
+  * [[27965.txt|27965 - SC - Adulto (1867-11-30 a 1907-11-29)]]
+  * [[27966.txt|27966 - SC - Velhice (1907-11-30 a 1908-12-01)]]

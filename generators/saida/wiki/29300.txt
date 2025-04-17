@@ -1,0 +1,17 @@
+====== 29300 - DC - Obtenção do microrganismo mycoderma aceti ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Obtenção do microrganismo mycoderma aceti
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Composição: vinho, água, ácido acético ou vinagre. O mycoderma aceti é um microrganismo que fabrica uma enzima capaz de catalizar soluções alcoólicas, principalmente o vinho, produzindo uma solução aquosa de ácido acético denominada vinagre.
+Fonte: Wikipédia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29300
+**LangMaterial**:: Português
+**PhysLoc**:: AS 207 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29300

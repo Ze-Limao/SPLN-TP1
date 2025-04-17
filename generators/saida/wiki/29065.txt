@@ -1,0 +1,16 @@
+====== 29065 - DC - Rascunho de carta ======
+
+**Parent**:: 29064
+**RootParent**:: 27963
+**UnitTitle**:: Rascunho de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-06
+**UnitDateFinal**:: 1906-06
+**ScopeContent**:: Rascunho de carta sem data. Junto à carta recebida AS 669.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29065
+**LangMaterial**:: Português
+**PhysLoc**:: AS 670 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29065

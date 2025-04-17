@@ -1,0 +1,19 @@
+====== 66779 - UI - A. de Morais ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: A. de Morais
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56730
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66779
+
+===== Filhos =====
+  * [[66778.txt|66778 - DC - Vicente Arnoso]]
+  * [[66780.txt|66780 - DC - Minuta de carta de Visconde de Pindela]]
+  * [[66782.txt|66782 - DC - Nota]]
+  * [[66783.txt|66783 - DC - Vicente Arnoso]]

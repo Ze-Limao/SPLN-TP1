@@ -1,0 +1,17 @@
+====== 56908 - DC - Comissão de Viticultura. Archivo Especial. "Memorandum" referindo a minha sahida da C. executiva e sua razão de ser. Nº 1 ======
+
+**Parent**:: 56907
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Archivo Especial. "Memorandum" referindo a minha sahida da C. executiva e sua razão de ser. Nº 1
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933
+**UnitDateFinal**:: 1934-01
+**ScopeContent**:: Capa com título manuscrito. 4 Folhas de título manuscrito a cores, 3 cópias datilografadas do "Minha saihda da Comissão Executiva da C.V.R.V.V. memorandum", de 9 f., assinados Visconde de Pindela com data 1934-01.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56908
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2672 - cx. 21
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56908

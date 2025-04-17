@@ -1,0 +1,16 @@
+====== 54226 - DC - Correspondência recebida e enviada do Ministério da Justiça e Câmara Municipal sobre as casas para os magistrados da comarca ======
+
+**Parent**:: 53753
+**RootParent**:: 25851
+**UnitTitle**:: Correspondência recebida e enviada do Ministério da Justiça e Câmara Municipal sobre as casas para os magistrados da comarca
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-08-31
+**UnitDateFinal**:: 1962-11-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54226
+**LangMaterial**:: Português
+**PhysLoc**:: JG 180(13) - cx. 13
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54226

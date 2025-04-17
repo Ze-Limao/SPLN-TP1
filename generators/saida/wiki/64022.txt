@@ -1,0 +1,15 @@
+====== 64022 - DC - Recibo de Leonardo José Rodrigues de Carvalho ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de Leonardo José Rodrigues de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1872-10-11
+**UnitDateFinal**:: 1872-10-11
+**ScopeContent**:: Manuscrito em papel azul. Recibo de cera passado à da Junta da Paróquia de S.Tiago de Antas
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 342 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64022

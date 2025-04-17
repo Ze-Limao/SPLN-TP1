@@ -1,0 +1,18 @@
+====== 52653 - DC - Registo do recenseamento militar de Joaquim de Sousa ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-10-18
+Filiação - José de Sousa Taregas e Rosa Carneiro
+Naturalidade - Vilarinho das Cambas
+Profissão - Criado de servir
+Residência - Calendário
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52653
+**LangMaterial**:: Português
+**PhysLoc**:: 44v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52653

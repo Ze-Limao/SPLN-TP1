@@ -1,0 +1,15 @@
+====== 60677 - SR - Registo das Conciliações ======
+
+**Parent**:: 60542
+**RootParent**:: 60542
+**UnitTitle**:: Registo das Conciliações
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1834
+**UnitDateFinal**:: 1836
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60675
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60677
+
+===== Filhos =====
+  * [[60946.txt|60946 - DC - Livro de Conciliaçoens para a Freguezia de S.ta Maria de Oliveira para o Anno 1834 e de 1835]]
+  * [[61364.txt|61364 - DC - Registo de Conciliaçoens para a freg.ª de Santa Maria d´Oliveira]]

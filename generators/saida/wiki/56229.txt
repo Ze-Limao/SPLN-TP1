@@ -1,0 +1,41 @@
+====== 56229 - DC - Questão dos supostos bastardos avós dos tais Pindela do Porto ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Questão dos supostos bastardos avós dos tais Pindela do Porto
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1903
+**UnitDateFinal**:: 1903
+**ScopeContent**:: Envelope que contém carta do Abade de Tagilde (João Gomes de Oliveira Guimarães, 29-12-1853/Tagilde 20-4-1912) e de João Santiago (João Santiago de Carvalho e Sousa?). Contém CP 13309 a CP 13331. Este documento estava na “Caixa 18”, que contém CP 13256 a CP 13368.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56229
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13309 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56229
+
+===== Filhos =====
+  * [[56228.txt|56228 - DC - Carta do Abade de Tagilde]]
+  * [[56230.txt|56230 - DC - Carta do Abade de Tagilde]]
+  * [[56231.txt|56231 - DC - Envelope com 17 cartas de João Santiago]]
+  * [[56232.txt|56232 - DC - Carta de João Santiago]]
+  * [[56233.txt|56233 - DC - Carta de João Santiago]]
+  * [[56234.txt|56234 - DC - Carta de João Santiago]]
+  * [[56235.txt|56235 - DC - Carta de João Santiago]]
+  * [[56236.txt|56236 - DC - Carta de João Santiago]]
+  * [[56237.txt|56237 - DC - Carta de João Santiago]]
+  * [[56238.txt|56238 - DC - Carta de João Santiago]]
+  * [[56239.txt|56239 - DC - Carta de João Santiago]]
+  * [[56240.txt|56240 - DC - Carta de João Santiago]]
+  * [[56241.txt|56241 - DC - Carta de João Santiago]]
+  * [[56242.txt|56242 - DC - Carta de João Santiago]]
+  * [[56243.txt|56243 - DC - Carta de João Santiago]]
+  * [[56244.txt|56244 - DC - Carta de João Santiago]]
+  * [[56245.txt|56245 - DC - Carta de João Santiago]]
+  * [[56246.txt|56246 - DC - Carta de João Santiago]]
+  * [[56247.txt|56247 - DC - Carta de João Santiago]]
+  * [[56248.txt|56248 - DC - Carta de João Santiago]]
+  * [[56249.txt|56249 - DC - Carta de João Santiago]]
+  * [[56250.txt|56250 - DC - Carta de João Santiago]]

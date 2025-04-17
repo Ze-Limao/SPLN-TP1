@@ -1,0 +1,16 @@
+====== 26177 - DC - Carta ======
+
+**Parent**:: 21245
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1918-01-02
+**UnitDateFinal**:: 1918-01-02
+**ScopeContent**:: Matias Lima solicita uma reprodução da pintura do retrato de Camilo pelo pintor José de Brito para fazer uma gravura e publicar numa obra sobre poetas. Carta manuscrita assinada, da R. Alexandre Herculano, 241 Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD26177
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 973- cx. 10
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=26177

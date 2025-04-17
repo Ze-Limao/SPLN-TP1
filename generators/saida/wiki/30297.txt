@@ -1,0 +1,17 @@
+====== 30297 - DC - Carta de Branca de Gonta Colaço ======
+
+**Parent**:: 21453
+**RootParent**:: 20290
+**UnitTitle**:: Carta de Branca de Gonta Colaço
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-09-09
+**UnitDateFinal**:: 1922-09-09
+**ScopeContent**:: A mulher de Jorge Colaço refere que enviou para o Museu Camilo Castelo Branco o retrato de azulejos, porque o marido encontra-se em Tânger. Informa que considera muito o livro "Camilo Homenageado" e deseja enviar para o museu o seu livro "Auto dos faroleiros" e as "Cartas de Camilo Branco a Tomás Ribeiro".
+Carta manuscrita incompleta sem assinatura, de Estrada da Luz, 8 (Laranjeiras), Lisboa. A carta foi escrita por Branca de Gonta Colaço, referência indireta na carta.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30297
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1456 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30297

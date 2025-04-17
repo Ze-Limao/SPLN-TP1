@@ -1,0 +1,15 @@
+====== 8060 - DC - Termo de Francisco Inácio de Aguiar Pimenta Carneiro ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Francisco Inácio de Aguiar Pimenta Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-07-10
+**UnitDateFinal**:: 1878-07-10
+**ScopeContent**:: Vedação de terreno e mudança de um caminho público
+Local - Vermoim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8060
+**LangMaterial**:: Português
+**PhysLoc**:: f. 32
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8060

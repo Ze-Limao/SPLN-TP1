@@ -1,0 +1,15 @@
+====== 65731 - DC - Emprazamento das terras que o Pero Rodrigues trazia por doação que lhe fez Madalena Gonçalves e que tinham saído do casal João António da Portela de Baixo, situado na freguesia de S. Tiago de Antas, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, a Pero Rodrigues e a sua mulher Madalena João ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento das terras que o Pero Rodrigues trazia por doação que lhe fez Madalena Gonçalves e que tinham saído do casal João António da Portela de Baixo, situado na freguesia de S. Tiago de Antas, feita por Manuel Botelho Pereira, abade da Igreja de S. Tiago de Antas, a Pero Rodrigues e a sua mulher Madalena João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1670-06-15
+**UnitDateFinal**:: 1670-06-15
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 107 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65731

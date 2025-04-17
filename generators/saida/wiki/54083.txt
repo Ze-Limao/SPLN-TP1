@@ -1,0 +1,17 @@
+====== 54083 - DC - Empreitada geral de fornecimento e assentamento de candeeiros e lâmpadas… Câmara Municipal de Famalicão ======
+
+**Parent**:: 54079
+**RootParent**:: 25851
+**UnitTitle**:: Empreitada geral de fornecimento e assentamento de candeeiros e lâmpadas… Câmara Municipal de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-03
+**UnitDateFinal**:: 1961-03
+**ScopeContent**:: Original. Assinado pelo arquiteto Januário Godinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54083
+**LangMaterial**:: Português
+**PhysLoc**:: JG 167(4) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54083

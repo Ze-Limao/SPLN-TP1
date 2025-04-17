@@ -1,0 +1,29 @@
+====== 55919 - DC - Maço Cartas d´El Rei D. Fernando ao Duque Ernesto de Saxe-Coburgo ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço Cartas d´El Rei D. Fernando ao Duque Ernesto de Saxe-Coburgo
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1905
+**UnitDateFinal**:: 1905
+**ScopeContent**:: Maço de cópia de cartas. Contém CP 14528 a CP 14537.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55919
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14527 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55919
+
+===== Filhos =====
+  * [[55920.txt|55920 - DC - Cópia de telegrama de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55921.txt|55921 - DC - Cópia de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55922.txt|55922 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55923.txt|55923 - DC - Carta]]
+  * [[55924.txt|55924 - DC - Cópia de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55925.txt|55925 - DC - Cópia de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55926.txt|55926 - DC - Carta de Condessa d´Edla]]
+  * [[55927.txt|55927 - DC - Carta de Condessa d´Edla]]
+  * [[55928.txt|55928 - DC - Carta de Condessa d´Edla]]
+  * [[55929.txt|55929 - DC - Carta de Condessa d´Edla]]

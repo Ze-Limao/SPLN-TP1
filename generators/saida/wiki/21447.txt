@@ -1,0 +1,17 @@
+====== 21447 - UI - Joaquim Leitão ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim Leitão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-08-02
+**UnitDateFinal**:: 1915-07-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21447
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1440, 1441
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21447
+
+===== Filhos =====
+  * [[30281.txt|30281 - DC - Carta]]
+  * [[30289.txt|30289 - DC - Carta]]

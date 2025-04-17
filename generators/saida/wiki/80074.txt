@@ -1,0 +1,37 @@
+====== 80074 - SR - Autos de Embargos ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Embargos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1969-05-16
+**UnitDateFinal**:: 1985-11-20
+**ScopeContent**:: Contém Embargos de Executado e Embargos de Terceiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80074
+
+===== Filhos =====
+  * [[80075.txt|80075 - UI - Processo nº 114-A/69]]
+  * [[80467.txt|80467 - UI - Processo nº 43/A]]
+  * [[80487.txt|80487 - UI - Processo nº 253-A]]
+  * [[80498.txt|80498 - UI - Processo nº 85-A]]
+  * [[80541.txt|80541 - UI - Processo nº 210]]
+  * [[80557.txt|80557 - UI - Processo nº 322-A]]
+  * [[80561.txt|80561 - UI - Processo nº 23-A]]
+  * [[80565.txt|80565 - UI - Processo nº 119-A]]
+  * [[80568.txt|80568 - UI - Processo nº 97-A]]
+  * [[80575.txt|80575 - UI - Processo nº 119-A]]
+  * [[80577.txt|80577 - UI - Processo nº 263-A/75]]
+  * [[80592.txt|80592 - UI - Processo nº 25-A]]
+  * [[80608.txt|80608 - UI - Processo nº 135-A]]
+  * [[80612.txt|80612 - UI - Processo nº 143-A]]
+  * [[80635.txt|80635 - UI - Processo nº 30/80]]
+  * [[80652.txt|80652 - UI - Processo nº 2]]
+  * [[80664.txt|80664 - UI - Processo nº 39-A]]
+  * [[97708.txt|97708 - UI - Processo nº 407-B]]
+  * [[97831.txt|97831 - UI - Processo nº 40-C]]
+  * [[97928.txt|97928 - UI - Processo nº 709-D]]
+  * [[97929.txt|97929 - UI - Processo nº 709-C]]
+  * [[98106.txt|98106 - UI - Processo nº 429-B]]
+  * [[98121.txt|98121 - UI - Processo nº 324-A]]

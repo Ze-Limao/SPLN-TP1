@@ -1,0 +1,17 @@
+====== 78360 - DC - Escrito de venda de 4 uveiras no campo da Estivada sito na freguesia de S. Lourenço de Goães, de Custódio de Freitas para Ana Maria Isabel de Melo ======
+
+**Parent**:: 54471
+**RootParent**:: 31258
+**UnitTitle**:: Escrito de venda de 4 uveiras no campo da Estivada sito na freguesia de S. Lourenço de Goães, de Custódio de Freitas para Ana Maria Isabel de Melo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1775-01-11
+**UnitDateFinal**:: 1775-01-11
+**ScopeContent**:: Manuscrito, numerado nº9.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54271
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4976 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78360

@@ -1,0 +1,16 @@
+====== 29092 - DC - Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio ======
+
+**Parent**:: 29087
+**RootParent**:: 27963
+**UnitTitle**:: Carta que António Vicente Leal Sampaio recebeu de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-11-20
+**UnitDateFinal**:: 1906-11-20
+**ScopeContent**:: Carta expedida do Porto, Rua Formosa, 335, 2º. O fól. 2 tem o título "Recomendações".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29092
+**LangMaterial**:: Português
+**PhysLoc**:: AS 525 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29092

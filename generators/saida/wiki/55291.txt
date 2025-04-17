@@ -1,0 +1,17 @@
+====== 55291 - DC - Carta ======
+
+**Parent**:: 55115
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901
+**UnitDateFinal**:: 1901
+**ScopeContent**:: Carta manuscrita em papel timbrado "Ministerio dos Negocios Estrangeiros. Gabinete do Ministro. Particular", de Lisboa. Esta carta pertence ao maço "Correspondência com o Conselheiro J. Arroyo…".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55291
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12635 - cx. 75
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55291

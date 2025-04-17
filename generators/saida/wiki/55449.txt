@@ -1,0 +1,17 @@
+====== 55449 - DC - O cãozito da tia Anabela ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: O cãozito da tia Anabela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-10-26
+**UnitDateFinal**:: 1908-10-26
+**ScopeContent**:: Peça teatro em 1 acto, representada por João Afonso, Grácia e Júlia Leonor nos anos da avó, no dia 1908-10-26.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55449
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3437 - cx. 26
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55449

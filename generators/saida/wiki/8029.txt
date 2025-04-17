@@ -1,0 +1,15 @@
+====== 8029 - DC - Termo de Manuel José Moreira ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Manuel José Moreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1876-04-12
+**UnitDateFinal**:: 1876-04-12
+**ScopeContent**:: Construção de uma mina de água atravessando um caminho público
+Local - Arnoso Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8029
+**LangMaterial**:: Português
+**PhysLoc**:: f. 49
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8029

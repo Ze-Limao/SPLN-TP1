@@ -1,0 +1,12 @@
+====== 79163 - UI - Grémio dos Exportadores de Madeiras para Minas ======
+
+**Parent**:: 79084
+**RootParent**:: 31258
+**UnitTitle**:: Grémio dos Exportadores de Madeiras para Minas
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79085
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79163
+
+===== Filhos =====
+  * [[59550.txt|59550 - DC - Ofício do delegado do governo para Direcção do Grémio dos Exportadores de Madeiras para Minas]]

@@ -1,0 +1,76 @@
+====== 56002 - DC - Maço Sanatórios da Madeira ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Maço Sanatórios da Madeira
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Maço que contém cópia de cartas e telegramas e cartas do Luciano Monteiro, etc. Contém CP 14627 a 14686.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56002
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14626 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56002
+
+===== Filhos =====
+  * [[56003.txt|56003 - DC - Cópia de telegrama]]
+  * [[56004.txt|56004 - DC - Cópia de telegrama]]
+  * [[56005.txt|56005 - DC - Cópia de telegrama]]
+  * [[56006.txt|56006 - DC - Cópia de telegrama]]
+  * [[56007.txt|56007 - DC - Cópia de telegrama]]
+  * [[56008.txt|56008 - DC - Cópia de telegrama]]
+  * [[56009.txt|56009 - DC - Cópia de telegrama]]
+  * [[56010.txt|56010 - DC - Cópia de telegrama]]
+  * [[56011.txt|56011 - DC - Cópia de telegrama]]
+  * [[56012.txt|56012 - DC - Cópia de telegrama]]
+  * [[56013.txt|56013 - DC - Cópia de telegrama]]
+  * [[56014.txt|56014 - DC - Cópia de telegrama]]
+  * [[56015.txt|56015 - DC - Cópia de telegrama]]
+  * [[56016.txt|56016 - DC - Cópia de telegrama]]
+  * [[56017.txt|56017 - DC - Cópia de telegrama]]
+  * [[56018.txt|56018 - DC - Cópia de telegrama]]
+  * [[56019.txt|56019 - DC - Cópia de telegrama]]
+  * [[56020.txt|56020 - DC - Cópia de telegrama]]
+  * [[56021.txt|56021 - DC - Cópia de telegrama]]
+  * [[56022.txt|56022 - DC - Cópia de telegrama]]
+  * [[56023.txt|56023 - DC - Cópia de telegrama]]
+  * [[56024.txt|56024 - DC - Cópia de telegrama]]
+  * [[56025.txt|56025 - DC - Cópia de telegrama]]
+  * [[56026.txt|56026 - DC - Cópia de telegrama]]
+  * [[56027.txt|56027 - DC - Cópia de telegrama]]
+  * [[56028.txt|56028 - DC - Cópia de telegrama]]
+  * [[56029.txt|56029 - DC - Cópia de telegrama]]
+  * [[56030.txt|56030 - DC - Cópia de telegrama]]
+  * [[56031.txt|56031 - DC - Cópia de telegrama]]
+  * [[56032.txt|56032 - DC - Cópia de telegrama]]
+  * [[56033.txt|56033 - DC - Cópia de telegrama]]
+  * [[56034.txt|56034 - DC - Cópia de telegrama]]
+  * [[56035.txt|56035 - DC - Cópia de telegrama]]
+  * [[56036.txt|56036 - DC - Cópia de telegrama]]
+  * [[56037.txt|56037 - DC - Cópia de telegrama]]
+  * [[56038.txt|56038 - DC - Cópia de telegrama]]
+  * [[56039.txt|56039 - DC - Cópia de telegrama]]
+  * [[56040.txt|56040 - DC - Cópia de telegrama]]
+  * [[56041.txt|56041 - DC - Cópia de telegrama]]
+  * [[56042.txt|56042 - DC - Cópia de telegrama]]
+  * [[56043.txt|56043 - DC - Cópia de telegrama]]
+  * [[56044.txt|56044 - DC - Cópia de telegrama]]
+  * [[56048.txt|56048 - DC - Cópia de telegrama]]
+  * [[56049.txt|56049 - DC - Cópia de telegrama]]
+  * [[56050.txt|56050 - DC - Cópia de telegrama]]
+  * [[56051.txt|56051 - DC - Cópia de telegrama]]
+  * [[56052.txt|56052 - DC - Cópia de telegrama]]
+  * [[56053.txt|56053 - DC - Cópia de telegrama]]
+  * [[56054.txt|56054 - DC - Cópia de telegrama]]
+  * [[56055.txt|56055 - DC - Cópia de telegrama]]
+  * [[56056.txt|56056 - DC - Cópia de telegrama]]
+  * [[56057.txt|56057 - DC - Cópia de telegrama]]
+  * [[56058.txt|56058 - DC - Cópia de telegrama]]
+  * [[56059.txt|56059 - DC - Cópia de telegrama]]
+  * [[56060.txt|56060 - DC - Cópia de telegrama]]
+  * [[56061.txt|56061 - DC - Cópia de telegrama]]
+  * [[56062.txt|56062 - DC - Cópia de telegrama]]

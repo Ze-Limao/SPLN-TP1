@@ -1,0 +1,19 @@
+====== 62834 - DC - Registo do recenseamento militar de José ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - António da Costa Oliveira e Margarida Gomes de Oliveira, ele falecido e ela na freguesia
+Naturalidade - Nine
+Morada - Nine
+Data de nascimento - 1863-10-13
+Emprego - Jornaleiro
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 34v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62834

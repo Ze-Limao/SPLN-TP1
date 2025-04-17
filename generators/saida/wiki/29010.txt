@@ -1,0 +1,14 @@
+====== 29010 - UI - Augusto Arruda Quental ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: Augusto Arruda Quental
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-10-19
+**UnitDateFinal**:: 1891-10-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29010
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29010
+
+===== Filhos =====
+  * [[29011.txt|29011 - DC - Carta]]

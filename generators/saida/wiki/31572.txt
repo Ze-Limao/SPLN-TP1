@@ -1,0 +1,24 @@
+====== 31572 - UI - Adolfo Sampaio de Morais Pinto de Almeida ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Adolfo Sampaio de Morais Pinto de Almeida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900
+**UnitDateFinal**:: 1922
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31572
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31572
+
+===== Filhos =====
+  * [[31573.txt|31573 - DC - Cartão]]
+  * [[31574.txt|31574 - DC - Carta]]
+  * [[31575.txt|31575 - DC - Carta]]
+  * [[31576.txt|31576 - DC - Cartão de visita]]
+  * [[31577.txt|31577 - DC - Cartão]]
+  * [[31578.txt|31578 - DC - Cartão de visita]]
+  * [[66787.txt|66787 - DC - Envelope]]

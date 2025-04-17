@@ -1,0 +1,16 @@
+====== 29014 - DC - Carta ======
+
+**Parent**:: 29013
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906-08-03
+**UnitDateFinal**:: 1906-08-03
+**ScopeContent**:: Carta expedida de Lisboa. Papel timbrado "Ministerio das Obras Publicas, Commercio e Industria. Gabinete do Ministro."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29014
+**LangMaterial**:: Português
+**PhysLoc**:: AS 637 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29014

@@ -1,0 +1,17 @@
+====== 54434 - UI - Anselmo José Braamcamp ======
+
+**Parent**:: 31323
+**RootParent**:: 31258
+**UnitTitle**:: Anselmo José Braamcamp
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1885
+**UnitDateFinal**:: 1885
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54434
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54434
+
+===== Filhos =====
+  * [[32782.txt|32782 - DC - Carta]]
+  * [[32783.txt|32783 - DC - Carta]]
+  * [[32959.txt|32959 - DC - Carta]]
+  * [[32960.txt|32960 - DC - Carta]]

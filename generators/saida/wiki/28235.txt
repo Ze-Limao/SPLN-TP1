@@ -1,0 +1,17 @@
+====== 28235 - DC - Fomento rural, artigos escriptos por Antonio de Serpa Pimentel. ======
+
+**Parent**:: 28230
+**RootParent**:: 27963
+**UnitTitle**:: Fomento rural, artigos escriptos por Antonio de Serpa Pimentel.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887
+**UnitDateFinal**:: 1887
+**ScopeContent**:: Recortes do jornal «A Província» colados em folhas de papel, por sua vez cozidas com linha, formando assim um pequeno caderno. Na primeira página está colada uma tira de papel de jornal onde se lê: «Fomento rural». Por baixo da tira, Alberto Sampaio escreveu: «Artigos escritos por António de Serpa Pimentel; foram publicados no Jornal do Comércio, de Lisboa, no mês de Junho de 1887: transcritos na “Província”, n.os 131, 135 e 157 − III ano.»
+Numa nota à margem na p. 9, Alberto Sampaio escreveu: “Transcrito no n.º 157 da Província (18 Junho, 87)».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28235
+**LangMaterial**:: Português
+**PhysLoc**:: AS 514 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28235

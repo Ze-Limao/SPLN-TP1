@@ -1,0 +1,16 @@
+====== 20190 - UI - Registo de termos de fiança para uso de armas de caça nº2 ======
+
+**Parent**:: 20189
+**RootParent**:: 20048
+**UnitTitle**:: Registo de termos de fiança para uso de armas de caça nº2
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886-08-17
+**UnitDateFinal**:: 1888-09-05
+**ScopeContent**:: Termo de abertura “Tem de servir este livro para nelle se marcarem os termos de fiança ao uso de armas de caça”.
+Contém os termos nº27 a 55 (1886), nº1 a 44 (1887), nº 1 a 25 (1888).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20190
+**LangMaterial**:: Português
+**PhysLoc**:: AC 70
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20190

@@ -1,0 +1,17 @@
+====== 61751 - DC - Recital Cultural Choral Polifónico de Coimbra, etc. ======
+
+**Parent**:: 61452
+**RootParent**:: 60551
+**UnitTitle**:: Recital Cultural Choral Polifónico de Coimbra, etc.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1977-03-04
+**UnitDateFinal**:: 1978-02-18
+**ScopeContent**:: Maço compsto por vários folhetos: Recital Cultural Choral Polifónico de Coimbra e Recital Cultural pelo Grupo de plectro Carlos Seixas, 18 fevereiro 1978 na Comemoração 8º aniversário RCF; Recital Cultural 13 março 1977; CE para Fundação Cupertino 1977-04-03 do RCF; CR do Choral Poliphónico de Coimbra 1977-03-30 com fotocópia sobre o maestro do Coral; 2 Cartazes para o Recital Cultural do Choral Poliphónico de Coimbra 12 e 13 março 1977.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 420 - cx. 9
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61751

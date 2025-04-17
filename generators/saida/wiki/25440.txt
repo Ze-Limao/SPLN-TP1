@@ -1,0 +1,16 @@
+====== 25440 - DC - Minuta do ofício da AHBVF dirigido a Manoel Alves Correia de Araújo ======
+
+**Parent**:: 25082
+**RootParent**:: 20342
+**UnitTitle**:: Minuta do ofício da AHBVF dirigido a Manoel Alves Correia de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1943-11
+**UnitDateFinal**:: 1943-11
+**ScopeContent**:: Minuta do ofício agradecendo a presença nos vários atos das comemorações das Bodas de Ouro. Refere que Manoel Alves Correia de Araújo é o único sócio fundador vivo. Na mesma folha encontra-se minuta de outro ofício.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25440
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 180 - cx. 45
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25440

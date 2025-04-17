@@ -1,0 +1,15 @@
+====== 7996 - DC - Termo de Francisco Luís Ferreira Torres ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Francisco Luís Ferreira Torres
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1865-10-16
+**UnitDateFinal**:: 1865-10-16
+**ScopeContent**:: Expropriação de terreno no Campo da Feira
+Local - Vila Nova de Famalicão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7996
+**LangMaterial**:: Português
+**PhysLoc**:: f. 23v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7996

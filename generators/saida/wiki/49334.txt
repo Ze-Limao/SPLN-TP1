@@ -1,0 +1,18 @@
+====== 49334 - DC - Registo do recenseamento eleitoral de Manuel Alves da Costa ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Alves da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Sezures
+Profissão - Lavrador
+Estado - Casado
+Morada - Monte
+Idade - 44
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49334
+**LangMaterial**:: Português
+**PhysLoc**:: 77v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49334

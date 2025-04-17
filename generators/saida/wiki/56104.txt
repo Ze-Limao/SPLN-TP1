@@ -1,0 +1,17 @@
+====== 56104 - DC - Maço com notas sobre Sanatórios da Madeira dirigido a várias personalidades ======
+
+**Parent**:: 56102
+**RootParent**:: 31258
+**UnitTitle**:: Maço com notas sobre Sanatórios da Madeira dirigido a várias personalidades
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1907
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Este documento está no envelope CP 14767, juntamente com CP 14768 a CP 14770.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56104
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14769 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56104

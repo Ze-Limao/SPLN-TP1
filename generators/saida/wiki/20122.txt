@@ -1,0 +1,22 @@
+====== 20122 - UI - Registo de telegramas expedidos ======
+
+**Parent**:: 20121
+**RootParent**:: 20048
+**UnitTitle**:: Registo de telegramas expedidos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-10-05
+**UnitDateFinal**:: 1926-08-18
+**ScopeContent**:: Termo de abertura: “Tem de servir este livro para n´elle se copiarem os telegramas expedidos por esta repartição capas…”.
+O conteúdo dos telegramas está resumido. 
+Contém: 
+Apontamentos dispersos, 1912?, 4 f.; papel.
+Cópia de telegrama do Administrador de Vila Nova de Famalicão dirigida ao Governador Civil de Braga, 1920-08-09, 1 f. colada; papel.
+Cópia de telegrama do Administrador de Vila Nova de Famalicão dirigida ao Administrador da Póvoa de Varzim, 1920-08-09, 1 f. colada; papel. 
+Cópia de telegrama do Administrador de Vila Nova de Famalicão dirigida ao Comandante da Guarda Republicana de Braga, 1920-08-05, 1 f. colada; papel. 
+Cópia de telegrama do Administrador de Vila Nova de Famalicão dirigida ao Governador Civil de Braga, 1920-08-09, 1 f. colada; papel.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20122
+**LangMaterial**:: Português
+**PhysLoc**:: AC 121
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20122

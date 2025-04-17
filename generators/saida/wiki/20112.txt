@@ -1,0 +1,16 @@
+====== 20112 - UI - Registo da correspondência expedida para os Regedores ======
+
+**Parent**:: 20108
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência expedida para os Regedores
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-01-02
+**UnitDateFinal**:: 1907-07-01
+**ScopeContent**:: Termo de abertura: “Tem de servir o presente livro para nelle ser copiada a correspondência enviada aos regedores das freguesias deste concelho …”.
+O conteúdo da correspondência está resumido.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20112
+**LangMaterial**:: Português
+**PhysLoc**:: AC 17
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20112

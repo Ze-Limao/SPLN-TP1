@@ -1,0 +1,19 @@
+====== 34296 - DC - Registo do recenseamento militar de Joaquim Alves ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Cavalões
+Data de nascimento - 1852-11-08
+Filiação - António José Alves e Ana Maria Pinheiro
+Profissão - Caixeiro
+Estado - Solteiro
+Morada - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34296
+**LangMaterial**:: Português
+**PhysLoc**:: 90v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34296

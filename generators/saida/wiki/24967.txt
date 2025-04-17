@@ -1,0 +1,15 @@
+====== 24967 - UI - Despesa Livro nº 1- Conta corrente ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Despesa Livro nº 1- Conta corrente
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1943-01-01
+**UnitDateFinal**:: 1963-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24967
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 71
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24967

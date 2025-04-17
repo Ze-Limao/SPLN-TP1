@@ -1,0 +1,16 @@
+====== 23154 - DC - Carta ======
+
+**Parent**:: 21040
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-02-10
+**UnitDateFinal**:: 1913-02-10
+**ScopeContent**:: Alberto Pinheiro Torres agradece a oferta do livro, informa que trabalha na imprensa e que brevemente consagrará um artigo à obra de JAM. Carta manuscrita assinada, Bruxellas, Avenue de Solbasch, 110.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23154
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 43 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23154

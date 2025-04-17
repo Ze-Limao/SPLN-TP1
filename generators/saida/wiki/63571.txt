@@ -1,0 +1,19 @@
+====== 63571 - DC - Registo do recenseamento militar de Filinto ======
+
+**Parent**:: 9186
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Filinto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-02-05
+**UnitDateFinal**:: 1887-03-31
+**ScopeContent**:: Filiação - Francisco Alves e Mariana Rosa
+Naturalidade - Ribeirão
+Morada - Ribeirão
+Data de nascimento - 1866-06-18
+Emprego - Pedreiro
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63464
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63571

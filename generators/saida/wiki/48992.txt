@@ -1,0 +1,18 @@
+====== 48992 - DC - Registo do recenseamento eleitoral de José Joaquim Ribeiro Veloso ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Joaquim Ribeiro Veloso
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Oliveira Santa Maria
+Profissão - Escrivão de Paz
+Estado - Casado
+Morada - Oliveira
+Idade - 59
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48992
+**LangMaterial**:: Português
+**PhysLoc**:: 59v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48992

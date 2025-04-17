@@ -1,0 +1,17 @@
+====== 98494 - DC - A palavra "Milhosa" no Elucidário de Santa Rosa de Viterbo ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: A palavra "Milhosa" no Elucidário de Santa Rosa de Viterbo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1924
+**UnitDateFinal**:: 1935
+**ScopeContent**:: Manuscrito.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12976 - cx. 81
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98494

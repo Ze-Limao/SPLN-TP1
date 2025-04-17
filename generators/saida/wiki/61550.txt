@@ -1,0 +1,17 @@
+====== 61550 - DC - Outorga da Carta ao Rotary Clube de Famalicão ======
+
+**Parent**:: 61444
+**RootParent**:: 60551
+**UnitTitle**:: Outorga da Carta ao Rotary Clube de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1970-04-05
+**UnitDateFinal**:: 1970-04-05
+**ScopeContent**:: Igual ao RCF 261.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 261 (A) - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61550

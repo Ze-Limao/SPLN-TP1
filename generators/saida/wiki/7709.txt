@@ -1,0 +1,13 @@
+====== 7709 - UI - Livro de Notas Nº 23 ======
+
+**Parent**:: 7693
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Notas Nº 23
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1951-10-08
+**UnitDateFinal**:: 1952-03-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7709
+**LangMaterial**:: Português
+**PhysLoc**:: 1.58
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7709

@@ -1,0 +1,16 @@
+====== 25592 - DC - Carta ======
+
+**Parent**:: 21155
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-11-26
+**UnitDateFinal**:: 1925-11-27
+**ScopeContent**:: Carta manuscrita assinada, do Outeiro (Ponte de Lima).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25592
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 545 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25592

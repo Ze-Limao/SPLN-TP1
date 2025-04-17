@@ -1,0 +1,19 @@
+====== 9616 - DC - Registo do recenseamento militar de Vítor ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Vítor
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - José Luís Gonçalves e Rosa Maria Marques de Faria
+Naturalidade - Vila Nova de Famalicão
+Data de nascimento - 1877-10-10
+Profissão - Estudante
+Estado civil - Solteiro
+Residência - Coimbra
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9616
+**LangMaterial**:: Português
+**PhysLoc**:: f. 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9616

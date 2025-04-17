@@ -1,0 +1,16 @@
+====== 23920 - DC - Registo do recenseamento eleitoral de Manuel Carneiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Carneiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-03-04
+**UnitDateFinal**:: 1871-03-04
+**ScopeContent**:: Freguesia - Riba de Ave
+Profissão - Tendeiro
+Morada - Igreja
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23920
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 93v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23920

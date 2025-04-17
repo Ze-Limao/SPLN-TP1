@@ -1,0 +1,43 @@
+====== 32473 - UI - Anselmo de Sousa Botelho ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Anselmo de Sousa Botelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1877
+**UnitDateFinal**:: 1892-10-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32473
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32473
+
+===== Filhos =====
+  * [[32474.txt|32474 - DC - Bilhete-postal]]
+  * [[32475.txt|32475 - DC - Carta]]
+  * [[32476.txt|32476 - DC - Carta]]
+  * [[32477.txt|32477 - DC - Carta]]
+  * [[32478.txt|32478 - DC - Carta]]
+  * [[32479.txt|32479 - DC - Carta]]
+  * [[32480.txt|32480 - DC - Carta]]
+  * [[32481.txt|32481 - DC - Carta]]
+  * [[32483.txt|32483 - DC - Bilhete-postal]]
+  * [[32484.txt|32484 - DC - Carta]]
+  * [[32485.txt|32485 - DC - Carta]]
+  * [[32486.txt|32486 - DC - Carta]]
+  * [[32487.txt|32487 - DC - Carta]]
+  * [[32488.txt|32488 - DC - Carta para Amália e Vicente]]
+  * [[32489.txt|32489 - DC - Carta]]
+  * [[32490.txt|32490 - DC - Carta]]
+  * [[32491.txt|32491 - DC - Cartão]]
+  * [[32492.txt|32492 - DC - Cartão]]
+  * [[32493.txt|32493 - DC - Cartão]]
+  * [[32494.txt|32494 - DC - Cartão]]
+  * [[32495.txt|32495 - DC - Carta]]
+  * [[32496.txt|32496 - DC - Cartão]]
+  * [[32497.txt|32497 - DC - Cartão]]
+  * [[32498.txt|32498 - DC - Cartão]]
+  * [[32499.txt|32499 - DC - Bilhete-postal]]
+  * [[32500.txt|32500 - DC - Carta]]

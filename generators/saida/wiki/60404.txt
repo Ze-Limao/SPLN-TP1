@@ -1,0 +1,17 @@
+====== 60404 - DC - Recibo de óculos de J.A. Ribeiro & Cª Opticos ======
+
+**Parent**:: 54567
+**RootParent**:: 31258
+**UnitTitle**:: Recibo de óculos de J.A. Ribeiro & Cª Opticos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-04-01
+**UnitDateFinal**:: 1917-04-01
+**ScopeContent**:: Receita de óculos de ouro americano, em nome de a Condessa de Arnoso, para sobrinho João Afonso Pinheiro de Melo, de óticos de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54568
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3843 - cx. 29
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60404

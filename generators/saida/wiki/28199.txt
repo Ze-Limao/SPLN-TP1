@@ -1,0 +1,16 @@
+====== 28199 - DC - Castas cultivadas por Mererlitto (Liverpool) ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Castas cultivadas por Mererlitto (Liverpool)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Lista de castas agrupadas e classificadas por Alberto Sampaio com as seguintes designações: «mais cultivadas», «recomendadas» e «tardias».
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28199
+**LangMaterial**:: Português
+**PhysLoc**:: AS 471 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28199

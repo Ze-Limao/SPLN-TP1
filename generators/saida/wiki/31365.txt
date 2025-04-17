@@ -1,0 +1,15 @@
+====== 31365 - SR - Correspondência recebida ======
+
+**Parent**:: 31363
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1916-08-19
+**UnitDateFinal**:: 1916-08-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31365
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31365
+
+===== Filhos =====
+  * [[31444.txt|31444 - UI - Henrique Borges de Castro Soares de Albergaria]]
+  * [[45151.txt|45151 - UI - Miguel Maria de Sousa Horta e Costa]]

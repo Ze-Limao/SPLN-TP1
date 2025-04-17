@@ -1,0 +1,23 @@
+====== 60928 - SR - Cartas e diplomas ======
+
+**Parent**:: 60550
+**RootParent**:: 60550
+**UnitTitle**:: Cartas e diplomas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1901-03-08
+**UnitDateFinal**:: 1929-12-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60928
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60928
+
+===== Filhos =====
+  * [[60941.txt|60941 - DC - Diploma do Sup. Cons. Do 33º Gr. Do Rito Escoces Antigo e aceite para Portugal seus domínios e jurisdição a todos os maçons regulares… a Daniel Rodrigues obr. da Resp. Loj. Cândido reis nº368 ao valº de Lisboa]]
+  * [[61417.txt|61417 - DC - Carta de nomeação de D. Carlos para Daniel Rodrigues]]
+  * [[61418.txt|61418 - DC - Diploma de Funções Públicas…ao bacharel Daniel José Rodrigues …para o lugar de Ouvidor da Junta de Crédito Público]]
+  * [[61419.txt|61419 - DC - Diploma de Funções Públicas … ao Bacharel Daniel José Rodrigues…para o lugar de Administrador Geral da Caixa Geral de Depósitos e Instituições de Presidência]]
+  * [[61420.txt|61420 - DC - Carta de Deputado…a Daniel José Rodrigues...pelo círculo nº28 – Lisboa Ocidental]]
+  * [[61421.txt|61421 - DC - Carta de Deputado…a Daniel José Rodrigues...eleito pelo círculo nº12 - Penafiel]]
+  * [[61422.txt|61422 - DC - Diploma de Funções Públicas…ao Bacharel Daniel José Rodrigues delegado do Procurador da República na 5ª vara de Lisboa]]
+  * [[61423.txt|61423 - DC - Diploma de Funções Públicas...ao Bacharel Daniel José Rodrigues Administrador da Caixa Geral de Depósitos e Instituições de Providência ...para exercer interinamente o logar de Director Geral da Estatistica]]
+  * [[61424.txt|61424 - DC - Carta de Senador…a Daniel José Rodrigues Senador eleito pelo districto de Beja…]]
+  * [[61425.txt|61425 - DC - Diploma de grau Universidade de Coimbra]]

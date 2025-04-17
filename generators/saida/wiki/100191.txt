@@ -1,0 +1,24 @@
+====== 100191 - SSR - Negativos em vidro ======
+
+**Parent**:: 99257
+**RootParent**:: 60695
+**UnitTitle**:: Negativos em vidro
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1878
+**UnitDateFinal**:: 1928
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99407
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100191
+
+===== Filhos =====
+  * [[100217.txt|100217 - UI - Negativos em vidro]]
+  * [[100223.txt|100223 - UI - Negativos em vidro]]
+  * [[100229.txt|100229 - UI - Negativos em vidro]]
+  * [[100235.txt|100235 - UI - Negativos em vidro]]
+  * [[100241.txt|100241 - UI - Negativos em vidro]]
+  * [[100247.txt|100247 - UI - Negativos em vidro]]
+  * [[100253.txt|100253 - UI - Negativos em vidro]]
+  * [[100259.txt|100259 - UI - Negativos em vidro]]
+  * [[100265.txt|100265 - UI - Negativos em vidro]]
+  * [[100271.txt|100271 - UI - Negativos em vidro]]
+  * [[100277.txt|100277 - UI - Negativos em vidro]]

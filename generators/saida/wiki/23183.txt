@@ -1,0 +1,16 @@
+====== 23183 - DC - Carta ======
+
+**Parent**:: 21052
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1911-08-18
+**UnitDateFinal**:: 1911-08-18
+**ScopeContent**:: Alfredo Pons informa que verificou a Chancelaria de Filipe III  sobre a nomeação de João Alvares Soares em 1640 para o cargo de escrivão do registo das mercês. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23183
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 72 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23183

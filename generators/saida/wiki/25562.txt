@@ -1,0 +1,16 @@
+====== 25562 - DC - Carta ======
+
+**Parent**:: 21144
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-08-04
+**UnitDateFinal**:: 1921-08-04
+**ScopeContent**:: Jacinto Cândido agradece o livro Camilo Homenageado. Carta manuscrita assinada, de Penamacor.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25562
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 516 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25562

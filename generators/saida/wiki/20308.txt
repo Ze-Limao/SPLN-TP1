@@ -1,0 +1,14 @@
+====== 20308 - UI - Registo de correspondência recebida nos Serviços Administrativos nº26 ======
+
+**Parent**:: 20219
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nos Serviços Administrativos nº26
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1945-02-05
+**UnitDateFinal**:: 1946-05-11
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir êste livro, nos termos do nº9 do artigo 120 do Código Administrativo, se registar a correspondência recebida na Câmara Municipal…” e manuscrito (Serviços Administrativos). Contém dados: nº de entrada, número do ofício, data do ofício, data da receção, designação da entidade expedidora, extracto do conteúdo, observações. Inicia com o registo nº 173 até ao registo nº 735.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20308
+**LangMaterial**:: Português
+**PhysLoc**:: 711
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20308

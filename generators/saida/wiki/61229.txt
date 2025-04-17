@@ -1,0 +1,15 @@
+====== 61229 - UI - Armando Bacelar ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Armando Bacelar
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1950-07-30
+**UnitDateFinal**:: 1950-07-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61229
+
+===== Filhos =====
+  * [[61230.txt|61230 - DC - Carta]]

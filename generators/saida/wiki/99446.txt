@@ -1,0 +1,14 @@
+====== 99446 - UI - Domingos da Rocha Pinheiro ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Domingos da Rocha Pinheiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1911-07-03
+**UnitDateFinal**:: 1911-07-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99446
+
+===== Filhos =====
+  * [[99447.txt|99447 - DC - Carta]]

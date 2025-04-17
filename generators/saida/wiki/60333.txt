@@ -1,0 +1,8 @@
+====== 60333 - UI - None ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60333

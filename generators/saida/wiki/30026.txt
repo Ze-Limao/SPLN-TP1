@@ -1,0 +1,14 @@
+====== 30026 - DC - Manuel de Oliveira Malheiro ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Manuel de Oliveira Malheiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-03-05
+**UnitDateFinal**:: 1958-03-05
+**ScopeContent**:: Regedor efetivo da freguesia de Bente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30026
+**LangMaterial**:: Português
+**PhysLoc**:: f. 14
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30026

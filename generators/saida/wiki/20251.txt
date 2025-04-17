@@ -1,0 +1,15 @@
+====== 20251 - UI - Registo de correspondência recebida nº24 ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº24
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1962-12-22
+**UnitDateFinal**:: 1963-07-18
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir este livro para nele se registar (manuscrito) correspondência…”. Contém dados: nº de ordem, nº e data do documento, data do registo, remetente, assunto.
+Inicia com o registo nº 5428 até ao registo nº 5503. O ano 1963 tem 3535 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20251
+**LangMaterial**:: Português
+**PhysLoc**:: 620
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20251

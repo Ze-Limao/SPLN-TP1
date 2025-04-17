@@ -1,0 +1,15 @@
+====== 28202 - DC - Despesa da vinha - Preparação do terreno ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Despesa da vinha - Preparação do terreno
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867-10
+**UnitDateFinal**:: 1868-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28202
+**LangMaterial**:: Português
+**PhysLoc**:: AS 474 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28202

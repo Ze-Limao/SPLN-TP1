@@ -1,0 +1,17 @@
+====== 79066 - DC - 1895 ======
+
+**Parent**:: 54483
+**RootParent**:: 31258
+**UnitTitle**:: 1895
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1895
+**ScopeContent**:: Papel ao maço com título manuscrito. Contém CP 8355 a CP 8370.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56704
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8354 - cx. 51
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79066

@@ -1,0 +1,15 @@
+====== 20148 - UI - Registo da correspondência recebida ======
+
+**Parent**:: 20133
+**RootParent**:: 20048
+**UnitTitle**:: Registo da correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892-09-25
+**UnitDateFinal**:: 1895-01-02
+**ScopeContent**:: Não tem termo de abertura. Do ofício nº276/1892 ao nº350/1895. Contém dados: nº ordem ofício, data do ofício, data de entrada, designação da autoridade, extracto do seu conteúdo, expediente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20148
+**LangMaterial**:: Português
+**PhysLoc**:: AC 50
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20148

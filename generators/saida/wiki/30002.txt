@@ -1,0 +1,14 @@
+====== 30002 - DC - António de Sousa ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: António de Sousa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1952-11-05
+**UnitDateFinal**:: 1952-11-05
+**ScopeContent**:: Regedor efetivo da freguesia de Seide S. Miguel
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30002
+**LangMaterial**:: Português
+**PhysLoc**:: f. 1v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30002

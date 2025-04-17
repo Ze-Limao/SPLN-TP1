@@ -1,0 +1,18 @@
+====== 8775 - DC - Termo do exame de Joaquim José de Azevedo ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim José de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-21
+**UnitDateFinal**:: 1891-07-21
+**ScopeContent**:: Grau - Complementar
+Idade - 20
+Filiação - Francisco José de Azevedo
+Naturalidade - Gavião
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8775
+**LangMaterial**:: Português
+**PhysLoc**:: f. 27v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8775

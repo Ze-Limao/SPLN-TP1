@@ -1,0 +1,20 @@
+====== 21260 - UI - Raul Brandão ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Raul Brandão
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1914-11-02
+**UnitDateFinal**:: 1915-07-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21260
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1019, 1020, 1021, 1022
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21260
+
+===== Filhos =====
+  * [[27925.txt|27925 - DC - Carta]]
+  * [[27926.txt|27926 - DC - Carta]]
+  * [[27927.txt|27927 - DC - Carta]]
+  * [[27928.txt|27928 - DC - Carta]]

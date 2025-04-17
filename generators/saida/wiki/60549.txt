@@ -1,0 +1,18 @@
+====== 60549 - F - Confraria de Nossa Senhora do Rosário da freguesia de Pedome ======
+
+**Parent**:: 0
+**RootParent**:: 60549
+**UnitTitle**:: Confraria de Nossa Senhora do Rosário da freguesia de Pedome
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1858
+**UnitDateFinal**:: 1892
+**ScopeContent**:: Este fundo é composto pelo Livro de receita e despesa da Confraria dos anos 1858 a 1892.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60549
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60549
+
+===== Filhos =====
+  * [[60689.txt|60689 - SC - Administração financeira]]

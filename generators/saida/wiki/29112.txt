@@ -1,0 +1,14 @@
+====== 29112 - UI - Guilherme de Vasconcelos Abreu ======
+
+**Parent**:: 28716
+**RootParent**:: 27963
+**UnitTitle**:: Guilherme de Vasconcelos Abreu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-06-27
+**UnitDateFinal**:: 1906-06-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29112
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29112
+
+===== Filhos =====
+  * [[29113.txt|29113 - DC - Rascunho de carta]]

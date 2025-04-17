@@ -1,0 +1,15 @@
+====== 65723 - DC - Emprazamento do casal do Eiral, situado na freguesia de S. Martinho de Brufe, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Santos Araújo e sua mulher Teresa Josefa Barroso ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal do Eiral, situado na freguesia de S. Martinho de Brufe, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Santos Araújo e sua mulher Teresa Josefa Barroso
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1781-05-21
+**UnitDateFinal**:: 1842-08-11
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. Junto com "Apegação, medição e confrontação de parte de um casal do Eiral, também chamado do Raio e de Lourenço Pires, situado na freguesia de S. Marinho de Brufe, que o abade quer emprazar a Santos Araújo e sua mulher". Junto com documento impresso e manuscrito "Carta de Vedoria do prazo do Eiral a favor de Santos Araújo e sua mulher. 1781-10-27. Na última folha um despacho de 1842-10-11.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 195 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65723

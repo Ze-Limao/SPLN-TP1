@@ -1,0 +1,14 @@
+====== 30035 - DC - Alberto Fernandes da Silva ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Alberto Fernandes da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-02-26
+**UnitDateFinal**:: 1959-02-26
+**ScopeContent**:: Regedor efetivo da freguesia de Oliveira S. Mateus
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30035
+**LangMaterial**:: Português
+**PhysLoc**:: f. 18
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30035

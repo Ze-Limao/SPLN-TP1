@@ -1,0 +1,24 @@
+====== 54196 - SSR - Concurso público para a construção do edifício para Paços do Concelho, serviços municipais, secção de Finanças e tesouraria da fazenda Pública e do corpo destinado a Tribunal Judicial e mais serviços da Justiça e urbanização da Praça da República ======
+
+**Parent**:: 53752
+**RootParent**:: 25851
+**UnitTitle**:: Concurso público para a construção do edifício para Paços do Concelho, serviços municipais, secção de Finanças e tesouraria da fazenda Pública e do corpo destinado a Tribunal Judicial e mais serviços da Justiça e urbanização da Praça da República
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1956
+**UnitDateFinal**:: 1969-10-23
+**ScopeContent**:: Contém JG 171(2) a (13); JG 172(1) a (9); JG 180(1), JG 180(2), JG 180(3).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54196
+**LangMaterial**:: Português
+**PhysLoc**:: JG 171 (2) a (13).  JG 171(1) e JG 171(12) - cx. 16 e JG 171(2) a (11) - cx. 6, JG 172(1) - cx. 16, JG 172(2) a (9) - cx. 6; JG 180(1), JG 180(2), JG 180(3) - cx. 13.
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54196
+
+===== Filhos =====
+  * [[54108.txt|54108 - DC - Concurso público para a construção do edifício para Paços do Concelho, serviços municipais, secção de Finanças e tesouraria da fazenda Pública e do corpo destinado a Tribunal Judicial e mais serviços da Justiça e urbanização da Praça da República 1956]]
+  * [[54109.txt|54109 - UI - Empreitada de construção do edifício para Paços do Concelho, serviços municipais, secção de Finanças e tesouraria da fazenda Pública e do corpo destinado a Tribunal Judicial e mais serviços da Justiça e urbanização da Praça da República 1956]]
+  * [[54197.txt|54197 - DC - Processos Inquérito administrativo referente a Joaquim de Sousa, adjudicatário da obra Construção de um edifício destinado a repartições públicas, conforme proposta de 26/10/1962. Câmara Municipal de Vila Nova de Famalicão. Secretaria. Ano 1963]]
+  * [[54198.txt|54198 - DC - Processo Contrato da obra de “Substituição do algeroz do edifício dos Paços de concelho” adjudicada a Compagnie Royale Asturienne des Mines”… Câmara Municipal de Vila Nova de Famalicão Secretaria. Ano 1969]]
+  * [[54199.txt|54199 - DC - Processo Contrato de adjudicação da obra de Substituição do algeroz do edifício dos Paços de concelho (trabalhos respeitantes à construção civil) adjudicada ao Sr. Guilherme da Silva Castro… Câmara Municipal de Vila Nova de Famalicão Secretaria. Ano 1969]]

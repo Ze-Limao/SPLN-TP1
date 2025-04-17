@@ -1,0 +1,44 @@
+====== 25321 - UI - Bombeiros, atividades de Bombeiros, festas, etc. ======
+
+**Parent**:: 20387
+**RootParent**:: 20342
+**UnitTitle**:: Bombeiros, atividades de Bombeiros, festas, etc.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898
+**UnitDateFinal**:: 1962-12-16
+**ScopeContent**:: Fotografias arquivadas por Hilário de Carvalho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25321
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 190 - cx. 51
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25321
+
+===== Filhos =====
+  * [[25884.txt|25884 - DC - Corpo Ativo com Manuel Ferreira da Costa e Sousa]]
+  * [[25885.txt|25885 - DC - Banda dos Voluntários de Famalicão]]
+  * [[25886.txt|25886 - DC - Bombeiros e uma bomba de água num carro puxado por uma parelha de cavalos]]
+  * [[25887.txt|25887 - DC - Bomba braçal nº1 e carreta]]
+  * [[25888.txt|25888 - DC - Grupo dos 29]]
+  * [[25889.txt|25889 - DC - Bomba braçal alemã]]
+  * [[25890.txt|25890 - DC - Desfile do corpo ativo no Largo do Terreiro]]
+  * [[25891.txt|25891 - DC - Casa-escola antes das obras feitas pot Hilário Carvalho]]
+  * [[25892.txt|25892 - DC - Batismo do 1º carro Berliet da AHBVF]]
+  * [[25893.txt|25893 - DC - Retrato de conjunto da Direção da Associação Humanitária dos Bombeiros Voluntários de Vila Nova de Famalicão]]
+  * [[25894.txt|25894 - DC - Retrato de conjunto de Artur Macedo, Fernando Folhadela, Aires Pinto e Higino Macedo]]
+  * [[25895.txt|25895 - DC - Retrato de conjunto do Corpo Activo de 1928 após a fundação dos B. Famalicenses]]
+  * [[25902.txt|25902 - DC - Ambulância Volkswangen]]
+  * [[25903.txt|25903 - DC - Retrato de conjunto do Corpo Activo de 1934]]
+  * [[25904.txt|25904 - DC - Retrato de conjunto do Corpo Activo de 1934]]
+  * [[25905.txt|25905 - DC - Mesa do copo de água nas festas realizadas comemorativas do 44º aniversário da fundação dos BVF]]
+  * [[25906.txt|25906 - DC - Retrato do Grupo dos 13 - Grupo das Boas Festas]]
+  * [[25907.txt|25907 - DC - Baile realizado nas festas comemorativas do 44º aniversário da fundação dos BVF]]
+  * [[25908.txt|25908 - DC - Retrato de conjunto da Direcção da AHBVF, madrinha da Corporação, Presidente da Câmara e Governador Civil de Braga nas festas comemorativas do 44º aniversário da fundação dos BVF]]
+  * [[25909.txt|25909 - DC - Imagens do exercício final com máscaras antigás realizado na casa-escola da Corporação]]
+  * [[25910.txt|25910 - DC - Carro Packard a transportar a imagem de N. Senhora de Fátima com o comandante Soares e o bombeiro José R. Ferreira]]
+  * [[25911.txt|25911 - DC - Incêndio na Câmara Municipal de V.N. Famalicão - fachada principal]]
+  * [[25912.txt|25912 - DC - Retrato de Fernando Soares e Hilário Carvalho no novo quartel]]
+  * [[25913.txt|25913 - DC - Retrato de conjunto da Direção e Comando nas Bodas de Ouro]]
+  * [[53970.txt|53970 - DC - Fotografia do primeiro carro Berliet]]
+  * [[53971.txt|53971 - DC - Benção do carro Packard pelo Monsenhor Torres Carneiro]]

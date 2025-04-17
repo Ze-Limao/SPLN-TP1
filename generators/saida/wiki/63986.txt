@@ -1,0 +1,15 @@
+====== 63986 - DC - Carta de compra que fez Ana Araújo, da freguesia de S. Tiago de Antas, a Manuel Rodrigues, da mesma freguesia, do casal da Codeceira, que tinha por título de prazo do abade da Igreja de S. Tiago de Antas, pela quantia de um conto e oitocentos e vinte mil reis. ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Carta de compra que fez Ana Araújo, da freguesia de S. Tiago de Antas, a Manuel Rodrigues, da mesma freguesia, do casal da Codeceira, que tinha por título de prazo do abade da Igreja de S. Tiago de Antas, pela quantia de um conto e oitocentos e vinte mil reis.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1744-02-01
+**UnitDateFinal**:: 1755-09-28
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas. No canto superior esquerdo "L. 44".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 182 - cx. 9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63986

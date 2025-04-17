@@ -1,0 +1,16 @@
+====== 29315 - DC - Moss litter peat dust closets company ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Moss litter peat dust closets company
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-01
+**UnitDateFinal**:: 1893-07-01
+**ScopeContent**:: Recorte de imprensa doa revista "The Speaker", JUly 1, 1893. Publicidade a dispositivos para recolha e tratamento de dejetos humanos, comercializados pela empresa Moss Litter & Peat Dust Closets Company (Limited).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29315
+**LangMaterial**:: Inglês
+**PhysLoc**:: AS 212 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29315

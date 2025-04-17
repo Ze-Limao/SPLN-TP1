@@ -1,0 +1,17 @@
+====== 32488 - DC - Carta para Amália e Vicente ======
+
+**Parent**:: 32473
+**RootParent**:: 31258
+**UnitTitle**:: Carta para Amália e Vicente
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-09-30
+**UnitDateFinal**:: 1892-09-30
+**ScopeContent**:: Carta manuscrita assinada, com partitura musical, de Paris. Papel impresso "Hotel Beaujon, 8 Rue Balzac (Champs Elysées) Paris".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32488
+**LangMaterial**:: Português e Francês.
+**PhysLoc**:: CP 7798 - cx. 49
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32488

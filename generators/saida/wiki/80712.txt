@@ -1,0 +1,15 @@
+====== 80712 - UI - Processo nº 138/80 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 138/80
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1975-07-11
+**UnitDateFinal**:: 1982-07-22
+**ScopeContent**:: 2ª Secção.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 312 - cx. 16
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80712

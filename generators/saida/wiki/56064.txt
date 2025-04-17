@@ -1,0 +1,17 @@
+====== 56064 - DC - Minutas de carta ======
+
+**Parent**:: 56063
+**RootParent**:: 31258
+**UnitTitle**:: Minutas de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Este documento está no envelope CP 14687.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56064
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14688 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56064

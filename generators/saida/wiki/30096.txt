@@ -1,0 +1,14 @@
+====== 30096 - DC - Alcino da Cruz Pereira ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Alcino da Cruz Pereira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-04-03
+**UnitDateFinal**:: 1974-04-03
+**ScopeContent**:: Regedor efetivo da freguesia de Arnoso Santa Eulália
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30096
+**LangMaterial**:: Português
+**PhysLoc**:: f. 49
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30096

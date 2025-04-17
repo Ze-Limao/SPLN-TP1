@@ -1,0 +1,15 @@
+====== 63954 - SR - Capelas. Ermidas. Sepulturas ======
+
+**Parent**:: 60536
+**RootParent**:: 60536
+**UnitTitle**:: Capelas. Ermidas. Sepulturas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1707-11-07
+**UnitDateFinal**:: 1786-10-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60704
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63954
+
+===== Filhos =====
+  * [[63955.txt|63955 - UI - Livro das sepulturas, capelas e ermidas da igreja de S. Tiago de Antas]]
+  * [[66328.txt|66328 - DC - José Joaquim, desembargador, envia documento a Provedor da Comarca de Miranda, informações no conteúdo na petição de D. Fr. Jorge de Meneses copiada nas costas desta…mandou os deputados da Mesa da Consciência e Ordens]]

@@ -1,0 +1,18 @@
+====== 8154 - DC - Severino António Lobo do Vale ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Severino António Lobo do Vale
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-02-01
+**UnitDateFinal**:: 1892-02-01
+**ScopeContent**:: Escola - Fradelos
+Cargo - Professor
+Vínculo - Temporário
+Naturalidade - Vila Verde
+Data de posse - 1892-02-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8154
+**LangMaterial**:: Português
+**PhysLoc**:: f. 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8154

@@ -1,0 +1,15 @@
+====== 8073 - DC - Termo de António Dias de Azevedo e Joaquina da Costa Cruz ======
+
+**Parent**:: 7728
+**RootParent**:: 7651
+**UnitTitle**:: Termo de António Dias de Azevedo e Joaquina da Costa Cruz
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-11-19
+**UnitDateFinal**:: 1878-11-19
+**ScopeContent**:: Construção de curral
+Local - Ribeirão
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8073
+**LangMaterial**:: Português
+**PhysLoc**:: f. 45v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8073

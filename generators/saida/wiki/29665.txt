@@ -1,0 +1,16 @@
+====== 29665 - DC - Carta ======
+
+**Parent**:: 21270
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-08-22
+**UnitDateFinal**:: 1901-08-22
+**ScopeContent**:: Carta manuscrita assinada, do Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29665
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1073 -  cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29665

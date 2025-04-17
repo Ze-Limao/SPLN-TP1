@@ -1,0 +1,16 @@
+====== 28069 - SSC - Guarda-livros no Banco de Guimarães ======
+
+**Parent**:: 27965
+**RootParent**:: 27963
+**UnitTitle**:: Guarda-livros no Banco de Guimarães
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1878-03-20
+**UnitDateFinal**:: 1878-03-20
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28069
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28069
+
+===== Filhos =====
+  * [[28070.txt|28070 - DC - Declaração apresentada por Alberto Sampaio à Fazenda Pública]]

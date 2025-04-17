@@ -1,0 +1,15 @@
+====== 63993 - DC - Escritura de compra de uma leira de terra de mato, lugar de Sabugueira, freguesia de S. Martinho de Bougado, foreira da Igreja de S. Tiago de Antas, que fez Manuel de Couto Gomes, morador na freguesia de S. Martinho de Bougado, a Manuel José e sua mulher, moradores em S. Martinho de Bougado, pela quantia de nove mil reis ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra de uma leira de terra de mato, lugar de Sabugueira, freguesia de S. Martinho de Bougado, foreira da Igreja de S. Tiago de Antas, que fez Manuel de Couto Gomes, morador na freguesia de S. Martinho de Bougado, a Manuel José e sua mulher, moradores em S. Martinho de Bougado, pela quantia de nove mil reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1788-06-23
+**UnitDateFinal**:: 1788-06-23
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas. No canto superior esquerdo nota ilegível.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 214 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63993

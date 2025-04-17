@@ -1,0 +1,63 @@
+====== 79988 - SR - Autos de Reclamação de Créditos ======
+
+**Parent**:: 60546
+**RootParent**:: 60546
+**UnitTitle**:: Autos de Reclamação de Créditos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1963-01-16
+**UnitDateFinal**:: 1989-12-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79201
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79988
+
+===== Filhos =====
+  * [[79989.txt|79989 - UI - Processo nº 351/A]]
+  * [[80003.txt|80003 - UI - Processo nº 339A]]
+  * [[80394.txt|80394 - UI - Processo nº 748-A/68/69]]
+  * [[80397.txt|80397 - UI - Processo nº 480-A]]
+  * [[80407.txt|80407 - UI - Processo nº 173-A]]
+  * [[80423.txt|80423 - UI - Processo nº 111-A]]
+  * [[80454.txt|80454 - UI - Processo nº 157-A]]
+  * [[80457.txt|80457 - UI - Processo nº 155-A]]
+  * [[80461.txt|80461 - UI - Processo nº 152-A]]
+  * [[80463.txt|80463 - UI - Processo nº 151-A]]
+  * [[80469.txt|80469 - UI - Processo nº 79-A]]
+  * [[80472.txt|80472 - UI - Processo nº 201-B]]
+  * [[80473.txt|80473 - UI - Processo nº 201-A]]
+  * [[80477.txt|80477 - UI - Processo nº 158-A]]
+  * [[80491.txt|80491 - UI - Processo nº 47-A]]
+  * [[80543.txt|80543 - UI - Processo nº 203-A]]
+  * [[80564.txt|80564 - UI - Processo nº 119/B]]
+  * [[80638.txt|80638 - UI - Processo nº 43/80]]
+  * [[80705.txt|80705 - UI - Processo nº 29]]
+  * [[80708.txt|80708 - UI - Processo nº 167-A/80]]
+  * [[80710.txt|80710 - UI - Processo nº 167-B/80]]
+  * [[97518.txt|97518 - UI - Processo nº 21-D]]
+  * [[97529.txt|97529 - UI - Processo nº 214-B]]
+  * [[97556.txt|97556 - UI - Processo nº 7-B]]
+  * [[97566.txt|97566 - UI - Processo nº 112-A]]
+  * [[97691.txt|97691 - UI - Processo nº 473-B]]
+  * [[97697.txt|97697 - UI - Processo nº 32-A]]
+  * [[97700.txt|97700 - UI - Processo nº 167-B]]
+  * [[97701.txt|97701 - UI - Processo nº 167-B]]
+  * [[97719.txt|97719 - UI - Processo nº 118-B]]
+  * [[97722.txt|97722 - UI - Processo nº 223-A]]
+  * [[97724.txt|97724 - UI - Processo nº 434-B]]
+  * [[97728.txt|97728 - UI - Processo nº 425-B]]
+  * [[97734.txt|97734 - UI - Processo nº 7]]
+  * [[97818.txt|97818 - UI - Processo nº 9]]
+  * [[97826.txt|97826 - UI - Processo nº 13]]
+  * [[97846.txt|97846 - UI - Processo nº 188-A]]
+  * [[97861.txt|97861 - UI - Processo nº 710-B]]
+  * [[97862.txt|97862 - UI - Processo nº 710-A]]
+  * [[97863.txt|97863 - UI - Processo nº 137-B]]
+  * [[97880.txt|97880 - UI - Processo nº 15-B]]
+  * [[97885.txt|97885 - UI - Processo nº 547-B/71]]
+  * [[97888.txt|97888 - UI - Processo nº 121-B]]
+  * [[97891.txt|97891 - UI - Processo nº 575-B/71]]
+  * [[97918.txt|97918 - UI - Processo nº 465-B]]
+  * [[97925.txt|97925 - UI - Processo nº 628-B]]
+  * [[97933.txt|97933 - UI - Processo nº 709-E]]
+  * [[98040.txt|98040 - UI - Processo nº 171-A]]
+  * [[98048.txt|98048 - UI - Processo nº 15-A]]
+  * [[98053.txt|98053 - UI - Processo nº 89-A]]

@@ -1,0 +1,17 @@
+====== 55606 - DC - V Appendice. Correspondencia particular relativa à questão dos Credores Allemães ======
+
+**Parent**:: 55131
+**RootParent**:: 31258
+**UnitTitle**:: V Appendice. Correspondencia particular relativa à questão dos Credores Allemães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902
+**UnitDateFinal**:: 1902
+**ScopeContent**:: Maço com título manuscrito. Contém Minutas e Originais 7 maços a, b, c, d, f, g.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55606
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12603 - cx. 75
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55606

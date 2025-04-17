@@ -1,0 +1,15 @@
+====== 98130 - UI - Processo nº 32 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 32
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1981-07-06
+**UnitDateFinal**:: 1984-01-31
+**ScopeContent**:: 2ª Secção. Junto com Autos de Execução por Custas nº 1.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 790 - cx. 43
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98130

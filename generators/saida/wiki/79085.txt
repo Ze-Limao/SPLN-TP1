@@ -1,0 +1,13 @@
+====== 79085 - UI - Ministério das Colónias. Gabinete do Ministro ======
+
+**Parent**:: 79084
+**RootParent**:: 31258
+**UnitTitle**:: Ministério das Colónias. Gabinete do Ministro
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79085
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79085
+
+===== Filhos =====
+  * [[79086.txt|79086 - DC - Cartão]]
+  * [[79087.txt|79087 - DC - Carta]]

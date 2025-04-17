@@ -1,0 +1,15 @@
+====== 64102 - DC - Certidão do prazo ou vedoria do casal de Fontelo no Quintã, freguesia do Calendário, passada a favor de José Alves Pereira, abade de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Certidão do prazo ou vedoria do casal de Fontelo no Quintã, freguesia do Calendário, passada a favor de José Alves Pereira, abade de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1734-04-18
+**UnitDateFinal**:: 1874-06-23
+**ScopeContent**:: Manuscrito, certidão, com selos do imposto de 60 reis, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 270 - cx. 14
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64102

@@ -1,0 +1,17 @@
+====== 33517 - DC - Cartão de visita ======
+
+**Parent**:: 33516
+**RootParent**:: 31258
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881
+**UnitDateFinal**:: 1881
+**ScopeContent**:: Cartão de visita de luto, agradecem os pêsames. Os nomes impressos: Ana Lima de Almeida Braga, Carlos de Almeida Braga, Luís Almeida Braga, Joaquim Almeida Braga e António Almeida Braga. Talvez seja a morte de Carlos de Almeida Braga, marido de Ana Lima Almeida Braga.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33517
+**LangMaterial**:: Português
+**PhysLoc**:: CP 7709 - cx. 49
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33517

@@ -1,0 +1,15 @@
+====== 66567 - DC - Quitação das terras de Camila Brás ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Quitação das terras de Camila Brás
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1631-11-22
+**UnitDateFinal**:: 1631-11-22
+**ScopeContent**:: Manuscrito, original. Folhas cosidas. Relacionado com CSTA 94.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 585 - cx. 23
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66567

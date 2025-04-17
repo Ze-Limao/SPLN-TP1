@@ -1,0 +1,24 @@
+====== 66609 - DC - Contas da receita e despesa de bens imóveis em Lisboa do Visconde de Pindela ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Contas da receita e despesa de bens imóveis em Lisboa do Visconde de Pindela
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1892-12-30
+**UnitDateFinal**:: 1900-06-30
+**ScopeContent**:: Maço que contém CP 43 (carta 1895-12-23, de Lisboa, de Paulo M.) e envelope; 43(1) conta e despesa julho-dezembro 1895; 43(2) julho-dezembro 1900; 43(3) janeiro-julho 1900; 43(4) junho-dezembro 1899; 43(5) julho-dezembro 1898; 43(6) janeiro-junho 1898; 43(7) junho-dezembro 1897; 43(8) novembro 1895; 43(9) dezembro 1892; 43(10) janeiro-junho 1895; 43(11) janeiro-junho 1899.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56376
+**LangMaterial**:: Português
+**PhysLoc**:: CP 43 a 43 (11) - cx. 1
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66609
+
+===== Filhos =====
+  * [[66610.txt|66610 - DC - Carta para Vicente de José Cunha Sampaio]]
+  * [[66611.txt|66611 - DC - Carta para Vicente de José Cunha Sampaio]]
+  * [[66612.txt|66612 - DC - Carta para Vicente]]
+  * [[66613.txt|66613 - DC - Carta para Vicente de Gaspar Lobo]]
+  * [[66614.txt|66614 - DC - Carta para Vicente de Rodrigo Lobo]]

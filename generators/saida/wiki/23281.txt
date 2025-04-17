@@ -1,0 +1,16 @@
+====== 23281 - DC - Registo do recenseamento eleitoral de Jerónimo Gonçalves dos Santos ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Jerónimo Gonçalves dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Ribeirão
+Profissão - Lavrador
+Morada - Perrinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23281
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 66v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23281

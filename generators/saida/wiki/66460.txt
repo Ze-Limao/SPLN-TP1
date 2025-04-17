@@ -1,0 +1,15 @@
+====== 66460 - DC - Cópia de assento de Batismo de Carolina, filha legítima de José Cardoso e de Maria Rita Pereira, da freguesia de Santo Adrião de Vila Nova de Famalicão, em 1842-04-02 passada pelo Abade João António Freire de Andrade, pároco encomendado da Igreja Paroquial de Santo Adrião de Vila Nova de Famalicão ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Cópia de assento de Batismo de Carolina, filha legítima de José Cardoso e de Maria Rita Pereira, da freguesia de Santo Adrião de Vila Nova de Famalicão, em 1842-04-02 passada pelo Abade João António Freire de Andrade, pároco encomendado da Igreja Paroquial de Santo Adrião de Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-10-05
+**UnitDateFinal**:: 1864-10-05
+**ScopeContent**:: Manuscrito, original, em papel azul timbrado “XL, 40 reis”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 496 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66460

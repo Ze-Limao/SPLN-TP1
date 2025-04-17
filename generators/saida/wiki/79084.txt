@@ -1,0 +1,20 @@
+====== 79084 - SR - Correspondência ======
+
+**Parent**:: 31340
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência
+**DescriptionLevel**:: SR
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31341
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79084
+
+===== Filhos =====
+  * [[79085.txt|79085 - UI - Ministério das Colónias. Gabinete do Ministro]]
+  * [[79091.txt|79091 - UI - Ministério da Agricultura – Direcção Geral dos Serviços Florestais e Aquícolas]]
+  * [[79098.txt|79098 - UI - Polícia de Vigilância e Defesa do Estado]]
+  * [[79126.txt|79126 - UI - José António Teixeira]]
+  * [[79129.txt|79129 - UI - Joaquim Nunes Ferreira]]
+  * [[79158.txt|79158 - UI - Ministério do Comércio e Indústria]]
+  * [[79160.txt|79160 - UI - Presidência do Concelho. Gabinete do Ministro]]
+  * [[79161.txt|79161 - UI - Ministério das Finanças]]
+  * [[79163.txt|79163 - UI - Grémio dos Exportadores de Madeiras para Minas]]

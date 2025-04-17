@@ -1,0 +1,81 @@
+====== 56945 - DC - Negócios Dorville. Cartas Dorville. Dezembro 1933-Novembro de 1934 ======
+
+**Parent**:: 56919
+**RootParent**:: 31258
+**UnitTitle**:: Negócios Dorville. Cartas Dorville. Dezembro 1933-Novembro de 1934
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1933
+**UnitDateFinal**:: 1934-11-09
+**ScopeContent**:: Folha de título manuscrito a cores. Contém CP 2709 a CP 2772.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56945
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2708 - cx. 22
+depósito 3, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56945
+
+===== Filhos =====
+  * [[56946.txt|56946 - DC - Notas]]
+  * [[56947.txt|56947 - DC - Notas]]
+  * [[56948.txt|56948 - DC - Notas]]
+  * [[56949.txt|56949 - DC - Cartão de visita]]
+  * [[56950.txt|56950 - DC - Affaires]]
+  * [[56951.txt|56951 - DC - Telegramas]]
+  * [[56952.txt|56952 - DC - Programme d´amelioration a l´ile de Madère]]
+  * [[56953.txt|56953 - DC - Cópia de ofício para António Penha da Costa]]
+  * [[56954.txt|56954 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56955.txt|56955 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56956.txt|56956 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56957.txt|56957 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56958.txt|56958 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56959.txt|56959 - DC - Cartão de visita e notas]]
+  * [[56960.txt|56960 - DC - África Ocidental: Provincia de Angola. Concessão e direito exclusivo de explorar o imbondeiro para produção de pasta de papel]]
+  * [[56961.txt|56961 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56962.txt|56962 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56963.txt|56963 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56964.txt|56964 - DC - Ofício de Noel Dorville para 3º Visconde de Pindela]]
+  * [[56965.txt|56965 - DC - Notas]]
+  * [[56966.txt|56966 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56967.txt|56967 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56968.txt|56968 - DC - Caolino]]
+  * [[56969.txt|56969 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56970.txt|56970 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56971.txt|56971 - DC - Ofício para Madame Picot de Sousa Rosa de Noel Dorville]]
+  * [[56972.txt|56972 - DC - Ofício para Madame Picot de Sousa Rosa de Noel Dorville]]
+  * [[56973.txt|56973 - DC - Cartão de Noel Dorville para 3º Visconde de Pindela]]
+  * [[56974.txt|56974 - DC - Notas]]
+  * [[56975.txt|56975 - DC - Notas]]
+  * [[56976.txt|56976 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56977.txt|56977 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56978.txt|56978 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56979.txt|56979 - DC - Cópia de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56980.txt|56980 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56981.txt|56981 - DC - Minuta de ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56982.txt|56982 - DC - Telegrama para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56983.txt|56983 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56984.txt|56984 - DC - Minuta de telegrama para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56985.txt|56985 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56986.txt|56986 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56987.txt|56987 - DC - Carta para 3º Visconde de Pindela de A. Pinto Machado]]
+  * [[56988.txt|56988 - DC - Ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56989.txt|56989 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56990.txt|56990 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56991.txt|56991 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56992.txt|56992 - DC - Cópia de ofício para António da Penha e Costa de Noel Dorville]]
+  * [[56993.txt|56993 - DC - Ofício para António da Penha e Costa de Noel Dorville]]
+  * [[56994.txt|56994 - DC - Cópia de ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56995.txt|56995 - DC - Ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[56996.txt|56996 - DC - Minuta de ofício para Louis Bergé de António da Penha e Costa]]
+  * [[56997.txt|56997 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[56998.txt|56998 - DC - Ofício para António da Penha e Costa de Noel Dorville]]
+  * [[56999.txt|56999 - DC - Ofício para 3º Visconde de Pindela de Noel Dorville]]
+  * [[57000.txt|57000 - DC - Minuta de ofício do 3º Visconde de Pindela]]
+  * [[57001.txt|57001 - DC - Minuta de ofício do 3º Visconde de Pindela]]
+  * [[57002.txt|57002 - DC - Minuta de ofício do 3º Visconde de Pindela]]
+  * [[57003.txt|57003 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[57004.txt|57004 - DC - Minuta de ofício para Noel Dorville do 3º Visconde de Pindela]]
+  * [[57005.txt|57005 - DC - Nota sobre Noel Dorville do 3º Visconde de Pindela]]
+  * [[57006.txt|57006 - DC - Ofício para Zita de Noel Dorville]]
+  * [[57007.txt|57007 - DC - Cópia de ofício para Governador Geral da Província de Angola de António da Penha e Costa]]
+  * [[57008.txt|57008 - DC - Cópia de ofício para Ministro das Colónias de Nuno de Oliveira Gusmão]]
+  * [[67148.txt|67148 - DC - Folha datilografada pg. 21]]

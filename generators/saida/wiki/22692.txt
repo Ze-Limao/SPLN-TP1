@@ -1,0 +1,16 @@
+====== 22692 - DC - O sobrinho de Camillo Castello Branco no Limoeiro - um preso político ======
+
+**Parent**:: 22663
+**RootParent**:: 20290
+**UnitTitle**:: O sobrinho de Camillo Castello Branco no Limoeiro - um preso político
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915
+**UnitDateFinal**:: 1918
+**ScopeContent**:: Recorte de jornal incompleto. Documento sem data.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22692
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1525 - cx. 16
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22692

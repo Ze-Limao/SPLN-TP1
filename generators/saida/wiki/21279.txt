@@ -1,0 +1,16 @@
+====== 21279 - UI - Afonso Dornelas Cisneiros ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Afonso Dornelas Cisneiros
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1909-02-11
+**UnitDateFinal**:: 1909-02-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21279
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1127
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21279
+
+===== Filhos =====
+  * [[29718.txt|29718 - DC - Carta]]

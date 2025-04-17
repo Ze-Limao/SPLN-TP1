@@ -1,0 +1,17 @@
+====== 60269 - DC - Cartão de visita ======
+
+**Parent**:: 60268
+**RootParent**:: 31258
+**UnitTitle**:: Cartão de visita
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1901-07-24
+**UnitDateFinal**:: 1901-07-24
+**ScopeContent**:: Cartão com nome impresso e notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48478
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1165 - cx. 8
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60269

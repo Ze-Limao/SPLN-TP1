@@ -1,0 +1,20 @@
+====== 21397 - UI - Francisco José Cardoso de Abreu ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco José Cardoso de Abreu
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878-01-23
+**UnitDateFinal**:: 1878-06-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21397
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1360, 1361, 1362, 1363, 1364
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21397
+
+===== Filhos =====
+  * [[30227.txt|30227 - DC - Carta]]
+  * [[30228.txt|30228 - DC - Carta]]
+  * [[30229.txt|30229 - DC - Carta]]
+  * [[30230.txt|30230 - DC - Carta]]
+  * [[30231.txt|30231 - DC - Carta]]

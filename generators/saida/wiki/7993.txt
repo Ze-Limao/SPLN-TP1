@@ -1,0 +1,15 @@
+====== 7993 - DC - Termo de Joaquim José de Castro ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de Joaquim José de Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-12-12
+**UnitDateFinal**:: 1864-12-12
+**ScopeContent**:: Construção de habitação
+Local - Oliveira Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7993
+**LangMaterial**:: Português
+**PhysLoc**:: f. 20
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7993

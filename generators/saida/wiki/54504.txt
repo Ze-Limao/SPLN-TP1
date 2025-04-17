@@ -1,0 +1,17 @@
+====== 54504 - DC - Elementos de Botanica de J.S. de Agronomia ======
+
+**Parent**:: 54493
+**RootParent**:: 31258
+**UnitTitle**:: Elementos de Botanica de J.S. de Agronomia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1913
+**ScopeContent**:: Caderno com folhas brancas manuscritas e numeradas de apontamentos da cadeira de Botânica do professor António Pereira Coutinho. Contém 3 f. com notas sobre a dor de dentes de João Afonso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54504
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2367 - cx. 17
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54504

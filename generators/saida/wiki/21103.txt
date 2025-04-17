@@ -1,0 +1,17 @@
+====== 21103 - UI - Custódio Veloso ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Custódio Veloso
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-05-08
+**UnitDateFinal**:: 1904-05-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21103
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 350
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21103
+
+===== Filhos =====
+  * [[25370.txt|25370 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 28205 - DC - Vinha dos cortiços ou do meio ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Vinha dos cortiços ou do meio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-10-25
+**UnitDateFinal**:: 1874-01-05
+**ScopeContent**:: Despesas realizadas com a preparação do terreno para plantação da vinha.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28205
+**LangMaterial**:: Português
+**PhysLoc**:: AS 477 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28205

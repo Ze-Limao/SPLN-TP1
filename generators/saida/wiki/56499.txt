@@ -1,0 +1,17 @@
+====== 56499 - DC - Fotografia de Avelino de Araújo Dantas ======
+
+**Parent**:: 54493
+**RootParent**:: 31258
+**UnitTitle**:: Fotografia de Avelino de Araújo Dantas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1912-11
+**UnitDateFinal**:: 1912-11
+**ScopeContent**:: Fotografia a preto e branco, no verso manuscrito a lápis "Avelino de Araújo Dantas um companheiro a bordo do Friedrich August nov. 1912". Fotografia tirada no barco a vapor quando João Afonso foi estudar para a Alemanha.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56499
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2665 - cx. 20
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56499

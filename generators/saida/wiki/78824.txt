@@ -1,0 +1,16 @@
+====== 78824 - DC - Carta Topográfica de Vila Nova de Famalicão: Ano de 1920 ======
+
+**Parent**:: 9915
+**RootParent**:: 7651
+**UnitTitle**:: Carta Topográfica de Vila Nova de Famalicão: Ano de 1920
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Carta topográfica impressa, cortada em quatro partes iguais e numeradas de 1 a 4. Levantamento e execução eng. e arq. Joaquim Gonçalves da Silva, eng. Alberto Joaquim Lima, desenhador Manuel Martins Rodrigues Júnior. Existe fotocópia da planta.  Mencionada no livro: Vasconcelos, Álvaro Rocha. (2009). A Rua Direita. Editorial Novembro. p. 36-39
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9916
+**LangMaterial**:: Português
+**PhysLoc**:: PL 5 -
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78824

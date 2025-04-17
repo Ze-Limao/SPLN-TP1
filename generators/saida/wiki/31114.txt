@@ -1,0 +1,16 @@
+====== 31114 - DC - Registo do recenseamento eleitoral de Manuel da Costa e Silva ======
+
+**Parent**:: 7893
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel da Costa e Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1866-02-14
+**UnitDateFinal**:: 1866-02-14
+**ScopeContent**:: Freguesia - Lemenhe
+Profissão - Lavrador
+Morada - Padroso
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31114
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31114

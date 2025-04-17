@@ -1,0 +1,16 @@
+====== 24665 - DC - Carta ======
+
+**Parent**:: 21067
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-01-21
+**UnitDateFinal**:: 1903-01-21
+**ScopeContent**:: António Ferraz informa da carta escrita ao Drº Abreu Gouvêa de que aguarda resposta em relação às investigações que este prometeu fazer em documentos que existem na casa de Belinho, que foram levados para Londres pelo atual proprietário. Carta manuscrita assinada, Barcelos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24665
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 167 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24665

@@ -1,0 +1,17 @@
+====== 55622 - DC - Minutas de cartas e telegramas entre o Visconde de Pindela e o Ministro dos Negócios  Estrangeiros ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Minutas de cartas e telegramas entre o Visconde de Pindela e o Ministro dos Negócios  Estrangeiros
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1908-02-04
+**UnitDateFinal**:: 1908-12-01
+**ScopeContent**:: Maço que contém minutas de cartas e telegramas manuscritos e datilografados. Este documento está no envelope CP 12756, junto com CP 12757 a 12763.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55622
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12760 - cx. 77
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55622

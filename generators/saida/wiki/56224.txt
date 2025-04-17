@@ -1,0 +1,17 @@
+====== 56224 - DC - Escritura pela qual a junta de S.Tiago da Cruz cede ao Visconde de Pindela o terreno para o jazigo de família ======
+
+**Parent**:: 31327
+**RootParent**:: 31258
+**UnitTitle**:: Escritura pela qual a junta de S.Tiago da Cruz cede ao Visconde de Pindela o terreno para o jazigo de família
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1906
+**UnitDateFinal**:: 1906
+**ScopeContent**:: Cemiterio da freguesia de S. Thiago da Cruz Escriptura pela qual a junta cede ao Visconde de Pindella o terreno para o jazigo da sua família…". Contém cópia de carta; Regulamento da Administração do Cemitério Paroquial de S. Tiago da de Cruz (1906).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56224
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13628 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56224

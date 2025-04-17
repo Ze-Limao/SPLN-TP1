@@ -1,0 +1,18 @@
+====== 8199 - DC - Termo do exame de Joaquim da Rocha ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Joaquim da Rocha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-05-19
+**UnitDateFinal**:: 1884-05-19
+**ScopeContent**:: Grau - Elementar
+Idade - 9
+Filiação -José Joaquim da Rocha 
+Naturalidade - Vila Nova de Famalicão
+Classificação - Aprovado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8199
+**LangMaterial**:: Português
+**PhysLoc**:: f. 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8199

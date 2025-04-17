@@ -1,0 +1,16 @@
+====== 23776 - DC - Registo do recenseamento eleitoral de Joaquim Rodrigues Alves ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim Rodrigues Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Vila Nova de Famalicão
+Profissão - Sapateiro
+Morada - Rua Direita
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23776
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 85v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23776

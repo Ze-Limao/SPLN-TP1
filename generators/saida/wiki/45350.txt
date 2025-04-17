@@ -1,0 +1,19 @@
+====== 45350 - UI - Beatriz de Oliveira Maia de Brito e Cunha e filhas ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Beatriz de Oliveira Maia de Brito e Cunha e filhas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-11-25
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45350
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45350
+
+===== Filhos =====
+  * [[45351.txt|45351 - DC - Cartão de visita]]
+  * [[45352.txt|45352 - DC - Cartão de visita]]

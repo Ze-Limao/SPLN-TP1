@@ -1,0 +1,15 @@
+====== 97495 - UI - Processo nº 27-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 27-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1961-03-09
+**UnitDateFinal**:: 1971-07-19
+**ScopeContent**:: Junto com Autos de Ação com Processo Comum - Ordinário nº 7.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 320 - cx. 17
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97495

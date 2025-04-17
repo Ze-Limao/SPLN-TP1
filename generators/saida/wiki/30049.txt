@@ -1,0 +1,14 @@
+====== 30049 - DC - Constantino Ribeiro da Silva ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Constantino Ribeiro da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-09-05
+**UnitDateFinal**:: 1961-09-05
+**ScopeContent**:: Regedor efetivo da freguesia de Avidos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30049
+**LangMaterial**:: Português
+**PhysLoc**:: f. 24
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30049

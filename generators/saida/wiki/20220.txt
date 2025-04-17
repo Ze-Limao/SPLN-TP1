@@ -1,0 +1,28 @@
+====== 20220 - SSR - Registo de correspondência recebida ======
+
+**Parent**:: 20216
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1952-04-05
+**UnitDateFinal**:: 1960-02-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20220
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20220
+
+===== Filhos =====
+  * [[20315.txt|20315 - UI - Registo de correspondência recebida nº1]]
+  * [[20316.txt|20316 - UI - Registo de entrada nº2]]
+  * [[20317.txt|20317 - UI - Registo de entrada nº3]]
+  * [[20318.txt|20318 - UI - Registo de correspondência recebida nº4]]
+  * [[20319.txt|20319 - UI - Registo de correspondência recebida nº5]]
+  * [[20320.txt|20320 - UI - Registo de correspondência recebida nº6]]
+  * [[20321.txt|20321 - UI - Registo de correspondência recebida nº7]]
+  * [[20322.txt|20322 - UI - Registo de correspondência recebida nº8]]
+  * [[20323.txt|20323 - UI - Registo de correspondência recebida nº9]]
+  * [[20324.txt|20324 - UI - Registo de correspondência recebida nº 9]]
+  * [[20325.txt|20325 - UI - Registo de correspondência recebida nº10]]
+  * [[20326.txt|20326 - UI - Registo de correspondência recebida nº11]]
+  * [[20327.txt|20327 - UI - Registo de correspondência recebida nº16]]
+  * [[20328.txt|20328 - UI - Registo de correspondência recebida nº13]]

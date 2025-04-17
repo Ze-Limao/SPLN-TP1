@@ -1,0 +1,19 @@
+====== 34844 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-06-20
+**UnitDateFinal**:: 1883-06-20
+**ScopeContent**:: Naturalidade - Santo Tirso
+Data de nascimento - 1861-10-25
+Filiação - Manuel batista Pereira
+Profissão - Pedreiro
+Estado - Casado
+Morada - Carreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34844
+**LangMaterial**:: Português
+**PhysLoc**:: 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34844

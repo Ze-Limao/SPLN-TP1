@@ -1,0 +1,16 @@
+====== 30315 - DC - Carta ======
+
+**Parent**:: 25359
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1818-03-09
+**UnitDateFinal**:: 1818-03-09
+**ScopeContent**:: O funcionário António do Ministério da Instrução Pública informa sobre o subsídio para a escola de S. Miguel de Seide e que está sujeito ao disposto no artigo 13º da Lei nº 563 de 6 de junho de 1916. Carta manuscrita e assinada, de Lisboa. Papel timbrado "Ministério da Instrução Pública. Repartição de Instrução Primaria e Normal". Subsídio para a escola de S. Miguel de Seide.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30315
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1497 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30315

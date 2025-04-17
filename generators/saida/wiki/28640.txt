@@ -1,0 +1,25 @@
+====== 28640 - DC - Notas sobre Azurara ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre Azurara
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Consultar capítulo III “O mar livre” do estudo As Povoas Marítimas do Norte de Portugal in Estudos Históricos e Económicos, ed. 1923, pp. 329-333.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28640
+**LangMaterial**:: Português
+**PhysLoc**:: AS 115 (1) a 115 (8)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28640
+
+===== Filhos =====
+  * [[28641.txt|28641 - DC - Azurara]]
+  * [[29916.txt|29916 - DC - Zurara - Azurara]]
+  * [[29917.txt|29917 - DC - Pindelo em 1 de Julho]]
+  * [[29918.txt|29918 - DC - Pag. 12 verso ...et modo non]]
+  * [[29919.txt|29919 - DC - Cabaneiros]]
+  * [[29920.txt|29920 - DC - A pesca maritima na foz do Ave]]
+  * [[29921.txt|29921 - DC - No title]]
+  * [[29922.txt|29922 - DC - No title]]

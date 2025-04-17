@@ -1,0 +1,22 @@
+====== 60931 - SR - Documentos manuscritos e datilografados ======
+
+**Parent**:: 60550
+**RootParent**:: 60550
+**UnitTitle**:: Documentos manuscritos e datilografados
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1915-03-02
+**UnitDateFinal**:: 1942-04-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60931
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60931
+
+===== Filhos =====
+  * [[60939.txt|60939 - DC - Testemunho de solidariedade das Comissões do Partido Republicano Portugues de Lisboa… ao ilustre…Dr. Daniel Rodrigues]]
+  * [[61378.txt|61378 - DC - Todos comem palha…]]
+  * [[61379.txt|61379 - DC - Poeira duma marcha militar]]
+  * [[61380.txt|61380 - DC - Ómnia Vánitas]]
+  * [[61381.txt|61381 - DC - Corôas & saias: Episodios de politica sertaneja]]
+  * [[61382.txt|61382 - DC - Famalicão “Avaliação dos bens da Exª Senhora D. Alzira Dantas”]]
+  * [[61383.txt|61383 - DC - Declarações de Daniel Rodrigues nascido em Celorico de Basto]]
+  * [[61384.txt|61384 - DC - Acta da sessão de posse da Comissão Republicana Famalicense]]
+  * [[61385.txt|61385 - DC - Acta da Assembleia Republicana eleitoral]]

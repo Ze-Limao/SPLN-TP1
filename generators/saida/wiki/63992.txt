@@ -1,0 +1,15 @@
+====== 63992 - DC - Escritura de compra e venda de uma casa e seu circuito, na freguesia de S. Tiago de Antas, que faz Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Vicente Marques e sua mulher, pela quantia de quarenta e três mil e duzentos reis ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de compra e venda de uma casa e seu circuito, na freguesia de S. Tiago de Antas, que faz Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Vicente Marques e sua mulher, pela quantia de quarenta e três mil e duzentos reis
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1788-01-02
+**UnitDateFinal**:: 1788-01-02
+**ScopeContent**:: Manuscrito, instrumento, folhas cosidas. No canto superior esquerdo "Nº18".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 213 - cx. 11
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63992

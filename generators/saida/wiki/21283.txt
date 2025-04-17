@@ -1,0 +1,20 @@
+====== 21283 - UI - Alberto Veloso de Araújo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alberto Veloso de Araújo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1923-11-21
+**UnitDateFinal**:: 1926-09-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21283
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1132, 1133, 1161, 1162, 1163.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21283
+
+===== Filhos =====
+  * [[29723.txt|29723 - DC - Carta]]
+  * [[29724.txt|29724 - DC - Carta]]
+  * [[29751.txt|29751 - DC - Carta]]
+  * [[29752.txt|29752 - DC - Carta]]
+  * [[29753.txt|29753 - DC - Carta]]

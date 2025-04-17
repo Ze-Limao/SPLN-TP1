@@ -1,0 +1,15 @@
+====== 99475 - UI - Rego e Sá ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Rego e Sá
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917
+**UnitDateFinal**:: 1917
+**ScopeContent**:: Palmeira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99475
+
+===== Filhos =====
+  * [[99476.txt|99476 - DC - Carta]]

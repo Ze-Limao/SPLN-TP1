@@ -1,0 +1,15 @@
+====== 97513 - UI - Processo nº 6-A ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 6-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1961-01-19
+**UnitDateFinal**:: 1971-02-27
+**ScopeContent**:: Junto com Autos de Contrato Individual de Trabalho (Ordinário) nº 6.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 338 - cx. 19
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97513

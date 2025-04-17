@@ -1,0 +1,18 @@
+====== 29155 - DC - Janeiras ======
+
+**Parent**:: 27976
+**RootParent**:: 27963
+**UnitTitle**:: Janeiras
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 186
+**UnitDateFinal**:: 186
+**ScopeContent**:: Manuscrito «Janeiras (Guimarães) / As Janeiras não se cantam / Nem aos reis nem aos fidalgos; Mas nós vimo-las cantar, / Por ser anos melhorados, / Melhorados na saúde, / Descontados nos pecados. / - Fim - / Viva! Viva! / Quem diremos nós que viva / Na folhinha do Serpão / Viva o senhor d’esta casa / Que tem belo coração / etc. etc.».
+Serpão é uma erva aromática, cultivada nas hortas do norte e centro de Portugal.
+O papel usado por Alberto Sampaio para escrever os versos encontrava-se num envelope, de cor azul claro, com a seguinte identificação: “Versos do tio Alberto” (letra de sua sobrinha neta, Emília Ermelinda Sampaio da Nóvoa).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29155
+**LangMaterial**:: Português
+**PhysLoc**:: AS 149 - cx. 3
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29155

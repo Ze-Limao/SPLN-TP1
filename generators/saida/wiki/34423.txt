@@ -1,0 +1,20 @@
+====== 34423 - DC - Registo do recenseamento militar de Severino ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Severino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Paços de Ferreira
+Data de nascimento - 1852-04-20
+Filiação - José António Ferreira e Maria Joaquina Marques
+Profissão - 
+Estado - 
+Morada - Aves
+Observações - Dado em relação pela Câmara Municipal de Paços de Ferreira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34423
+**LangMaterial**:: Português
+**PhysLoc**:: 116v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34423

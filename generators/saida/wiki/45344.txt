@@ -1,0 +1,20 @@
+====== 45344 - UI - António Pereira da Cunha ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: António Pereira da Cunha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-07-15
+**UnitDateFinal**:: 1920-01-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45344
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45344
+
+===== Filhos =====
+  * [[45345.txt|45345 - DC - Carta]]
+  * [[45346.txt|45346 - DC - Carta]]
+  * [[45347.txt|45347 - DC - Cartão de visita]]

@@ -1,0 +1,16 @@
+====== 23429 - DC - Registo do recenseamento eleitoral de Manuel Joaquim Correia de Araújo ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Manuel Joaquim Correia de Araújo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Seide S. Miguel
+Profissão - Eclesiástico
+Morada - Aldeia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23429
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23429

@@ -1,0 +1,20 @@
+====== 20602 - DC - Registo do recenseamento militar de Francisco ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Francisco
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Louro
+Filiação - José João e Maria Teresa de Oliveira
+Naturalidade - Louro
+Data de nascimento - 1870-05-23
+Emprego - Alfaiate
+Estado - Solteiro
+Residência - Vilar do Pinheiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20602
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 42v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20602

@@ -1,0 +1,32 @@
+====== 61484 - SR - Documentos ======
+
+**Parent**:: 61479
+**RootParent**:: 60551
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1946
+**UnitDateFinal**:: 2020
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**LangMaterial**:: Português, Inglês
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61484
+
+===== Filhos =====
+  * [[61907.txt|61907 - DC - Selections from My road to Rotary by Paul Harris]]
+  * [[61969.txt|61969 - DC - Estatutos Prescritos para o Interact Club e Regimento Interno prescrito para o Interact Club]]
+  * [[61970.txt|61970 - DC - Estatutos Prescritos para o Rotaract Club]]
+  * [[61971.txt|61971 - DC - Declaração de normas sobre os Rotaract Clubs pelo Conselho Director do Rotary International]]
+  * [[61972.txt|61972 - DC - Formulários de baixa de sócios (2 ex.); Cartões de rotariano (4 ex.); Formulários para a transmissão de Informação sobre novos sócios, etc.]]
+  * [[61973.txt|61973 - DC - Trecho do Regimento Interno do Rotary International]]
+  * [[61974.txt|61974 - DC - Dados informativos da Fundação Rotária do Rotary International]]
+  * [[61975.txt|61975 - DC - Appendix H Rotary International Emblem use guidelines]]
+  * [[61976.txt|61976 - DC - The World of Rotary]]
+  * [[61977.txt|61977 - DC - The Four Way Test Rotary International]]
+  * [[61978.txt|61978 - DC - Torne real seu sonho de Rotary, Rotary International]]
+  * [[61979.txt|61979 - DC - Mostre que o Rotary se interessa…Rotary International]]
+  * [[61980.txt|61980 - DC - Presidente Rotary International]]
+  * [[61981.txt|61981 - DC - World of Rotary International]]
+  * [[61982.txt|61982 - DC - Como propor um novo sócio Rotary International]]
+  * [[61983.txt|61983 - DC - Isto é Rotary International]]

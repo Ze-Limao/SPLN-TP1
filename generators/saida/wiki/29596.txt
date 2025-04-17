@@ -1,0 +1,24 @@
+====== 29596 - SR - 2017 ======
+
+**Parent**:: 29620
+**RootParent**:: 29618
+**UnitTitle**:: 2017
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 2017-01-03
+**UnitDateFinal**:: 2017-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29596
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29596
+
+===== Filhos =====
+  * [[29604.txt|29604 - SSR - Visita a Obras de Saneamento na União de Freguesias de Lemenhe, Mouquim e Jesufrei]]
+  * [[29607.txt|29607 - SSR - Cantar dos Reis da Escola de Lagarinhos]]
+  * [[29608.txt|29608 - SSR - Cantar dos Reis Infantil na Casa das Artes]]
+  * [[29609.txt|29609 - SSR - Cantar dos Reis do Grupo dos Amigos das Concertinas do Monte de Santo André]]
+  * [[29610.txt|29610 - SSR - Cantar dos Reis Sénior]]
+  * [[29611.txt|29611 - SSR - Jantar de Reis com Presidentes de Junta]]
+  * [[29612.txt|29612 - SSR - Ciclo de Concertos de Ano Novo - Banda Marcial de Arnoso]]
+  * [[29613.txt|29613 - SSR - Ciclo de Concertos de Ano Novo - Banda Famalicão]]
+  * [[29614.txt|29614 - SSR - Ciclo de Concertos de Ano Novo - Banda de Música de Riba de Ave]]
+  * [[29615.txt|29615 - SSR - Reunião do Presidente da Câmara com o Tecido Associativo da Freguesia de Landim]]
+  * [[29616.txt|29616 - SSR - Tertúlia com Pedro Cabrita Reis]]

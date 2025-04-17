@@ -1,0 +1,15 @@
+====== 24769 - UI - Correspondência recebida/expedida para Imprensa local e nacional ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Correspondência recebida/expedida para Imprensa local e nacional
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1974-12-31
+**UnitDateFinal**:: 1991-01-08
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24769
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 28 - cx. 7
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24769

@@ -1,0 +1,16 @@
+====== 20209 - SR - Autos de arrematação da sopa económica ======
+
+**Parent**:: 20053
+**RootParent**:: 20048
+**UnitTitle**:: Autos de arrematação da sopa económica
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1874-02-05
+**UnitDateFinal**:: 1917-05-04
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20209
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20209
+
+===== Filhos =====
+  * [[20210.txt|20210 - UI - Autos de arrematação da sopa económica]]
+  * [[20211.txt|20211 - UI - Auto de entrega dos bens do albergue]]

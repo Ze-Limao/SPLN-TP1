@@ -1,0 +1,18 @@
+====== 97387 - UI - Bernardo Pinheiro Correia de Melo ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Bernardo Pinheiro Correia de Melo
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97387
+
+===== Filhos =====
+  * [[97389.txt|97389 - DC - Telegrama]]
+  * [[97391.txt|97391 - DC - Telegrama]]
+  * [[97393.txt|97393 - DC - Minuta de carta de Vicente]]
+  * [[97394.txt|97394 - DC - Minuta de carta de Vicente]]
+  * [[97395.txt|97395 - DC - Minuta de carta de Vicente]]
+  * [[97396.txt|97396 - DC - Minuta de carta de Vicente]]
+  * [[97397.txt|97397 - DC - Minuta de carta de Vicente]]

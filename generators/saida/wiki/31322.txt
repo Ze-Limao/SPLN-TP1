@@ -1,0 +1,46 @@
+====== 31322 - SR - Correspondência recebida ======
+
+**Parent**:: 31321
+**RootParent**:: 31258
+**UnitTitle**:: Correspondência recebida
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1886
+**UnitDateFinal**:: 1894-07-21
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31322
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31322
+
+===== Filhos =====
+  * [[31483.txt|31483 - UI - Maia Beltrão]]
+  * [[45318.txt|45318 - UI - Henrique de Macedo Pereira Coutinho]]
+  * [[45550.txt|45550 - UI - António Feijó]]
+  * [[46268.txt|46268 - UI - João Carlos da Horta Machado da Franca]]
+  * [[50155.txt|50155 - UI - Januário Correia de Almeida]]
+  * [[50157.txt|50157 - UI - António Augusto Moniz Arriscado de Lacerda]]
+  * [[50348.txt|50348 - UI - Joaquim Correia Lança]]
+  * [[52599.txt|52599 - UI - Carlos Lobo de Ávila]]
+  * [[54448.txt|54448 - UI - José Maria Brinche Carvalho]]
+  * [[54639.txt|54639 - UI - Jerónimo da Cunha Pimentel]]
+  * [[54645.txt|54645 - UI - Caetano Segismundo de Bragança]]
+  * [[54647.txt|54647 - UI - Pedro Lobo de Sousa Machado Cardoso de Meneses e e Maria Margarida de Melo Sampaio]]
+  * [[54649.txt|54649 - UI - José Martins de Queirós]]
+  * [[54651.txt|54651 - UI - António Vasco de Melo da Silva César e Meneses]]
+  * [[54653.txt|54653 - UI - Jacinto da Costa Coutinho de Vasconcelos]]
+  * [[54655.txt|54655 - UI - Delfim de Almeida]]
+  * [[54657.txt|54657 - UI - António Joaquim Gonçalves Rosa]]
+  * [[54659.txt|54659 - UI - Jaime Moniz]]
+  * [[54661.txt|54661 - UI - Eduardo Burnay]]
+  * [[54663.txt|54663 - UI - Médico de Haia]]
+  * [[54665.txt|54665 - UI - Luís Maria Pinto de Soveral]]
+  * [[54667.txt|54667 - UI - Gaspar Lobo de Sousa Machado]]
+  * [[54694.txt|54694 - UI - Baron]]
+  * [[54697.txt|54697 - UI - João Rodrigues de Sá e Abreu]]
+  * [[54862.txt|54862 - UI - Bessa]]
+  * [[54885.txt|54885 - UI - Pedro Lencastre]]
+  * [[55151.txt|55151 - UI - Bernardino Machado]]
+  * [[97411.txt|97411 - UI - Ezequiel Sousa Prego]]
+  * [[97413.txt|97413 - UI - A. D. de Vries]]
+  * [[97418.txt|97418 - UI - Rosenthal]]
+  * [[97421.txt|97421 - UI - Rumpfenaz?]]
+  * [[97431.txt|97431 - UI - Bernardo Pinheiro Correia de Melo]]
+  * [[97437.txt|97437 - UI - Conde de Castelo de Paiva]]

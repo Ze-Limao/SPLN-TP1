@@ -1,0 +1,15 @@
+====== 31364 - SSC - Ana Maria Isabel do Carmo Pinheiro de Melo ======
+
+**Parent**:: 31362
+**RootParent**:: 31258
+**UnitTitle**:: Ana Maria Isabel do Carmo Pinheiro de Melo
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1904-01
+**UnitDateFinal**:: 1908
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31364
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31364
+
+===== Filhos =====
+  * [[31366.txt|31366 - SR - Correspondência recebida]]
+  * [[79612.txt|79612 - SR - Documentos]]

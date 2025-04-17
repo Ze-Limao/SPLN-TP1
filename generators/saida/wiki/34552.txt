@@ -1,0 +1,19 @@
+====== 34552 - DC - Registo do recenseamento militar de Augusto ======
+
+**Parent**:: 9182
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Augusto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-02-07
+**UnitDateFinal**:: 1883-03-28
+**ScopeContent**:: Naturalidade - Castelões
+Data de nascimento - 1862-08-27
+Filiação - António de Azevedo Campos e Leopoldina Dias de Freitas
+Profissão - Estudante
+Estado - Solteiro
+Morada - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34552
+**LangMaterial**:: Português
+**PhysLoc**:: 22v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34552

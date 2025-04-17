@@ -1,0 +1,16 @@
+====== 20296 - DC - Carta ======
+
+**Parent**:: 20292
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1920-01-07
+**UnitDateFinal**:: 1920-01-07
+**ScopeContent**:: Adolfo da Fonseca Magalhães da Costa e Silva agradece a promessa de obter o livro “Ninharias”. Informa sobre a sua genealogia. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20296
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 2 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20296

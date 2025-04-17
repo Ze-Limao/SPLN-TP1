@@ -1,0 +1,17 @@
+====== 101126 - DC - Diz João Machado Fagundes que na causa de pura aos banhos que lhe move Mariana Amaral ======
+
+**Parent**:: 54469
+**RootParent**:: 31258
+**UnitTitle**:: Diz João Machado Fagundes que na causa de pura aos banhos que lhe move Mariana Amaral
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1708-04-28
+**UnitDateFinal**:: 1708-04-28
+**ScopeContent**:: Manuscrito com folhas cosidas. Este documento estava na “Caixa 18”, que contém CP 13256 a CP 13368. Junto com CP 13259, CP 13260, 13261 e 13262.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54262
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13263 - cx. 92
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=101126

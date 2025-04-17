@@ -1,0 +1,17 @@
+====== 60160 - DC - Federação. Secção F. Fornecimento aos Sindicatos Agricolas de balanças de pesar gados ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Federação. Secção F. Fornecimento aos Sindicatos Agricolas de balanças de pesar gados
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1931-07-27
+**UnitDateFinal**:: 1931-10-28
+**ScopeContent**:: Capa com 8 ofícios datilografados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9532 - cx. 59
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60160

@@ -1,0 +1,15 @@
+====== 24995 - UI - Actas da Direcção / Livro nº6 ======
+
+**Parent**:: 20398
+**RootParent**:: 20342
+**UnitTitle**:: Actas da Direcção / Livro nº6
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1942-09-30
+**UnitDateFinal**:: 1961-05-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24995
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 99
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24995

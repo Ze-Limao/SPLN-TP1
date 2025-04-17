@@ -1,0 +1,16 @@
+====== 29382 - DC - Envelope ======
+
+**Parent**:: 29381
+**RootParent**:: 27963
+**UnitTitle**:: Envelope
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 187
+**UnitDateFinal**:: 187
+**ScopeContent**:: Envelope selado sem carimbos dirigido ao "Conselheiro António de Azevedo Castello-Branco, Ministro e Secretário de Estado Honorário digmo Director da Penitenciária, Lisboa."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29382
+**LangMaterial**:: Português
+**PhysLoc**:: AS 580, cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29382

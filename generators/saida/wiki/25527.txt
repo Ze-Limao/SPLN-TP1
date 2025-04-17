@@ -1,0 +1,16 @@
+====== 25527 - DC - Carta para Vicente Almada, 2º Visconde de Pindela? ======
+
+**Parent**:: 21140
+**RootParent**:: 20290
+**UnitTitle**:: Carta para Vicente Almada, 2º Visconde de Pindela?
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-03-05
+**UnitDateFinal**:: 1913-03-05
+**ScopeContent**:: Carta manuscrita assinada, de Viseu. Um a fotografia p.&b. da Capela Vera Cruz.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25527
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 481 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25527

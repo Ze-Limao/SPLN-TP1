@@ -1,0 +1,16 @@
+====== 28208 - DC - Rol dos Dias da obra em Caza ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Rol dos Dias da obra em Caza
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871
+**UnitDateFinal**:: 1908
+**ScopeContent**:: Folha de mão-de-obra com indicação, por trabalhador, do número de dias de trabalho, salário diário e salário total.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28208
+**LangMaterial**:: Português
+**PhysLoc**:: AS 480 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28208

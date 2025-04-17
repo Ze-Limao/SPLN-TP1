@@ -1,0 +1,16 @@
+====== 25006 - UI - Processos da Caixa de Previdência dos Empregados de Assistência ======
+
+**Parent**:: 20363
+**RootParent**:: 20342
+**UnitTitle**:: Processos da Caixa de Previdência dos Empregados de Assistência
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1966-08-04
+**UnitDateFinal**:: 1970-12-31
+**ScopeContent**:: Contém: Folhas de ordenado da Caixa de Previdência dos Empregados da Assistência, etc.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25006
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 109  - cx. 28
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25006

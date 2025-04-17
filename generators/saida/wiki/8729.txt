@@ -1,0 +1,18 @@
+====== 8729 - DC - Termo do exame de José Acácio Alves de Sá ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de José Acácio Alves de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1891-07-14
+**UnitDateFinal**:: 1891-07-14
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação -  Inácio Alves de Sá
+Naturalidade - Abade de Vermoim
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8729
+**LangMaterial**:: Português
+**PhysLoc**:: f. 16
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8729

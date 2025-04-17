@@ -1,0 +1,15 @@
+====== 54378 - UI - João Monteiro Pinto da Fonseca Vaz ======
+
+**Parent**:: 31319
+**RootParent**:: 31258
+**UnitTitle**:: João Monteiro Pinto da Fonseca Vaz
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1879-12-19
+**UnitDateFinal**:: 1880-05-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54378
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54378
+
+===== Filhos =====
+  * [[54379.txt|54379 - DC - Carta]]
+  * [[54380.txt|54380 - DC - Carta]]

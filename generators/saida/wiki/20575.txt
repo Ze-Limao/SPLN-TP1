@@ -1,0 +1,20 @@
+====== 20575 - DC - Registo do recenseamento militar de Constantino ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Constantino
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Fradelos
+Filiação - Manuel Joaquim Rodrigues  e Joaquina Domingues de Azevedo
+Naturalidade - Fradelos
+Data de nascimento - 1870-01-31
+Emprego - Jornaleiro
+Estado - Solteiro
+Residência - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20575
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 38v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20575

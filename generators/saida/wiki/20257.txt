@@ -1,0 +1,14 @@
+====== 20257 - UI - Registo de correspondência recebida nº30 ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida nº30
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1966-10-01
+**UnitDateFinal**:: 1967-04-16
+**ScopeContent**:: Termo de abertura impresso: “Há-de servir este livro para nele se registar (manuscrito) correspondência recebida…”. Contém dados: nº de ordem, nº e data do documento, data do registo, remetente, assunto. Inicia com o registo nº 4701 até nº registo 6082. No ano 1967 tem 2018 registos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20257
+**LangMaterial**:: Português
+**PhysLoc**:: 627
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20257

@@ -1,0 +1,34 @@
+====== 56065 - DC - Recortes de imprensa sobre taxas e Tratado de Comércio ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Recortes de imprensa sobre taxas e Tratado de Comércio
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Envelope com título manuscrito com recortes de jornais alemães. Contém CP 14690 a CP 14704.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56065
+**LangMaterial**:: Português e Alemão
+**PhysLoc**:: CP 14689 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56065
+
+===== Filhos =====
+  * [[56066.txt|56066 - DC - Recorte de jornal]]
+  * [[56067.txt|56067 - DC - Recorte de jornal]]
+  * [[56068.txt|56068 - DC - Recorte de jornal]]
+  * [[56069.txt|56069 - DC - Recorte de jornal]]
+  * [[56070.txt|56070 - DC - Recorte de jornal]]
+  * [[56071.txt|56071 - DC - Recorte de jornal]]
+  * [[56072.txt|56072 - DC - Recorte de jornal]]
+  * [[56073.txt|56073 - DC - Recorte de jornal]]
+  * [[56074.txt|56074 - DC - Recorte de jornal]]
+  * [[56075.txt|56075 - DC - Recorte de jornal]]
+  * [[56076.txt|56076 - DC - Recorte de jornal]]
+  * [[56077.txt|56077 - DC - Recorte de jornal]]
+  * [[56078.txt|56078 - DC - Recorte de jornal]]
+  * [[56079.txt|56079 - DC - Recorte de jornal]]
+  * [[56080.txt|56080 - DC - Recorte de jornal]]

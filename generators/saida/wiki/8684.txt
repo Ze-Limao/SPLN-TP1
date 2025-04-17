@@ -1,0 +1,18 @@
+====== 8684 - DC - Termo do exame de Manuel Carvalho da Silva ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel Carvalho da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-08-19
+**UnitDateFinal**:: 1890-08-19
+**ScopeContent**:: Grau - Elementar
+Idade - 12
+Filiação - José Carvalho da Silva
+Naturalidade - Antas
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8684
+**LangMaterial**:: Português
+**PhysLoc**:: f. 5
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8684

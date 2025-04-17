@@ -1,0 +1,15 @@
+====== 65912 - DC - Relatório de confrontação de terras de Manuel Gomes Vilas Boas, Duque do Porto e Matias Gonçalves ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Relatório de confrontação de terras de Manuel Gomes Vilas Boas, Duque do Porto e Matias Gonçalves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1600
+**UnitDateFinal**:: 1700
+**ScopeContent**:: Manuscrito, original. Faltam páginas, sem datação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 648 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65912

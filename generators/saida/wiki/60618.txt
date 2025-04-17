@@ -1,0 +1,14 @@
+====== 60618 - UI - Irmã não identificada ======
+
+**Parent**:: 31377
+**RootParent**:: 31258
+**UnitTitle**:: Irmã não identificada
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890
+**UnitDateFinal**:: 1936
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32464
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60618
+
+===== Filhos =====
+  * [[60619.txt|60619 - DC - Carta enviada a irmã não identificada]]

@@ -1,0 +1,20 @@
+====== 62309 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - Manuel Alves Capela e Felizarda Rosa da Costa
+Naturalidade - Carreira
+Morada - Ignora-se
+Data de nascimento - 1856-03-13
+Emprego - Ignora-se
+Estado - Ignora-se
+Residência acidental - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62309

@@ -1,0 +1,17 @@
+====== 78369 - DC - Certidão de padrões e escritura do juro de 100 mil reis anuais prestado aos Duques de Bragança (morgado da Gonça) ======
+
+**Parent**:: 54472
+**RootParent**:: 31258
+**UnitTitle**:: Certidão de padrões e escritura do juro de 100 mil reis anuais prestado aos Duques de Bragança (morgado da Gonça)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1621
+**UnitDateFinal**:: 1686
+**ScopeContent**:: Manuscrito com folhas cosidas, numerado nº 2.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54363
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4985 - cx. 35
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78369

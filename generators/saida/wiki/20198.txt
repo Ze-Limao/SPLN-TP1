@@ -1,0 +1,17 @@
+====== 20198 - SSC - Polícia sanitária ======
+
+**Parent**:: 20051
+**RootParent**:: 20048
+**UnitTitle**:: Polícia sanitária
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1884-03-28
+**UnitDateFinal**:: 1926-04-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20198
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20198
+
+===== Filhos =====
+  * [[20199.txt|20199 - SR - Matrícula das toleradas]]
+  * [[20201.txt|20201 - SR - Registo de mulheres grávidas notificadas]]
+  * [[20203.txt|20203 - SR - Diplomas de médicos, cirurgiões, parteiras, farmacêuticos, sangradores e castradores]]

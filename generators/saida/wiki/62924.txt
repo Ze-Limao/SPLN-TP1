@@ -1,0 +1,19 @@
+====== 62924 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - José António de Almeida e Maria Rosa de Azevedo, na freguesia
+Naturalidade - Cavalões
+Morada - Guidões, Santo Tirso
+Data de nascimento - 1863-09-03
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 49v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62924

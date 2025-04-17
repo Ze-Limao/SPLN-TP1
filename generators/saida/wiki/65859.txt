@@ -1,0 +1,15 @@
+====== 65859 - DC - Escritura de renovação de emprazamento do, situado na freguesia de S. Tiago de Antas, que fazem Tomé Ferreira de Carvalho e sua mulher e Ana Maria, da freguesia de S. Julião de Calendário, com Manuel José de Carvalho e sua mulher Rosa Carneiro, da freguesia de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Escritura de renovação de emprazamento do, situado na freguesia de S. Tiago de Antas, que fazem Tomé Ferreira de Carvalho e sua mulher e Ana Maria, da freguesia de S. Julião de Calendário, com Manuel José de Carvalho e sua mulher Rosa Carneiro, da freguesia de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1818-02-18
+**UnitDateFinal**:: 1818-02-18
+**ScopeContent**:: Manuscrito, original. Com carimbo de S. Tiago de Antas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 622 - cx. 24
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65859

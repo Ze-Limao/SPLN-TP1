@@ -1,0 +1,18 @@
+====== 29293 - DC - Pintura sobre madeira ao ar livre ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Pintura sobre madeira ao ar livre
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29293
+**LangMaterial**:: Português
+**PhysLoc**:: AS 202 (1) a 202 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29293
+
+===== Filhos =====
+  * [[29294.txt|29294 - DC - Pintura sobre madeira ao ar livre]]
+  * [[29295.txt|29295 - DC - Pintura sobre madeira (ar livre)]]

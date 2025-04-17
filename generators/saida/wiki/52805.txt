@@ -1,0 +1,18 @@
+====== 52805 - DC - Registo do recenseamento militar de António de Sá Bezerra ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António de Sá Bezerra
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1849-01-28
+Filiação - José de Sá Bezerra e Felizarda de Araújo Fernandes
+Naturalidade - Antas
+Profissão - Caixeiro
+Residência - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52805
+**LangMaterial**:: Português
+**PhysLoc**:: 71v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52805

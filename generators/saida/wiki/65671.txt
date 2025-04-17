@@ -1,0 +1,17 @@
+====== 65671 - DC - Escritura de venda que fez Manuel Figueira e sua mulher D. Ana Pinheiro a Gonçalo Correia da Quinta de Pousada, em Jesufrei e outra escritura de distrato desta venda pelo mesmo Manuel Figueira ======
+
+**Parent**:: 54463
+**RootParent**:: 31258
+**UnitTitle**:: Escritura de venda que fez Manuel Figueira e sua mulher D. Ana Pinheiro a Gonçalo Correia da Quinta de Pousada, em Jesufrei e outra escritura de distrato desta venda pelo mesmo Manuel Figueira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1584
+**UnitDateFinal**:: 1584
+**ScopeContent**:: Folhas cosidas. Este documento estava na “Caixa 12”, que contém CP 3800 a CP 3826 embrulhados em jornais do ano 1936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31266
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3813 - cx. 28
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65671

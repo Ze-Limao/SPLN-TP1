@@ -1,0 +1,14 @@
+====== 60306 - UI - Marie Cotti ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Marie Cotti
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910-  -28
+**UnitDateFinal**:: 1910-  -28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60306
+
+===== Filhos =====
+  * [[60307.txt|60307 - DC - Carta]]

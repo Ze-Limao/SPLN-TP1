@@ -1,0 +1,19 @@
+====== 21086 - UI - Bento de Sousa Carqueja ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Bento de Sousa Carqueja
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913-02-14
+**UnitDateFinal**:: 1924-12-16
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21086
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 319, 320, 321
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21086
+
+===== Filhos =====
+  * [[21967.txt|21967 - DC - Carta]]
+  * [[24886.txt|24886 - DC - Carta]]
+  * [[24887.txt|24887 - DC - Carta]]

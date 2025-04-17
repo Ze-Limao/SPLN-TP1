@@ -1,0 +1,17 @@
+====== 56432 - DC - 28 de Dezembro de 1915 ======
+
+**Parent**:: 56431
+**RootParent**:: 31258
+**UnitTitle**:: 28 de Dezembro de 1915
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-12-28
+**UnitDateFinal**:: 1915-12-28
+**ScopeContent**:: Envelope com título e nota manuscrita. No verso manuscrito a lápis "para Resende do Vicente, para casa."  Este documento está no envelope CP 4781, com CP 4783 a CP 4790.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56432
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4782 - cx. 34
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56432

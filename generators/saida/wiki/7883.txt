@@ -1,0 +1,11 @@
+====== 7883 - SSC - Presidente da Câmara Municipal ======
+
+**Parent**:: 7652
+**RootParent**:: 7651
+**UnitTitle**:: Presidente da Câmara Municipal
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 2002-01-01
+**UnitDateFinal**:: 2017-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7883
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7883

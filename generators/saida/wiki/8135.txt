@@ -1,0 +1,18 @@
+====== 8135 - DC - Lino Gonçalves Ferreira dos Santos ======
+
+**Parent**:: 8108
+**RootParent**:: 7651
+**UnitTitle**:: Lino Gonçalves Ferreira dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1883-11-14
+**UnitDateFinal**:: 1890-04-23
+**ScopeContent**:: Escola - Delães
+Cargo - Professor
+Vínculo - Vitalício
+Naturalidade - Póvoa de Varzim
+Data de posse - 1883-11-14
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8135
+**LangMaterial**:: Português
+**PhysLoc**:: f. 12v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8135

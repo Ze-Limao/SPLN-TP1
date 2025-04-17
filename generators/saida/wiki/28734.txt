@@ -1,0 +1,16 @@
+====== 28734 - UI - Pedro Vicente de Morais Sarmento Campilho ======
+
+**Parent**:: 28714
+**RootParent**:: 27963
+**UnitTitle**:: Pedro Vicente de Morais Sarmento Campilho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1908-02-13
+**UnitDateFinal**:: 1908-02-13
+**ScopeContent**:: Pedro Vicente de Moraes Sarmento Campilho (1825-1908). Geralmente conhecido por Pedro Vicente de Morais Campilho, descendente de uma nobre família de origem espanhola que no século XVI veio para Portugal, ligando-se pelo casamento com uma descendente da casa dos Sampaios, dando origem aos Campilhos de Vinhais. Nasceu em Sobreiró de Cima (Vinhais) a 22 de Janeiro de 1825 e morreu a 14 de Maio de 1908, na sua casa de Vinhais. Desempenhou funções no Governo Civil de Bragança e foi várias vezes presidente da Câmara e administrador do concelho durante 18 anos, tendo também desempenhado o cargo de procurador à Junta Geral do Distrito de Bragança. Era uma importante figura do Partido Progressista, um político com grande poder local e muitos apoiantes. Deputado eleito uma única vez, na legislatura de 1858-1859, por Bragança, com juramento a 21.6.1858, pertenceu à Comissão de Petições (1858). A sua contribuição nos trabalhos parlamentares é muito modesta. Limitou-se a participar na votação do projeto da Fazenda que autorizava o Governo a contrair um empréstimo para incrementar as obras públicas e subscrever um requerimento e uma proposta. O primeiro pedia ao ministro das Obras Públicas informação sobre a construção da estrada de Bragança a Mirandela e ponte sobre o rio Tua, indicando o tempo e dinheiro já despendidos com tais obras; a segunda tinha por fim diminuir o imposto que recaía sobre o arroz importado, tanto descascado como com casca. 
+Fonte: Dicionário Biográfico Parlamentar 1834-1910. Lisboa: Instituto de Ciências Sociais da Universidade de Lisboa e Assembleia da República, 2004.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28734
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28734
+
+===== Filhos =====
+  * [[28735.txt|28735 - DC - Carta]]

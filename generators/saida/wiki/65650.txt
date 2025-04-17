@@ -1,0 +1,15 @@
+====== 65650 - DC - Património de Manuel José de Azevedo, morador na freguesia de Castelões ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Património de Manuel José de Azevedo, morador na freguesia de Castelões
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1783-05-24
+**UnitDateFinal**:: 1783-05-24
+**ScopeContent**:: Manuscrito, instrumento, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 203 - cx. 10
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65650

@@ -1,0 +1,41 @@
+====== 33038 - UI - Maria Inácia de Sousa Botelho de Brederode ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Maria Inácia de Sousa Botelho de Brederode
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1889-05-27
+**UnitDateFinal**:: 1920-05-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33038
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33038
+
+===== Filhos =====
+  * [[33039.txt|33039 - DC - Carta]]
+  * [[33040.txt|33040 - DC - Carta]]
+  * [[33041.txt|33041 - DC - Carta]]
+  * [[33042.txt|33042 - DC - Carta]]
+  * [[33043.txt|33043 - DC - Carta]]
+  * [[33044.txt|33044 - DC - Carta]]
+  * [[33045.txt|33045 - DC - Carta]]
+  * [[33046.txt|33046 - DC - Carta]]
+  * [[33047.txt|33047 - DC - Postal ilustrado]]
+  * [[33048.txt|33048 - DC - Carta]]
+  * [[33216.txt|33216 - DC - Carta]]
+  * [[33217.txt|33217 - DC - Carta]]
+  * [[33218.txt|33218 - DC - Cartão]]
+  * [[33219.txt|33219 - DC - Cartão]]
+  * [[33220.txt|33220 - DC - Carta]]
+  * [[33221.txt|33221 - DC - Carta]]
+  * [[33222.txt|33222 - DC - Carta]]
+  * [[33223.txt|33223 - DC - Telegrama]]
+  * [[33224.txt|33224 - DC - Carta]]
+  * [[33225.txt|33225 - DC - Cartão]]
+  * [[33226.txt|33226 - DC - Carta]]
+  * [[54239.txt|54239 - DC - Carta]]
+  * [[54240.txt|54240 - DC - Telegrama para Viscondes]]
+  * [[54241.txt|54241 - DC - Carta]]

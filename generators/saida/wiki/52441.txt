@@ -1,0 +1,18 @@
+====== 52441 - DC - Registo do recenseamento militar de António José do Amaral ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António José do Amaral
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-04-09
+Filiação - António Amaral e Domingas Duarte
+Naturalidade - Arnoso Santa Maria
+Profissão - Criado de servir
+Residência - Maia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52441
+**LangMaterial**:: Português
+**PhysLoc**:: 9v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52441

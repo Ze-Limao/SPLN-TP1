@@ -1,0 +1,37 @@
+====== 54176 - SSR - Concurso público para a empreitada de instalação de aquecimento central no novo edifício destinado a Paços do Concelho, serviços municipais, secção de Finanças e tesouraria da fazenda Pública e do corpo destinado a Tribunal Judicial e mais serviços dependentes do Ministério da Justiça ======
+
+**Parent**:: 53752
+**RootParent**:: 25851
+**UnitTitle**:: Concurso público para a empreitada de instalação de aquecimento central no novo edifício destinado a Paços do Concelho, serviços municipais, secção de Finanças e tesouraria da fazenda Pública e do corpo destinado a Tribunal Judicial e mais serviços dependentes do Ministério da Justiça
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1954
+**UnitDateFinal**:: 1961
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54176
+**LangMaterial**:: Português
+**PhysLoc**:: JG 168(1) - cx. 16; JG 168(2) a (4) - cx. 5; JG 173(1), (10) (11) - cx. 16; JG 173(2) a (9), (12) a (15) - cx. 6; JG 173(16) a (18) -  cx. 7.
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54176
+
+===== Filhos =====
+  * [[54085.txt|54085 - DC - C.M.F. Aquecimento]]
+  * [[54091.txt|54091 - DC - Proposta de Casa Capucho Lisboa-Porto para a empreitada do aquecimento central - processo]]
+  * [[54132.txt|54132 - DC - Documentos sobre Concurso público para a empreitada de instalação de aquecimento central no novo edifício destinado a Paços do Concelho, etc.]]
+  * [[54133.txt|54133 - DC - Conhecimento do depósito obrigatório da Caixa geral de Depósitos, Crédito e Previdência]]
+  * [[54134.txt|54134 - DC - Diário do Governo, III Série - nº 85]]
+  * [[54135.txt|54135 - DC - O Primeiro de Janeiro, ano 90, nº92]]
+  * [[54136.txt|54136 - DC - Estrela do Minho, ano 63, nº 3251]]
+  * [[54137.txt|54137 - DC - Correio do Minho, ano 31, nº9707]]
+  * [[54138.txt|54138 - DC - O Século]]
+  * [[54139.txt|54139 - DC - O Século, ano 78, nº 27298]]
+  * [[54140.txt|54140 - DC - O Comércio do Porto, ano CIV, nº92]]
+  * [[54141.txt|54141 - DC - Boletim de informações, ano XXV, nº2359]]
+  * [[54142.txt|54142 - DC - Folhetos de publicidade a materiais de aquecimento central]]
+  * [[54143.txt|54143 - DC - Proposta para Concurso de adjudicação da empreitada de instalação de aquecimento central do Novo Edifício dos Paços de Concelho, Tribunal de Justiça, etc. de Joaquim de Sousa]]
+  * [[54144.txt|54144 - DC - Proposta para Concurso de adjudicação da empreitada de instalação de aquecimento central do Novo Edifício dos Paços de Concelho, Tribunal de Justiça, etc. de Fonseca e Seabra Lda.]]
+  * [[54145.txt|54145 - DC - Proposta de Fonseca e Seabra para instalação de aquecimento central no novo edifício dos Paços do Concelho]]
+  * [[54146.txt|54146 - DC - Proposta de Fonseca e Seabra para instalação de aquecimento central no novo edifício dos Paços do Concelho]]
+  * [[54159.txt|54159 - DC - Proposta de J. Nunes Correia, Lda para instalação de aquecimento central no novo edifício dos Paços do Concelho]]
+  * [[54160.txt|54160 - DC - Proposta de G. Perez, Lda. para instalação de aquecimento central no novo edifício dos Paços do Concelho]]

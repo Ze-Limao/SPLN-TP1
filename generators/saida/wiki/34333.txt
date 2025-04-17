@@ -1,0 +1,19 @@
+====== 34333 - DC - Registo do recenseamento militar de Domingos Rodrigues de Sá ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Domingos Rodrigues de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Calendário
+Data de nascimento - 1852-05-28
+Filiação - José Rodrigues de Sá e Ana Alves
+Profissão - Criado de servir
+Estado - Solteiro
+Morada - Brufe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34333
+**LangMaterial**:: Português
+**PhysLoc**:: 100v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34333

@@ -1,0 +1,16 @@
+====== 29746 - DC - Carta ======
+
+**Parent**:: 21294
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-08-09
+**UnitDateFinal**:: 1899-08-09
+**ScopeContent**:: Carta manuscrita assinada. Agradece a participação do casamento de José, filho de JAM.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29746
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1157 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29746

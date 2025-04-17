@@ -1,0 +1,21 @@
+====== 48702 - UI - Júlio Augusto Henriques ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Júlio Augusto Henriques
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48702
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48702
+
+===== Filhos =====
+  * [[48703.txt|48703 - DC - Carta]]
+  * [[48704.txt|48704 - DC - Carta]]
+  * [[48705.txt|48705 - DC - Carta]]
+  * [[48706.txt|48706 - DC - Carta]]
+  * [[48707.txt|48707 - DC - Carta]]
+  * [[48708.txt|48708 - DC - Carta]]

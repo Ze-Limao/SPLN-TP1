@@ -1,0 +1,18 @@
+====== 8857 - DC - Termo do exame de Manuel de Oliveira Júnior ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel de Oliveira Júnior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-08-04
+**UnitDateFinal**:: 1893-08-04
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - António de Oliveira Júnior
+Naturalidade - Brufe
+Classificação - Bom
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8857
+**LangMaterial**:: Português
+**PhysLoc**:: f. 49
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8857

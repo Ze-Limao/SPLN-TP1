@@ -1,0 +1,17 @@
+====== 61972 - DC - Formulários de baixa de sócios (2 ex.); Cartões de rotariano (4 ex.); Formulários para a transmissão de Informação sobre novos sócios, etc. ======
+
+**Parent**:: 61484
+**RootParent**:: 60551
+**UnitTitle**:: Formulários de baixa de sócios (2 ex.); Cartões de rotariano (4 ex.); Formulários para a transmissão de Informação sobre novos sócios, etc.
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1970
+**UnitDateFinal**:: 2020
+**ScopeContent**:: Envelope timbrado Rotary Internacional escritório sucursal Brasil, São Paulo com os documentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 358 - cx. 4
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61972

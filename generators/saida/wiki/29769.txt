@@ -1,0 +1,16 @@
+====== 29769 - DC - Carta ======
+
+**Parent**:: 21301
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-06-19
+**UnitDateFinal**:: 1904-06-19
+**ScopeContent**:: Carta manuscrita assinada, de Braga. Informa que o deputado de Braga será António Peixoto Correia, os outros nomes não aceitaram a candidatura ao parlamento.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29769
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1178 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29769

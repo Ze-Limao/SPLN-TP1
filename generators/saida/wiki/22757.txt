@@ -1,0 +1,23 @@
+====== 22757 - SR - Documentos sobre o arquivo de José de Azevedo e Menezes ======
+
+**Parent**:: 20290
+**RootParent**:: 20290
+**UnitTitle**:: Documentos sobre o arquivo de José de Azevedo e Menezes
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1998
+**UnitDateFinal**:: 1998
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22757
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1522, 1526, 1523, 1547, 1548
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22757
+
+===== Filhos =====
+  * [[22758.txt|22758 - DC - Maço de fotocópias sobre documentos do arquivo de José de Azevedo e Menezes]]
+  * [[22759.txt|22759 - DC - Maço de fotocópias sobre os remetentes da correspondência recebida]]
+  * [[24807.txt|24807 - DC - Maço de fotocópias sobre sistema de classificação e arrumação da documentação de José de Azevedo e Menezes]]
+  * [[30358.txt|30358 - DC - Listagem de documentos de investigação genealógica de António Ferraz]]
+  * [[30360.txt|30360 - DC - Listagem de documentos de investigação genealógica do Prof. Dr. Jaime Salazar de Sousa]]
+  * [[66600.txt|66600 - DC - Tarjetas com nomes dos remetentes das cartas do arquivo JAM]]
+  * [[66601.txt|66601 - DC - Cópia de cartas da correspondência recebida do Fundo José de Azevedo e Menezes e folhas de descrição]]

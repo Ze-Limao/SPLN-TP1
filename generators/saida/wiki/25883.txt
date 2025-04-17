@@ -1,0 +1,16 @@
+====== 25883 - DC - Receção do Corpo Activo da AHBVF aos participantes do XVIII Congresso dos Bombeiros ======
+
+**Parent**:: 25317
+**RootParent**:: 20342
+**UnitTitle**:: Receção do Corpo Activo da AHBVF aos participantes do XVIII Congresso dos Bombeiros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-06-10
+**UnitDateFinal**:: 1966-06-10
+**ScopeContent**:: O XVIII Congresso dos Bombeiros foi em Matosinhos, mas houve um jantar no quartel em Famalicão. Na fotografia vê-se o Corpo Ativo e a fanfarra da AHBVF na receção aos participantes à frente dos Paços do Concelho; a desfilar na rua de Famalicão e sessão de cumprimentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25883
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 186 - cx. 50
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25883

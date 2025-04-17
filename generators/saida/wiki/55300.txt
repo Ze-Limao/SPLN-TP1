@@ -1,0 +1,17 @@
+====== 55300 - DC - Minutas de carta de Vicente Pinheiro Lobo Machado de Melo e Almada ======
+
+**Parent**:: 55119
+**RootParent**:: 31258
+**UnitTitle**:: Minutas de carta de Vicente Pinheiro Lobo Machado de Melo e Almada
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-06-27
+**UnitDateFinal**:: 1908-06-27
+**ScopeContent**:: 2 Minutas de carta manuscritas. Estas minutas estão no maço CP 2101 "1908 Correspondência com o conselheiro Wenceslau particular" que contém CP 2102 a CP 2111.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55300
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2102 - cx. 15
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55300

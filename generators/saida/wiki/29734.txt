@@ -1,0 +1,16 @@
+====== 29734 - DC - Duas quadras ======
+
+**Parent**:: 21287
+**RootParent**:: 20290
+**UnitTitle**:: Duas quadras
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925
+**UnitDateFinal**:: 1925
+**ScopeContent**:: Duas quadras manuscritas e assinada que elogiam o português de um escritor.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29734
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1145 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29734

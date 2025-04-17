@@ -1,0 +1,24 @@
+====== 29153 - SSSC - Atividades diversas ======
+
+**Parent**:: 28063
+**RootParent**:: 27963
+**UnitTitle**:: Atividades diversas
+**DescriptionLevel**:: SSSC
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1908
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29153
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29153
+
+===== Filhos =====
+  * [[29154.txt|29154 - DC - Ao Ex.mo Ensaiador]]
+  * [[29156.txt|29156 - DC - Bases da ortografia portuguesa, A. R. Gonçalves Viana, G. de Vasconcelos Abreu]]
+  * [[29167.txt|29167 - DC - Cópia da acta da sessão da Comissão Municipal de Ponta-delgada de 14 de Settembro de 1891.]]
+  * [[29168.txt|29168 - DC - Morte de Anthero]]
+  * [[29349.txt|29349 - DC - Postal ilustrado Antero de Quental]]
+  * [[29350.txt|29350 - DC - Bilhete-postal de dez réis com D. Carlos.]]
+  * [[29351.txt|29351 - DC - Requisição de vale]]
+  * [[29352.txt|29352 - DC - Folhas de papel azul]]
+  * [[29354.txt|29354 - DC - Apontamentos com desenhos, esquemas e plantas]]

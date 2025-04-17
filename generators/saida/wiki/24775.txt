@@ -1,0 +1,19 @@
+====== 24775 - UI - Copiador da correspondência expedida ======
+
+**Parent**:: 20351
+**RootParent**:: 20342
+**UnitTitle**:: Copiador da correspondência expedida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1988-07-04
+**UnitDateFinal**:: 1988-12-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24775
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 34 - cx. 8
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24775
+
+===== Filhos =====
+  * [[25842.txt|25842 - DC - Ofício dirigido ao Director dos Serviços da CCRN de Braga do Presidente da Direção dos Bombeiros de Vila Nova de Famalicão Agostinho Silva]]
+  * [[25843.txt|25843 - DC - Declaração de adjudicação das empreitadas de construção do Quartel-Sede dos Bombeiros Voluntários de Vila Nova de Famalicão]]

@@ -1,0 +1,17 @@
+====== 101054 - DC - Nota de venda de pedra do muro que fazem a João Machado de Melo, morador na Rua do Gado ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Nota de venda de pedra do muro que fazem a João Machado de Melo, morador na Rua do Gado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1804
+**UnitDateFinal**:: 1804
+**ScopeContent**:: Manuscrito com folhas cosidas numa "Pasta nº 11 Cazal Nº 108 D". Este documento estava na “Caixa 11”, que contém CP 13211 a CP 13245.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54347
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13224 - cx. 90
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=101054

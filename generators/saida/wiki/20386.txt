@@ -1,0 +1,26 @@
+====== 20386 - SC - Arquivo Hilário Carvalho ======
+
+**Parent**:: 20342
+**RootParent**:: 20342
+**UnitTitle**:: Arquivo Hilário Carvalho
+**DescriptionLevel**:: SC
+**UnitDateInitial**:: 1890-07-17
+**UnitDateFinal**:: 1966-10-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20386
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20386
+
+===== Filhos =====
+  * [[25075.txt|25075 - UI - Correspondência recebida pela AHBVF de personalidades nacionais]]
+  * [[25076.txt|25076 - UI - Correspondência recebida pela AHBVF]]
+  * [[25077.txt|25077 - UI - Correspondência recebida pela AHBVF; Documentos diversos]]
+  * [[25078.txt|25078 - UI - Documentos diversos]]
+  * [[25079.txt|25079 - UI - Documentos diversos]]
+  * [[25080.txt|25080 - UI - Documentos diversos sobre as Bodas de Diamante da AHBVF]]
+  * [[25081.txt|25081 - UI - Relatórios e contas de Gerência aprovados em Assembleia geral/AHBVF]]
+  * [[25082.txt|25082 - UI - Documentos diversos sobre Bodas de Ouro e de outras festas da AHBVF]]
+  * [[25083.txt|25083 - UI - Documentos diversos sobre desastres com carros da AHBVF]]
+  * [[25084.txt|25084 - UI - Apontamentos de Vasco de Carvalho sobre AHBVF]]
+  * [[25085.txt|25085 - UI - Jornal de Bombeiros]]

@@ -1,0 +1,16 @@
+====== 97450 - DC - Carta ======
+
+**Parent**:: 97449
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-07-28
+**UnitDateFinal**:: 1893-07-28
+**ScopeContent**:: Carta manuscrita em papel timbrado "Secretaria Particular de S.M. El-Rei", do Paço das Necessidades, em papel de cor bege.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28732
+**LangMaterial**:: Português
+**PhysLoc**:: AS 891 - cx. 12
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97450

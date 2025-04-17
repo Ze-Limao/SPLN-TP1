@@ -1,0 +1,17 @@
+====== 55462 - DC - Despesas do jantar relativo ao concerto de Guilhermina Suggia ======
+
+**Parent**:: 55451
+**RootParent**:: 31258
+**UnitTitle**:: Despesas do jantar relativo ao concerto de Guilhermina Suggia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1905-03
+**UnitDateFinal**:: 1905-03
+**ScopeContent**:: Documento manuscrito no envelope com outros recibos e listas relativos ao concerto de Guilhermina Suggia na Legação Portuguesa em Berlim, 1905-03-10. Contém CP 5750 a CP 5758.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55462
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 5754 - cx. 41
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55462

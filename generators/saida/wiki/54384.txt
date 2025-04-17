@@ -1,0 +1,14 @@
+====== 54384 - UI - Ligório Nicolau Cabral ======
+
+**Parent**:: 31319
+**RootParent**:: 31258
+**UnitTitle**:: Ligório Nicolau Cabral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1884-06-05
+**UnitDateFinal**:: 1884-06-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54384
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54384
+
+===== Filhos =====
+  * [[54385.txt|54385 - DC - Carta para Custódio Manuel de Borja]]

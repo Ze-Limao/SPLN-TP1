@@ -1,0 +1,15 @@
+====== 80417 - UI - Processo nº 94 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 94
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-03-14
+**UnitDateFinal**:: 1969-07-31
+**ScopeContent**:: Autos de Execução por Quantia Certa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 144 - cx. 8
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80417

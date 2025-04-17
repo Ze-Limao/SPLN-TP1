@@ -1,0 +1,19 @@
+====== 29080 - UI - José da Cunha Sampaio ======
+
+**Parent**:: 28716
+**RootParent**:: 27963
+**UnitTitle**:: José da Cunha Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1874-09
+**UnitDateFinal**:: 1876-07-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29080
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29080
+
+===== Filhos =====
+  * [[29081.txt|29081 - DC - Rascunho de carta de Alberto Sampaio]]
+  * [[29082.txt|29082 - DC - Carta de Alberto Sampaio]]
+  * [[29083.txt|29083 - DC - Carta de Alberto Sampaio]]
+  * [[29084.txt|29084 - DC - Carta de Alberto Sampaio]]
+  * [[29085.txt|29085 - DC - Carta de Alberto Sampaio]]
+  * [[29086.txt|29086 - DC - Bilhete de Alberto Sampaio]]

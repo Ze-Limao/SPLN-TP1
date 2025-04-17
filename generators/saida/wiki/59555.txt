@@ -1,0 +1,17 @@
+====== 59555 - DC - Fichas de trabalhos a executar do Km 1 ao 54 hectm. (plantações, existências, etc.) ======
+
+**Parent**:: 31341
+**RootParent**:: 31258
+**UnitTitle**:: Fichas de trabalhos a executar do Km 1 ao 54 hectm. (plantações, existências, etc.)
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1937
+**ScopeContent**:: Folhas numa capa de grandes dimensões.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58076
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14821 - cx. 101
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=59555

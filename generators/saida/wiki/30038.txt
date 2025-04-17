@@ -1,0 +1,14 @@
+====== 30038 - DC - Armando Gomes da Costa ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Armando Gomes da Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1959-04-01
+**UnitDateFinal**:: 1959-04-01
+**ScopeContent**:: Regedor efetivo da freguesia de Outiz
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30038
+**LangMaterial**:: Português
+**PhysLoc**:: f. 19
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30038

@@ -1,0 +1,16 @@
+====== 25502 - DC - Carta ======
+
+**Parent**:: 21129
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-05-30
+**UnitDateFinal**:: 1898-05-30
+**ScopeContent**:: Carta manuscrita assinada. Papel timbrado do "Governo Civil de Braga. Gabinete do Secretário Geral". Gaspar Malheiro Pereira Ferraz Peixoto informa JAM que irá arrancar com as obras públicas para o projeto do Matadouro, cuja localização era do debate público em Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25502
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 459 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25502

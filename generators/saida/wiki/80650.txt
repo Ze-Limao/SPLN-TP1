@@ -1,0 +1,14 @@
+====== 80650 - UI - Processo nº 270 ======
+
+**Parent**:: 80389
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 270
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1976-06-03
+**UnitDateFinal**:: 1981-05-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 278 - cx. 15
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80650

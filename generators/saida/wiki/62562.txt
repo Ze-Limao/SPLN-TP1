@@ -1,0 +1,20 @@
+====== 62562 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - José de Sá Bezerra e Felicidade de Araújo Fernandes, na freguesia
+Naturalidade - Antas
+Morada - Ignora-se
+Data de nascimento - 1856-10-01
+Emprego - Caixeiro
+Estado - Solteiro
+Residência acidental - Porto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 56v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62562

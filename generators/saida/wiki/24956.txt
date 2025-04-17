@@ -1,0 +1,15 @@
+====== 24956 - UI - Conta da Receita e Despesa ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Conta da Receita e Despesa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1966-12-30
+**UnitDateFinal**:: 1977-06-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24956
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 60
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24956

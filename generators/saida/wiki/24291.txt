@@ -1,0 +1,16 @@
+====== 24291 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-05-26
+**UnitDateFinal**:: 1919-05-26
+**ScopeContent**:: António Cabral refere que enviou o livro “Camilo desconhecido” e que foram muito úteis os retratos que recebeu de JAM. Pede-lhe para confirmar a receção do livro. Pergunta pela abertura do Museu camiliano de Seide que pretende visitar.Carta manuscrita assinada, Lisboa - Rua de Martim Moniz (S. Vicente à Guia) - 45-2º.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24291
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 127 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24291

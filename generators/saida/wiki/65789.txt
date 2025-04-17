@@ -1,0 +1,15 @@
+====== 65789 - DC - Sentença de emprazamento do casal da Cerita, situado na freguesia de S. Martinho de Brufe, feita por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Pedro Inácio da Silva Peres ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença de emprazamento do casal da Cerita, situado na freguesia de S. Martinho de Brufe, feita por Pedro Mendonça Barata de Moura, abade da Igreja de S. Tiago de Antas, a Pedro Inácio da Silva Peres
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1735-07-10
+**UnitDateFinal**:: 1736
+**ScopeContent**:: Manuscrito, original. Folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 160 - cx. 8
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65789

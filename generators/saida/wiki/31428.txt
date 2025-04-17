@@ -1,0 +1,23 @@
+====== 31428 - DC - Carta e apontamentos manuscritos ======
+
+**Parent**:: 31409
+**RootParent**:: 31258
+**UnitTitle**:: Carta e apontamentos manuscritos
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1914
+**UnitDateFinal**:: 1914-01-29
+**ScopeContent**:: Carta manuscrita assinada. Carimbo de Ponte de Lima 1914-01-31. Carta sobre a ascendência de Homero Lencastre Queirós, agente Homero foi o polícia supostamente indigitado para organizar a rebelião monárquica com o objetivo de prender opositores ao regime. Junto com o documento 1406 - apontamento manuscrito de João Gomes de Abreu sobre a genealogia da sua família, datado de Janeiro de 1914; junto com CP 1405 e 1407 - apontamentos manuscritos de Vicente sobre o mesmo assunto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31428
+**LangMaterial**:: Português
+**PhysLoc**:: CP 1404, 1405, 1406 e 1407 - cx.
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31428
+
+===== Filhos =====
+  * [[48945.txt|48945 - DC - Carta]]
+  * [[48996.txt|48996 - DC - Apontamento manuscrito de João Gomes de Abreu]]
+  * [[48997.txt|48997 - DC - Apontamento manuscrito de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[48998.txt|48998 - DC - Apontamento manuscrito de Vicente Pinheiro Lobo Machado de Melo e Almada]]

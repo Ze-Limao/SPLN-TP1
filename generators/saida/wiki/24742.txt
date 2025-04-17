@@ -1,0 +1,16 @@
+====== 24742 - DC - Apontamentos ======
+
+**Parent**:: 21068
+**RootParent**:: 20290
+**UnitTitle**:: Apontamentos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1913
+**ScopeContent**:: Apontamentos manuscritos sobre elementos do vestuário para  retrato de D. Isabel (corpete e vestido, escarcelas /esmoleiras, pregos, cintos e faixas cingidoras e toucado)
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24742
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 243 - cx. 3
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24742

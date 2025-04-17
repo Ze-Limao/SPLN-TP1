@@ -1,0 +1,19 @@
+====== 34248 - DC - Registo do recenseamento militar de Joaquim da Silva ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim da Silva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Vale S. Martinho
+Data de nascimento - 1853-01-23
+Filiação - Ana da Silva
+Profissão - Jornaleiro
+Estado - Solteiro
+Morada - Vale S. Martinho
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34248
+**LangMaterial**:: Português
+**PhysLoc**:: 78v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34248

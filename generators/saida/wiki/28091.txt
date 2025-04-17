@@ -1,0 +1,16 @@
+====== 28091 - DC - Ofício da Comissão de Vinhos para organizar o Congresso Viticola de 2 a 7 maio de 1880 dirigido a Alberto Sampaio ======
+
+**Parent**:: 28087
+**RootParent**:: 27963
+**UnitTitle**:: Ofício da Comissão de Vinhos para organizar o Congresso Viticola de 2 a 7 maio de 1880 dirigido a Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-02-25
+**UnitDateFinal**:: 1880-02-25
+**ScopeContent**:: Ofício impresso da Comissão de Vinhos, criada pela Sociedade do Palácio de Cristal Portuense. Foram nomeados para comissários do congresso que se realizou de 2 a 7 de Maio de 1880, o Visconde de Vilar de Allen (presidente), Joaquim de Carvalho Azevedo Melo e Faro (vice-presidente) e Henrique Pereira da Silva (secretário). O nome de Alberto Sampaio está manuscrito no ofício impresso.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28091
+**LangMaterial**:: Português
+**PhysLoc**:: AS 498 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28091

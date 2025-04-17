@@ -1,0 +1,15 @@
+====== 21098 - DC - Termo de João Gomes de Oliveira Couto e Maria Joaquina de Oliveira ======
+
+**Parent**:: 7729
+**RootParent**:: 7651
+**UnitTitle**:: Termo de João Gomes de Oliveira Couto e Maria Joaquina de Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1879-09-20
+**UnitDateFinal**:: 1879-09-20
+**ScopeContent**:: Atravessamento de um caminho público com uma mina de água
+Local - Jesufrei
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21098
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 39v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21098

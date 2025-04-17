@@ -1,0 +1,16 @@
+====== 61375 - DC - Folha extraída do passaporte de Daniel Rodrigues e de sua mulher Maria de Faria Gonçalves Rodrigues ======
+
+**Parent**:: 60926
+**RootParent**:: 60550
+**UnitTitle**:: Folha extraída do passaporte de Daniel Rodrigues e de sua mulher Maria de Faria Gonçalves Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1951-08-30
+**UnitDateFinal**:: 1951-08-30
+**ScopeContent**:: Folha extraída do passaporte de Daniel Rodrigues e de sua mulher Maria de Faria Gonçalves Rodrigues com duas fotografias.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 151 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61375

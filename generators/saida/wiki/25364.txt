@@ -1,0 +1,20 @@
+====== 25364 - DC - Carta de Ana Rosa Correia dirigida ao Comandante dos Bombeiros Voluntários de V.N. de Famalicão ======
+
+**Parent**:: 25075
+**RootParent**:: 20342
+**UnitTitle**:: Carta de Ana Rosa Correia dirigida ao Comandante dos Bombeiros Voluntários de V.N. de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-04-06
+**UnitDateFinal**:: 1915-04-06
+**ScopeContent**:: Carta manuscrita de agradecimento de Ana Rosa Correia (1862-1956), viúva de Nuno Castelo Branco, pelo serviço efetuado pelos bombeiros no incêndio na casa do escritor Camilo Castelo Branco no dia 15 março de 1915.
+Transcrição:
+Exmo Sr. Comandante dos Bombeiros Voluntários de V.N. de Famalicão
+Em meu nome e dos meus filhos, venho, muito penhorada, agradecer a Vª Exª e aos briosos bombeiros do inteligente comando de V. Exª, os relevantes serviços que se dignaram prestar-nos no ataque do incendio da casa que foi do imortal escritor Camilo Castelo Branco.
+À promptidão e inteligência dos socorros se deve, sem duvida, não ter ficado reduzida a um montão de escombros esse pequeno património de meus filhos. Reiterando, por isso, a V. Exª e aos briosos Bombeiros dessa benemérita corporação os protestos da nossa mais viva gratidão, me subscrevo. De V. Exª Sumamente v.sa e grata. S. Miguel de Seide, 6-4-1915. Anna Roza Correia
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25364
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 173 - cx. 41
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25364

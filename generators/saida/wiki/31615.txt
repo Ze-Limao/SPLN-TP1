@@ -1,0 +1,18 @@
+====== 31615 - UI - José Augusto Moreira de Almeida ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: José Augusto Moreira de Almeida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917
+**UnitDateFinal**:: 1917
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31615
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31615
+
+===== Filhos =====
+  * [[31616.txt|31616 - DC - Carta]]

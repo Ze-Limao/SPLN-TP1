@@ -1,0 +1,16 @@
+====== 25564 - DC - Carta ======
+
+**Parent**:: 21146
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-09-25
+**UnitDateFinal**:: 1916-09-25
+**ScopeContent**:: Carta manuscrita assinada, da Rua do Passeio Alegre, 17 Espinho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25564
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 518 - cx. 6
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25564

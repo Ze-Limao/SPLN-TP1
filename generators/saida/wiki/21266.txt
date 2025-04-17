@@ -1,0 +1,28 @@
+====== 21266 - UI - Joaquim José de Sousa Fernandes ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Joaquim José de Sousa Fernandes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1915-11-19
+**UnitDateFinal**:: 1922-08-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21266
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1034 a 1045
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21266
+
+===== Filhos =====
+  * [[27941.txt|27941 - DC - Carta]]
+  * [[27942.txt|27942 - DC - Carta]]
+  * [[27943.txt|27943 - DC - Carta]]
+  * [[27944.txt|27944 - DC - Carta]]
+  * [[27945.txt|27945 - DC - Carta]]
+  * [[27946.txt|27946 - DC - Carta]]
+  * [[27947.txt|27947 - DC - Carta]]
+  * [[27948.txt|27948 - DC - Carta]]
+  * [[27949.txt|27949 - DC - Carta]]
+  * [[27950.txt|27950 - DC - Carta]]
+  * [[27951.txt|27951 - DC - Carta]]
+  * [[27952.txt|27952 - DC - Carta]]

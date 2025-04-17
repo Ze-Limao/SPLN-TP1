@@ -1,0 +1,15 @@
+====== 66502 - DC - Pedido de licença de José da Costa Taveira, da freguesia de S. Tiago de Antas, na qualidade de juiz da festividade do Menino Deus que pretende soleniza-la com exposição do Santíssimo e procissão ======
+
+**Parent**:: 66106
+**RootParent**:: 60536
+**UnitTitle**:: Pedido de licença de José da Costa Taveira, da freguesia de S. Tiago de Antas, na qualidade de juiz da festividade do Menino Deus que pretende soleniza-la com exposição do Santíssimo e procissão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-12-31
+**UnitDateFinal**:: 1892-12-31
+**ScopeContent**:: Manuscrito, original. em papel azul “80 reis” selado. Em baixo o deferimento do Arcipreste Mesquita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 528 - cx. 22
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66502

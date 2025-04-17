@@ -1,0 +1,24 @@
+====== 61984 - SR - Publicações periódicas ======
+
+**Parent**:: 61479
+**RootParent**:: 60551
+**UnitTitle**:: Publicações periódicas
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1989
+**UnitDateFinal**:: 2021-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61192
+**LangMaterial**:: Português, Inglês
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61984
+
+===== Filhos =====
+  * [[61985.txt|61985 - DC - Rotary Annual Photo Awards]]
+  * [[61986.txt|61986 - DC - The Rotarian]]
+  * [[61987.txt|61987 - DC - Boletim semanal Rotary Club do Rio de Janeiro Penha]]
+  * [[61988.txt|61988 - DC - Rotary World, ano 6, nº2]]
+  * [[61989.txt|61989 - DC - Clipsheet…Tópicos…recortes]]
+  * [[61993.txt|61993 - DC - RI News…Notícias]]
+  * [[62011.txt|62011 - DC - Fórum Rotário da Paz]]
+  * [[62024.txt|62024 - DC - Fundação para a Paz: notícias sobre la Fundación Rotaria]]

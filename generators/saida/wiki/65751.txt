@@ -1,0 +1,15 @@
+====== 65751 - DC - Sentença de emprazamento do meio casal do Forno, situado na freguesia de Santa Leocádia de Fradelos, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Basílio António e a sua mulher Constantina Gomes ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença de emprazamento do meio casal do Forno, situado na freguesia de Santa Leocádia de Fradelos, feita por Rodrigo de Mendonça de Vasconcelos e Sousa, abade da Igreja de S. Tiago de Antas, a Basílio António e a sua mulher Constantina Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1761-12-09
+**UnitDateFinal**:: 1761-12-09
+**ScopeContent**:: Manuscrito, original. Folhas com selos fiscais de 60 reis colados.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 177 - cx. 9
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65751

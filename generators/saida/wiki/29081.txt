@@ -1,0 +1,16 @@
+====== 29081 - DC - Rascunho de carta de Alberto Sampaio ======
+
+**Parent**:: 29080
+**RootParent**:: 27963
+**UnitTitle**:: Rascunho de carta de Alberto Sampaio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1874-09
+**UnitDateFinal**:: 1874-09
+**ScopeContent**:: Carta escrita no Porto?
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29081
+**LangMaterial**:: Português
+**PhysLoc**:: AS 553, cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29081

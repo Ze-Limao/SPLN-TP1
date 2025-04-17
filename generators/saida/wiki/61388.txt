@@ -1,0 +1,16 @@
+====== 61388 - DC - Alocução do Presidente Bernardino Machado na cerimonia de intimação do Dr. Afonso Costa ======
+
+**Parent**:: 60929
+**RootParent**:: 60550
+**UnitTitle**:: Alocução do Presidente Bernardino Machado na cerimonia de intimação do Dr. Afonso Costa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1938-08-07
+**UnitDateFinal**:: 1938-08-07
+**ScopeContent**:: Documento impresso. Separata do Unir.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 165 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61388

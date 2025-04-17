@@ -1,0 +1,20 @@
+====== 33895 - UI - João Franco Pinto Castelo Branco ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: João Franco Pinto Castelo Branco
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895
+**UnitDateFinal**:: 1908-01-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33895
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33895
+
+===== Filhos =====
+  * [[33896.txt|33896 - DC - Telegrama]]
+  * [[33897.txt|33897 - DC - Telegrama]]
+  * [[33898.txt|33898 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]

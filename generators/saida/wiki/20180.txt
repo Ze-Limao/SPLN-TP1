@@ -1,0 +1,15 @@
+====== 20180 - UI - Relação dos recrutas chamados ao serviço da Armada 1890 ======
+
+**Parent**:: 20168
+**RootParent**:: 20048
+**UnitTitle**:: Relação dos recrutas chamados ao serviço da Armada 1890
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1891-03-09
+**UnitDateFinal**:: 1891-05-30
+**ScopeContent**:: Não tem termo de abertura. Contém dados nome, filiação, naturalidade, nº da sorte, a quem foram apurados, suplentes ou substituídos, data dos autos do refractário, destino que tiveram, observação.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20180
+**LangMaterial**:: Português
+**PhysLoc**:: AC 81
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20180

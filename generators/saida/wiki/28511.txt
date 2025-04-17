@@ -1,0 +1,16 @@
+====== 28511 - DC - V. a Memoria de J. Henriques Ferreira ======
+
+**Parent**:: 28507
+**RootParent**:: 27963
+**UnitTitle**:: V. a Memoria de J. Henriques Ferreira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Referência bibliográfica: Memorias economicas da Academia Real das Sciencias de Lisboa, para o adiantamento da agricultura, das artes e da industria em Portugal, e suas conquistas. 1789-1815.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28511
+**LangMaterial**:: Português
+**PhysLoc**:: AS 90 (4) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28511

@@ -1,0 +1,17 @@
+====== 54852 - DC - Notas sobre atividade diplomática em Haia ======
+
+**Parent**:: 54476
+**RootParent**:: 31258
+**UnitTitle**:: Notas sobre atividade diplomática em Haia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1892-02-13
+**UnitDateFinal**:: 1892-02-13
+**ScopeContent**:: Notas manuscritas sobre atividade diplomática em Haia, sobre uma publicação no jornal.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54852
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 12860 - cx. 78
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54852

@@ -1,0 +1,34 @@
+====== 28292 - SR - História ======
+
+**Parent**:: 28291
+**RootParent**:: 27963
+**UnitTitle**:: História
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1855
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28292
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28292
+
+===== Filhos =====
+  * [[28242.txt|28242 - DC - Apontamentos de meu tio Alberto Sampaio, que estavam dentro dos volumes do Gama Barros, que emprestei ao dr. José Beleza]]
+  * [[28293.txt|28293 - DC - Caderno de apontamentos com documentos soltos]]
+  * [[28299.txt|28299 - DC - Caderno de notas de investigação com documentos soltos]]
+  * [[28306.txt|28306 - DC - Notas sobre Indústrias]]
+  * [[28312.txt|28312 - DC - Notas]]
+  * [[28323.txt|28323 - DC - Notas sobre os judeus]]
+  * [[28329.txt|28329 - DC - Pasta Sobre a serracenasição do Sul]]
+  * [[28357.txt|28357 - DC - Francos]]
+  * [[28361.txt|28361 - DC - Notas de investigação]]
+  * [[28372.txt|28372 - DC - Nota com terminologia das artes da pesca.]]
+  * [[28373.txt|28373 - DC - Nota Baccofilho]]
+  * [[28374.txt|28374 - DC - Nota]]
+  * [[28375.txt|28375 - DC - Nota]]
+  * [[28376.txt|28376 - DC - Nota]]
+  * [[28377.txt|28377 - DC - Nota "Etnografia"]]
+  * [[28378.txt|28378 - DC - Nota]]
+  * [[28379.txt|28379 - DC - O R. animal contem 4 grandes divisões]]
+  * [[28380.txt|28380 - DC - Nota]]
+  * [[29169.txt|29169 - DC - Árvore do costado resumido segundo − “Os antepassados de Camilo por Pedro A. Azevedo Ediç. particular − Lisboa, 1907”.]]
+  * [[29170.txt|29170 - DC - Os saráos das monjas, n’aquelle tempo]]
+  * [[98631.txt|98631 - DC - A emphiteuse tem a sua origem no direito romano]]

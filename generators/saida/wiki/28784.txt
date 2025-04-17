@@ -1,0 +1,15 @@
+====== 28784 - UI - José Tomás Ribeiro Fortes Júnior ======
+
+**Parent**:: 28065
+**RootParent**:: 27963
+**UnitTitle**:: José Tomás Ribeiro Fortes Júnior
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1900-01-16
+**UnitDateFinal**:: 1900-01-18
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28784
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28784
+
+===== Filhos =====
+  * [[28785.txt|28785 - DC - Carta]]
+  * [[28786.txt|28786 - DC - Carta]]

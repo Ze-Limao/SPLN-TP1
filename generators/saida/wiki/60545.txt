@@ -1,0 +1,18 @@
+====== 60545 - F - Comissão Promotora da Homenagem Póstuma ao Grande Escritor Camilo Castelo Branco ======
+
+**Parent**:: 0
+**RootParent**:: 60545
+**UnitTitle**:: Comissão Promotora da Homenagem Póstuma ao Grande Escritor Camilo Castelo Branco
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1915-04-11
+**UnitDateFinal**:: 1921-05-06
+**ScopeContent**:: O fundo é constituído pelo Livro de actas da Comissão Promotora da Homenagem póstuma ao grande escritor Camilo Castelo Branco, de 11 abril 1915 a 5 junho de 1921.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60545
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60545
+
+===== Filhos =====
+  * [[60684.txt|60684 - SR - Atas]]

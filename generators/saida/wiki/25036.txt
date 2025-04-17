@@ -1,0 +1,16 @@
+====== 25036 - UI - Livro de Ouro Bombeiros Voluntários de Famalicão: Construção do Novo Quartel ======
+
+**Parent**:: 20371
+**RootParent**:: 20342
+**UnitTitle**:: Livro de Ouro Bombeiros Voluntários de Famalicão: Construção do Novo Quartel
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1961
+**UnitDateFinal**:: 1967
+**ScopeContent**:: Contém: Relação das quantias angariadas e nomes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25036
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 138
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25036

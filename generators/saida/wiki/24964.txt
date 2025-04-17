@@ -1,0 +1,16 @@
+====== 24964 - UI - Rifa do Relógio; “Sorteios” ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Rifa do Relógio; “Sorteios”
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1936-01-01
+**UnitDateFinal**:: 1956-03-31
+**ScopeContent**:: Os “Sorteios” foram realizados pelos Bombeiros,  documentos para autorização aprecial 1936, 1951, 1955.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24964
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 68 - cx. 25
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24964

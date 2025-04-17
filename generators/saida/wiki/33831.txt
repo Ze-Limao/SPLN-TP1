@@ -1,0 +1,29 @@
+====== 33831 - UI - Carlos I, Rei de Portugal ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Carlos I, Rei de Portugal
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1894
+**UnitDateFinal**:: 1908-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33831
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33831
+
+===== Filhos =====
+  * [[33810.txt|33810 - DC - Telegrama]]
+  * [[55095.txt|55095 - DC - Telegrama]]
+  * [[55096.txt|55096 - DC - Telegrama]]
+  * [[55097.txt|55097 - DC - Telegrama]]
+  * [[55098.txt|55098 - DC - Telegrama]]
+  * [[55099.txt|55099 - DC - Telegrama]]
+  * [[55100.txt|55100 - DC - Telegrama]]
+  * [[55101.txt|55101 - DC - Telegrama]]
+  * [[55102.txt|55102 - DC - Telegrama]]
+  * [[55103.txt|55103 - DC - Telegrama]]
+  * [[55104.txt|55104 - DC - Telegrama]]
+  * [[55105.txt|55105 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada para o rei D. Carlos]]

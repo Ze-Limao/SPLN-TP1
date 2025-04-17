@@ -1,0 +1,17 @@
+====== 44944 - DC - Carta ======
+
+**Parent**:: 44942
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-03
+**UnitDateFinal**:: 1890-01-03
+**ScopeContent**:: Carta manuscrita assinada, do Campo Pequeno. Esta carta pertence ao maço “Hollande 1889 a 1891”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD44944
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12381 - cx. 71
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=44944

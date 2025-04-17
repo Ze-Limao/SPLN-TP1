@@ -1,0 +1,20 @@
+====== 21453 - UI - Jorge Colaço ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Jorge Colaço
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-02-12
+**UnitDateFinal**:: 1922-09-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21453
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1452, 1453, 1454, 1455, 1456
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21453
+
+===== Filhos =====
+  * [[30293.txt|30293 - DC - Carta]]
+  * [[30294.txt|30294 - DC - Carta]]
+  * [[30295.txt|30295 - DC - Carta]]
+  * [[30296.txt|30296 - DC - Carta]]
+  * [[30297.txt|30297 - DC - Carta de Branca de Gonta Colaço]]

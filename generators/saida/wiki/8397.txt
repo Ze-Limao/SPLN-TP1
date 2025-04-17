@@ -1,0 +1,16 @@
+====== 8397 - UI - Leopoldina Cândida Sampaio ======
+
+**Parent**:: 8243
+**RootParent**:: 8241
+**UnitTitle**:: Leopoldina Cândida Sampaio
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1895-01
+**UnitDateFinal**:: 1895-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8397
+**LangMaterial**:: Português
+**PhysLoc**:: 3.5.43
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8397
+
+===== Filhos =====
+  * [[8398.txt|8398 - DC - Carta]]

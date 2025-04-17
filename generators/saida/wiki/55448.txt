@@ -1,0 +1,17 @@
+====== 55448 - DC - Traduction de l´intervieu du Comte de Souza Roza publiée para le New York Herald le 7 octobre 1910 ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Traduction de l´intervieu du Comte de Souza Roza publiée para le New York Herald le 7 octobre 1910
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-10-07
+**UnitDateFinal**:: 1910-10-07
+**ScopeContent**:: Folhas manuscritas em francês, dentro de um envelope.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55448
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 3091 - cx. 24
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55448

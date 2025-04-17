@@ -1,0 +1,16 @@
+====== 29941 - DC - Supplément du numéro 6 avril de La Nature ======
+
+**Parent**:: 28290
+**RootParent**:: 27963
+**UnitTitle**:: Supplément du numéro 6 avril de La Nature
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1893-04-06
+**UnitDateFinal**:: 1893-04-06
+**ScopeContent**:: Impresso em Paris: G. Masson, Éditeur - Libraire de l’Académie de Médecine. Nº 112.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29941
+**LangMaterial**:: Francês
+**PhysLoc**:: As 148 (3)  - cx. 3
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29941

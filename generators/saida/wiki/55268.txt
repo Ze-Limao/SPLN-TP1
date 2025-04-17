@@ -1,0 +1,17 @@
+====== 55268 - DC - Carta de Gonçalo de Vasconcelos ======
+
+**Parent**:: 55115
+**RootParent**:: 31258
+**UnitTitle**:: Carta de Gonçalo de Vasconcelos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1909-10-22
+**UnitDateFinal**:: 1909-10-22
+**ScopeContent**:: Carta manuscrita assinada de Hamburgo. Esta carta pertence ao maço "Processo Arroyo e Amor de Perdição".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55268
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2326 - cx. 16
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55268

@@ -1,0 +1,15 @@
+====== 64045 - DC - Recibo de José Correia de Sá ======
+
+**Parent**:: 64006
+**RootParent**:: 60536
+**UnitTitle**:: Recibo de José Correia de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-07-15
+**UnitDateFinal**:: 1864-07-15
+**ScopeContent**:: Manuscrito. Recibo de gratificações de cabras...
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 364 - cx. 18
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64045

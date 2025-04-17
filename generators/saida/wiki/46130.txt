@@ -1,0 +1,14 @@
+====== 46130 - UI - Francisco Sales Ferreira ======
+
+**Parent**:: 46129
+**RootParent**:: 31258
+**UnitTitle**:: Francisco Sales Ferreira
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1880-06-17
+**UnitDateFinal**:: 1880-06-17
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD46130
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=46130
+
+===== Filhos =====
+  * [[46131.txt|46131 - DC - Minuta de carta Vicente Pinheiro Lobo Machado de Melo e Almada]]

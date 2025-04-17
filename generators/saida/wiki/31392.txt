@@ -1,0 +1,15 @@
+====== 31392 - SF - Rangel de Quadros ======
+
+**Parent**:: 31258
+**RootParent**:: 31258
+**UnitTitle**:: Rangel de Quadros
+**DescriptionLevel**:: SF
+**UnitDateInitial**:: 1819
+**UnitDateFinal**:: 1921
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31392
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31392
+
+===== Filhos =====
+  * [[31393.txt|31393 - SC - Rangel de Quadros]]

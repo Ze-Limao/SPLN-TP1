@@ -1,0 +1,17 @@
+====== 57409 - DC - Caminho de ferro de Guimarães: Perfil longitudinal ======
+
+**Parent**:: 57397
+**RootParent**:: 31258
+**UnitTitle**:: Caminho de ferro de Guimarães: Perfil longitudinal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1929
+**UnitDateFinal**:: 1936
+**ScopeContent**:: Cópia em papel azul. Escala horizontal 1/25000, vertical 1/2500. Estações de comboio de concelho S. Tirso e V.N.Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD57409
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2850 - cx. 23
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=57409

@@ -1,0 +1,43 @@
+====== 33466 - UI - Mariana de Sousa Botelho, Viscondessa da Asseca ======
+
+**Parent**:: 31315
+**RootParent**:: 31258
+**UnitTitle**:: Mariana de Sousa Botelho, Viscondessa da Asseca
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878-10-30
+**UnitDateFinal**:: 1910-10-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33466
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33466
+
+===== Filhos =====
+  * [[33467.txt|33467 - DC - Carta]]
+  * [[33468.txt|33468 - DC - Carta]]
+  * [[33469.txt|33469 - DC - Carta]]
+  * [[33470.txt|33470 - DC - Carta]]
+  * [[33471.txt|33471 - DC - Carta]]
+  * [[33472.txt|33472 - DC - Carta]]
+  * [[33473.txt|33473 - DC - Carta]]
+  * [[33474.txt|33474 - DC - Carta]]
+  * [[33475.txt|33475 - DC - Carta]]
+  * [[33476.txt|33476 - DC - Carta]]
+  * [[33477.txt|33477 - DC - Carta]]
+  * [[33478.txt|33478 - DC - Carta]]
+  * [[33479.txt|33479 - DC - Carta]]
+  * [[33480.txt|33480 - DC - Carta]]
+  * [[33481.txt|33481 - DC - Carta]]
+  * [[33482.txt|33482 - DC - Carta]]
+  * [[33483.txt|33483 - DC - Carta]]
+  * [[33484.txt|33484 - DC - Carta]]
+  * [[33485.txt|33485 - DC - Carta]]
+  * [[33486.txt|33486 - DC - Carta]]
+  * [[33487.txt|33487 - DC - Carta]]
+  * [[33488.txt|33488 - DC - Carta]]
+  * [[33489.txt|33489 - DC - Carta]]
+  * [[54245.txt|54245 - DC - Carta]]
+  * [[54246.txt|54246 - DC - Carta]]
+  * [[54247.txt|54247 - DC - Cartão de visita]]

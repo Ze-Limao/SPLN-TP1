@@ -1,0 +1,15 @@
+====== 65642 - DC - Certidão de doação feita a 16 de dezembro de 1609, por Camila Brás, moradora na freguesia de S. Martinho de Avidos, de todos os seus bens, móveis e de raiz, a Francisco da Ponte, seu sobrinho, filho de Belchior Martins da Ponte, da freguesia de S. Tiago de Antas, para ajuda do seu casamento ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Certidão de doação feita a 16 de dezembro de 1609, por Camila Brás, moradora na freguesia de S. Martinho de Avidos, de todos os seus bens, móveis e de raiz, a Francisco da Ponte, seu sobrinho, filho de Belchior Martins da Ponte, da freguesia de S. Tiago de Antas, para ajuda do seu casamento
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1631-05-01
+**UnitDateFinal**:: 1631-05-01
+**ScopeContent**:: Manuscrito, certidão, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 94 - cx. 4
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65642

@@ -1,0 +1,16 @@
+====== 23132 - DC - Registo do recenseamento eleitoral de Joaquim José Ribeiro ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de Joaquim José Ribeiro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Requião
+Profissão - Carpinteiro
+Morada - Lage
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23132
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 62v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23132

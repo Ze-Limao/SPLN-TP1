@@ -1,0 +1,71 @@
+====== 54472 - SR - Documentos ======
+
+**Parent**:: 31387
+**RootParent**:: 31258
+**UnitTitle**:: Documentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1612-03-07
+**UnitDateFinal**:: 1775
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54472
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54472
+
+===== Filhos =====
+  * [[100672.txt|100672 - DC - Carta de venda do Salgueiral de Guimarães]]
+  * [[100673.txt|100673 - DC - Doação a António Jorge da Guerra de vinte medidas pagas pelo Campo da Cruz da Pedra]]
+  * [[100674.txt|100674 - DC - Doação  do Campo do Salgueiral]]
+  * [[100675.txt|100675 - DC - Medições do Campo da Prova pedido pelo António Jorge da Guerra]]
+  * [[100676.txt|100676 - DC - Emprazamento do Salgueiral]]
+  * [[100769.txt|100769 - DC - Sentença contra o caseiro de Airão, Guimarães]]
+  * [[100770.txt|100770 - DC - Sentença contra o caseiro de Airão, Guimarães, João Gonçalves e sua mulher]]
+  * [[100771.txt|100771 - DC - Sentença contra o caseiro de Airão, Guimarães, João Gonçalves e sua mulher]]
+  * [[100774.txt|100774 - DC - Venda da quinta da Silva, freguesia da Gonça, Guimarães, comprador o Bispo de Cabo Verde D. Manuel Afonso da Guerra]]
+  * [[100781.txt|100781 - DC - Certidão de siza da Quinta da Silva em Gonça]]
+  * [[100782.txt|100782 - DC - Posse da Quinta da Silva em Gonça]]
+  * [[100783.txt|100783 - DC - Posse da Quinta da Gonça]]
+  * [[100903.txt|100903 - DC - Doação da Silva, outorgante Isabel Pereira, viúva.]]
+  * [[100904.txt|100904 - DC - Petição de Salvador Gomes da Guerra sobre um morgado instituído pelo Manuel Afonso da Guerra, Bispo de Cabo Verde, seu tio]]
+  * [[101009.txt|101009 - DC - Instituição de morgadio de Gonça pelo D. Manuel Afonso da Guerra, bispo de Cabo Verde,  em que nomeia administradora Leonesa da Guerra]]
+  * [[101010.txt|101010 - DC - Instituição de morgadio de Gonça pelo D. Manuel Afonso da Guerra, Bispo de Cabo Verde]]
+  * [[101011.txt|101011 - DC - Instituição do Morgadio de Gonça. Doação feito pelo D. Manuel Afonso da Guerra, bispo de Cabo Verde à irmã Leonesa da Guerra]]
+  * [[101012.txt|101012 - DC - Instituição do Morgadio de Gonça do bispo de Cabo Verde]]
+  * [[101013.txt|101013 - DC - Manuel Machado de Azevedo e mulher Leonor da Guerra e demanda com Salvador Gomes da Guerra , fidalgo da casa real]]
+  * [[101014.txt|101014 - DC - António Machado da Guerra, casado com Ana Fagundes de Mendanha, sobre a Quinta da Silva]]
+  * [[101015.txt|101015 - DC - Composição de João Machado Fagundes com seu tio Manuel Velho do Couto]]
+  * [[101037.txt|101037 - DC - Treslado do testamento do bispo D. Manuel Afonso da Guerra]]
+  * [[101039.txt|101039 - DC - Petição de António Machado da Guerra sobre obrigação de rasas de pão à Santa Casa da Misericórdia]]
+  * [[101060.txt|101060 - DC - Sentença cívelautores António Machado da Guerra e mulher Ana Fagundes contra Francisco Martins com o morgadio de António Jorge da Guerra, sobre as casas de Guimarães]]
+  * [[101074.txt|101074 - DC - Sentença cívelautores António Machado da Guerra e mulher Ana Fagundes contra Francisco Martins com o morgadio de António Jorge da Guerra, sobre as casas de Guimarães]]
+  * [[101085.txt|101085 - DC - Treslado da escritura das casas da Rua de Santiago]]
+  * [[101086.txt|101086 - DC - Carta de arrematação das casas que comprou meu tio à viúva Maria Magalhães da freguesia de Santiago, de Guimarães]]
+  * [[54363.txt|54363 - DC - Treslado do testamento de António Jorge da Guerra]]
+  * [[78349.txt|78349 - DC - Requerimento para se cobrar os ordenados do Bispo de Cabo Verde]]
+  * [[78350.txt|78350 - DC - Títulos pertencentes ao Cartório de Guimarães]]
+  * [[78352.txt|78352 - DC - Certidão do inventário que fez Manuel Machado de Azevedo por falecimento de sua mulher Mariana da Guerra]]
+  * [[78355.txt|78355 - DC - Documento referente aos bispos de S. Tiago de Cabo Verde]]
+  * [[78362.txt|78362 - DC - Posse que tomou Manuel Velho do Couto e sua mulher Mariana da Guerra, moradores na sua quinta, na freguesia de S. Miguel da Gonça, da Quinta da Perguiseira e casas da Rua de S. Tiago em Guimarães]]
+  * [[78364.txt|78364 - DC - Carta de arrematação das casas da Rua dos Gatos em Guimarães por António Jorge da Guerra]]
+  * [[78365.txt|78365 - DC - Carta de arrematação das casas da Rua dos Gatos em Guimarães]]
+  * [[78367.txt|78367 - DC - Requerimentos de Manuel Velho do Couto para a receção de 100 mil reis anuais que prestou ao Duque de Bragança o bispo de Cabo Verde]]
+  * [[78368.txt|78368 - DC - Escritura pela qual o Duque de Bragança se constituiu devedor ao bispo D. Manuel Afonso da Guerra da quantia de 5 mil cruzados]]
+  * [[78369.txt|78369 - DC - Certidão de padrões e escritura do juro de 100 mil reis anuais prestado aos Duques de Bragança (morgado da Gonça)]]
+  * [[78370.txt|78370 - DC - Instrução para um requerimento a Sua Santidade respeitante ao Morgadio da Gonça]]
+  * [[78371.txt|78371 - DC - Vínculo de D. Manuel Afonso da Guerra]]
+  * [[78549.txt|78549 - DC - Carta de compra da terra de Cima da Fonte de João]]
+  * [[78551.txt|78551 - DC - Carta de venda que fez Fernando Alves, moradores na aldeia de Loios a Gonçalo Queijo, moradores em Vila Flor, de uma casa colmada]]
+  * [[78552.txt|78552 - DC - Carta de venda de Gonçalo Borges e Beatriz Carneiro a Pero Carneiro e mulher Isabel Carvalho, moradores no termo de Vilarinho da Castanheira de umas casas em Vila Flor]]
+  * [[78553.txt|78553 - DC - Carta de venda de Gonçalo Vaz e Inês Alves a João Colaço e sua mulher Leonor Pinto, moradores em Loios termo da Vila Flor de leiras nos Loios]]
+  * [[78554.txt|78554 - DC - Prazo Vila Flor]]
+  * [[78555.txt|78555 - DC - Carta de venda de uma vinha em Vila Flor]]
+  * [[78556.txt|78556 - DC - Do provedor de Torre de Moncorvo, Vila Flor]]
+  * [[78557.txt|78557 - DC - Posse de Miguel Machado como procurador de António Machado]]
+  * [[78558.txt|78558 - DC - Provisão que teve Catarina Pinto, viúva de Lopo Machado, de Vila Flor, para haverem de lhe vender a metade do moinho, por ela ser já senhora da outra metade]]
+  * [[78559.txt|78559 - DC - Sentença sobre umas herdades de João de Arosa, casado com Violante Pinto, pais de Catarina Pinto, mulher de Lopo Machado, moradores em Vila Flor contra João de Prado e sua mulher, de Vilarinho da Castanheira]]
+  * [[78662.txt|78662 - DC - Carta de confirmação, colação e instituição referente à vigararia perpétua da igreja do Mosteiro de Arnoso vaga por falecimento de Pedro de Araújo]]
+  * [[99123.txt|99123 - DC - Rol de bens de raiz que ficaram vinculados por falecimento de António Jorge da Guerra ao morgado que o mesmo instituiu e de que é administrador António Machado da Guerra]]
+  * [[99138.txt|99138 - DC - Pero do Canto Pacheco pede a medição do Campo da Prova, junto à eira de pedra na freguesia de Creixomil]]
+  * [[99197.txt|99197 - DC - Prazo do Salgueiral de Guimarães]]
+  * [[99198.txt|99198 - DC - António Jorge da Guerra declara administradores da Gafaria Pero Vieira da Maia]]
+  * [[99199.txt|99199 - DC - Compra de um campo na freguesia de S. Miguel de Creixomil]]
+  * [[99200.txt|99200 - DC - Emprazamento do campo da Gafaria de Sande]]
+  * [[99201.txt|99201 - DC - Prazo em Creixomil]]

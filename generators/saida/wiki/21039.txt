@@ -1,0 +1,30 @@
+====== 21039 - UI - Alberto Pimentel ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alberto Pimentel
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-08-18
+**UnitDateFinal**:: 1922-06-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21039
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38.
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21039
+
+===== Filhos =====
+  * [[23136.txt|23136 - DC - Carta]]
+  * [[23137.txt|23137 - DC - Carta]]
+  * [[23138.txt|23138 - DC - Carta]]
+  * [[23139.txt|23139 - DC - Carta]]
+  * [[23140.txt|23140 - DC - Carta]]
+  * [[23141.txt|23141 - DC - Carta]]
+  * [[23142.txt|23142 - DC - Carta]]
+  * [[23143.txt|23143 - DC - Carta]]
+  * [[23144.txt|23144 - DC - Carta]]
+  * [[23145.txt|23145 - DC - Carta]]
+  * [[23146.txt|23146 - DC - Carta]]
+  * [[23147.txt|23147 - DC - Carta]]
+  * [[23148.txt|23148 - DC - Carta]]
+  * [[23149.txt|23149 - DC - Carta]]

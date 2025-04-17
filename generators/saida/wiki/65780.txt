@@ -1,0 +1,15 @@
+====== 65780 - DC - Sentença cível de emprazamento do casal de Fontelo, situado na freguesia de S. Julião de Calendário, feita por Jerónimo de Oliveira Carvalho, abade da Igreja de S. Tiago de Antas, a Mariana Rebelo e seu marido Tomé Dias ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Sentença cível de emprazamento do casal de Fontelo, situado na freguesia de S. Julião de Calendário, feita por Jerónimo de Oliveira Carvalho, abade da Igreja de S. Tiago de Antas, a Mariana Rebelo e seu marido Tomé Dias
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1721-06-17
+**UnitDateFinal**:: 1721-06-17
+**ScopeContent**:: Manuscrito, original. Folhas cosidas com selo de 60 reis colado nas folhas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 149 - cx. 7
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65780

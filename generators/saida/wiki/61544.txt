@@ -1,0 +1,17 @@
+====== 61544 - DC - Protocolo no âmbito do programa DAE Desfibrilador externo automático - Rotary Club de Guimarães e Famalicão e Arriva ======
+
+**Parent**:: 61442
+**RootParent**:: 60551
+**UnitTitle**:: Protocolo no âmbito do programa DAE Desfibrilador externo automático - Rotary Club de Guimarães e Famalicão e Arriva
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 2013-07-23
+**UnitDateFinal**:: 2013-08-01
+**ScopeContent**:: Com certificado do programa DAE.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 255 - cx. 3
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61544

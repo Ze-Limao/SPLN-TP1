@@ -1,0 +1,15 @@
+====== 78855 - DC - Emprazamento do casal, situado na freguesia de Outiz, feita por Baltazar Álvares, raçoeiro da Igreja de S. Tiago de Antas ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal, situado na freguesia de Outiz, feita por Baltazar Álvares, raçoeiro da Igreja de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1536
+**UnitDateFinal**:: 1536
+**ScopeContent**:: Manuscrito, original, com selo em madeira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 657 - cx. 28
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78855

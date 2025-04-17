@@ -1,0 +1,16 @@
+====== 25104 - DC - Estatutos da Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão ======
+
+**Parent**:: 25084
+**RootParent**:: 20342
+**UnitTitle**:: Estatutos da Associação Humanitária de Bombeiros Voluntários de Vila Nova de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1928
+**UnitDateFinal**:: 1928
+**ScopeContent**:: Livreto publicado em Famalicão pela Typ. Minerva em 1928. Publicação dos estatutos aprovados em 30 de maio de 1926.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25104
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 182 - cx. 46
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25104

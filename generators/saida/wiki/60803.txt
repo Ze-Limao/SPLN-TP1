@@ -1,0 +1,16 @@
+====== 60803 - SR - Centro de Caridade Nossa Senhora do Perpétuo Socorro ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Centro de Caridade Nossa Senhora do Perpétuo Socorro
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1961
+**UnitDateFinal**:: 1978-10-26
+**ScopeContent**:: Editora do Porto. No verso a legenda em português, francês, inglês e espanhol.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9828
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60803
+
+===== Filhos =====
+  * [[60804.txt|60804 - DC - Palácio da Justiça]]

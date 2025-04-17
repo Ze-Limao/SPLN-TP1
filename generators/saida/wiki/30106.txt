@@ -1,0 +1,14 @@
+====== 30106 - DC - Joaquim Ferreira Soares ======
+
+**Parent**:: 29998
+**RootParent**:: 7651
+**UnitTitle**:: Joaquim Ferreira Soares
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1974-10-14
+**UnitDateFinal**:: 1974-10-14
+**ScopeContent**:: Regedor efetivo da freguesia da Portela
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30106
+**LangMaterial**:: Português
+**PhysLoc**:: f. 54
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30106

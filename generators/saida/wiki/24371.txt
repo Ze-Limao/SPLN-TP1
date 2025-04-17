@@ -1,0 +1,16 @@
+====== 24371 - DC - Carta ======
+
+**Parent**:: 21063
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1917-02-17
+**UnitDateFinal**:: 1917-02-17
+**ScopeContent**:: António Cabreira informa sobre a opinião dos membros da Academia em relação ao retrato de Camilo se deve figurar com o traje habitual. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24371
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 144 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24371

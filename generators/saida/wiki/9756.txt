@@ -1,0 +1,35 @@
+====== 9756 - SR - Tipografia Minerva 1912 ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Tipografia Minerva 1912
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1912
+**UnitDateFinal**:: 1912
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9756
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9756
+
+===== Filhos =====
+  * [[60791.txt|60791 - DC - Famalicão - Villa Carolina]]
+  * [[60950.txt|60950 - DC - Famalicão - Estações do Caminho de Ferro]]
+  * [[9757.txt|9757 - DC - Famalicão - Hospital da Misericórdia]]
+  * [[9758.txt|9758 - DC - Famalicão - Largo da Cruz Velha e Rua Alvaro de Castelões]]
+  * [[9759.txt|9759 - DC - Famalicão - Praça Conde de S. Cosme do Vale]]
+  * [[9760.txt|9760 - DC - Famalicão - Praça Conde de S. Cosme do Vale]]
+  * [[9761.txt|9761 - DC - Famalicão - Outro trecho do Campo Mousinho de Albuquerque]]
+  * [[9762.txt|9762 - DC - Famalicão - Campo Mousinho de Albuquerque]]
+  * [[9763.txt|9763 - DC - Famalicão - Campo Mousinho de Albuquerque]]
+  * [[9764.txt|9764 - DC - Famalicão - Rua Cinco de Outubro]]
+  * [[9765.txt|9765 - DC - Famalicão - Rua Adriano Pinto Basto]]
+  * [[9766.txt|9766 - DC - Famalicão - Paços do Concelho]]
+  * [[9767.txt|9767 - DC - Famalicão - Rua Santos Viegas]]
+  * [[9768.txt|9768 - DC - Estação do Caminho de Ferro do Minho]]
+  * [[9769.txt|9769 - DC - Famalicão - Estações do Caminho de Ferro]]
+  * [[9770.txt|9770 - DC - Famalicão - A Central do Minho. Serração e carpintaria a vapor]]
+  * [[9771.txt|9771 - DC - Famalicão - A Boa Reguladora. Central de Electricidade]]
+  * [[9772.txt|9772 - DC - Famalicão - A Boa Reguladora. Relojoaria]]
+  * [[9773.txt|9773 - DC - Famalicão - A Boa Reguladora. Casa das machinas]]
+  * [[9774.txt|9774 - DC - Famalicão - Villa Carolina]]
+  * [[9775.txt|9775 - DC - Famalicão - Casa do Vinhal]]

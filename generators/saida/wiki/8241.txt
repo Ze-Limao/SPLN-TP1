@@ -1,0 +1,18 @@
+====== 8241 - F - Joaquim José de Sousa Fernandes ======
+
+**Parent**:: 0
+**RootParent**:: 8241
+**UnitTitle**:: Joaquim José de Sousa Fernandes
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1849
+**UnitDateFinal**:: 1928
+**ScopeContent**:: A série Correspondência recebida 1862 a 1928 (8091 cartas): Familiar, Amigos, Trabalho, Jornalismo-Literatura, Política. Série Documentos.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8241
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8241
+
+===== Filhos =====
+  * [[8242.txt|8242 - SR - Correspondência]]

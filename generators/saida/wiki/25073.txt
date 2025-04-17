@@ -1,0 +1,19 @@
+====== 25073 - UI - Exercício de Barcelos, Braga e Póvoa; Incêndio de Cancelas ======
+
+**Parent**:: 20384
+**RootParent**:: 20342
+**UnitTitle**:: Exercício de Barcelos, Braga e Póvoa; Incêndio de Cancelas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1940-04-21
+**UnitDateFinal**:: 1940-04-21
+**ScopeContent**:: Contém: Exercício de Barcelos (notas de Hilário Carvalho, recorte de imprensa, descrição do exercício com desenhos, correspondência 1940-03-22). Relação de material de incêndios e instrução; Exercício de Braga (correspondência, descrição do exercício, desenhos, plantas); Exercício da Póvoa (descrição, desenhos); Documentação sobre o incêndio de Cancelas (relatório 1950, recortes de imprensa 1937-10-02, Relatório e parecer do Comandante Celestino Lopes da Liga de Bombeiros Portugueses 1 junho 1939, correspondência de 1937).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25073
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 172 - cx. 41
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25073
+
+===== Filhos =====
+  * [[25074.txt|25074 - DC - Exercício de Barcelos]]

@@ -1,0 +1,15 @@
+====== 24976 - UI - Livro Caixa nº3 de 1933 a 1941 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Livro Caixa nº3 de 1933 a 1941
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1933-01-01
+**UnitDateFinal**:: 1941-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24976
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 80
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24976

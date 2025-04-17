@@ -1,0 +1,17 @@
+====== 78377 - DC - Reverendo Padre Marcelino Pereira Cleto pagou a D. Bárbara Maria Pinheiro o dinheiro de que tinha ficado por fiador a Diogo de Barros Alvim na remissão de censo de medidas de trigo ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Reverendo Padre Marcelino Pereira Cleto pagou a D. Bárbara Maria Pinheiro o dinheiro de que tinha ficado por fiador a Diogo de Barros Alvim na remissão de censo de medidas de trigo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1781-06-15
+**UnitDateFinal**:: 1781-06-15
+**ScopeContent**:: Manuscrito com folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4993 - cx. 36
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=78377

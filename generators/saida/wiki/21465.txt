@@ -1,0 +1,16 @@
+====== 21465 - UI - José Joaquim dos Santos Mota ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Joaquim dos Santos Mota
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917
+**UnitDateFinal**:: 1917
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21465
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1476
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21465
+
+===== Filhos =====
+  * [[29994.txt|29994 - DC - Carta]]

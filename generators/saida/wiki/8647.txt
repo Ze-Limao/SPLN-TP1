@@ -1,0 +1,18 @@
+====== 8647 - DC - Termo do exame de Ilídio Pinheiro da Gama ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Ilídio Pinheiro da Gama
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-08-03
+**UnitDateFinal**:: 1889-08-03
+**ScopeContent**:: Grau - Elementar
+Idade - 15
+Filiação - José António da Gama
+Naturalidade - Vila Nova de Famalicão
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8647
+**LangMaterial**:: Português
+**PhysLoc**:: f. 76
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8647

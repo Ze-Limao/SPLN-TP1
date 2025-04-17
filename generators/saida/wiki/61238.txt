@@ -1,0 +1,16 @@
+====== 61238 - DC - Folhas com lista de topónimos, antroponímicos, etc. das cartas para Daniel Rodrigues ======
+
+**Parent**:: 61237
+**RootParent**:: 60550
+**UnitTitle**:: Folhas com lista de topónimos, antroponímicos, etc. das cartas para Daniel Rodrigues
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1980
+**UnitDateFinal**:: 1990
+**ScopeContent**:: Folhas manuscritas a lápis.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 129 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61238

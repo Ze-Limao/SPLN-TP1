@@ -1,0 +1,22 @@
+====== 58770 - UI - Eulália Estelista Rangel de Quadros ======
+
+**Parent**:: 31361
+**RootParent**:: 31258
+**UnitTitle**:: Eulália Estelista Rangel de Quadros
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904-01
+**UnitDateFinal**:: 1908
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58770
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=58770
+
+===== Filhos =====
+  * [[58459.txt|58459 - DC - Carta para Matilde e Ana]]
+  * [[58782.txt|58782 - DC - Carta para Matilde e Ana]]
+  * [[58783.txt|58783 - DC - Bilhete-postal para filhos e netos]]
+  * [[58784.txt|58784 - DC - Carta]]
+  * [[58785.txt|58785 - DC - Bilhete-postal para filhos e netos]]
+  * [[58786.txt|58786 - DC - Carta]]
+  * [[58787.txt|58787 - DC - Carta]]
+  * [[59088.txt|59088 - DC - Carta]]
+  * [[59089.txt|59089 - DC - Carta]]

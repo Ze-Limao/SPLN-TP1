@@ -1,0 +1,19 @@
+====== 9427 - DC - Registo do recenseamento militar de Bernardo ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Bernardo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Manuel de Sá Carvalhosa e Rosa dos Santos
+Naturalidade - Fradelos
+Data de nascimento - 1877-03-09
+Profissão - Criado de servir
+Estado civil - Solteiro
+Residência - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9427
+**LangMaterial**:: Português
+**PhysLoc**:: f. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9427

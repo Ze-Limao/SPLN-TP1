@@ -1,0 +1,20 @@
+====== 34054 - DC - Registo do recenseamento militar de Paulo Tibúrcio ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Paulo Tibúrcio
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Oliveira Santa Maria
+Data de nascimento - 1852-04-13
+Filiação - Antónia Maria de Abreu
+Profissão - 
+Estado - 
+Morada - 
+Observações - Dado em relação de 25 de janeiro de 1873, pela Câmara Municipal de Guimarães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34054
+**LangMaterial**:: Português
+**PhysLoc**:: 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34054

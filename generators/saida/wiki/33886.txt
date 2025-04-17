@@ -1,0 +1,30 @@
+====== 33886 - DC - Carta ======
+
+**Parent**:: 33878
+**RootParent**:: 31258
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1882-08-25
+**UnitDateFinal**:: 1882-08-25
+**ScopeContent**:: Carta manuscrita assinada, de Seide. Esta carta está dentro envelope CP 2252 juntamente com outras 12 cartas de Camilo Castelo Branco.
+Transcrição da carta:
+"Meu presadissimo amigo.
+Estou envergonhado. A pertinácia das das nevralgias não me tem deixado sair d´aqui, e os desgostos de família tiram-me à alma toda a energia. Quando posso refugio-me no trabalho, e não tenho outra consolação. Peço-lhe me desculpe de lhe não ter feito em Pindella uma visita em 
+satisfação de tantas e tão expressivas da sua nobilissima alma.
+Acabei hoje de escrever pª um livro chamado Narcóticos um trabalho intitulado Os descendentes do doutor Antº Ferrª, célebre poeta quinhentista e os seus descendentes.
+Ali mostro com a possível evidência que V. Exª é oitavo neto de Antº Ferreira. Parece-me que o vejo admirado e duvidoso! Não duvide. Quando aqui vier, ou q.do ler o meu artº', verá as bases em que se fundamenta a novide. Todos ignoram (pelo menos os biográtos de Ant° Ferrª) que Antº Leite Ferrª que veio de Cabeceiras de Basto casar a Guims. com D. Maria de Almada, senhora do morgadio de Azenha, era filha de Miguel Leite Ferreira, editor e filho do doutor Antº Ferrª que foi casado com D. Maria Leite, do Porto, filha do celebrado Miguel Leite que em Marzagão e Arzilla ganhou a Comenda de S. Comba dos Valles.
+Deduza V. Ex.cia a linhagem de D. Mª de Almada e Antº Leite Ferreira e verá que é oitavo neto deste casal, e que ainda seus 4º e 5º avós se assignaram Leites Ferreira, como diz M.el de Castro e João Carlos Feo, e não Pereiras como escreve o parvo do Canaes nas Arvores de Costados.
+Note o meu amº em que profundas trevas laboraram o visconde de Castº (Julio) e o Th. Braga e outros q. escreveram a biografia do insigne e primeiro tragico portuguez!
+Abraça-o seu mtº amº
+Seide 25/8/82
+C. Castello Branco".
+
+No livro Narcóticos, Camilo fala da descendência de António Ferreira e dá conhecimento disso a Vicente Pinheiro, nesta carta.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD33886
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2258 - cx. 16
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=33886

@@ -1,0 +1,16 @@
+====== 29106 - DC - Rascunho de carta ======
+
+**Parent**:: 29103
+**RootParent**:: 27963
+**UnitTitle**:: Rascunho de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903-11-20
+**UnitDateFinal**:: 1903-11-20
+**ScopeContent**:: Carta escrita no Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29106
+**LangMaterial**:: Português
+**PhysLoc**:: AS 531 - cx. 9
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29106

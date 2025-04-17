@@ -1,0 +1,16 @@
+====== 21640 - DC - Registo do recenseamento eleitoral de José Gomes ======
+
+**Parent**:: 7905
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Gomes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1871-02-14
+**UnitDateFinal**:: 1871-02-18
+**ScopeContent**:: Freguesia - Arnoso Santa Maria
+Profissão - Lavrador
+Morada - Lordelo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21640
+**LangMaterial**:: Português
+**PhysLoc**:: f. 7v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21640

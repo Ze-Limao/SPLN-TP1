@@ -1,0 +1,22 @@
+====== 54015 - DC - Medição de obras a empreitada geral da urbanização da praça do novo edifício do Tribunal ======
+
+**Parent**:: 53750
+**RootParent**:: 25851
+**UnitTitle**:: Medição de obras a empreitada geral da urbanização da praça do novo edifício do Tribunal
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-06-03
+**UnitDateFinal**:: 1961-06-03
+**ScopeContent**:: Contém 157(1) a (3). Processo incompleto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54015
+**LangMaterial**:: Português
+**PhysLoc**:: JG 157(1-3) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54015
+
+===== Filhos =====
+  * [[54016.txt|54016 - DC - Medição de obras a menos a deduzir como Primeiro Adicional à empreitada geral da urbanização da praça anexa ao edifício do Tribunal…]]
+  * [[54022.txt|54022 - DC - Medição de obras a menos a deduzir como Segundo Adicional à empreitada geral do novo edifício dos Paços do Concelho…]]
+  * [[54024.txt|54024 - DC - Medição de obras a mais a executar como Primeiro Adicional à empreitada geral da urbanização da praça do novo edifício do Tribunal…]]

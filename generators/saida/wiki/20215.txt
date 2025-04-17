@@ -1,0 +1,16 @@
+====== 20215 - UI - Registo das tabernas e casas de venda de bebidas alcoólicas ======
+
+**Parent**:: 20214
+**RootParent**:: 20048
+**UnitTitle**:: Registo das tabernas e casas de venda de bebidas alcoólicas
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1924-07-10
+**UnitDateFinal**:: 1935-07-10
+**ScopeContent**:: Termo de abertura: “Tem de servir este livro para nele serem registados as tabernas…”.
+Contém dados: nº de ordem e registo, nº proprietário ou gerente, dedignação, lugar ou rua, freguesia e observações.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20215
+**LangMaterial**:: Português
+**PhysLoc**:: AC 36
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20215

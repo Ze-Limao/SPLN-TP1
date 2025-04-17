@@ -1,0 +1,17 @@
+====== 56381 - DC - Carta de Felix Eisenmann ======
+
+**Parent**:: 55427
+**RootParent**:: 31258
+**UnitTitle**:: Carta de Felix Eisenmann
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1898-09-19
+**UnitDateFinal**:: 1898-09-19
+**ScopeContent**:: Carta manuscrita com envelope selado e carimbado, dirigido ao 2º Visconde de Pindela, para Bad Wörishofen (Baviera/Alemanha), de Berlim. Está dentro de envelope CP 1435, junto com CP 1436 a CP 1448.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56381
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 1436 - cx. 10
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56381

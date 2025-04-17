@@ -1,0 +1,17 @@
+====== 79905 - SSR - Augusto de Sousa Lopes ======
+
+**Parent**:: 79837
+**RootParent**:: 60698
+**UnitTitle**:: Augusto de Sousa Lopes
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 1952
+**UnitDateFinal**:: 1952
+**ScopeContent**:: Reprodução de postais em papel de fotografia e fotocópias em papel: Monumento aos Mortos da Grande (285); Vista parcial da feira (286); S. Tiago da Cruz (287); Landim- Capela de S. Braz (288); Riba d´AVe - monumento a Narciso Ferreira (289).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79839
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 285 a CPVNF 289 - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79905

@@ -1,0 +1,15 @@
+====== 29550 - DC - Fragmento de envelope com notas ======
+
+**Parent**:: 28918
+**RootParent**:: 27963
+**UnitTitle**:: Fragmento de envelope com notas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1868
+**UnitDateFinal**:: 1891
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29550
+**LangMaterial**:: Português
+**PhysLoc**:: AS 791 - cx. 11
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29550

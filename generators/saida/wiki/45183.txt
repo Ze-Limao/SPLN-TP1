@@ -1,0 +1,17 @@
+====== 45183 - DC - Postal ilustrado para Viscondes ======
+
+**Parent**:: 45180
+**RootParent**:: 31258
+**UnitTitle**:: Postal ilustrado para Viscondes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-05-20
+**UnitDateFinal**:: 1900-05-20
+**ScopeContent**:: Postal ilustrado manuscrito, da Luz. Carta dentro do envelope “17-05-1900 nascimento da Grácia”.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD45183
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3005 - cx. 24
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=45183

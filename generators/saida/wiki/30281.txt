@@ -1,0 +1,16 @@
+====== 30281 - DC - Carta ======
+
+**Parent**:: 21447
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1908-08-02
+**UnitDateFinal**:: 1908-08-02
+**ScopeContent**:: Carta manuscrita e assinada, da Senhora da Hora, Matosinhos. Papel timbrado do "Grande Hotel Cruzeiro do Sul. Vizella".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30281
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1440 - cx. 15
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30281

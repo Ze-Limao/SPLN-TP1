@@ -1,0 +1,15 @@
+====== 80224 - UI - Processo nº 68 ======
+
+**Parent**:: 80030
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 68
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-01-23
+**UnitDateFinal**:: 1977-04-14
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 10.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 114 - cx. 7
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80224

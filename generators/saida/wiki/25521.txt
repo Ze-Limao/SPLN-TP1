@@ -1,0 +1,16 @@
+====== 25521 - DC - Carta ======
+
+**Parent**:: 21135
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-10-27
+**UnitDateFinal**:: 1922-10-27
+**ScopeContent**:: Henrique Coimbra pede opinião sobre uma fundação que pretende realizar intitulada Sociedade Camilianista de Vila Nova de Famalicão. Carta manuscrita assinada, de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25521
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 475 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25521

@@ -1,0 +1,16 @@
+====== 61364 - DC - Registo de Conciliaçoens para a freg.ª de Santa Maria d´Oliveira ======
+
+**Parent**:: 60677
+**RootParent**:: 60542
+**UnitTitle**:: Registo de Conciliaçoens para a freg.ª de Santa Maria d´Oliveira
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1835-10-13
+**UnitDateFinal**:: 1836
+**ScopeContent**:: Manuscrito. Livro encadernado a capas de cartão forradas a papel de fantasia, etiqueta com o título.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60676
+**LangMaterial**:: Português
+**PhysLoc**:: JPSMO - cx. 5
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61364

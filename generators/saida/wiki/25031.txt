@@ -1,0 +1,16 @@
+====== 25031 - UI - Projecto para novo Quartel de Bombeiros Voluntários de Famalicão do engenheiro civil Pinheiro Braga (reprovado) ======
+
+**Parent**:: 20371
+**RootParent**:: 20342
+**UnitTitle**:: Projecto para novo Quartel de Bombeiros Voluntários de Famalicão do engenheiro civil Pinheiro Braga (reprovado)
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1959
+**UnitDateFinal**:: 1959
+**ScopeContent**:: Contém: 15 alçados e plantas, 6 memórias descritivas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25031
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 133 - cx. 33
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25031

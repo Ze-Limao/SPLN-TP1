@@ -1,0 +1,17 @@
+====== 21466 - UI - José Vital Branco Malhoa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: José Vital Branco Malhoa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1918-03-01
+**UnitDateFinal**:: 1918-03-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21466
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1477
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21466
+
+===== Filhos =====
+  * [[22662.txt|22662 - DC - Carta]]

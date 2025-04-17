@@ -1,0 +1,16 @@
+====== 48737 - UI - Manuel de Sousa Júnior ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Manuel de Sousa Júnior
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48737
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48737
+
+===== Filhos =====
+  * [[48738.txt|48738 - DC - Carta]]

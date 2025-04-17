@@ -1,0 +1,17 @@
+====== 54266 - DC - Sentença da suplicação que julga Ana Pinheiro para pertencer o Morgado de Pindela ======
+
+**Parent**:: 54463
+**RootParent**:: 31258
+**UnitTitle**:: Sentença da suplicação que julga Ana Pinheiro para pertencer o Morgado de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1576
+**UnitDateFinal**:: 1576
+**ScopeContent**:: Manuscrito com folhas cosidas em papel azul "Pasta nº 1 Casal nº1 D". A tomada de posse do vínculo por Ana Pinheiro e Manuel Figueira não foi pacífica. Helena Dias, viúva de Simão Pinheiro e a 1ª descendência do Morgado atribuíam-se com direitos de propriedade que não detinham. Esta sentença da suplicação de 1576 veio fazer justiça e ordenando o cumprimento das disposições de Luís de Carvalho. Este documento estava na caixa “Pasta nº1 Anno 1841”, que contém CP 13170 a CP 13193. Junto com CP 13172.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54266
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13171 - cx. 87
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54266

@@ -1,0 +1,17 @@
+====== 21139 - UI - Ernesto Rodolfo Hintze Ribeiro ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Ernesto Rodolfo Hintze Ribeiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1898-02-23
+**UnitDateFinal**:: 1898-02-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21139
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 479
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21139
+
+===== Filhos =====
+  * [[25525.txt|25525 - DC - Carta]]

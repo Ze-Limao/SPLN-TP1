@@ -1,0 +1,14 @@
+====== 80013 - UI - Processo nº 53 ======
+
+**Parent**:: 79201
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 53
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-11-19
+**UnitDateFinal**:: 1970-04-30
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 29 - cx. 2
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80013

@@ -1,0 +1,18 @@
+====== 52636 - DC - Registo do recenseamento militar de João Rodrigues de Sá ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João Rodrigues de Sá
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-07-17
+Filiação - Vicente Rodrigues de Sá e Maria Joana de Abreu
+Naturalidade - Cabeçudos
+Profissão - Estudante
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52636
+**LangMaterial**:: Português
+**PhysLoc**:: 41v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52636

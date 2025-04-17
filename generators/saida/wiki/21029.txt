@@ -1,0 +1,15 @@
+====== 21029 - DC - Contrato de compra e venda ======
+
+**Parent**:: 7707
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de compra e venda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1948-11-30
+**UnitDateFinal**:: 1948-11-30
+**ScopeContent**:: Compra de casa e terreno para abertura da nova rua Vasconcelos e Castro
+Outorgantes - Manuel de Azevedo Matos e Henedina Guimarães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21029
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 37
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21029

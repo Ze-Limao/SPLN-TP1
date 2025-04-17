@@ -1,0 +1,15 @@
+====== 97660 - UI - Processo nº 30 ======
+
+**Parent**:: 97487
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 30
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1972-06-06
+**UnitDateFinal**:: 1977-04-14
+**ScopeContent**:: Junto com Autos de Execução de Custas nº 30-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 405 - cx. 25
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97660

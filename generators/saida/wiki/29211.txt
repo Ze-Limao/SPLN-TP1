@@ -1,0 +1,17 @@
+====== 29211 - DC - Catalpa Speciosa ======
+
+**Parent**:: 29171
+**RootParent**:: 27963
+**UnitTitle**:: Catalpa Speciosa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-09
+**UnitDateFinal**:: 1904-09
+**ScopeContent**:: Transcrição de uma notícia, publicada num periódico, sobre a Catalpa Speciosa, o nome de uma espécie florestal. A transcrição foi feita a partir do periódico «The World’s Work & Play» (Set. 1904, pp. 419-420), a qual, por sua vez, segundo está indicado por Alberto Sampaio foi extraída do «Scientific American». Ver carta de Alberto Sampaio a Jaime de Magalhães Lima, de 23 de Dezembro de 1904.
+Fonte: Cartas de Alberto Sampaio. Organização, introdução e notas Emília Nóvoa Faria e António Martins. Ribeirão: Edições Húmus, 2009, p. 103.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29211
+**LangMaterial**:: Português
+**PhysLoc**:: AS 326 - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29211

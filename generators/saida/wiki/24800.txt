@@ -1,0 +1,16 @@
+====== 24800 - DC - Carta ======
+
+**Parent**:: 21069
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1904-09-15
+**UnitDateFinal**:: 1904-09-15
+**ScopeContent**:: Carta manuscrita assinada, da Casa de Juzam, Lousada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24800
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 341 - cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24800

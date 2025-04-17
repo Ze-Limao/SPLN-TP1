@@ -1,0 +1,17 @@
+====== 54207 - DC - Processo Concurso para o fornecimento do mobiliário para o salão nobre dos novos Paços de concelho. Câmara Municipal de Vila Nova de Famalicão - secretaria ======
+
+**Parent**:: 54200
+**RootParent**:: 25851
+**UnitTitle**:: Processo Concurso para o fornecimento do mobiliário para o salão nobre dos novos Paços de concelho. Câmara Municipal de Vila Nova de Famalicão - secretaria
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1961-03-16
+**UnitDateFinal**:: 1961-03-29
+**ScopeContent**:: Contém Guias e Proposta de Luís Soares Barbosa JG 194(1) a (3), Dossier com 16 cópias de desenhos mobiliário de Soares Barbosa JG 192(4); outras propostas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54207
+**LangMaterial**:: Português
+**PhysLoc**:: JG 192 - cx. 15
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54207

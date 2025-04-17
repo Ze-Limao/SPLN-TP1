@@ -1,0 +1,17 @@
+====== 56901 - DC - Comissão de Viticultura. Assembleia Geral que ratificam a nomeação de Gaspar Couto e minha atitude desde que sahida Comissão Executiva ======
+
+**Parent**:: 31342
+**RootParent**:: 31258
+**UnitTitle**:: Comissão de Viticultura. Assembleia Geral que ratificam a nomeação de Gaspar Couto e minha atitude desde que sahida Comissão Executiva
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1933
+**UnitDateFinal**:: 1933
+**ScopeContent**:: Na 1º f. título manuscrito a cores, 16 p. datilogrfadas "Memorandum", da Comissão de Viticultura da Região dos Vinhos Verdes.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56901
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2376 - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56901

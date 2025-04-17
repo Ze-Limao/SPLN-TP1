@@ -1,0 +1,13 @@
+====== 9670 - DC - Ofício nº 25 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 25
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-04-23
+**UnitDateFinal**:: 1887-04-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9670
+**LangMaterial**:: Português
+**PhysLoc**:: f. 31
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9670

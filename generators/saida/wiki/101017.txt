@@ -1,0 +1,23 @@
+====== 101017 - SR - Câmara Municipal de Vila Nova de Famalicão - Posto de Turismo ======
+
+**Parent**:: 60698
+**RootParent**:: 60698
+**UnitTitle**:: Câmara Municipal de Vila Nova de Famalicão - Posto de Turismo
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1990
+**UnitDateFinal**:: 2000
+**ScopeContent**:: Colecção Famalicão princípio do século XX. Fotografias cedidas pela Foto Humberto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9756
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=101017
+
+===== Filhos =====
+  * [[101019.txt|101019 - DC - Campo Mouzinho de Albuquerque, ano 1912]]
+  * [[101020.txt|101020 - DC - Festas Antoninas, ano 1912]]
+  * [[101021.txt|101021 - DC - Rua Adriano Pinto Basto, ano 1912]]
+  * [[101023.txt|101023 - DC - Estação CP, ano 1912]]
+  * [[101024.txt|101024 - DC - Câmara Municipal de Vila Nova de Famalicão, ano 1912]]
+  * [[101025.txt|101025 - DC - Casa de Camilo, ano 1912]]
+  * [[101026.txt|101026 - DC - Feira, ano 1912]]
+  * [[101027.txt|101027 - DC - Rua Direita, ano 1912]]

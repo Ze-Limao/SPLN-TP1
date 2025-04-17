@@ -1,0 +1,17 @@
+====== 32707 - DC - Cartão ======
+
+**Parent**:: 32525
+**RootParent**:: 31258
+**UnitTitle**:: Cartão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1914
+**UnitDateFinal**:: 1914
+**ScopeContent**:: Cartão manuscrito assinado, de domingo, sem datação. Esta carta pertence ao maço "1914". Deseja as melhoras de Vicente.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD32707
+**LangMaterial**:: Português
+**PhysLoc**:: CP 6799 - cx. 45
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=32707

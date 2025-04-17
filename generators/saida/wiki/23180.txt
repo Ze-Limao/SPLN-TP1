@@ -1,0 +1,16 @@
+====== 23180 - DC - Carta ======
+
+**Parent**:: 21052
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1910-03-08
+**UnitDateFinal**:: 1910-03-08
+**ScopeContent**:: Alfredo Pons indica como se obtém uma certidão da mercê do Castelo de Faria a Nuno Gonçalves. Faz uma minuta para o requerimento dirigido a sua Majestade o Rei indicando as custas. Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23180
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 69 - cx. 1
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=23180

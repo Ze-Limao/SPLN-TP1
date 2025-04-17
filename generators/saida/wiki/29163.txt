@@ -1,0 +1,16 @@
+====== 29163 - DC - Carta ======
+
+**Parent**:: 29158
+**RootParent**:: 27963
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-10-30
+**UnitDateFinal**:: 1877-10-30
+**ScopeContent**:: Carta de Antero de Quental a Germano Vieira de Meireles. Enviada de Paris (?).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29163
+**LangMaterial**:: Português
+**PhysLoc**:: AS 289 - cx. 6
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29163

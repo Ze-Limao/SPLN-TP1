@@ -1,0 +1,19 @@
+====== 53902 - DC - Ofício dirigido ao Presidente da Câmara Municipal de Famalicão do Arquiteto Januário Godinho sobre pormenores P83 e P84 ======
+
+**Parent**:: 53978
+**RootParent**:: 25851
+**UnitTitle**:: Ofício dirigido ao Presidente da Câmara Municipal de Famalicão do Arquiteto Januário Godinho sobre pormenores P83 e P84
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-01-14
+**UnitDateFinal**:: 1961-01-14
+**ScopeContent**:: Cópia do ofício assinada pelo arquiteto J.G.
+Transcrição:
+""Em virtude das dúvidas e dificuldades, por parte dos concorrentes, quanto à instalação dos relógios da Torre, nomeadamente a solução a dar aos mostradores, modo de iluminar e fácil acesso para reparações, resolveu-se apresentar uma solução única, tal como referem os desenhos. Assim, a Torre será dotada de quatro mostradores iguais, com armação de ferro zincado e pintado, levando vidro despolido e números sobrepostos; a iluminação é feita pelos processos comuns, - mostrador iluminado deixando em contraluz os ponteiros e números. Sempre que haja avarias na iluminação, as reparações serão feitas pelo interior da Torre, através da casa das máquinas do ascensor. Para tal fim, foi necessário aumentar de mais uma fiada a altura da Torre, permitindo desta maneira respeitar as alturas impostas pela casa instaladora do ascensor."
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53902
+**LangMaterial**:: Português
+**PhysLoc**:: JG 158(4) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53902

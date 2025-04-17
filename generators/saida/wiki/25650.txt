@@ -1,0 +1,16 @@
+====== 25650 - DC - Carta ======
+
+**Parent**:: 21178
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1921-06-03
+**UnitDateFinal**:: 1921-06-03
+**ScopeContent**:: Agradece o livro Camilo Homenageado e felicita a Comissão de homenagem ao escritor. Carta manuscrita assinada, de Lisboa. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25650
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 602 - cx. 7
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25650

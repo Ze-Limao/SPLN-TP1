@@ -1,0 +1,17 @@
+====== 21033 - UI - Afonso Pereira Cabral ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Afonso Pereira Cabral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-12-31
+**UnitDateFinal**:: 1921-12-31
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21033
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 20
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21033
+
+===== Filhos =====
+  * [[23095.txt|23095 - DC - Carta]]

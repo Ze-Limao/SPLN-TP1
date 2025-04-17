@@ -1,0 +1,16 @@
+====== 28526 - DC - 1546 Pedro Galego ======
+
+**Parent**:: 28524
+**RootParent**:: 27963
+**UnitTitle**:: 1546 Pedro Galego
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**ScopeContent**:: «De Viana já sabemos como fora intensa a sua antiga vida marítima, bastando a demonstrá-la os monumentos. Lá também os mareantes edificaram em 1504 uma capela na igreja paroquial; e só duma sociedade de marinheiros podia emanar aventura tão novelesca, como a de Pêro Galego, no meado desse século. De todas as façanhas náuticas, a do filho do construtor do Galeão Bota-fogo com os seus trinta bravos companheiros é sem dúvida uma das mais expressivas de valor e ousadia.». Referência bibliográfica: O Norte Marítimo (Notas para uma história) in Estudos Históricos e Económicos, vol. I, ed. 1923, p. 416. A informação sobre Pedro Galego foi obtida na obra de Quintela Anais da Marinha Portuguesa, tomo I.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28526
+**LangMaterial**:: Português
+**PhysLoc**:: AS 91 (2) - cx. 2
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28526

@@ -1,0 +1,58 @@
+====== 7729 - UI - Livro de Termos de Obrigação e Sujeição ao Município Nº 3 ======
+
+**Parent**:: 7726
+**RootParent**:: 7651
+**UnitTitle**:: Livro de Termos de Obrigação e Sujeição ao Município Nº 3
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878-12-11
+**UnitDateFinal**:: 1879-11-02
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7729
+**LangMaterial**:: Português
+**PhysLoc**:: 1.72
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7729
+
+===== Filhos =====
+  * [[21090.txt|21090 - DC - Termo de José Romão Bartolo]]
+  * [[21091.txt|21091 - DC - Termo de José da Costa e Teresa da Costa Monteiro]]
+  * [[21094.txt|21094 - DC - Termo de Manuel Lopes e Ana Ferreira]]
+  * [[21095.txt|21095 - DC - Termo de José Pinheiro Alves e Emília Cândida Correia de Araújo]]
+  * [[21098.txt|21098 - DC - Termo de João Gomes de Oliveira Couto e Maria Joaquina de Oliveira]]
+  * [[21102.txt|21102 - DC - Termo de João Gomes de Oliveira e Luísa de Oliveira]]
+  * [[21105.txt|21105 - DC - Termo de Francisco Martins de Campos e Mariana da Silva]]
+  * [[21109.txt|21109 - DC - Termo de João Gomes de Azevedo e Mariana Gomes de Araújo]]
+  * [[21114.txt|21114 - DC - Termo de José da Costa Pereira e Alexandrina Gomes da Costa]]
+  * [[21118.txt|21118 - DC - Termo de Manuel Pereira Marques Júnior e Ana Maria Dias]]
+  * [[21124.txt|21124 - DC - Termo de Manuel Pereira de Azevedo e Joaquina Dias Alves Pimenta]]
+  * [[21126.txt|21126 - DC - Termo de António Joaquim Ferreira e Jacinta Gomes]]
+  * [[21127.txt|21127 - DC - Termo de Leonardo José Pereira e Ana Emília de Oliveira Costa]]
+  * [[8075.txt|8075 - DC - Termo de Ana Dias de Azevedo]]
+  * [[8076.txt|8076 - DC - Termo de Joaquim da Silva Palmeira]]
+  * [[8077.txt|8077 - DC - Termo de José da Silva Ribeiro]]
+  * [[8078.txt|8078 - DC - Termo de Domingos Coelho]]
+  * [[8079.txt|8079 - DC - Termo de João António da Silva Correia]]
+  * [[8080.txt|8080 - DC - Termo de António Joaquim de Campos Miranda]]
+  * [[8081.txt|8081 - DC - Termo de Joaquim Pereira]]
+  * [[8082.txt|8082 - DC - Termo de Joaquim do Carmo]]
+  * [[8083.txt|8083 - DC - Termo de Domingos Gomes da Silva]]
+  * [[8084.txt|8084 - DC - Termo de Félix da Silva]]
+  * [[8085.txt|8085 - DC - Termo de Francisco Correia de Azevedo]]
+  * [[8086.txt|8086 - DC - Termo de Francisco de Araújo Alves]]
+  * [[8087.txt|8087 - DC - Termo de Domingos Ferreira de Andrade]]
+  * [[8088.txt|8088 - DC - Termo de António Simões]]
+  * [[8089.txt|8089 - DC - Termo de José Domingues de Paiva]]
+  * [[8090.txt|8090 - DC - Termo de Domingos Dias]]
+  * [[8091.txt|8091 - DC - Termo de António da Costa]]
+  * [[8092.txt|8092 - DC - Termo de Bernardino José da Costa]]
+  * [[8093.txt|8093 - DC - Termo de Joaquim Francisco dos Reis]]
+  * [[8094.txt|8094 - DC - Termo de Luís de Azevedo Oliveira e Bernardina da Costa Cruz]]
+  * [[8095.txt|8095 - DC - Termo de José da Silva Mendes e Rosa da Silva Pinheiro]]
+  * [[8096.txt|8096 - DC - Termo de Paulino Manuel José de Faria e Maria Rosa]]
+  * [[8097.txt|8097 - DC - Termo de Manuel Martins de Oliveira e Ana Correia de Faria]]
+  * [[8098.txt|8098 - DC - Termo de Josefa Pereira Martins]]
+  * [[8099.txt|8099 - DC - Termo de José Soares]]
+  * [[8100.txt|8100 - DC - Termo de Francisco Joaquim de Carvalho e Manuel de Faria Peixoto]]
+  * [[8101.txt|8101 - DC - Termo de José Pinheiro Alves]]
+  * [[8102.txt|8102 - DC - Termo de António da Costa Faria]]
+  * [[8103.txt|8103 - DC - Termo de José Bernardino da Costa e Sá e Cândida Rosa da Luz]]
+  * [[8104.txt|8104 - DC - Termo de José Peliteiro]]

@@ -1,0 +1,18 @@
+====== 54582 - UI - Luís Filipe de Castro ======
+
+**Parent**:: 31357
+**RootParent**:: 31258
+**UnitTitle**:: Luís Filipe de Castro
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54582
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54582
+
+===== Filhos =====
+  * [[54583.txt|54583 - DC - Carta]]
+  * [[58281.txt|58281 - DC - Carta e minuta de carta de Bernardo Pinheiro Correia de Melo]]
+  * [[58282.txt|58282 - DC - Carta e minuta de carta de Bernardo Pinheiro Correia de Melo]]
+  * [[58333.txt|58333 - DC - Carta]]
+  * [[58334.txt|58334 - DC - Minuta de carta de Bernardo Pinheiro Correia de Melo]]
+  * [[58335.txt|58335 - DC - Minuta de carta de Bernardo Pinheiro Correia de Melo]]
+  * [[58336.txt|58336 - DC - Minuta de carta de Bernardo Pinheiro Correia de Melo]]

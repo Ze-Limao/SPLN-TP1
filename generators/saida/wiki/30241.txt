@@ -1,0 +1,16 @@
+====== 30241 - DC - Carta ======
+
+**Parent**:: 21406
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1870
+**UnitDateFinal**:: 1920
+**ScopeContent**:: Carta manuscrita e assinada, de Évora, sem menção a ano de 10 de janeiro.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD30241
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1376 - cx. 14
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=30241

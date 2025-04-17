@@ -1,0 +1,17 @@
+====== 54088 - DC - Edital - Câmara Municipal de Famalicão ======
+
+**Parent**:: 54085
+**RootParent**:: 25851
+**UnitTitle**:: Edital - Câmara Municipal de Famalicão
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1958-01-13
+**UnitDateFinal**:: 1958-01-13
+**ScopeContent**:: Original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54088
+**LangMaterial**:: Português
+**PhysLoc**:: JG 168(3) - cx. 5
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54088

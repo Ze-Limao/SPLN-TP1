@@ -1,0 +1,32 @@
+====== 21144 - UI - Jacinto Cândido ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Jacinto Cândido
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1904
+**UnitDateFinal**:: 1926
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21144
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 501 a 516
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21144
+
+===== Filhos =====
+  * [[25547.txt|25547 - DC - Carta]]
+  * [[25548.txt|25548 - DC - Carta]]
+  * [[25549.txt|25549 - DC - Carta]]
+  * [[25550.txt|25550 - DC - Carta]]
+  * [[25551.txt|25551 - DC - Carta]]
+  * [[25552.txt|25552 - DC - Carta]]
+  * [[25553.txt|25553 - DC - Carta]]
+  * [[25554.txt|25554 - DC - Carta]]
+  * [[25555.txt|25555 - DC - Carta]]
+  * [[25556.txt|25556 - DC - Carta]]
+  * [[25557.txt|25557 - DC - Carta]]
+  * [[25558.txt|25558 - DC - Carta]]
+  * [[25559.txt|25559 - DC - Carta]]
+  * [[25560.txt|25560 - DC - Carta]]
+  * [[25561.txt|25561 - DC - Carta]]
+  * [[25562.txt|25562 - DC - Carta]]

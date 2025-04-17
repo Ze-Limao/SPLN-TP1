@@ -1,0 +1,15 @@
+====== 54233 - DC - Capa do Processo fornecimento de projectores, lâmpadas, transformadores e armaduras destinados à iluminação do largo fronteiro ao novo edifício dos Paços de Concelho e Tribunal Judicial. Câmara Municipal de Famalicão - Secretaria. Ano 1961 ======
+
+**Parent**:: 54219
+**RootParent**:: 25851
+**UnitTitle**:: Capa do Processo fornecimento de projectores, lâmpadas, transformadores e armaduras destinados à iluminação do largo fronteiro ao novo edifício dos Paços de Concelho e Tribunal Judicial. Câmara Municipal de Famalicão - Secretaria. Ano 1961
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961-05-05
+**UnitDateFinal**:: 1961-05-05
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54233
+**LangMaterial**:: Português
+**PhysLoc**:: JG 184(1) - cx. 14
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54233

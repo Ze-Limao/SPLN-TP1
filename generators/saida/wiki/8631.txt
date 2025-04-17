@@ -1,0 +1,18 @@
+====== 8631 - DC - Termo do exame de Ivo Pereira de Carvalho ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Ivo Pereira de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-08-01
+**UnitDateFinal**:: 1889-08-01
+**ScopeContent**:: Grau - Elementar
+Idade - 13
+Filiação - António Pereira de Carvalho
+Naturalidade - Bairro
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8631
+**LangMaterial**:: Português
+**PhysLoc**:: f. 72
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8631

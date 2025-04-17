@@ -1,0 +1,18 @@
+====== 21184 - UI - João Teixeira da Silva ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: João Teixeira da Silva
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913
+**ScopeContent**:: Nasceu 24 Setembro 1867 em Braga, Sé e morreu em 22 Outubro 1930. Foi Tenente de Engenharia.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21184
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 625
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21184
+
+===== Filhos =====
+  * [[25675.txt|25675 - DC - Carta]]

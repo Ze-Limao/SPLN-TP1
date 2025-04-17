@@ -1,0 +1,16 @@
+====== 21348 - UI - Bernardo Marques Coelho ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Bernardo Marques Coelho
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-01-25
+**UnitDateFinal**:: 1902-01-25
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21348
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1259
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21348
+
+===== Filhos =====
+  * [[30124.txt|30124 - DC - Carta]]

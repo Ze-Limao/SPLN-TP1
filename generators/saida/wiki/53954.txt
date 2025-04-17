@@ -1,0 +1,28 @@
+====== 53954 - DC - Novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc. - Primeiro Adicional. Câmara Municipal de Famalicão ======
+
+**Parent**:: 53750
+**RootParent**:: 25851
+**UnitTitle**:: Novo edifício dos Paços do Concelho, Tribunal da Justiça e Secção das Finanças, etc. - Primeiro Adicional. Câmara Municipal de Famalicão
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1959-04-18
+**UnitDateFinal**:: 1961-05-09
+**ScopeContent**:: Contém 152 (2) a (10).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53954
+**LangMaterial**:: Português
+**PhysLoc**:: JG 152(1) - cx. 16
+depósito 3, estante 12
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53954
+
+===== Filhos =====
+  * [[53956.txt|53956 - DC - Primeiro Adicional à empreitada geral da construção do novo edifício dos Paços do Concelho. Câmara Municipal de Famalicão]]
+  * [[53957.txt|53957 - DC - Medição de obras a mais a executar como Primeiro Adicional à empreitada geral da construção do novo edifício dos Paços do Concelho de Vila Nova de Famalicão, Secção de Finanças e demais repartições]]
+  * [[53958.txt|53958 - DC - Medição de obras a menos a deduzir à empreitada geral de Construção do novo edifício dos Paços do Concelho de Vila Nova de Famalicão, Secção de Finanças e demais repartições]]
+  * [[53959.txt|53959 - DC - Orçamento das obras a mais a executar como Primeiro Adicional à empreitada geral de construção do novo edifício dos Paços do Concelho de Vila Nova de Famalicão, Secção de Finanças e demais repartições]]
+  * [[53960.txt|53960 - DC - Orçamento das Obras a Menos a deduzir à empreitada geral de Construção do novo edifício dos Paços do Concelho de Vila Nova de Famalicão, Secção de Finanças e demais repartições]]
+  * [[53961.txt|53961 - DC - C.M. de Famalicão - vigamentos]]
+  * [[53962.txt|53962 - DC - C.M. de Famalicão]]
+  * [[53963.txt|53963 - DC - Ofício dirigido ao Presidente da Câmara Municipal de Vila Nova de Famalicão de Joaquim de Sousa sobre a proposta do empreiteiro de celebração do 1º Contrato Adicional]]
+  * [[53964.txt|53964 - DC - Nota manuscrita sobre a deliberação camarária do 1º Contrato Adicional]]

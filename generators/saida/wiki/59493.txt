@@ -1,0 +1,17 @@
+====== 59493 - DC - Boletim de ajudas de custo Ministério da Agricultura ======
+
+**Parent**:: 31341
+**RootParent**:: 31258
+**UnitTitle**:: Boletim de ajudas de custo Ministério da Agricultura
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 193 -08-15
+**UnitDateFinal**:: 193 -08-31
+**ScopeContent**:: Formulário da Imprensa Nacional com notas manuscritas a lápis, com os serviços e itinerários efetuados do Gerês ao Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58180
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8558- cx. 53
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=59493

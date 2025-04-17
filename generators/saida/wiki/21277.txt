@@ -1,0 +1,16 @@
+====== 21277 - UI - Afonso Augusto Falcão Cota de Bourbon e Meneses ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Afonso Augusto Falcão Cota de Bourbon e Meneses
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1910
+**UnitDateFinal**:: 1938
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21277
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1125
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21277
+
+===== Filhos =====
+  * [[29716.txt|29716 - DC - Carta]]

@@ -1,0 +1,16 @@
+====== 21047 - DC - Contrato de adjudicação ======
+
+**Parent**:: 7708
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de adjudicação
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1951-06-12
+**UnitDateFinal**:: 1951-06-12
+**ScopeContent**:: Fornecimento de material elétrico para a iluminação pública da Praça da República e do Parque General Carmona
+Outorgante - Neves, Loureiro & Cª Lda.
+Toponímia - Praça Álvaro Marques e Parque Primeiro de Maio
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21047
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 59
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21047

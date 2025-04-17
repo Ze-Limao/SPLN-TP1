@@ -1,0 +1,16 @@
+====== 21382 - UI - Eduardo de Azevedo ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Eduardo de Azevedo
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886-11-28
+**UnitDateFinal**:: 1886-11-28
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21382
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1340
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21382
+
+===== Filhos =====
+  * [[30208.txt|30208 - DC - Carta]]

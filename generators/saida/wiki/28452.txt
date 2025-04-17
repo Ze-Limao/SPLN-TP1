@@ -1,0 +1,21 @@
+====== 28452 - DC - Notas sobre cereais ======
+
+**Parent**:: 28381
+**RootParent**:: 27963
+**UnitTitle**:: Notas sobre cereais
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28452
+**LangMaterial**:: Português
+**PhysLoc**:: AS 66 (1) a 66 (5)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28452
+
+===== Filhos =====
+  * [[28453.txt|28453 - DC - Sobre o milho maiz]]
+  * [[28454.txt|28454 - DC - Trigo-galego, e trigo-tremês, e centeio e milho, e painço]]
+  * [[28455.txt|28455 - DC - Do Cours d’agriculture]]
+  * [[28456.txt|28456 - DC - Gomes Eanes na Crónica do Conde D. Pedro]]
+  * [[28457.txt|28457 - DC - Milium intra hos decem anos]]

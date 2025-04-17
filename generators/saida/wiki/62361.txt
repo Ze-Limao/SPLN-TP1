@@ -1,0 +1,19 @@
+====== 62361 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9177
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1877-02-01
+**UnitDateFinal**:: 1877-04-05
+**ScopeContent**:: Filiação - António Pereira e Gertrudes Pereira da Costa, na freguesia
+Naturalidade - Lousado
+Morada - Lousado
+Data de nascimento - 1856-06-11
+Emprego - Serrador
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62244
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=62361

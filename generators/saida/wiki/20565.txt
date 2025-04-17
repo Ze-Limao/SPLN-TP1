@@ -1,0 +1,18 @@
+====== 20565 - DC - Registo do recenseamento militar de Alexandre ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Alexandre
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-01-21
+**ScopeContent**:: Freguesia - Seide S. Paio
+Filiação - Joaquim Cardoso de Araújo e Josefina Maria Carneiro da Silva
+Naturalidade - Seide S. Paio
+Data de nascimento - 1870-07-10
+Residência - Brasil
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20565
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20565

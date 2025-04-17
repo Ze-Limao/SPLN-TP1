@@ -1,0 +1,14 @@
+====== 60600 - UI - James Spencer Northcote ======
+
+**Parent**:: 31373
+**RootParent**:: 31258
+**UnitTitle**:: James Spencer Northcote
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1867-11
+**UnitDateFinal**:: 1867-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53090
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60600
+
+===== Filhos =====
+  * [[60601.txt|60601 - DC - Carta]]

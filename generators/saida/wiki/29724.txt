@@ -1,0 +1,16 @@
+====== 29724 - DC - Carta ======
+
+**Parent**:: 21283
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-11-25
+**UnitDateFinal**:: 1923-11-25
+**ScopeContent**:: Alberto Veloso de Araújo pede informações sobre a imagem da Nossa Senhora da Paz a colocar no Monte do Facho. Informa da sua ida à Repartição do Turismo para falar sobre o Monte do Facho e aguarda reunião com o Diretor das estradas e Turismo, senador Lima Alves (1866-1942). Carta manuscrita assinada, de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29724
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1133 -  cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29724

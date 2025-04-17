@@ -1,0 +1,16 @@
+====== 25454 - DC - Estrela da Manhã ======
+
+**Parent**:: 25080
+**RootParent**:: 20342
+**UnitTitle**:: Estrela da Manhã
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1966-10-02
+**UnitDateFinal**:: 1966-10-02
+**ScopeContent**:: Ano VII, nº341. Artigos sobre a inauguração do Quartel dos B.V. de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25454
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 178 - cx. 44
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25454

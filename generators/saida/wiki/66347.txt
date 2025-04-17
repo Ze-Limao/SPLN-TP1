@@ -1,0 +1,15 @@
+====== 66347 - DC - Apelação ao Juiz de Paz. Diz o Drº Rodrigo Joaquim de Meneses Abade de S. Tiago de Antas ======
+
+**Parent**:: 60766
+**RootParent**:: 60536
+**UnitTitle**:: Apelação ao Juiz de Paz. Diz o Drº Rodrigo Joaquim de Meneses Abade de S. Tiago de Antas
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1839-08-26
+**UnitDateFinal**:: 1839-08-26
+**ScopeContent**:: Manuscrito, original, sem capa, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 467 - cx. 21
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66347

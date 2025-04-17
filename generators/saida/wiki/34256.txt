@@ -1,0 +1,19 @@
+====== 34256 - DC - Registo do recenseamento militar de Joaquim Alves ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Lemenhe
+Data de nascimento - 1852-07-13
+Filiação - Francisco José Alves e Maria da Silva
+Profissão - Carpinteiro
+Estado - Solteiro
+Morada - Lemenhe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34256
+**LangMaterial**:: Português
+**PhysLoc**:: 80v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34256

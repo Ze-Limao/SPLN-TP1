@@ -1,0 +1,16 @@
+====== 25488 - DC - Carta ======
+
+**Parent**:: 21122
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1919-01-04
+**UnitDateFinal**:: 1919-01-04
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25488
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 445 - cx. 5
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25488

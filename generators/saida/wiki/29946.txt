@@ -1,0 +1,16 @@
+====== 29946 - DC - Carta ======
+
+**Parent**:: 21347
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880-05-23
+**UnitDateFinal**:: 1880-05-23
+**ScopeContent**:: Carta manuscrita assinada.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29946
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1244 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29946

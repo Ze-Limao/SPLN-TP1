@@ -1,0 +1,19 @@
+====== 55668 - UI - Eduardo Barreiros ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Eduardo Barreiros
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-06-16
+**UnitDateFinal**:: 1902-06-27
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55668
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55668
+
+===== Filhos =====
+  * [[55669.txt|55669 - DC - Carta]]
+  * [[55670.txt|55670 - DC - Minuta de carta]]
+  * [[55671.txt|55671 - DC - Carta]]
+  * [[55672.txt|55672 - DC - Carta]]
+  * [[55673.txt|55673 - DC - Carta]]
+  * [[55674.txt|55674 - DC - Carta]]

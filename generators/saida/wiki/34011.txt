@@ -1,0 +1,19 @@
+====== 34011 - DC - Registo do recenseamento militar de Joaquim dos Santos ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim dos Santos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Fradelos
+Data de nascimento - 1852-07-03
+Filiação - António dos Santos e Maria Joaquina
+Profissão - Ferreiro
+Estado - Solteiro
+Morada - Póvoa de Varzim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34011
+**LangMaterial**:: Português
+**PhysLoc**:: 19v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34011

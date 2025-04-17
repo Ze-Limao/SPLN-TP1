@@ -1,0 +1,15 @@
+====== 80472 - UI - Processo nº 201-B ======
+
+**Parent**:: 79988
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 201-B
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1971-07-09
+**UnitDateFinal**:: 1972-02-29
+**ScopeContent**:: Junto com Autos de Execução nº 201 e Autos de Reclamação de Créditos nº 201-A.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 165 - cx. 9
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80472

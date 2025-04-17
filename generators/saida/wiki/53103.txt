@@ -1,0 +1,14 @@
+====== 53103 - UI - Isabel Maria de Sousa Botelho Mourão e Vasconcelos Noronha ======
+
+**Parent**:: 31447
+**RootParent**:: 31258
+**UnitTitle**:: Isabel Maria de Sousa Botelho Mourão e Vasconcelos Noronha
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1909-02-22
+**UnitDateFinal**:: 1909-02-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53103
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53103
+
+===== Filhos =====
+  * [[53104.txt|53104 - DC - Bilhete-postal]]

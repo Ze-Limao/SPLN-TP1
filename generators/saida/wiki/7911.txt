@@ -1,0 +1,29 @@
+====== 7911 - UI - Recenseamento Eleitoral ======
+
+**Parent**:: 7874
+**RootParent**:: 7651
+**UnitTitle**:: Recenseamento Eleitoral
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1878-02-12
+**UnitDateFinal**:: 1878-03-06
+**ScopeContent**:: 'Tem de servir este livro para nele se escreverem os nomes dos cidadãos recenseados eleitores, elegíveis, maiores contribuintes e bem assim para todos os cargos públicos (...)'
+
+Contém dados sobre:
+1- Freguesia
+2- Nome
+3- Censo
+4- Título literário
+5- Emprego ou profissão
+6- Estado
+7- Morada
+8- Idade
+9- Elegíveis 
+10- Quarenta maiores contribuintes
+11- Observações
+
+Além das atuais freguesias e Aves, Arnoso Mosteiro continua como freguesia autónoma, Gemunde fica anexa a Cavalões, Oliveira S. Mateus a Delães e Novais a Ruivães
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7911
+**LangMaterial**:: Português
+**PhysLoc**:: 1.1.1.26
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7911

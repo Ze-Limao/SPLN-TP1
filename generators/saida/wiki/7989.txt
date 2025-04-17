@@ -1,0 +1,14 @@
+====== 7989 - DC - Termo de João Ferreira de Carvalho ======
+
+**Parent**:: 7727
+**RootParent**:: 7651
+**UnitTitle**:: Termo de João Ferreira de Carvalho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1864-06-09
+**UnitDateFinal**:: 1864-06-09
+**ScopeContent**:: Arrematação dos impostos indiretos municipais
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD7989
+**LangMaterial**:: Português
+**PhysLoc**:: f. 17
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=7989

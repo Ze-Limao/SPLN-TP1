@@ -1,0 +1,15 @@
+====== 97964 - UI - Processo nº 446 ======
+
+**Parent**:: 80639
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 446
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1973-07-12
+**UnitDateFinal**:: 1977-04-12
+**ScopeContent**:: Junto com Autos de Transgressão nº 198, 736, 737, 738.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 665 - cx. 37
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97964

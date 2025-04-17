@@ -1,0 +1,19 @@
+====== 54455 - DC - Ata do duelo entre António Enes e Emídio Navarro ======
+
+**Parent**:: 54417
+**RootParent**:: 31258
+**UnitTitle**:: Ata do duelo entre António Enes e Emídio Navarro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-03-15
+**UnitDateFinal**:: 1885-03-15
+**ScopeContent**:: Documento manuscrito e assinado. Ata do duelo entre António Enes e Emídio Navarro. Vicente Pinheiro foi representante de Emídio Navarro, tendo assinado a ata.
+Emídio Júlio Navarro (1844-1905) foi um político português. Fez parte do Partido Progressista, foi ministro das Obras Públicas durante três anos. Foi responsável por várias reformas na área da Agricultura, como o primeiro Recenseamento Agrícola e Pecuário do país. Na área do ensino, a sua intervenção deu lugar à criação de cinco Escolas Agrícolas, incluindo a de Viseu, cinco Escolas Industriais e nove Escolas Elementares de Desenho Industrial.
+António José Enes (1848-1901), formado no Curso Superior de Letras, foi um político. Defendeu em 1870 uns Estados Unidos da Europa, temendo que Portugal fosse absorvido pela vizinha Espanha. Foi membro destacado do Partido Histórico e da Maçonaria. Exerceu as funções de deputado na legislatura de 1884-1887.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54455
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13577 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54455

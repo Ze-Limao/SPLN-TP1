@@ -1,0 +1,18 @@
+====== 8624 - DC - Termo do exame de Guilherme de Alpoim Fortunato ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Guilherme de Alpoim Fortunato
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1889-08-01
+**UnitDateFinal**:: 1889-08-01
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - António de Alpoim Fortunato
+Naturalidade - Vale S. Martinho
+Classificação - Suficiente
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8624
+**LangMaterial**:: Português
+**PhysLoc**:: f. 70
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8624

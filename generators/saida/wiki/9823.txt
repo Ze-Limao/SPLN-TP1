@@ -1,0 +1,17 @@
+====== 9823 - DC - Vila Nova de Famalicão - Rua Adriano Pinto Basto ======
+
+**Parent**:: 9819
+**RootParent**:: 60698
+**UnitTitle**:: Vila Nova de Famalicão - Rua Adriano Pinto Basto
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1940
+**UnitDateFinal**:: 1950
+**ScopeContent**:: Bilhete-postal impresso em tons de bege, com margem branca, na frente a legenda. Edição da Tipografia Minerva - Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9823
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 81 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9823

@@ -1,0 +1,15 @@
+====== 98784 - DC - Famalicão Terra de Amigos ======
+
+**Parent**:: 98674
+**RootParent**:: 7651
+**UnitTitle**:: Famalicão Terra de Amigos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1999
+**UnitDateFinal**:: 1999
+**ScopeContent**:: Realizado por Carlos Brandão Lucas. Editado pela Câmara Municipal de V.N. Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD98784
+**LangMaterial**:: Português
+**PhysLoc**:: cx. 1
+depósito 1, estante 15
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=98784

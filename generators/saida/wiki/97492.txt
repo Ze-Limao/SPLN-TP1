@@ -1,0 +1,15 @@
+====== 97492 - UI - Processo nº 23/68-A.C. ======
+
+**Parent**:: 79972
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 23/68-A.C.
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1969-11-07
+**UnitDateFinal**:: 1970-02-28
+**ScopeContent**:: Junto com Autos de Ação com Processo Comum - Ordinário nº 23.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 317 - cx. 17
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97492

@@ -1,0 +1,15 @@
+====== 24968 - UI - Receita Livro nº 1 ======
+
+**Parent**:: 20350
+**RootParent**:: 20342
+**UnitTitle**:: Receita Livro nº 1
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1943-01-07
+**UnitDateFinal**:: 1963
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24968
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 72
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24968

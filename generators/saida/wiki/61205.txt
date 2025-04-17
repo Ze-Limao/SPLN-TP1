@@ -1,0 +1,16 @@
+====== 61205 - DC - Carta ======
+
+**Parent**:: 61204
+**RootParent**:: 60550
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-05-28
+**UnitDateFinal**:: 1934-05-28
+**ScopeContent**:: Carta manuscrita enviada de Paris, rue D´Aguesseau VIIIe para Famalicão, com envelope datilografado, selado e carimbado.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD23097
+**LangMaterial**:: Português
+**PhysLoc**:: DR 109 - cx. 1
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61205

@@ -1,0 +1,18 @@
+====== 50621 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9161
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1863-02-05
+**UnitDateFinal**:: 1863-03-28
+**ScopeContent**:: Data de nascimento - 1842-04-08
+Filiação - Joaquim Francisco da Silva e Joana Maria da Costa
+Naturalidade - Calendário
+Profissão - 
+Residência -
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD50621
+**LangMaterial**:: Português
+**PhysLoc**:: 89v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=50621

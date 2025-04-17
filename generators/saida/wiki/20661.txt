@@ -1,0 +1,20 @@
+====== 20661 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Cavalões
+Filiação - José António de Almeida e Maria Rosa de Azevedo
+Naturalidade - Cavalões
+Data de nascimento - 1868-10-18
+Emprego - Estudante
+Estado - Solteiro
+Residência - Braga
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20661
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 53v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20661

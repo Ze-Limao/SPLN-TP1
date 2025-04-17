@@ -1,0 +1,17 @@
+====== 100730 - DC - Instituição que fez Manuel Figueira e sua mulher Ana Pinheiro dos bens que possuíam os quais uniram ao morgado de Pindela ======
+
+**Parent**:: 54463
+**RootParent**:: 31258
+**UnitTitle**:: Instituição que fez Manuel Figueira e sua mulher Ana Pinheiro dos bens que possuíam os quais uniram ao morgado de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1593-07-06
+**UnitDateFinal**:: 1593-07-06
+**ScopeContent**:: Manuscrito com folhas cosidas numa "Pasta nº1 Cazal nº1 E". Este documento estava na caixa “Pasta nº1 Anno 1841”, que contém CP 13170 a CP 13193.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31266
+**LangMaterial**:: Português
+**PhysLoc**:: CP 13173 - cx. 87
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100730

@@ -1,0 +1,40 @@
+====== 55111 - UI - Ernesto Rodolfo Hintze Ribeiro ======
+
+**Parent**:: 31325
+**RootParent**:: 31258
+**UnitTitle**:: Ernesto Rodolfo Hintze Ribeiro
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1886-01-11
+**UnitDateFinal**:: 1907-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55111
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55111
+
+===== Filhos =====
+  * [[55112.txt|55112 - DC - Telegrama]]
+  * [[55175.txt|55175 - DC - Telegrama]]
+  * [[55176.txt|55176 - DC - Telegrama]]
+  * [[55177.txt|55177 - DC - Carta]]
+  * [[55178.txt|55178 - DC - Carta]]
+  * [[55179.txt|55179 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55180.txt|55180 - DC - Carta]]
+  * [[55181.txt|55181 - DC - Carta]]
+  * [[55182.txt|55182 - DC - Carta]]
+  * [[55183.txt|55183 - DC - Carta]]
+  * [[55184.txt|55184 - DC - Carta]]
+  * [[55185.txt|55185 - DC - Carta]]
+  * [[55186.txt|55186 - DC - Carta]]
+  * [[55187.txt|55187 - DC - Carta]]
+  * [[55188.txt|55188 - DC - Carta]]
+  * [[55189.txt|55189 - DC - Carta]]
+  * [[55190.txt|55190 - DC - Carta]]
+  * [[55191.txt|55191 - DC - Carta]]
+  * [[55192.txt|55192 - DC - Carta]]
+  * [[55193.txt|55193 - DC - Carta]]
+  * [[55194.txt|55194 - DC - Carta]]
+  * [[55195.txt|55195 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55196.txt|55196 - DC - Carta]]
+  * [[55197.txt|55197 - DC - Minuta de carta de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55198.txt|55198 - DC - Cópia de ofício de Vicente Pinheiro Lobo Machado de Melo e Almada]]
+  * [[55199.txt|55199 - DC - Copia de carta ao Cons. Hintze Ribeiro...]]
+  * [[55338.txt|55338 - DC - Carta]]

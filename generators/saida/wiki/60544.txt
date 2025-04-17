@@ -1,0 +1,18 @@
+====== 60544 - F - Juízo de Paz da freguesia de São Miguel das Aves ======
+
+**Parent**:: 0
+**RootParent**:: 60544
+**UnitTitle**:: Juízo de Paz da freguesia de São Miguel das Aves
+**DescriptionLevel**:: F
+**UnitDateInitial**:: 1834-12-14
+**UnitDateFinal**:: 1836-07-23
+**ScopeContent**:: Este fundo é constituído pelo Livro do Registo das Conciliações de 1834 a 1836.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60544
+**LangMaterial**:: Português
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60544
+
+===== Filhos =====
+  * [[60682.txt|60682 - SR - Registo das conciliações]]

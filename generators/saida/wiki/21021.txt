@@ -1,0 +1,15 @@
+====== 21021 - DC - Contrato de compra e venda ======
+
+**Parent**:: 7706
+**RootParent**:: 7651
+**UnitTitle**:: Contrato de compra e venda
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1948-08-05
+**UnitDateFinal**:: 1948-08-05
+**ScopeContent**:: Venda de um terreno no lugar da Granja, freguesia de Antas 
+Outorgante - Sociedade Têxtil da Ribeira
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21021
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 26
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21021

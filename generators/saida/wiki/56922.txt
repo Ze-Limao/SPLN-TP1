@@ -1,0 +1,17 @@
+====== 56922 - DC - Ofício de Silva Pereira para 3º Visconde de Pindela ======
+
+**Parent**:: 56921
+**RootParent**:: 31258
+**UnitTitle**:: Ofício de Silva Pereira para 3º Visconde de Pindela
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1934-04-17
+**UnitDateFinal**:: 1934-04-17
+**ScopeContent**:: Ofício dactilografado em papel timbrado Eduardo Proença da Silva Pereira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56922
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2685 - cx. 22
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=56922

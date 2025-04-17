@@ -1,0 +1,14 @@
+====== 54381 - UI - Remetente desconhecido ======
+
+**Parent**:: 31319
+**RootParent**:: 31258
+**UnitTitle**:: Remetente desconhecido
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1881-02-28
+**UnitDateFinal**:: 1881-04-23
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54381
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54381
+
+===== Filhos =====
+  * [[54382.txt|54382 - DC - Cartões]]

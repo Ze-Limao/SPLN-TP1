@@ -1,0 +1,24 @@
+====== 29254 - DC - Documentos de gestão da Quinta da Capela ======
+
+**Parent**:: 29252
+**RootParent**:: 27963
+**UnitTitle**:: Documentos de gestão da Quinta da Capela
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1896
+**UnitDateFinal**:: 1901
+**ScopeContent**:: Alberto Sampaio herdou, em 1896, esta quinta - situada em S. Mamede de Negrelos (concelho de Santo Tirso) -de suas primas em segundo grau, filhas de Francisco Barroso Pereira e de Josefa Ermelinda da Cunha Berrance, a irmã mais nova da sua avó Ana Rita de Abreu Cardoso Teixeira.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29254
+**LangMaterial**:: Português
+**PhysLoc**:: AS 369 (1) a 369 (6) - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29254
+
+===== Filhos =====
+  * [[29253.txt|29253 - DC - Receita e despesa da Capella 1896-1897]]
+  * [[29255.txt|29255 - DC - Vides que mandei para Capela em Fevereiro 1898]]
+  * [[29256.txt|29256 - DC - Enxertos de vides (vinhão) em Março de 1899]]
+  * [[29257.txt|29257 - DC - Material pulverizante que mandei para Capela em 1899]]
+  * [[29258.txt|29258 - DC - Enxertos de vides (vinhão) em 1900]]
+  * [[29259.txt|29259 - DC - Enxertos feitos em Capela em Março de 1901]]

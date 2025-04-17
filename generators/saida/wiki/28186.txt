@@ -1,0 +1,16 @@
+====== 28186 - DC - Viveiros no Campo da Porta ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Viveiros no Campo da Porta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899
+**UnitDateFinal**:: 1902-02
+**ScopeContent**:: Informação das datas e castas plantadas, em lotes, no Campo da Porta. Menção a quatro lotes, plantados em diferentes anos: 1.º lote, em 1899; 2.º lote em 1900; 3.º lote em Março de 1901 e o 4.º lote em Fevereiro de 1902. Refere ainda a disposição e tipo de vides do resto de um viveiro, existente no campo da Porta, plantadas em 1897.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28186
+**LangMaterial**:: Português
+**PhysLoc**:: AS 458 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28186

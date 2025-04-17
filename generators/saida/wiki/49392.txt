@@ -1,0 +1,18 @@
+====== 49392 - DC - Registo do recenseamento eleitoral de José Marques de Azevedo ======
+
+**Parent**:: 7887
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento eleitoral de José Marques de Azevedo
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1860-04-17
+**UnitDateFinal**:: 1860-04-24
+**ScopeContent**:: Freguesia - Vale S. Martinho
+Profissão - Lavrador
+Estado - Casado
+Morada - Grilo
+Idade - 35
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD49392
+**LangMaterial**:: Português
+**PhysLoc**:: 80v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=49392

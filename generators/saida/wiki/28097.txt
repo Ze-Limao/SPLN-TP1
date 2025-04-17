@@ -1,0 +1,16 @@
+====== 28097 - DC - Ofício da comissão de organização da XII.e Exposition générale des Produits de l’Agriculture, de l’Industrie, des Arts industriels et de l’Art ancien, a realizar na Societé Philomathique de Bordeaux ======
+
+**Parent**:: 28094
+**RootParent**:: 27963
+**UnitTitle**:: Ofício da comissão de organização da XII.e Exposition générale des Produits de l’Agriculture, de l’Industrie, des Arts industriels et de l’Art ancien, a realizar na Societé Philomathique de Bordeaux
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1881-10-01
+**UnitDateFinal**:: 1881-10-01
+**ScopeContent**:: Junto com AS 504 e AS 505. Ofício impresso sobre a XII.e Exposition générale des Produits de l’Agriculture, de l’Industrie, des Arts industriels et de l’Art ancien, a realizar a partir de 1 de Junho de 1882. Impresso em Bordeaux- impremerie Nouvelle A. Bellier et Cie.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28097
+**LangMaterial**:: Francês
+**PhysLoc**:: AS 503 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28097

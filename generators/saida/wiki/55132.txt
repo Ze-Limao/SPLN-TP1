@@ -1,0 +1,17 @@
+====== 55132 - DC - Cartas do Conselheiro Pereira Carrilho ======
+
+**Parent**:: 55131
+**RootParent**:: 31258
+**UnitTitle**:: Cartas do Conselheiro Pereira Carrilho
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1902
+**UnitDateFinal**:: 1902
+**ScopeContent**:: Capa de maço que contém CP 12605 a CP 12615.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55132
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12604 - cx. 75
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55132

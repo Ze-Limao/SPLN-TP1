@@ -1,0 +1,17 @@
+====== 100436 - UI - Provas de contacto positivos em papel ======
+
+**Parent**:: 100542
+**RootParent**:: 60696
+**UnitTitle**:: Provas de contacto positivos em papel
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1897
+**UnitDateFinal**:: 1940
+**ScopeContent**:: Faltam imagens nº 616, 632, 682, 685, 716, 726, 727, 742, 784, 799, 806, 825, 829, 853, 859, 888, 891, 914, 920. As fotografias em papel têm a mesma numeração dos negativos das caixas 39 a 44.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99378
+**LangMaterial**:: Português
+**PhysLoc**:: CHF 617 a 960 - cx. 4
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=100436

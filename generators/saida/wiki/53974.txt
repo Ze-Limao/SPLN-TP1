@@ -1,0 +1,16 @@
+====== 53974 - DC - Viação perigosa: um desastre causado, e, Braga, pela velocidade exagerada dos bombeiros ======
+
+**Parent**:: 25085
+**RootParent**:: 20342
+**UnitTitle**:: Viação perigosa: um desastre causado, e, Braga, pela velocidade exagerada dos bombeiros
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1903
+**UnitDateFinal**:: 1933-07-18
+**ScopeContent**:: Recorte de jornal do Primeiro de Janeiro (Porto) com notas manuscritas por Hilário Carvalho, juntamente com outros 2 recortes e 1 fotografia do carro Berliet 1903.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53974
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 183 - cx. 47
+depósito 3, estante
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53974

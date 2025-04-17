@@ -1,0 +1,17 @@
+====== 55895 - DC - Minuta de carta ======
+
+**Parent**:: 55891
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1906
+**UnitDateFinal**:: 1906
+**ScopeContent**:: Minuta de carta no maço CP 14497, junto com CP 14498 a CP 14502.  Barão de Sendal em 1906 é o Ministro Plenipotenciário no Japão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD55895
+**LangMaterial**:: Português
+**PhysLoc**:: CP 14502 - cx. 
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=55895

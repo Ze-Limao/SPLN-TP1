@@ -1,0 +1,20 @@
+====== 48683 - UI - João Gomes de Oliveira Guimarães ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: João Gomes de Oliveira Guimarães
+**DescriptionLevel**:: UI
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48683
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=48683
+
+===== Filhos =====
+  * [[48684.txt|48684 - DC - Carta]]
+  * [[48685.txt|48685 - DC - Carta]]
+  * [[48686.txt|48686 - DC - Carta]]
+  * [[48687.txt|48687 - DC - Carta]]
+  * [[48688.txt|48688 - DC - Carta]]

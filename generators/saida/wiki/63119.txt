@@ -1,0 +1,19 @@
+====== 63119 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Manuel José Pereira Fernandes e Raquel Maria, na freguesia
+Naturalidade - Pedome
+Morada - Pedome
+Data de nascimento - 1865-01-27
+Emprego - Fabricante
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 8v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63119

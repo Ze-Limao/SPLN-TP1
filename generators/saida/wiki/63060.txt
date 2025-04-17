@@ -1,0 +1,19 @@
+====== 63060 - DC - Registo do recenseamento militar de João Cardoso Vieira de Castro ======
+
+**Parent**:: 9183
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João Cardoso Vieira de Castro
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1884-02-01
+**UnitDateFinal**:: 1884-03-29
+**ScopeContent**:: Filiação - Pais incógnitos
+Naturalidade - Roda de Guimarães
+Morada - Vila Nova de Famalicão
+Data de entrada na Roda - 1863-07-06
+Emprego - Lavoura
+Estado - Solteiro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD62642
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 72v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63060

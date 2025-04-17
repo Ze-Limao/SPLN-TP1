@@ -1,0 +1,16 @@
+====== 28127 - DC - Registo do vinho espumoso de 1890 ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Registo do vinho espumoso de 1890
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-09-26
+**UnitDateFinal**:: 1891-05-05
+**ScopeContent**:: Valores de densidade do mosto de diversas castas. Diversas informações sobre a produção do vinho. Informações sobre a produção do vinho: «As uvas espremeram-se na espremedeira nova; para se espremerem facilmente é necessário que um homem lhe dê uma picadela dentro da grade da espremedeira. O mosto deitou-se a desemborrar numa dorna; tirou-se limpo no dia seguinte para dois barris onde fermentou até 24 de Outubro. […] O vinho está bastante claro mas muito ácido. No dia 16 de Nov. administrou-se-lhe 2 litros de água açucarada a 12 gr. do gleucómetro e 1 garrafa [?] de moscatel branco da colheita da casa (1890): […] / O vinho do barril grande engarrafou-se no dia 5 de Abril 1891: em 20 litros (33 garrafas) deitou-se 1 litro de água açucarada a + 5 gr. Do gleucómetro […].»
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28127
+**LangMaterial**:: Português
+**PhysLoc**:: AS 400 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28127

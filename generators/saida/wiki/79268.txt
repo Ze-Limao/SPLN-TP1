@@ -1,0 +1,17 @@
+====== 79268 - DC - Minuta de carta ======
+
+**Parent**:: 79248
+**RootParent**:: 31258
+**UnitTitle**:: Minuta de carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913
+**UnitDateFinal**:: 1913
+**ScopeContent**:: Manuscrito em papel azul de embrulho. Pertence ao maço de documentos sobre Movimento de Senhoras do Minho para oferta de uma peça à Rainha Augusta Vitória, princesa de Hohenzollern-Sigmaringen, no seu casamento com D. Manuell II, a 4 de setembro 1913.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56644
+**LangMaterial**:: Português
+**PhysLoc**:: CP 9031 - cx. 55
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=79268

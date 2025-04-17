@@ -1,0 +1,20 @@
+====== 31562 - UI - Maria da Assunção Correia de Almada ======
+
+**Parent**:: 31329
+**RootParent**:: 31258
+**UnitTitle**:: Maria da Assunção Correia de Almada
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1890-08-16
+**UnitDateFinal**:: 1891-05-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD31562
+**LangMaterial**:: Português
+**PhysLoc**:: CP
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=31562
+
+===== Filhos =====
+  * [[31563.txt|31563 - DC - Carta]]
+  * [[31564.txt|31564 - DC - Carta]]
+  * [[31565.txt|31565 - DC - Carta]]

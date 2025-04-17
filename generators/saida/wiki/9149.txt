@@ -1,0 +1,13 @@
+====== 9149 - DC - Ofício nº 47 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 47
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-12-03
+**UnitDateFinal**:: 1886-12-03
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9149
+**LangMaterial**:: Português
+**PhysLoc**:: f. 24
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9149

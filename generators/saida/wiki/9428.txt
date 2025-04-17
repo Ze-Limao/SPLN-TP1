@@ -1,0 +1,19 @@
+====== 9428 - DC - Registo do recenseamento militar de Gabriel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Gabriel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Maria Joaquina da Silva
+Naturalidade - Fradelos
+Data de nascimento - 1877-04-06
+Profissão - Jornaleiro
+Estado civil - Casado
+Residência - Fradelos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9428
+**LangMaterial**:: Português
+**PhysLoc**:: f. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9428

@@ -1,0 +1,17 @@
+====== 64119 - DC - Trail Experience Famalicão 2016 ======
+
+**Parent**:: 61783
+**RootParent**:: 60551
+**UnitTitle**:: Trail Experience Famalicão 2016
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 2016
+**UnitDateFinal**:: 2016
+**ScopeContent**:: T-shirt de desporto sem manga. Apoio Rotary Club de Vila Nova de Famalicão.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 524 - cx. 12
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64119

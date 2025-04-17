@@ -1,0 +1,16 @@
+====== 21285 - UI - Alexandrino Costa ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alexandrino Costa
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1928-06-06
+**UnitDateFinal**:: 1928-06-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21285
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1135
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21285
+
+===== Filhos =====
+  * [[29726.txt|29726 - DC - Carta]]

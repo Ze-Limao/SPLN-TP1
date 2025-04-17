@@ -1,0 +1,20 @@
+====== 63250 - DC - Registo do recenseamento militar de Joaquim ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Joaquim
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Manuel de Araújo Ferreira e Margarida Gomes de Araújo, ele falecido e ela na freguesia
+Naturalidade - Nine
+Morada - 
+Data de nascimento - 1864-04-05
+Emprego - 
+Estado - 
+Observações - Falecido
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 30v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63250

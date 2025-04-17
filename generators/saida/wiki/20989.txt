@@ -1,0 +1,15 @@
+====== 20989 - DC - Nº 9/962 ======
+
+**Parent**:: 7714
+**RootParent**:: 7651
+**UnitTitle**:: Nº 9/962
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1962-04-27
+**UnitDateFinal**:: 1962-04-27
+**ScopeContent**:: Contrato de arrendamento da loja exterior nº 9 do Mercado Municipal
+Outorgante - Américo Gomes de Azevedo
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20989
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 52
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20989

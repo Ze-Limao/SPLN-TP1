@@ -1,0 +1,17 @@
+====== 60169 - DC - Gazeta das Aldeias, nº1826 ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: Gazeta das Aldeias, nº1826
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1935-07-07
+**UnitDateFinal**:: 1935-07-07
+**ScopeContent**:: Recortes de imprensa da Gazeta das Aldeias, p. 389 a 416. Está marcado o artigo"Relembrando os Talhos da Lavoura"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2431 - cx. 18
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60169

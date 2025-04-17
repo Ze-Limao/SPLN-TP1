@@ -1,0 +1,16 @@
+====== 29556 - DC - Bilhete-postal ======
+
+**Parent**:: 29047
+**RootParent**:: 27963
+**UnitTitle**:: Bilhete-postal
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1895-03-29
+**UnitDateFinal**:: 1895-03-29
+**ScopeContent**:: Bilhete-postal carimbado e selado expedido de Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29556
+**LangMaterial**:: Português
+**PhysLoc**:: AS 662 - cx. 10
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29556

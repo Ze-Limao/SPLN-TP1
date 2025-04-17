@@ -1,0 +1,16 @@
+====== 25334 - DC - Relação dos nomes dos cavalheiros que fizeram parte do Corpo Activo dos Bombeiros Voluntários de famalicão como primeiros comandantes e segundos comandantes ======
+
+**Parent**:: 25019
+**RootParent**:: 20342
+**UnitTitle**:: Relação dos nomes dos cavalheiros que fizeram parte do Corpo Activo dos Bombeiros Voluntários de famalicão como primeiros comandantes e segundos comandantes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1932
+**UnitDateFinal**:: 1951
+**ScopeContent**:: Contém nomes e datas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25334
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 122 - cx. 29
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25334

@@ -1,0 +1,18 @@
+====== 28474 - DC - Notas de investigação sobre as incursões dos mouros na costa portuguesa no norte do país, a partir de Coimbra ======
+
+**Parent**:: 28460
+**RootParent**:: 27963
+**UnitTitle**:: Notas de investigação sobre as incursões dos mouros na costa portuguesa no norte do país, a partir de Coimbra
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28474
+**LangMaterial**:: Português
+**PhysLoc**:: AS 73 (1) a 73 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28474
+
+===== Filhos =====
+  * [[28475.txt|28475 - DC - Quando a Hist. Comp. refere os corsarios]]
+  * [[28477.txt|28477 - DC - Pelo anno 1115, Gelmirez]]

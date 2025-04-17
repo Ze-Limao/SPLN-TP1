@@ -1,0 +1,40 @@
+====== 21229 - UI - Manuel Frutuoso da Fonseca ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Manuel Frutuoso da Fonseca
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1892
+**UnitDateFinal**:: 1909-08-19
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21229
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 910 a 941, 1485, 1486
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21229
+
+===== Filhos =====
+  * [[24809.txt|24809 - DC - Carta]]
+  * [[24810.txt|24810 - DC - Carta]]
+  * [[26124.txt|26124 - DC - Carta]]
+  * [[26125.txt|26125 - DC - Carta]]
+  * [[26126.txt|26126 - DC - Carta]]
+  * [[26127.txt|26127 - DC - Carta]]
+  * [[26128.txt|26128 - DC - Carta]]
+  * [[26129.txt|26129 - DC - Carta]]
+  * [[26130.txt|26130 - DC - Carta]]
+  * [[26131.txt|26131 - DC - Carta]]
+  * [[26132.txt|26132 - DC - Carta]]
+  * [[26133.txt|26133 - DC - Carta]]
+  * [[26134.txt|26134 - DC - Carta]]
+  * [[26135.txt|26135 - DC - Carta]]
+  * [[26136.txt|26136 - DC - Carta]]
+  * [[26137.txt|26137 - DC - Carta]]
+  * [[26138.txt|26138 - DC - Carta]]
+  * [[26139.txt|26139 - DC - Carta]]
+  * [[26140.txt|26140 - DC - Carta]]
+  * [[26141.txt|26141 - DC - Carta]]
+  * [[26142.txt|26142 - DC - Carta]]
+  * [[26143.txt|26143 - DC - Carta]]
+  * [[26144.txt|26144 - DC - Carta]]
+  * [[26145.txt|26145 - DC - Carta]]
+  * [[26146.txt|26146 - DC - Carta]]

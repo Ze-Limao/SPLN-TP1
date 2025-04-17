@@ -1,0 +1,39 @@
+====== 22577 - DC - Carta ======
+
+**Parent**:: 21287
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1923-10-18
+**UnitDateFinal**:: 1923-10-18
+**ScopeContent**:: Carta manuscrita em verso em que Álvaro de Castelões pede informações sobre a poetisa Isabel Lárcher. Larcher era o apelido de "Alberto de Sousa Larcher" um colega de João Penha na Faculdade de Direito da Universidade de Coimbra.
+
+Transcrição:
+"Castelões, 18 de Outubro de 1923
+
+In re incerta...
+
+Confio-lhe o que aqui tenho arquivado
+Sobre os versos de que ontem lhe falei.
+O caso é curioso; e obrigado
+se m' o ajuda a aclarar, lhe ficarei.
+
+Essa Dona Isabel que os assinava
+É semelhante ao Lárcher ou Larchér 
+De quem o João Penha asseverava.
+Não saber se era homem ou mulher.
+
+Se o meu amigo Ihe desnuda o sexo
+E a veste à Paraíso Terreal,
+Fica merecedor de um amplexo
+- Mas dos do Bernardino - cordial!
+
+amicus certus
+Álvaro de Castelões"
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD22577
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1143 - cx. 12
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=22577

@@ -1,0 +1,30 @@
+====== 20168 - SR - Recrutamento militar ======
+
+**Parent**:: 20050
+**RootParent**:: 20048
+**UnitTitle**:: Recrutamento militar
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1857-02-13
+**UnitDateFinal**:: 1897-03-24
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20168
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20168
+
+===== Filhos =====
+  * [[20169.txt|20169 - UI - Recrutamento militar]]
+  * [[20170.txt|20170 - UI - Recrutamento militar]]
+  * [[20171.txt|20171 - UI - Relação dos recrutas chamados ao serviço efetivo do Exército]]
+  * [[20172.txt|20172 - UI - Recrutamentos dos mancebos de 1868-1869-1870-1871-1872]]
+  * [[20173.txt|20173 - UI - Recrutamentos dos anos de 1856-1857-1858-1859-1860-1861-1862-1863 e 1864]]
+  * [[20174.txt|20174 - UI - Recrutamento militar]]
+  * [[20175.txt|20175 - UI - Relação dos recrutas chamados ao serviço 2ª reserva]]
+  * [[20176.txt|20176 - UI - Relação dos recrutas chamados ao serviço de efetivo do Exército]]
+  * [[20177.txt|20177 - UI - Relação dos recrutas chamados ao serviço de efetivo do Exército]]
+  * [[20178.txt|20178 - UI - Relação dos recrutas chamados ao serviço do Exército]]
+  * [[20179.txt|20179 - UI - Relação dos recrutas chamados ao serviço da Armada 1891]]
+  * [[20180.txt|20180 - UI - Relação dos recrutas chamados ao serviço da Armada 1890]]
+  * [[20181.txt|20181 - UI - Relação dos recrutas chamados ao serviço da Armada 1894]]
+  * [[20182.txt|20182 - UI - Relação dos recrutas chamados ao serviço efetivo do Exército 1891]]
+  * [[20183.txt|20183 - UI - Relação dos recrutas chamados ao serviço do Exército]]
+  * [[20184.txt|20184 - UI - Relação dos recrutas chamados ao serviço efetivo do Exército 1890]]

@@ -1,0 +1,16 @@
+====== 29278 - DC - Bichromato de potassa ======
+
+**Parent**:: 29268
+**RootParent**:: 27963
+**UnitTitle**:: Bichromato de potassa
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1867
+**UnitDateFinal**:: 1907
+**ScopeContent**:: Para pintar de preto o castanho.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29278
+**LangMaterial**:: Português
+**PhysLoc**:: AS 189 - cx. 5
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29278

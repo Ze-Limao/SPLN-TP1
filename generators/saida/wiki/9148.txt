@@ -1,0 +1,13 @@
+====== 9148 - DC - Ofício nº 46 ======
+
+**Parent**:: 8975
+**RootParent**:: 7651
+**UnitTitle**:: Ofício nº 46
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1886-11-29
+**UnitDateFinal**:: 1886-11-29
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9148
+**LangMaterial**:: Português
+**PhysLoc**:: f. 24
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9148

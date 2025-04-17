@@ -1,0 +1,15 @@
+====== 99268 - UI - Joaquim Vasques ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Joaquim Vasques
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1916-02-14
+**UnitDateFinal**:: 1916-02-14
+**ScopeContent**:: Rua de Bellomonte, 17, 1º, Porto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99268
+
+===== Filhos =====
+  * [[99269.txt|99269 - DC - Memorandum]]

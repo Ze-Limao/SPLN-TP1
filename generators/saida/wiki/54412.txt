@@ -1,0 +1,14 @@
+====== 54412 - UI - Júlio de Vilhena ======
+
+**Parent**:: 31319
+**RootParent**:: 31258
+**UnitTitle**:: Júlio de Vilhena
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1881-06-22
+**UnitDateFinal**:: 1881-06-22
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54412
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54412
+
+===== Filhos =====
+  * [[54413.txt|54413 - DC - Carta]]

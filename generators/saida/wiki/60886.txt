@@ -1,0 +1,17 @@
+====== 60886 - DC - Monumento aos Mortos da Grande Guerra na Praça 9 de Abril. ======
+
+**Parent**:: 60883
+**RootParent**:: 60698
+**UnitTitle**:: Monumento aos Mortos da Grande Guerra na Praça 9 de Abril.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1961
+**UnitDateFinal**:: 1961
+**ScopeContent**:: Postal impresso em papel de fotografia. Na frente "Foto Humberto". No verso "Edição da Casa Voga - Praça 9 de Abril. Vila Nova de Famalicão" e notas manuscritas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9798
+**LangMaterial**:: Português
+**PhysLoc**:: CPVNF 102 - cx. 1
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60886

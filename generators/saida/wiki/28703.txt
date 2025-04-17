@@ -1,0 +1,18 @@
+====== 28703 - DC - Transcrições de livros de inquirições de D. Dinis e D. Afonso IV ======
+
+**Parent**:: 28594
+**RootParent**:: 27963
+**UnitTitle**:: Transcrições de livros de inquirições de D. Dinis e D. Afonso IV
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28703
+**LangMaterial**:: Português
+**PhysLoc**:: AS 122 (1) a 122 (2)
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28703
+
+===== Filhos =====
+  * [[28704.txt|28704 - DC - No caso de querer publicar algum texto]]
+  * [[28705.txt|28705 - DC - No title]]

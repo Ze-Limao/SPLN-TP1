@@ -1,0 +1,16 @@
+====== 20057 - SSC - Controlo da Mobilidade Demográfica ======
+
+**Parent**:: 20049
+**RootParent**:: 20048
+**UnitTitle**:: Controlo da Mobilidade Demográfica
+**DescriptionLevel**:: SSC
+**UnitDateInitial**:: 1882-01-27
+**UnitDateFinal**:: 1900-08-13
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20057
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20057
+
+===== Filhos =====
+  * [[20065.txt|20065 - SR - Termos de abonação e reconhecimento de identidade para requisição de passaportes]]
+  * [[20073.txt|20073 - SR - Registo de passaportes]]

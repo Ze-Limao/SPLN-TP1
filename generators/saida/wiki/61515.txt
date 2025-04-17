@@ -1,0 +1,17 @@
+====== 61515 - DC - Processo de registo de domínio e site na Internet ======
+
+**Parent**:: 61195
+**RootParent**:: 60551
+**UnitTitle**:: Processo de registo de domínio e site na Internet
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 2001-02-04
+**UnitDateFinal**:: 2004-08-05
+**ScopeContent**:: Maço composto 28 documentos com emails, vendas a dinheiro, avisos de pagamento, etc., conjunto de emails de Armando Moura da Silva sobre o registo de domínio rotarybraga.pt (2004) e rotary1970.web.pt (2003).
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 201 a 229 - cx. 2
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61515

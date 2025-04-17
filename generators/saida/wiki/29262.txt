@@ -1,0 +1,18 @@
+====== 29262 - DC - 1899 Nota dos ensaios dos adubos chimicos na cultura do milho. ======
+
+**Parent**:: 29261
+**RootParent**:: 27963
+**UnitTitle**:: 1899 Nota dos ensaios dos adubos chimicos na cultura do milho.
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1899-04
+**UnitDateFinal**:: 1899-04
+**ScopeContent**:: Mapa para preenchimento de variáveis e resultados dos ensaios de utilização de adubos químicos. 
+O mapa encontra-se dividido em vários campos para preenchimento, aos quais foram atribuídas as seguintes designações: Data (subdividido em dois campos: mês e dia) / Nome dos casais e campos onde se empregaram os adubos / Qualidade da terra / Número de ares (subdividido em dois campos: adubados e não adubados) / Adubos empregados / Custo dos adubos / Produto das aras adubados (subdividido em dois campos: milho e feijão) / Produto das aras não adubados (subdividido em dois campos: milho e feijão) / Diferença em géneros (subdividido em dois campos: milho e feijão) / Diferença em rs.
+O mapa refere-se à aplicação de adubos químicos no campo da Eira e no Lameiro, ambas as propriedades a fazer parte do casal de Boamense de Dentro, e no campo da Leira e no lameiro do Porto do Eido, propriedades do casal das Pedreiras.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29262
+**LangMaterial**:: Português
+**PhysLoc**:: AS 371 (1) - cx. 7
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29262

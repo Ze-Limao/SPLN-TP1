@@ -1,0 +1,18 @@
+====== 8915 - DC - Termo do exame de Manuel da Costa Correia ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Manuel da Costa Correia
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-23
+**UnitDateFinal**:: 1894-07-23
+**ScopeContent**:: Grau - Elementar
+Idade - 14
+Filiação - Manuel da Costa Correia
+Naturalidade - Mouquim
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8915
+**LangMaterial**:: Português
+**PhysLoc**:: f. 64v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8915

@@ -1,0 +1,16 @@
+====== 24910 - DC - Carta ======
+
+**Parent**:: 21099
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1913-06-08
+**UnitDateFinal**:: 1913-06-08
+**ScopeContent**:: Carta manuscrita assinada como Carlos de Mesquita.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24910
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 346- cx. 4
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24910

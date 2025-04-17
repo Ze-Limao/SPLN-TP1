@@ -1,0 +1,15 @@
+====== 65690 - DC - Emprazamento do casal de Mões, situado na freguesia de Vila Nova de Famalicão, feita por Bernardo da Silva, abade da Igreja de S. Tiago de Antas, a Catarina Gonçalves e seu irmão João Fernandes ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Emprazamento do casal de Mões, situado na freguesia de Vila Nova de Famalicão, feita por Bernardo da Silva, abade da Igreja de S. Tiago de Antas, a Catarina Gonçalves e seu irmão João Fernandes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1595-04-06
+**UnitDateFinal**:: 1595-04-06
+**ScopeContent**:: Manuscrito, original. No canto superior esquerdo "Nº38".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 73 - cx. 2
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65690

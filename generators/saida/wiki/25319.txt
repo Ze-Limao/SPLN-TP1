@@ -1,0 +1,27 @@
+====== 25319 - UI - Recordações da inauguração oficial do novo quartel feita Sr. Ministro do Interior Srº Santos Júnior e condecoração oficial de Hilário Carvalho e Fernando Soares ======
+
+**Parent**:: 20387
+**RootParent**:: 20342
+**UnitTitle**:: Recordações da inauguração oficial do novo quartel feita Sr. Ministro do Interior Srº Santos Júnior e condecoração oficial de Hilário Carvalho e Fernando Soares
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1966-09-28
+**UnitDateFinal**:: 1966-09-28
+**ScopeContent**:: Nota manuscrita de Hiãrio Carvalho: "Inauguração oficial do novo quartel em 28 de Setembro de 1966 pelo Sr. Ministro do Interior".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25319
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 188 - cx. 52
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25319
+
+===== Filhos =====
+  * [[25931.txt|25931 - DC - Formatura do Corpo Ativo e Ministro do Interior Santos Júnior na inauguração do novo quartel]]
+  * [[25932.txt|25932 - DC - Guarda de honra do Corpo Ativo com Ministro do Interior Santos Júnior na inauguração do novo quartel]]
+  * [[25933.txt|25933 - DC - Inauguração do novo quartel com Ministro do Interior Santos Júnior e Hilário Carvalho, direção e Presidente da Câmara Padre Benjamim Salgado]]
+  * [[25934.txt|25934 - DC - Na inauguração do novo quartel o Ministro Interior visita os carros da corporação com Hilário Carvalho, Presidente da Câmara P. Benjamim Salgado]]
+  * [[25935.txt|25935 - DC - Assistência na sessão solene no salão nobre na inauguração do novo quartel]]
+  * [[25936.txt|25936 - DC - Discurso do Ministro do Interior Santos Júnior na sessão solene no salão nobre na inauguração do novo quartel]]
+  * [[25937.txt|25937 - DC - Condecoração de Hilário Carvalho pelo  Ministro do Interior Santos Júnior na sessão solene no salão nobre na inauguração do novo quartel]]
+  * [[25939.txt|25939 - DC - Condecoração do Comandante Soares pelo  Ministro do Interior Santos Júnior na sessão solene no salão nobre na inauguração do novo quartel]]
+  * [[53976.txt|53976 - DC - Ambulância Mercedes GN 22-50 na inauguração do novo quartel]]

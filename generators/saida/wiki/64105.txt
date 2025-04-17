@@ -1,0 +1,15 @@
+====== 64105 - DC - Inventário de bens orfanológico por morte de Maria Gomes de Azevedo, moradora na freguesia de Fradelos ======
+
+**Parent**:: 63945
+**RootParent**:: 60536
+**UnitTitle**:: Inventário de bens orfanológico por morte de Maria Gomes de Azevedo, moradora na freguesia de Fradelos
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1878-01-05
+**UnitDateFinal**:: 1896-02-29
+**ScopeContent**:: Manuscrito, certidão em papel azul timbrado e selado, folhas cosidas.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 275 - cx. 14
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=64105

@@ -1,0 +1,16 @@
+====== 27952 - DC - Carta ======
+
+**Parent**:: 21266
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1922-08-05
+**UnitDateFinal**:: 1922-08-05
+**ScopeContent**:: Sousa Fernandes informa que já estão catalogados a Camiliana Arzila, oferecida pelo Visconde de Morais ao Museu Camiliano.  Carta manuscrita assinada. Papel de carta de luto.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD27952
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1045 - cx. 11
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=27952

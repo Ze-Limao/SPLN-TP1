@@ -1,0 +1,22 @@
+====== 60124 - DC - O Sindicalismo Agrário. Oha de Páz ======
+
+**Parent**:: 31344
+**RootParent**:: 31258
+**UnitTitle**:: O Sindicalismo Agrário. Oha de Páz
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1926
+**UnitDateFinal**:: 1926
+**ScopeContent**:: Maço com título manuscrito. Contém documentos datilografados e recortes de imprensa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56889
+**LangMaterial**:: Português
+**PhysLoc**:: CP 8519 - cx. 52
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60124
+
+===== Filhos =====
+  * [[79148.txt|79148 - DC - Paz na terra aos homens de boa vontade]]
+  * [[79149.txt|79149 - DC - Copia Primavera: Artigo do Conde Paraty publicado no jornal "O Correio da Noite".]]
+  * [[79150.txt|79150 - DC - Minha resposta ao artigo do Conde Paraty publicado no jornal "O Correio da Noite"]]

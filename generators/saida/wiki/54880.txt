@@ -1,0 +1,17 @@
+====== 54880 - DC - Poema "Oh! meu Portugal!..." de Caetano Bragança ======
+
+**Parent**:: 54367
+**RootParent**:: 31258
+**UnitTitle**:: Poema "Oh! meu Portugal!..." de Caetano Bragança
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-07-12
+**UnitDateFinal**:: 1869-07-12
+**ScopeContent**:: Poema manuscrito assinado, de Campolide, em papel azul, com nota "estando à noite na cama".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54880
+**LangMaterial**:: Português
+**PhysLoc**:: CP 85 - cx. 1
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=54880

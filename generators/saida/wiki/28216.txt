@@ -1,0 +1,17 @@
+====== 28216 - DC - Carta de Produção Vinícola da Circunscrição do Norte de Portugal por concelhos segundo as informações obtidas pelo Engenheiro José Taveira de Carvalho Pinto de Menezes ======
+
+**Parent**:: 28086
+**RootParent**:: 27963
+**UnitTitle**:: Carta de Produção Vinícola da Circunscrição do Norte de Portugal por concelhos segundo as informações obtidas pelo Engenheiro José Taveira de Carvalho Pinto de Menezes
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1888
+**UnitDateFinal**:: 1889
+**ScopeContent**:: Impressão Real Lith. Lusitana Porto. O concelho de Vila Nova de Famalicão, onde se localiza a Quinta de Boamense, está sinalizado no mapa com a cor castanho claro, a qual corresponde ao nível máximo de produção de vinho, ou seja a produções superiores a 50.000 hectolitros.
+Esta carta foi publicada por José Taveira de Carvalho Pinto de Menezes no Portugal (Circumscripção do Norte) Notícias Ácerca dos Seus Vinhos, em dois fascículos, de 1888 e 1889.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28216
+**LangMaterial**:: Português
+**PhysLoc**:: AS 488 - cx. 8
+depósito 3, estante 1
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28216

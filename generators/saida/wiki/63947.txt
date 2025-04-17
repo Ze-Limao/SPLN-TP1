@@ -1,0 +1,18 @@
+====== 63947 - SR - Testamentos ======
+
+**Parent**:: 60536
+**RootParent**:: 60536
+**UnitTitle**:: Testamentos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1601-08-27
+**UnitDateFinal**:: 1826-08-26
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60704
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63947
+
+===== Filhos =====
+  * [[63948.txt|63948 - UI - Livro dos Testamentos da Igreja de S. Tiago de Antas]]
+  * [[63951.txt|63951 - UI - Livro dos registo dos testamentos da Igreja de S. Tiago de Antas]]
+  * [[65644.txt|65644 - DC - Inventário que se fez dos bens, por ocasião da morte de Ventura Rodrigues, moradora no lugar de S. Cláudio, freguesia de S. Tiago de Antas]]
+  * [[65803.txt|65803 - DC - Testamento de Teresa Maria dos Santos]]
+  * [[66109.txt|66109 - DC - Testamento de doação de Gonçalo Gonçalves]]

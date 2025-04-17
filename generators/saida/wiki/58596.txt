@@ -1,0 +1,46 @@
+====== 58596 - DC - Fotografias do funeral da Imperatriz da China ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Fotografias do funeral da Imperatriz da China
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1909-11-09
+**UnitDateFinal**:: 1909-11-09
+**ScopeContent**:: Conjunto de 20 fotografias CP 5872 a CP 5892. Fotografias tiradas quando da visita à China do Barão de Sendal, Ministro de Portugal em Tóquio a quem o Rei D. Carlos solicitou a presença no funeral. Foi acompanhado por uma comitiva e recebido em Pequim pelo encarregado de negócios de Portugal em Pequim Martinho Brederode.
+A morte da imperatriz Cixi foi a 15 novembro 1908. Teve um velório grandioso que durou um ano. Está enterrada nos túmulos orientais da Dinastia Qing, a 125 km de Pequim.
+A fotografia CP 5888 no verso tem a  nota ms. "Ich, de chapéu e capa 9 Novembro 1909. Enterro da Imperatriz"
+
+David Cohen de Castro e Lara, Barão de Sendal, foi durante três anos enviado Extraordinário e Ministro Plenipotenciário em Pequim, China, e em Tóquio, Japão.
+Martinho de Brederode foi Encarregado de Negócios Interino não residente 1907-12-02 a 1908-04-25.
+Em 1909-05-18, Martinho Brederode estava em Pequim e foi com o Barão de Sendal em "Missão especial para representar S.M. El Rei nos funeraes do Emperador". Ver carta datilograda PT/MVNF/ACP/14ª GERAÇÃO-1.2/001/0045/000105.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD58596
+**LangMaterial**:: Português
+**PhysLoc**:: CP 5872 a 5892 - cx. 41
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=58596
+
+===== Filhos =====
+  * [[58597.txt|58597 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58598.txt|58598 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58599.txt|58599 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58600.txt|58600 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58601.txt|58601 - DC - Retrato da Imperatriz da China Cixi]]
+  * [[58602.txt|58602 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58603.txt|58603 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58604.txt|58604 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58605.txt|58605 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58606.txt|58606 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58607.txt|58607 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58608.txt|58608 - DC - Cortejo do funeral da Imperatriz Cixi em Pequim]]
+  * [[58609.txt|58609 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58610.txt|58610 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58611.txt|58611 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58612.txt|58612 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58613.txt|58613 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58614.txt|58614 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58615.txt|58615 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58616.txt|58616 - DC - Cortejo do funeral da Imperatriz da China Cixi, em Pequim]]
+  * [[58617.txt|58617 - DC - Retrato de chineses no cortejo do funeral da Imperatriz da China Cixi, em Pequim]]

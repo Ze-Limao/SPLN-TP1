@@ -1,0 +1,15 @@
+====== 60761 - DC - Vedoria do prazo do casal do Pelho, situado na freguesia de S. Tiago de Antas, feita por Pero da Silva, abade da Igreja de S. Tiago de Antas, a João Antão e sua mulher ======
+
+**Parent**:: 60704
+**RootParent**:: 60536
+**UnitTitle**:: Vedoria do prazo do casal do Pelho, situado na freguesia de S. Tiago de Antas, feita por Pero da Silva, abade da Igreja de S. Tiago de Antas, a João Antão e sua mulher
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1541-12-01
+**UnitDateFinal**:: 1542-08-26
+**ScopeContent**:: Manuscrito, cópia do original.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60699
+**LangMaterial**:: Português
+**PhysLoc**:: CSTA 31 - cx. 1
+depósito 3, estante 6 e 7
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60761

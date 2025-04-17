@@ -1,0 +1,17 @@
+====== 21083 - UI - Francisco Xavier Mouzinho da Silveira Canavarro de Valadares ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Francisco Xavier Mouzinho da Silveira Canavarro de Valadares
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1921-11-06
+**UnitDateFinal**:: 1921-11-06
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21083
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 316
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21083
+
+===== Filhos =====
+  * [[24883.txt|24883 - DC - Carta]]

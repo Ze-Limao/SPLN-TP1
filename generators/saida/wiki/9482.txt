@@ -1,0 +1,19 @@
+====== 9482 - DC - Registo do recenseamento militar de Manuel ======
+
+**Parent**:: 9194
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de Manuel
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1897-01-27
+**UnitDateFinal**:: 1897-02-24
+**ScopeContent**:: Filiação - Joaquim Alves Gil e Maria Luísa
+Naturalidade - Cabeçudos
+Data de nascimento - 1877-08-19
+Profissão - Lavrador
+Estado civil - Solteiro
+Residência - Cabeçudos
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD9482
+**LangMaterial**:: Português
+**PhysLoc**:: f. 36v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=9482

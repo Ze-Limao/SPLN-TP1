@@ -1,0 +1,14 @@
+====== 20231 - UI - Registo de correspondência recebida ======
+
+**Parent**:: 20217
+**RootParent**:: 7651
+**UnitTitle**:: Registo de correspondência recebida
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1937-01-02
+**UnitDateFinal**:: 1938-07-28
+**ScopeContent**:: Termo de abertura impresso: “Ha de servir êste livro, nos termos do nº9 do artigo 120 do Código Administrativo, se registar a correspondência recebida na Câmara Municipal…”. Contém dados: nº de entrada, número do ofício, data do ofício, data da receção, designação da entidade expedidora, extracto do conteúdo, observações. Registos de entrada de correspondência até à página 48, as outras folhas em branco.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20231
+**LangMaterial**:: Português
+**PhysLoc**:: 579
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20231

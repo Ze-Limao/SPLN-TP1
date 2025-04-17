@@ -1,0 +1,15 @@
+====== 25012 - UI - Livro de visitantes ======
+
+**Parent**:: 20365
+**RootParent**:: 20342
+**UnitTitle**:: Livro de visitantes
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1902-03-19
+**UnitDateFinal**:: 1932-08-01
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD25012
+**LangMaterial**:: Português
+**PhysLoc**:: AHBVF 115
+depósito 3, estante 11
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=25012

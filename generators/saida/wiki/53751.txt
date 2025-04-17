@@ -1,0 +1,25 @@
+====== 53751 - SR - Diversos ======
+
+**Parent**:: 25851
+**RootParent**:: 25851
+**UnitTitle**:: Diversos
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1944-04-17
+**UnitDateFinal**:: 2011-08-02
+**ScopeContent**:: Série constituída por peças escritas em A4 e Peças desenhadas em folhas de grandes formatos. Nesta série encontram-se um conjunto diverso de Peças escritas e desenhadas que não encontram lugar nas séries anteriores.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD53751
+**LangMaterial**:: Português
+**PhysLoc**:: JG
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=53751
+
+===== Filhos =====
+  * [[54055.txt|54055 - DC - Ofício, informação e nota sobre o revestimento de azulejos na galeria da Câmara]]
+  * [[54058.txt|54058 - DC - Programa Reconstrução do edifício dos Paços do Concelho de Vila Nova de Famalicão]]
+  * [[54062.txt|54062 - DC - Mostruário de materiais aplicados no mobiliário “Foc” da empresa Regisconta]]
+  * [[54063.txt|54063 - DC - Catálogos de materiais da empresa Metalúrgica da Longra Limitada]]
+  * [[54064.txt|54064 - DC - Documentos sobre a requisição do Projeto Januário Godinho - Câmara Municipal de V.N. de Famalicão]]
+  * [[54065.txt|54065 - DC - Anteprojecto para os novos Paços do Concelho de Macedo de Cavaleiros]]
+  * [[54066.txt|54066 - DC - Processo de compra de mobiliário para sub-delegado de Saúde]]

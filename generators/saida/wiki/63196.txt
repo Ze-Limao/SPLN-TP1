@@ -1,0 +1,19 @@
+====== 63196 - DC - Registo do recenseamento militar de António ======
+
+**Parent**:: 9184
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1885-01-31
+**UnitDateFinal**:: 1885-03-28
+**ScopeContent**:: Filiação - Manuel Pereira da Cunha e Florinda de Azevedo Dias, ele na freguesia e ela falecida
+Naturalidade - Bougado S. Martinho, Santo Tirso
+Morada - Ribeirão
+Data de nascimento - 1864-03-04
+Emprego - Lavoura
+Estado - Casado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD63079
+**LangMaterial**:: Português
+**PhysLoc**:: Fl. 21v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=63196

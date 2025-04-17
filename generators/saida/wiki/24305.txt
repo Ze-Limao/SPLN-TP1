@@ -1,0 +1,16 @@
+====== 24305 - DC - Carta ======
+
+**Parent**:: 21062
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1925-06-07
+**UnitDateFinal**:: 1925-06-07
+**ScopeContent**:: António Cabral agradece o modo como foi recebido no Vinhal e deseja as melhoras do reumatismo. Demonstra contentamento por JAM ter gostado do último livro “Tempos de Coimbra: memórias de estudante” (Coimbra: Coimbra Editora, 1925). Carta manuscrita assinada, Lisboa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24305
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 141 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24305

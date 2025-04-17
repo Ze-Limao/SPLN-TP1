@@ -1,0 +1,17 @@
+====== 65666 - DC - Documento judicial sobre o Mosteiro de Arnoso entre João Machado de Melo Pinheiro e Figueira e António Martins de Oliveira ======
+
+**Parent**:: 54273
+**RootParent**:: 31258
+**UnitTitle**:: Documento judicial sobre o Mosteiro de Arnoso entre João Machado de Melo Pinheiro e Figueira e António Martins de Oliveira
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1827-12-11
+**UnitDateFinal**:: 1834-08-05
+**ScopeContent**:: Manuscrito com folhas cosidas. Este documento estava na “Caixa 12”, que contém CP 3800 a CP 3826 embrulhados em jornais do ano 1936.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54347
+**LangMaterial**:: Português
+**PhysLoc**:: CP 3809 - cx. 28
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=65666

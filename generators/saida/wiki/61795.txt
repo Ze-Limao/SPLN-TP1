@@ -1,0 +1,16 @@
+====== 61795 - DC - Quinquagésimo aniversário do Rotary Club de Guimarães 50 anos de serviço 1948-1998 ======
+
+**Parent**:: 61781
+**RootParent**:: 60551
+**UnitTitle**:: Quinquagésimo aniversário do Rotary Club de Guimarães 50 anos de serviço 1948-1998
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1998
+**UnitDateFinal**:: 1998
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD61435
+**LangMaterial**:: Português
+**PhysLoc**:: RCF 464 - cx. 11
+depósito 3, estante 5
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61795

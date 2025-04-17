@@ -1,0 +1,17 @@
+====== 97398 - DC - Convite da Comissão do concelho da delegação da Junta Patriótica do Norte para reunião em Famalicão em 26 de março de 1916 ======
+
+**Parent**:: 55154
+**RootParent**:: 31258
+**UnitTitle**:: Convite da Comissão do concelho da delegação da Junta Patriótica do Norte para reunião em Famalicão em 26 de março de 1916
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1916-03-26
+**UnitDateFinal**:: 1916-03-26
+**ScopeContent**:: Convite da Comissão impresso com minuta de resposta de Vicente, com envelope.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56610
+**LangMaterial**:: Português
+**PhysLoc**:: CP 12830 - cx. 78
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=97398

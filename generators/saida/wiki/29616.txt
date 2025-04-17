@@ -1,0 +1,11 @@
+====== 29616 - SSR - Tertúlia com Pedro Cabrita Reis ======
+
+**Parent**:: 29596
+**RootParent**:: 29618
+**UnitTitle**:: Tertúlia com Pedro Cabrita Reis
+**DescriptionLevel**:: SSR
+**UnitDateInitial**:: 2017-01-11
+**UnitDateFinal**:: 2017-01-11
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29616
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29616

@@ -1,0 +1,19 @@
+====== 34428 - DC - Registo do recenseamento militar de António Machado ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de António Machado
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-06-07
+**UnitDateFinal**:: 1873-06-07
+**ScopeContent**:: Naturalidade - Santo Tirso
+Data de nascimento - 1854-06-08
+Filiação - Francisco Machado e Rita Carneiro
+Profissão - 
+Estado - 
+Morada - Bairro
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34428
+**LangMaterial**:: Português
+**PhysLoc**:: 118v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34428

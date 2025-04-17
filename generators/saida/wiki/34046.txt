@@ -1,0 +1,19 @@
+====== 34046 - DC - Registo do recenseamento militar de João da Rocha ======
+
+**Parent**:: 9173
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João da Rocha
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1873-02-01
+**UnitDateFinal**:: 1873-04-09
+**ScopeContent**:: Naturalidade - Oliveira Santa Maria
+Data de nascimento - 1852-07-09
+Filiação - Joaquim da Rocha e Maria Pereira
+Profissão - Lavoura
+Estado - Casado
+Morada - Oliveira Santa Maria
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD34046
+**LangMaterial**:: Português
+**PhysLoc**:: 28v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=34046

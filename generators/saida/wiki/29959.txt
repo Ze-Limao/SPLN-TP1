@@ -1,0 +1,16 @@
+====== 29959 - DC - Carta ======
+
+**Parent**:: 21347
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1880
+**UnitDateFinal**:: 1910
+**ScopeContent**:: Carta manuscrita assinada, de Cascais. Carta do dia 21 de outubro sem menção ao ano.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD29959
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 1257 - cx. 13
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=29959

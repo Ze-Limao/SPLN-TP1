@@ -1,0 +1,17 @@
+====== 66777 - DC - Nascimento da Grácia. 17 maio de 1900 ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Nascimento da Grácia. 17 maio de 1900
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1900-05-17
+**UnitDateFinal**:: 1900
+**ScopeContent**:: Papel do maço que contém correspondência CP 2042 a CP 3056.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54482
+**LangMaterial**:: Português
+**PhysLoc**:: CP 2041 - cx. 14
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=66777

@@ -1,0 +1,15 @@
+====== 60283 - UI - Christine ======
+
+**Parent**:: 31335
+**RootParent**:: 31258
+**UnitTitle**:: Christine
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1920
+**UnitDateFinal**:: 1920
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD48477
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=60283
+
+===== Filhos =====
+  * [[60284.txt|60284 - DC - Carta]]
+  * [[60285.txt|60285 - DC - Carta]]

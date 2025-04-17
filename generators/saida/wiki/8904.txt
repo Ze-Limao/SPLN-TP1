@@ -1,0 +1,18 @@
+====== 8904 - DC - Termo do exame de Augusto de Araújo Alves ======
+
+**Parent**:: 8667
+**RootParent**:: 7651
+**UnitTitle**:: Termo do exame de Augusto de Araújo Alves
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1894-07-20
+**UnitDateFinal**:: 1894-07-20
+**ScopeContent**:: Grau - Elementar
+Idade - 10
+Filiação - Francisco de Araújo Alves
+Naturalidade - Seide S. Paio
+Classificação - Distinto
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8904
+**LangMaterial**:: Português
+**PhysLoc**:: f. 61
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8904

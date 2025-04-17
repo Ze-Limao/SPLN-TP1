@@ -1,0 +1,20 @@
+====== 21075 - UI - António Teixeira de Queirós Botelho de Castro e Vasconcelos ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: António Teixeira de Queirós Botelho de Castro e Vasconcelos
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1905-11-06
+**UnitDateFinal**:: 1905-12-09
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21075
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 266, 267, 268, 269
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21075
+
+===== Filhos =====
+  * [[24833.txt|24833 - DC - Carta]]
+  * [[24834.txt|24834 - DC - Carta]]
+  * [[24835.txt|24835 - DC - Carta]]
+  * [[24836.txt|24836 - DC - Carta]]

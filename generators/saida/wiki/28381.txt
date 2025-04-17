@@ -1,0 +1,24 @@
+====== 28381 - SR - História agrícola ======
+
+**Parent**:: 28291
+**RootParent**:: 27963
+**UnitTitle**:: História agrícola
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1884
+**UnitDateFinal**:: 1907
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD28381
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=28381
+
+===== Filhos =====
+  * [[28382.txt|28382 - DC - Conjunto de notas “Artigo Apropriação da terra e classes"]]
+  * [[28388.txt|28388 - DC - Conjunto "Notas sobre várias plantas”]]
+  * [[28401.txt|28401 - DC - Conjunto de notas sobre mato - sivicultura]]
+  * [[28414.txt|28414 - DC - Notas sobre gado e questões relativas]]
+  * [[28423.txt|28423 - DC - Notas sobre propriedade]]
+  * [[28430.txt|28430 - DC - Notas várias]]
+  * [[28437.txt|28437 - DC - Notas sobre a vinha]]
+  * [[28444.txt|28444 - DC - Notas e legislação sobre propriedades]]
+  * [[28452.txt|28452 - DC - Notas sobre cereais]]
+  * [[29884.txt|29884 - DC - Extractos de vários autores]]
+  * [[97456.txt|97456 - DC - Caderno com notas sobre Vimioso]]

@@ -1,0 +1,15 @@
+====== 99511 - UI - Frederico Leite ======
+
+**Parent**:: 99060
+**RootParent**:: 60695
+**UnitTitle**:: Frederico Leite
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1917-03-09
+**UnitDateFinal**:: 1917-03-09
+**ScopeContent**:: Vila Nova de Gaia, Casa da Fonte Santa.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD99061
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=99511
+
+===== Filhos =====
+  * [[99512.txt|99512 - DC - Carta]]

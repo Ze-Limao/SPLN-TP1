@@ -1,0 +1,20 @@
+====== 20679 - DC - Registo do recenseamento militar de João ======
+
+**Parent**:: 9189
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de João
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1890-01-21
+**UnitDateFinal**:: 1890-02-25
+**ScopeContent**:: Freguesia - Abade de Vermoim
+Filiação - António da Costa Azevedo e Narcisa da Costa
+Naturalidade - Abade de Vermoim
+Data de nascimento - 1870-06-27
+Emprego - Criado de servir
+Estado - Solteiro
+Residência - Mouquim
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20679
+**LangMaterial**:: Português
+**PhysLoc**:: fl. 57v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20679

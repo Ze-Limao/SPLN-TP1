@@ -1,0 +1,15 @@
+====== 20154 - SR - Registo das guias conferidas para assentamento de praça ======
+
+**Parent**:: 20050
+**RootParent**:: 20048
+**UnitTitle**:: Registo das guias conferidas para assentamento de praça
+**DescriptionLevel**:: SR
+**UnitDateInitial**:: 1893-11-13
+**UnitDateFinal**:: 1896-02-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20154
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20154
+
+===== Filhos =====
+  * [[20155.txt|20155 - UI - Registo das guias conferidas para assentamento de praça]]

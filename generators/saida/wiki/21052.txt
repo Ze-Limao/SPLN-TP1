@@ -1,0 +1,31 @@
+====== 21052 - UI - Alfredo Pons ======
+
+**Parent**:: 20291
+**RootParent**:: 20290
+**UnitTitle**:: Alfredo Pons
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1909
+**UnitDateFinal**:: 1912-09-10
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD21052
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=21052
+
+===== Filhos =====
+  * [[23176.txt|23176 - DC - Bilhete-postal]]
+  * [[23177.txt|23177 - DC - Carta]]
+  * [[23178.txt|23178 - DC - Carta]]
+  * [[23179.txt|23179 - DC - Carta]]
+  * [[23180.txt|23180 - DC - Carta]]
+  * [[23181.txt|23181 - DC - Carta]]
+  * [[23182.txt|23182 - DC - Carta]]
+  * [[23183.txt|23183 - DC - Carta]]
+  * [[23184.txt|23184 - DC - Carta]]
+  * [[23185.txt|23185 - DC - Carta]]
+  * [[23186.txt|23186 - DC - Carta]]
+  * [[23187.txt|23187 - DC - Carta]]
+  * [[23188.txt|23188 - DC - Carta]]
+  * [[23475.txt|23475 - DC - Carta]]
+  * [[23476.txt|23476 - DC - Nota]]

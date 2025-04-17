@@ -1,0 +1,16 @@
+====== 20094 - UI - Registo de correspondência expedida pela 1ª repartição ======
+
+**Parent**:: 20088
+**RootParent**:: 20048
+**UnitTitle**:: Registo de correspondência expedida pela 1ª repartição
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1906-06-08
+**UnitDateFinal**:: 1910-06-13
+**ScopeContent**:: Termo de abertura: "Este livro tem de servir para nelle ser copiada e correspondência dirigida ao Excellentissimo Governador Civil deste Districto…”.
+O conteúdo da correspondência está resumido.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD20094
+**LangMaterial**:: Português
+**PhysLoc**:: AC 111
+depósito 2, estante 9 e 10
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=20094

@@ -1,0 +1,17 @@
+====== 80172 - DC - Minutas da oficial correspondência com Ministro Wencelau de Lima ======
+
+**Parent**:: 54481
+**RootParent**:: 31258
+**UnitTitle**:: Minutas da oficial correspondência com Ministro Wencelau de Lima
+**DescriptionLevel**:: DC
+**UnitDateInitial**:: 1904-02-13
+**UnitDateFinal**:: 1904-05-04
+**ScopeContent**:: Maço de minutas de correspondência com Wenceslau de Lima, de Berlim.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD56485
+**LangMaterial**:: Francês
+**PhysLoc**:: CP 12641 a 12649 - cx. 75
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80172

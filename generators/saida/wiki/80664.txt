@@ -1,0 +1,15 @@
+====== 80664 - UI - Processo nº 39-A ======
+
+**Parent**:: 80074
+**RootParent**:: 60546
+**UnitTitle**:: Processo nº 39-A
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1978-03-28
+**UnitDateFinal**:: 1980-01-16
+**ScopeContent**:: Junto com Autos de Execução Sumária nº 39 e Autos de Caução nº 39/B/78.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD79965
+**LangMaterial**:: Português
+**PhysLoc**:: TTB-VNF 289 - cx. 15
+depósito 3, estante 12
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=80664

@@ -1,0 +1,19 @@
+====== 61224 - UI - Miguel Machado ======
+
+**Parent**:: 60924
+**RootParent**:: 60550
+**UnitTitle**:: Miguel Machado
+**DescriptionLevel**:: UI
+**UnitDateInitial**:: 1935-08-10
+**UnitDateFinal**:: 1955-10-15
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD60925
+**LangMaterial**:: Português
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=61224
+
+===== Filhos =====
+  * [[61225.txt|61225 - DC - Carta]]
+  * [[61260.txt|61260 - DC - Telegrama]]
+  * [[61268.txt|61268 - DC - Cartão de visita]]
+  * [[61293.txt|61293 - DC - Carta]]
+  * [[61294.txt|61294 - DC - Bilhete-postal]]

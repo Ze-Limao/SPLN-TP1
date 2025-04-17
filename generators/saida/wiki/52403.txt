@@ -1,0 +1,18 @@
+====== 52403 - DC - Registo do recenseamento militar de José Afonso Guimarães ======
+
+**Parent**:: 9169
+**RootParent**:: 7651
+**UnitTitle**:: Registo do recenseamento militar de José Afonso Guimarães
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1869-02-04
+**UnitDateFinal**:: 1869-03-31
+**ScopeContent**:: Data de nascimento - 1848-03-14
+Filiação - António Afonso e Joana Rosa
+Naturalidade - Aves
+Profissão - Caixeiro
+Residência - Fafe
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD52403
+**LangMaterial**:: Português
+**PhysLoc**:: 3v
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=52403

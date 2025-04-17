@@ -1,0 +1,16 @@
+====== 24105 - DC - Carta ======
+
+**Parent**:: 21061
+**RootParent**:: 20290
+**UnitTitle**:: Carta
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1915-11-09
+**UnitDateFinal**:: 1915-11-09
+**ScopeContent**:: António Barbosa de Azevedo Falcão dirige-se ao tio e à tia. Informa que foi falar com o Presidente da Câmara de Arcos de Valdevez  sobre a homenagem a Camilo e que este se mostrou muito interessado pois Camilo foi um escritor de mérito. Carta manuscrita assinada, Arcos de Valdevez.
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD24105
+**LangMaterial**:: Português
+**PhysLoc**:: JAM 104 - cx. 2
+depósito 3, estante 7
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=24105

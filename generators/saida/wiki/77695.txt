@@ -1,0 +1,17 @@
+====== 77695 - DC - Sentença cível  de força do autor Paulo Pinto de Magalhães morador da sua quinta de Refalcão contra os Re. Francisco Gomes e sua mulher e sua filha e seu genro Vicente da Silva todos do lugar das Terças ======
+
+**Parent**:: 54473
+**RootParent**:: 31258
+**UnitTitle**:: Sentença cível  de força do autor Paulo Pinto de Magalhães morador da sua quinta de Refalcão contra os Re. Francisco Gomes e sua mulher e sua filha e seu genro Vicente da Silva todos do lugar das Terças
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1773
+**UnitDateFinal**:: 1773
+**ScopeContent**:: Folhas manuscritas cosidas, com anotações do Abade de Tagilde com o título "Sentença pela qual os das Terças são obrigados a paga à casa de Refalcão seis alqueires de milhão impostos no Campo da Levada, sito na freguesia de S. Tiago da Faia 1773".
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD54364
+**LangMaterial**:: Português
+**PhysLoc**:: CP 4035 - cx. 30
+depósito 3, estante 9 e 10
+**AccessRestrict**:: Comunicável, sem restrições legais.
+**UseRestrict**:: A reprodução de documentos encontra-se sujeita a algumas restrições tendo em conta o tipo dos documentos, o seu estado de conservação, o fim a que se destina a reprodução.
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=77695

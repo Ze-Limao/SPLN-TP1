@@ -1,0 +1,18 @@
+====== 8511 - DC - Manuel Pereira Sampaio Júnior ======
+
+**Parent**:: 8157
+**RootParent**:: 7651
+**UnitTitle**:: Manuel Pereira Sampaio Júnior
+**DescriptionLevel**:: D
+**UnitDateInitial**:: 1887-07-23
+**UnitDateFinal**:: 1887-07-23
+**ScopeContent**:: Grau - Elementar
+Idade - 11
+Filiação - Manuel Pereira Sampaio
+Naturalidade - Lagoa
+Classificação - Adiado
+**Repository**:: Município de Vila Nova de Famalicão - Arquivo Municipal Alberto Sampaio
+**Barcode**:: UD8511
+**LangMaterial**:: Português
+**PhysLoc**:: f. 42
+**IdentifierUrl**:: http://www.arquivoalbertosampaio.org/details?id=8511
