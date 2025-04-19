@@ -12,19 +12,20 @@ NIVEIS = {
     "DC": "DC"
 }
 
-def obter_info2(record):
-    ns = {'ns1': 'http://schemas.datacontract.org/2004/07/Data'}
-    def get(field):
+def get_field(field):
         el = record.find(f'.//ns1:{field}', namespaces=ns)
         return el.text.strip() if el is not None and el.text else None
 
-    id_ = get("ID")
-    parent = get("Parent")
-    title = get("UnitTitle")
-    level = get("DescriptionLevel") or "DC"
-    tipo = NIVEIS.get(level, level)
+def obter_info2(record):
+    ns = {'ns1': 'http://schemas.datacontract.org/2004/07/Data'}
+    
+    id_ = get_field("ID")
+    parent = get_field("Parent")
+    title = get_field("UnitTitle")
+    level = get_field("DescriptionLevel") or "DC"
+    tipo = NIVEIS.get_field(level, level)
 
-    dados = {field: get(field) for field in [
+    dados = {field: get_field(field) for field in [
     "ID", "Parent", "RootParent", "UnitTitle", "DescriptionLevel",
     "UnitDateInitial", "UnitDateFinal", "ScopeContent", "Repository", "Barcode",
     "LangMaterial", "PhysLoc", "AccessRestrict", "UseRestrict", "IdentifierUrl",
