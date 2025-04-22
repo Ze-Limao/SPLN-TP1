@@ -4,7 +4,7 @@ import os
 
 # Mapas de níveis arquivísticos para abreviações
 NIVEIS = {
-    "F": "F",
+    "F": "F",                                                   #fundo
     "SC": "SC",
     "SSC": "SSC",
     "SR": "SR",
