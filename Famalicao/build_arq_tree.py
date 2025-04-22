@@ -13,19 +13,23 @@ NIVEIS = {
     "DC": "DC",
 }
 
-def get_field(field):
-    el = record.find(f'.//ns1:{field}', namespaces=ns)
-    return el.text.strip() if el is not None and el.text else None
+#def get(field):
+#    el = record.find(f'.//ns1:{field}', namespaces=ns)
+#    return el.text.strip() if el is not None and el.text else None
 
 def obter_info_nodo(record):
     ns = {'ns1': 'http://schemas.datacontract.org/2004/07/Data'}
     
-    id_ = get_field("ID")
-    parent = get_field("Parent")
-    title = get_field("UnitTitle")
-    level = get_field("DescriptionLevel") or "DC"
+    def get(field):
+        el = record.find(f'.//ns1:{field}', namespaces=ns)
+        return el.text.strip() if el is not None and el.text else None
+
+    id_ = get("ID")
+    parent = get("Parent")
+    title = get("UnitTitle")
+    level = get("DescriptionLevel") or "DC"
     
-    tipo = NIVEIS.get_field(level, level)  # Usa DC como default
+    tipo = NIVEIS.get(level, level)  # Usa DC como default
     return id_, parent, title, tipo
 
 def construir_arvore(records):
