@@ -32,7 +32,7 @@ Geramos também um `output.html` de forma a facilitar a visualização dos dados
 
 ---
 
-## 📄 Ponto 3: Construção da Árvore Arquivística
+## 📄 Ponto 3 e 4: Construção da Árvore Arquivística
 
 ### Ficheiro: `build_arq_tree.py`
 Reconstruímos a estrutura hierárquica dos registos com base nos campos `ID` e `Parent`. Dois dicionários foram usados:
@@ -47,7 +47,7 @@ Reparamos que alguns registos nos records relativamente a Ponte de Lima, estavam
 
 ---
 
-## 🌐 Ponto 4 e 5: Exportação para HTML e Wiki
+## 🌐 Ponto 5 e 6: Exportação para HTML e Wiki
 
 ### Ficheiro: `generatewiki.py`
 
@@ -78,7 +78,7 @@ Para observar o resultado do html basta abrir o ficheiro `saida/html/01_index.ht
 ![Alt text](report_images/wikii.png "Exemplo de um documento wiki")
 ---
 
-## 🔍 Ponto 6: Script de Procura
+## 🔍 Ponto 7: Script de Procura
 
 ### Ficheiro: `search.py`
 
@@ -95,7 +95,7 @@ Existe a opção de escolha pelo utilizador pelos htmls ou por os xmls e a busca
 
 ---
 
-## 🧠 Ponto 7: Extração de Entidades com spaCy
+## 🧠 Ponto 8: Extração de Entidades com spaCy
 
 ### Ficheiro: `ext_ent.py`
 
@@ -113,7 +113,7 @@ Após isso caputaramos as restantes entidades, incluindo nomes e graças ao recu
 
 ---
 
-## 👨‍💼 Ponto 8: Biografias
+## 👨‍💼 Ponto 9: Biografias
 
 ### Ficheiro: `ext_bio.py`
 
@@ -128,7 +128,7 @@ Após isso caputaramos as restantes entidades, incluindo nomes e graças ao recu
 
 ---
 
-## 📆 Ponto 9: Agrupamento Temático
+## 📆 Ponto 10: Agrupamento Temático
 
 ### Ficheiro: `terms.py`
 
