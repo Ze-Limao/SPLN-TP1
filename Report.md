@@ -26,7 +26,9 @@ Isto também permitiu identificar metadados repetidos (como `CountryCode`) que p
 
 Geramos também um `output.html` de forma a facilitar a visualização dos dados, que contém uma tabela com os campos e exemplos de valores. Este ficheiro é gerado com `prettytable` e contém os seguintes campos
 
-##### meter prints
+##### Exemplo
+
+![Alt text](report_images/outputhtml.png "Exemplo de output.html")
 
 ---
 
@@ -51,7 +53,7 @@ Reparamos que alguns registos nos records relativamente a Ponte de Lima, estavam
 
 ### Funções principais:
 - `gerar_pagina_html()` cria uma página HTML para cada registo, apresentando os campos mais relevantes e uma secção com os filhos.
-- `gerar_pagina_wiki()` exporta o mesmo conteúdo em formato Wiki com sintaxe de listas e negrito.
+- `gerar_pagina_wiki()` exporta o mesmo conteúdo em formato Wiki (num txt) com sintaxe de listas e negrito.
 
 O índice HTML é construído de forma recursiva, refletindo fielmente a estrutura hierárquica dos documentos.
 
@@ -63,10 +65,17 @@ As páginas são constituidas pelo título das páginas HTML apresenta apenas o 
 - `Repository`: repositório onde se encontra o documento
 - `BiogHist`: Biografia
 - `CustodHist`: Histórico de Custódia
-- `Filhos`: Finalmente, uma lista com os filhos do documento e ligações ao mesmos para tornar a experiência de navegação mais fluida.
+- `Filhos`: Finalmente, uma lista com os filhos do documento e ligações ao mesmos para tornar a experiência de navegação mais fluida. 
+  
+Para observar o resultado do html basta abrir o ficheiro `saida/html/01_index.html` no browser. Para o wiki, o ficheiro `saida/wiki/<id_desejado.txt>` pode ser aberto com qualquer editor de texto.
 
-#### prints
+#### Exemplo do HTML:
 
+![Alt text](report_images/ararq.png "Primeira página do índice HTML")
+![Alt text](report_images/arqdoc.png "Exemplo da página de um documento")
+
+#### Exemplo do Wiki:
+![Alt text](report_images/wikii.png "Exemplo de um documento wiki")
 ---
 
 ## 🔍 Ponto 6: Script de Procura
@@ -80,6 +89,8 @@ As páginas são constituidas pelo título das páginas HTML apresenta apenas o 
 Existe a opção de escolha pelo utilizador pelos htmls ou por os xmls e a busca "case insensitive" tornam o script simples e eficiente.
 
 #### Exemplo de execução:
+
+![Alt text](report_images/search.png "Exemplo de uma procura na wiki da palavra Barca")
 
 
 ---
@@ -111,7 +122,9 @@ Após isso caputaramos as restantes entidades, incluindo nomes e graças ao recu
 - Se houver `UnitTitle` e `BiogHist`, junta num par (nome, biografia)
 - Escreve uma tabela markdown com padding adaptado à largura do maior nome e remover quebras de linha da biografia para manter a formatação limpa em `biografias.md`.
 
-### exemplosssss
+#### Exemplo:
+
+![Alt text](report_images/bioos.png "Exemplo de uma parte do biografias.md")
 
 ---
 
@@ -134,6 +147,10 @@ Este projeto representou uma experiência técnica e criativa na exploração de
 - Estruturação hierárquica
 - Geração de interfaces de consulta
 - Análise semântica com NLP
+- Criação de biografias e agrupamento temático
+- Exportação para HTML e Wiki
+  
+  
 
 ### Destaques:
 - A árvore HTML como representação visual intuitiva
@@ -142,5 +159,12 @@ Este projeto representou uma experiência técnica e criativa na exploração de
 - A utilização de spaCy para extração de entidades, permitindo uma análise mais profunda dos dados
 - A criação de uma tabela markdown para biografias, facilitando a leitura e compreensão dos dados
 - A capacidade de agrupar registos por temas, permitindo uma navegação mais intuitiva pelos dados
+- A flexibilidade do script de procura, permitindo ao utilizador escolher entre HTML e XML
+- A utilização de `defaultdict` para simplificar a contagem e agrupamento de dados e evitar duplicados
+- A criação de um índice HTML que reflete a estrutura hierárquica dos documentos, facilitando a navegação
+- A utilização de `prettytable` para gerar tabelas legíveis e organizadas, facilitando a visualização dos dados
+- A utilização de `os.listdir()` para percorrer ficheiros de forma eficiente e organizada
+- A utilização de `lxml.etree` para processar XML de forma eficiente e organizada
+- A utilização de `sorted()` para ordenar os filhos por ID, facilitando a legibilidade da árvore
 
 
